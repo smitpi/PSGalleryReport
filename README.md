@@ -48,7 +48,7 @@ This report is sorted by __total__ download count and limited to the first 250 m
 
 ### [Top Authors](psgallery-authors.md)
 
-This is a report of the top 25 module contributors to the PowerShell Gallery. The list *excludes* major vendors such as Microsoft and VMware.  The goal is to highlight individual contributions to the PowerShell Gallery.
+This is a report of the top 25 module contributors to the PowerShell Gallery. The list *excludes* major vendors such as Microsoft and VMware. The exclusion criteria is admittedly arbitrary and subjective. The goal is to highlight individual contributions to the PowerShell Gallery.
 
 ### [Tag List](taglist.txt)
 
