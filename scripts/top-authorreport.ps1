@@ -1,30 +1,39 @@
 #create top author report excluding major vendors
-Param()
+#this script needs offline psgallery data
+Param(
+    [string]$Path = "$env:temp\psgallery.xml",
+    [string]$Title = "Top 25 PSGallery Contributors",
+    [string]$Filename = "psgallery-authors.md"
+)
 
 Write-Host "[$(Get-Date)] Starting $($myinvocation.mycommand)" -ForegroundColor darkcyan
-$tmpData = "$env:temp\psgallery.xml"
-$Title = "Top 25 PSGallery Contributors"
-$Filename = "psgallery-authors.md"
-$intro = "This is a report of contributions to the [PowerShell Gallery](https://powershellgallery.org) from the top 25 module authors. This list excludes major vendors such as Microsoft, Amazon, and VMware. The exclusions are completely subjective. The intent is to use this report to highlight individual contributors to the PowerShell Gallery. Be aware that not every module will have an online repository. This report does not include pre-release modules. Note that internal navigation links may not work in the PDF version of this report."
-$all = Import-clixml $tmpData
 
-#exlude major vendors
-$filter = { $_.author -notmatch '\b(Microsoft|Amazon|Dell|DSC|Oracle|VMware|OneScript|HP|PowerShell Team|CData|BitTitan)\b'}
+#initialize defaults
+$intro = Get-Content C:\scripts\PSGalleryReports\scripts\author-intro.txt
+$all = Import-Clixml $Path
+
+#exlude major vendors. This is subjective and completely arbitrary.
+$filter = { $_.author -notmatch '\b(Microsoft|Amazon|Dell|DSC|Oracle|VMware|OneScript|HP|PowerShell Team|CData|BitTitan|Hewlett-Packard)\b'}
 $query = $all | Where-Object $filter -OutVariable f
 $top = $query| Group-Object author | Sort-Object count -Descending | Select-Object -first 25
 
 $md = [System.Collections.Generic.list[string]]::new()
 $md.Add("# $title`n")
-$md.add("$intro`n")
+$intro | ForEach-Object {$md.add($_)}
+$md.Add("`n")
 
 #insert navigation 4/21/2022 JDH
 $top.foreach({
-    $nav = "+ [$($_.name)](#$($_.name.replace(' ','-').replace('.',''))) ($($_. count))"
+    #modify the name for the bookmark
+    $link = $_.name.replace(' ','-')
+    $link = $link -replace "[\.@]",""
+    Write-Host "[$(Get-Date)] Creating link $link" -ForegroundColor DarkMagenta
+    $nav = "+ [$($_.name)](#$link) ($($_. count))"
     $md.Add($nav)
 })
 
 foreach ($item in $top) {
-    write-host "[$(Get-Date)] Processing author $($item.name)" -ForegroundColor darkcyan
+    Write-Host "[$(Get-Date)] Processing author $($item.name)" -ForegroundColor darkcyan
     $md.Add("`n## $($item.name)`n")
 
     $item.group | Sort-Object PublishedDate -Descending | ForEach-Object {
@@ -49,6 +58,8 @@ Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor da
 <#
 Change log
 
+4/22/2022
+  - updated code to define internal link
 4/21/2022
   - Added navigation to top 25 authors
 4/20/2022
