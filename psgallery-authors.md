@@ -22,7 +22,7 @@ This is a report of contributions to the [PowerShell Gallery](https://powershell
 + [Hewlett-Packard Enterprise](#Hewlett-Packard-Enterprise) (14)
 + [Claudio Spizzi](#Claudio-Spizzi) (14)
 + [James Brundage](#James-Brundage) (14)
-+ [gogbg@outlook.com](#gogbg@outlookcom) (13)
++ [gogbg@outlook.com](#gogbgoutlookcom) (13)
 + [Anton Zimin](#Anton-Zimin) (12)
 + [Chris Speers](#Chris-Speers) (12)
 + [Francois-Xavier Cat](#Francois-Xavier-Cat) (12)
