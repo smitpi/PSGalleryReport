@@ -9,4 +9,4 @@ $splat = @{
     Credential = $env:username
 }
 
-Register-scheduledjob @splat
+Register-Scheduledjob @splat

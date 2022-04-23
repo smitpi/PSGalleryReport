@@ -14,9 +14,17 @@ $tmpData = "$env:temp\psgallery.xml"
 
 if (-Not $Offline) {
     Try {
-        #save an offline file of all modules and use that for the reports
-        Write-Host "[$(Get-Date)] Saving offline data to $tmpData" -ForegroundColor cyan
-        Find-Module -Repository PSGallery -ErrorAction Stop | Export-Clixml -Path $tmpData
+        #verify PwoerShellGallery is online
+        Write-Host "[$(Get-Date)] Testing PowerShellGallery.com"
+        $test = Invoke-WebRequest -Uri https://powershellgallery.com -DisableKeepAlive -UseBasicParsing -ErrorAction Stop
+        if ($test.statuscode -eq 200) {
+            #save an offline file of all modules and use that for the reports
+            Write-Host "[$(Get-Date)] Saving offline data to $tmpData" -ForegroundColor cyan
+            Find-Module -Repository PSGallery -ErrorAction Stop | Export-Clixml -Path $tmpData
+        }
+        else {
+            Throw "PowerShellGallery.com is not available. Status code $($test.statuscode),"
+        }
     }
     Catch {
         Throw $_
@@ -58,6 +66,9 @@ Write-Host "[$(Get-Date)] Ending c:\scripts\psgalleryreport\run.ps1" -Foreground
 
 <#
 Change Log
+
+4/23/2022
+  Added test for PowerShellGallery.com
 
 4/20/2022
   Added top author report
