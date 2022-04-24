@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, April 23, 2022 2:06:53 PM UTC
+Updated: Sunday, April 24, 2022 10:01:49 AM UTC
 
 "interactive
 .bat
@@ -72,7 +72,6 @@ accesscontrol
 access-control
 accesscontroldsc
 accesspoint
-access-points
 accessrights
 accesstoken
 accord
@@ -118,6 +117,7 @@ adal
 adapter
 adaptivecards
 adb
+adc
 adcs
 add
 addin
@@ -238,6 +238,7 @@ amateur-data-interchange-format
 amateurradio
 amateur-radio
 amazon
+amazonwebservices
 amend
 ami
 amp
@@ -492,6 +493,7 @@ azd
 azdisk
 azdo
 azereo
+azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
@@ -534,6 +536,7 @@ azuredevops_security
 azuredevopsserver
 azuredns
 azurefilesync
+azure-forensics
 azurefunctionapp
 azurefunctions
 azure-functions
@@ -555,6 +558,7 @@ azurerm
 azurerms
 azurerunasconnection
 azuresearch
+azuresearcher
 azuresecuritycenter
 azuresentinel
 azureservicebus
@@ -676,7 +680,6 @@ bladeserver
 blaze
 blob
 'blob storage'
-blobstorage
 block
 blockchain
 block-kit
@@ -888,6 +891,7 @@ chef-compliance
 chefconf2016
 chef-server
 chenxizhang
+cherwell
 chi
 china
 choco
@@ -992,6 +996,7 @@ cloud-computing
 cloudendure
 cloudevents
 cloudflare
+cloudforensics
 cloudformation
 cloudfront
 cloudgovernance
@@ -1027,6 +1032,7 @@ cms
 cmsiteconfig
 cmsmessage
 cmtrace
+cmwt
 cns
 coa
 cockroachdb
@@ -1554,6 +1560,7 @@ dig
 digikam
 digital
 digitalforensics
+digital-forensics
 digitalocean
 digitaltwins
 dilbert
@@ -1638,6 +1645,7 @@ dnssuffix
 dnvm
 doc
 docfx
+dock
 docker
 docker-compose
 dockerfile
@@ -1645,6 +1653,7 @@ docker-image
 docker-machine
 dockerswarm
 docker-volumes
+docking
 docs
 document
 documentation
@@ -2003,6 +2012,7 @@ exportteams
 extend
 extended
 extendedevents
+extendedproperty
 extensibility
 extension
 extensionmethods
@@ -2076,7 +2086,6 @@ filereplication
 files
 'files
 filesecurity
-fileserver
 file-server
 fileserverresourcemanager
 fileshare
@@ -2290,7 +2299,6 @@ getfirmwaretype
 get-firmwaretype
 get-history
 get-openfile
-get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2466,6 +2474,7 @@ hcx
 hdfs
 hdinsight
 header
+headhunter
 health
 health_checks
 healthbot
@@ -2849,6 +2858,7 @@ ivb
 ivdc
 iwi
 j
+j81-blog
 japanese
 jar
 jav
@@ -3084,6 +3094,7 @@ localization
 location
 locationbasedservices
 lock
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3272,7 +3283,6 @@ mde
 mdop
 mdt
 mdx
-me4024
 mean
 measure
 measure-process
@@ -3343,7 +3353,6 @@ microsoftazure
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
-microsoftendpointmanager
 microsoftexchangeserver
 microsoftgraph
 microsoft-graph
@@ -3513,6 +3522,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myitprocess
 myjson
 myjson.com
 myob
@@ -3541,6 +3551,7 @@ nbi
 ncal
 n-central
 ndes
+nebulon
 nec-infrared-transmission-protocol
 nederland
 nedyalkov
@@ -3702,7 +3713,6 @@ object
 objectid
 objectstorage
 objecttree
-obs
 observeit
 oce
 oci
@@ -3762,6 +3772,7 @@ onedrive
 onedriveforbusiness
 oneget
 oneidentity
+onelogin
 oneloginapi
 onenote
 onestools
@@ -3793,7 +3804,6 @@ open-ai
 openapi
 opendata
 openedge
-openfiles
 openhere
 openidconnect
 openinghours
@@ -3926,7 +3936,6 @@ parool
 parquet
 parse
 parser
-parsing
 partition
 partitions
 partner
@@ -4182,6 +4191,7 @@ powershelltemplate
 powershell-terminal
 powershell-terminal-copilot
 powershelltypeaccelerators
+powershellv5
 powerstig
 powerstore
 powertab
@@ -4444,6 +4454,7 @@ public-transport
 publish
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -4552,7 +4563,6 @@ rdb
 rdbms
 rdc
 rdcman
-rdcmanager
 rdfe
 rdg
 rdl
@@ -4579,6 +4589,7 @@ record
 recording
 recovery
 recoveryservices
+recruiter
 recrutch
 recurse
 recursivefilesandfoldersdownload
@@ -4834,7 +4845,6 @@ saml psmodule
 saml2
 sample
 sampler
-san
 sandbox
 sanitization
 sanitizer
@@ -4844,8 +4854,6 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
-sasdatasets
-sasxpt
 satirical
 save
 savedcreds
@@ -5013,7 +5021,6 @@ sensitive
 sensitivity
 sensor
 sensors
-sensu
 sentinel
 sentinelone
 sep
@@ -5064,7 +5071,6 @@ set-alias
 setbios
 set-githubsecrets
 set-location
-set-openfiles
 set-pass
 set-psbreakpoint
 set-psenv
@@ -5200,7 +5206,9 @@ sms
 smtp
 smtpaddressupdate psmodule
 smtpsecure
+snap
 snapchat
+snapping
 snapshot
 snapshots
 snippet
@@ -5382,6 +5390,7 @@ stat
 state
 static
 staticanalysis
+statichtmlsites
 statistical
 statistics
 stats
@@ -5407,8 +5416,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stop
 storablecolortheme
 storage
@@ -5577,7 +5584,6 @@ taskmanagement
 task-runner
 tasks
 taskscheduler
-taxjar
 tcp
 tcp/ip
 tcpip
@@ -5614,6 +5620,7 @@ template
 template-engine
 templates
 templating
+temporary
 tenable
 tenable.sc
 tenant
@@ -5661,7 +5668,6 @@ textwrapping
 tfe
 tfs
 tfscmdlets
-tftd
 tftp
 tfvc
 thecrushingemptinessofquotidianexistence
@@ -5673,7 +5679,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -5681,6 +5686,8 @@ threadjob
 threads
 threadsanitizer
 threat
+threathunting
+threat-hunting
 threatintelligence
 throttle
 thumbprint
@@ -5774,7 +5781,6 @@ trevor
 trevorsullivan
 triangle
 trigger
-triodos
 tripunkt
 troubleshoot
 troubleshooting
@@ -5911,6 +5917,7 @@ unicode
 unidesk
 unifi
 unified
+unifiedauditlog
 unifiedlabeling
 uninstall
 uninstaller
@@ -6254,7 +6261,6 @@ webservice
 webservices
 website
 websites
-websocket
 websockets
 websphere
 websphereappserver
@@ -6371,7 +6377,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wkhtmltopdf
 wlan
