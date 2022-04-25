@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, April 24, 2022 10:01:49 AM UTC
+Updated: Monday, April 25, 2022 10:03:15 AM UTC
 
 "interactive
 .bat
@@ -72,6 +72,7 @@ accesscontrol
 access-control
 accesscontroldsc
 accesspoint
+access-points
 accessrights
 accesstoken
 accord
@@ -680,6 +681,7 @@ bladeserver
 blaze
 blob
 'blob storage'
+blobstorage
 block
 blockchain
 block-kit
@@ -2086,6 +2088,7 @@ filereplication
 files
 'files
 filesecurity
+fileserver
 file-server
 fileserverresourcemanager
 fileshare
@@ -2299,6 +2302,7 @@ getfirmwaretype
 get-firmwaretype
 get-history
 get-openfile
+get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -3283,6 +3287,7 @@ mde
 mdop
 mdt
 mdx
+me4024
 mean
 measure
 measure-process
@@ -3353,6 +3358,7 @@ microsoftazure
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
+microsoftendpointmanager
 microsoftexchangeserver
 microsoftgraph
 microsoft-graph
@@ -3713,6 +3719,7 @@ object
 objectid
 objectstorage
 objecttree
+obs
 observeit
 oce
 oci
@@ -3804,10 +3811,12 @@ open-ai
 openapi
 opendata
 openedge
+openfiles
 openhere
 openidconnect
 openinghours
 openport
+openscad
 opensourceinitiative
 openssh
 open-ssh
@@ -3936,6 +3945,7 @@ parool
 parquet
 parse
 parser
+parsing
 partition
 partitions
 partner
@@ -4563,6 +4573,7 @@ rdb
 rdbms
 rdc
 rdcman
+rdcmanager
 rdfe
 rdg
 rdl
@@ -4845,6 +4856,7 @@ saml psmodule
 saml2
 sample
 sampler
+san
 sandbox
 sanitization
 sanitizer
@@ -4854,6 +4866,8 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
+sasdatasets
+sasxpt
 satirical
 save
 savedcreds
@@ -5021,6 +5035,7 @@ sensitive
 sensitivity
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sep
@@ -5071,6 +5086,7 @@ set-alias
 setbios
 set-githubsecrets
 set-location
+set-openfiles
 set-pass
 set-psbreakpoint
 set-psenv
@@ -5416,6 +5432,8 @@ stingar
 stock
 stockcharts
 stocks
+stoicism
+stoics
 stop
 storablecolortheme
 storage
@@ -5584,6 +5602,7 @@ taskmanagement
 task-runner
 tasks
 taskscheduler
+taxjar
 tcp
 tcp/ip
 tcpip
@@ -5668,6 +5687,7 @@ textwrapping
 tfe
 tfs
 tfscmdlets
+tftd
 tftp
 tfvc
 thecrushingemptinessofquotidianexistence
@@ -5679,6 +5699,7 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -5781,6 +5802,7 @@ trevor
 trevorsullivan
 triangle
 trigger
+triodos
 tripunkt
 troubleshoot
 troubleshooting
@@ -6261,6 +6283,7 @@ webservice
 webservices
 website
 websites
+websocket
 websockets
 websphere
 websphereappserver
@@ -6377,6 +6400,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wkhtmltopdf
 wlan

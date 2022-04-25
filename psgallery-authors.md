@@ -7,31 +7,31 @@ This report does not include pre-release modules and be aware that not every mod
 Internal navigation links may not work in the PDF version of this report.
 
 
-+ [psdevuk](#psdevuk) (88)
++ [psdevuk](#psdevuk) (90)
 + [Texas Roemer](#Texas-Roemer) (62)
-+ [Przemyslaw Klys](#Przemyslaw-Klys) (58)
++ [Przemyslaw Klys](#Przemyslaw-Klys) (59)
 + [Adam Driscoll](#Adam-Driscoll) (50)
 + [Friedrich Weinmann](#Friedrich-Weinmann) (49)
 + [Pawel Wujczyk](#Pawel-Wujczyk) (47)
 + [Marius Storhaug](#Marius-Storhaug) (42)
 + [John.Leyva](#JohnLeyva) (39)
-+ [Jan Hoek](#Jan-Hoek) (32)
-+ [Jeff Hicks](#Jeff-Hicks) (31)
++ [Jan Hoek](#Jan-Hoek) (33)
 + [Michael Haken](#Michael-Haken) (31)
-+ [James Brundage](#James-Brundage) (27)
++ [Jeff Hicks](#Jeff-Hicks) (31)
++ [James Brundage](#James-Brundage) (29)
 + [Gabriel Adrian Samfira Alessandro Pilotti](#Gabriel-Adrian-Samfira-Alessandro-Pilotti) (24)
 + [mkht](#mkht) (23)
 + [Adam Bertram](#Adam-Bertram) (23)
 + [Christos Polydorou](#Christos-Polydorou) (21)
++ [Warren Frame](#Warren-Frame) (21)
 + [Brandon Olin](#Brandon-Olin) (20)
-+ [Warren Frame](#Warren-Frame) (20)
 + [Joel Bennett](#Joel-Bennett) (20)
 + [jakub.pawlowski](#jakubpawlowski) (19)
 + [EPRSBuildTeam](#EPRSBuildTeam) (18)
 + [Shannon Graybrook](#Shannon-Graybrook) (17)
 + [Douglas Finke](#Douglas-Finke) (17)
 + [Roy Ashbrook](#Roy-Ashbrook) (17)
-+ [strike](#strike) (16)
++ [Chrissy LeMaire](#Chrissy-LeMaire) (16)
 
 ## psdevuk
 
@@ -71,6 +71,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **[UniversalDashboard.UDSkillBar 1.0.0](https://psdevuk.github.io/ud-flix/Various-New-Custom-Components/)**  - Skill bar for UD based on https://crisboarna.github.io/react-skillbars/ [*10/04/2020 10:58:41*]
 + **[UniversalDashboard.UDGallery 1.0.1](https://psdevuk.github.io/ud-flix/Various-New-Custom-Components/)**  - A grid photo gallery https://benhowell.github.io/react-grid-gallery/ [*10/04/2020 10:54:22*]
 + **UniversalDashboard.UDSimpleIcon 1.0.1**  - Adds 1400+ Icons to choose from all icons listed on http://simpleicons.org/ [*10/03/2020 18:36:19*]
++ **UniversalDashboard.UDTablerIcon 1.0.1**  - A choice of 800+ icons https://tabler-icons-react.vercel.app/ [*10/03/2020 18:31:35*]
++ **[UniversalDashboard.UDSingleLine 1.0.1](https://psdevuk.github.io/ud-flix/TextArea-Multi-Line-Input/)**  - Dedicated single text line component [*10/02/2020 14:34:37*]
 + **[UniversalDashboard.UDMultiLine 1.0.1](https://psdevuk.github.io/ud-flix/TextArea-Multi-Line-Input/)**  - Dedicated multi text line component [*10/02/2020 14:31:10*]
 + **[UniversalDashboard.GoogleBarChart 1.0.3](https://github.com/psDevUK/New-GoogleBarChart)**  - Google Bar and Column Chart for UniversalDashboard [*09/30/2020 20:02:35*]
 + **UniversalDashboard.UDAvataaar 1.0.0**  - Custom Avatar for UD based on https://getavataaars.com/ [*05/27/2020 19:04:55*]
@@ -205,6 +207,7 @@ Internal navigation links may not work in the PDF version of this report.
 + **[PSWinDocumentation.O365HealthService 1.0.3](https://github.com/EvotecIT/PSWinDocumentation.O365HealthService)**  - Office 365 Health Service [*01/31/2022 16:19:00*]
 + **[Mailozaurr 0.0.24](https://github.com/EvotecIT/MailoZaurr)**  - Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast. [*01/24/2022 17:22:48*]
 + **[PSParseHTML 0.0.20](https://github.com/EvotecIT/PSParseHTML)**  - Module that allows to manipulate, parse, format and optimize HTML, JavaScript and CSS [*01/16/2022 20:21:28*]
++ **WordManager 0.0.1**  - WordManager is a PowerShell module that provides a set of functions for private use. [*01/11/2022 21:38:25*]
 + **[PSWriteWord 1.1.14](https://github.com/EvotecIT/PSWriteWord)**  - Simple project to create Microsoft Word in PowerShell without having Office installed. [*01/11/2022 17:15:37*]
 + **[PSWritePDF 0.0.18](https://github.com/EvotecIT/PSWritePDF)**  - Little project to create, read, modify, split, merge PDF files on Windows, Linux and Mac. [*12/23/2021 08:48:56*]
 + **O365EmailAddressPolicy 0.0.2**  - Office 365 Email Address Policy [*12/21/2021 16:31:38*]
@@ -417,10 +420,10 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[GitHub.Search 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Search [*03/07/2022 21:04:49*]
 + **[GitHub.Repos 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Repos [*03/07/2022 21:04:47*]
 + **[Github.Dependabot 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Dependabot [*03/07/2022 21:04:45*]
-+ **[GitHub.Migrations 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Migrations [*03/07/2022 21:04:42*]
-+ **[GitHub.Orgs 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Orgs [*03/07/2022 21:04:42*]
 + **[GitHub.Branches 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Branches [*03/07/2022 21:04:42*]
 + **[GitHub.Git 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Git [*03/07/2022 21:04:42*]
++ **[GitHub.Migrations 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Migrations [*03/07/2022 21:04:42*]
++ **[GitHub.Orgs 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Orgs [*03/07/2022 21:04:42*]
 + **[GitHub.GitIgnore 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.GitIgnore [*03/07/2022 21:04:41*]
 + **[GitHub.Packages 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Packages [*03/07/2022 21:04:40*]
 + **[GitHub.Reactions 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Reactions [*03/07/2022 21:04:37*]
@@ -431,8 +434,8 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[GitHub.Codespaces 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Codespaces [*03/07/2022 21:04:34*]
 + **[GitHub.Gists 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Gists [*03/07/2022 21:04:34*]
 + **[GitHub.Billing 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Billing [*03/07/2022 21:04:32*]
-+ **[GitHub.Apps 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Apps [*03/07/2022 21:04:32*]
 + **[GitHub.Deployments 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Deployments [*03/07/2022 21:04:32*]
++ **[GitHub.Apps 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Apps [*03/07/2022 21:04:32*]
 + **[GitHub.Webhooks 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Webhooks [*03/07/2022 21:04:30*]
 + **[GitHub.Actions 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Actions [*03/07/2022 21:04:30*]
 + **[GitHub.Users 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Users [*03/07/2022 21:04:29*]
@@ -505,6 +508,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[UncommonSense.Opml 0.0.1](https://github.com/jhoek/UncommonSense.Opml)**  - PowerShell Module for creating OPML documents [*03/27/2022 15:41:07*]
 + **[UncommonSense.PowerShell.BuildUtils 0.0.1](https://github.com/jhoek/UncommonSense.PowerShell.BuildUtils)**  - Utility functions for building and publishing PowerShell modules [*03/24/2022 20:06:00*]
 + **[UncommonSense.Asn 0.0.2](https://github.com/jhoek/UncommonSense.Asn)**  - PowerShell module for ASN Bank investments funds [*03/12/2022 07:17:52*]
++ **[UncommonSense.Triodos 0.0.1](https://github.com/jhoek/UncommonSense.Triodos)**  - PowerShell module for Triodos investments funds [*03/07/2022 17:49:11*]
 + **[UncommonSense.HaarlemsDagblad 0.0.1](https://github.com/jhoek/UncommonSense.HaarlemsDagblad)**  - PowerShell module for listing articles from the Haarlems Dagblad [*03/05/2022 07:48:40*]
 + **[UncommonSense.Parool 0.0.6](https://github.com/jhoek/UncommonSense.Parool)**  - PowerShell module for listing Parool articles [*03/03/2022 22:38:16*]
 + **UncommonSense.Dirkjan 0.0.1**  - PowerShell module for listing Dirkjan cartoons [*02/27/2022 11:05:28*]
@@ -528,40 +532,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[UncommonSense.PowerShell.Utils 1.0.6](https://github.com/jhoek/UncommonSense.PowerShell.Utils)**  - PowerShell utility cmdlets [*11/30/2018 05:46:28*]
 + **[UncommonSense.Powershell.Documentation 0.0.2](https://github.com/jhoek/UncommonSense.PowerShell.Documentation)**  - PowerShell module for converting PowerShell help information to MarkDown [*03/31/2018 12:41:24*]
 + **[UncommonSense.PowerShell.TypeData 1.2.1.40](https://github.com/jhoek/UncommonSense.PowerShell.TypeData)**  - PowerShell module to help build PowerShell type extension files [*03/08/2018 20:32:33*]
-
-## Jeff Hicks
-
-+ **[PSProjectStatus 0.7.0](https://github.com/jdhitsolutions/PSProjectStatus)**  - A set of PowerShell tools for tracking module development status. The module uses a JSON file to create a custom object with information about your module. You can use this internally to track the status of your module including a simple to-do tracker. This module was first described at https://jdhitsolutions.com/blog/powershell/8960/introducing-psprojectstatus/ [*04/13/2022 16:01:48*]
-+ **[WingetTools 1.3.0](https://github.com/jdhitsolutions/WingetTools)**  - A set of PowerShell tools for working with the winget package manager. [*04/11/2022 21:17:10*]
-+ **[PSScriptTools 2.43.0](https://github.com/jdhitsolutions/PSScriptTools)**  - A set of of PowerShell functions designed to enhance your own functions and scripts or to facilitate working in the console. Most of the commanbds should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per-command basis. [*04/04/2022 14:44:41*]
-+ **[MyTickle 3.3.1](https://github.com/jdhitsolutions/myTickle)**  - A PowerShell module with commands for a simple event tickler system using a SQL Server instance as the backend storage. [*03/15/2022 18:50:33*]
-+ **[PSFunctionInfo 1.1.0](https://github.com/jdhitsolutions/PSFunctionInfo)**  - A set of PowerShell commands to add metadata to stand-alone functions. [*03/15/2022 18:40:25*]
-+ **[PSCalendar 2.8.0](https://github.com/jdhitsolutions/PSCalendar)**  - A PowerShell module to display a calendar in the console. [*03/01/2022 15:02:46*]
-+ **[PSFunctionTools 1.0.0](https://github.com/jdhitsolutions/PSFunctionTools)**  - A set of PowerShell commands for managing and automating PowerShell scripts, functions, and modules. [*02/28/2022 19:19:43*]
-+ **[PSClock 1.1.0](https://github.com/jdhitsolutions/PSClock)**  - A set of PowerShell commands for creating and managing a WPF-based clock that runs on your Windows desktop. [*02/23/2022 23:02:49*]
-+ **[PSTeachingTools 4.2.0](https://github.com/jdhitsolutions/PSTeachingTools)**  - A set of commands and tools for teaching PowerShell. [*01/11/2022 14:14:18*]
-+ **[WTToolBox 1.14.0](https://github.com/jdhitsolutions/WTToolbox)**  - A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft. [*01/07/2022 20:02:40*]
-+ **[PSRemoteOperations 4.1.0](https://github.com/jdhitsolutions/PSRemoteOperations)**  - A PowerShell module for executing commands remotely in a non-remoting environment using a shared folder structure such as Dropbox. [*11/17/2021 16:53:06*]
-+ **[PSReleaseTools 1.11.0](https://github.com/jdhitsolutions/PSReleaseTools)**  - A set of commands for working with PowerShell 7 and later releases. [*10/15/2021 15:23:16*]
-+ **[PSTypeExtensionTools 1.9.0](https://github.com/jdhitsolutions/PSTypeExtensionTools)**  - A set of PowerShell tools for working with type extensions. [*08/10/2021 22:48:17*]
-+ **[ISERemoteTab 2.1.0](https://github.com/jdhitsolutions/New-ISERemoteTab)**  - Functions to add new remote tabs in the PowerShell ISE with additional options like SSL. [*07/06/2021 19:03:40*]
-+ **[ADReportingTools 1.3.0](https://github.com/jdhitsolutions/ADReportingTools)**  - A set of PowerShell commands to gather information and create reports from Active Directory. [*04/07/2021 13:21:20*]
-+ **[MemoryTools 1.0.0](https://github.com/jdhitsolutions/MemoryTools)**  - A set of functions for checking, testing and reporting memory usage using WMI and performance counters. [*11/11/2020 23:07:25*]
-+ **[MyTasks 2.4.0](https://github.com/jdhitsolutions/MyTasks/)**  - A tool set for managing tasks or to-do projects in PowerShell. Task data is stored in XML and managed through a PowerShell class. [*10/14/2020 17:29:50*]
-+ **[ScheduledJobTools 2.2.0](https://github.com/jdhitsolutions/scheduledjobtools)**  - A PowerShell module for managing scheduled jobs and their results. [*09/04/2020 14:57:42*]
-+ **[PSChristmas 2.1.0](https://github.com/jdhitsolutions/PSChristmas)**  - a demonstration class-based PowerShell module with a number of Christmas related commands. [*12/24/2019 16:23:39*]
-+ **[PSHyperVTools 0.5.1](https://github.com/jdhitsolutions/PSHyperV)**  - A set of PowerShell tools for working with Hyper-V [*06/26/2019 15:12:57*]
-+ **[ISEScriptingGeek 3.4.1](https://github.com/jdhitsolutions/ISEScriptingGeek)**  - Functions and add-ons for the Windows PowerShell ISE v4.0 and later [*06/24/2019 14:28:11*]
-+ **[PSJsonCredential 2.1.0](https://github.com/jdhitsolutions/PSJsonCredential)**  - A set of commands for exporting and importing PSCredentials to a json file. [*02/20/2019 14:48:14*]
-+ **[PSTimers 0.9.0](https://github.com/jdhitsolutions/pstimers)**  - A set of PowerShell functions to be used as timers and countdown tools. [*01/08/2019 15:22:50*]
-+ **[myreminder 3.2.2](https://github.com/jdhitsolutions/MyReminder)**  - A PowerShell module that uses scheduled jobs as a popup reminder or alerting system. [*10/23/2018 18:09:06*]
-+ **[MyNumber 1.3.1](https://github.com/jdhitsolutions/MyNumber)**  - A demonstration class-based module that creates a number object [*10/23/2018 17:25:41*]
-+ **[WindowsUpdateSetting 0.3.2](https://github.com/jdhitsolutions/WindowsUpdateSetting)**  - A set of PowerShell functions to managing Windows Update settings such as pausing, on Windows 10. [*10/23/2018 17:08:48*]
-+ **[MyUptime 4.2.1](https://github.com/jdhitsolutions/MyUptime)**  - A set of PowerShell commands for displaying uptime, local time and time zone information. [*10/23/2018 16:59:56*]
-+ **[PSReadlineHelper 0.7.0](https://github.com/jdhitsolutions/PSReadlineHelper)**  - PSReadline customizations and helper functions [*10/23/2018 15:47:16*]
-+ **[DNSSuffix 0.4.1](https://github.com/jdhitsolutions/DNSSuffix)**  - This PowerShell module has two simple commands to that work with the registry to either get or set the primary DNS suffix of a computer. [*10/22/2018 20:21:46*]
-+ **[Mylmhost 1.3.0.1](https://github.com/jdhitsolutions/Mylmhost)**  - A set of commands for working with the legacy lmhosts file. [*01/12/2017 21:02:38*]
-+ **[PSPivotTable 2.1.5](https://github.com/jdhitsolutions/PSPivotTable)**  - Convert PowerShell expression results into console-based pivot tables. [*01/12/2017 17:56:55*]
 
 ## Michael Haken
 
@@ -603,15 +573,50 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **[Hyper-VAdministration 1.0.0.1](https://github.com/bamcisnetworks/Hyper-VAdministration)**  - Performs automated tasks to help in the administration of Hyper-V environments. [*01/03/2017 17:16:25*]
 + **DISA_STIG 1.0.0.2**  - Converts DISA STIG xccdf and zip files to usable objects and makes comparisons of STIGs for easy updates to GPOs. [*11/26/2015 14:56:24*]
 
+## Jeff Hicks
+
++ **[PSProjectStatus 0.7.0](https://github.com/jdhitsolutions/PSProjectStatus)**  - A set of PowerShell tools for tracking module development status. The module uses a JSON file to create a custom object with information about your module. You can use this internally to track the status of your module including a simple to-do tracker. This module was first described at https://jdhitsolutions.com/blog/powershell/8960/introducing-psprojectstatus/ [*04/13/2022 16:01:48*]
++ **[WingetTools 1.3.0](https://github.com/jdhitsolutions/WingetTools)**  - A set of PowerShell tools for working with the winget package manager. [*04/11/2022 21:17:10*]
++ **[PSScriptTools 2.43.0](https://github.com/jdhitsolutions/PSScriptTools)**  - A set of of PowerShell functions designed to enhance your own functions and scripts or to facilitate working in the console. Most of the commanbds should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per-command basis. [*04/04/2022 14:44:41*]
++ **[MyTickle 3.3.1](https://github.com/jdhitsolutions/myTickle)**  - A PowerShell module with commands for a simple event tickler system using a SQL Server instance as the backend storage. [*03/15/2022 18:50:33*]
++ **[PSFunctionInfo 1.1.0](https://github.com/jdhitsolutions/PSFunctionInfo)**  - A set of PowerShell commands to add metadata to stand-alone functions. [*03/15/2022 18:40:25*]
++ **[PSCalendar 2.8.0](https://github.com/jdhitsolutions/PSCalendar)**  - A PowerShell module to display a calendar in the console. [*03/01/2022 15:02:46*]
++ **[PSFunctionTools 1.0.0](https://github.com/jdhitsolutions/PSFunctionTools)**  - A set of PowerShell commands for managing and automating PowerShell scripts, functions, and modules. [*02/28/2022 19:19:43*]
++ **[PSClock 1.1.0](https://github.com/jdhitsolutions/PSClock)**  - A set of PowerShell commands for creating and managing a WPF-based clock that runs on your Windows desktop. [*02/23/2022 23:02:49*]
++ **[PSTeachingTools 4.2.0](https://github.com/jdhitsolutions/PSTeachingTools)**  - A set of commands and tools for teaching PowerShell. [*01/11/2022 14:14:18*]
++ **[WTToolBox 1.14.0](https://github.com/jdhitsolutions/WTToolbox)**  - A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft. [*01/07/2022 20:02:40*]
++ **[PSRemoteOperations 4.1.0](https://github.com/jdhitsolutions/PSRemoteOperations)**  - A PowerShell module for executing commands remotely in a non-remoting environment using a shared folder structure such as Dropbox. [*11/17/2021 16:53:06*]
++ **[PSReleaseTools 1.11.0](https://github.com/jdhitsolutions/PSReleaseTools)**  - A set of commands for working with PowerShell 7 and later releases. [*10/15/2021 15:23:16*]
++ **[PSTypeExtensionTools 1.9.0](https://github.com/jdhitsolutions/PSTypeExtensionTools)**  - A set of PowerShell tools for working with type extensions. [*08/10/2021 22:48:17*]
++ **[ISERemoteTab 2.1.0](https://github.com/jdhitsolutions/New-ISERemoteTab)**  - Functions to add new remote tabs in the PowerShell ISE with additional options like SSL. [*07/06/2021 19:03:40*]
++ **[ADReportingTools 1.3.0](https://github.com/jdhitsolutions/ADReportingTools)**  - A set of PowerShell commands to gather information and create reports from Active Directory. [*04/07/2021 13:21:20*]
++ **[MemoryTools 1.0.0](https://github.com/jdhitsolutions/MemoryTools)**  - A set of functions for checking, testing and reporting memory usage using WMI and performance counters. [*11/11/2020 23:07:25*]
++ **[MyTasks 2.4.0](https://github.com/jdhitsolutions/MyTasks/)**  - A tool set for managing tasks or to-do projects in PowerShell. Task data is stored in XML and managed through a PowerShell class. [*10/14/2020 17:29:50*]
++ **[ScheduledJobTools 2.2.0](https://github.com/jdhitsolutions/scheduledjobtools)**  - A PowerShell module for managing scheduled jobs and their results. [*09/04/2020 14:57:42*]
++ **[PSChristmas 2.1.0](https://github.com/jdhitsolutions/PSChristmas)**  - a demonstration class-based PowerShell module with a number of Christmas related commands. [*12/24/2019 16:23:39*]
++ **[PSHyperVTools 0.5.1](https://github.com/jdhitsolutions/PSHyperV)**  - A set of PowerShell tools for working with Hyper-V [*06/26/2019 15:12:57*]
++ **[ISEScriptingGeek 3.4.1](https://github.com/jdhitsolutions/ISEScriptingGeek)**  - Functions and add-ons for the Windows PowerShell ISE v4.0 and later [*06/24/2019 14:28:11*]
++ **[PSJsonCredential 2.1.0](https://github.com/jdhitsolutions/PSJsonCredential)**  - A set of commands for exporting and importing PSCredentials to a json file. [*02/20/2019 14:48:14*]
++ **[PSTimers 0.9.0](https://github.com/jdhitsolutions/pstimers)**  - A set of PowerShell functions to be used as timers and countdown tools. [*01/08/2019 15:22:50*]
++ **[myreminder 3.2.2](https://github.com/jdhitsolutions/MyReminder)**  - A PowerShell module that uses scheduled jobs as a popup reminder or alerting system. [*10/23/2018 18:09:06*]
++ **[MyNumber 1.3.1](https://github.com/jdhitsolutions/MyNumber)**  - A demonstration class-based module that creates a number object [*10/23/2018 17:25:41*]
++ **[WindowsUpdateSetting 0.3.2](https://github.com/jdhitsolutions/WindowsUpdateSetting)**  - A set of PowerShell functions to managing Windows Update settings such as pausing, on Windows 10. [*10/23/2018 17:08:48*]
++ **[MyUptime 4.2.1](https://github.com/jdhitsolutions/MyUptime)**  - A set of PowerShell commands for displaying uptime, local time and time zone information. [*10/23/2018 16:59:56*]
++ **[PSReadlineHelper 0.7.0](https://github.com/jdhitsolutions/PSReadlineHelper)**  - PSReadline customizations and helper functions [*10/23/2018 15:47:16*]
++ **[DNSSuffix 0.4.1](https://github.com/jdhitsolutions/DNSSuffix)**  - This PowerShell module has two simple commands to that work with the registry to either get or set the primary DNS suffix of a computer. [*10/22/2018 20:21:46*]
++ **[Mylmhost 1.3.0.1](https://github.com/jdhitsolutions/Mylmhost)**  - A set of commands for working with the legacy lmhosts file. [*01/12/2017 21:02:38*]
++ **[PSPivotTable 2.1.5](https://github.com/jdhitsolutions/PSPivotTable)**  - Convert PowerShell expression results into console-based pivot tables. [*01/12/2017 17:56:55*]
+
 ## James Brundage
 
++ **[PS3D 0.1](https://github.com/StartAutomating/PS3D)**  - 3D Printing Tools for PowerShell [*04/25/2022 05:47:46*]
++ **[ugit 0.1.9](https://github.com/StartAutomating/ugit)**  - ugit:  Updated Git.
+
+A powerful PowerShell wrapper for git that lets you extend git, automate multiple repos, and use the object pipeline. [*04/25/2022 02:58:02*]
++ **[Piecemeal 0.2.3](https://github.com/StartAutomating/Piecemeal)**  - Easy Extensible Plugins for PowerShell [*04/25/2022 02:11:20*]
++ **[RoughDraft 0.3.3](https://github.com/StartAutomating/RoughDraft)**  - A Fun PowerShell Module for Multimedia [*04/24/2022 21:03:17*]
 + **[HelpOut 0.2.1](https://github.com/StartAutomating/HelpOut)**  - A Helpful Toolkit for Managing PowerShell Help [*04/23/2022 00:19:56*]
 + **[EZOut 1.8.6](https://github.com/StartAutomating/EZOut)**  - Easily Author Rich Format Files to Customize PowerShell Output [*04/19/2022 19:21:01*]
-+ **[Piecemeal 0.2.2](https://github.com/StartAutomating/Piecemeal)**  - Easy Extensible Plugins for PowerShell [*04/13/2022 03:01:58*]
-+ **[RoughDraft 0.3.2](https://github.com/StartAutomating/RoughDraft)**  - A Fun PowerShell Module for Multimedia [*04/13/2022 00:33:53*]
-+ **[ugit 0.1.8](https://github.com/StartAutomating/ugit)**  - ugit:  Updated Git.
-
-A powerful PowerShell wrapper for git that lets you extend git, automate multiple repos, and use the object pipeline. [*04/12/2022 22:44:40*]
 + **[LightScript 0.2.2](https://github.com/StartAutomating/LightScript)**  - Smarter Lighting with PowerShell [*04/09/2022 20:02:29*]
 + **[ScriptDeck 0.4.1](https://github.com/StartAutomating/ScriptDeck)**  - PowerShell Tools for Elgato StreamDeck [*01/30/2022 23:46:35*]
 + **[Irregular 0.6.7](https://github.com/StartAutomating/Irregular)**  - Regular Expressions made Strangely Simple [*01/09/2022 02:32:02*]
@@ -619,6 +624,7 @@ A powerful PowerShell wrapper for git that lets you extend git, automate multipl
 + **[Benchpress 1.3](https://github.com/StartAutomating/Benchpress)**  - Easy Benchmarking with PowerShell [*11/08/2021 02:14:31*]
 + **[Eventful 0.1.4](https://github.com/StartAutomating/Eventful)**  - Easy Eventful Asynchronous Scripting with PowerShell [*11/02/2021 02:14:43*]
 + **[Splatter 0.5.3](https://github.com/StartAutomating/Splatter)**  - Simple Scripts to Supercharge Splatting [*10/17/2021 01:56:04*]
++ **PowRoku 0.3**  - Script your Roku with PowerShell [*09/25/2021 20:49:17*]
 + **[OnQ 0.1.3](https://github.com/StartAutomating/OnQ)**  - Easy Asynchronous Event-Driven Scripting with PowerShell [*04/20/2021 21:57:05*]
 + **[ScriptCop 1.6.1](https://github.com/StartAutomating/ScriptCop)**  - A PowerShell Static Analysis Tool to help your scripts follow the rules. [*08/10/2020 08:45:14*]
 + **[WTX 0.3](https://github.com/StartAutomating/WTX)**  - Windows Terminal Extras | Optimize-WindowsTerminal -with PowerShell [*06/24/2020 04:00:21*]
@@ -742,6 +748,30 @@ provide a standard interface to treat software installers of all types exactly t
 + **CPolydorou.7Z 1.3.1**  - 7Zip Functions [*01/10/2022 09:43:11*]
 + **CPolydorou.DataStructures 1.0.0.3**  - Data structure object types for advanced algorithms and calculations. [*01/07/2022 12:45:26*]
 
+## Warren Frame
+
++ **[PSSlack 1.0.6](https://github.com/RamblingCookieMonster/PSSlack/)**  - PowerShell module for the Slack API [*07/01/2021 00:46:21*]
++ **[BuildHelpers 2.0.16](https://github.com/RamblingCookieMonster/BuildHelpers/)**  - Helper functions for PowerShell CI/CD scenarios. [*12/18/2020 18:32:24*]
++ **Poshbot.Example 0.0.1**  - PoshBot module for a variety of commands [*07/18/2020 17:10:15*]
++ **[PSDepend 0.3.8](https://github.com/RamblingCookieMonster/PSDepend/)**  - PowerShell Dependency Handler [*07/05/2020 00:54:32*]
++ **[PSSQLite 1.1.0](https://github.com/RamblingCookieMonster/PSSQLite)**  - Query SQLite databases [*05/18/2020 13:38:10*]
++ **[TireFire 0.0.5](https://github.com/RamblingCookieMonster/TireFire)**  - Manage notes and tags, with a pluggable back end [*11/21/2019 03:29:04*]
++ **[PSNeo4j 1.0.1](https://github.com/RamblingCookieMonster/PSNeo4j)**  - Simple Neo4j wrapper for Powershell [*08/09/2019 00:34:24*]
++ **[PSPagerDuty 0.0.3](https://github.com/RamblingCookieMonster/PSPagerDuty)**  - Simple PagerDuty PowerShell module [*07/31/2019 16:34:42*]
++ **[PSRT 0.1.7](https://github.com/RamblingCookieMonster/PSRT)**  - Simple PowerShell module for Request Tracker [*01/28/2019 16:19:09*]
++ **[PSSensu 0.0.1](https://github.com/RamblingCookieMonster/PSSensu)**  - Simple PowerShell module for working with the Sensu Go API [*01/09/2019 13:28:13*]
++ **[Dots 0.0.7](https://github.com/RamblingCookieMonster/Dots)**  - PowerShell and Neo4j Based CMDB-lite [*07/12/2018 16:23:13*]
++ **[WFTools 0.1.58](https://github.com/RamblingCookieMonster/PowerShell)**  - Assorted handy, largely unrelated PowerShell functions [*06/04/2018 17:38:18*]
++ **[PSPuppetDB 0.0.3](https://github.com/RamblingCookieMonster/PSPuppetDB)**  - Simple PowerShell module for the PuppetDB API [*05/10/2018 01:36:26*]
++ **[ADGrouper 0.0.1](https://github.com/RamblingCookieMonster/ADGrouper/)**  - PowerShell module to dynamically populate AD groups via yaml [*03/16/2017 01:55:38*]
++ **[Invoke-SqlCmd2 1.6.4](https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/)**  - Invoke-SqlCmd2 [*12/01/2016 02:06:22*]
++ **[pshtmltable 0.0.1](https://github.com/RamblingCookieMonster/PSHTMLTable/)**  - Simplify creating HTML tables [*08/25/2016 20:28:58*]
++ **[PSExcel 1.0.2](https://github.com/RamblingCookieMonster/PSExcel/)**  - Work with Excel without installing Excel [*08/09/2016 13:48:07*]
++ **[PSStackExchange 1.0.3](https://github.com/RamblingCookieMonster/PSStackExchange)**  - PowerShell module to query the StackExchange API [*07/26/2016 22:45:54*]
++ **[PSLDAPQueryLogging 1.0](https://github.com/RamblingCookieMonster/PSLDAPQueryLogging)**  - PowerShell module for diagnostic LDAP query logging [*10/02/2015 23:09:35*]
++ **[PSDiskPart 1.0](https://github.com/RamblingCookieMonster/PSDiskPart)**  - Work with DiskPart [*07/08/2015 02:13:18*]
++ **[SecretServer 1.0](https://github.com/RamblingCookieMonster/SecretServer)**  - Work with Secret Server Web Services and SQL Database [*07/08/2015 01:23:19*]
+
 ## Brandon Olin
 
 + **[Terminal-Icons 0.9.0](https://github.com/devblackops/Terminal-Icons)**  - PowerShell module to add file icons to terminal based on file extension [*01/28/2022 06:41:14*]
@@ -767,29 +797,6 @@ provide a standard interface to treat software installers of all types exactly t
         Active Directory DNS objects via DSC. These resources are designed to be used with POSHOrigin
         as a Infrastructure as Code framework, but can be used natively by standard DSC configurations as well.
         Integration with POSHOrigin is accomplished via a separate Invoke.ps1 script included in the module. [*05/31/2016 19:32:48*]
-
-## Warren Frame
-
-+ **[PSSlack 1.0.6](https://github.com/RamblingCookieMonster/PSSlack/)**  - PowerShell module for the Slack API [*07/01/2021 00:46:21*]
-+ **[BuildHelpers 2.0.16](https://github.com/RamblingCookieMonster/BuildHelpers/)**  - Helper functions for PowerShell CI/CD scenarios. [*12/18/2020 18:32:24*]
-+ **Poshbot.Example 0.0.1**  - PoshBot module for a variety of commands [*07/18/2020 17:10:15*]
-+ **[PSDepend 0.3.8](https://github.com/RamblingCookieMonster/PSDepend/)**  - PowerShell Dependency Handler [*07/05/2020 00:54:32*]
-+ **[PSSQLite 1.1.0](https://github.com/RamblingCookieMonster/PSSQLite)**  - Query SQLite databases [*05/18/2020 13:38:10*]
-+ **[TireFire 0.0.5](https://github.com/RamblingCookieMonster/TireFire)**  - Manage notes and tags, with a pluggable back end [*11/21/2019 03:29:04*]
-+ **[PSNeo4j 1.0.1](https://github.com/RamblingCookieMonster/PSNeo4j)**  - Simple Neo4j wrapper for Powershell [*08/09/2019 00:34:24*]
-+ **[PSPagerDuty 0.0.3](https://github.com/RamblingCookieMonster/PSPagerDuty)**  - Simple PagerDuty PowerShell module [*07/31/2019 16:34:42*]
-+ **[PSRT 0.1.7](https://github.com/RamblingCookieMonster/PSRT)**  - Simple PowerShell module for Request Tracker [*01/28/2019 16:19:09*]
-+ **[Dots 0.0.7](https://github.com/RamblingCookieMonster/Dots)**  - PowerShell and Neo4j Based CMDB-lite [*07/12/2018 16:23:13*]
-+ **[WFTools 0.1.58](https://github.com/RamblingCookieMonster/PowerShell)**  - Assorted handy, largely unrelated PowerShell functions [*06/04/2018 17:38:18*]
-+ **[PSPuppetDB 0.0.3](https://github.com/RamblingCookieMonster/PSPuppetDB)**  - Simple PowerShell module for the PuppetDB API [*05/10/2018 01:36:26*]
-+ **[ADGrouper 0.0.1](https://github.com/RamblingCookieMonster/ADGrouper/)**  - PowerShell module to dynamically populate AD groups via yaml [*03/16/2017 01:55:38*]
-+ **[Invoke-SqlCmd2 1.6.4](https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/)**  - Invoke-SqlCmd2 [*12/01/2016 02:06:22*]
-+ **[pshtmltable 0.0.1](https://github.com/RamblingCookieMonster/PSHTMLTable/)**  - Simplify creating HTML tables [*08/25/2016 20:28:58*]
-+ **[PSExcel 1.0.2](https://github.com/RamblingCookieMonster/PSExcel/)**  - Work with Excel without installing Excel [*08/09/2016 13:48:07*]
-+ **[PSStackExchange 1.0.3](https://github.com/RamblingCookieMonster/PSStackExchange)**  - PowerShell module to query the StackExchange API [*07/26/2016 22:45:54*]
-+ **[PSLDAPQueryLogging 1.0](https://github.com/RamblingCookieMonster/PSLDAPQueryLogging)**  - PowerShell module for diagnostic LDAP query logging [*10/02/2015 23:09:35*]
-+ **[PSDiskPart 1.0](https://github.com/RamblingCookieMonster/PSDiskPart)**  - Work with DiskPart [*07/08/2015 02:13:18*]
-+ **[SecretServer 1.0](https://github.com/RamblingCookieMonster/SecretServer)**  - Work with Secret Server Web Services and SQL Database [*07/08/2015 01:23:19*]
 
 ## Joel Bennett
 
@@ -923,23 +930,23 @@ Add topics [*02/14/2018 20:56:19*]
 + **Get-FreightItemsForMCTF 1.0.0.1**  - Returns a list of Freight Items for Motor Carrier Tax Filings. [*04/16/2021 21:45:26*]
 + **Add-PrefixForLogging 1.0.0.2**  - Adds a prefix for logging to a string. [*04/16/2021 19:25:09*]
 
-## strike
+## Chrissy LeMaire
 
-+ **xCertificatePrivateKeyAccess 1.0**  - This resource helps you manage certificate private key access [*08/03/2017 17:30:11*]
-+ **[xCIMSecurity 1.0.0.1](https://strikene.visualstudio.com/DefaultCollection/xCIMSecurityDSCResource)**  - Help you set WMI CIM Access permissions [*04/12/2017 08:44:05*]
-+ **[xEventLogConfiguration 1.0.0.0](https://strikene.visualstudio.com/defaultcollection/xEventLogConfiguration)**  - help you configuration you event [*12/28/2016 02:26:46*]
-+ **[xScheduledTask 1.0.0.6](https://strikene.vssps.visualstudio.com/)**  - resource for ScheduledTask [*12/25/2016 09:13:33*]
-+ **xIISSession 1.0.0.0**  - Help you configure for iis session this resource build for win10 Server 2016 [*12/19/2016 14:15:34*]
-+ **xIISApplicationPoolIdentityType 1.0.0.2**  - Manage iis apppool Credential [*09/30/2016 06:52:32*]
-+ **xIISMail 1.0.0.1**  - Manage  IIS mail setting for Ps4 [*07/22/2016 02:59:55*]
-+ **xIISMachineKey 1.0.0.1**  - Manage iis MachineKey [*07/21/2016 13:55:43*]
-+ **xIISCertSBinding 1.0.0.1**  - Manage iis CertSBinding [*07/21/2016 13:34:42*]
-+ **xIISWebBinding 1.0.0.1**  - Manage iis WebBinding [*07/21/2016 13:32:44*]
-+ **xPrinter 1.0.0.1**  - Manage printer [*07/21/2016 13:31:16*]
-+ **xRegistryAccess 1.0.0.1**  - Manage registry permissions [*07/21/2016 13:26:06*]
-+ **xEventlog 1.0.0.1**  - create eventlog and eventsource [*07/21/2016 13:23:57*]
-+ **xUser 1.0.0.1**  - help you manage account and group [*07/21/2016 13:18:30*]
-+ **[DSCAdd-one 2.0.1.4](https://strikene.visualstudio.com/)**  - this add-one help you view dsc resource on your system whithout Get-DscResource cmdlet [*07/21/2016 09:45:47*]
-+ **tIISMail 0.0.0.1**  - dsc resource for iis Mail Setting [*07/21/2016 08:16:41*]
++ **[discordrpc 0.0.2](https://github.com/potatoqualitee/discordrpc)**  - Tell people you're playing PowerShell, send Rich Presence events to Discord! [*04/11/2022 08:51:16*]
++ **disarepotools 0.0.3**  - List and save files from the DISA patch repository [*11/18/2021 13:18:03*]
++ **[SPReplicator 0.0.35](https://github.com/potatoqualitee/SPReplicator)**  - SPReplicator helps replicate SharePoint list data from CSV, SQL Server, generic PowerShell objects, and other SharePoint lists. [*09/02/2021 12:51:50*]
++ **[tvbot 0.0.11](https://github.com/potatoqualitee/twitch/)**  - A pi-friendly bot for your Twitch channel [*06/22/2021 11:07:42*]
++ **[tvclient 0.0.11](https://github.com/potatoqualitee/twitch/)**  - PowerShell client for the Twitch API [*06/22/2021 11:07:15*]
++ **[tentools 0.0.14](https://github.com/potatoqualitee/tentools)**  - Automation for DISA ACAS, including tenable.sc, Nessus and more. Based off of Carlos Perez's Posh-Nessus module and commands by Joseph Warren. [*06/15/2021 11:21:14*]
++ **dbadisa 0.1.7**  - DISA STIG Automation for SQL Server [*06/10/2020 14:16:05*]
++ **stigiis 0.0.1**  - DISA STIG Automation for IIS [*04/16/2020 09:46:13*]
++ **kbupdate 1.1.22**  - KB Viewer, Saver, Installer and Uninstaller [*02/10/2020 21:40:52*]
++ **kbupdate-library 1.0.20**  - kbupdate database [*02/05/2020 09:48:48*]
++ **[IconExport 2.0.0](https://gallery.technet.microsoft.com/scriptcenter/Export-Icon-from-DLL-and-9d309047)**  - Export-Icon exports high-quality icons stored within .DLL and .EXE files. The function can export to a number of formats, including ico, bmp, png, jpg, gif, emf, exif, icon, tiff, and wmf. It can also export to different sizes. [*06/07/2016 12:17:25*]
++ **TrelloVoteCount 1.0.0.7**  - Displays tallied votes for one Trello board in either a GridView or DataTable [*05/08/2016 08:39:10*]
++ **[SystemColorsGrid 1.0](https://gallery.technet.microsoft.com/scriptcenter/Get-SystemColors-using-WPF-d7c31a8c)**  - Shows a pretty grid filled with system colors, their names, hex codes and rgb codes. [*09/16/2015 22:12:00*]
++ **CsvSqlcmd 1.0.7**  - Query CSV files using SQL syntax [*09/09/2015 15:53:09*]
++ **locate 1.0.1**  - Port of GNU locate and updatedb with bonus du [*09/09/2015 11:29:12*]
++ **CsvSqlimport 1.0.0**  - Quickly import CSV files into SQL Server [*09/08/2015 12:48:36*]
 
-*Updated: Sunday, April 24, 2022 10:01:49 AM UTC*
+*Updated: Monday, April 25, 2022 10:03:15 AM UTC*
