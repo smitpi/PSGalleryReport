@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, April 25, 2022 10:03:15 AM UTC
+Updated: Tuesday, April 26, 2022 10:03:48 AM UTC
 
 "interactive
 .bat
@@ -638,7 +638,6 @@ bibtex
 bicep
 bicepnet
 bigcommerce
-bigeval
 bigfix
 big-ip
 big-iq
@@ -893,7 +892,6 @@ chef-compliance
 chefconf2016
 chef-server
 chenxizhang
-cherwell
 chi
 china
 choco
@@ -1466,7 +1464,6 @@ decryption
 dedicatedhsm
 deduplication
 deep
-deepvisibility
 def
 default
 defaultparameter
@@ -2072,7 +2069,6 @@ fileencryption
 file-extension
 file-extension-association
 file-invalidchar
-filelist
 filelog
 filelogger
 filemanagement
@@ -2820,7 +2816,6 @@ ipcalculator
 iperf
 ipfy.org
 iphone
-ipilot
 iplookup
 ipmaths
 ipp
@@ -3040,8 +3035,6 @@ library
 libvirt
 licence
 license
-licenseautomation
-license-generator
 licensereport
 licenses
 licensing
@@ -3695,7 +3688,6 @@ nunit
 nupkg
 nuspec
 nutanix
-nuwave
 nva
 nvdimm
 nvdimm-n
@@ -4223,7 +4215,6 @@ prefix
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presenter
@@ -4813,7 +4804,6 @@ rt
 rtu
 rubber
 rubrik
-ruby
 rule
 rulesengine
 run
@@ -5037,7 +5027,6 @@ sensor
 sensors
 sensu
 sentinel
-sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5162,7 +5151,6 @@ simplivity
 simplysql
 sin
 single
-singlestore
 singleton
 sinks
 sintez
@@ -5657,7 +5645,6 @@ terrafun
 tesla
 test
 test123
-testautomation
 test-dscconfiguration
 testing
 testlab
@@ -5980,7 +5967,6 @@ updmgmt
 upgrade
 uplift
 uplink
-upn
 ups
 upsource
 upstream
@@ -5998,7 +5984,6 @@ urlrewrite
 urlscan
 url-shortener
 urlupdate
-uru
 usage
 usageaggregates
 usageapi
