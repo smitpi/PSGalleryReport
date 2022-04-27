@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, April 26, 2022 10:03:48 AM UTC
+Updated: Wednesday, April 27, 2022 10:17:46 AM UTC
 
 "interactive
 .bat
@@ -166,7 +166,6 @@ adobe
 adobeflash
 adoxio
 adp
-adr
 ads
 adsi
 adsync
@@ -204,7 +203,6 @@ aip
 aipscanner
 aircall
 airtable
-aispeech
 aivision
 ajustee
 aks
@@ -279,7 +277,6 @@ anywhere
 aovpn psmodule
 apache
 api
-apichecks
 apiclient
 api-client
 apigateway
@@ -591,7 +588,6 @@ bank
 banking
 banner
 bar
-baremetal
 base
 base16
 base26
@@ -638,6 +634,7 @@ bibtex
 bicep
 bicepnet
 bigcommerce
+bigeval
 bigfix
 big-ip
 big-iq
@@ -753,7 +750,6 @@ builds
 build-scripts
 buildtool
 bulk
-bullhorn
 bundle
 bup
 burpsuite
@@ -850,7 +846,6 @@ cer
 cert
 certbasedauth
 certera
-certes
 certificate
 certificateauthority
 certificatechain
@@ -892,6 +887,7 @@ chef-compliance
 chefconf2016
 chef-server
 chenxizhang
+cherwell
 chi
 china
 choco
@@ -1129,7 +1125,6 @@ condition
 conditionalaccess
 conduit
 confidentialclient
-confidentialledger
 config
 configapi
 configascode
@@ -1152,7 +1147,6 @@ connect-dtcmsite
 connected
 connectedkubernetes
 connectedmachine
-connectednetwork
 connectexchange
 connect-exchangeonprem
 connection
@@ -1171,7 +1165,6 @@ consumption
 contact
 contacts
 container
-containerengine
 containergroup
 containerinstance
 containerregistry
@@ -1201,7 +1194,6 @@ convert
 convert-dtexceptiontomessage
 converter
 convertfrom-yaml
-convert-movietogif
 convertto
 converttodocx
 convertto-excel
@@ -1334,7 +1326,6 @@ custominformationservices
 customis
 customisation
 customization
-customlocation
 customproviders
 cvad
 cve-2021-34527
@@ -1378,7 +1369,6 @@ data-archive
 data-backup
 database
 databaseautomation
-databasemanagement
 databasemigration
 database-migrations
 databases
@@ -1391,7 +1381,6 @@ datacatalog
 datacenter
 dataclassification
 dataconduit
-dataconnectivity
 datadog
 datafactory
 dataflow
@@ -1428,7 +1417,6 @@ dattormm
 datum
 dave
 davinci
-dax
 dayinweek
 days-week
 db
@@ -1464,6 +1452,7 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deepvisibility
 def
 default
 defaultparameter
@@ -1623,7 +1612,6 @@ dlp
 dmarc
 dmgr
 dmi
-dmx
 dnd
 dns
 dns-01
@@ -1631,7 +1619,6 @@ dns-administration
 dns-async
 dnsbl
 dns-client
-dnsdumpster
 dnsentry
 dnsimple
 dnsmadeeasy
@@ -1683,7 +1670,6 @@ dotnet
 dotnet-cli
 dotnettool
 dotps1
-dots
 dotteddecimalip
 doubleclick
 download
@@ -2069,6 +2055,7 @@ fileencryption
 file-extension
 file-extension-association
 file-invalidchar
+filelist
 filelog
 filelogger
 filemanagement
@@ -2150,7 +2137,6 @@ flex
 flexdesk
 flex-query
 flickr
-flowchart
 flowy
 flyway
 fmg
@@ -2326,7 +2312,6 @@ git-clone
 gitcmdline
 gitdesktop
 gitflow
-gitforwindows
 github
 github-action
 githubactions
@@ -2453,7 +2438,6 @@ harden
 hardening
 hardlink
 hardware
-harperdb
 harvest
 harvestforecast
 hash
@@ -2617,12 +2601,10 @@ ias
 ib
 ibm
 ibmc
-ibmhttpserver
 icinga
 icinga2
 icinga2mssql
 icinga2plugins
-icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -2654,7 +2636,6 @@ ifconfig
 ifttt
 igel
 igr
-ihs
 iiittttt
 iis
 iis10
@@ -2816,6 +2797,7 @@ ipcalculator
 iperf
 ipfy.org
 iphone
+ipilot
 iplookup
 ipmaths
 ipp
@@ -2838,7 +2820,6 @@ ishexstring
 isnumeric
 iso
 iso-3166-1
-iso-8601
 ispac
 isprime
 issues
@@ -2862,9 +2843,7 @@ japanese
 jar
 jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jdedwards
@@ -2890,8 +2869,6 @@ js7
 jsm
 jsm.insight
 json
-json+
-jsonplus
 json-transform
 jsonwebkey
 jsonwebsignature
@@ -2975,7 +2952,6 @@ labautomation
 label
 labels
 lability
-labservices
 labtech
 lake
 lambda
@@ -3025,7 +3001,6 @@ leiningnen
 lenel
 length
 lenovo
-lesspass
 letsencrypt
 lf
 lgpo
@@ -3035,6 +3010,8 @@ library
 libvirt
 licence
 license
+licenseautomation
+license-generator
 licensereport
 licenses
 licensing
@@ -3091,7 +3068,6 @@ localization
 location
 locationbasedservices
 lock
-lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3279,7 +3255,6 @@ mdbc
 mde
 mdop
 mdt
-mdx
 me4024
 mean
 measure
@@ -3418,7 +3393,6 @@ moldova
 moment
 monaco
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -3688,6 +3662,7 @@ nunit
 nupkg
 nuspec
 nutanix
+nuwave
 nva
 nvdimm
 nvdimm-n
@@ -3866,9 +3841,7 @@ osprovision
 osprovisioning
 oss
 ossec
-osubbillingschedule
 osuborganizationsubscription
-osubsubscription
 osubusage
 osx
 otp
@@ -4065,7 +4038,6 @@ playbook
 player
 playlists
 pleasant
-pleasantpasswordserver
 plex
 plist
 plot
@@ -4215,6 +4187,7 @@ prefix
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 presenter
@@ -4328,7 +4301,6 @@ psake
 psappdeploytoolkit
 psazd
 psbackup
-psbbix
 psbicep
 psclient
 pscmdlet
@@ -4422,7 +4394,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -4443,7 +4414,6 @@ pswinreportingv2
 psword
 pswriteword
 psyaml
-pszabbix
 pubg
 public
 publicapi
@@ -4631,7 +4601,6 @@ region
 regions
 regiser-argumentcompleter
 register-argumentcompleter
-registration
 registry
 regression
 regularexpressions
@@ -4804,6 +4773,7 @@ rt
 rtu
 rubber
 rubrik
+ruby
 rule
 rulesengine
 run
@@ -4938,7 +4908,6 @@ scripting
 scriptlogging
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -4961,7 +4930,6 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
-secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5027,6 +4995,7 @@ sensor
 sensors
 sensu
 sentinel
+sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5057,6 +5026,7 @@ servicefabric
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
+servicemesh
 servicenow
 serviceplan
 servicepointmanager
@@ -5151,6 +5121,7 @@ simplivity
 simplysql
 sin
 single
+singlestore
 singleton
 sinks
 sintez
@@ -5225,7 +5196,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 snugglepup
@@ -5255,7 +5225,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -5645,6 +5614,7 @@ terrafun
 tesla
 test
 test123
+testautomation
 test-dscconfiguration
 testing
 testlab
@@ -5791,7 +5761,6 @@ triangle
 trigger
 triodos
 tripunkt
-troubleshoot
 troubleshooting
 trouw
 truecrypt
@@ -5807,7 +5776,6 @@ ts
 tsa
 tsd
 tsheets
-t-sql
 tsqlbestpractice
 tts
 tui
@@ -5897,13 +5865,11 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
-ud-tagcloud
 udthememode
 ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
-ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -5967,6 +5933,7 @@ updmgmt
 upgrade
 uplift
 uplink
+upn
 ups
 upsource
 upstream
@@ -5984,6 +5951,7 @@ urlrewrite
 urlscan
 url-shortener
 urlupdate
+uru
 usage
 usageaggregates
 usageapi
@@ -6076,7 +6044,6 @@ verbose psmodule
 version
 versioncontrol
 versioning
-versionmanager
 versionnumber
 vertical
 vester
@@ -6533,7 +6500,6 @@ yq
 yubaba
 z
 zabbix
-zabbixps
 zap
 zcat
 zendesk
@@ -6548,7 +6514,6 @@ zoomapi
 zoommeeting
 zoxide
 zsh
-zuora
 zvm
 カタカナ
 ひらがな
