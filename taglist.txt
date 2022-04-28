@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, April 27, 2022 10:17:46 AM UTC
+Updated: Thursday, April 28, 2022 10:11:47 AM UTC
 
 "interactive
 .bat
@@ -166,6 +166,7 @@ adobe
 adobeflash
 adoxio
 adp
+adr
 ads
 adsi
 adsync
@@ -203,7 +204,7 @@ aip
 aipscanner
 aircall
 airtable
-aivision
+aispeech
 ajustee
 aks
 alac
@@ -588,6 +589,7 @@ bank
 banking
 banner
 bar
+baremetal
 base
 base16
 base26
@@ -601,7 +603,6 @@ based
 baseline
 bash
 bastion
-bat
 batch
 batchclass
 batman
@@ -644,7 +645,6 @@ billing
 bin
 binary
 binaryip
-bind
 binding
 bing
 bingmap
@@ -728,14 +728,12 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
-broot
 browser
 browserhistory
 brs
 bruteforce
 bson
 btdf
-btm
 budget
 bugzilla
 build
@@ -750,6 +748,7 @@ builds
 build-scripts
 buildtool
 bulk
+bullhorn
 bundle
 bup
 burpsuite
@@ -792,7 +791,6 @@ capslock
 capture
 carbon
 card
-cardwirth
 cargo
 carousel
 cartoon
@@ -846,6 +844,7 @@ cer
 cert
 certbasedauth
 certera
+certes
 certificate
 certificateauthority
 certificatechain
@@ -873,7 +872,6 @@ chatbot
 chatops
 chatroom
 chatter
-cheat
 check
 checker
 checklist
@@ -1125,6 +1123,7 @@ condition
 conditionalaccess
 conduit
 confidentialclient
+confidentialledger
 config
 configapi
 configascode
@@ -1147,6 +1146,7 @@ connect-dtcmsite
 connected
 connectedkubernetes
 connectedmachine
+connectednetwork
 connectexchange
 connect-exchangeonprem
 connection
@@ -1165,6 +1165,7 @@ consumption
 contact
 contacts
 container
+containerengine
 containergroup
 containerinstance
 containerregistry
@@ -1194,6 +1195,7 @@ convert
 convert-dtexceptiontomessage
 converter
 convertfrom-yaml
+convert-movietogif
 convertto
 converttodocx
 convertto-excel
@@ -1265,7 +1267,6 @@ credentialprovider
 credentials
 credentials-cache
 credentialstore
-credentialutility
 credit
 credman
 credmanager
@@ -1310,7 +1311,6 @@ culture
 cumulativeupdate
 cumulocity
 curl
-curlie
 currency
 currency-convereter
 currencyconverterapi
@@ -1326,6 +1326,7 @@ custominformationservices
 customis
 customisation
 customization
+customlocation
 customproviders
 cvad
 cve-2021-34527
@@ -1369,6 +1370,7 @@ data-archive
 data-backup
 database
 databaseautomation
+databasemanagement
 databasemigration
 database-migrations
 databases
@@ -1381,6 +1383,7 @@ datacatalog
 datacenter
 dataclassification
 dataconduit
+dataconnectivity
 datadog
 datafactory
 dataflow
@@ -1417,6 +1420,7 @@ dattormm
 datum
 dave
 davinci
+dax
 dayinweek
 days-week
 db
@@ -1473,7 +1477,6 @@ delete-orphan-branches
 delivery
 dell
 dellemc
-delta
 demand
 demo
 democratie
@@ -1501,7 +1504,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutsch
 deutschland
 dev
@@ -1530,7 +1532,6 @@ dev-tools
 dfch
 dfir
 dfs
-dfw
 dg
 dhcp
 di
@@ -1612,6 +1613,7 @@ dlp
 dmarc
 dmgr
 dmi
+dmx
 dnd
 dns
 dns-01
@@ -1619,6 +1621,7 @@ dns-administration
 dns-async
 dnsbl
 dns-client
+dnsdumpster
 dnsentry
 dnsimple
 dnsmadeeasy
@@ -1664,12 +1667,12 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
 dotnettool
 dotps1
+dots
 dotteddecimalip
 doubleclick
 download
@@ -1679,7 +1682,6 @@ dpa
 dpapi
 dps
 dq
-dr
 draw
 drawio
 dreamweaver
@@ -1732,7 +1734,6 @@ dtsx
 dtx
 duck
 dudckduckgo
-duf
 dummy
 dummyusers
 dump
@@ -1740,7 +1741,6 @@ duplicate
 duplicate-files
 duplicatioin
 duplication
-dust
 dutch
 dvls
 dxexpeditions
@@ -1809,7 +1809,6 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
-emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -1912,7 +1911,6 @@ event
 event_id
 event_list
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -1990,7 +1988,6 @@ exportcertificate
 exportcertificates
 export-cmhealthreport
 export-data
-exporter
 exportexcel
 export-passlist
 exportteams
@@ -2031,7 +2028,6 @@ fastping
 favorites
 fb-pro
 fciv
-fd
 feature
 features
 featuresondemand
@@ -2104,7 +2100,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialforce
 find
 findlocation
 find-path
@@ -2137,8 +2132,8 @@ flex
 flexdesk
 flex-query
 flickr
+flowchart
 flowy
-flyway
 fmg
 focus
 fod
@@ -2217,7 +2212,6 @@ funds
 funny
 fuzzy
 fyi
-fzf
 gac
 gainz
 gainz-chocolateysync
@@ -2246,7 +2240,6 @@ gemini
 geminiprotocol
 gemlog
 gemtext
-general
 generate
 generateaddress
 generates
@@ -2312,6 +2305,7 @@ git-clone
 gitcmdline
 gitdesktop
 gitflow
+gitforwindows
 github
 github-action
 githubactions
@@ -2353,7 +2347,6 @@ gopherplus
 governance
 gp
 gpg
-gping
 gpio
 gplink
 gpo
@@ -2438,6 +2431,7 @@ harden
 hardening
 hardlink
 hardware
+harperdb
 harvest
 harvestforecast
 hash
@@ -2451,7 +2445,6 @@ haste
 hastebin
 haveibeenpwned
 hba
-hbase
 hci
 hcl
 hcx
@@ -2580,7 +2573,6 @@ hybrid
 hybridrunbookworker
 hybris
 hyperconverged
-hyperfine
 hyperlink
 hyperthreading
 hyperv
@@ -2601,6 +2593,7 @@ ias
 ib
 ibm
 ibmc
+ibmhttpserver
 icinga
 icinga2
 icinga2mssql
@@ -2636,6 +2629,7 @@ ifconfig
 ifttt
 igel
 igr
+ihs
 iiittttt
 iis
 iis10
@@ -2820,6 +2814,7 @@ ishexstring
 isnumeric
 iso
 iso-3166-1
+iso-8601
 ispac
 isprime
 issues
@@ -2843,7 +2838,9 @@ japanese
 jar
 jav
 java
+javamanager
 javascript
+javaversion
 jboss
 jdbc
 jdedwards
@@ -2869,6 +2866,8 @@ js7
 jsm
 jsm.insight
 json
+json+
+jsonplus
 json-transform
 jsonwebkey
 jsonwebsignature
@@ -2952,6 +2951,7 @@ labautomation
 label
 labels
 lability
+labservices
 labtech
 lake
 lambda
@@ -2990,7 +2990,6 @@ lean
 learn
 learning
 learningpowershell
-lease
 leetabit
 legacy
 legacyad
@@ -3001,6 +3000,7 @@ leiningnen
 lenel
 length
 lenovo
+lesspass
 letsencrypt
 lf
 lgpo
@@ -3061,13 +3061,13 @@ local
 localadmin
 local-caching
 localconfigurationmanager
-localdb
 locale
 localgroup
 localization
 location
 locationbasedservices
 lock
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3133,7 +3133,6 @@ lpsiamol
 ls
 lsa
 lsasecrets
-lsd
 ltm
 lucd
 lucene
@@ -3255,6 +3254,7 @@ mdbc
 mde
 mdop
 mdt
+mdx
 me4024
 mean
 measure
@@ -3313,8 +3313,6 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
-microsoft.logic
-microsoft.logic/workflows
 microsoft_365
 microsoft_azure
 microsoft_online
@@ -3393,6 +3391,7 @@ moldova
 moment
 monaco
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -3444,7 +3443,6 @@ msgraphapi
 msgraphreport
 msgraphtokenlifetimepolicy
 msi
-msi psmodule
 msiexec
 msil
 msix
@@ -3671,7 +3669,6 @@ nxt
 nyse
 nzb
 o365
-o365mailnotification
 oa
 oacli
 oacmdlets
@@ -3841,7 +3838,9 @@ osprovision
 osprovisioning
 oss
 ossec
+osubbillingschedule
 osuborganizationsubscription
+osubsubscription
 osubusage
 osx
 otp
@@ -3923,7 +3922,6 @@ passphrase
 passphraser passphrase password generator entropy
 password
 password_generation
-passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -4038,6 +4036,7 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
 plex
 plist
 plot
@@ -4227,7 +4226,6 @@ process
 processing
 processmitigation
 processor
-procs
 product
 productid
 productivity
@@ -4301,6 +4299,7 @@ psake
 psappdeploytoolkit
 psazd
 psbackup
+psbbix
 psbicep
 psclient
 pscmdlet
@@ -4394,6 +4393,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -4414,6 +4414,7 @@ pswinreportingv2
 psword
 pswriteword
 psyaml
+pszabbix
 pubg
 public
 publicapi
@@ -4601,6 +4602,7 @@ region
 regions
 regiser-argumentcompleter
 register-argumentcompleter
+registration
 registry
 regression
 regularexpressions
@@ -4714,7 +4716,6 @@ rfc4007
 rfc4291
 rfc5952
 rfc826
-rg
 rhapsody
 ribbon
 ribcl
@@ -4908,12 +4909,12 @@ scripting
 scriptlogging
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
 scsm
 scuba
-sd
 sddl
 sdk
 sdn
@@ -4930,6 +4931,7 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
+secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5028,7 +5030,6 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
-serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5103,7 +5104,6 @@ sid
 sidecar
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -5196,6 +5196,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 snugglepup
@@ -5225,6 +5226,7 @@ solutions
 sonarcloud
 sonarqube
 sonarr
+sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -5540,7 +5542,6 @@ tag
 tag1
 tag2
 tagging
-tag-requiredmodule1-1.0
 tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tags
@@ -5761,6 +5762,7 @@ triangle
 trigger
 triodos
 tripunkt
+troubleshoot
 troubleshooting
 trouw
 truecrypt
@@ -5776,6 +5778,7 @@ ts
 tsa
 tsd
 tsheets
+t-sql
 tsqlbestpractice
 tts
 tui
@@ -5865,11 +5868,13 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
+ud-tagcloud
 udthememode
 ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
+ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -6044,6 +6049,7 @@ verbose psmodule
 version
 versioncontrol
 versioning
+versionmanager
 versionnumber
 vertical
 vester
@@ -6459,7 +6465,6 @@ xendesktop
 xero
 xevent
 xevents
-xh
 xi
 xiaomi
 xkcd
@@ -6500,6 +6505,7 @@ yq
 yubaba
 z
 zabbix
+zabbixps
 zap
 zcat
 zendesk
@@ -6512,8 +6518,8 @@ zone
 zoom
 zoomapi
 zoommeeting
-zoxide
 zsh
+zuora
 zvm
 カタカナ
 ひらがな
