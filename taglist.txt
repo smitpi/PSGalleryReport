@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, April 29, 2022 10:02:53 AM UTC
+Updated: Saturday, April 30, 2022 10:01:56 AM UTC
 
 "interactive
 .bat
@@ -65,7 +65,6 @@ abe
 about
 abstractsyntaxtree
 abuse
-acas
 accelerator
 access
 accesscontrol
@@ -134,7 +133,6 @@ address
 addresses
 adds
 ad-ds
-add-type
 addtypeaccelerators
 adf
 adfs
@@ -205,6 +203,7 @@ aipscanner
 aircall
 airtable
 aispeech
+aivision
 ajustee
 aks
 alac
@@ -1013,7 +1012,6 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
@@ -1613,7 +1611,6 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
-diving
 division
 divoom
 dkim
@@ -1665,7 +1662,6 @@ documents
 docusaurus
 docusign
 docx
-dod
 dog
 dog-names
 dogs
@@ -1679,7 +1675,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -1746,7 +1741,6 @@ dtc
 dts
 dtsx
 dtx
-duck
 dudckduckgo
 duf
 dummy
@@ -2024,7 +2018,6 @@ extract
 extreme-networks
 eztheme
 f
-f#
 f5
 facebook
 factoryorchestrator
@@ -2213,7 +2206,6 @@ frontdoor
 frontrange
 fs
 fsf
-fsharp
 fslogix
 fsrm
 ftp
@@ -2246,7 +2238,6 @@ gamecategory:cards
 games
 gameserver
 garage
-gas
 gat
 gateway
 gauge
@@ -2271,12 +2262,14 @@ generatewif
 generation
 generator
 generic
+genericartifactscontent
 genetic-algorithm
 genxdev
 geo
 geoencode
 geoencoding
 geolocation
+geosearching
 geotagging
 get
 get_random_password
@@ -2966,6 +2959,7 @@ kubectl
 kubectx
 kubens
 kubernetes
+kubernetesconfiguration
 kubespray
 kudu
 kurukuru
@@ -3444,6 +3438,7 @@ movies
 mozilla
 mp3
 mp4
+mpc
 mpeg
 mpn
 mrvl_fc_powerkit
@@ -3631,7 +3626,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nitrox
 nl
 nla
 nlm
@@ -3647,7 +3641,6 @@ non-volatile
 nord
 nordtools
 normal
-norskale
 nosql
 note
 notebook
@@ -3721,7 +3714,6 @@ observeit
 oce
 oci
 ocr
-octoprint
 octopus
 octopus.client
 octopusdeploy
@@ -3894,7 +3886,6 @@ ovgd
 owasp
 owls
 owner
-oxygen
 oxyplot
 p2000
 p2s
@@ -4131,6 +4122,7 @@ poshlog
 poshorigin
 poshproject
 poshprtg
+posh-ribbon
 poshrsjob
 posh-ssh
 poshtemplate
@@ -4465,7 +4457,6 @@ publishing
 pubsub
 pubxml
 pulldistributionpoint
-pullrequest
 pullserver
 pulseway
 pulumi
@@ -4672,6 +4663,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-pass
 remove-path
 remove-pinneditem
@@ -4751,6 +4743,7 @@ rfc5952
 rfc826
 rg
 rhapsody
+ribbon
 ribcl
 rights
 ripe
@@ -4805,7 +4798,6 @@ rsjob
 rss
 rt
 rtu
-rubber
 rubrik
 ruby
 rule
@@ -4947,7 +4939,6 @@ scrolllock
 scrub
 scrubber
 scsm
-scuba
 sd
 sddl
 sdk
@@ -5079,6 +5070,7 @@ set
 set_bios
 set-alias
 setbios
+set-githubsecrets
 set-location
 set-openfiles
 set-pass
@@ -5265,6 +5257,7 @@ sonatype
 songs
 sonicwall
 sonicwallvpn
+sonus
 soon
 soonr
 soonragent
@@ -5510,7 +5503,6 @@ swarm
 swimlane
 swis
 switch
-sxs
 sybase
 sybaseiq
 symantec
@@ -5596,6 +5588,7 @@ task-runner
 tasks
 taskscheduler
 taxjar
+taxonomy
 tcp
 tcp/ip
 tcpip
@@ -5634,7 +5627,6 @@ templates
 templating
 temporary
 tenable
-tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
@@ -5823,7 +5815,6 @@ tutorial
 tv
 tweet
 twig
-twilio
 twincat
 twinkly
 twitch
@@ -6107,7 +6098,6 @@ virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
-virtualdesktopdevops
 virtualengine
 virtualenv
 virtualenvironment
@@ -6238,7 +6228,6 @@ wayk
 waykagent
 waykbastion
 waykclient
-waykden
 wayknow
 wbem
 wcf
