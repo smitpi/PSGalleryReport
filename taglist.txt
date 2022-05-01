@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, April 30, 2022 10:01:56 AM UTC
+Updated: Sunday, May 1, 2022 10:01:57 AM UTC
 
 "interactive
 .bat
@@ -65,6 +65,7 @@ abe
 about
 abstractsyntaxtree
 abuse
+acas
 accelerator
 access
 accesscontrol
@@ -133,6 +134,7 @@ address
 addresses
 adds
 ad-ds
+add-type
 addtypeaccelerators
 adf
 adfs
@@ -218,7 +220,6 @@ alerts
 alertsmanagement
 alfresco
 algorithm
-algorithms
 alias
 aliases
 aliens
@@ -643,7 +644,6 @@ big-iq
 bigquery
 bikeshed
 billing
-bin
 binary
 binaryip
 bind
@@ -1012,6 +1012,7 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
@@ -1611,6 +1612,7 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
+diving
 division
 divoom
 dkim
@@ -1662,6 +1664,7 @@ documents
 docusaurus
 docusign
 docx
+dod
 dog
 dog-names
 dogs
@@ -1675,6 +1678,7 @@ donothing
 dos
 dot
 dotenv
+dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -1741,6 +1745,7 @@ dtc
 dts
 dtsx
 dtx
+duck
 dudckduckgo
 duf
 dummy
@@ -2018,6 +2023,7 @@ extract
 extreme-networks
 eztheme
 f
+f#
 f5
 facebook
 factoryorchestrator
@@ -2206,6 +2212,7 @@ frontdoor
 frontrange
 fs
 fsf
+fsharp
 fslogix
 fsrm
 ftp
@@ -2238,6 +2245,7 @@ gamecategory:cards
 games
 gameserver
 garage
+gas
 gat
 gateway
 gauge
@@ -2945,7 +2953,6 @@ kindle
 kintone
 klantcontroles
 kms
-knapsack
 knob
 knowledge
 knowledgebase
@@ -3626,6 +3633,7 @@ ninja
 ninjaone
 ninjarmm
 nios
+nitrox
 nl
 nla
 nlm
@@ -3641,6 +3649,7 @@ non-volatile
 nord
 nordtools
 normal
+norskale
 nosql
 note
 notebook
@@ -3714,6 +3723,7 @@ observeit
 oce
 oci
 ocr
+octoprint
 octopus
 octopus.client
 octopusdeploy
@@ -3823,6 +3833,7 @@ operationvalidation
 operatoraccesscontrol
 operators
 opml
+ops
 opsi
 opsmgr
 optics
@@ -3886,6 +3897,7 @@ ovgd
 owasp
 owls
 owner
+oxygen
 oxyplot
 p2000
 p2s
@@ -3905,7 +3917,6 @@ packaging psmodule
 packard
 packer
 packet
-packing
 pacli
 page
 pageant
@@ -4324,7 +4335,6 @@ psadt
 psake
 psappdeploytoolkit
 psazd
-psbackup
 psbbix
 psbicep
 psclient
@@ -4457,6 +4467,7 @@ publishing
 pubsub
 pubxml
 pulldistributionpoint
+pullrequest
 pullserver
 pulseway
 pulumi
@@ -4798,6 +4809,7 @@ rsjob
 rss
 rt
 rtu
+rubber
 rubrik
 ruby
 rule
@@ -4939,6 +4951,7 @@ scrolllock
 scrub
 scrubber
 scsm
+scuba
 sd
 sddl
 sdk
@@ -5042,7 +5055,6 @@ servermanagement
 servers
 service
 servicebus
-service-bus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
@@ -5503,6 +5515,7 @@ swarm
 swimlane
 swis
 switch
+sxs
 sybase
 sybaseiq
 symantec
@@ -5627,6 +5640,7 @@ templates
 templating
 temporary
 tenable
+tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
@@ -5815,6 +5829,7 @@ tutorial
 tv
 tweet
 twig
+twilio
 twincat
 twinkly
 twitch
@@ -5856,7 +5871,6 @@ ud-calendar
 ud-circle
 udcm
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6098,6 +6112,7 @@ virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
+virtualdesktopdevops
 virtualengine
 virtualenv
 virtualenvironment
@@ -6228,6 +6243,7 @@ wayk
 waykagent
 waykbastion
 waykclient
+waykden
 wayknow
 wbem
 wcf
