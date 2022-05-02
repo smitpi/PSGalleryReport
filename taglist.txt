@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, May 1, 2022 10:01:57 AM UTC
+Updated: Monday, May 2, 2022 10:03:01 AM UTC
 
 "interactive
 .bat
@@ -220,6 +220,7 @@ alerts
 alertsmanagement
 alfresco
 algorithm
+algorithms
 alias
 aliases
 aliens
@@ -644,6 +645,7 @@ big-iq
 bigquery
 bikeshed
 billing
+bin
 binary
 binaryip
 bind
@@ -2839,6 +2841,7 @@ iselevated
 isesteroids
 ish
 ishexstring
+ism
 isnumeric
 iso
 iso-3166-1
@@ -2857,6 +2860,7 @@ itop
 itsm
 itstore
 ivanti
+ivantips
 ivb
 ivdc
 iwi
@@ -2877,7 +2881,6 @@ jea
 jenkins
 jetbrains
 jira
-jiraservicemanagement
 jms
 joat
 job
@@ -2891,8 +2894,6 @@ jotform
 journal
 jpg
 js7
-jsm
-jsm.insight
 json
 json+
 jsonplus
@@ -2953,6 +2954,7 @@ kindle
 kintone
 klantcontroles
 kms
+knapsack
 knob
 knowledge
 knowledgebase
@@ -3917,6 +3919,7 @@ packaging psmodule
 packard
 packer
 packet
+packing
 pacli
 page
 pageant
@@ -4335,6 +4338,7 @@ psadt
 psake
 psappdeploytoolkit
 psazd
+psbackup
 psbbix
 psbicep
 psclient
@@ -5055,6 +5059,7 @@ servermanagement
 servers
 service
 servicebus
+service-bus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
@@ -5871,6 +5876,7 @@ ud-calendar
 ud-circle
 udcm
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
