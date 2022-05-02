@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, May 2, 2022 10:03:01 AM UTC
+Updated: Monday, May 2, 2022 11:32:53 AM UTC
 
 "interactive
 .bat
@@ -46,7 +46,6 @@ Updated: Monday, May 2, 2022 10:03:01 AM UTC
 8.1
 8ball
 9
-aa
 aac
 aad
 aadc
@@ -252,7 +251,6 @@ analysisservices
 analyst
 analyth
 analytics
-analyze
 analyzer
 analyzerrules
 anchor
@@ -312,7 +310,6 @@ applicationinsights
 applicationmigration
 applicationmonitor
 applications
-application-transformer
 applocker
 appmgmtcontrol
 app-only
@@ -697,7 +694,6 @@ bluetraitio
 bmc
 bnm
 boards
-bofh
 boilerplate
 boinc
 bolt
@@ -1966,7 +1962,6 @@ exchange2016
 exchangecluster
 exchangemigration
 exchangeonline
-exchangeonlineprotection
 exchangeonlineshell
 exchangeonlineshellmfa
 exchangeonprem
@@ -2090,7 +2085,6 @@ files
 filesecurity
 fileserver
 file-server
-fileserverresourcemanager
 fileshare
 file-share
 filesharing
@@ -2153,7 +2147,6 @@ flatten
 flex
 flexdesk
 flex-query
-flickr
 flowchart
 flowy
 flyway
@@ -2216,7 +2209,6 @@ fs
 fsf
 fsharp
 fslogix
-fsrm
 ftp
 ftps
 fudge
@@ -2660,7 +2652,6 @@ ifttt
 igel
 igr
 ihs
-iiittttt
 iis
 iis10
 iis8
@@ -2881,6 +2872,7 @@ jea
 jenkins
 jetbrains
 jira
+jiraservicemanagement
 jms
 joat
 job
@@ -2894,6 +2886,8 @@ jotform
 journal
 jpg
 js7
+jsm
+jsm.insight
 json
 json+
 jsonplus
@@ -4866,7 +4860,6 @@ sap
 sapazure
 saponazure
 sapstartstopazure
-sarcasm
 sarif
 sasdatasets
 sasxpt
@@ -5228,7 +5221,6 @@ smtpsecure
 snap
 snapchat
 snapping
-snapshot
 snapshots
 snippet
 snippets
@@ -5550,7 +5542,6 @@ syskit
 syslog
 sysman
 sysmon
-sysop
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -5812,7 +5803,6 @@ troubleshoot
 troubleshooting
 trouw
 truecrypt
-truenas
 truportal
 trusted
 trusted-host

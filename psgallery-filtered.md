@@ -4,13 +4,21 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Resource.Manifest](https://www.powershellgallery.com/Packages/Resource.Manifest/2.1.22122.28771) | 2.1.22122.28771
+
+### Published: 05/02/2022 11:15:50 by François Chabot
+
+Commands to define and process resource manifests that can later be used to drive operations, in a declarative way, according to the nature of the resources to operate upon.
+
+__Downloads__: 580 | __Repository__: https://github.com/icraftsoftware/Be.Stateless.PowerShell.Module.Resource.Manifest
+
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.2.1) | 22.5.2.1
 
 ### Published: 05/02/2022 06:36:06 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable
 
 MMSMOA Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 196,956 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 196,954 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Piecemeal](https://www.powershellgallery.com/Packages/Piecemeal/0.2.5) | 0.2.5
 
@@ -58,7 +66,7 @@ __Downloads__: 64 | __Repository__: https://github.com/BanterBoy/Test-DNSRecord
 
 Module that allows to manipulate, parse, format and optimize HTML, JavaScript and CSS
 
-__Downloads__: 5,277 | __Repository__: https://github.com/EvotecIT/PSParseHTML
+__Downloads__: 5,278 | __Repository__: https://github.com/EvotecIT/PSParseHTML
 
 ## [ADDSActiveAccountAudit](https://www.powershellgallery.com/Packages/ADDSActiveAccountAudit/1.0.0) | 1.0.0
 
@@ -76,7 +84,7 @@ The ActiveDirectoryDsc module contains DSC resources for deployment and configur
 
 These DSC resources allow you to configure new domains, child domains, and high availability domain controllers, establish cross-domain trusts and manage users, groups and OUs.
 
-__Downloads__: 1,299,526 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
+__Downloads__: 1,299,461 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
 
 ## [PowerLine](https://www.powershellgallery.com/Packages/PowerLine/3.4.1) | 3.4.1
 
@@ -108,7 +116,7 @@ __Downloads__: 0 | __Repository__:
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 499,830 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 499,772 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [oh-my-posh](https://www.powershellgallery.com/Packages/oh-my-posh/7.76.0) | 7.76.0
 
@@ -116,7 +124,7 @@ __Downloads__: 499,830 | __Repository__: https://stealthpuppy.com/evergreen/
 
 A prompt theme engine for any shell
 
-__Downloads__: 1,498,739 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 1,498,738 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## [PSSplinterlands](https://www.powershellgallery.com/Packages/PSSplinterlands/1.0.10) | 1.0.10
 
@@ -206,7 +214,7 @@ __Downloads__: 2,113 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,492,161 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,492,157 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.456) | 1.0.456
 
@@ -246,7 +254,7 @@ __Downloads__: 2 | __Repository__: https://appsource.microsoft.com/en-us/product
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 16,647 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 16,645 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [cmhealth](https://www.powershellgallery.com/Packages/cmhealth/1.0.6) | 1.0.6
 
@@ -262,7 +270,7 @@ __Downloads__: 582 | __Repository__: https://github.com/Skatterbrainz/cmhealth
 
 PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
-__Downloads__: 40,352 | __Repository__: https://github.com/crowdstrike/psfalcon
+__Downloads__: 40,351 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 ## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.1.6) | 1.1.6
 
@@ -302,7 +310,7 @@ __Downloads__: 305 | __Repository__:
 
 A module designed to speed up the development of PowerShell modules
 
-__Downloads__: 31,348 | __Repository__: http://psframework.org/
+__Downloads__: 31,349 | __Repository__: http://psframework.org/
 
 ## [OneSTools.PS.TechLog](https://www.powershellgallery.com/Packages/OneSTools.PS.TechLog/1.1.11) | 1.1.11
 
@@ -334,7 +342,7 @@ __Downloads__: 2 | __Repository__: https://github.com/thordreier/KeePassImportEx
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
-__Downloads__: 9,243,556 | __Repository__: https://github.com/Pester/Pester
+__Downloads__: 9,243,500 | __Repository__: https://github.com/Pester/Pester
 
 ## [ghcman](https://www.powershellgallery.com/Packages/ghcman/4.10) | 4.10
 
@@ -358,7 +366,7 @@ __Downloads__: 51,192 | __Repository__: https://github.com/joonro/Get-ChildItemC
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,238,360 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,238,358 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.0.0) | 2.1.0.0
 
@@ -392,7 +400,7 @@ __Downloads__: 17 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,562,087 | __Repository__: https://dbatools.io/
+__Downloads__: 1,562,084 | __Repository__: https://dbatools.io/
 
 ## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/1.6.0) | 1.6.0
 
@@ -512,7 +520,7 @@ __Downloads__: 43 | __Repository__: https://github.com/archmachina/ps-reportrunn
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,831,591 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,831,581 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [MEM-Win32App-Builder](https://www.powershellgallery.com/Packages/MEM-Win32App-Builder/0.1.3) | 0.1.3
 
@@ -1500,7 +1508,7 @@ __Downloads__: 48 | __Repository__: https://github.com/StartAutomating/LightScri
 
 Combines two object lists based on a related property between them.
 
-__Downloads__: 11,485 | __Repository__: https://github.com/iRon7/Join-Object
+__Downloads__: 11,484 | __Repository__: https://github.com/iRon7/Join-Object
 
 ## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.2.2) | 0.2.2
 
@@ -1516,7 +1524,7 @@ __Downloads__: 364 | __Repository__: https://github.com/StartAutomating/HelpOut
 
 PowerShell module
 
-__Downloads__: 514,052 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 514,031 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/10.2.8) | 10.2.8
 
@@ -2105,14 +2113,6 @@ __Downloads__: 79,559 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 21,223 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 21,224 | __Repository__: https://ironmansoftware.com/powershell-universal
 
-## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.29) | 3.29
-
-### Published: 04/21/2022 16:48:12 by Ken Lasko
-
-PowerShell module for Nectar DXP
-
-__Downloads__: 351 | __Repository__: 
-
-*Updated: Monday, May 2, 2022 10:02:51 AM UTC*
+*Updated: Monday, May 2, 2022 11:32:40 AM UTC*
