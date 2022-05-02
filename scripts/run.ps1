@@ -42,8 +42,16 @@ if (Test-Path $tmpData) {
 
     #top author report
     C:\scripts\psgalleryreports\scripts\top-authorreport.ps1
+
     #make tag list
     C:\scripts\PSGalleryReports\scripts\make-taglist.ps1
+
+    #export data to json
+    Write-Host "[$(Get-Date)] Exporting gallery data to JSON" -ForegroundColor cyan
+    Import-Clixml -Path $tmpData | Select-Object -property Name, Version, Author, CompanyName, Tags, ProjectURI,
+    Description, PublishedDate, @{Name = "Downloads"; Expression = { $_.additionalmetadata.downloadcount } } |
+    ConvertTo-Json | Out-File c:\scripts\psgalleryreports\psgallerydata.json -Encoding utf8
+
     #Create PDFs
     c:\scripts\psgalleryreports\scripts\create-pdf.ps1
 
@@ -66,6 +74,9 @@ Write-Host "[$(Get-Date)] Ending c:\scripts\psgalleryreport\run.ps1" -Foreground
 
 <#
 Change Log
+
+5/2/2022
+  Updated to export a subset of PSGallery data to a JSON file so you can create your own custom reports.
 
 4/23/2022
   Added test for PowerShellGallery.com

@@ -62,6 +62,15 @@ Find-Module -tag bios
 
 :hand: Do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
+## PSGallery Data
+
+This repository will also contain a JSON file of export PSGallery information. You can import this file and use it to create your own reports.
+
+```powershell
+$data = Get-Content psgallerydata.json | ConvertFrom-JSON
+$data | where name -match "(SQL)|(database)" | Select name,author,version,description,projecturi
+```
+
 ## A Note on Scripts
 
 I am currently running a daily PowerShell scheduled job locally to generate the reports and upload them to the repository. The general workflow is to get all modules and export the data to a clixml file. I then re-import this data and filter it to generate the reports.

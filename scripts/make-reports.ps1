@@ -81,7 +81,8 @@ Switch ($ReportType) {
 }
 
 $fragments = [system.collections.generic.list[string]]::new()
-$fragments.Add("# $title`n")
+$fragments.Add("# $title")
+$fragments.Add("`n")
 $fragments.Add("![PS](images/powershell-emoji.png)`n")
 $fragments.Add($intro)
 foreach ($item in $query) {
@@ -104,6 +105,8 @@ Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor ye
 <#
 Change log
 
+5/2/2022
+  Fixed bug that was leaving an unprintable character in the title
 4/20/2022
   Updated to use full paths and not $PSScriptRoot
   Modified to use absolute URI
