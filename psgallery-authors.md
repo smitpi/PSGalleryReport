@@ -1,4 +1,4 @@
-# Top 25 PSGallery Contributors
+﻿# Top 25 PSGallery Contributors
 
 This is a report of contributions to the [PowerShell Gallery](https://powershellgallery.org) from the top 25 module authors. This list excludes major vendors such as Microsoft, Amazon, and VMware. The exclusions are completely subjective. The intent is to use this report to highlight *individual contributors* to the PowerShell Gallery.
 
@@ -8,30 +8,30 @@ Internal navigation links may not work in the PDF version of this report.
 
 
 + [psdevuk](#psdevuk) (90)
-+ [Texas Roemer](#Texas-Roemer) (62)
++ [Texas Roemer](#Texas-Roemer) (61)
 + [Przemyslaw Klys](#Przemyslaw-Klys) (59)
 + [Adam Driscoll](#Adam-Driscoll) (50)
 + [Friedrich Weinmann](#Friedrich-Weinmann) (49)
 + [Pawel Wujczyk](#Pawel-Wujczyk) (47)
 + [Marius Storhaug](#Marius-Storhaug) (42)
 + [John.Leyva](#JohnLeyva) (39)
-+ [Jan Hoek](#Jan-Hoek) (33)
++ [Jan Hoek](#Jan-Hoek) (32)
 + [Jeff Hicks](#Jeff-Hicks) (31)
 + [Michael Haken](#Michael-Haken) (31)
-+ [James Brundage](#James-Brundage) (28)
++ [James Brundage](#James-Brundage) (29)
 + [Gabriel Adrian Samfira Alessandro Pilotti](#Gabriel-Adrian-Samfira-Alessandro-Pilotti) (24)
 + [mkht](#mkht) (23)
 + [Adam Bertram](#Adam-Bertram) (23)
-+ [Christos Polydorou](#Christos-Polydorou) (21)
 + [Warren Frame](#Warren-Frame) (21)
++ [Christos Polydorou](#Christos-Polydorou) (21)
 + [Brandon Olin](#Brandon-Olin) (20)
 + [Joel Bennett](#Joel-Bennett) (20)
 + [jakub.pawlowski](#jakubpawlowski) (19)
 + [EPRSBuildTeam](#EPRSBuildTeam) (18)
-+ [Roy Ashbrook](#Roy-Ashbrook) (17)
-+ [Douglas Finke](#Douglas-Finke) (17)
 + [Shannon Graybrook](#Shannon-Graybrook) (17)
-+ [Arcus](#Arcus) (16)
++ [Douglas Finke](#Douglas-Finke) (17)
++ [Iain Brighton](#Iain-Brighton) (16)
++ [WebMD Health Services](#WebMD-Health-Services) (16)
 
 ## psdevuk
 
@@ -162,7 +162,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **Invoke-InstallFromRepositoryOemREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to perform a repository update from a supported network share. Recommended to use HTTPS share "downloads.dell.com" repository for updates or you can create and use a custom repository using Dell Repository Manager (DRM) utility. [*01/06/2022 00:36:35*]
 + **Invoke-InsertEjectVirtualMediaREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get virtual media information, attach or eject virtual media located on supported network share. Supported network shares are NFS, CIFS, HTTP and HTTPS. [*01/06/2022 00:35:35*]
 + **Invoke-InitializeVirtualDiskREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks or initialize virtual disk. [*01/06/2022 00:34:34*]
-+ **Invoke-IdracRemoteKvmHtmlSessionREDFISH 6.0.0**  - iDRAC Cmdlet using Redfish API with OEM extension to to launch iDRAC HTML KVM session using your default browser. [*01/06/2022 00:33:36*]
 + **Invoke-IdracLicenseManagementREDFISH 2.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to manage iDRAC licenses. Get current licenses, export/import/delete licenses supported. [*01/06/2022 00:32:34*]
 + **Invoke-IdracJobQueueManagementREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to manage iDRAC job queue. Supported operations are get current job queue, delete single job ID, clear complete job queue or clear complete job queue/restart Lifecycle Controller services. [*01/06/2022 00:31:33*]
 + **Invoke-GenerateCsrREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current iDRAC certs or generate CSR for iDRAC. [*01/06/2022 00:29:38*]
@@ -193,6 +192,7 @@ Internal navigation links may not work in the PDF version of this report.
 
 ## Przemyslaw Klys
 
++ **[PSWritePDF 0.0.19](https://github.com/EvotecIT/PSWritePDF)**  - Little project to create, read, modify, split, merge PDF files on Windows, Linux and Mac. [*05/03/2022 08:38:17*]
 + **[PSParseHTML 0.0.22](https://github.com/EvotecIT/PSParseHTML)**  - Module that allows to manipulate, parse, format and optimize HTML, JavaScript and CSS [*05/01/2022 17:22:13*]
 + **[PSSharedGoods 0.0.225](https://github.com/EvotecIT/PSSharedGoods)**  - Module covering functions that are shared within multiple projects [*04/30/2022 17:40:52*]
 + **[SecurityPolicy 0.0.1](https://github.com/EvotecIT/SecurityPolicy)**  - Module that allows getting, adding and removing User Rights Assignment without using secedit.exe [*04/14/2022 20:43:27*]
@@ -209,7 +209,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **[Mailozaurr 0.0.24](https://github.com/EvotecIT/MailoZaurr)**  - Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast. [*01/24/2022 17:22:48*]
 + **WordManager 0.0.1**  - WordManager is a PowerShell module that provides a set of functions for private use. [*01/11/2022 21:38:25*]
 + **[PSWriteWord 1.1.14](https://github.com/EvotecIT/PSWriteWord)**  - Simple project to create Microsoft Word in PowerShell without having Office installed. [*01/11/2022 17:15:37*]
-+ **[PSWritePDF 0.0.18](https://github.com/EvotecIT/PSWritePDF)**  - Little project to create, read, modify, split, merge PDF files on Windows, Linux and Mac. [*12/23/2021 08:48:56*]
 + **O365EmailAddressPolicy 0.0.2**  - Office 365 Email Address Policy [*12/21/2021 16:31:38*]
 + **[GPOZaurr 0.0.150](https://github.com/EvotecIT/GPOZaurr)**  - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. [*12/06/2021 08:38:15*]
 + **[PSTeams 2.1.1](https://github.com/EvotecIT/PSTeams)**  - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons. [*12/05/2021 09:37:09*]
@@ -420,32 +419,32 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[GitHub.Search 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Search [*03/07/2022 21:04:49*]
 + **[GitHub.Repos 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Repos [*03/07/2022 21:04:47*]
 + **[Github.Dependabot 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Dependabot [*03/07/2022 21:04:45*]
-+ **[GitHub.Git 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Git [*03/07/2022 21:04:42*]
-+ **[GitHub.Migrations 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Migrations [*03/07/2022 21:04:42*]
 + **[GitHub.Branches 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Branches [*03/07/2022 21:04:42*]
++ **[GitHub.Migrations 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Migrations [*03/07/2022 21:04:42*]
++ **[GitHub.Git 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Git [*03/07/2022 21:04:42*]
 + **[GitHub.Orgs 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Orgs [*03/07/2022 21:04:42*]
 + **[GitHub.GitIgnore 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.GitIgnore [*03/07/2022 21:04:41*]
 + **[GitHub.Packages 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Packages [*03/07/2022 21:04:40*]
-+ **[GitHub.Teams 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Teams [*03/07/2022 21:04:37*]
 + **[GitHub.Reactions 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Reactions [*03/07/2022 21:04:37*]
++ **[GitHub.Teams 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Teams [*03/07/2022 21:04:37*]
++ **[GitHub.Pulls 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Pulls [*03/07/2022 21:04:35*]
 + **[GitHub.Meta 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Meta [*03/07/2022 21:04:35*]
 + **[GitHub.Emojis 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Emojis [*03/07/2022 21:04:35*]
-+ **[GitHub.Pulls 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Pulls [*03/07/2022 21:04:35*]
 + **[GitHub.Codespaces 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Codespaces [*03/07/2022 21:04:34*]
 + **[GitHub.Gists 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Gists [*03/07/2022 21:04:34*]
-+ **[GitHub.Apps 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Apps [*03/07/2022 21:04:32*]
 + **[GitHub.Billing 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Billing [*03/07/2022 21:04:32*]
++ **[GitHub.Apps 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Apps [*03/07/2022 21:04:32*]
 + **[GitHub.Deployments 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Deployments [*03/07/2022 21:04:32*]
-+ **[GitHub.Webhooks 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Webhooks [*03/07/2022 21:04:30*]
 + **[GitHub.Actions 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Actions [*03/07/2022 21:04:30*]
++ **[GitHub.Webhooks 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Webhooks [*03/07/2022 21:04:30*]
 + **[GitHub.CodeScanning 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.CodeScanning [*03/07/2022 21:04:29*]
-+ **[GitHub.Users 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Users [*03/07/2022 21:04:29*]
 + **[GitHub.Checks 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Checks [*03/07/2022 21:04:29*]
++ **[GitHub.Users 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Users [*03/07/2022 21:04:29*]
 + **GitHub.CodesOfConduct 0.0.6**  - PowerShell Module for GitHub.CodesOfConduct [*03/07/2022 21:04:28*]
-+ **[GitHub.Projects 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Projects [*03/07/2022 21:04:28*]
 + **[GitHub.RateLimit 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.RateLimit [*03/07/2022 21:04:28*]
-+ **[GitHub.SecretScanning 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.SecretScanning [*03/07/2022 21:04:27*]
++ **[GitHub.Projects 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Projects [*03/07/2022 21:04:28*]
 + **[GitHub.Commits 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Commits [*03/07/2022 21:04:27*]
++ **[GitHub.SecretScanning 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.SecretScanning [*03/07/2022 21:04:27*]
 + **[GitHub.ServerStatistics 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.ServerStatistics [*03/07/2022 21:04:26*]
 + **[GitHub.Licenses 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Licenses [*03/07/2022 21:04:25*]
 + **[GitHub.Markdown 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Markdown [*03/07/2022 21:04:22*]
@@ -528,7 +527,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[UncommonSense.CBreeze.Automation 1.1.1.4](https://github.com/jhoek/UncommonSense.CBreeze)**  - PowerShell API for the Dynamics NAV object text format [*04/23/2019 08:18:13*]
 + **[UncommonSense.Nav.Utils 1.0.6](https://github.com/jhoek/UncommonSense.Nav.Utils)**  - PowerShell utility cmdlets for Microsoft Dynamics NAV [*03/29/2019 12:27:39*]
 + **[UncommonSense.Nav.ObjectIDReservations 1.0.5](https://github.com/jhoek/UncommonSense.Nav.ObjectIDReservations)**  - Cmdlets for maintaining a list of reserved object IDs in a (decentralised) Microsoft Dynamics NAV development team. [*03/18/2019 07:50:40*]
-+ **UncommonSense.PowerShell.Formatting 1.0**  - Module for defining PowerShell formatting data. [*02/02/2019 10:43:28*]
 + **[UncommonSense.PowerShell.Utils 1.0.6](https://github.com/jhoek/UncommonSense.PowerShell.Utils)**  - PowerShell utility cmdlets [*11/30/2018 05:46:28*]
 + **[UncommonSense.Powershell.Documentation 0.0.2](https://github.com/jhoek/UncommonSense.PowerShell.Documentation)**  - PowerShell module for converting PowerShell help information to MarkDown [*03/31/2018 12:41:24*]
 + **[UncommonSense.PowerShell.TypeData 1.2.1.40](https://github.com/jhoek/UncommonSense.PowerShell.TypeData)**  - PowerShell module to help build PowerShell type extension files [*03/08/2018 20:32:33*]
@@ -609,9 +607,9 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 
 ## James Brundage
 
++ **[HelpOut 0.2.3](https://github.com/StartAutomating/HelpOut)**  - A Helpful Toolkit for Managing PowerShell Help [*05/03/2022 04:27:32*]
 + **[Piecemeal 0.2.5](https://github.com/StartAutomating/Piecemeal)**  - Easy Extensible Plugins for PowerShell [*05/02/2022 05:36:48*]
 + **[LightScript 0.2.3](https://github.com/StartAutomating/LightScript)**  - Smarter Lighting with PowerShell [*04/26/2022 11:10:19*]
-+ **[HelpOut 0.2.2](https://github.com/StartAutomating/HelpOut)**  - A Helpful Toolkit for Managing PowerShell Help [*04/26/2022 10:07:11*]
 + **[PS3D 0.1](https://github.com/StartAutomating/PS3D)**  - 3D Printing Tools for PowerShell [*04/25/2022 05:47:46*]
 + **[ugit 0.1.9](https://github.com/StartAutomating/ugit)**  - ugit:  Updated Git.
 
@@ -629,6 +627,7 @@ A powerful PowerShell wrapper for git that lets you extend git, automate multipl
 + **[ScriptCop 1.6.1](https://github.com/StartAutomating/ScriptCop)**  - A PowerShell Static Analysis Tool to help your scripts follow the rules. [*08/10/2020 08:45:14*]
 + **[WTX 0.3](https://github.com/StartAutomating/WTX)**  - Windows Terminal Extras | Optimize-WindowsTerminal -with PowerShell [*06/24/2020 04:00:21*]
 + **[PowerArcade 0.4.2](https://github.com/StartAutomating/PowerArcade)**  - A Retro Arcade Game Console in PowerShell [*04/07/2020 02:08:05*]
++ **ShuffleScreen 0.1**  - A Screen Saver for PowerArcade that shuffles the screen [*04/01/2020 04:07:57*]
 + **Blackjack 0.1.2**  - A BlackJack Game for PowerArcade [*04/01/2020 04:01:07*]
 + **[PowerHistory 0.1](https://github.com/StartAutomating/PowerHistory)**  - PowerShell History Made More Powerful [*03/03/2020 06:21:20*]
 + **PoshMacros 0.1**  - Sleek and Simple PowerShell Macros [*02/09/2020 23:12:56*]
@@ -723,30 +722,6 @@ provide a standard interface to treat software installers of all types exactly t
 + **[SoftwareInstallManager 1.0.0.0](https://github.com/adbertram/SoftwareInstallManager)**  - This module assists software deployment administrators in deploying disparate software. It is designed to
 provide a standard interface to treat software installers of all types exactly the same. [*04/09/2016 21:36:01*]
 
-## Christos Polydorou
-
-+ **CPolydorou.Docker 1.0.0**  - Docker Helper Functions and Cmdlets [*02/14/2022 09:47:31*]
-+ **CPolydorou.Exchange 2.11.1**  - This module contains usefull cmdlets for Exchange Server. [*02/07/2022 09:47:42*]
-+ **CPolydorou.General 2.13.1**  - This module contains various helper functions [*02/04/2022 16:32:07*]
-+ **CPolydorou.FileSystem 4.6.1**  - This module contains functions relative to filesystem. [*02/01/2022 17:44:45*]
-+ **CPolydorou.ActiveDirectory 1.9.1**  - Active Directory Helper Functions [*02/01/2022 17:41:39*]
-+ **CPolydorou.HostsFile 1.2.2**  - Manipulate the entries in the hosts file. [*01/28/2022 09:07:30*]
-+ **CPolydorou.Network 1.6.1**  - This module contains functions about network tasks. [*01/28/2022 09:01:32*]
-+ **CPolydorou.ActiveDirectoryLDAP 1.0.3**  - This module contains functions related to Active Directory operations using LDAP. [*01/24/2022 18:50:27*]
-+ **CPolydorou.Security 1.3.1**  - Security related functions. [*01/24/2022 18:45:43*]
-+ **CPolydorou.AdvancedAlgorithms 1.2.0.1**  - A set of usefull algorithms, implemented for Powershell. [*01/19/2022 10:15:46*]
-+ **CPolydorou.Azure.WebApp 1.0.2**  - Azure Web App related function and cmdlets. [*01/19/2022 10:10:07*]
-+ **CPolydorou.ProxyServer 1.2.1**  - Proxy Server functions [*01/17/2022 15:08:05*]
-+ **CPolydorou.Link 1.0.6**  - This module contains function to manipulate NTFS links. [*01/17/2022 15:03:19*]
-+ **CPolydorou.PuTTY 1.0.0.7**  - Useful PuTTY cmdlets [*01/14/2022 09:22:15*]
-+ **CPolydorou.IIS 1.5.1**  - IIS Helper Functions [*01/14/2022 09:16:21*]
-+ **CPolydorou.SystemPath 1.1.3**  - This module contains functions to update the system path [*01/12/2022 15:29:31*]
-+ **CPolydorou.PSISE 1.4.5**  - Powershell ISE Helper Functions [*01/12/2022 15:24:23*]
-+ **CPolydorou.ShadowCopy 1.2.3**  - This module contains functions to manipulate shadow copies. [*01/12/2022 11:06:55*]
-+ **CPolydorou.PowershellModulePath 1.1.4**  - This module contains functions to update the powershell module path. [*01/10/2022 09:52:16*]
-+ **CPolydorou.7Z 1.3.1**  - 7Zip Functions [*01/10/2022 09:43:11*]
-+ **CPolydorou.DataStructures 1.0.0.3**  - Data structure object types for advanced algorithms and calculations. [*01/07/2022 12:45:26*]
-
 ## Warren Frame
 
 + **[PSSlack 1.0.6](https://github.com/RamblingCookieMonster/PSSlack/)**  - PowerShell module for the Slack API [*07/01/2021 00:46:21*]
@@ -770,6 +745,30 @@ provide a standard interface to treat software installers of all types exactly t
 + **[PSLDAPQueryLogging 1.0](https://github.com/RamblingCookieMonster/PSLDAPQueryLogging)**  - PowerShell module for diagnostic LDAP query logging [*10/02/2015 23:09:35*]
 + **[PSDiskPart 1.0](https://github.com/RamblingCookieMonster/PSDiskPart)**  - Work with DiskPart [*07/08/2015 02:13:18*]
 + **[SecretServer 1.0](https://github.com/RamblingCookieMonster/SecretServer)**  - Work with Secret Server Web Services and SQL Database [*07/08/2015 01:23:19*]
+
+## Christos Polydorou
+
++ **CPolydorou.Docker 1.0.0**  - Docker Helper Functions and Cmdlets [*02/14/2022 09:47:31*]
++ **CPolydorou.Exchange 2.11.1**  - This module contains usefull cmdlets for Exchange Server. [*02/07/2022 09:47:42*]
++ **CPolydorou.General 2.13.1**  - This module contains various helper functions [*02/04/2022 16:32:07*]
++ **CPolydorou.FileSystem 4.6.1**  - This module contains functions relative to filesystem. [*02/01/2022 17:44:45*]
++ **CPolydorou.ActiveDirectory 1.9.1**  - Active Directory Helper Functions [*02/01/2022 17:41:39*]
++ **CPolydorou.HostsFile 1.2.2**  - Manipulate the entries in the hosts file. [*01/28/2022 09:07:30*]
++ **CPolydorou.Network 1.6.1**  - This module contains functions about network tasks. [*01/28/2022 09:01:32*]
++ **CPolydorou.ActiveDirectoryLDAP 1.0.3**  - This module contains functions related to Active Directory operations using LDAP. [*01/24/2022 18:50:27*]
++ **CPolydorou.Security 1.3.1**  - Security related functions. [*01/24/2022 18:45:43*]
++ **CPolydorou.AdvancedAlgorithms 1.2.0.1**  - A set of usefull algorithms, implemented for Powershell. [*01/19/2022 10:15:46*]
++ **CPolydorou.Azure.WebApp 1.0.2**  - Azure Web App related function and cmdlets. [*01/19/2022 10:10:07*]
++ **CPolydorou.ProxyServer 1.2.1**  - Proxy Server functions [*01/17/2022 15:08:05*]
++ **CPolydorou.Link 1.0.6**  - This module contains function to manipulate NTFS links. [*01/17/2022 15:03:19*]
++ **CPolydorou.PuTTY 1.0.0.7**  - Useful PuTTY cmdlets [*01/14/2022 09:22:15*]
++ **CPolydorou.IIS 1.5.1**  - IIS Helper Functions [*01/14/2022 09:16:21*]
++ **CPolydorou.SystemPath 1.1.3**  - This module contains functions to update the system path [*01/12/2022 15:29:31*]
++ **CPolydorou.PSISE 1.4.5**  - Powershell ISE Helper Functions [*01/12/2022 15:24:23*]
++ **CPolydorou.ShadowCopy 1.2.3**  - This module contains functions to manipulate shadow copies. [*01/12/2022 11:06:55*]
++ **CPolydorou.PowershellModulePath 1.1.4**  - This module contains functions to update the powershell module path. [*01/10/2022 09:52:16*]
++ **CPolydorou.7Z 1.3.1**  - 7Zip Functions [*01/10/2022 09:43:11*]
++ **CPolydorou.DataStructures 1.0.0.3**  - Data structure object types for advanced algorithms and calculations. [*01/07/2022 12:45:26*]
 
 ## Brandon Olin
 
@@ -863,25 +862,25 @@ provide a standard interface to treat software installers of all types exactly t
 + **cEPRSAddAslogOnSvc 1.0**  - cEPRSAddAslogOnSvc Module helps in providing the logon permissions to a Service accountaccount [*11/24/2015 14:37:15*]
 + **cEPRSWebProperties 1.0**  - cEPRSWebProperties Module helps in managing the website property resources like: cEPRSISAPIRestrictions- Resource helps in adding the API restrictions, cEPRSAutoStart- Resource helps in enabling Auto start and cEPRSExtendedProtection- Resource helps in providing the Extended Protection [*11/24/2015 13:30:48*]
 
-## Roy Ashbrook
+## Shannon Graybrook
 
-+ **Get-FilesForMCTF 1.1.0**  - Get files used for Motor Carrier Tax Filing. [*11/22/2021 20:30:26*]
-+ **Set-ItemContent 1.0.1**  - Common module for updating item content via Microsoft Graph [*11/17/2021 15:02:30*]
-+ **New-LocalCopy 1.0.0.0**  - Uses PSCredential to copy a file to the current directory [*11/01/2021 23:57:18*]
-+ **Read-OleDbData 1.0.0.0**  - Common module for reading oledb data using dotnet libs [*11/01/2021 22:57:03*]
-+ **wcftp 1.0.0.0**  - Basic FTP operations using dotnet webclient class. [*08/11/2021 18:03:02*]
-+ **Send-FileViaEmail 1.1.0.0**  - Sends a file via email. Pass in file path and mail config. [*06/22/2021 19:46:09*]
-+ **Get-OneFileFromZip 1.1.1.0**  - Returns one file from a zip. Uses Streamreader ReadToEnd method to return results. [*06/01/2021 14:52:03*]
-+ **New-ItemContent 1.0.0.2**  - Common module for generating item content for Microsoft Graph [*05/05/2021 21:37:38*]
-+ **Get-DataSetFromSQL 1.0.0.0**  - Returns a DataSet from MSSQL server when given SQL and connection string. [*05/05/2021 17:08:25*]
-+ **ConvertTo-XLSX 1.0.0.0**  - Converts a datatable to an xlsx file using epplus.dll. [*05/03/2021 20:32:58*]
-+ **Clear-Files 1.0.0.0**  - Clears files from the current directory based on config. [*05/03/2021 20:14:44*]
-+ **Get-DataTableFromSQL 1.0.0.0**  - Returns a Datatable from MSSQL server when given SQL and connection string. [*04/22/2021 20:43:23*]
-+ **Test-IsLocalAdmin 1.0.0.1**  - Returns if user is a local administrator. [*04/18/2021 05:37:20*]
-+ **Split-FreightItemsGBForMCTF 1.0.0.0**  - Returns an array with Good and Bad FreightItems to be used for Motor Carrier Tax Filing. [*04/16/2021 22:13:37*]
-+ **Get-TestResultsForMCTF 1.0.0.1**  - Returns a list of Test Results for Motor Carrier Tax Filings. [*04/16/2021 22:04:28*]
-+ **Get-FreightItemsForMCTF 1.0.0.1**  - Returns a list of Freight Items for Motor Carrier Tax Filings. [*04/16/2021 21:45:26*]
-+ **Add-PrefixForLogging 1.0.0.2**  - Adds a prefix for logging to a string. [*04/16/2021 19:25:09*]
++ **[ConvertFrom-DataRow 0.9.2](https://github.com/realslacker/ConvertFrom-DataRow)**  - Small utility PowerShell module with function to convert System.Data.DataRow objects to OrderedDictionary or PSCustomObject. [*01/06/2022 22:33:36*]
++ **BW.Utils.GroupPolicy.WMIFilter 21.12.1.1107**  - Module to support the import and export of Group Policy WMI filters [*12/01/2021 17:07:21*]
++ **[BitwardenWrapper 21.11.29.1420](https://github.com/realslacker/BitwardenWrapper)**  - Wrapper module for Bitwarden CLI bw.exe [*11/29/2021 20:20:33*]
++ **[SoftwareInstallDsc 0.6](https://github.com/realslacker/SoftwareInstallDsc)**  - DSC resources for configuring software installation. [*11/24/2021 17:14:57*]
++ **[ActiveDirectoryObjectPicker 3.0.7](https://github.com/realslacker/ActiveDirectoryObjectPicker)**  - Tulpep.ActiveDirectoryObjectPicker wrapper for PowerShell [*07/20/2021 14:22:54*]
++ **BW.Utils.GroupPolicy 21.7.16.1505**  - Generic group policy utilities to supplement the official GroupPolicy module [*07/16/2021 20:05:18*]
++ **[UninstallHelper 21.5.19.1212](https://github.com/realslacker/UninstallHelper)**  - Functions to help with uninstalling software from Programs and Features list [*05/19/2021 17:29:18*]
++ **[BW.Utils.BindZoneFile 21.5.17.934](https://github.com/realslacker/BW.Utils.BindZoneFile)**  - Read and write Bind zone files [*05/17/2021 14:35:00*]
++ **BW.Utils.PSCron 20.12.15.2227**  - Handles cron scheduling. Intended to run every minute. [*12/16/2020 04:27:37*]
++ **[BW.Utils.WMIPermissions 20.10.13.1124](https://github.com/realslacker/BW.Utils.WMIPermissions)**  - Utility module to modify WMI Namespace permissions. [*10/13/2020 17:02:51*]
++ **BW.Utils.OutJson 20.6.9.1204**  - Implements Out-Json as a function to support outputting JSON files that are standards compliant. [*06/09/2020 17:04:51*]
++ **BW.Utils.InstallClickOnceApplication 20.6.8.1304**  - Small utility module to handle installing ClickOnce apps. [*06/08/2020 18:04:37*]
++ **[BWDynamicParameter 20.1.23.1413](https://github.com/realslacker/BWDynamicParameter)**  - Easily create dynamic parameters with extended validation. [*01/23/2020 20:13:12*]
++ **[BWNetworkTests 20.1.23.1410](https://github.com/realslacker/BWNetworkTests)**  - Network test utilities. [*01/23/2020 20:10:21*]
++ **[BWRandomPassword 20.1.23.1405](https://github.com/realslacker/BWRandomPassword)**  - Generates one or more complex passwords designed to fulfill the requirements for Active Directory. [*01/23/2020 20:05:50*]
++ **[ScreenConnectUtils 20.1.23.1319](https://github.com/realslacker/ScreenConnectUtils)**  - Helper functions for managing ScreenConnect [*01/23/2020 19:20:19*]
++ **PSmRemoteNG 20.1.23.1059**  - A module to create mRemoteNG connection files from PowerShell. [*01/23/2020 17:00:12*]
 
 ## Douglas Finke
 
@@ -909,43 +908,71 @@ Add topics [*02/14/2018 20:56:19*]
 + **[PowerShellAzureFunctions 1.0.0](https://github.com/dfinke/ServerlessPowerShell)**  - PowerShell module to publish code to Azure as Functions [*08/16/2017 20:16:09*]
 + **[ConvertToClass 1.5](https://github.com/dfinke/ConvertToClass)**  - PowerShell module to convert JSON or CSV to a PowerShell class definition [*05/14/2016 19:53:55*]
 
-## Shannon Graybrook
+## Iain Brighton
 
-+ **[ConvertFrom-DataRow 0.9.2](https://github.com/realslacker/ConvertFrom-DataRow)**  - Small utility PowerShell module with function to convert System.Data.DataRow objects to OrderedDictionary or PSCustomObject. [*01/06/2022 22:33:36*]
-+ **BW.Utils.GroupPolicy.WMIFilter 21.12.1.1107**  - Module to support the import and export of Group Policy WMI filters [*12/01/2021 17:07:21*]
-+ **[BitwardenWrapper 21.11.29.1420](https://github.com/realslacker/BitwardenWrapper)**  - Wrapper module for Bitwarden CLI bw.exe [*11/29/2021 20:20:33*]
-+ **[SoftwareInstallDsc 0.6](https://github.com/realslacker/SoftwareInstallDsc)**  - DSC resources for configuring software installation. [*11/24/2021 17:14:57*]
-+ **[ActiveDirectoryObjectPicker 3.0.7](https://github.com/realslacker/ActiveDirectoryObjectPicker)**  - Tulpep.ActiveDirectoryObjectPicker wrapper for PowerShell [*07/20/2021 14:22:54*]
-+ **BW.Utils.GroupPolicy 21.7.16.1505**  - Generic group policy utilities to supplement the official GroupPolicy module [*07/16/2021 20:05:18*]
-+ **[UninstallHelper 21.5.19.1212](https://github.com/realslacker/UninstallHelper)**  - Functions to help with uninstalling software from Programs and Features list [*05/19/2021 17:29:18*]
-+ **[BW.Utils.BindZoneFile 21.5.17.934](https://github.com/realslacker/BW.Utils.BindZoneFile)**  - Read and write Bind zone files [*05/17/2021 14:35:00*]
-+ **BW.Utils.PSCron 20.12.15.2227**  - Handles cron scheduling. Intended to run every minute. [*12/16/2020 04:27:37*]
-+ **[BW.Utils.WMIPermissions 20.10.13.1124](https://github.com/realslacker/BW.Utils.WMIPermissions)**  - Utility module to modify WMI Namespace permissions. [*10/13/2020 17:02:51*]
-+ **BW.Utils.OutJson 20.6.9.1204**  - Implements Out-Json as a function to support outputting JSON files that are standards compliant. [*06/09/2020 17:04:51*]
-+ **BW.Utils.InstallClickOnceApplication 20.6.8.1304**  - Small utility module to handle installing ClickOnce apps. [*06/08/2020 18:04:37*]
-+ **[BWDynamicParameter 20.1.23.1413](https://github.com/realslacker/BWDynamicParameter)**  - Easily create dynamic parameters with extended validation. [*01/23/2020 20:13:12*]
-+ **[BWNetworkTests 20.1.23.1410](https://github.com/realslacker/BWNetworkTests)**  - Network test utilities. [*01/23/2020 20:10:21*]
-+ **[BWRandomPassword 20.1.23.1405](https://github.com/realslacker/BWRandomPassword)**  - Generates one or more complex passwords designed to fulfill the requirements for Active Directory. [*01/23/2020 20:05:50*]
-+ **[ScreenConnectUtils 20.1.23.1319](https://github.com/realslacker/ScreenConnectUtils)**  - Helper functions for managing ScreenConnect [*01/23/2020 19:20:19*]
-+ **PSmRemoteNG 20.1.23.1059**  - A module to create mRemoteNG connection files from PowerShell. [*01/23/2020 17:00:12*]
++ **[PScribo 0.10.0](http://github.com/iainbrighton/PScribo)**  - PScribo documentation Powershell module/framework. [*04/20/2022 15:05:46*]
++ **[Lability 0.21.1](https://github.com/VirtualEngine/Lability)**  - The Lability module contains cmdlets for provisioning Hyper-V test lab and development environments. [*04/01/2022 11:48:18*]
++ **[VirtualEngine.EvergreenDsc 1.2.0](https://dev.azure.com/virtual-engine/PSRepository/_git/VirtualEngine.EvergreenDsc)**  - The VirtualEngine.EvergreenDsc module provides cmdlets and DSC resources for interacting with Virtual Engine Evergreen packages. [*11/19/2020 11:20:23*]
++ **[PScriboCharts 0.9.0](http://github.com/iainbrighton/PScriboCharts)**  - Powershell Charting module/framework. [*05/07/2020 15:34:33*]
++ **[XenDesktop7 2.10.0](https://github.com/VirtualEngine/XenDesktop7)**  - The XenDesktop7 DSC resources can automate the deployment and configuration of Citrix XenDesktop 7.x. These DSC resources are provided AS IS, and are not supported through any means. [*04/01/2020 14:52:43*]
++ **[AppLockerEx 1.0.0](https://github.com/VirtualEngine/AppLockerEx)**  - Programmatcally create AppLocker Policy (XML) documents with PowerShell. [*06/18/2019 19:18:59*]
++ **[XmlEx 0.9.5](https://github.com/IainBrighton/XmlEx)**  - The XmlEx module implements a simple PowerShell DSL for the creation and manipulation of XML documents. [*06/18/2019 16:57:36*]
++ **[VirtualEngine.Build 1.0.78](https://github.com/VirtualEngine/VirtualEngine.Build)**  - The VirtualEngine.Build module contains build helper cmdlets that are used to bundle Powershell modules and Visual Studio binary releases. [*04/12/2019 19:00:45*]
++ **[XenDesktop7Lab 2.6.0](https://github.com/VirtualEngine/XenDesktop7Lab)**  - Citrix XenDesktop 7 Lab DSC Composite Resources. [*04/06/2019 18:19:04*]
++ **[Storefront 0.9.6](https://github.com/VirtualEngine/Storefront)**  - The Citrix Storefront DSC resources can automate the deployment and configuration of Citrix Storefront 3.5 (and later). These DSC resources are provided AS IS, and are not supported through any means. [*01/10/2018 17:40:11*]
++ **[RESONEServiceStore 3.2.0](https://github.com/VirtualEngine/RESONEServiceStore)**  - RES ONE Identity Director and Service Store deployment and configuration PowerShell cmdlets and DSC resources. These DSC resources are provided AS IS, and are not supported through any means. [*11/08/2017 11:35:39*]
++ **[RESONEAutomation 2.6.1](https://github.com/VirtualEngine/RESONEAutomation)**  - RES ONE Automation PowerShell cmdlets and configuration composite DSC resources. These resources are provided AS IS, and are not supported through any means. [*11/07/2017 16:49:43*]
++ **[RESONEWorkspace 2.5.0](https://github.com/VirtualEngine/RESONEWorkspace)**  - RES ONE Workspace PowerShell cmdlets and configuration DSC resources. These resources are provided AS IS, and are not supported through any means. [*07/20/2017 13:33:07*]
++ **[FSLogixDsc 1.0.1](https://github.com/VirtualEngine/FSLogixDsc)**  - FSLogix Containers DSC Composite Resources. [*06/28/2017 18:44:40*]
++ **[GitHubRepository 1.2.0](https://github.com/iainbrighton/GitHubRepository)**  - Downloads and installs PowerShell modules and DSC resources directly from GitHub. [*07/11/2016 11:04:29*]
++ **[LegacyNetworking 1.0.1](https://github.com/VirtualEngine/LegacyNetworking)**  - Module with resources for legacy (Windows 7 and Server 2008 R2) networking via WMI. [*05/16/2016 15:00:42*]
 
-## Arcus
+## WebMD Health Services
 
-+ **[Arcus.Scripting.Storage.Table 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to interacting with Azure Table Storage [*04/06/2022 10:15:40*]
-+ **[Arcus.Scripting.Storage.FileShare 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure file share [*04/06/2022 10:15:35*]
-+ **[Arcus.Scripting.Storage.All 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure Storage [*04/06/2022 10:15:27*]
-+ **[Arcus.Scripting.Sql 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure SQL Database Migrations [*04/06/2022 10:15:22*]
-+ **[Arcus.Scripting.Security 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure security [*04/06/2022 10:15:16*]
-+ **[Arcus.Scripting.Management 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure Management [*04/06/2022 10:15:13*]
-+ **[Arcus.Scripting.LogicApps 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure Logic Apps [*04/06/2022 10:15:08*]
-+ **[Arcus.Scripting.KeyVault 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure Key Vault [*04/06/2022 10:15:04*]
-+ **[Arcus.Scripting.IntegrationAccount 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure Integration Account [*04/06/2022 10:14:59*]
-+ **[Arcus.Scripting.DevOps 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure DevOps [*04/06/2022 10:14:57*]
-+ **[Arcus.Scripting.DataFactory 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts relates to Azure Data Factory [*04/06/2022 10:14:54*]
-+ **[Arcus.Scripting.ARM 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure Resource Manager [*04/06/2022 10:14:51*]
-+ **[Arcus.Scripting.AppService 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure App Service [*04/06/2022 10:14:48*]
-+ **[Arcus.Scripting.ApiManagement 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure API Management [*04/06/2022 10:14:44*]
-+ **[Arcus.Scripting.All 0.6.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to Azure [*04/06/2022 10:14:41*]
-+ **[Arcus.Scripting.Storage.Blob 1.0](https://github.com/arcus-azure/arcus.scripting)**  - Scripts related to interacting with Azure Blob Storage [*11/17/2021 06:58:37*]
++ **[Prism 0.3.0](https://github.com/webmd-health-services/Prism)**  - Prism is a PowerShell module manager inspired by NuGet. Run `prism install` in a source code repository, and Prism will
+save private modules into a "PSModules" directory in that repository. Prism let's you:
 
-*Updated: Monday, May 2, 2022 7:04:40 PM UTC*
+* Package and deploy modules side-by-side with the app or tool that uses them without needing to install
+modules globally ahead of time.
+* Not worry about what modules are or aren't installed. Scripts can import and use modules from the "PSModules"
+directory in the script's source code repository.
+* Avoid comitting modules to the source code repository. Team members and build processes run `prism install` to
+get modules installed. [*03/17/2022 01:22:46*]
++ **[Whiskey 0.49.1](https://github.com/webmd-health-services/Whiskey)**  - Continuous Integration/Continuous Delivery module. [*02/08/2022 18:57:27*]
++ **[PxGet 0.1.2](https://github.com/webmd-health-services/PxGet)**  - A tool that is used to install required PowerShell modules into a targeted repository. [*01/25/2022 17:48:26*]
++ **[Carbon.Windows.Installer 1.0.0](https://github.com/webmd-health-services/Carbon.Windows.Installer)**  - The Carbon.Windows.Installer module is a Windows-only module that has functions for reading and installing Windows MSI
+files/packages, and for replicating Windows' "Programs and Features"/"Apps and Features"
+graphical user interface as objects and text.
+
+Functions include:
+
+* `Get-CInstalledProgram`: reads the registry to determine all the programs installed on the local computer. Returns
+an object for each program. Is an object-based and text-based version of Windows' "Programs and Features"/"Apps and
+Features" GUI.
+* `Get-CMsi`: reads an MSI file and returns an object exposing the MSI's internal tables, like product name, product
+code, product version, etc. Let's you inspect an MSI for its metadata without installing it. Can also download the MSI
+file first. This function requires Windows PowerShell or PowerShell 7.1+ on Windows.
+* `Install-CMsi`: installs a program from an MSI file, or other file that can be installed by Windows. Can also download
+the MSI file to install. This function requires Windows PowerShell or PowerShell 7.1+ on Windows.
+
+System Requirements:
+
+* Windows PowerShell 5.1 on .NET 4.5.2+
+* PowerShell 6.2, 7.1, or 7.2
+* Windows Server 2012 R2+ or Windows 8.1+ [*12/22/2021 22:36:31*]
++ **[NoOp 1.0.0](https://github.com/webmd-health-services/NoOp)**  - A module that does no work that we can use in automated tests that interact with the PowerShell Gallery. [*11/22/2021 20:24:00*]
++ **[BuildMasterAutomation 1.0.1](https://github.com/webmd-health-services/BuildMasterAutomation)**  - The BuildMasterAutomation module is a PowerShell module for working with BuildMaster web APIs. BuildMaster is an application deployment automation tool by Inedo software. This module wraps its web APIs in a PowerShell interface. It allows you to read and create applications, releases, packages, etc. If this module doesn't have a function for a specific API endpoint, it has generic `Invoke-BMRestMethod` and `Invoke-BMNativeApimethod` functions that take the pain out of creating the proper web requests. [*08/03/2021 19:05:24*]
++ **[ProGetAutomation 1.0.0](https://github.com/webmd-health-services/ProGetAutomation)**  - The ProGetAutomation module is used to automate Inedo's ProGet, a universal package manager. It can host your own NuGet, Docker, PowerShell, Ruby Gems, Visual Studio Extensions, Maven, NPM, Bower, and Chocolatey repositories. It has its own proprietary universal package repositories. [*06/29/2021 20:02:21*]
++ **[PagerDutyAutomation 0.1.1](https://whsbitbucket.webmd.net/projects/POWERSHELL/repos/PagerDutyAutomation/browse)**  - Functions for working with the PagerDuty APIs. [*05/04/2021 20:38:05*]
++ **[Carbon.Core 1.0.0](https://whsbitbucket.webmd.net/projects/POWERSHELL/repos/Carbon.Core/browse)**  - Functions that make doing things in PowerShell a little easier. We think these should be part of PowerShell itself. Core functions that are used by other Carbon modules. [*01/29/2021 20:42:40*]
++ **[BitbucketServerAutomation 1.0.0](https://github.com/webmd-health-services/BitbucketServerAutomation)**  - The Bitbucket Server Automation module is used to interact with Bitbucket Server. [*01/15/2021 22:08:06*]
++ **[Zip 0.3.2](https://github.com/webmd-health-services/Zip)**  - PowerShell module for creating ZIP archives. [*09/03/2020 19:16:59*]
++ **[Rivet 0.12.0](http://get-rivet.org/)**  - Rivet is a database migration/change management/versioning tool inspired by Ruby on Rails' Migrations. It creates and applies migration scripts for SQL Server databases. Migration scripts describe changes to make to your database, e.g. add a table, add a column, remove an index, etc. Migrations scripts should get added to your version control system so they can be packaged and deployed with your application's code. [*05/05/2020 18:44:36*]
++ **[Yodel 1.0.0](https://github.com/webmd-health-services/Yodel)**  - A PowerShell module for querying SQL (and other) data sources using .NET's native ADO.NET data access framework. [*03/18/2020 23:00:08*]
++ **Glob 0.1.1**  - A collection of functions that let's you find files/directories using advanced glob syntax. Uses Microsoft's [File System Globbing library](https://www.nuget.org/packages/Microsoft.Extensions.FileSystemGlobbing). [*12/11/2019 18:28:04*]
++ **[GitAutomation 0.14.0](https://github.com/webmd-health-services/GitAutomation)**  - GitAutomation is a PowerShell module for working with Git repositories. You can use it to create, clone, query, push to, pull from, and commit to Git repositories.
+    
+    This module uses [LibGit2Sharp](https://github.com/libgit2/libgit2sharp), the .NET wrapper of [libgit2](https://libgit2.github.com/), "a portable, pure C implementation of... Git", which allows you to call Git via API instead using the Git command line interface. [*09/30/2019 19:01:37*]
++ **[CloudBoltAutomation 0.0.1](https://github.com/webmd-health-services/CloudBoltAutomation)**  - A PowerShell module for using the CloudBolt API. [*06/21/2019 22:34:44*]
+
+*Updated: Tuesday, May 3, 2022 10:01:23 AM UTC*
