@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, May 3, 2022 10:01:23 AM UTC
+Updated: Wednesday, May 4, 2022 10:01:37 AM UTC
 
 "interactive
 .bat
@@ -146,6 +146,7 @@ adfstools
 adgroupmemberobjects
 adgroups
 adif
+adm
 admf
 admin
 admindirectory
@@ -218,6 +219,7 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -249,6 +251,7 @@ anaconda
 analysis
 analysisservices
 analyst
+analyth
 analytics
 analyze
 analyzer
@@ -457,6 +460,7 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+availability
 availabilityset
 avalara
 avalonia
@@ -650,7 +654,6 @@ binding
 bing
 bingmap
 bingmaps
-bin-obj
 binomial
 bios
 bios_settings
@@ -666,8 +669,6 @@ bitwarden
 bitwig
 bitwise
 biztalk
-biztalkalm
-biztalkdeploymentframework
 bks
 black
 blackbaud
@@ -735,7 +736,6 @@ browserhistory
 brs
 bruteforce
 bson
-btdf
 btm
 budget
 bugzilla
@@ -782,6 +782,7 @@ callqueue
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 canonical
@@ -793,6 +794,7 @@ capslock
 capture
 carbon
 card
+cardwirth
 cargo
 carousel
 cartoon
@@ -940,6 +942,7 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+cleanmgr
 cleanup
 clean-up
 cleanup-orphans
@@ -1282,6 +1285,7 @@ crm2016
 cron
 crontab
 cropping
+crossjoin
 crossover
 crossplatform
 cross-platform
@@ -1305,6 +1309,7 @@ css
 csv
 csv2adx
 csvhelper
+ctf
 ctglobal
 ctl
 ctx
@@ -1444,7 +1449,6 @@ dcim_b324
 deathface
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1552,6 +1556,7 @@ diceware
 dicom
 dictionary
 diff
+difference
 dig
 digikam
 digital
@@ -1818,6 +1823,7 @@ email
 e-mail
 email-address
 emailaddressupdate
+emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -1934,6 +1940,7 @@ eventprocessor
 events
 eventsubscription
 event-timeline
+eventviewer
 eventwatch
 evergreen
 evernote
@@ -2051,7 +2058,6 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fieldglass
@@ -2216,6 +2222,7 @@ fudgepop
 fujitsu
 full
 fullclr
+fulljoin
 fullmetalgnome
 full-metal-gnome
 fun
@@ -2723,6 +2730,7 @@ inifile
 initialization
 initials-avatar
 initiator
+innerjoin
 innertext
 input
 inputbox
@@ -2883,9 +2891,11 @@ johnshopkins
 join
 join-object
 jojoba
+joke
 jotform
 journal
 jpg
+js7
 jsm
 jsm.insight
 json
@@ -2904,6 +2914,7 @@ jumpstart
 junction
 junctions
 jupyter
+jupytor
 justenoughadministration
 jwk
 jws
@@ -3015,6 +3026,7 @@ learning
 learningpowershell
 lease
 leetabit
+leftjoin
 legacy
 legacyad
 legends
@@ -3078,7 +3090,6 @@ lmhosts
 lms
 load
 loadbalancer
-loadbalancer.org
 loanddepot
 loandepot
 local
@@ -3144,6 +3155,7 @@ logrotate
 log-rotation
 logs
 logstash
+logz
 lol
 lolcat
 longfile
@@ -3363,6 +3375,7 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
+microsoftstore
 microsoftteams
 microsoft-teams
 microsoft-web-platform
@@ -3501,7 +3514,6 @@ multi-factor
 multimedia
 multipass
 multiple
-multiserver
 multithread
 multithreaded
 multithreaded-helpers
@@ -3711,6 +3723,7 @@ object
 objectid
 objectstorage
 objecttree
+obs
 observeit
 oce
 oci
@@ -3876,6 +3889,7 @@ ou
 oui-search
 out-consolegridview
 out-default
+outerjoin
 outertext
 out-gridview
 out-json
@@ -4095,6 +4109,7 @@ poll
 polycom
 ponduit
 pool
+poop
 pop
 pop3
 popd
@@ -4750,6 +4765,7 @@ rg
 rhapsody
 ribbon
 ribcl
+rightjoin
 rights
 ripe
 risk
@@ -5116,6 +5132,7 @@ shares
 share-stat
 sheets
 shell
+shell-art
 shells
 shieldedvm
 ships
@@ -5439,6 +5456,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -5616,6 +5634,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+techsmith
 tel
 telegram
 telegram-bot
@@ -5637,7 +5656,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal.gui
 terminal-services
@@ -5782,6 +5800,7 @@ transliteration
 transmission
 transparency
 trap
+trec
 tree
 treesize
 treffynnon
@@ -5857,6 +5876,7 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
+ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -6038,6 +6058,7 @@ validator
 value
 valve
 vami
+vao
 variable
 variables
 variance
@@ -6101,6 +6122,7 @@ virsh
 virtual
 virtualappliance
 virtualbox
+virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -6122,7 +6144,6 @@ visualbuilder
 visualc
 visualization
 visualstudio
-visual-studio
 visualstudiocode
 visualstudioonline
 visualstudioteamservices
@@ -6271,6 +6292,7 @@ webservice
 webservices
 website
 websites
+websocket
 websockets
 websphere
 websphereappserver
@@ -6557,6 +6579,7 @@ zvm
 ローマ字
 🍄
 🍣
+💩
 全角半角変換
 寿司
 日本語
