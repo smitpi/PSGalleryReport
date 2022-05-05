@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, May 4, 2022 10:01:37 AM UTC
+Updated: Thursday, May 5, 2022 10:01:35 AM UTC
 
 "interactive
 .bat
@@ -105,7 +105,6 @@ activeefficiency
 active-plug
 activeresponse
 activesession
-activiti
 activity
 activitycount
 act-on
@@ -654,6 +653,7 @@ binding
 bing
 bingmap
 bingmaps
+bin-obj
 binomial
 bios
 bios_settings
@@ -669,6 +669,8 @@ bitwarden
 bitwig
 bitwise
 biztalk
+biztalkalm
+biztalkdeploymentframework
 bks
 black
 blackbaud
@@ -714,7 +716,6 @@ botservice
 boundaries
 boundarygroups
 box
-bpmn
 brainy
 branch
 brave
@@ -736,6 +737,7 @@ browserhistory
 brs
 bruteforce
 bson
+btdf
 btm
 budget
 bugzilla
@@ -758,8 +760,11 @@ burpsuite
 bus
 business
 businesscentral
+businessdays
+businesshours
 businessobjects
 businessrulesengine
+businesstime
 bxor
 bydesign
 byexample
@@ -1011,7 +1016,6 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
@@ -1449,6 +1453,7 @@ dcim_b324
 deathface
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1776,6 +1781,7 @@ dynamics-crm
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dyndns
 dynmanageddns
 easy
@@ -1896,7 +1902,6 @@ error-log
 errors
 errorview
 eryph
-esae
 escape
 escapesequences
 escaping
@@ -2058,6 +2063,7 @@ feed
 fetch
 ffmpeg
 fhirservice
+fiche
 fiddler
 fido
 fieldglass
@@ -2332,7 +2338,6 @@ gitdesktop
 gitflow
 gitforwindows
 github
-github-action
 githubactions
 github-actions
 githubtools
@@ -2400,7 +2405,6 @@ graylog
 greenplum
 gremlin
 grep
-greynoise
 grid
 gridfs
 grok
@@ -3090,6 +3094,7 @@ lmhosts
 lms
 load
 loadbalancer
+loadbalancer.org
 loanddepot
 loandepot
 local
@@ -3193,7 +3198,6 @@ macos
 macosx
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -3514,6 +3518,7 @@ multi-factor
 multimedia
 multipass
 multiple
+multiserver
 multithread
 multithreaded
 multithreaded-helpers
@@ -3943,7 +3948,6 @@ paradox
 parallel
 parameter
 parameterinfo
-parameters
 parclient
 pardot
 parititions
@@ -4080,7 +4084,6 @@ player
 playlists
 pleasant
 pleasantpasswordserver
-plex
 plist
 plot
 plugin
@@ -4148,7 +4151,6 @@ poshtemplate
 poshwsus
 position
 postgre
-postgres
 postgresql
 pow
 powdrgit
@@ -4618,7 +4620,6 @@ redaction
 reddit
 redfield
 redfish
-redforest
 redgate
 redirect
 redirecting
@@ -5566,7 +5567,6 @@ system.text
 systemcenter
 systemcolors
 systemdiscovery
-system-group
 systeminfo
 systeminformation
 systemlocale
@@ -5656,6 +5656,7 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
+termbin
 terminal
 terminal.gui
 terminal-services
@@ -5745,7 +5746,6 @@ tlsprotocol
 toast
 toasts
 tobias
-toc
 todo
 todo.txt
 toggl
@@ -6144,6 +6144,7 @@ visualbuilder
 visualc
 visualization
 visualstudio
+visual-studio
 visualstudiocode
 visualstudioonline
 visualstudioteamservices
@@ -6436,6 +6437,9 @@ worker
 workflow
 workflowmax
 workflows
+workingdays
+workinghours
+workingtime
 workload-automation
 workpoint
 workrequests
