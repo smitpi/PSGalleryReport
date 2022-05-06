@@ -4,7 +4,7 @@
 
 This repository contains reports for the [PowerShell Gallery](https://powershellgallery.com). The hope is that it will be easier for you to find modules that will make your work easier. The plan is to update the reports on a regular basis and push them to this repository.
 
-Feel free to use the Discussion section of this repository to talk about specific modules. If you think there should be another type of report, feel https://github.com/jdhitsolutions/PSGalleryReport/issuesfree to submit a Feature Request in the [Issues](https://github.com/jdhitsolutions/PSGalleryReport/issues) section of this repository.
+Feel free to use the Discussion section of this repository to talk about specific modules. If you think there should be another type of report, feel <https://github.com/jdhitsolutions/PSGalleryReport/issuesfree> to submit a Feature Request in the [Issues](https://github.com/jdhitsolutions/PSGalleryReport/issues) section of this repository.
 
 > :warning: This project is __not__ a PowerShell module for you to install and run yourself. This repository is a location for reports that I am generating and publishing. You are welcome to take my scripts and use them as the basis for your own reporting.on
 
@@ -68,7 +68,7 @@ This repository will also contain a JSON file of export PSGallery information. Y
 
 ```powershell
 $data = Get-Content psgallerydata.json | ConvertFrom-JSON
-$data | where name -match "(SQL)|(database)" | Select name,author,version,description,projecturi
+$data | where-object {$_.name -match "(SQL)|(database)"} | Select-Object -property name,author,version,description,projecturi
 ```
 
 ## A Note on Scripts
