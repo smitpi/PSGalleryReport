@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, May 5, 2022 10:01:35 AM UTC
+Updated: Friday, May 6, 2022 10:01:33 AM UTC
 
 "interactive
 .bat
@@ -105,6 +105,7 @@ activeefficiency
 active-plug
 activeresponse
 activesession
+activiti
 activity
 activitycount
 act-on
@@ -185,7 +186,6 @@ aem
 aeries
 aeriessis
 aes
-afd
 affinity
 affinity-co
 affinity-crm
@@ -196,6 +196,7 @@ agile
 agility
 agm
 agnoster
+ah
 ai
 aianomalydetection
 ailanguage
@@ -210,6 +211,7 @@ ajustee
 aks
 alac
 alarm
+albertheijn
 albums
 alero
 alert
@@ -230,6 +232,7 @@ alm
 almrangers
 alpha
 alphafs
+alpine
 alpr
 alt3
 alter
@@ -250,7 +253,6 @@ anaconda
 analysis
 analysisservices
 analyst
-analyth
 analytics
 analyze
 analyzer
@@ -459,6 +461,7 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+autoyast
 availability
 availabilityset
 avalara
@@ -538,7 +541,6 @@ azuredevopsserver
 azuredns
 azurefilesync
 azure-forensics
-azurefunctionapp
 azurefunctions
 azure-functions
 azuregraph
@@ -600,7 +602,6 @@ base64
 base64string
 base64url
 base85
-basecamp
 based
 baseline
 bash
@@ -716,6 +717,7 @@ botservice
 boundaries
 boundarygroups
 box
+bpmn
 brainy
 branch
 brave
@@ -947,7 +949,6 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
-cleanmgr
 cleanup
 clean-up
 cleanup-orphans
@@ -1016,6 +1017,7 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
@@ -1617,7 +1619,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -1902,6 +1903,7 @@ error-log
 errors
 errorview
 eryph
+esae
 escape
 escapesequences
 escaping
@@ -1945,7 +1947,6 @@ eventprocessor
 events
 eventsubscription
 event-timeline
-eventviewer
 eventwatch
 evergreen
 evernote
@@ -2064,7 +2065,6 @@ fetch
 ffmpeg
 fhirservice
 fiche
-fiddler
 fido
 fieldglass
 fifa
@@ -2108,6 +2108,7 @@ filesystementry-matching
 filesystemrights
 filesystemsecurity
 filesystemwatcher
+filetransfer
 file-transform
 filetype
 file-type
@@ -2209,7 +2210,6 @@ france
 freeipa
 freenas
 freesoftwarefoundation
-freshbooks
 freshdesk
 freshservice
 front
@@ -2338,6 +2338,7 @@ gitdesktop
 gitflow
 gitforwindows
 github
+github-action
 githubactions
 github-actions
 githubtools
@@ -2405,6 +2406,7 @@ graylog
 greenplum
 gremlin
 grep
+greynoise
 grid
 gridfs
 grok
@@ -2454,7 +2456,6 @@ handle
 handler
 hangouts
 hannelstoolbox
-har
 hard
 hardblock
 harden
@@ -2548,6 +2549,7 @@ horizontal
 hornbill
 host
 host-based
+hostentry
 hostfile
 hostinstance
 hostname
@@ -2746,7 +2748,6 @@ insightanalytics
 insights
 inspect
 inspur
-instagram
 install
 installation
 installationmanager
@@ -2986,11 +2987,15 @@ l1tf
 l2tp
 lab
 labautomation
+labdefinition
 label
 labels
 lability
+labnotifications
 labservices
 labtech
+labtest
+labworker
 lake
 lambda
 lame
@@ -3057,8 +3062,6 @@ licenses
 licensing
 light
 lights
-lime
-limesurvey
 limit-job
 limits
 lina
@@ -3198,6 +3201,7 @@ macos
 macosx
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -3243,7 +3247,6 @@ map
 mapapi
 mappeddrives
 mapper24
-mapping
 maps
 mapsapi
 mariadb
@@ -3284,7 +3287,6 @@ mbc
 mbs
 mc
 mcafee
-mcas
 mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
@@ -3379,7 +3381,6 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
-microsoftstore
 microsoftteams
 microsoft-teams
 microsoft-web-platform
@@ -3948,6 +3949,7 @@ paradox
 parallel
 parameter
 parameterinfo
+parameters
 parclient
 pardot
 parititions
@@ -4063,11 +4065,9 @@ pipeline
 pipelines
 piraeus
 pivot
-pivotal
 pivottable
 pixoo
 pki
-pks
 place
 places
 plain
@@ -4084,6 +4084,7 @@ player
 playlists
 pleasant
 pleasantpasswordserver
+plex
 plist
 plot
 plugin
@@ -4151,6 +4152,7 @@ poshtemplate
 poshwsus
 position
 postgre
+postgres
 postgresql
 pow
 powdrgit
@@ -4620,6 +4622,7 @@ redaction
 reddit
 redfield
 redfish
+redforest
 redgate
 redirect
 redirecting
@@ -4881,7 +4884,6 @@ satirical
 save
 savedcreds
 savefile
-savings
 savov
 sbc
 sc
@@ -4959,8 +4961,6 @@ scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
-scrub
-scrubber
 scsm
 scuba
 sd
@@ -5070,7 +5070,6 @@ service-bus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
-servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5188,7 +5187,6 @@ sitemap
 siterecovery
 sites
 sitesystemserver
-sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5369,7 +5367,6 @@ sqlserveragent
 sqlvirtualmachine
 sqr
 sqrt
-square
 squire
 srcds
 srcsrv
@@ -5428,7 +5425,6 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
-staytus
 stderr
 stdout
 steam
@@ -5442,7 +5438,6 @@ stigrepo
 stingar
 stock
 stockcharts
-stocks
 stoicism
 stoics
 stop
@@ -5513,8 +5508,6 @@ support
 suppress
 supress-reboot
 surround
-survey
-surveymonkey
 sushi
 suspensive
 svesavov
@@ -5567,6 +5560,7 @@ system.text
 systemcenter
 systemcolors
 systemdiscovery
+system-group
 systeminfo
 systeminformation
 systemlocale
@@ -5746,6 +5740,7 @@ tlsprotocol
 toast
 toasts
 tobias
+toc
 todo
 todo.txt
 toggl
@@ -5943,6 +5938,7 @@ uml
 umn
 ums
 unattend
+unattendedfile
 unblock
 unc
 unicode
@@ -6003,7 +5999,6 @@ url
 urlencode
 url-encode
 urlhaus
-urlredirections
 urlrewrite
 urlscan
 url-shortener
@@ -6122,7 +6117,6 @@ virsh
 virtual
 virtualappliance
 virtualbox
-virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -6328,7 +6322,6 @@ wildfly
 wim
 wim2vhd
 win
-win10
 win2k8
 win32
 win32_installedwin32program
