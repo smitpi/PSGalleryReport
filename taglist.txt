@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, May 6, 2022 10:01:33 AM UTC
+Updated: Saturday, May 7, 2022 10:01:26 AM UTC
 
 "interactive
 .bat
@@ -32,7 +32,6 @@ Updated: Friday, May 6, 2022 10:01:33 AM UTC
 300
 365
 36867
-3d
 3dprinting
 3par
 50
@@ -116,7 +115,6 @@ ad
 ad_monitoring
 adal
 adapter
-adaptivecards
 adb
 adc
 adcs
@@ -186,6 +184,7 @@ aem
 aeries
 aeriessis
 aes
+afd
 affinity
 affinity-co
 affinity-crm
@@ -243,7 +242,6 @@ amateurradio
 amateur-radio
 amazon
 amazonwebservices
-amend
 ami
 amp
 amqp
@@ -253,6 +251,7 @@ anaconda
 analysis
 analysisservices
 analyst
+analyth
 analytics
 analyze
 analyzer
@@ -383,7 +382,6 @@ asp
 asp.net
 aspnet
 aspnet_regiis
-asr
 assembleenationale
 assemblymeta
 assert
@@ -430,14 +428,12 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
-authn
 authoring
 authoringtools
 authority
 authorization
 authorizationheaders
 authorize.net
-authz
 autify
 auto_cd
 autoattendant
@@ -541,6 +537,7 @@ azuredevopsserver
 azuredns
 azurefilesync
 azure-forensics
+azurefunctionapp
 azurefunctions
 azure-functions
 azuregraph
@@ -602,6 +599,7 @@ base64
 base64string
 base64url
 base85
+basecamp
 based
 baseline
 bash
@@ -949,6 +947,7 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+cleanmgr
 cleanup
 clean-up
 cleanup-orphans
@@ -1100,7 +1099,6 @@ commit
 common
 commonareaphone
 commondataservice
-common-data-service
 commonmark
 communication
 community
@@ -1218,8 +1216,6 @@ convertto-yaml
 convert-windowsimage
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1619,6 +1615,7 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
+dividends
 diving
 division
 divoom
@@ -1681,7 +1678,6 @@ dok
 dokuwiki
 domain
 domains
-donothing
 dos
 dot
 dotenv
@@ -1718,7 +1714,6 @@ drivertool.powercli
 driverupdates
 drm
 drop
-dropbox
 dropdatabase
 droplet
 droptable
@@ -1813,7 +1808,6 @@ einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
-element
 elevate
 elevated
 elevatedconsole
@@ -1947,6 +1941,7 @@ eventprocessor
 events
 eventsubscription
 event-timeline
+eventviewer
 eventwatch
 evergreen
 evernote
@@ -2065,6 +2060,7 @@ fetch
 ffmpeg
 fhirservice
 fiche
+fiddler
 fido
 fieldglass
 fifa
@@ -2199,7 +2195,6 @@ fortinet
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2210,6 +2205,7 @@ france
 freeipa
 freenas
 freesoftwarefoundation
+freshbooks
 freshdesk
 freshservice
 front
@@ -2287,7 +2283,6 @@ geolocation
 geosearching
 geotagging
 get
-get_random_password
 get-childitem
 get-cmhealthcheck
 get-command
@@ -2456,6 +2451,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+har
 hard
 hardblock
 harden
@@ -2748,6 +2744,7 @@ insightanalytics
 insights
 inspect
 inspur
+instagram
 install
 installation
 installationmanager
@@ -2934,7 +2931,6 @@ kaseyavsa
 katakana
 kb
 kbarticle
-kdbx
 keenetic
 keepachangelog
 keepass
@@ -3062,6 +3058,8 @@ licenses
 licensing
 light
 lights
+lime
+limesurvey
 limit-job
 limits
 lina
@@ -3126,11 +3124,9 @@ loganalytics
 logbook
 logcat
 logfile
-log-file
 logfilearchivearchive
 logfilemanagement psmodule
 logfiles
-log-files
 logger
 logging
 loggingingestion
@@ -3146,10 +3142,6 @@ loginscreen
 loginsight
 logistic
 logitech
-logmail
-log-mail
-logmails
-log-mails
 logman
 log-management
 logoff
@@ -3211,9 +3203,7 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
-mailing
 mailkit
-mails
 main
 main-menu
 maintenance
@@ -3247,6 +3237,7 @@ map
 mapapi
 mappeddrives
 mapper24
+mapping
 maps
 mapsapi
 mariadb
@@ -3287,6 +3278,7 @@ mbc
 mbs
 mc
 mcafee
+mcas
 mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
@@ -3381,6 +3373,7 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
+microsoftstore
 microsoftteams
 microsoft-teams
 microsoft-web-platform
@@ -3538,7 +3531,6 @@ mx
 mxlookup
 mycloudrevolution
 myhub
-myitprocess
 myjson
 myjson.com
 myob
@@ -3724,7 +3716,6 @@ oauth
 oauth2
 oauth2.0
 oberstufe
-obj
 object
 objectid
 objectstorage
@@ -3969,7 +3960,6 @@ passivetotal
 passphrase
 passphraser passphrase password generator entropy
 password
-password_generation
 passwordexpiration
 passwordexpiry
 passwordgeneration
@@ -4065,9 +4055,11 @@ pipeline
 pipelines
 piraeus
 pivot
+pivotal
 pivottable
 pixoo
 pki
+pks
 place
 places
 plain
@@ -4082,7 +4074,6 @@ playback
 playbook
 player
 playlists
-pleasant
 pleasantpasswordserver
 plex
 plist
@@ -4090,14 +4081,11 @@ plot
 plugin
 plugins
 pluralsight
-ply
-pmp
 pncit
 pni
 pnp
 pode
 poe
-point
 point-to-site
 pokeapi
 pokedex
@@ -4188,7 +4176,6 @@ powershell-class
 powershell-cmdlets
 powershellcore
 powershell-core
-powershell-core-releases-api
 powershell-credentials
 powershell-dsc
 powershellfar
@@ -4196,7 +4183,6 @@ powershellgallery
 powershell-gallery
 powershellget
 powershellgetformatversion_2.0
-powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershellmfa
@@ -4205,7 +4191,6 @@ powershell-module
 powershell-modules
 powershellmoduleupdate
 powershellpr0mpt
-powershell-releases-api
 powershell-remoting
 powershellscript
 powershelltemplate
@@ -4221,7 +4206,6 @@ powertooldsc
 ppdm
 ppk
 pposh
-pps
 ppt
 pptp
 pptx
@@ -4336,10 +4320,6 @@ ps1
 ps1xml
 ps1xmlgen
 ps2exe
-ps3
-ps4
-ps5
-ps6
 ps7
 psa
 psadbscreencap
@@ -4601,12 +4581,10 @@ readme
 read-slog
 readthedocs
 realschule
-rebase
 reboot
 rebootnodeifneeded
 reckon
 recommendation
-reconcile
 record
 recording
 recovery
@@ -4705,8 +4683,6 @@ report
 reporting
 reportingservicepoint
 reportingservices
-reportportal
-reportportal.io
 reportrunner
 reports
 repos
@@ -4755,8 +4731,6 @@ reversedsc
 reverse-engineer
 reverse-string
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc2030
@@ -4884,6 +4858,7 @@ satirical
 save
 savedcreds
 savefile
+savings
 savov
 sbc
 sc
@@ -4961,6 +4936,8 @@ scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
+scrub
+scrubber
 scsm
 scuba
 sd
@@ -5070,6 +5047,7 @@ service-bus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
+servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5187,6 +5165,7 @@ sitemap
 siterecovery
 sites
 sitesystemserver
+sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5367,6 +5346,7 @@ sqlserveragent
 sqlvirtualmachine
 sqr
 sqrt
+square
 squire
 srcds
 srcsrv
@@ -5425,6 +5405,7 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
+staytus
 stderr
 stdout
 steam
@@ -5438,6 +5419,7 @@ stigrepo
 stingar
 stock
 stockcharts
+stocks
 stoicism
 stoics
 stop
@@ -5508,6 +5490,8 @@ support
 suppress
 supress-reboot
 surround
+survey
+surveymonkey
 sushi
 suspensive
 svesavov
@@ -5880,7 +5864,6 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
-ud-datepicker
 udfeedback
 ud-field
 ud-flexytable
@@ -5999,6 +5982,7 @@ url
 urlencode
 url-encode
 urlhaus
+urlredirections
 urlrewrite
 urlscan
 url-shortener
@@ -6117,6 +6101,7 @@ virsh
 virtual
 virtualappliance
 virtualbox
+virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -6322,6 +6307,7 @@ wildfly
 wim
 wim2vhd
 win
+win10
 win2k8
 win32
 win32_installedwin32program
