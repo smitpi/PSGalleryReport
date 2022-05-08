@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, May 7, 2022 10:01:26 AM UTC
+Updated: Sunday, May 8, 2022 10:01:36 AM UTC
 
 "interactive
 .bat
@@ -32,6 +32,7 @@ Updated: Saturday, May 7, 2022 10:01:26 AM UTC
 300
 365
 36867
+3d
 3dprinting
 3par
 50
@@ -115,6 +116,7 @@ ad
 ad_monitoring
 adal
 adapter
+adaptivecards
 adb
 adc
 adcs
@@ -242,6 +244,7 @@ amateurradio
 amateur-radio
 amazon
 amazonwebservices
+amend
 ami
 amp
 amqp
@@ -428,12 +431,14 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
+authn
 authoring
 authoringtools
 authority
 authorization
 authorizationheaders
 authorize.net
+authz
 autify
 auto_cd
 autoattendant
@@ -671,7 +676,6 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
-black
 blackbaud
 blackbox
 blacklist
@@ -815,9 +819,7 @@ cat-names
 cats
 catty
 cavium
-cb
 cblueshell
-cbr
 cchoco
 cchocoex
 ccm
@@ -1099,6 +1101,7 @@ commit
 common
 commonareaphone
 commondataservice
+common-data-service
 commonmark
 communication
 community
@@ -1216,6 +1219,8 @@ convertto-yaml
 convert-windowsimage
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1390,7 +1395,6 @@ databooster
 databox
 databoxedge
 databricks
-datacatalog
 datacenter
 dataclassification
 dataconduit
@@ -1463,7 +1467,6 @@ decode64
 decoding
 decompiler
 decrypt
-decryption
 dedicatedhsm
 deduplication
 deep
@@ -1678,6 +1681,7 @@ dok
 dokuwiki
 domain
 domains
+donothing
 dos
 dot
 dotenv
@@ -1714,6 +1718,7 @@ drivertool.powercli
 driverupdates
 drm
 drop
+dropbox
 dropdatabase
 droplet
 droptable
@@ -1808,6 +1813,7 @@ einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
+element
 elevate
 elevated
 elevatedconsole
@@ -1831,7 +1837,6 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
-emergency
 emoji
 emotion
 empire
@@ -1967,8 +1972,6 @@ exchangecluster
 exchangemigration
 exchangeonline
 exchangeonlineprotection
-exchangeonlineshell
-exchangeonlineshellmfa
 exchangeonprem
 exchangeon-premise
 exchangeon-premises
@@ -2195,6 +2198,7 @@ fortinet
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2283,6 +2287,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-childitem
 get-cmhealthcheck
 get-command
@@ -2450,7 +2455,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 har
 hard
 hardblock
@@ -2810,7 +2814,6 @@ ios
 iot
 iotcentral
 iothub
-iothubproperties
 ip
 ipa
 ipaddress
@@ -2931,6 +2934,7 @@ kaseyavsa
 katakana
 kb
 kbarticle
+kdbx
 keenetic
 keepachangelog
 keepass
@@ -3124,9 +3128,11 @@ loganalytics
 logbook
 logcat
 logfile
+log-file
 logfilearchivearchive
 logfilemanagement psmodule
 logfiles
+log-files
 logger
 logging
 loggingingestion
@@ -3142,6 +3148,10 @@ loginscreen
 loginsight
 logistic
 logitech
+logmail
+log-mail
+logmails
+log-mails
 logman
 log-management
 logoff
@@ -3203,7 +3213,9 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
+mailing
 mailkit
+mails
 main
 main-menu
 maintenance
@@ -3336,7 +3348,6 @@ metric
 metrics
 metrolink
 mfa
-mfasupported
 mga
 mi
 microfocus
@@ -3361,7 +3372,6 @@ microsoftazure
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
-microsoftendpointmanager
 microsoftexchangeserver
 microsoftgraph
 microsoft-graph
@@ -3531,6 +3541,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myitprocess
 myjson
 myjson.com
 myob
@@ -3612,7 +3623,6 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
-newpassword
 new-pinneditem
 new-rdpsession
 newrelic
@@ -3716,6 +3726,7 @@ oauth
 oauth2
 oauth2.0
 oberstufe
+obj
 object
 objectid
 objectstorage
@@ -3789,7 +3800,6 @@ oneviewglobaldashboard
 online
 onlinebackup
 online-backup
-onlineprotectionshell
 onprem
 on-premise
 onpremisesdatagatewayhamgmt
@@ -3902,7 +3912,6 @@ owls
 owner
 oxygen
 oxyplot
-p2000
 p2s
 pa1reg
 paas
@@ -3960,6 +3969,7 @@ passivetotal
 passphrase
 passphraser passphrase password generator entropy
 password
+password_generation
 passwordexpiration
 passwordexpiry
 passwordgeneration
@@ -4074,6 +4084,7 @@ playback
 playbook
 player
 playlists
+pleasant
 pleasantpasswordserver
 plex
 plist
@@ -4081,11 +4092,14 @@ plot
 plugin
 plugins
 pluralsight
+ply
+pmp
 pncit
 pni
 pnp
 pode
 poe
+point
 point-to-site
 pokeapi
 pokedex
@@ -4153,7 +4167,6 @@ powerbidedicated
 powerbiembedded
 powerbiembeddedcapacity
 powerbot
-power-cbr
 powercli
 powercligoodies
 powerdex
@@ -4176,6 +4189,7 @@ powershell-class
 powershell-cmdlets
 powershellcore
 powershell-core
+powershell-core-releases-api
 powershell-credentials
 powershell-dsc
 powershellfar
@@ -4183,14 +4197,15 @@ powershellgallery
 powershell-gallery
 powershellget
 powershellgetformatversion_2.0
+powershell-github-repo
 powershell-isprime
 powershell-lightning
-powershellmfa
 powershellmodule
 powershell-module
 powershell-modules
 powershellmoduleupdate
 powershellpr0mpt
+powershell-releases-api
 powershell-remoting
 powershellscript
 powershelltemplate
@@ -4206,6 +4221,7 @@ powertooldsc
 ppdm
 ppk
 pposh
+pps
 ppt
 pptp
 pptx
@@ -4297,7 +4313,6 @@ provance
 provider
 'provider'
 providerhub
-provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -4310,7 +4325,6 @@ proxsys
 proxy
 proxyfunction
 proxyfunctions
-proxysettings
 prtg
 prtg_network_monitor
 prtgnetworkmonitor
@@ -4320,6 +4334,10 @@ ps1
 ps1xml
 ps1xmlgen
 ps2exe
+ps3
+ps4
+ps5
+ps6
 ps7
 psa
 psadbscreencap
@@ -4581,10 +4599,12 @@ readme
 read-slog
 readthedocs
 realschule
+rebase
 reboot
 rebootnodeifneeded
 reckon
 recommendation
+reconcile
 record
 recording
 recovery
@@ -4683,6 +4703,8 @@ report
 reporting
 reportingservicepoint
 reportingservices
+reportportal
+reportportal.io
 reportrunner
 reports
 repos
@@ -4716,7 +4738,6 @@ resourcemanager
 resourcemover
 resources
 resourcesearch
-response
 rest
 restapi
 rest-api
@@ -4731,6 +4752,8 @@ reversedsc
 reverse-engineer
 reverse-string
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc2030
@@ -4931,7 +4954,6 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
-scriptlogging
 scriptrunner
 scripts
 scriptsmonitoring
@@ -4972,9 +4994,7 @@ securerdp
 securescore
 securestring
 security
-security&compliance
 security.txt
-securityandcomplianceshellmfa
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -5017,7 +5037,6 @@ sendmail
 send-mailmessage
 send-message
 sense
-sensitive
 sensitivity
 sensor
 sensors
@@ -5524,7 +5543,6 @@ syndication
 synergy
 syntax
 syntaxhighlighter
-synthesis
 synthetics
 sysadmin
 sysctr
@@ -5829,7 +5847,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -6013,7 +6030,6 @@ utc
 utf7
 utf8
 utf-8
-utf8bom
 utf8-sig
 utf-sig
 util
@@ -6138,7 +6154,6 @@ vmguestpolicy
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmpolicy
 vmrole
