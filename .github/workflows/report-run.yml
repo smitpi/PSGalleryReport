@@ -7,6 +7,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: true
+      matrix:
+        gemfiles:
+          [
+            kramdown,
+            kramdown-asciidoc,
+            asciidoctor,
+            asciidoctor-pdf,
+            asciidoctor-rouge,
+            hexapdf,
+            rouge,
+          ]
     steps:
       - uses: actions/checkout@v3
         with:
@@ -14,11 +27,9 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
+          ruby-version: 3.0
       - name: discovery
         run: env
-      - name: Add gems
-        shell: bash
-        run: gem install kramdown kramdown-asciidoc asciidoctor asciidoctor-pdf asciidoctor-rouge hexapdf rouge
       - name: Run report script
         shell: pwsh
         run: ./scripts/run.ps1
