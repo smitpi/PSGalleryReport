@@ -56,14 +56,15 @@ if (Test-Path $tmpData) {
   & $PSScriptRoot/create-pdf.ps1
 
   if (-Not $Testing) {
-    #git updates
+    #5/9/2022 disable git updates and move this to the Github action JDH
+    <#     #git updates
     Write-Host "[$(Get-Date)] Running git updates" -ForegroundColor cyan
     Set-Location $PSScriptRoot/..
     git add .
     $msg = "reporting run $(Get-Date -Format u)"
     git commit -m $msg
     Write-Host "[$(Get-Date)] Pushing commit to Github" -ForegroundColor cyan
-    git push
+    git push #>
   }
 }
 else {
