@@ -3,7 +3,7 @@ name: Run Reports
 on:
   workflow_dispatch:
   schedule:
-    - cron: "50 10,20 * * *"
+    - cron: "50 9,17,1 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,3 +20,17 @@ jobs:
       - name: gem install
         shell: bash
         run: gem install kramdown kramdown-asciidoc asciidoctor asciidoctor-pdf asciidoctor-rouge hexapdf rouge
+      - name: Run report script
+        shell: pwsh
+        run: ./scripts/run.ps1
+      - name: git status
+        run: git status
+      - name: git add
+        run: git add .
+      - name: git commit
+        run: |
+          git config user.name "Action Bot"
+          git config user.email "<>"
+          git commit -m "PSGallery Report Run"
+      - name: git push
+        run: git push
