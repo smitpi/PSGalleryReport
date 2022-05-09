@@ -3,7 +3,7 @@
 [cmdletbinding(SupportsShouldProcess)]
 Param (
     [Parameter(Position = 0, HelpMessage = "What type of report do you want to run")]
-    [ValidateSet("Newest","CommunityDownloads", "Downloads","Azure")]
+    [ValidateSet("Newest", "CommunityDownloads", "Downloads", "Azure")]
     [string]$ReportType = "Newest",
     [switch]$NoAzureAWS,
     [switch]$Offline,
@@ -13,13 +13,12 @@ Param (
 Write-Host "[$(Get-Date)] Starting $($myinvocation.mycommand)" -ForegroundColor yellow
 if ($offline) {
     Write-Host "[$(Get-Date)] Working offline" -ForegroundColor yellow
-    $all = Import-Clixml $env:temp\psgallery.xml
+    $all = Import-Clixml (Join-Path $HOME -ChildPath psgallery.xml)
 }
 else {
     Write-Host "[$(Get-Date)] Working online" -ForegroundColor yellow
     $all = Find-Module -Repository PSGallery
 }
-
 
 Switch ($ReportType) {
     "Newest" {
@@ -49,7 +48,7 @@ Switch ($ReportType) {
     "Downloads" {
         Write-Host "[$(Get-Date)] Getting top $count modules by total download count" -ForegroundColor yellow
         $filter = { $_ }
-        $query = $all | Where-Object $filter -OutVariable f|
+        $query = $all | Where-Object $filter -OutVariable f |
         Sort-Object { $_.additionalmetadata.DownloadCount -as [int64] } -Descending |
         Select-Object -First $count
         Write-Host "[$(Get-Date)] Found a total of $($f.count) matching modules." -ForegroundColor yellow
@@ -96,26 +95,29 @@ foreach ($item in $query) {
 }
 
 $fragments.add("*Updated: $(Get-Date -Format U) UTC*")
-Write-Host "[$(Get-Date)] Saving report to $filename" -ForegroundColor yellow
+$out = Join-Path -Path "$PSScriptRoot/../" -ChildPath $filename
+Write-Host "[$(Get-Date)] Saving report to $out" -ForegroundColor yellow
 #need to make sure files are encoded to UTF8 for future PDF conversion
-$fragments | Out-File "c:\scripts\psgalleryreports\$filename" -Encoding utf8
+$fragments | Out-File -FilePath $out -Encoding utf8
 
 Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor yellow
 
 <#
 Change log
-
+5/9/2022
+    Revised to use Join-Path which works better cross-platform for building paths
+5/8/2022
+    Modified and tested to run cross-plotform in preparation to moving to a GitHub action.
 5/2/2022
-  Fixed bug that was leaving an unprintable character in the title
+    Fixed bug that was leaving an unprintable character in the title
 4/20/2022
-  Updated to use full paths and not $PSScriptRoot
-  Modified to use absolute URI
+    Updated to use full paths and not $PSScriptRoot
+    Modified to use absolute URI
 4/19/2022
-  Modified report titles
+    Modified report titles
 4/18/2022
-  Updated community report to exclude contributions from major vendors and the DSC Community
+    Updated community report to exclude contributions from major vendors and the DSC Community
 4/11/2022
-  Specified PSGallery explicitly as the repository
-  Added support for -WhatIf
-
+    Specified PSGallery explicitly as the repository
+    Added support for -WhatIf
 #>
