@@ -5,6 +5,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SSP.PorteoLibrary](https://www.powershellgallery.com/Packages/SSP.PorteoLibrary/1.0.22) | 1.0.22
+
+### Published: 05/09/2022 15:30:20 by Dr. Polar Humenn
+
+This module contains commands to add Porteo Site Designs to a site.
+
+__Downloads__: 210 | __Repository__: 
+
+## [SSP.PnPLibrary](https://www.powershellgallery.com/Packages/SSP.PnPLibrary/1.0.15) | 1.0.15
+
+### Published: 05/09/2022 14:01:30 by Dr. Polar Humenn
+
+This module contains functions to copy site templates
+
+__Downloads__: 222 | __Repository__: 
+
 ## [ctxal-sdk](https://www.powershellgallery.com/Packages/ctxal-sdk/0.3.26) | 0.3.26
 
 ### Published: 05/09/2022 13:05:13 by Ryan Butler
@@ -59,7 +75,7 @@ __Downloads__: 860 | __Repository__:
 
 A prompt theme engine for any shell
 
-__Downloads__: 1,504,883 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 1,504,880 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.92) | 1.1.92
 
@@ -67,7 +83,7 @@ __Downloads__: 1,504,883 | __Repository__: https://github.com/JanDeDobbeleer/oh-
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,577,036 | __Repository__: https://dbatools.io/
+__Downloads__: 1,577,026 | __Repository__: https://dbatools.io/
 
 ## [PS-Sudoku](https://www.powershellgallery.com/Packages/PS-Sudoku/1.3.4) | 1.3.4
 
@@ -148,7 +164,7 @@ __Downloads__: 241,362 | __Repository__: https://github.com/dsccommunity/xDhcpSe
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 532,733 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 532,768 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.1) | 1.2.1
 
@@ -164,23 +180,7 @@ __Downloads__: 44 | __Repository__:
 
 Automate against ServiceNow service and asset management.  This module can be used standalone or with Azure Automation.
 
-__Downloads__: 169,014 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
-
-## [SSP.PorteoLibrary](https://www.powershellgallery.com/Packages/SSP.PorteoLibrary/1.0.18) | 1.0.18
-
-### Published: 05/06/2022 21:16:04 by Dr. Polar Humenn
-
-This module contains commands to add Porteo Site Designs to a site.
-
-__Downloads__: 210 | __Repository__: 
-
-## [SSP.PnPLibrary](https://www.powershellgallery.com/Packages/SSP.PnPLibrary/1.0.14) | 1.0.14
-
-### Published: 05/06/2022 21:16:01 by Dr. Polar Humenn
-
-This module contains functions to copy site templates
-
-__Downloads__: 222 | __Repository__: 
+__Downloads__: 169,021 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
 ## [ListFunctions](https://www.powershellgallery.com/Packages/ListFunctions/1.2.0) | 1.2.0
 
@@ -406,7 +406,7 @@ __Downloads__: 1,615 | __Repository__: https://www.jetstreamsoft.com/about/suppo
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,844,630 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,844,628 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.0.105) | 0.0.105
 
@@ -431,7 +431,7 @@ __Downloads__: 7,953 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,514,582 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,514,574 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [ADDSActiveAccountAudit](https://www.powershellgallery.com/Packages/ADDSActiveAccountAudit/1.2.0) | 1.2.0
 
@@ -456,14 +456,6 @@ __Downloads__: 8 | __Repository__:
 A PowerShell module with functions to help calculate working hours, and for generally working with or calculating business hours / date times.
 
 __Downloads__: 51 | __Repository__: https://github.com/codaamok/PSBusinessTime
-
-## [PsAdToolkit](https://www.powershellgallery.com/Packages/PsAdToolkit/1.2.21) | 1.2.21
-
-### Published: 05/04/2022 16:02:02 by Henry Rohlfing
-
-This module provides helpful tooling for managing, cleaning up, and auditing an Active Directory Environment
-
-__Downloads__: 12 | __Repository__: https://github.com/zimbeo/PsAdToolkit
 
 ## [LogicMonitor](https://www.powershellgallery.com/Packages/LogicMonitor/1.0.2.1) | 1.0.2.1
 
@@ -519,7 +511,7 @@ __Downloads__: 1,892 | __Repository__:
 
 A PowerShell module to install/update PHP, PHP extensions and Composer
 
-__Downloads__: 133,023 | __Repository__: https://github.com/mlocati/powershell-phpmanager
+__Downloads__: 133,028 | __Repository__: https://github.com/mlocati/powershell-phpmanager
 
 ## [Juriba.Dashworks](https://www.powershellgallery.com/Packages/Juriba.Dashworks/0.0.25.0) | 0.0.25.0
 
@@ -535,7 +527,7 @@ __Downloads__: 131 | __Repository__: https://github.com/juribalimited/powershell
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 597,565 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 597,618 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PowerPoopizer](https://www.powershellgallery.com/Packages/PowerPoopizer/0.0.5) | 0.0.5
 
@@ -932,7 +924,7 @@ __Downloads__: 1,273 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Marketplace Service
 
-__Downloads__: 1,252 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,253 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/33.0.0) | 33.0.0
 
@@ -1180,7 +1172,7 @@ __Downloads__: 226 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Datacatalog Service
 
-__Downloads__: 1,254 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,255 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/33.0.0) | 33.0.0
 
@@ -1348,7 +1340,7 @@ __Downloads__: 392 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Applicationmigration Service
 
-__Downloads__: 1,263 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,264 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Apmtraces](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmtraces/33.0.0) | 33.0.0
 
@@ -1420,7 +1412,7 @@ __Downloads__: 244 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Aispeech Service
 
-__Downloads__: 219 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 230 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/33.0.0) | 33.0.0
 
@@ -1612,7 +1604,15 @@ __Downloads__: 209 | __Repository__:
 
 PowerShell module
 
-__Downloads__: 522,850 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 522,852 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+
+## [Lably](https://www.powershellgallery.com/Packages/Lably/0.3) | 0.3
+
+### Published: 05/02/2022 19:41:39 by Chris Kibble (@Christopher83)
+
+The Lably module assists IT professionals with quickly creating a home lab without having to re-create common environments over and over again. It leverages Hyper-V on a Windows host (client or server) to build quickly build VMs based off user-created BaseVHDs.
+
+__Downloads__: 7 | __Repository__: 
 
 ## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.120) | 1.0.120
 
@@ -1711,7 +1711,7 @@ __Downloads__: 589 | __Repository__: https://github.com/icraftsoftware/Be.Statel
 
 MMSMOA Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 201,319 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 201,321 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [IvantiPS](https://www.powershellgallery.com/Packages/IvantiPS/0.1.3) | 0.1.3
 
@@ -1753,7 +1753,7 @@ The ActiveDirectoryDsc module contains DSC resources for deployment and configur
 
 These DSC resources allow you to configure new domains, child domains, and high availability domain controllers, establish cross-domain trusts and manage users, groups and OUs.
 
-__Downloads__: 1,426,993 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
+__Downloads__: 1,426,872 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
 
 ## [PowerLine](https://www.powershellgallery.com/Packages/PowerLine/3.4.1) | 3.4.1
 
@@ -1890,7 +1890,7 @@ __Downloads__: 591 | __Repository__: https://github.com/Skatterbrainz/cmhealth
 
 PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
-__Downloads__: 41,168 | __Repository__: https://github.com/crowdstrike/psfalcon
+__Downloads__: 41,169 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 ## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.0.9) | 0.0.9
 
@@ -1906,7 +1906,7 @@ __Downloads__: 109 | __Repository__:
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 12,879 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 12,880 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.9.1) | 0.9.1
 
@@ -1922,7 +1922,7 @@ __Downloads__: 309 | __Repository__:
 
 A module designed to speed up the development of PowerShell modules
 
-__Downloads__: 31,510 | __Repository__: http://psframework.org/
+__Downloads__: 31,512 | __Repository__: http://psframework.org/
 
 ## [OneSTools.PS.TechLog](https://www.powershellgallery.com/Packages/OneSTools.PS.TechLog/1.1.11) | 1.1.11
 
@@ -2036,4 +2036,4 @@ A set of functions for managing websites built on the DNN Platform.
 
 __Downloads__: 879 | __Repository__: https://github.com/bdukes/PowerShellModules
 
-*Updated: Monday, May 9, 2022 2:04:43 PM UTC*
+*Updated: Monday, 09 May 2022 15:39:16 UTC*

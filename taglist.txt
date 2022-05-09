@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, May 9, 2022 2:04:51 PM UTC
+Updated: Monday, 09 May 2022 15:39:28 UTC
 
 ?:
 ??
@@ -135,7 +135,6 @@ add-on
 add-on.module
 add-one
 add-path
-add-type
 addin
 addlevel
 addomainservices
@@ -341,8 +340,6 @@ appveyor
 appx
 appxmanifest
 aprs
-apt-get
-apt-get-update
 arc
 arcade
 arcgis
@@ -463,7 +460,6 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 autopilot
 autoscaling
 autostart
@@ -517,6 +513,7 @@ azresources
 azsdk
 azsk
 azstate
+azsubnet
 azuead
 azure
 azure_ad
@@ -692,7 +689,9 @@ blaze
 blob
 blobstorage
 block
+block-kit
 blockchain
+blocks
 blog
 blogs
 bls
@@ -1007,6 +1006,7 @@ cloudberry
 cloudblue
 cloudbolt
 cloudendure
+cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1102,6 +1102,7 @@ commerce
 commfort
 commit
 common
+common-data-service
 commonareaphone
 commondataservice
 commonmark
@@ -1200,7 +1201,6 @@ continuousdeployment
 continuousintegration
 control
 controller
-controlroom
 convereter
 converged_data_management
 conversational
@@ -1568,6 +1568,7 @@ dictionary
 diff
 difference
 dig
+digikam
 digital
 digital-forensics
 digitalforensics
@@ -1617,7 +1618,6 @@ distributedcache
 distributedfilesystem
 distribution
 distributiongroup
-distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
@@ -1822,6 +1822,7 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
+elgato
 elk
 elm
 elonmusk
@@ -1990,6 +1991,7 @@ executables
 execute
 exexml
 exif
+exiftool
 exists
 exitcode
 exo
@@ -2030,7 +2032,6 @@ extract
 extreme-networks
 eztheme
 f
-f#
 f5
 facebook
 factoryorchestrator
@@ -2199,6 +2200,7 @@ fortinet
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2218,7 +2220,6 @@ frontdoor
 frontrange
 fs
 fsf
-fsharp
 fslogix
 fsrm
 ftp
@@ -2455,7 +2456,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 har
 hard
 hardblock
@@ -2571,6 +2571,7 @@ hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
+hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
 hpeosprovisioncmdlets
@@ -2952,6 +2953,7 @@ key2wocas
 keybase
 keyboard
 keycipher
+keylight
 keymanagement
 keypair
 keyvault
@@ -2980,6 +2982,7 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
+kurukuru
 kusto
 kvm
 l1tf
@@ -3078,7 +3081,6 @@ linqpad
 lint
 linting
 linux
-linux-command
 linuxssh
 liquid
 liquit
@@ -3102,7 +3104,6 @@ loadbalancer.org
 loanddepot
 loandepot
 local
-local-caching
 localadmin
 localconfigurationmanager
 localdb
@@ -3197,8 +3198,10 @@ macaddress
 machine
 machinelearning
 machinelearningcompute
+macmon
 macos
 macosx
+macros
 madlib
 magazine
 magento
@@ -3281,6 +3284,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mb
 mbc
 mbs
@@ -3546,6 +3550,7 @@ mysql
 mysql-database
 mytest
 n-central
+nac
 nagios
 name
 name-of-dogs
@@ -3841,6 +3846,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
+opml
 ops
 opsi
 opsmgr
@@ -3896,6 +3902,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 output
 output-to-image
@@ -3914,7 +3921,6 @@ paas
 pac
 pack
 package
-package-management
 package-transform
 packagemanagement
 packagemanager
@@ -3950,7 +3956,6 @@ parclient
 pardot
 parititions
 parool
-parquet
 parse
 parser
 parsing
@@ -4190,7 +4195,6 @@ powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
-powershell-modules
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -4313,9 +4317,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4488,7 +4489,6 @@ purestorage
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -4806,7 +4806,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -4942,6 +4941,7 @@ screenresolution
 screensaver
 screenshot
 script
+script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -4951,6 +4951,7 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
+scriptlogging
 scriptrunner
 scripts
 scriptsmonitoring
@@ -4960,7 +4961,6 @@ scrubber
 scsm
 scuba
 sd
-sddl
 sdk
 sdn
 search
@@ -4976,7 +4976,6 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
-secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5464,7 +5463,6 @@ stringmanagertool
 strings
 stringutilities
 strip-ansi
-stripe
 strongname
 structure
 sts
@@ -5481,6 +5479,7 @@ sublimetext
 submission
 subnet
 subnet-calculator
+subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -5538,7 +5537,6 @@ synchronization
 synchronize
 syndication
 synergy
-syntax
 syntaxhighlighter
 synthesis
 synthetics
@@ -5881,11 +5879,13 @@ ud-control
 ud-dashboard
 ud-datepicker
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -5912,6 +5912,7 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
+ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -6150,7 +6151,6 @@ vmguestpolicy
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmpolicy
 vmrole
@@ -6164,6 +6164,7 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
+vnet
 vnugglets
 vnugglets.com
 vocabularies
@@ -6356,7 +6357,6 @@ windowsforms
 windowsindex
 windowsinstaller
 windowsinternaldatabase
-windowsinternals
 windowsiotservices
 windowsmanagementframework
 windowsplugins
@@ -6449,12 +6449,10 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
-wrc
 wrike
 write
 write-ascii
 write-color
-write-colour
 write-debug
 write-host
 write-information
