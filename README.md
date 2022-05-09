@@ -73,7 +73,7 @@ $data | where-object {$_.name -match "(SQL)|(database)"} | Select-Object -proper
 
 ## A Note on Scripts
 
-I am now using a Github action to generate the reports. The commands to create the PDF files are Ruby-based and require additional configuration. If you are using my scripts as the basis for your work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task.
+I am now using a Github action to generate the reports. The action is executing the `run.ps1` script in Ubuntu. The commands to create the PDF files are Ruby-based and require additional configuration. If you are using my scripts as the basis for your work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task if you want to avoid using Ruby.
 
 ## Limitations
 

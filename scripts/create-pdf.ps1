@@ -7,19 +7,38 @@ The commands are Ruby-based and require additional configuration. There are VSCo
 extensions you can use to easily convert markdown files to PDF or you might find
 other tools for this task.
 #>
-. $PSScriptRoot/rubydocs.ps1
+$rubyscripts = Join-Path -Path $PSScriptRoot -ChildPath rubydocs.ps1
+Write-Host "[$(Get-Date)] dot sourcing $rubyscripts" -foreground green
+. $rubyscripts
 
-Get-ChildItem $PSScriptRoot/../psgallery-*.md | ForEach-Object {
-  Write-Host "[$(Get-Date)] Converting $($_.fullname) to adoc format" -foreground green
-  Convertto-Adoc -fullname $_.fullname -images $PSScriptRoot/../images -Passthru | Convert-Links
-  $adoc = $($_.fullname).replace(".md", ".adoc")
-  Write-Host "[$(Get-Date)] Converting $adoc to pdf" -foreground Green
-  asciidoctor -a allow-uri-read -a linkattrs -b pdf -d article -r asciidoctor-pdf -a pdfwidth=pt -a pdf-fontsdir="$PSScriptRoot/../gemfonts" -a pdf-theme="$PSScriptRoot/pdf-theme.yml" $adoc
-  Write-Host "[$(Get-Date)] Optimizing PDF for $($_.basename)" -foreground green
-  Optimize-pdf $adoc.replace(".adoc", ".pdf") | Move-Item -Destination $PSScriptRoot/../pdf -Force
+$gemfonts = Join-Path "$PSScriptRoot/../" -ChildPath gemfonts
+if (Test-Path $gemfonts) {
+   Write-Host "[$(Get-Date)] Using gemfonts from $gemfonts" -foreground green
+}
+else {
+   Write-Host "[$(Get-Date)] Cannot locate gemfonts in $gemfonts" -foreground red
+}
+
+$theme = Join-Path -Path $PSScriptRoot -ChildPath pdf-theme.yml
+if (Test-Path $theme) {
+   Write-Host "[$(Get-Date)] Using theme from $theme" -foreground green
+}
+else {
+   Write-Host "[$(Get-Date)] Cannot locate theme in $theme" -foreground red
+}
+
+Get-ChildItem $PSScriptRoot/../psgallery-*.md |
+ForEach-Object process {
+   Write-Host "[$(Get-Date)] Converting $($_.fullname) to adoc format" -foreground green
+   Convertto-Adoc -fullname $_.fullname -images $PSScriptRoot/../images -Passthru | Convert-Links
+   $adoc = $($_.fullname).replace(".md", ".adoc")
+   Write-Host "[$(Get-Date)] Converting $adoc to pdf" -foreground Green
+   asciidoctor -a allow-uri-read -a linkattrs -b pdf -d article -r asciidoctor-pdf -a pdfwidth=pt -a pdf-fontsdir=$gemfonts -a pdf-theme=$theme $adoc
+   Write-Host "[$(Get-Date)] Optimizing PDF for $($_.basename)" -foreground green
+   Optimize-pdf $adoc.replace(".adoc", ".pdf") | Move-Item -Destination $PSScriptRoot/../pdf -Force
 } -End {
-  Write-Host "[$(Get-Date)] Removing adoc files" -foreground green
-  Remove-Item $PSScriptRoot/../*.adoc
+   Write-Host "[$(Get-Date)] Removing adoc files" -foreground green
+   Remove-Item $PSScriptRoot/../*.adoc
 }
 
 Write-Host "[$(Get-Date)] Ending Markdown to PDF conversion" -foreground green
