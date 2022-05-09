@@ -73,13 +73,7 @@ $data | where-object {$_.name -match "(SQL)|(database)"} | Select-Object -proper
 
 ## A Note on Scripts
 
-I am currently running a daily PowerShell scheduled job locally to generate the reports and upload them to the repository. The general workflow is to get all modules and export the data to a clixml file. I then re-import this data and filter it to generate the reports.
-
-Because I'm using a PowerShell scheduled job, all paths in the script are explictly defined. I'm also using `Write-Host` lines so that I can review the job. Another option I might consider would be to start a transcript.
-
-The script to convert markdown to PDF uses a private set of commands. The commands are Ruby-based and require additional configuration. I am not including them in this repository. If you are using my scripts as the basis for your work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task.
-
-I am looking into a Github Action to move report generation from my desktop to the cloud.
+I am now using a Github action to generate the reports. The commands to create the PDF files are Ruby-based and require additional configuration. If you are using my scripts as the basis for your work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task.
 
 ## Limitations
 
