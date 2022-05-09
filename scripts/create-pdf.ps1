@@ -28,7 +28,7 @@ else {
 }
 
 Get-ChildItem $PSScriptRoot/../psgallery-*.md |
-ForEach-Object process {
+ForEach-Object -Process {
    Write-Host "[$(Get-Date)] Converting $($_.fullname) to adoc format" -foreground green
    Convertto-Adoc -fullname $_.fullname -images $PSScriptRoot/../images -Passthru | Convert-Links
    $adoc = $($_.fullname).replace(".md", ".adoc")
