@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, May 8, 2022 10:01:36 AM UTC
+Updated: Monday, May 9, 2022 10:01:35 AM UTC
 
 "interactive
 .bat
@@ -128,7 +128,6 @@ addomainservices
 addon
 add-on
 add-on.module
-add-one
 add-path
 address
 addresses
@@ -427,7 +426,6 @@ audits
 aumid
 aut
 auth0
-authenticate
 authentication
 authenticationcertificate
 authenticode
@@ -442,7 +440,6 @@ authz
 autify
 auto_cd
 autoattendant
-autocloudarc
 autocomplete
 autocompletion
 auto-completion
@@ -676,6 +673,7 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
+black
 blackbaud
 blackbox
 blacklist
@@ -687,8 +685,6 @@ blob
 blobstorage
 block
 blockchain
-block-kit
-blocks
 blog
 blogs
 bls
@@ -819,7 +815,9 @@ cat-names
 cats
 catty
 cavium
+cb
 cblueshell
+cbr
 cchoco
 cchocoex
 ccm
@@ -860,11 +858,9 @@ certificate
 certificateauthority
 certificatechain
 certificatemanager
-certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
-certutil
 cf
 cfn
 ch9
@@ -1000,7 +996,6 @@ cloudblue
 cloudbolt
 cloud-computing
 cloudendure
-cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1467,6 +1462,7 @@ decode64
 decoding
 decompiler
 decrypt
+decryption
 dedicatedhsm
 deduplication
 deep
@@ -1564,7 +1560,6 @@ dictionary
 diff
 difference
 dig
-digikam
 digital
 digitalforensics
 digital-forensics
@@ -1780,7 +1775,6 @@ dynamics365server
 dynamicsax
 dynamics-crm
 dynamicsecuritygroups
-dynamicsnav
 dynamodb
 dynatrace
 dyndns
@@ -1837,6 +1831,7 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
+emergency
 emoji
 emotion
 empire
@@ -1962,7 +1957,6 @@ exact
 example
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange2010
@@ -1987,8 +1981,6 @@ executables
 execute
 exexml
 exif
-exiftool
-exists
 exitcode
 exo
 exov2
@@ -2071,7 +2063,6 @@ figlet
 file
 file-association
 file-encoding
-fileencryption
 file-extension
 file-extension-association
 file-invalidchar
@@ -2207,13 +2198,10 @@ fqdn
 framework
 france
 freeipa
-freenas
 freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-front
-frontapp
 frontdoor
 frontrange
 fs
@@ -2455,6 +2443,7 @@ hanaon
 handle
 handler
 hangouts
+hannelstoolbox
 har
 hard
 hardblock
@@ -2614,8 +2603,6 @@ hyper-v
 hypervisor
 hypervplugins
 hypothesis
-hysolate
-hysolatemangementconsole
 i2c
 ia
 iaas
@@ -2713,7 +2700,6 @@ inactive
 inboxrule
 incidentresponse
 incident-response
-incontact
 indents
 index
 indexdb
@@ -2814,6 +2800,7 @@ ios
 iot
 iotcentral
 iothub
+iothubproperties
 ip
 ipa
 ipaddress
@@ -2949,7 +2936,6 @@ key
 key2wocas
 keybase
 keyboard
-keycipher
 keylight
 keymanagement
 keypair
@@ -3201,7 +3187,6 @@ machinelearningcompute
 macmon
 macos
 macosx
-macros
 madlib
 magazine
 magento
@@ -3262,7 +3247,6 @@ marketo
 marketplace
 marketplaceordering
 marking
-marklogic
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3284,7 +3268,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mb
 mbc
 mbs
@@ -3372,6 +3355,7 @@ microsoftazure
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
+microsoftendpointmanager
 microsoftexchangeserver
 microsoftgraph
 microsoft-graph
@@ -3494,7 +3478,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -3623,6 +3606,7 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
+newpassword
 new-pinneditem
 new-rdpsession
 newrelic
@@ -3648,8 +3632,6 @@ ninjarmm
 nios
 nitrox
 nl
-nla
-nlm
 nlog
 nmap
 nmbell
@@ -3912,6 +3894,7 @@ owls
 owner
 oxygen
 oxyplot
+p2000
 p2s
 pa1reg
 paas
@@ -3975,7 +3958,6 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 password-generator
-passwordhashing
 password-less
 passwordlock
 passwordlockoutreport
@@ -4167,6 +4149,7 @@ powerbidedicated
 powerbiembedded
 powerbiembeddedcapacity
 powerbot
+power-cbr
 powercli
 powercligoodies
 powerdex
@@ -4206,7 +4189,6 @@ powershell-modules
 powershellmoduleupdate
 powershellpr0mpt
 powershell-releases-api
-powershell-remoting
 powershellscript
 powershelltemplate
 powershell-terminal
@@ -4239,7 +4221,6 @@ preprocessing
 preprocessor
 presenter
 presto
-preston-k-parsard
 pretty
 prettyprinter
 preview
@@ -4313,6 +4294,7 @@ provance
 provider
 'provider'
 providerhub
+provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -4541,7 +4523,6 @@ quickbooks
 quicksetup
 quota
 quote
-quotes
 quoting
 quser
 r
@@ -4738,6 +4719,7 @@ resourcemanager
 resourcemover
 resources
 resourcesearch
+response
 rest
 restapi
 rest-api
@@ -4954,6 +4936,7 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
+scriptlogging
 scriptrunner
 scripts
 scriptsmonitoring
@@ -5019,11 +5002,9 @@ select-kubenamespace
 select-string
 selectxmlinfo
 selenium
-self
 selfdispatch
 self-hosted
 self-service
-selfsigned
 self-signed
 semantic
 semantic-versioning
@@ -5037,6 +5018,7 @@ sendmail
 send-mailmessage
 send-message
 sense
+sensitive
 sensitivity
 sensor
 sensors
@@ -5056,7 +5038,6 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
-servercertificatevalidationcallback
 serverless
 servermanagement
 servers
@@ -5156,7 +5137,6 @@ sign
 signalfx
 signalr
 signature
-signed
 signing
 signtool
 silk
@@ -5543,6 +5523,7 @@ syndication
 synergy
 syntax
 syntaxhighlighter
+synthesis
 synthetics
 sysadmin
 sysctr
@@ -5569,7 +5550,6 @@ systemlocale
 systems
 system-service
 system-services
-systemsplash
 systray
 t
 tab
@@ -5722,7 +5702,6 @@ thumbprint
 thunderbird
 thycotic
 tickle
-ticks
 tictactoe
 tic-tac-toe
 tiermodel
@@ -5809,7 +5788,6 @@ trevor
 trevorsullivan
 triangle
 trigger
-triodos
 tripunkt
 troubleshoot
 troubleshooting
@@ -5847,6 +5825,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -5881,6 +5860,7 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
+ud-datepicker
 udfeedback
 ud-field
 ud-flexytable
@@ -6154,6 +6134,7 @@ vmguestpolicy
 vmhost
 vmhostgroup
 vmhostnetworkadapater
+vmmanagement
 vmnic
 vmpolicy
 vmrole
@@ -6447,7 +6428,6 @@ world
 worldcup
 worryfreebusinesssecurity
 wow
-wpad
 wpf
 wrap
 wrapper
@@ -6540,7 +6520,6 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
-yahoo
 yahw
 yamaha
 yaml
