@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 09 May 2022 15:39:28 UTC
+Updated: Monday, 09 May 2022 17:53:43 UTC
 
 ?:
 ??
@@ -135,6 +135,7 @@ add-on
 add-on.module
 add-one
 add-path
+add-type
 addin
 addlevel
 addomainservices
@@ -275,7 +276,6 @@ anglesharp
 angular
 animate-svg
 animations
-annotated
 announcementsservice
 anova
 ansi
@@ -340,6 +340,8 @@ appveyor
 appx
 appxmanifest
 aprs
+apt-get
+apt-get-update
 arc
 arcade
 arcgis
@@ -380,7 +382,6 @@ asc
 ascii
 ascii85
 asdatabase
-asigra
 asm
 asn
 asn.1
@@ -390,6 +391,7 @@ asp
 asp.net
 aspnet
 aspnet_regiis
+asr
 assembleenationale
 assemblymeta
 assert
@@ -408,7 +410,6 @@ asynchronous
 atempo
 atera
 athena
-atlas
 atlassian
 atlassiancli
 atlassianps
@@ -460,6 +461,7 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 autopilot
 autoscaling
 autostart
@@ -679,7 +681,6 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
-black
 blackbaud
 blackbox
 blacklist
@@ -809,7 +810,6 @@ card
 cardwirth
 cargo
 carousel
-cartoon
 case
 cassandra
 cat
@@ -822,9 +822,7 @@ catesta
 cats
 catty
 cavium
-cb
 cblueshell
-cbr
 cchoco
 cchocoex
 ccm
@@ -858,6 +856,7 @@ centurylink
 centurylinkcloud
 cer
 cert
+certbasedauth
 certera
 certes
 certificate
@@ -1138,7 +1137,6 @@ condition
 conditionalaccess
 conduit
 confidentialclient
-confidentialledger
 config
 configapi
 configascode
@@ -1201,6 +1199,7 @@ continuousdeployment
 continuousintegration
 control
 controller
+controlroom
 convereter
 converged_data_management
 conversational
@@ -1589,7 +1588,6 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
-dirkjan
 dirsync
 disa
 disable-psremoting
@@ -1618,6 +1616,7 @@ distributedcache
 distributedfilesystem
 distribution
 distributiongroup
+distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
@@ -1731,7 +1730,6 @@ drupal
 drush
 dry
 ds
-ds-client
 ds-utils
 dsa
 dsacls
@@ -1741,7 +1739,6 @@ dsc-resources
 dsccertificates
 dscconcepts
 dscdriftmonitor
-dsclient
 dscresource
 dscresourcekit
 dscresources
@@ -2032,6 +2029,7 @@ extract
 extreme-networks
 eztheme
 f
+f#
 f5
 facebook
 factoryorchestrator
@@ -2220,6 +2218,7 @@ frontdoor
 frontrange
 fs
 fsf
+fsharp
 fslogix
 fsrm
 ftp
@@ -2456,6 +2455,7 @@ hanaon
 handle
 handler
 hangouts
+hannelstoolbox
 har
 hard
 hardblock
@@ -3081,6 +3081,7 @@ linqpad
 lint
 linting
 linux
+linux-command
 linuxssh
 liquid
 liquit
@@ -3104,6 +3105,7 @@ loadbalancer.org
 loanddepot
 loandepot
 local
+local-caching
 localadmin
 localconfigurationmanager
 localdb
@@ -3921,6 +3923,7 @@ paas
 pac
 pack
 package
+package-management
 package-transform
 packagemanagement
 packagemanager
@@ -3956,6 +3959,7 @@ parclient
 pardot
 parititions
 parool
+parquet
 parse
 parser
 parsing
@@ -4160,7 +4164,6 @@ postgresql
 pow
 powdrgit
 power
-power-cbr
 power-shell
 powerapps
 powerappsportal
@@ -4195,6 +4198,7 @@ powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
+powershell-modules
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -4317,6 +4321,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4412,7 +4419,6 @@ psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
-psmp
 psmsgraph
 psmsgraphapi
 psmvp
@@ -4489,6 +4495,7 @@ purestorage
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -4601,7 +4608,6 @@ reboot
 rebootnodeifneeded
 reckon
 recommendation
-reconcile
 record
 recording
 recovery
@@ -4735,7 +4741,6 @@ resourcemanager
 resourcemover
 resources
 resourcesearch
-response
 rest
 rest-api
 restapi
@@ -4806,6 +4811,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -4961,6 +4967,7 @@ scrubber
 scsm
 scuba
 sd
+sddl
 sdk
 sdn
 search
@@ -4976,6 +4983,7 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
+secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5017,7 +5025,6 @@ selectxmlinfo
 selenium
 self
 self-hosted
-self-service
 self-signed
 selfdispatch
 selfsigned
@@ -5271,7 +5278,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -5382,7 +5388,6 @@ ssllabs-scan
 sslprotocol
 ssm
 sso
-sspr
 ssrs
 ssst
 sstp
@@ -5463,6 +5468,7 @@ stringmanagertool
 strings
 stringutilities
 strip-ansi
+stripe
 strongname
 structure
 sts
@@ -5537,6 +5543,7 @@ synchronization
 synchronize
 syndication
 synergy
+syntax
 syntaxhighlighter
 synthesis
 synthetics
@@ -5878,10 +5885,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -6151,6 +6160,7 @@ vmguestpolicy
 vmhost
 vmhostgroup
 vmhostnetworkadapater
+vmmanagement
 vmnic
 vmpolicy
 vmrole
@@ -6449,10 +6459,12 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
+wrc
 wrike
 write
 write-ascii
 write-color
+write-colour
 write-debug
 write-host
 write-information

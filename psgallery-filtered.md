@@ -5,6 +5,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Get-Errorlog](https://www.powershellgallery.com/Packages/Get-Errorlog/1.0) | 1.0
+
+### Published: 05/09/2022 17:23:33 by agrajan
+
+Module will help in writing log as well as error of any particular activity
+
+__Downloads__: 0 | __Repository__: 
+
 ## [SSP.PorteoLibrary](https://www.powershellgallery.com/Packages/SSP.PorteoLibrary/1.0.22) | 1.0.22
 
 ### Published: 05/09/2022 15:30:20 by Dr. Polar Humenn
@@ -75,7 +83,7 @@ __Downloads__: 860 | __Repository__:
 
 A prompt theme engine for any shell
 
-__Downloads__: 1,504,880 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 1,504,883 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.92) | 1.1.92
 
@@ -83,7 +91,7 @@ __Downloads__: 1,504,880 | __Repository__: https://github.com/JanDeDobbeleer/oh-
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,577,026 | __Repository__: https://dbatools.io/
+__Downloads__: 1,577,036 | __Repository__: https://dbatools.io/
 
 ## [PS-Sudoku](https://www.powershellgallery.com/Packages/PS-Sudoku/1.3.4) | 1.3.4
 
@@ -180,7 +188,7 @@ __Downloads__: 44 | __Repository__:
 
 Automate against ServiceNow service and asset management.  This module can be used standalone or with Azure Automation.
 
-__Downloads__: 169,021 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
+__Downloads__: 169,014 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
 ## [ListFunctions](https://www.powershellgallery.com/Packages/ListFunctions/1.2.0) | 1.2.0
 
@@ -406,7 +414,7 @@ __Downloads__: 1,615 | __Repository__: https://www.jetstreamsoft.com/about/suppo
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,844,628 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,844,630 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.0.105) | 0.0.105
 
@@ -431,7 +439,7 @@ __Downloads__: 7,953 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,514,574 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,514,582 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [ADDSActiveAccountAudit](https://www.powershellgallery.com/Packages/ADDSActiveAccountAudit/1.2.0) | 1.2.0
 
@@ -456,6 +464,14 @@ __Downloads__: 8 | __Repository__:
 A PowerShell module with functions to help calculate working hours, and for generally working with or calculating business hours / date times.
 
 __Downloads__: 51 | __Repository__: https://github.com/codaamok/PSBusinessTime
+
+## [PsAdToolkit](https://www.powershellgallery.com/Packages/PsAdToolkit/1.2.21) | 1.2.21
+
+### Published: 05/04/2022 16:02:02 by Henry Rohlfing
+
+This module provides helpful tooling for managing, cleaning up, and auditing an Active Directory Environment
+
+__Downloads__: 12 | __Repository__: https://github.com/zimbeo/PsAdToolkit
 
 ## [LogicMonitor](https://www.powershellgallery.com/Packages/LogicMonitor/1.0.2.1) | 1.0.2.1
 
@@ -527,7 +543,7 @@ __Downloads__: 131 | __Repository__: https://github.com/juribalimited/powershell
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 597,618 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 597,565 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PowerPoopizer](https://www.powershellgallery.com/Packages/PowerPoopizer/0.0.5) | 0.0.5
 
@@ -693,14 +709,6 @@ __Downloads__: 239 | __Repository__: https://github.com/oracle/oci-powershell-mo
 This modules provides Cmdlets for OCI Tenantmanagercontrolplane Service
 
 __Downloads__: 1,210 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Streaming](https://www.powershellgallery.com/Packages/OCI.PSModules.Streaming/33.0.0) | 33.0.0
-
-### Published: 05/03/2022 17:51:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Streaming Service
-
-__Downloads__: 1,254 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Stackmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Stackmonitoring/33.0.0) | 33.0.0
 
@@ -924,7 +932,7 @@ __Downloads__: 1,273 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Marketplace Service
 
-__Downloads__: 1,253 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,252 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/33.0.0) | 33.0.0
 
@@ -1172,7 +1180,7 @@ __Downloads__: 226 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Datacatalog Service
 
-__Downloads__: 1,255 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,254 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/33.0.0) | 33.0.0
 
@@ -1510,14 +1518,6 @@ PowerShell warpper for Teamwork.com
 
 __Downloads__: 43 | __Repository__: 
 
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/10.0) | 10.0
-
-### Published: 05/03/2022 08:51:51 by JT
-
-JaapsTools
-
-__Downloads__: 33 | __Repository__: 
-
 ## [PSWritePDF](https://www.powershellgallery.com/Packages/PSWritePDF/0.0.19) | 0.0.19
 
 ### Published: 05/03/2022 08:38:17 by Przemyslaw Klys
@@ -1604,7 +1604,7 @@ __Downloads__: 209 | __Repository__:
 
 PowerShell module
 
-__Downloads__: 522,852 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 522,849 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [Lably](https://www.powershellgallery.com/Packages/Lably/0.3) | 0.3
 
@@ -1711,7 +1711,7 @@ __Downloads__: 589 | __Repository__: https://github.com/icraftsoftware/Be.Statel
 
 MMSMOA Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 201,321 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 201,319 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [IvantiPS](https://www.powershellgallery.com/Packages/IvantiPS/0.1.3) | 0.1.3
 
@@ -1753,7 +1753,7 @@ The ActiveDirectoryDsc module contains DSC resources for deployment and configur
 
 These DSC resources allow you to configure new domains, child domains, and high availability domain controllers, establish cross-domain trusts and manage users, groups and OUs.
 
-__Downloads__: 1,426,872 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
+__Downloads__: 1,426,993 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
 
 ## [PowerLine](https://www.powershellgallery.com/Packages/PowerLine/3.4.1) | 3.4.1
 
@@ -1874,7 +1874,7 @@ __Downloads__: 4 | __Repository__: https://appsource.microsoft.com/en-us/product
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 16,784 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 16,783 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [cmhealth](https://www.powershellgallery.com/Packages/cmhealth/1.0.6) | 1.0.6
 
@@ -1954,7 +1954,7 @@ __Downloads__: 7 | __Repository__: https://github.com/thordreier/KeePassImportEx
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
-__Downloads__: 9,335,672 | __Repository__: https://github.com/Pester/Pester
+__Downloads__: 9,335,656 | __Repository__: https://github.com/Pester/Pester
 
 ## [ghcman](https://www.powershellgallery.com/Packages/ghcman/4.10) | 4.10
 
@@ -2036,4 +2036,4 @@ A set of functions for managing websites built on the DNN Platform.
 
 __Downloads__: 879 | __Repository__: https://github.com/bdukes/PowerShellModules
 
-*Updated: Monday, 09 May 2022 15:39:16 UTC*
+*Updated: Monday, 09 May 2022 17:53:34 UTC*
