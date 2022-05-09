@@ -7,21 +7,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: true
-      matrix:
-        gemfiles:
-          [
-            kramdown,
-            kramdown-asciidoc,
-            asciidoctor,
-            asciidoctor-pdf,
-            asciidoctor-rouge,
-            hexapdf,
-            rouge,
-          ]
-    env: # $BUNDLE_GEMFILE must be set at the job level, so it is set for all steps
-      BUNDLE_GEMFILE: ${{ github.workspace }}/gemfiles/${{ matrix.gemfile }}.gemfile
     steps:
       - uses: actions/checkout@v3
         with:
@@ -32,17 +17,6 @@ jobs:
           ruby-version: 3.0
       - name: discovery
         run: env
-      - name: Run report script
-        shell: pwsh
-        run: ./scripts/run.ps1
-      - name: git status
-        run: git status
-      - name: git add
-        run: git add .
-      - name: git commit
-        run: |
-          git config user.name "Action Bot"
-          git config user.email "<>"
-          git commit -m "PSGallery Report Run"
-      - name: git push
-        run: git push
+      - name: gem install
+        shell: bash
+        run: gem install kramdown kramdown-asciidoc asciidoctor asciidoctor-pdf asciidoctor-rouge hexapdf rouge
