@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 10 May 2022 02:17:05 UTC
+Updated: Tuesday, 10 May 2022 09:53:03 UTC
 
 ?:
 ??
@@ -73,6 +73,7 @@ abe
 about
 abstractsyntaxtree
 abuse
+acas
 accelerator
 access
 access-control
@@ -124,7 +125,6 @@ ad_monitoring
 ad-ds
 adal
 adapter
-adaptivecards
 adb
 adc
 adcs
@@ -233,6 +233,7 @@ algorithm
 algorithms
 alias
 aliases
+aliens
 all
 alletra
 alm
@@ -497,7 +498,6 @@ az
 az-cli
 az.automation
 az.stackhci
-aza
 azautomation
 azcli
 azcompute
@@ -659,7 +659,6 @@ bin
 bin-obj
 binary
 binaryip
-bind
 binding
 bing
 bingmap
@@ -866,6 +865,7 @@ certera
 certes
 certificate
 certificateauthority
+certificatechain
 certificatemanager
 certificatepolicy
 certificates
@@ -1679,6 +1679,7 @@ documents
 docusaurus
 docusign
 docx
+dod
 dog
 dog-names
 dogs
@@ -2230,6 +2231,8 @@ fslogix
 fsrm
 ftp
 ftps
+fudge
+fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -2541,7 +2544,6 @@ history
 hitrust
 hive
 hivehome
-hjson
 hl7
 hlds
 hls
@@ -2987,7 +2989,6 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
-kurukuru
 kusto
 kvm
 l1tf
@@ -3502,6 +3503,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4057,7 +4059,6 @@ php
 phpapam
 pi
 picker
-picture
 pictures
 pid
 pie
@@ -4161,6 +4162,7 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
+position
 postgre
 postgres
 postgresql
@@ -4293,7 +4295,6 @@ profile
 profiler
 profiles
 proget
-program
 program-association
 programs
 progress
@@ -4591,6 +4592,7 @@ rdb
 rdbms
 rdc
 rdcman
+rdcmanager
 rdfe
 rdg
 rdl
@@ -5159,7 +5161,6 @@ showoncommand
 shred
 shutdown
 sid
-sidecar
 siem
 sif
 sigma
@@ -5552,6 +5553,7 @@ synchronization
 synchronize
 syndication
 synergy
+syntax
 syntaxhighlighter
 synthesis
 synthetics
@@ -5599,7 +5601,6 @@ tabs
 tabular
 tag
 tag-requiredmodule1-1.0
-tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
@@ -5660,6 +5661,7 @@ templates
 templating
 temporary
 tenable
+tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
@@ -5906,6 +5908,7 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
+ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
@@ -5959,7 +5962,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
@@ -6003,6 +6005,7 @@ upsource
 upstream
 uptime
 uptimerobot
+uptobox
 uri
 uri-scheme
 url
@@ -6147,7 +6150,6 @@ virtualterminal
 visio
 visual
 visual-studio
-visualbuilder
 visualc
 visualization
 visualstudio
@@ -6353,6 +6355,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-registry
@@ -6472,7 +6475,6 @@ write-color
 write-colour
 write-debug
 write-host
-write-information
 write-log
 write-loganalytics
 write-progress
@@ -6502,8 +6504,11 @@ x.509
 x1
 x2
 x509
+x509cerificate
+x509cerificate2
 x509certificate
 x509certificates
+x509chain
 x64
 x86
 xa
