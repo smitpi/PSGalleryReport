@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 10 May 2022 09:53:03 UTC
+Updated: Tuesday, 10 May 2022 17:53:57 UTC
 
 ?:
 ??
@@ -151,7 +151,6 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
-adgroups
 adif
 adm
 admf
@@ -178,7 +177,6 @@ adr
 ads
 adsi
 adsync
-aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -315,6 +313,7 @@ appconfiguration
 appdynamics
 appearance
 appender
+appian
 appinsights
 applayering
 apple
@@ -364,7 +363,6 @@ arm-templates
 armor
 armtemplate
 armtemplates
-arp
 array
 arrays
 art
@@ -498,6 +496,7 @@ az
 az-cli
 az.automation
 az.stackhci
+aza
 azautomation
 azcli
 azcompute
@@ -659,6 +658,7 @@ bin
 bin-obj
 binary
 binaryip
+bind
 binding
 bing
 bingmap
@@ -1140,7 +1140,6 @@ conda
 condition
 conditionalaccess
 conduit
-confidentialclient
 confidentialledger
 config
 configapi
@@ -1440,7 +1439,6 @@ datetime
 datto
 dattormm
 datum
-dave
 davinci
 dax
 dayinweek
@@ -1737,7 +1735,6 @@ drush
 dry
 ds
 ds-client
-ds-utils
 dsa
 dsacls
 dsc
@@ -1755,7 +1752,6 @@ dsl
 dsm
 dsreg
 dsregcmd
-dsutils
 dtc
 dts
 dtsx
@@ -1839,7 +1835,6 @@ email
 email-address
 emailaddressupdate
 emailautomation
-emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -1849,7 +1844,6 @@ emergency
 emoji
 emotion
 empire
-empty
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2071,7 +2065,6 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fieldglass
@@ -2200,7 +2193,6 @@ forticlient
 fortify
 fortifyondemand
 fortigate
-fortigi
 fortimanager
 fortinet
 fortios
@@ -2309,7 +2301,6 @@ get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
-get-emptyadgroups
 get-externalip
 get-firmwaretype
 get-history
@@ -2323,14 +2314,14 @@ get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
-get-stalecomps
-get-staleusers
 get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
 ggplot
+gh-actions
+ghactions
 ghc
 ghibli
 ghost
@@ -2346,7 +2337,6 @@ gitdesktop
 gitflow
 gitforwindows
 github
-github-action
 github-actions
 githubactions
 githubtools
@@ -2424,7 +2414,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-grr
 gsuite
 gtx1080ti
 guardedfabric
@@ -2774,7 +2763,6 @@ intacct
 integrated
 integratedscriptingeditor
 integration
-integrationaccount
 integrationservicescatalog
 integrity
 intel
@@ -2862,7 +2850,6 @@ iso-3166-1
 iso-8601
 ispac
 isprime
-issues
 isvalidemail
 isvalidip
 item
@@ -2938,8 +2925,6 @@ k8s
 kafka
 kaminario
 karma
-kaseya
-kaseyavsa
 katakana
 kb
 kbarticle
@@ -2989,6 +2974,7 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
+kurukuru
 kusto
 kvm
 l1tf
@@ -2997,10 +2983,8 @@ lab
 labautomation
 labdefinition
 label
-labels
 lability
 labnotifications
-labservices
 labtech
 labtest
 labworker
@@ -3019,7 +3003,6 @@ laserbeams
 last
 last.fm
 lastfm
-lastlogon
 lastpass
 latency
 latestupdate
@@ -3063,8 +3046,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensereport
 licenses
 licensing
@@ -3153,6 +3134,7 @@ logicapp
 logicapps
 logiclesstemplate
 logicmonitor
+logiles
 login
 login-azurermaccount
 login-rdp
@@ -3171,8 +3153,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 lol
 lolcat
@@ -3199,7 +3183,6 @@ lxco
 lxcopstool
 lync
 m365
-maatschap-fortigi
 mac
 mac-address
 macaddress
@@ -3743,7 +3726,6 @@ objectstorage
 objecttree
 obs
 observeit
-oce
 oci
 ocr
 octoprint
@@ -3896,7 +3878,6 @@ osprovision
 osprovisioning
 oss
 ossec
-osubbillingschedule
 osuborganizationsubscription
 osubsubscription
 osubusage
@@ -4059,6 +4040,7 @@ php
 phpapam
 pi
 picker
+picture
 pictures
 pid
 pie
@@ -4245,7 +4227,6 @@ prefix
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presenter
@@ -4295,6 +4276,7 @@ profile
 profiler
 profiles
 proget
+program
 program-association
 programs
 progress
@@ -4423,7 +4405,6 @@ pslocalgallery
 psloganalytics
 psm1
 psmodule
-psmodule psedition_desktop
 psmp
 psmsgraph
 psmsgraphapi
@@ -4477,7 +4458,6 @@ public
 public-key
 public-transport
 publicapi
-publicclient
 publicfolder
 publicip
 publish
@@ -4688,7 +4668,6 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
-remoteforensics
 remotehost
 remotelogoff
 remotemanagement
@@ -4772,7 +4751,6 @@ rfc3986
 rfc4007
 rfc4291
 rfc5952
-rfc826
 rg
 rhapsody
 ribbon
@@ -4975,7 +4953,6 @@ scrubber
 scsm
 scuba
 sd
-sddl
 sdk
 sdn
 search
@@ -5058,7 +5035,6 @@ sentinel
 sentinelone
 sep
 seppmail
-seppmail.cloud
 seq
 sequence
 serialization
@@ -5076,7 +5052,6 @@ servers
 service
 service-bus
 servicebus
-servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicedesk
@@ -5161,6 +5136,7 @@ showoncommand
 shred
 shutdown
 sid
+sidecar
 siem
 sif
 sigma
@@ -5284,7 +5260,6 @@ soltra
 solution
 solutions
 sonarcloud
-sonarqube
 sonarr
 sonatype
 songs
@@ -5301,7 +5276,6 @@ source-dedicated-server
 sourcecontrol
 sourcegraph
 sourcemod
-sourceone
 sourcepawn
 sourcequery
 space
@@ -5358,7 +5332,6 @@ sqlautomation
 sqlchangeautomation
 sqlclient
 sqlcmd
-sqlcodeguard
 sqldbatools
 sqldiagapi
 sqlexport
@@ -5529,7 +5502,6 @@ svesavov
 svetoslav
 svg
 svn
-svt
 swagger
 swamid
 swarm
@@ -5601,6 +5573,7 @@ tabs
 tabular
 tag
 tag-requiredmodule1-1.0
+tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
@@ -5665,7 +5638,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-services
 terminal.gui
@@ -5840,7 +5812,6 @@ ts
 tsa
 tsd
 tsheets
-tsqlbestpractice
 tts
 tui
 tulpep
@@ -5903,13 +5874,11 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
-ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
-ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -5962,6 +5931,7 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
+uninstaller
 union
 unique
 unique-files
@@ -6150,6 +6120,7 @@ virtualterminal
 visio
 visual
 visual-studio
+visualbuilder
 visualc
 visualization
 visualstudio
@@ -6175,7 +6146,6 @@ vms
 vmtovmhostrule
 vmtovmrule
 vmware
-vmware.vsphere
 vmwaredrs
 vmwcluster
 vmwdatacenter
@@ -6204,11 +6174,9 @@ vps
 vra
 vrealize
 vro
-vrops
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vscode
 vsdevcmd
@@ -6244,7 +6212,6 @@ wakeup
 walk
 wallet
 wallpaper
-wallpapers
 wannacry
 wansi
 wap
@@ -6381,7 +6348,6 @@ windowsplugins
 windowspowershell
 windowspresentationfoundation
 windowsrest
-windowssandbox
 windowsserver
 windowsserver2008
 windowsserver2012
@@ -6475,6 +6441,7 @@ write-color
 write-colour
 write-debug
 write-host
+write-information
 write-log
 write-loganalytics
 write-progress
