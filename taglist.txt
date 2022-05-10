@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 09 May 2022 17:53:43 UTC
+Updated: Tuesday, 10 May 2022 02:17:05 UTC
 
 ?:
 ??
@@ -73,7 +73,6 @@ abe
 about
 abstractsyntaxtree
 abuse
-acas
 accelerator
 access
 access-control
@@ -234,7 +233,6 @@ algorithm
 algorithms
 alias
 aliases
-aliens
 all
 alletra
 alm
@@ -276,6 +274,7 @@ anglesharp
 angular
 animate-svg
 animations
+annotated
 announcementsservice
 anova
 ansi
@@ -382,6 +381,7 @@ asc
 ascii
 ascii85
 asdatabase
+asigra
 asm
 asn
 asn.1
@@ -410,6 +410,7 @@ asynchronous
 atempo
 atera
 athena
+atlas
 atlassian
 atlassiancli
 atlassianps
@@ -681,6 +682,7 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
+black
 blackbaud
 blackbox
 blacklist
@@ -810,6 +812,7 @@ card
 cardwirth
 cargo
 carousel
+cartoon
 case
 cassandra
 cat
@@ -822,7 +825,9 @@ catesta
 cats
 catty
 cavium
+cb
 cblueshell
+cbr
 cchoco
 cchocoex
 ccm
@@ -861,7 +866,6 @@ certera
 certes
 certificate
 certificateauthority
-certificatechain
 certificatemanager
 certificatepolicy
 certificates
@@ -1137,6 +1141,7 @@ condition
 conditionalaccess
 conduit
 confidentialclient
+confidentialledger
 config
 configapi
 configascode
@@ -1588,6 +1593,7 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
+dirkjan
 dirsync
 disa
 disable-psremoting
@@ -1673,7 +1679,6 @@ documents
 docusaurus
 docusign
 docx
-dod
 dog
 dog-names
 dogs
@@ -1730,6 +1735,7 @@ drupal
 drush
 dry
 ds
+ds-client
 ds-utils
 dsa
 dsacls
@@ -1739,6 +1745,7 @@ dsc-resources
 dsccertificates
 dscconcepts
 dscdriftmonitor
+dsclient
 dscresource
 dscresourcekit
 dscresources
@@ -2223,8 +2230,6 @@ fslogix
 fsrm
 ftp
 ftps
-fudge
-fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -3497,7 +3502,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -4157,13 +4161,13 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
-position
 postgre
 postgres
 postgresql
 pow
 powdrgit
 power
+power-cbr
 power-shell
 powerapps
 powerappsportal
@@ -4419,6 +4423,7 @@ psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
+psmp
 psmsgraph
 psmsgraphapi
 psmvp
@@ -4586,7 +4591,6 @@ rdb
 rdbms
 rdc
 rdcman
-rdcmanager
 rdfe
 rdg
 rdl
@@ -4608,6 +4612,7 @@ reboot
 rebootnodeifneeded
 reckon
 recommendation
+reconcile
 record
 recording
 recovery
@@ -4741,6 +4746,7 @@ resourcemanager
 resourcemover
 resources
 resourcesearch
+response
 rest
 rest-api
 restapi
@@ -5025,6 +5031,7 @@ selectxmlinfo
 selenium
 self
 self-hosted
+self-service
 self-signed
 selfdispatch
 selfsigned
@@ -5278,6 +5285,7 @@ solutions
 sonarcloud
 sonarqube
 sonarr
+sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -5388,6 +5396,7 @@ ssllabs-scan
 sslprotocol
 ssm
 sso
+sspr
 ssrs
 ssst
 sstp
@@ -5543,7 +5552,6 @@ synchronization
 synchronize
 syndication
 synergy
-syntax
 syntaxhighlighter
 synthesis
 synthetics
@@ -5652,7 +5660,6 @@ templates
 templating
 temporary
 tenable
-tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
@@ -5899,7 +5906,6 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
-ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
@@ -5997,7 +6003,6 @@ upsource
 upstream
 uptime
 uptimerobot
-uptobox
 uri
 uri-scheme
 url
@@ -6348,7 +6353,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-registry
@@ -6367,6 +6371,7 @@ windowsforms
 windowsindex
 windowsinstaller
 windowsinternaldatabase
+windowsinternals
 windowsiotservices
 windowsmanagementframework
 windowsplugins
@@ -6497,11 +6502,8 @@ x.509
 x1
 x2
 x509
-x509cerificate
-x509cerificate2
 x509certificate
 x509certificates
-x509chain
 x64
 x86
 xa

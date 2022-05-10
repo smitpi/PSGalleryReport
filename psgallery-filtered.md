@@ -5,6 +5,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [TMConsole.Provider.Amazon.AWS](https://www.powershellgallery.com/Packages/TMConsole.Provider.Amazon.AWS/1.0.0.0) | 1.0.0.0
+
+### Published: 05/10/2022 01:17:45 by TransitionManager
+
+Provides a VMware vCenter wrapper for TMConsole.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Get-ServerHardwareInventoryREDFISH](https://www.powershellgallery.com/Packages/Get-ServerHardwareInventoryREDFISH/1.0.0) | 1.0.0
+
+### Published: 05/10/2022 00:45:07 by Texas Roemer
+
+Cmdlet using iDRAC with Redfish API to get server hardware information which includes system information, memory, cpu, power supplies, fans, pcie devices, pci functions or network devices
+
+__Downloads__: 0 | __Repository__: 
+
+## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/15.0.0.0) | 15.0.0.0
+
+### Published: 05/10/2022 00:44:39 by Texas Roemer
+
+Main module used to import all individual iDRAC Redfish modules listed in the Powershell gallery. For more details and examples for each module, execute get-help on the specific module.
+
+__Downloads__: 210 | __Repository__: 
+
+## [SSP.PorteoLibrary](https://www.powershellgallery.com/Packages/SSP.PorteoLibrary/1.0.23) | 1.0.23
+
+### Published: 05/09/2022 23:20:23 by Dr. Polar Humenn
+
+This module contains commands to add Porteo Site Designs to a site.
+
+__Downloads__: 210 | __Repository__: 
+
+## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/2.3.1.1) | 2.3.1.1
+
+### Published: 05/09/2022 22:45:06 by TransitionManager
+
+Provides TransitionManager Functionality
+
+__Downloads__: 410 | __Repository__: 
+
+## [Runway.Yaml](https://www.powershellgallery.com/Packages/Runway.Yaml/0.0.4) | 0.0.4
+
+### Published: 05/09/2022 22:29:41 by ThePoShWolf
+
+YAML Job definitions for Runway
+
+__Downloads__: 15 | __Repository__: 
+
+## [PermissionGroups](https://www.powershellgallery.com/Packages/PermissionGroups/1.2.3) | 1.2.3
+
+### Published: 05/09/2022 22:23:43 by R. Josh Nylander
+
+Simplifies creation of AD groups designed for manager permissions in a role groups/permissions group implementation.
+
+__Downloads__: 402 | __Repository__: 
+
+## [MountAws](https://www.powershellgallery.com/Packages/MountAws/0.6.3) | 0.6.3
+
+### Published: 05/09/2022 19:50:36 by Andy Alm
+
+An experimental powershell provider that allows you to browse various aws services as a filesystem
+
+__Downloads__: 180 | __Repository__: https://github.com/andyalm/mount-aws
+
+## [Wsl-Alpine](https://www.powershellgallery.com/Packages/Wsl-Alpine/1.1) | 1.1
+
+### Published: 05/09/2022 18:01:18 by Antoine Martin
+
+Powershell cmdlet to quickly create a small Alpine based WSL distribution
+
+__Downloads__: 4 | __Repository__: https://github.com/antoinemartin/PowerShell-Wsl-Alpine
+
 ## [Get-Errorlog](https://www.powershellgallery.com/Packages/Get-Errorlog/1.0) | 1.0
 
 ### Published: 05/09/2022 17:23:33 by agrajan
@@ -12,14 +84,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Module will help in writing log as well as error of any particular activity
 
 __Downloads__: 0 | __Repository__: 
-
-## [SSP.PorteoLibrary](https://www.powershellgallery.com/Packages/SSP.PorteoLibrary/1.0.22) | 1.0.22
-
-### Published: 05/09/2022 15:30:20 by Dr. Polar Humenn
-
-This module contains commands to add Porteo Site Designs to a site.
-
-__Downloads__: 210 | __Repository__: 
 
 ## [SSP.PnPLibrary](https://www.powershellgallery.com/Packages/SSP.PnPLibrary/1.0.15) | 1.0.15
 
@@ -110,14 +174,6 @@ This will capture and save needed farm details, to allow scripts to run automati
 
 __Downloads__: 152 | __Repository__: https://github.com/smitpi/XDHealthCheck
 
-## [MountAws](https://www.powershellgallery.com/Packages/MountAws/0.6.2) | 0.6.2
-
-### Published: 05/07/2022 23:15:10 by Andy Alm
-
-An experimental powershell provider that allows you to browse various aws services as a filesystem
-
-__Downloads__: 180 | __Repository__: https://github.com/andyalm/mount-aws
-
 ## [New-Function](https://www.powershellgallery.com/Packages/New-Function/1.0.4) | 1.0.4
 
 ### Published: 05/07/2022 17:22:49 by Simon Godefroy - Simon.Godefroy@FocusedIT.co.uk
@@ -164,7 +220,7 @@ __Downloads__: 9 | __Repository__: https://github.com/joeywas/DynatracePS
 
 This module contains DSC resources for deployment and configuration of Microsoft DHCP Server.
 
-__Downloads__: 241,362 | __Repository__: https://github.com/dsccommunity/xDhcpServer
+__Downloads__: 241,361 | __Repository__: https://github.com/dsccommunity/xDhcpServer
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2205.549) | 2205.549
 
@@ -172,7 +228,7 @@ __Downloads__: 241,362 | __Repository__: https://github.com/dsccommunity/xDhcpSe
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 532,768 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 532,779 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.1) | 1.2.1
 
@@ -188,7 +244,7 @@ __Downloads__: 44 | __Repository__:
 
 Automate against ServiceNow service and asset management.  This module can be used standalone or with Azure Automation.
 
-__Downloads__: 169,014 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
+__Downloads__: 169,021 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
 ## [ListFunctions](https://www.powershellgallery.com/Packages/ListFunctions/1.2.0) | 1.2.0
 
@@ -279,14 +335,6 @@ __Downloads__: 288 | __Repository__: https://github.com/jhoek/UncommonSense.AH
 File Management Functions
 
 __Downloads__: 10,457 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [Wsl-Alpine](https://www.powershellgallery.com/Packages/Wsl-Alpine/1.0) | 1.0
-
-### Published: 05/05/2022 16:10:02 by Antoine Martin
-
-Powershell cmdlet to quickly create a small Alpine based WSL distribution
-
-__Downloads__: 4 | __Repository__: https://github.com/antoinemartin/PowerShell-Wsl-Alpine
 
 ## [AnaforaShell](https://www.powershellgallery.com/Packages/AnaforaShell/1.8.3) | 1.8.3
 
@@ -414,7 +462,7 @@ __Downloads__: 1,615 | __Repository__: https://www.jetstreamsoft.com/about/suppo
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,844,630 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,844,632 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.0.105) | 0.0.105
 
@@ -527,7 +575,7 @@ __Downloads__: 1,892 | __Repository__:
 
 A PowerShell module to install/update PHP, PHP extensions and Composer
 
-__Downloads__: 133,028 | __Repository__: https://github.com/mlocati/powershell-phpmanager
+__Downloads__: 133,023 | __Repository__: https://github.com/mlocati/powershell-phpmanager
 
 ## [Juriba.Dashworks](https://www.powershellgallery.com/Packages/Juriba.Dashworks/0.0.25.0) | 0.0.25.0
 
@@ -543,7 +591,7 @@ __Downloads__: 131 | __Repository__: https://github.com/juribalimited/powershell
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 597,565 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 597,618 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PowerPoopizer](https://www.powershellgallery.com/Packages/PowerPoopizer/0.0.5) | 0.0.5
 
@@ -709,6 +757,14 @@ __Downloads__: 239 | __Repository__: https://github.com/oracle/oci-powershell-mo
 This modules provides Cmdlets for OCI Tenantmanagercontrolplane Service
 
 __Downloads__: 1,210 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Streaming](https://www.powershellgallery.com/Packages/OCI.PSModules.Streaming/33.0.0) | 33.0.0
+
+### Published: 05/03/2022 17:51:06 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Streaming Service
+
+__Downloads__: 1,254 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Stackmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Stackmonitoring/33.0.0) | 33.0.0
 
@@ -932,7 +988,7 @@ __Downloads__: 1,273 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Marketplace Service
 
-__Downloads__: 1,252 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,253 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/33.0.0) | 33.0.0
 
@@ -1180,7 +1236,7 @@ __Downloads__: 226 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Datacatalog Service
 
-__Downloads__: 1,254 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,255 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/33.0.0) | 33.0.0
 
@@ -1420,7 +1476,7 @@ __Downloads__: 244 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Aispeech Service
 
-__Downloads__: 230 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 219 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/33.0.0) | 33.0.0
 
@@ -1492,7 +1548,7 @@ __Downloads__: 25 | __Repository__: https://www.dawan.fr/
 
 Join-Object combines two object lists based on a related property between them.
 
-__Downloads__: 12,072 | __Repository__: https://github.com/iRon7/Join-Object
+__Downloads__: 12,073 | __Repository__: https://github.com/iRon7/Join-Object
 
 ## [EAMemoryCache](https://www.powershellgallery.com/Packages/EAMemoryCache/0.1.0) | 0.1.0
 
@@ -1517,6 +1573,14 @@ __Downloads__: 26 | __Repository__: https://github.com/davidshomelab/PS-PwUtils
 PowerShell warpper for Teamwork.com
 
 __Downloads__: 43 | __Repository__: 
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/10.0) | 10.0
+
+### Published: 05/03/2022 08:51:51 by JT
+
+JaapsTools
+
+__Downloads__: 33 | __Repository__: 
 
 ## [PSWritePDF](https://www.powershellgallery.com/Packages/PSWritePDF/0.0.19) | 0.0.19
 
@@ -1604,7 +1668,7 @@ __Downloads__: 209 | __Repository__:
 
 PowerShell module
 
-__Downloads__: 522,849 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 522,850 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [Lably](https://www.powershellgallery.com/Packages/Lably/0.3) | 0.3
 
@@ -1711,7 +1775,7 @@ __Downloads__: 589 | __Repository__: https://github.com/icraftsoftware/Be.Statel
 
 MMSMOA Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 201,319 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 201,321 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [IvantiPS](https://www.powershellgallery.com/Packages/IvantiPS/0.1.3) | 0.1.3
 
@@ -1954,7 +2018,7 @@ __Downloads__: 7 | __Repository__: https://github.com/thordreier/KeePassImportEx
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
-__Downloads__: 9,335,656 | __Repository__: https://github.com/Pester/Pester
+__Downloads__: 9,335,672 | __Repository__: https://github.com/Pester/Pester
 
 ## [ghcman](https://www.powershellgallery.com/Packages/ghcman/4.10) | 4.10
 
@@ -1972,68 +2036,4 @@ Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-Chi
 
 __Downloads__: 51,401 | __Repository__: https://github.com/joonro/Get-ChildItemColor
 
-## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/1.20.1) | 1.20.1
-
-### Published: 04/28/2022 21:24:35 by JumpCloud Solutions Architect Team
-
-PowerShell functions to manage a JumpCloud Directory-as-a-Service
-
-__Downloads__: 5,241,996 | __Repository__: https://github.com/TheJumpCloud/support/wiki
-
-## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.0.0) | 2.1.0.0
-
-### Published: 04/28/2022 19:58:14 by Bentley Systems Incorporated
-
-ProjectWise PowerShell Cmdlets from System Architecture Group
-
-__Downloads__: 60,567 | __Repository__: 
-
-## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/1.6.0) | 1.6.0
-
-### Published: 04/28/2022 08:38:10 by Gary Blake Cloud Infrastructure Business Group (CIBG)
-
-PowerShell Module for VMware Validated Solutions
-
-__Downloads__: 426 | __Repository__: 
-
-## [PowerShellHttpModule](https://www.powershellgallery.com/Packages/PowerShellHttpModule/0.2.1) | 0.2.1
-
-### Published: 04/28/2022 02:35:23 by carrvo
-
-For writing a REST API in PowerShell
-
-__Downloads__: 258 | __Repository__: https://github.com/carrvo/WebHost
-
-## [cwmApi](https://www.powershellgallery.com/Packages/cwmApi/1.4.0) | 1.4.0
-
-### Published: 04/28/2022 01:41:27 by Rob Gilbreath - rob.gilbreath@pncit.com
-
-This module facilitates interaction with the ConnectWise Manage REST API via PowerShell
-
-__Downloads__: 5,382 | __Repository__: https://github.com/pncit/cwmApi
-
-## [Pinvoke](https://www.powershellgallery.com/Packages/Pinvoke/2.1.0) | 2.1.0
-
-### Published: 04/27/2022 23:49:57 by Adam Driscoll
-
-P\Invoke library for PowerShell
-
-__Downloads__: 826 | __Repository__: 
-
-## [AadAuthenticationFactory](https://www.powershellgallery.com/Packages/AadAuthenticationFactory/1.1.0) | 1.1.0
-
-### Published: 04/27/2022 19:35:18 by Jiri Formacek
-
-Provides AAD authentication factory for easy Public and Confidential client flow authentication with AAD in PowerShell
-
-__Downloads__: 558 | __Repository__: https://github.com/jformacek/CosmosLite/tree/master/Module/AadAuthenticationFactory
-
-## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.1) | 1.4.1
-
-### Published: 04/27/2022 18:56:49 by Brian Dukes
-
-A set of functions for managing websites built on the DNN Platform.
-
-__Downloads__: 879 | __Repository__: https://github.com/bdukes/PowerShellModules
-
-*Updated: Monday, 09 May 2022 17:53:34 UTC*
+*Updated: Tuesday, 10 May 2022 02:16:56 UTC*
