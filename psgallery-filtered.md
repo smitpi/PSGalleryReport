@@ -5,6 +5,73 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Optimized.Mga.Report](https://www.powershellgallery.com/Packages/Optimized.Mga.Report/0.0.0.3) | 0.0.0.3
+
+### Published: 05/11/2022 09:06:30 by Bas Wijdenes
+
+Custom AzureAD reports together with the Optimized.Mga. See the Project Site for more.
+
+__Downloads__: 24 | __Repository__: https://github.com/baswijdenes/Optimized.Mga.SharePoint
+
+## [Optimized.Mga.SharePoint](https://www.powershellgallery.com/Packages/Optimized.Mga.SharePoint/0.0.0.6) | 0.0.0.6
+
+### Published: 05/11/2022 09:00:49 by Bas Wijdenes
+
+Custom SharePoint functions together with the Optimized.Mga. See the Project Site for more.
+
+__Downloads__: 94 | __Repository__: https://github.com/baswijdenes/Optimized.Mga.SharePoint
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22130.30215) | 4.4.22130.30215
+
+### Published: 05/11/2022 08:49:27 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 2,848,714 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.47) | 0.0.0.47
+
+### Published: 05/11/2022 06:46:05 by Anthony Vandewerdt
+
+This is a community generated PowerShell Module for Actifio Global Manager (AGM).  
+It provides composite functions that combine commands to various AGM API endpoints, to achieve specific outcomes. 
+Examples include mounting a database, creating a new VM or running a workflow.
+More information about this module can be found here:   https://github.com/Actifio/AGMPowerLib
+
+__Downloads__: 610 | __Repository__: https://github.com/Actifio/AGMPowerLib
+
+## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.12) | 1.0.12
+
+### Published: 05/11/2022 06:05:05 by Christopher Berg Schwanstrøm
+
+Various helpful cmdlets and functions
+
+__Downloads__: 301 | __Repository__: 
+
+## [codedx](https://www.powershellgallery.com/Packages/codedx/1.9.6) | 1.9.6
+
+### Published: 05/11/2022 04:58:25 by Team Synopsys
+
+This module allows for interaction with the Code Dx REST API
+
+__Downloads__: 368 | __Repository__: 
+
+## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.2) | 1.2.2
+
+### Published: 05/11/2022 03:16:42 by FastTrack In-Product Experiences Team
+
+Harness for generating fake sensitive information to test Microsoft Purview data loss prevention (DLP) policies.
+
+__Downloads__: 46 | __Repository__: 
+
+## [MrModuleTools](https://www.powershellgallery.com/Packages/MrModuleTools/1.1.1) | 1.1.1
+
+### Published: 05/11/2022 02:51:13 by Mike F. Robbins
+
+PowerShell Script Module Toolkit
+
+__Downloads__: 0 | __Repository__: 
+
 ## [SmartDialConfig](https://www.powershellgallery.com/Packages/SmartDialConfig/1.0) | 1.0
 
 ### Published: 05/11/2022 02:01:12 by Jeremy Jackson
@@ -12,14 +79,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Configuration of Dell Switches for SMARTDial
 
 __Downloads__: 0 | __Repository__: https://github.com/Largehawiian/DellSwitches
-
-## [MrModuleTools](https://www.powershellgallery.com/Packages/MrModuleTools/1.1.0) | 1.1.0
-
-### Published: 05/11/2022 01:34:50 by Mike F. Robbins
-
-PowerShell Script Module Toolkit
-
-__Downloads__: 0 | __Repository__: 
 
 ## [ReportRunner](https://www.powershellgallery.com/Packages/ReportRunner/0.6.5) | 0.6.5
 
@@ -35,7 +94,7 @@ __Downloads__: 49 | __Repository__: https://github.com/archmachina/ps-reportrunn
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 1,901,705 | __Repository__: https://vcredist.com/
+__Downloads__: 1,901,749 | __Repository__: https://vcredist.com/
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.60.3) | 1.60.3
 
@@ -43,7 +102,7 @@ __Downloads__: 1,901,705 | __Repository__: https://vcredist.com/
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 1,908 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 1,907 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.10.1) | 22.5.10.1
 
@@ -51,7 +110,7 @@ __Downloads__: 1,908 | __Repository__: https://github.com/chris-peterson/pwsh-gi
 
 MMSMOA Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 202,442 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 202,451 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.5.10.1) | 22.5.10.1
 
@@ -73,7 +132,7 @@ __Downloads__: 258,051 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 A powershell module to interact with the Databricks APIs on Azure, AWS and GCP. Dedicated cmdlets for import/export of whole Databricks workspaces (notebooks, clusters, jobs, ...) for CI/CD pipelines. Full support for pipelining commands.
 
-__Downloads__: 111,607 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
+__Downloads__: 111,618 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/34.0.0) | 34.0.0
 
@@ -938,7 +997,7 @@ __Downloads__: 39,083 | __Repository__: https://github.com/oracle/oci-powershell
 
 PowerShell module to manage the Windows Server Routing and Remote Access Service (RRAS) inbox accounting database.
 
-__Downloads__: 72 | __Repository__: 
+__Downloads__: 71 | __Repository__: 
 
 ## [Runway.Yaml](https://www.powershellgallery.com/Packages/Runway.Yaml/0.1.0) | 0.1.0
 
@@ -946,7 +1005,7 @@ __Downloads__: 72 | __Repository__:
 
 YAML Job definitions for Runway
 
-__Downloads__: 19 | __Repository__: 
+__Downloads__: 18 | __Repository__: 
 
 ## [ACGCore](https://www.powershellgallery.com/Packages/ACGCore/0.17.2) | 0.17.2
 
@@ -962,7 +1021,7 @@ __Downloads__: 1,369 | __Repository__: https://github.com/Adicitus/acgcore
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,580,841 | __Repository__: https://dbatools.io/
+__Downloads__: 1,580,826 | __Repository__: https://dbatools.io/
 
 ## [AppianPS](https://www.powershellgallery.com/Packages/AppianPS/1.0.2) | 1.0.2
 
@@ -1018,7 +1077,7 @@ __Downloads__: 0 | __Repository__:
 
 A prompt theme engine for any shell
 
-__Downloads__: 1,506,472 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 1,506,467 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## [DynatracePS](https://www.powershellgallery.com/Packages/DynatracePS/0.1.6) | 0.1.6
 
@@ -1050,7 +1109,7 @@ __Downloads__: 80,048 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 21,664 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 21,665 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2022.5.0) | 2022.5.0
 
@@ -1243,7 +1302,7 @@ __Downloads__: 874 | __Repository__: https://github.com/fbprogmbh/Audit-Test-Aut
 
 This module contains DSC resources for deployment and configuration of Microsoft DHCP Server.
 
-__Downloads__: 241,398 | __Repository__: https://github.com/dsccommunity/xDhcpServer
+__Downloads__: 241,400 | __Repository__: https://github.com/dsccommunity/xDhcpServer
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2205.549) | 2205.549
 
@@ -1251,15 +1310,7 @@ __Downloads__: 241,398 | __Repository__: https://github.com/dsccommunity/xDhcpSe
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 538,623 | __Repository__: https://stealthpuppy.com/evergreen/
-
-## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.1) | 1.2.1
-
-### Published: 05/07/2022 03:28:22 by FastTrack In-Product Experiences Team
-
-Harness for generating fake sensitive information to test Microsoft Purview data loss prevention (DLP) policies.
-
-__Downloads__: 46 | __Repository__: 
+__Downloads__: 538,659 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ServiceNow](https://www.powershellgallery.com/Packages/ServiceNow/3.1.11) | 3.1.11
 
@@ -1292,6 +1343,14 @@ __Downloads__: 192 | __Repository__:
 Some function used by CDboy.
 
 __Downloads__: 13 | __Repository__: 
+
+## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.3.4.0) | 1.3.4.0
+
+### Published: 05/06/2022 09:49:56 by glueckkanja-gab
+
+Adds the required configuration to SCEPman (https://scepman.com/) right after installing or updating to a 2.x version.
+
+__Downloads__: 396 | __Repository__: https://scepman.com/
 
 ## [ConditionalAccessAudit](https://www.powershellgallery.com/Packages/ConditionalAccessAudit/1.1) | 1.1
 
@@ -1463,14 +1522,6 @@ Powershell Module for confguration of JetStream Software on AVS
 
 __Downloads__: 1,618 | __Repository__: https://www.jetstreamsoft.com/about/support/
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22123.30172) | 4.4.22123.30172
-
-### Published: 05/05/2022 08:56:38 by Red Gate Software Ltd.
-
-Automation tools for production quality database deployment
-
-__Downloads__: 2,848,698 | __Repository__: https://www.red-gate.com/sca/productpage
-
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.0.105) | 0.0.105
 
 ### Published: 05/05/2022 01:09:42 by Jason Wohlgemuth
@@ -1494,7 +1545,7 @@ __Downloads__: 7,954 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,521,562 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,521,546 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [ADDSActiveAccountAudit](https://www.powershellgallery.com/Packages/ADDSActiveAccountAudit/1.2.0) | 1.2.0
 
@@ -1502,7 +1553,7 @@ __Downloads__: 1,521,562 | __Repository__: https://github.com/dfinke/ImportExcel
 
 Active Directory Domain Services Active User Audit
 
-__Downloads__: 141 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADDSActiveAccountAudit
+__Downloads__: 140 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADDSActiveAccountAudit
 
 ## [APSTroubleshoot](https://www.powershellgallery.com/Packages/APSTroubleshoot/0.0.1) | 0.0.1
 
@@ -1542,7 +1593,15 @@ __Downloads__: 6,983 | __Repository__: https://github.com/wetling23/logicmonitor
 
 This module provides an interface to the NinjaOne API.
 
-__Downloads__: 169 | __Repository__: https://github.com/homotechsual/NinjaOne
+__Downloads__: 168 | __Repository__: https://github.com/homotechsual/NinjaOne
+
+## [dbaclone](https://www.powershellgallery.com/Packages/dbaclone/0.10.65) | 0.10.65
+
+### Published: 05/04/2022 15:08:07 by Sander Stad
+
+Module for cloning SQL Server databases
+
+__Downloads__: 1,335 | __Repository__: 
 
 ## [EAMonitor](https://www.powershellgallery.com/Packages/EAMonitor/0.0.8) | 0.0.8
 
@@ -1574,7 +1633,7 @@ __Downloads__: 1,897 | __Repository__:
 
 A PowerShell module to install/update PHP, PHP extensions and Composer
 
-__Downloads__: 133,159 | __Repository__: https://github.com/mlocati/powershell-phpmanager
+__Downloads__: 133,160 | __Repository__: https://github.com/mlocati/powershell-phpmanager
 
 ## [Juriba.Dashworks](https://www.powershellgallery.com/Packages/Juriba.Dashworks/0.0.25.0) | 0.0.25.0
 
@@ -1590,7 +1649,7 @@ __Downloads__: 136 | __Repository__: https://github.com/juribalimited/powershell
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 602,188 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 602,190 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PowerPoopizer](https://www.powershellgallery.com/Packages/PowerPoopizer/0.0.5) | 0.0.5
 
@@ -1706,7 +1765,7 @@ __Downloads__: 27 | __Repository__: https://www.dawan.fr/
 
 Join-Object combines two object lists based on a related property between them.
 
-__Downloads__: 12,186 | __Repository__: https://github.com/iRon7/Join-Object
+__Downloads__: 12,184 | __Repository__: https://github.com/iRon7/Join-Object
 
 ## [EAMemoryCache](https://www.powershellgallery.com/Packages/EAMemoryCache/0.1.0) | 0.1.0
 
@@ -1746,7 +1805,7 @@ __Downloads__: 34 | __Repository__:
 
 Little project to create, read, modify, split, merge PDF files on Windows, Linux and Mac.
 
-__Downloads__: 53,791 | __Repository__: https://github.com/EvotecIT/PSWritePDF
+__Downloads__: 53,789 | __Repository__: https://github.com/EvotecIT/PSWritePDF
 
 ## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.2.3) | 0.2.3
 
@@ -1826,7 +1885,7 @@ __Downloads__: 209 | __Repository__:
 
 PowerShell module
 
-__Downloads__: 525,467 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 525,507 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [Lably](https://www.powershellgallery.com/Packages/Lably/0.3) | 0.3
 
@@ -1842,7 +1901,7 @@ __Downloads__: 7 | __Repository__:
 
 Functions for working with the Five9 Admin Web Service API
 
-__Downloads__: 3,515 | __Repository__: https://github.com/sqone2/PSFive9Admin
+__Downloads__: 3,514 | __Repository__: https://github.com/sqone2/PSFive9Admin
 
 ## [TimeZones](https://www.powershellgallery.com/Packages/TimeZones/1.0.2) | 1.0.2
 
@@ -1959,7 +2018,7 @@ The ActiveDirectoryDsc module contains DSC resources for deployment and configur
 
 These DSC resources allow you to configure new domains, child domains, and high availability domain controllers, establish cross-domain trusts and manage users, groups and OUs.
 
-__Downloads__: 1,454,358 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
+__Downloads__: 1,454,295 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
 
 ## [PowerLine](https://www.powershellgallery.com/Packages/PowerLine/3.4.1) | 3.4.1
 
@@ -1985,60 +2044,4 @@ This tool will take a simple Excel Spreadsheet and convert the data portion into
 
 __Downloads__: 8 | __Repository__: 
 
-## [PSSplinterlands](https://www.powershellgallery.com/Packages/PSSplinterlands/1.0.10) | 1.0.10
-
-### Published: 05/01/2022 03:14:12 by Mrpig91
-
-A powershell module for interacting with the Splinterlands API.
-
-__Downloads__: 76 | __Repository__: 
-
-## [Subatomix.ExampleModule](https://www.powershellgallery.com/Packages/Subatomix.ExampleModule/1.1.1) | 1.1.1
-
-### Published: 05/01/2022 02:48:44 by Jeffrey Sharp
-
-Example module built with Subatomix.Build.Packaging.PowerShellModule
-
-__Downloads__: 1,249 | __Repository__: https://github.com/sharpjs/Subatomix.Build.Packaging.PowerShellModule
-
-## [WebAutomate](https://www.powershellgallery.com/Packages/WebAutomate/1.3.6) | 1.3.6
-
-### Published: 04/30/2022 22:17:33 by Ogtay Garayev
-
-This module provides classes for automating operations.
-
-__Downloads__: 51 | __Repository__: 
-
-## [Grafana-api](https://www.powershellgallery.com/Packages/Grafana-api/1.0.2) | 1.0.2
-
-### Published: 04/30/2022 20:00:48 by Stylemans Nico
-
-Grafana API
-
-__Downloads__: 29 | __Repository__: https://github.com/nico-stylemans/Grafana
-
-## [Grafana-Ops](https://www.powershellgallery.com/Packages/Grafana-Ops/1.0.2) | 1.0.2
-
-### Published: 04/30/2022 19:40:39 by Stylemans Nico
-
-Grafana OPS
-
-__Downloads__: 28 | __Repository__: https://github.com/nico-stylemans/Grafana
-
-## [UncommonSense.Cinema](https://www.powershellgallery.com/Packages/UncommonSense.Cinema/0.0.3) | 0.0.3
-
-### Published: 04/30/2022 18:56:23 by Jan Hoek
-
-Film listing for my favorite cinemas
-
-__Downloads__: 116 | __Repository__: https://github.com/jhoek/UncommonSense.Cinema
-
-## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.225) | 0.0.225
-
-### Published: 04/30/2022 17:40:52 by Przemyslaw Klys
-
-Module covering functions that are shared within multiple projects
-
-__Downloads__: 133,439 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
-
-*Updated: Wednesday, 11 May 2022 02:31:26 UTC*
+*Updated: Wednesday, 11 May 2022 09:52:24 UTC*

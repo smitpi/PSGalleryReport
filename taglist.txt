@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 11 May 2022 02:31:36 UTC
+Updated: Wednesday, 11 May 2022 09:52:33 UTC
 
 ?:
 ??
@@ -389,6 +389,7 @@ asm
 asn
 asn.1
 asn1
+asnbank
 asp
 asp.net
 aspnet
@@ -1012,13 +1013,13 @@ cloudberry
 cloudblue
 cloudbolt
 cloudendure
-cloudevents
 cloudflare
 cloudforensics
 cloudformation
 cloudfront
 cloudgovernance
 cloudguard
+cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1136,7 +1137,6 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrent
 conda
 condition
@@ -1171,6 +1171,7 @@ connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
+connectednetwork
 connectexchange
 connection
 connections
@@ -1682,10 +1683,9 @@ docusign
 docx
 dod
 dog
-dog-names
-dogs
 dogstatsd
 doh
+dok
 dokuwiki
 domain
 domains
@@ -1889,7 +1889,6 @@ environment-variables
 environmentmanagent
 environmentmodules
 environments
-environmentvariable
 environmentvariables
 envvar
 envvars
@@ -2293,6 +2292,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-childitem
 get-cmhealthcheck
 get-command
@@ -2835,6 +2835,7 @@ iperf
 ipfy.org
 iphone
 ipilot
+iplookup
 ipmaths
 ipp
 iprange
@@ -2860,6 +2861,7 @@ iso-3166-1
 iso-8601
 ispac
 isprime
+issues
 isvalidemail
 isvalidip
 item
@@ -2867,7 +2869,6 @@ iterate
 iteration
 itg
 itglue
-itop
 itsm
 itstore
 ivanti
@@ -2995,7 +2996,6 @@ lab
 labautomation
 labdefinition
 label
-labels
 lability
 labnotifications
 labservices
@@ -3446,7 +3446,6 @@ moldova
 moment
 monaco
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -3501,7 +3500,6 @@ msi
 msi psmodule
 msiexec
 msil
-msix
 mslab
 msmq
 msol
@@ -3556,10 +3554,10 @@ myob
 mysql
 mysql-database
 mytest
+n-central
 nac
 nagios
 name
-name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -3978,6 +3976,7 @@ passivetotal
 passphrase
 passphraser passphrase password generator entropy
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -4093,7 +4092,6 @@ playbook
 player
 playlists
 pleasant
-pleasantpasswordserver
 plex
 plist
 plot
@@ -4182,7 +4180,6 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
-powermax
 powerplan
 powerplateform
 powerplatform
@@ -4301,7 +4298,6 @@ progressbar
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -4338,6 +4334,7 @@ prtg
 prtg_network_monitor
 prtgnetworkmonitor
 ps
+ps-ncentral
 ps.credentialmanager
 ps1
 ps1xml
@@ -4406,7 +4403,6 @@ psget
 psgitlab
 psgraph
 psgraylog
-pshot
 pshtml
 psini
 psinsight
@@ -4866,7 +4862,6 @@ sage
 saggiehaim
 sailpoint
 sale
-sales
 salesforce
 sam
 saml
@@ -4973,6 +4968,7 @@ scrubber
 scsm
 scuba
 sd
+sddl
 sdk
 sdn
 search
@@ -5281,6 +5277,7 @@ solr
 soltra
 solution
 solutions
+sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -5355,6 +5352,7 @@ sqlautomation
 sqlchangeautomation
 sqlclient
 sqlcmd
+sqlcodeguard
 sqldbatools
 sqldiagapi
 sqlexport
@@ -5532,6 +5530,7 @@ swarm
 swimlane
 swis
 switch
+sxs
 sybase
 sybaseiq
 symantec
@@ -5731,6 +5730,7 @@ thumbprint
 thunderbird
 thycotic
 tic-tac-toe
+tickle
 ticks
 tictactoe
 tiermodel
@@ -5835,6 +5835,7 @@ ts
 tsa
 tsd
 tsheets
+tsqlbestpractice
 tts
 tui
 tulpep
@@ -5899,6 +5900,7 @@ ud-loadingoverlay
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
+ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -5923,6 +5925,7 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 udcm
 udfeedback
 udp
@@ -5940,7 +5943,6 @@ ulid
 ulm
 um
 uml
-umn
 ums
 unattend
 unattendedfile
@@ -6007,7 +6009,6 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
-urlscan
 urlupdate
 uru
 usage
@@ -6032,6 +6033,7 @@ userworkstations
 usg
 usps
 utc
+utf-8
 utf-sig
 utf7
 utf8
@@ -6065,7 +6067,6 @@ variance
 variants
 vastlimits
 vault
-vaultextension
 vaultstore
 vba
 vbproj
@@ -6246,7 +6247,6 @@ warning
 warplaneporn
 warranty
 warrenty
-wasabi
 watch
 watchmen
 watery
@@ -6373,6 +6373,7 @@ windowsplugins
 windowspowershell
 windowspresentationfoundation
 windowsrest
+windowssandbox
 windowsserver
 windowsserver2008
 windowsserver2012
@@ -6400,7 +6401,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
