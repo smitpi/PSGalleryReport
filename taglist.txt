@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 11 May 2022 09:52:33 UTC
+Updated: Wednesday, 11 May 2022 17:54:40 UTC
 
 ?:
 ??
@@ -805,7 +805,6 @@ canarie
 cancel
 canonical
 cantara
-capability
 capacity
 capgemini
 capslock
@@ -816,7 +815,6 @@ cardwirth
 cargo
 carousel
 cartoon
-case
 cassandra
 cat
 cat-names
@@ -1067,7 +1065,6 @@ codereview
 codes
 codesign
 codesigning
-codex
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1137,6 +1134,7 @@ computer-site
 computername
 computers
 computersite
+concur
 concurrent
 conda
 condition
@@ -1230,7 +1228,6 @@ coolq
 cooltag1
 cooltag2
 coordinates
-copilot
 copy
 copy-item
 core
@@ -1683,6 +1680,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 doh
 dok
@@ -1808,7 +1807,6 @@ edgaronline
 edge
 edgegateway
 edgeorder
-ediscovery
 edit
 editor
 editorservices
@@ -1970,7 +1968,6 @@ exact
 example
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -1996,6 +1993,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exo
 exov2
@@ -2006,6 +2004,7 @@ expand-tab
 expandframework
 experiments
 expired
+expiring
 expiry
 exploit
 exploration
@@ -2071,7 +2070,6 @@ fhirservice
 fiche
 fiddler
 fido
-fieldglass
 fifa
 figlet
 file
@@ -2401,7 +2399,6 @@ granttype
 graph
 graph-api
 graphapi
-graphapirequests
 graphexplorer
 graphic
 graphics
@@ -2869,6 +2866,7 @@ iterate
 iteration
 itg
 itglue
+itop
 itsm
 itstore
 ivanti
@@ -2996,6 +2994,7 @@ lab
 labautomation
 labdefinition
 label
+labels
 lability
 labnotifications
 labservices
@@ -3098,6 +3097,7 @@ listener
 litecoin
 litedb
 literature
+live
 lldp
 lmhost
 lmhosts
@@ -3500,6 +3500,7 @@ msi
 msi psmodule
 msiexec
 msil
+msix
 mslab
 msmq
 msol
@@ -3558,6 +3559,7 @@ n-central
 nac
 nagios
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -3568,7 +3570,6 @@ nano
 nanoleaf
 nasdaq
 native
-natural-language-to-code
 natural-selection
 nav
 navigation
@@ -3768,7 +3769,6 @@ office365
 officedev
 officegraph
 officemessageencryption
-offline
 offlinewimservicing
 ofx
 ogg
@@ -3786,7 +3786,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onboard
 onboardadministrator
@@ -3823,7 +3822,6 @@ oop
 op
 opc
 open
-open-ai
 open-ssh
 openai
 openapi
@@ -3850,7 +3848,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
-opml
 ops
 opsi
 opsmgr
@@ -3906,7 +3903,6 @@ out-gridview
 out-json
 outerjoin
 outertext
-outline
 outlook
 output
 output-to-image
@@ -4092,6 +4088,7 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
 plex
 plist
 plot
@@ -4180,6 +4177,7 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
+powermax
 powerplan
 powerplateform
 powerplatform
@@ -4202,8 +4200,6 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
-powershell-terminal
-powershell-terminal-copilot
 powershell.one
 powershell7
 powershellazuresql
@@ -4298,6 +4294,7 @@ progressbar
 project
 project-management
 projectmanagement
+projectreunion
 projects
 projecttemplate
 projectwise
@@ -4403,6 +4400,7 @@ psget
 psgitlab
 psgraph
 psgraylog
+pshot
 pshtml
 psini
 psinsight
@@ -4862,6 +4860,7 @@ sage
 saggiehaim
 sailpoint
 sale
+sales
 salesforce
 sam
 saml
@@ -5074,7 +5073,6 @@ servicecatalog
 serviceconnectionpoint
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicemanagementautomation
 servicemanager
@@ -5159,7 +5157,6 @@ siem
 sif
 sigma
 sign
-signalfx
 signalr
 signature
 signed
@@ -5659,7 +5656,6 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
-teradata
 termbin
 terminal
 terminal-services
@@ -5897,6 +5893,7 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -5943,6 +5940,7 @@ ulid
 ulm
 um
 uml
+umn
 ums
 unattend
 unattendedfile
@@ -6022,7 +6020,6 @@ user-environment
 userdiscovery
 usergroup
 userinterface
-usermanagement
 username
 userprofile
 userright
@@ -6067,6 +6064,7 @@ variance
 variants
 vastlimits
 vault
+vaultextension
 vaultstore
 vba
 vbproj
@@ -6247,6 +6245,7 @@ warning
 warplaneporn
 warranty
 warrenty
+wasabi
 watch
 watchmen
 watery
@@ -6373,7 +6372,6 @@ windowsplugins
 windowspowershell
 windowspresentationfoundation
 windowsrest
-windowssandbox
 windowsserver
 windowsserver2008
 windowsserver2012
@@ -6401,6 +6399,7 @@ winsat
 winscp
 wintellect
 winterminal
+winui
 wireless
 wirelessnetwork
 wireshark
