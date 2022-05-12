@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 11 May 2022 17:54:40 UTC
+Updated: Thursday, 12 May 2022 02:30:43 UTC
 
 ?:
 ??
@@ -100,7 +100,6 @@ act!
 actifio
 actifiogo
 action
-actionplan
 actions
 activation
 active
@@ -154,7 +153,6 @@ adfstools
 adgroupmemberobjects
 adgroups
 adif
-adm
 admf
 admin
 admin-tools
@@ -178,7 +176,6 @@ adp
 adr
 ads
 adsi
-adsync
 aduser
 aduseraccountlockout
 adv180002
@@ -268,7 +265,6 @@ analyze
 analyzer
 analyzerrules
 anchor
-and
 android
 anet
 anf
@@ -291,7 +287,6 @@ anywhere
 aovpn psmodule
 apache
 api
-api-client
 api-gateway
 apichecks
 apiclient
@@ -316,7 +311,6 @@ appconfiguration
 appdynamics
 appearance
 appender
-appian
 appinsights
 applayering
 apple
@@ -500,7 +494,6 @@ az
 az-cli
 az.automation
 az.stackhci
-aza
 azautomation
 azcli
 azcompute
@@ -508,7 +501,6 @@ azd
 azdisk
 azdo
 azereo
-azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
@@ -529,7 +521,6 @@ azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
-azure-forensics
 azure-functions
 azure-pipelines
 azure-ssis
@@ -573,7 +564,6 @@ azurerm
 azurerms
 azurerunasconnection
 azuresearch
-azuresearcher
 azuresecuritycenter
 azuresentinel
 azureservicebus
@@ -805,6 +795,7 @@ canarie
 cancel
 canonical
 cantara
+capability
 capacity
 capgemini
 capslock
@@ -839,7 +830,6 @@ cd+
 cdable_vars
 cdata
 cdb
-cdi
 cdm
 cdn
 cdp
@@ -1012,7 +1002,6 @@ cloudblue
 cloudbolt
 cloudendure
 cloudflare
-cloudforensics
 cloudformation
 cloudfront
 cloudgovernance
@@ -1065,11 +1054,11 @@ codereview
 codes
 codesign
 codesigning
+codex
 cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
-collatordso
 collatz
 collection
 collectionmembershipevaluationcomponent
@@ -1228,6 +1217,7 @@ coolq
 cooltag1
 cooltag2
 coordinates
+copilot
 copy
 copy-item
 core
@@ -1313,7 +1303,6 @@ cs137
 csc
 csharp
 csharp-watch
-csom
 csp
 csproj
 csrf
@@ -1413,7 +1402,6 @@ datagateway
 dataintegration
 datakwaliteit
 datalabelingservice
-datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
@@ -1534,7 +1522,6 @@ dev-tools
 devart
 devdeer
 developer
-developer_command_prompt
 developercommandprompt
 development
 devenv
@@ -1556,7 +1543,6 @@ dfch
 dfir
 dfs
 dfw
-dg
 dhcp
 di
 diagnostic
@@ -1573,7 +1559,6 @@ difference
 dig
 digikam
 digital
-digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
@@ -1628,7 +1613,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 dkim
 dl
 dll
@@ -1756,7 +1740,6 @@ dsreg
 dsregcmd
 dsutils
 dtc
-dts
 dtsx
 dtx
 duck
@@ -1774,7 +1757,6 @@ dutch
 dvls
 dxexpeditions
 dynamic
-dynamicdistributiongroups
 dynamicparam
 dynamicparameters
 dynamics
@@ -1887,6 +1869,7 @@ environment-variables
 environmentmanagent
 environmentmodules
 environments
+environmentvariable
 environmentvariables
 envvar
 envvars
@@ -1968,6 +1951,7 @@ exact
 example
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -1989,7 +1973,6 @@ exe
 exec
 executable
 executables
-execute
 exexml
 exif
 exiftool
@@ -2172,7 +2155,6 @@ fogapi
 fogproject
 folder
 folders
-font
 fonts
 foo
 football
@@ -2185,7 +2167,6 @@ forensics
 forest
 forestdiscovery
 format
-format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
@@ -2480,7 +2461,6 @@ haste
 hastebin
 haveibeenpwned
 hba
-hbase
 hci
 hcl
 hcx
@@ -2701,7 +2681,6 @@ imagevalidation
 imagga
 imaging
 imap
-imb
 imi
 impala
 impersonation
@@ -2809,8 +2788,6 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
-invoke-vsbuild
-invoke-vsdevcommand
 invokebuild
 invokemethod
 io
@@ -2871,8 +2848,6 @@ itsm
 itstore
 ivanti
 ivantips
-ivb
-ivdc
 iwi
 j
 j81-blog
@@ -3011,7 +2986,6 @@ languageexperiencepack
 languagepack
 lansweeper
 laps
-laragon
 laserbeams
 last
 last.fm
@@ -3069,7 +3043,6 @@ light
 lights
 lime
 limesurvey
-limit-job
 limits
 lina
 line
@@ -3192,8 +3165,6 @@ lucd
 lucene
 lunches
 lwa
-lxca
-lxcapstool
 lxco
 lxcopstool
 lync
@@ -3205,7 +3176,6 @@ macaddress
 machine
 machinelearning
 machinelearningcompute
-macmon
 macos
 macosx
 macros
@@ -3278,6 +3248,7 @@ marvellfcprovider
 marvellqlogicfcpowerkit
 mask
 mass
+masstransit
 masterconfiguration
 matcharray
 matchhashtable
@@ -3446,6 +3417,7 @@ moldova
 moment
 monaco
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -3482,7 +3454,6 @@ msbi
 msbuild
 mschart
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -3556,7 +3527,6 @@ mysql
 mysql-database
 mytest
 n-central
-nac
 nagios
 name
 name-of-dogs
@@ -3567,9 +3537,9 @@ names
 namespace
 nana
 nano
-nanoleaf
 nasdaq
 native
+natural-language-to-code
 natural-selection
 nav
 navigation
@@ -3650,7 +3620,6 @@ nic
 nightmare
 ninite
 ninja
-ninjaone
 ninjarmm
 nios
 nitrox
@@ -3680,7 +3649,6 @@ notification
 notificationhubs
 notifications
 notify
-notify-send
 nova
 npgsql
 npm
@@ -3768,7 +3736,7 @@ office2019
 office365
 officedev
 officegraph
-officemessageencryption
+offline
 offlinewimservicing
 ofx
 ogg
@@ -3780,12 +3748,12 @@ okta
 old
 ole
 oledb
-ome
 omnisphere
 omnistack
 oms
 omsagent
 on
+on-demand
 on-premise
 onboard
 onboardadministrator
@@ -3822,6 +3790,7 @@ oop
 op
 opc
 open
+open-ai
 open-ssh
 openai
 openapi
@@ -3845,9 +3814,9 @@ operationalinsights
 operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
-operationvalidation
 operatoraccesscontrol
 operators
+opml
 ops
 opsi
 opsmgr
@@ -3903,6 +3872,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 output
 output-to-image
@@ -4000,7 +3970,6 @@ pathfinder
 patternmatching
 pause
 paylocity
-paypal
 pays
 pbench
 pc
@@ -4032,7 +4001,6 @@ personalisation
 personalization
 personalvault
 pester
-pf
 pfe
 pfsense
 pfx
@@ -4070,7 +4038,6 @@ piraeus
 pivot
 pivotal
 pivottable
-pixoo
 pki
 pks
 place
@@ -4200,6 +4167,8 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
+powershell-terminal
+powershell-terminal-copilot
 powershell.one
 powershell7
 powershellazuresql
@@ -4214,7 +4183,6 @@ powershellpr0mpt
 powershellscript
 powershelltemplate
 powershelltypeaccelerators
-powershellv5
 powerstig
 powerstore
 powertab
@@ -4323,7 +4291,6 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
-proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -4421,7 +4388,6 @@ psmsgraph
 psmsgraphapi
 psmvp
 psnavigation
-psnexosisclient
 psngenposh
 psobject
 pspath
@@ -4447,9 +4413,6 @@ pssendgrid
 pssession
 pssharper
 psslack
-pssqlite
-pssqlitebynarymodule
-pssqlitemodule
 psst
 psstgenerator
 pstablacus
@@ -4470,7 +4433,6 @@ public-key
 public-transport
 publicapi
 publicclient
-publicfolder
 publicip
 publish
 publishedmodules
@@ -4541,7 +4503,6 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quota
 quote
 quotes
 quoting
@@ -4573,7 +4534,6 @@ rates
 rating
 ratings
 ravendb
-razzle
 rbac
 rbacmodel
 rbsu
@@ -5066,17 +5026,16 @@ serverless
 servermanagement
 servers
 service
-service-bus
 servicebus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicemanagementautomation
 servicemanager
-servicemanagerproxy
 servicemesh
 servicenow
 serviceplan
@@ -5157,6 +5116,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -5248,7 +5208,6 @@ snmpv3
 snmpwalk
 snowflake
 snspsscriptsmonitoring
-snssqlitepsmodule
 sntp
 snugglepup
 soap
@@ -5354,9 +5313,6 @@ sqldbatools
 sqldiagapi
 sqlexport
 sqlite
-sqlitebynarymodule
-sqlitebynarypsmodule
-sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -5396,7 +5352,6 @@ stache
 stackedge
 stackexchange
 stackhci
-stackmonitoring
 stackoverflow
 staffhub
 staging
@@ -5656,6 +5611,7 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
+teradata
 termbin
 terminal
 terminal-services
@@ -5706,7 +5662,6 @@ theme
 themes
 thermal
 thermostat
-thinprint
 third-party-libraries
 third-party-notice
 thispc
@@ -5718,8 +5673,6 @@ threadjob
 threads
 threadsanitizer
 threat
-threat-hunting
-threathunting
 threatintelligence
 throttle
 thumbprint
@@ -5769,7 +5722,6 @@ toshiba
 totp
 touch
 toughswitch
-tphubps
 tpp
 trace
 traceevent
@@ -5842,7 +5794,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -5877,7 +5828,6 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
-ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -5950,8 +5900,6 @@ unicode
 unidesk
 unifi
 unified
-unifiedauditlog
-unifiedlabeling
 uninstall
 uninstaller
 union
@@ -6007,6 +5955,7 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
+urlscan
 urlupdate
 uru
 usage
@@ -6020,6 +5969,7 @@ user-environment
 userdiscovery
 usergroup
 userinterface
+usermanagement
 username
 userprofile
 userright
@@ -6064,7 +6014,6 @@ variance
 variants
 vastlimits
 vault
-vaultextension
 vaultstore
 vba
 vbproj
@@ -6198,7 +6147,6 @@ vro
 vrops
 vrtu
 vs
-vs-shell
 vsa
 vsan
 vscode
@@ -6209,7 +6157,6 @@ vso
 vsphere
 vss
 vssetup
-vsshell
 vst
 vsteambuilder
 vsteams
@@ -6228,7 +6175,6 @@ w3svc
 w3w
 waas
 wac
-waf
 waitforobject
 wakeonlan
 wakeup
@@ -6362,7 +6308,6 @@ windowsdesktopsearch
 windowseventlog
 windowsform
 windowsforms
-windowsindex
 windowsinstaller
 windowsinternaldatabase
 windowsinternals
@@ -6372,6 +6317,7 @@ windowsplugins
 windowspowershell
 windowspresentationfoundation
 windowsrest
+windowssandbox
 windowsserver
 windowsserver2008
 windowsserver2012
