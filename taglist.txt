@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 12 May 2022 09:53:47 UTC
+Updated: Thursday, 12 May 2022 17:54:02 UTC
 
 ?:
 ??
@@ -95,7 +95,9 @@ acme
 acmesharp
 acmesharp_ext
 act-on
+act!
 actifio
+actifiogo
 action
 actionplan
 actions
@@ -212,6 +214,7 @@ aipscanner
 aircall
 airtable
 aispeech
+aivision
 ajustee
 aks
 alac
@@ -253,6 +256,7 @@ ami
 amp
 amqp
 amsi
+amxmodx
 anaconda
 analysis
 analysisservices
@@ -299,6 +303,7 @@ apm
 apmconfig
 apmcontrolplane
 apmsynthetics
+apmtraces
 aportal
 app
 app-only
@@ -447,7 +452,6 @@ autify
 auto_cd
 auto-completion
 autoattendant
-autocloudarc
 autocomplete
 autocompletion
 autoenv
@@ -469,6 +473,7 @@ autotaskpsa
 autoyast
 availability
 availabilityset
+avalara
 avalonia
 ave
 avepoint
@@ -494,6 +499,7 @@ az-cli
 az.automation
 az.stackhci
 aza
+azautomation
 azcli
 azcompute
 azd
@@ -501,6 +507,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -545,9 +552,12 @@ azuredevops_security
 azuredevopsserver
 azuredns
 azurefilesync
+azurefunctionapp
 azurefunctions
 azuregraph
 azureinformationprotection
+azureiot
+azureiothub
 azurekeyvault
 azuremigrate
 azuremonitor
@@ -769,6 +779,7 @@ businesstime
 bxor
 bydesign
 byexample
+bynarypsmodule
 byte
 bytearray
 bzip2
@@ -787,7 +798,6 @@ callqueue
 cam
 camera
 campaign
-camtasia
 canarie
 cancel
 canonical
@@ -820,6 +830,7 @@ cblueshell
 cbr
 cchoco
 cchocoex
+ccm
 cd
 cd_path
 cd-
@@ -850,7 +861,6 @@ centurylink
 centurylinkcloud
 cer
 cert
-certbasedauth
 certera
 certes
 certificate
@@ -861,10 +871,12 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
+certutil
 cf
 cfn
 ch9
 change
+changeanalysis
 changelog
 channel
 channel9
@@ -900,6 +912,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+chooser
 christaylorcodes
 christmas
 chrome
@@ -1003,7 +1016,6 @@ cloudformation
 cloudfront
 cloudgovernance
 cloudguard
-cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1012,6 +1024,7 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
@@ -1120,12 +1133,12 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrent
 conda
 condition
 conditionalaccess
 conduit
+confidentialclient
 confidentialledger
 config
 configapi
@@ -1157,6 +1170,7 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
+connections
 connectionsmanager
 connectionstring
 connectwise
@@ -1176,6 +1190,7 @@ containment
 context
 continious-deploy
 continious-integration
+continiousintergration
 continous
 continuous
 continuous-delivery
@@ -1280,6 +1295,7 @@ crm
 crm2016
 cron
 crontab
+cropping
 cross-platform
 cross-reference
 crossjoin
@@ -1377,6 +1393,7 @@ database
 database-migrations
 databaseautomation
 databasemanagement
+databasemigration
 databases
 databasetools
 databooster
@@ -1387,6 +1404,7 @@ datacatalog
 datacenter
 dataclassification
 dataconduit
+dataconnectivity
 datadog
 datafactory
 dataflow
@@ -1502,6 +1520,7 @@ desiredstate
 desiredstateconfiguration
 desk
 desktop
+desktopcentral
 desktopvirtualization
 details
 detect
@@ -1608,7 +1627,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 dkim
 dl
 dll
@@ -1720,7 +1738,6 @@ ds-utils
 dsa
 dsacls
 dsc
-dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
@@ -1798,6 +1815,7 @@ effectiveroutes
 efi
 eigencontroles
 einstein
+eklient psedition_core psedition_desktop
 elastic
 elasticsearch
 element
@@ -1820,6 +1838,7 @@ emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
+emailsecurity
 embedded
 emc
 emergency
@@ -1886,8 +1905,8 @@ error-log
 errorcode
 errorfile
 errors
-errorview
 eryph
+esae
 escape
 escapesequences
 escaping
@@ -1913,7 +1932,6 @@ etl2pcapng
 etrade
 ets
 etw
-evaluator
 evc
 event
 event_id
@@ -1951,13 +1969,10 @@ exceptionless
 exchange
 exchange_online
 exchange-rates
-exchange2010
 exchange2013
 exchange2016
 exchangecluster
 exchangemigration
-exchangeon-premise
-exchangeon-premises
 exchangeonline
 exchangeonlineprotection
 exchangeonprem
@@ -2071,6 +2086,7 @@ file-system
 file-transform
 file-type
 file-type-association
+fileencryption
 filelist
 filelog
 filelogger
@@ -2152,6 +2168,7 @@ fogapi
 fogproject
 folder
 folders
+font
 fonts
 foo
 football
@@ -2232,6 +2249,7 @@ gallery
 game
 gamecategory:cards
 games
+gameserver
 garage
 gas
 gat
@@ -2569,6 +2587,8 @@ httpclient
 httplistener
 https
 httpserver
+huawei
+huawei-ibmc-cmdlets
 hub
 hubot
 hubsite
@@ -2608,6 +2628,7 @@ iap
 ias
 ib
 ibm
+ibmc
 ibmhttpserver
 icinga
 icinga2
@@ -2633,6 +2654,7 @@ ide
 identifier
 identity
 identity-management
+identitydataplane
 identitydirector
 identitynow
 idf
@@ -2667,11 +2689,13 @@ imagecreation
 imagegeneration
 imageoftheday
 imageprocess
+imageprocessing
 images
 imageservicing
 imageslide
 imagevalidate
 imagevalidation
+imagga
 imaging
 imap
 imb
@@ -2805,6 +2829,7 @@ iperf
 ipfy.org
 iphone
 ipilot
+iplookup
 ipmaths
 ipp
 iprange
@@ -2838,7 +2863,6 @@ iterate
 iteration
 itg
 itglue
-itop
 itsm
 itstore
 ivanti
@@ -2857,6 +2881,7 @@ javascript
 javaversion
 jboss
 jdbc
+jdedwards
 jdt
 jea
 jenkins
@@ -2925,6 +2950,7 @@ key-vault
 key2wocas
 keybase
 keyboard
+keycipher
 keylight
 keymanagement
 keypair
@@ -3032,7 +3058,6 @@ license
 license-generator
 licenseautomation
 licensereport
-licenses
 licensing
 light
 lights
@@ -3163,8 +3188,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3195,7 +3218,6 @@ mails
 main
 main-menu
 maintenance
-maintenance-window
 maintenancewindows
 make
 maker
@@ -3206,6 +3228,7 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
+managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3231,12 +3254,12 @@ mariadb
 mark
 markdig
 markdown
-markdownrender
 marketing
 marketo
 marketplace
 marketplaceordering
 marking
+marklogic
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3469,6 +3492,7 @@ msi
 msi psmodule
 msiexec
 msil
+msix
 mslab
 msmq
 msol
@@ -3534,7 +3558,6 @@ names
 namespace
 nana
 nano
-nanoleaf
 nasdaq
 native
 natural-language-to-code
@@ -3641,6 +3664,7 @@ norskale
 nosql
 note
 notebook
+notepad
 noteproperty
 notes
 notification
@@ -3671,7 +3695,6 @@ ntfs
 ntp
 ntsystems
 nuget
-nuget-references
 nuget.exe
 nuget.org
 null-coalescing
@@ -3855,6 +3878,7 @@ osdupdate
 osi
 osmanagement
 osp
+ospgateway
 osprovision
 osprovisioning
 oss
@@ -3909,7 +3933,6 @@ page
 pageant
 pager
 pagerduty
-pages
 paloaltonetworks
 pam
 panels
@@ -3951,6 +3974,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -3970,6 +3994,7 @@ pathfinder
 patternmatching
 pause
 paylocity
+paypal
 pays
 pbench
 pc
@@ -4039,7 +4064,6 @@ piraeus
 pivot
 pivotal
 pivottable
-pixoo
 pki
 pks
 place
@@ -4086,6 +4110,7 @@ policystate
 poll
 polycom
 ponduit
+pool
 poop
 pop
 pop-location
@@ -4211,7 +4236,6 @@ preprocessing
 preprocessor
 presenter
 presto
-preston-k-parsard
 pretty
 prettyprinter
 preview
@@ -4264,6 +4288,7 @@ progressbar
 project
 project-management
 projectmanagement
+projectreunion
 projects
 projecttemplate
 projectwise
@@ -4312,7 +4337,6 @@ ps5
 ps6
 ps7
 psa
-psadbscreencap
 psadt
 psake
 psappdeploytoolkit
@@ -4369,6 +4393,7 @@ psget
 psgitlab
 psgraph
 psgraylog
+pshot
 pshtml
 psini
 psinsight
@@ -4437,11 +4462,13 @@ public
 public-key
 public-transport
 publicapi
+publicclient
 publicfolder
 publicip
 publish
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -4539,6 +4566,7 @@ rates
 rating
 ratings
 ravendb
+razzle
 rbac
 rbacmodel
 rbsu
@@ -4587,6 +4615,7 @@ redaction
 reddit
 redfield
 redfish
+redforest
 redgate
 redirect
 redirecting
@@ -4695,14 +4724,12 @@ resource
 resource_monitor
 resource_watcher
 resourceaccount
-resourcecontroller
 resourcegroup
 resourceid
 resourcekit
 resourcemanager
 resourcemover
 resources
-resourcesearch
 response
 rest
 rest-api
@@ -4768,6 +4795,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -4788,6 +4816,7 @@ rt
 rtu
 rubber
 rubrik
+ruby
 rule
 rulesengine
 run
@@ -4803,7 +4832,6 @@ runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
-runway
 russia
 rust
 rust-lang
@@ -4849,7 +4877,6 @@ savefile
 savings
 savov
 sbc
-sc
 scaffold
 scaffoldingtemplate
 scalable
@@ -4876,7 +4903,6 @@ scheduled-tasks
 scheduledjob
 scheduledtasks
 scheduler
-schedules-execution
 scheduling
 schema
 schemaextensions
@@ -4901,7 +4927,6 @@ scrap
 scrape
 scraper
 screen
-screencap
 screencapture
 screenconnect
 screenfetch
@@ -4909,6 +4934,7 @@ screenresolution
 screensaver
 screenshot
 script
+script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -5006,6 +5032,7 @@ sensitivity
 sensor
 sensors
 sensu
+sentinel
 sentinelone
 sep
 seppmail
@@ -5037,6 +5064,7 @@ servicefabric
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
+servicemesh
 servicenow
 serviceplan
 servicepointmanager
@@ -5251,7 +5279,9 @@ source
 source-dedicated-server
 sourcecontrol
 sourcegraph
+sourcemod
 sourceone
+sourcepawn
 sourcequery
 space
 spaces
@@ -5269,7 +5299,6 @@ speak
 specification
 specify
 spectre
-spectrumconnect
 spectrumcontrolbase
 speculation
 speculationcontrol
@@ -5294,7 +5323,6 @@ spotify
 spotify-api
 spotlight
 spotlightimages
-spp
 spread
 spreadsheet
 springcloud
@@ -5468,7 +5496,6 @@ superheros
 supermarket
 support
 suppress
-supress-reboot
 surround
 survey
 surveymonkey
@@ -5486,6 +5513,8 @@ swimlane
 swis
 switch
 sxs
+sybase
+sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5511,6 +5540,7 @@ sysinfocmdlets
 sysinternals
 syskit
 syslog
+sysman
 sysmon
 sysop
 sysprep
@@ -5590,7 +5620,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-techsmith
 tel
 telegram
 telegram-bot
@@ -5611,7 +5640,6 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
-teradata
 termbin
 terminal
 terminal-services
@@ -5663,8 +5691,6 @@ themes
 thermal
 thermostat
 thinprint
-third-party-libraries
-third-party-notice
 thispc
 thoughtfortheday
 thousandeyes
@@ -5704,6 +5730,7 @@ toasts
 tobias
 toc
 todo
+todo.txt
 toggl
 toggle
 token
@@ -5756,7 +5783,6 @@ transliteration
 transmission
 transparency
 trap
-trec
 tree
 treesize
 treffynnon
@@ -5789,6 +5815,7 @@ tsheets
 tsqlbestpractice
 tts
 tui
+tulpep
 tuner
 tutorial
 tv
@@ -5796,15 +5823,12 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -5872,7 +5896,6 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -5963,6 +5986,7 @@ urlredirections
 urlrewrite
 urlscan
 urlupdate
+uru
 usage
 usageaggregates
 usap
@@ -6132,7 +6156,6 @@ vocabularies
 voice
 voiceconfig
 voidtools
-volkskrant
 volume
 volumeshadowcopy
 volumio
@@ -6144,12 +6167,13 @@ vpg
 vplex
 vpn
 vpn-certificate
-vps
 vra
 vrealize
 vro
 vrops
+vrtu
 vs
+vs-shell
 vsa
 vsan
 vscode
@@ -6160,6 +6184,7 @@ vso
 vsphere
 vss
 vssetup
+vsshell
 vst
 vsteambuilder
 vsteams
@@ -6168,7 +6193,6 @@ vsts
 vsts-cli
 vulnerability
 vulnerabilityassessment
-vulnerabilityscanning
 vulnerabilty
 vum
 vvx
@@ -6197,7 +6221,6 @@ warranty
 warrenty
 wasabi
 watch
-watchmen
 watery
 wave
 wayk
@@ -6350,6 +6373,7 @@ winsat
 winscp
 wintellect
 winterminal
+winui
 wireless
 wirelessnetwork
 wireshark
@@ -6381,6 +6405,7 @@ wordpress
 wordwrap
 workbook
 workday
+worker
 workflow
 workflowmax
 workflows
