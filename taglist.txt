@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 13 May 2022 02:40:14 UTC
+Updated: Friday, 13 May 2022 09:53:47 UTC
 
 ?:
 ??
@@ -536,7 +536,6 @@ azure-ssis
 azureactivedirectory
 azuread
 azureadconnect
-azureadgraph
 azureadtoolkit
 azureappconfiguration
 azurearc
@@ -815,7 +814,6 @@ card
 cardwirth
 cargo
 carousel
-cartoon
 case
 cassandra
 cat
@@ -1033,6 +1031,7 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1137,7 +1136,6 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrent
 conda
 condition
@@ -1351,9 +1349,9 @@ custominformationservices
 customis
 customisation
 customization
+customlocation
 customproviders
 cvad
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1478,6 +1476,7 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
+deduplication
 deep
 deepvisibility
 def
@@ -1560,7 +1559,6 @@ dfs
 dfw
 dg
 dhcp
-di
 diagnostic
 diagnostics
 diagram
@@ -1594,7 +1592,6 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
-dirkjan
 dirsync
 disa
 disable-psremoting
@@ -1700,7 +1697,6 @@ dotnet
 dotnet-cli
 dotnettool
 dotps1
-dots
 dotteddecimalip
 doubleclick
 download
@@ -1770,6 +1766,7 @@ dump
 duplicate
 duplicate-files
 duplicatioin
+duplication
 dust
 dutch
 dvls
@@ -2011,7 +2008,6 @@ experiments
 expired
 expiring
 expiry
-exploit
 exploration
 explorer
 exponentiation
@@ -2090,12 +2086,14 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-server
 file-share
 file-system
 file-transform
 file-type
 file-type-association
 fileencryption
+filelist
 filelog
 filelogger
 filemanagement
@@ -2164,8 +2162,6 @@ flatten
 flex
 flex-query
 flexdesk
-flickr
-flowchart
 flowy
 flyway
 fmg
@@ -2223,6 +2219,7 @@ front
 frontapp
 frontdoor
 frontrange
+fs
 fsf
 fsharp
 fslogix
@@ -2459,7 +2456,6 @@ haloservicesolutions
 hamradiodeluxe
 hana
 hanaon
-handle
 handler
 hangouts
 hannelstoolbox
@@ -2732,6 +2728,7 @@ influxdb
 info
 infoblox
 information
+informationbarriers
 informix
 infosec
 infrastructure
@@ -2966,7 +2963,6 @@ keyvault
 kibana
 kickstart
 kidrsa
-kill
 kindle
 kintone
 klantcontroles
@@ -3123,7 +3119,6 @@ locationbasedservices
 lock
 lockdisplaytimeout
 lockdown
-locking
 lockoutreport
 lockscreen
 lockstep
@@ -3421,13 +3416,13 @@ mipsdk
 miration-step
 mirror
 miscellaneous
-mitigation
 mitre
 mitre_att&ck
 mitrend
 mittelschule
 mixedreality
 mixer
+mkdocs
 mlflow
 mmdc
 mobile
@@ -3499,7 +3494,6 @@ msgbox
 msgraph
 msgraphapi
 msgraphreport
-msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
@@ -3652,7 +3646,6 @@ ngen
 ngfw
 nhl
 nic
-nightmare
 ninite
 ninja
 ninjaone
@@ -4149,7 +4142,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshdyndnsapi
@@ -4268,7 +4260,6 @@ print
 printer
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -4524,7 +4515,6 @@ pxedistributionpoint
 pyranja
 python
 python-for-dotnet
-qcloud
 qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
@@ -4877,7 +4867,6 @@ sales
 salesforce
 sam
 saml
-saml psmodule
 saml2
 sample
 sampler
@@ -5343,7 +5332,6 @@ splatting
 split
 splunk
 spo
-spooler
 sport
 sports
 sports-tracker
@@ -5524,6 +5512,7 @@ sumologic
 superheros
 supermarket
 support
+suppress
 supress-reboot
 surround
 survey
@@ -5543,7 +5532,6 @@ swis
 switch
 sxs
 sybase
-sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5622,7 +5610,6 @@ target
 task
 task-runner
 taskbar
-tasker
 taskgroup
 taskmanagement
 tasks
@@ -5650,6 +5637,7 @@ techdirect
 techedna2014
 techlog
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -5766,7 +5754,6 @@ todo.txt
 toggl
 toggle
 token
-tokenlifetime
 tokens
 tookit
 tool
@@ -5877,6 +5864,7 @@ types.ps1xml
 typescript
 tzutil
 uac
+uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -6077,6 +6065,7 @@ variable
 variables
 variance
 variants
+vastlimits
 vault
 vaultextension
 vaultstore

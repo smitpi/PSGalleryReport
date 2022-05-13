@@ -5,6 +5,41 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ADGraph](https://www.powershellgallery.com/Packages/ADGraph/1.0.3) | 1.0.3
+
+### Published: 05/13/2022 09:44:47 by Sascha Spiekermann
+
+ADVisual
+
+__Downloads__: 235 | __Repository__: https://github.com/Callidus2000/ADGraph/
+
+## [Stti](https://www.powershellgallery.com/Packages/Stti/1.0.0.2365) | 1.0.0.2365
+
+### Published: 05/13/2022 08:23:00 by Ulrich Vogl
+
+STTI CLI Module
+
+__Downloads__: 457 | __Repository__: 
+
+## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.48) | 0.0.0.48
+
+### Published: 05/13/2022 06:52:04 by Anthony Vandewerdt
+
+This is a community generated PowerShell Module for Actifio Global Manager (AGM).  
+It provides composite functions that combine commands to various AGM API endpoints, to achieve specific outcomes. 
+Examples include mounting a database, creating a new VM or running a workflow.
+More information about this module can be found here:   https://github.com/Actifio/AGMPowerLib
+
+__Downloads__: 701 | __Repository__: https://github.com/Actifio/AGMPowerLib
+
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.7.226) | 1.7.226
+
+### Published: 05/13/2022 05:09:35 by Friedrich Weinmann
+
+General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
+
+__Downloads__: 1,778,872 | __Repository__: http://psframework.org/
+
 ## [LGPO](https://www.powershellgallery.com/Packages/LGPO/1.0.2.4) | 1.0.2.4
 
 ### Published: 05/13/2022 02:27:02 by Powershellcrack
@@ -80,7 +115,7 @@ __Downloads__: 1,677 | __Repository__: https://github.com/Venafi/VenafiPS
 
 A prompt theme engine for any shell
 
-__Downloads__: 1,508,778 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 1,508,774 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## [PS-Sudoku](https://www.powershellgallery.com/Packages/PS-Sudoku/2.0.0) | 2.0.0
 
@@ -104,7 +139,7 @@ __Downloads__: 0 | __Repository__: https://github.com/FriedrichWeinmann/MDCA
 
 This module provides a way to import and export document templates.
 
-__Downloads__: 462 | __Repository__: https://github.com/ScottColson/CCLLC.CDS.DevOps.PowerShell
+__Downloads__: 463 | __Repository__: https://github.com/ScottColson/CCLLC.CDS.DevOps.PowerShell
 
 ## [SharePointDSC](https://www.powershellgallery.com/Packages/SharePointDSC/5.2.0) | 5.2.0
 
@@ -112,7 +147,7 @@ __Downloads__: 462 | __Repository__: https://github.com/ScottColson/CCLLC.CDS.De
 
 This DSC module is used to deploy and configure SharePoint Server 2013, 2016 and 2019, and covers a wide range of areas including web apps, service apps and farm configuration.
 
-__Downloads__: 343,467 | __Repository__: https://github.com/dsccommunity/SharePointDsc
+__Downloads__: 343,545 | __Repository__: https://github.com/dsccommunity/SharePointDsc
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.1) | 1.5.1
 
@@ -120,7 +155,7 @@ __Downloads__: 343,467 | __Repository__: https://github.com/dsccommunity/SharePo
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 297,029 | __Repository__: 
+__Downloads__: 297,030 | __Repository__: 
 
 ## [PSGitCompletions](https://www.powershellgallery.com/Packages/PSGitCompletions/2.36.0) | 2.36.0
 
@@ -168,7 +203,7 @@ __Downloads__: 423 | __Repository__: https://github.com/jhoek/UncommonSense.Volk
 
 HP Client Management Script Library
 
-__Downloads__: 19,540,359 | __Repository__: 
+__Downloads__: 19,540,410 | __Repository__: 
 
 ## [CRS.NavContainerHelperExtension](https://www.powershellgallery.com/Packages/CRS.NavContainerHelperExtension/1.0.3.26) | 1.0.3.26
 
@@ -280,7 +315,7 @@ __Downloads__: 799 | __Repository__: https://github.com/baswijdenes/Optimized.Mg
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 13,056 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 13,057 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.10.0) | 4.10.0
 
@@ -474,7 +509,7 @@ __Downloads__: 1,420 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,243,883 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,243,881 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Juriba.Dashworks](https://www.powershellgallery.com/Packages/Juriba.Dashworks/0.0.26.0) | 0.0.26.0
 
@@ -490,7 +525,7 @@ __Downloads__: 140 | __Repository__: https://github.com/juribalimited/powershell
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,586,875 | __Repository__: https://dbatools.io/
+__Downloads__: 1,586,873 | __Repository__: https://dbatools.io/
 
 ## [ALLanguageTools](https://www.powershellgallery.com/Packages/ALLanguageTools/0.1.1) | 0.1.1
 
@@ -538,18 +573,7 @@ __Downloads__: 101 | __Repository__: https://github.com/baswijdenes/Optimized.Mg
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,856,259 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.47) | 0.0.0.47
-
-### Published: 05/11/2022 06:46:05 by Anthony Vandewerdt
-
-This is a community generated PowerShell Module for Actifio Global Manager (AGM).  
-It provides composite functions that combine commands to various AGM API endpoints, to achieve specific outcomes. 
-Examples include mounting a database, creating a new VM or running a workflow.
-More information about this module can be found here:   https://github.com/Actifio/AGMPowerLib
-
-__Downloads__: 701 | __Repository__: https://github.com/Actifio/AGMPowerLib
+__Downloads__: 2,856,256 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.12) | 1.0.12
 
@@ -589,7 +613,7 @@ __Downloads__: 57 | __Repository__: https://github.com/archmachina/ps-reportrunn
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 1,905,120 | __Repository__: https://vcredist.com/
+__Downloads__: 1,905,118 | __Repository__: https://vcredist.com/
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.60.3) | 1.60.3
 
@@ -627,7 +651,7 @@ __Downloads__: 258,853 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 A powershell module to interact with the Databricks APIs on Azure, AWS and GCP. Dedicated cmdlets for import/export of whole Databricks workspaces (notebooks, clusters, jobs, ...) for CI/CD pipelines. Full support for pipelining commands.
 
-__Downloads__: 112,285 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
+__Downloads__: 112,284 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/34.0.0) | 34.0.0
 
@@ -1709,7 +1733,7 @@ __Downloads__: 241,493 | __Repository__: https://github.com/dsccommunity/xDhcpSe
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 544,735 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 544,804 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ServiceNow](https://www.powershellgallery.com/Packages/ServiceNow/3.1.11) | 3.1.11
 
@@ -1765,7 +1789,7 @@ __Downloads__: 7 | __Repository__:
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 6,187 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 6,188 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.4) | 3.1.4
 
@@ -1839,7 +1863,7 @@ __Downloads__: 17 | __Repository__: https://github.com/erijss/JsonMenu
 
 Redirects stanard Write-* cmdlets to a log and offers some basic tracing functions
 
-__Downloads__: 22,930 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 22,931 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [PSFileTransfer](https://www.powershellgallery.com/Packages/PSFileTransfer/5.42.0) | 5.42.0
 
@@ -1936,7 +1960,7 @@ __Downloads__: 7,954 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,529,945 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,529,940 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [ADDSActiveAccountAudit](https://www.powershellgallery.com/Packages/ADDSActiveAccountAudit/1.2.0) | 1.2.0
 
@@ -2026,28 +2050,4 @@ A PowerShell module to install/update PHP, PHP extensions and Composer
 
 __Downloads__: 133,311 | __Repository__: https://github.com/mlocati/powershell-phpmanager
 
-## [AzOps](https://www.powershellgallery.com/Packages/AzOps/1.7.7) | 1.7.7
-
-### Published: 05/04/2022 08:06:09 by Customer Architecture and Engineering
-
-Integrated CI/CD Solution for Microsoft Azure.
-
-__Downloads__: 606,391 | __Repository__: https://github.com/Azure/AzOps
-
-## [PowerPoopizer](https://www.powershellgallery.com/Packages/PowerPoopizer/0.0.5) | 0.0.5
-
-### Published: 05/04/2022 05:47:55 by shortarrow
-
-💩
-
-__Downloads__: 15 | __Repository__: https://github.com/ShortArrow/power-poopizer
-
-## [EFPosh](https://www.powershellgallery.com/Packages/EFPosh/2.0.6) | 2.0.6
-
-### Published: 05/04/2022 05:00:15 by Ryan Ephgrave
-
-Extends Entity Framework Core functionality to PowerShell
-
-__Downloads__: 430 | __Repository__: https://github.com/Ryan2065/EFPosh
-
-*Updated: Friday, 13 May 2022 02:40:04 UTC*
+*Updated: Friday, 13 May 2022 09:53:37 UTC*
