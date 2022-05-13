@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 12 May 2022 17:54:02 UTC
+Updated: Friday, 13 May 2022 02:40:14 UTC
 
 ?:
 ??
@@ -68,6 +68,7 @@ aadsts
 aam
 aas
 abc
+abc_testing
 abe
 about
 abstractsyntaxtree
@@ -452,6 +453,7 @@ autify
 auto_cd
 auto-completion
 autoattendant
+autocloudarc
 autocomplete
 autocompletion
 autoenv
@@ -798,6 +800,7 @@ callqueue
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 canonical
@@ -861,6 +864,7 @@ centurylink
 centurylinkcloud
 cer
 cert
+certbasedauth
 certera
 certes
 certificate
@@ -1016,6 +1020,7 @@ cloudformation
 cloudfront
 cloudgovernance
 cloudguard
+cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1028,7 +1033,6 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1133,6 +1137,7 @@ computer-site
 computername
 computers
 computersite
+concur
 concurrent
 conda
 condition
@@ -1346,7 +1351,6 @@ custominformationservices
 customis
 customisation
 customization
-customlocation
 customproviders
 cvad
 cve-2021-34527
@@ -1474,7 +1478,6 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
-deduplication
 deep
 deepvisibility
 def
@@ -1627,6 +1630,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 dkim
 dl
 dll
@@ -1738,6 +1742,7 @@ ds-utils
 dsa
 dsacls
 dsc
+dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
@@ -1765,7 +1770,6 @@ dump
 duplicate
 duplicate-files
 duplicatioin
-duplication
 dust
 dutch
 dvls
@@ -1905,9 +1909,11 @@ error-log
 errorcode
 errorfile
 errors
+errorview
 eryph
 esae
 escape
+escapecodes
 escapesequences
 escaping
 ese
@@ -1932,6 +1938,7 @@ etl2pcapng
 etrade
 ets
 etw
+evaluator
 evc
 event
 event_id
@@ -1969,10 +1976,13 @@ exceptionless
 exchange
 exchange_online
 exchange-rates
+exchange2010
 exchange2013
 exchange2016
 exchangecluster
 exchangemigration
+exchangeon-premise
+exchangeon-premises
 exchangeonline
 exchangeonlineprotection
 exchangeonprem
@@ -2080,14 +2090,12 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
-file-server
 file-share
 file-system
 file-transform
 file-type
 file-type-association
 fileencryption
-filelist
 filelog
 filelogger
 filemanagement
@@ -2215,7 +2223,6 @@ front
 frontapp
 frontdoor
 frontrange
-fs
 fsf
 fsharp
 fslogix
@@ -2725,7 +2732,6 @@ influxdb
 info
 infoblox
 information
-informationbarriers
 informix
 infosec
 infrastructure
@@ -2863,6 +2869,7 @@ iterate
 iteration
 itg
 itglue
+itop
 itsm
 itstore
 ivanti
@@ -2889,6 +2896,7 @@ jetbrains
 jira
 jiraservicemanagement
 jms
+joat
 job
 jobs
 jobscheduler
@@ -3058,6 +3066,7 @@ license
 license-generator
 licenseautomation
 licensereport
+licenses
 licensing
 light
 lights
@@ -3188,6 +3197,8 @@ lunches
 lwa
 lxca
 lxcapstool
+lxco
+lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3218,6 +3229,7 @@ mails
 main
 main-menu
 maintenance
+maintenance-window
 maintenancewindows
 make
 maker
@@ -3254,6 +3266,7 @@ mariadb
 mark
 markdig
 markdown
+markdownrender
 marketing
 marketo
 marketplace
@@ -3415,7 +3428,6 @@ mitrend
 mittelschule
 mixedreality
 mixer
-mkdocs
 mlflow
 mmdc
 mobile
@@ -3546,6 +3558,7 @@ myjson.com
 myob
 mysql
 mysql-database
+mytest
 n-central
 nac
 nagios
@@ -3558,6 +3571,7 @@ names
 namespace
 nana
 nano
+nanoleaf
 nasdaq
 native
 natural-language-to-code
@@ -3695,6 +3709,7 @@ ntfs
 ntp
 ntsystems
 nuget
+nuget-references
 nuget.exe
 nuget.org
 null-coalescing
@@ -3933,6 +3948,7 @@ page
 pageant
 pager
 pagerduty
+pages
 paloaltonetworks
 pam
 panels
@@ -4064,6 +4080,7 @@ piraeus
 pivot
 pivotal
 pivottable
+pixoo
 pki
 pks
 place
@@ -4236,6 +4253,7 @@ preprocessing
 preprocessor
 presenter
 presto
+preston-k-parsard
 pretty
 prettyprinter
 preview
@@ -4337,6 +4355,7 @@ ps5
 ps6
 ps7
 psa
+psadbscreencap
 psadt
 psake
 psappdeploytoolkit
@@ -4689,6 +4708,7 @@ remux
 ren-isac
 reparsepoint
 repeat
+repl
 replace
 replaygain
 replication
@@ -4724,12 +4744,14 @@ resource
 resource_monitor
 resource_watcher
 resourceaccount
+resourcecontroller
 resourcegroup
 resourceid
 resourcekit
 resourcemanager
 resourcemover
 resources
+resourcesearch
 response
 rest
 rest-api
@@ -4832,6 +4854,7 @@ runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
+runway
 russia
 rust
 rust-lang
@@ -4877,6 +4900,7 @@ savefile
 savings
 savov
 sbc
+sc
 scaffold
 scaffoldingtemplate
 scalable
@@ -4903,6 +4927,7 @@ scheduled-tasks
 scheduledjob
 scheduledtasks
 scheduler
+schedules-execution
 scheduling
 schema
 schemaextensions
@@ -4927,6 +4952,7 @@ scrap
 scrape
 scraper
 screen
+screencap
 screencapture
 screenconnect
 screenfetch
@@ -5000,6 +5026,7 @@ securityroles
 securityscopes
 securitytxt
 seek
+seekatar
 seeshell
 select
 select-item
@@ -5299,6 +5326,7 @@ speak
 specification
 specify
 spectre
+spectrumconnect
 spectrumcontrolbase
 speculation
 speculationcontrol
@@ -5323,6 +5351,7 @@ spotify
 spotify-api
 spotlight
 spotlightimages
+spp
 spread
 spreadsheet
 springcloud
@@ -5495,7 +5524,7 @@ sumologic
 superheros
 supermarket
 support
-suppress
+supress-reboot
 surround
 survey
 surveymonkey
@@ -5620,7 +5649,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
-tel
+techsmith
 telegram
 telegram-bot
 telegram-bot-api
@@ -5640,6 +5669,7 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
+teradata
 termbin
 terminal
 terminal-services
@@ -5691,6 +5721,8 @@ themes
 thermal
 thermostat
 thinprint
+third-party-libraries
+third-party-notice
 thispc
 thoughtfortheday
 thousandeyes
@@ -5783,6 +5815,7 @@ transliteration
 transmission
 transparency
 trap
+trec
 tree
 treesize
 treffynnon
@@ -5823,12 +5856,15 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -5841,7 +5877,6 @@ types.ps1xml
 typescript
 tzutil
 uac
-uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -5896,6 +5931,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -5989,6 +6025,7 @@ urlupdate
 uru
 usage
 usageaggregates
+usageapi
 usap
 usb
 useful
@@ -6024,6 +6061,7 @@ uuencode
 uuid
 uw
 uwp
+ux
 vaas
 vagrant
 validate
@@ -6039,7 +6077,6 @@ variable
 variables
 variance
 variants
-vastlimits
 vault
 vaultextension
 vaultstore
@@ -6156,6 +6193,7 @@ vocabularies
 voice
 voiceconfig
 voidtools
+volkskrant
 volume
 volumeshadowcopy
 volumio
@@ -6167,6 +6205,7 @@ vpg
 vplex
 vpn
 vpn-certificate
+vps
 vra
 vrealize
 vro
@@ -6193,6 +6232,7 @@ vsts
 vsts-cli
 vulnerability
 vulnerabilityassessment
+vulnerabilityscanning
 vulnerabilty
 vum
 vvx
@@ -6221,6 +6261,7 @@ warranty
 warrenty
 wasabi
 watch
+watchmen
 watery
 wave
 wayk
