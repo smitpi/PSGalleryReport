@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 14 May 2022 09:52:44 UTC
+Updated: Saturday, 14 May 2022 17:52:30 UTC
 
 ?:
 ??
@@ -98,7 +98,6 @@ acmesharp_ext
 act-on
 act!
 actifio
-actifiogo
 action
 actionplan
 actions
@@ -151,6 +150,7 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
+adgroupmemberobjects
 adgroups
 adif
 adm
@@ -210,7 +210,6 @@ aianomalydetection
 ailanguage
 aim
 aip
-aipscanner
 aircall
 airtable
 aispeech
@@ -230,7 +229,6 @@ alerts
 alertsmanagement
 alfresco
 algorithm
-algorithms
 alias
 aliases
 aliens
@@ -261,7 +259,6 @@ anaconda
 analysis
 analysisservices
 analyst
-analyth
 analytics
 analyze
 analyzer
@@ -312,7 +309,6 @@ app.config
 appclusive
 appcmd
 appconfiguration
-appdynamics
 appearance
 appender
 appian
@@ -339,6 +335,7 @@ appsetting
 appv
 appveyor
 appx
+appxmanifest
 aprs
 apt-get
 apt-get-update
@@ -497,6 +494,7 @@ az
 az-cli
 az.automation
 az.stackhci
+aza
 azautomation
 azcli
 azcompute
@@ -511,6 +509,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azstate
@@ -519,10 +518,8 @@ azuead
 azure
 azure_ad
 azure_security
-azure-adx
 azure-backup
 azure-cli
-azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
@@ -563,6 +560,7 @@ azurepack
 azurepipelines
 azurepolicy
 azureresourcemanager
+azureresources
 azurerm
 azurerms
 azurerunasconnection
@@ -652,7 +650,6 @@ bigfix
 bigquery
 bikeshed
 billing
-bin
 bin-obj
 binary
 binaryip
@@ -725,7 +722,6 @@ box
 bpmn
 brainy
 branch
-brave
 bre
 breach
 break
@@ -808,7 +804,6 @@ carbon
 card
 cardwirth
 cargo
-carousel
 cartoon
 case
 cassandra
@@ -825,8 +820,7 @@ cavium
 cb
 cblueshell
 cbr
-cchoco
-cchocoex
+ccm
 cd
 cd_path
 cd-
@@ -954,7 +948,6 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
-cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1026,7 +1019,6 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1137,7 +1129,6 @@ conda
 condition
 conditionalaccess
 conduit
-confidentialclient
 confidentialledger
 config
 configapi
@@ -1225,7 +1216,6 @@ copilot
 copy
 copy-item
 core
-coreposh
 corona
 corporate
 cortex
@@ -1503,6 +1493,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1524,6 +1515,7 @@ deutsch
 deutschland
 dev
 dev-tools
+devart
 devdeer
 developer
 developer_command_prompt
@@ -1578,6 +1570,7 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -1619,6 +1612,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 dkim
 dl
 dll
@@ -1682,11 +1676,13 @@ donothing
 dos
 dot
 dotenv
+dotfile
 dotfiles
 dotnet
 dotnet-cli
 dotnettool
 dotps1
+dots
 dotteddecimalip
 doubleclick
 download
@@ -1748,7 +1744,6 @@ dts
 dtsx
 dtx
 duck
-dudckduckgo
 duf
 dummy
 dummyusers
@@ -1776,6 +1771,7 @@ dynamics365server
 dynamicsax
 dynamicsecuritygroups
 dynamicsnav
+dynamodb
 dynatrace
 dyndns
 dynmanageddns
@@ -1804,7 +1800,6 @@ educational
 effectiveroutes
 efi
 eigencontroles
-einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
@@ -1824,7 +1819,6 @@ emacs
 email
 email-address
 emailaddressupdate
-emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -1937,11 +1931,11 @@ eventhub
 eventing
 eventlist
 eventlog
+eventlogs
 eventmonitoring
 eventprocessor
 events
 eventsubscription
-eventviewer
 eventwatch
 evergreen
 evernote
@@ -1995,6 +1989,7 @@ expandframework
 experiments
 expired
 expiring
+expiry
 exploit
 exploration
 explorer
@@ -2037,6 +2032,7 @@ farm
 farmanager
 fast
 fast-dds
+fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2074,11 +2070,13 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
+file-share
 file-system
 file-transform
 file-type
 file-type-association
 fileencryption
+filelist
 filelog
 filelogger
 filemanagement
@@ -2115,6 +2113,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialforce
 find
 find-path
 findlocation
@@ -2147,9 +2146,11 @@ flex
 flex-query
 flexdesk
 flickr
+flowchart
 flowy
 flyway
 fmg
+focus
 fod
 fog
 fogapi
@@ -2174,7 +2175,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
-fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2351,6 +2351,7 @@ goldengate
 goldsource
 goldsource-dedicated-server
 google
+google-chrome
 google-histogram
 google-sankey
 google-table
@@ -2364,7 +2365,6 @@ gopher+
 gopherplus
 governance
 gp
-gpg
 gping
 gpio
 gplink
@@ -2464,6 +2464,7 @@ haste
 hastebin
 haveibeenpwned
 hba
+hbase
 hci
 hcl
 hcx
@@ -2522,7 +2523,6 @@ history
 hitrust
 hive
 hivehome
-hjson
 hl7
 hlds
 hls
@@ -2678,7 +2678,6 @@ imageprocess
 imageprocessing
 images
 imageservicing
-imageslide
 imagevalidate
 imagevalidation
 imagga
@@ -2734,6 +2733,7 @@ insight
 insightanalytics
 insights
 inspect
+inspur
 instagram
 install
 install-module
@@ -2747,6 +2747,7 @@ installwindows
 instance
 instant
 instapush
+instorage
 intacct
 integrated
 integratedscriptingeditor
@@ -2910,7 +2911,6 @@ justenoughadministration
 jwk
 jws
 jwt
-jwttoken
 k8s
 kafka
 kaminario
@@ -2948,7 +2948,6 @@ kindle
 kintone
 klantcontroles
 kms
-knapsack
 knob
 knowledge
 knowledgebase
@@ -3042,7 +3041,6 @@ licence
 license
 license-generator
 licenseautomation
-licensereport
 licenses
 licensing
 light
@@ -3067,8 +3065,11 @@ linux
 linux-command
 linuxssh
 liquid
+liquit
+liquit.com
 list
 list_files
+list-directory
 list-item
 listener
 litecoin
@@ -3187,7 +3188,6 @@ macos
 macosx
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -3227,6 +3227,7 @@ managementdashboard
 managementgroups
 managementpoint
 manager
+mangement
 manifest
 map
 mapapi
@@ -3259,7 +3260,6 @@ masterconfiguration
 matcharray
 matchhashtable
 materialdesign
-materialui
 math
 mathematics
 matplotlib
@@ -3351,8 +3351,6 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
-microsoft.logic
-microsoft.logic/workflows
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
@@ -3371,7 +3369,6 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
-microsoftstore
 microsoftteams
 microsoftword
 middleware
@@ -3385,7 +3382,7 @@ milestonepstools
 mim
 mimekit
 min
-mindmeister
+minifier
 minimal
 minimum
 mip
@@ -3461,7 +3458,6 @@ mschart
 msdeploy
 msdn
 msdtc
-msedge
 msexcel
 msexchange
 msftnet
@@ -3487,6 +3483,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -3522,7 +3519,6 @@ mvn
 mvp
 mx
 mxlookup
-mycloudrevolution
 myhub
 myitprocess
 myjson
@@ -3543,6 +3539,7 @@ names
 namespace
 nana
 nano
+nanoleaf
 nasdaq
 native
 natural-language-to-code
@@ -3615,6 +3612,8 @@ newpassword
 newrelic
 newspaper
 newtonsoft
+nexenta
+nexentastor
 nexthink
 nexus
 ngen
@@ -3680,7 +3679,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 null-coalescing
 number
 numlock
@@ -3911,7 +3909,6 @@ packaging psmodule
 packard
 packer
 packet
-packing
 pacli
 page
 pageant
@@ -3942,7 +3939,6 @@ parser
 parsing
 partition
 partitions
-partner
 partnercenter
 partnerportal
 pass
@@ -4015,7 +4011,6 @@ pf
 pfe
 pfsense
 pfx
-pgp
 phabricator
 philips
 philosophical
@@ -4049,6 +4044,7 @@ piraeus
 pivot
 pivotal
 pivottable
+pixoo
 pki
 pks
 place
@@ -4121,8 +4117,10 @@ posh-ssh
 poshbot
 poshcommence
 poshdyndnsapi
+poshevents
 poshgraph
 poshgraph-sdk
+poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
@@ -4195,7 +4193,6 @@ powershelltypeaccelerators
 powershellv5
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -4447,7 +4444,6 @@ public
 public-key
 public-transport
 publicapi
-publicclient
 publicfolder
 publicip
 publish
@@ -4463,6 +4459,7 @@ pullserver
 pulseway
 pulumi
 puppet
+puppetdb
 puppy
 pure
 pure1
@@ -4627,7 +4624,7 @@ regex
 region
 regions
 regiser-argumentcompleter
-register-argumentcompleter
+registration
 registry
 regression
 regularexpressions
@@ -4710,6 +4707,7 @@ resource_watcher
 resourceaccount
 resourcecontroller
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -4729,6 +4727,7 @@ reuse
 reverse-engineer
 reverse-string
 reversedsc
+revision
 reword
 rewrite
 rexec
@@ -4763,6 +4762,7 @@ robust
 roca
 rock
 rocket
+rocketcyber
 role
 roles
 rollingfile
@@ -4799,6 +4799,7 @@ rt
 rtu
 rubber
 rubrik
+ruby
 rule
 rulesengine
 run
@@ -4818,6 +4819,7 @@ runway
 russia
 rust
 rust-lang
+ryanairps
 ryver
 s.ds.p
 s3
@@ -4947,7 +4949,6 @@ search-adminauditlog
 searchengine
 searching
 searchplace
-searchquery
 searchstring
 secaas
 secedit
@@ -5023,7 +5024,6 @@ sentinelone
 sep
 seppmail
 seppmail.cloud
-seq
 sequence
 serialization
 serialize
@@ -5466,7 +5466,6 @@ subnetmask
 subnetmaths
 subnets
 subnetting
-subscribedskus
 subscription
 subscriptiondefinition
 subsystem
@@ -5483,6 +5482,7 @@ sumologic
 superheros
 supermarket
 support
+suppress
 supress-reboot
 surround
 survey
@@ -5505,11 +5505,9 @@ sybase
 sybaseiq
 symantec
 symbolic
-symbolic_link
 symboliclink
 symbols
 symbolservers
-symlink
 symmetric
 synapse
 sync
@@ -5547,7 +5545,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -5726,7 +5723,6 @@ toggl
 toggle
 token
 tokenlifetime
-tokens
 tookit
 tool
 toolbox
@@ -5815,6 +5811,7 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
@@ -5845,6 +5842,7 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
+ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -5979,6 +5977,7 @@ urlredirections
 urlrewrite
 urlscan
 urlupdate
+uru
 usage
 usageaggregates
 usageapi
@@ -6092,7 +6091,6 @@ virsh
 virtual
 virtualappliance
 virtualbox
-virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -6197,6 +6195,7 @@ vxrail
 w32time
 w3svc
 w3w
+waas
 wac
 waf
 waitforobject
@@ -6205,6 +6204,7 @@ wakeup
 walk
 wallet
 wallpaper
+wallpapers
 wannacry
 wansi
 wap
