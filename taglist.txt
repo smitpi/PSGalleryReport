@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 14 May 2022 02:39:49 UTC
+Updated: Saturday, 14 May 2022 09:52:44 UTC
 
 ?:
 ??
@@ -151,7 +151,6 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
-adgroupmemberobjects
 adgroups
 adif
 adm
@@ -340,7 +339,6 @@ appsetting
 appv
 appveyor
 appx
-appxmanifest
 aprs
 apt-get
 apt-get-update
@@ -419,6 +417,7 @@ atlassiancli
 atlassianps
 atmosphere
 atrium
+att&ck
 attestation
 attila
 attilakrick
@@ -433,7 +432,6 @@ auditpol
 auditpolicies
 auditpolicy
 audits
-aumid
 aut
 auth0
 authenticate
@@ -499,7 +497,6 @@ az
 az-cli
 az.automation
 az.stackhci
-aza
 azautomation
 azcli
 azcompute
@@ -514,7 +511,6 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
 azstate
@@ -535,6 +531,7 @@ azure-ssis
 azureactivedirectory
 azuread
 azureadconnect
+azureadgraph
 azureadtoolkit
 azureappconfiguration
 azurearc
@@ -566,7 +563,6 @@ azurepack
 azurepipelines
 azurepolicy
 azureresourcemanager
-azureresources
 azurerm
 azurerms
 azurerunasconnection
@@ -831,7 +827,6 @@ cblueshell
 cbr
 cchoco
 cchocoex
-ccm
 cd
 cd_path
 cd-
@@ -1221,10 +1216,6 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
-converttodocx
-converttohtml
-converttomarkdown
-converttomd
 cookie
 coolq
 cooltag1
@@ -1353,6 +1344,7 @@ customization
 customlocation
 customproviders
 cvad
+cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1511,7 +1503,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1533,7 +1524,6 @@ deutsch
 deutschland
 dev
 dev-tools
-devart
 devdeer
 developer
 developer_command_prompt
@@ -1588,7 +1578,6 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
-directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -1630,7 +1619,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 dkim
 dl
 dll
@@ -1661,6 +1649,7 @@ dnssuffix
 dnvm
 doc
 docfx
+dock
 docker
 docker-compose
 docker-image
@@ -1668,6 +1657,7 @@ docker-machine
 docker-volumes
 dockerfile
 dockerswarm
+docking
 docs
 document
 documentation
@@ -1692,7 +1682,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -1703,6 +1692,7 @@ doubleclick
 download
 downloading
 downloads
+dpa
 dpapi
 dps
 dq
@@ -1786,7 +1776,6 @@ dynamics365server
 dynamicsax
 dynamicsecuritygroups
 dynamicsnav
-dynamodb
 dynatrace
 dyndns
 dynmanageddns
@@ -1894,6 +1883,7 @@ eol
 eop
 eperl
 ephesoft
+epicorerp
 episode
 epplus
 eprosima
@@ -1947,7 +1937,6 @@ eventhub
 eventing
 eventlist
 eventlog
-eventlogs
 eventmonitoring
 eventprocessor
 events
@@ -2006,7 +1995,7 @@ expandframework
 experiments
 expired
 expiring
-expiry
+exploit
 exploration
 explorer
 exponentiation
@@ -2048,7 +2037,6 @@ farm
 farmanager
 fast
 fast-dds
-fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2086,13 +2074,11 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transform
 file-type
 file-type-association
 fileencryption
-filelist
 filelog
 filelogger
 filemanagement
@@ -2129,7 +2115,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialforce
 find
 find-path
 findlocation
@@ -2165,7 +2150,6 @@ flickr
 flowy
 flyway
 fmg
-focus
 fod
 fog
 fogapi
@@ -2367,7 +2351,6 @@ goldengate
 goldsource
 goldsource-dedicated-server
 google
-google-chrome
 google-histogram
 google-sankey
 google-table
@@ -2481,7 +2464,6 @@ haste
 hastebin
 haveibeenpwned
 hba
-hbase
 hci
 hcl
 hcx
@@ -2739,6 +2721,7 @@ inheritance
 ini
 inifile
 initialization
+initials-avatar
 initiator
 innerjoin
 innertext
@@ -2751,7 +2734,6 @@ insight
 insightanalytics
 insights
 inspect
-inspur
 instagram
 install
 install-module
@@ -2765,7 +2747,6 @@ installwindows
 instance
 instant
 instapush
-instorage
 intacct
 integrated
 integratedscriptingeditor
@@ -2949,7 +2930,6 @@ kelverion
 kentico
 kerberos
 kernel32
-kestrel
 key
 key-vault
 key2wocas
@@ -3087,11 +3067,8 @@ linux
 linux-command
 linuxssh
 liquid
-liquit
-liquit.com
 list
 list_files
-list-directory
 list-item
 listener
 litecoin
@@ -3250,7 +3227,6 @@ managementdashboard
 managementgroups
 managementpoint
 manager
-mangement
 manifest
 map
 mapapi
@@ -3410,7 +3386,6 @@ mim
 mimekit
 min
 mindmeister
-minifier
 minimal
 minimum
 mip
@@ -3418,6 +3393,7 @@ mipsdk
 miration-step
 mirror
 miscellaneous
+mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -3496,6 +3472,7 @@ msgbox
 msgraph
 msgraphapi
 msgraphreport
+msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
@@ -3510,7 +3487,6 @@ msonlineext
 msp
 msp360
 mspbackups
-msproject
 msrc
 msrdc
 mssql
@@ -3567,7 +3543,6 @@ names
 namespace
 nana
 nano
-nanoleaf
 nasdaq
 native
 natural-language-to-code
@@ -3640,14 +3615,13 @@ newpassword
 newrelic
 newspaper
 newtonsoft
-nexenta
-nexentastor
 nexthink
 nexus
 ngen
 ngfw
 nhl
 nic
+nightmare
 ninite
 ninja
 ninjaone
@@ -4075,7 +4049,6 @@ piraeus
 pivot
 pivotal
 pivottable
-pixoo
 pki
 pks
 place
@@ -4148,10 +4121,8 @@ posh-ssh
 poshbot
 poshcommence
 poshdyndnsapi
-poshevents
 poshgraph
 poshgraph-sdk
-poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
@@ -4263,6 +4234,7 @@ print
 printer
 printershare
 printing
+printnightmare
 printserver
 prism
 prism_element
@@ -4491,7 +4463,6 @@ pullserver
 pulseway
 pulumi
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -4657,7 +4628,6 @@ region
 regions
 regiser-argumentcompleter
 register-argumentcompleter
-registration
 registry
 regression
 regularexpressions
@@ -4693,6 +4663,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-pass
 remove-path
 remove-pinneditem
@@ -4739,7 +4710,6 @@ resource_watcher
 resourceaccount
 resourcecontroller
 resourcegroup
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -4755,10 +4725,10 @@ restore
 resume
 retention
 retry
+reuse
 reverse-engineer
 reverse-string
 reversedsc
-revision
 reword
 rewrite
 rexec
@@ -4793,7 +4763,6 @@ robust
 roca
 rock
 rocket
-rocketcyber
 role
 roles
 rollingfile
@@ -4830,7 +4799,6 @@ rt
 rtu
 rubber
 rubrik
-ruby
 rule
 rulesengine
 run
@@ -4850,7 +4818,6 @@ runway
 russia
 rust
 rust-lang
-ryanairps
 ryver
 s.ds.p
 s3
@@ -4869,6 +4836,7 @@ sales
 salesforce
 sam
 saml
+saml psmodule
 saml2
 sample
 sampler
@@ -5098,6 +5066,7 @@ sessions
 set
 set_bios
 set-alias
+set-githubsecrets
 set-location
 set-openfiles
 set-pass
@@ -5237,7 +5206,9 @@ sms
 smtp
 smtpaddressupdate psmodule
 smtpsecure
+snap
 snapchat
+snapping
 snapshot
 snapshots
 snippet
@@ -5331,6 +5302,7 @@ splatting
 split
 splunk
 spo
+spooler
 sport
 sports
 sports-tracker
@@ -5511,7 +5483,6 @@ sumologic
 superheros
 supermarket
 support
-suppress
 supress-reboot
 surround
 survey
@@ -5526,6 +5497,7 @@ svt
 swagger
 swamid
 swarm
+swimlane
 swis
 switch
 sxs
@@ -5746,7 +5718,6 @@ tls11
 tls12
 tlsprotocol
 toast
-toasts
 tobias
 toc
 todo
@@ -5754,6 +5725,7 @@ todo.txt
 toggl
 toggle
 token
+tokenlifetime
 tokens
 tookit
 tool
@@ -5843,7 +5815,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -5874,7 +5845,6 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
-ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -5941,7 +5911,6 @@ ulid
 ulm
 um
 uml
-umn
 ums
 unattend
 unattendedfile
@@ -6010,7 +5979,6 @@ urlredirections
 urlrewrite
 urlscan
 urlupdate
-uru
 usage
 usageaggregates
 usageapi
@@ -6229,7 +6197,6 @@ vxrail
 w32time
 w3svc
 w3w
-waas
 wac
 waf
 waitforobject
@@ -6238,7 +6205,6 @@ wakeup
 walk
 wallet
 wallpaper
-wallpapers
 wannacry
 wansi
 wap
