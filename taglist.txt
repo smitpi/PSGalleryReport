@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 13 May 2022 17:54:38 UTC
+Updated: Saturday, 14 May 2022 02:39:49 UTC
 
 ?:
 ??
@@ -19,6 +19,7 @@ Updated: Friday, 13 May 2022 17:54:38 UTC
 💩
 1.1.1.1
 10
+11
 1607
 1703
 1709
@@ -269,6 +270,7 @@ analyzerrules
 anchor
 and
 android
+anet
 anf
 anglesharp
 angular
@@ -292,6 +294,7 @@ api
 api-client
 api-gateway
 apichecks
+apiclient
 apigateway
 apigee
 apigeeedge
@@ -326,6 +329,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+appmgmtcontrol
 apppool
 appraiser
 approve
@@ -415,7 +419,6 @@ atlassiancli
 atlassianps
 atmosphere
 atrium
-att&ck
 attestation
 attila
 attilakrick
@@ -443,6 +446,7 @@ authoringtools
 authority
 authorization
 authorizationheaders
+authorize.net
 authz
 autify
 auto_cd
@@ -510,6 +514,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azstate
@@ -518,8 +523,10 @@ azuead
 azure
 azure_ad
 azure_security
+azure-adx
 azure-backup
 azure-cli
+azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
@@ -559,6 +566,7 @@ azurepack
 azurepipelines
 azurepolicy
 azureresourcemanager
+azureresources
 azurerm
 azurerms
 azurerunasconnection
@@ -642,6 +650,7 @@ bicep
 bicepnet
 big-ip
 big-iq
+bigcommerce
 bigeval
 bigfix
 bigquery
@@ -702,6 +711,7 @@ bofh
 boilerplate
 boinc
 bolt
+bom
 book
 bookmark
 bookmarks
@@ -722,6 +732,7 @@ branch
 brave
 bre
 breach
+break
 breakpoint
 brickset
 bridge
@@ -749,9 +760,11 @@ building
 buildingfile
 buildingmapping
 buildkite
+buildmaster
 builds
 buildtool
 bulk
+bullhorn
 bundle
 bup
 burpsuite
@@ -785,6 +798,7 @@ callqueue
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 canonical
@@ -799,6 +813,7 @@ card
 cardwirth
 cargo
 carousel
+cartoon
 case
 cassandra
 cat
@@ -1338,7 +1353,6 @@ customization
 customlocation
 customproviders
 cvad
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1512,6 +1526,7 @@ desktop
 desktopcentral
 desktopvirtualization
 details
+detect
 detection
 detectionrule
 deutsch
@@ -1552,6 +1567,7 @@ diagram
 diagrams
 dialog
 dice
+diceware
 dicom
 dictionary
 diff
@@ -1578,6 +1594,7 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
+dirkjan
 dirsync
 disa
 disable-psremoting
@@ -1611,6 +1628,7 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
+diving
 division
 divoom
 dkim
@@ -1643,7 +1661,6 @@ dnssuffix
 dnvm
 doc
 docfx
-dock
 docker
 docker-compose
 docker-image
@@ -1651,7 +1668,6 @@ docker-machine
 docker-volumes
 dockerfile
 dockerswarm
-docking
 docs
 document
 documentation
@@ -1672,6 +1688,7 @@ dok
 dokuwiki
 domain
 domains
+donothing
 dos
 dot
 dotenv
@@ -1681,13 +1698,11 @@ dotnet
 dotnet-cli
 dotnettool
 dotps1
-dots
 dotteddecimalip
 doubleclick
 download
 downloading
 downloads
-dpa
 dpapi
 dps
 dq
@@ -1879,7 +1894,6 @@ eol
 eop
 eperl
 ephesoft
-epicorerp
 episode
 epplus
 eprosima
@@ -1920,6 +1934,7 @@ etl2pcapng
 etrade
 ets
 etw
+evaluator
 evc
 event
 event_id
@@ -1992,7 +2007,6 @@ experiments
 expired
 expiring
 expiry
-exploit
 exploration
 explorer
 exponentiation
@@ -2034,6 +2048,7 @@ farm
 farmanager
 fast
 fast-dds
+fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2055,6 +2070,7 @@ fhirservice
 fiche
 fiddler
 fido
+fieldglass
 fifa
 figlet
 file
@@ -2070,6 +2086,7 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
+file-share
 file-system
 file-transform
 file-type
@@ -2112,6 +2129,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialforce
 find
 find-path
 findlocation
@@ -2144,7 +2162,6 @@ flex
 flex-query
 flexdesk
 flickr
-flowchart
 flowy
 flyway
 fmg
@@ -2173,6 +2190,7 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2237,6 +2255,7 @@ gamecategory:cards
 games
 gameserver
 garage
+gas
 gat
 gateway
 gauge
@@ -2307,6 +2326,8 @@ getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
 ggplot
+gh-actions
+ghactions
 ghc
 ghibli
 ghost
@@ -2346,6 +2367,7 @@ goldengate
 goldsource
 goldsource-dedicated-server
 google
+google-chrome
 google-histogram
 google-sankey
 google-table
@@ -2359,6 +2381,7 @@ gopher+
 gopherplus
 governance
 gp
+gpg
 gping
 gpio
 gplink
@@ -2696,6 +2719,7 @@ inboxrule
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 inedo
@@ -2715,7 +2739,6 @@ inheritance
 ini
 inifile
 initialization
-initials-avatar
 initiator
 innerjoin
 innertext
@@ -2831,6 +2854,7 @@ ishexstring
 ism
 isnumeric
 iso
+iso-3166-1
 iso-8601
 ispac
 isprime
@@ -2869,6 +2893,7 @@ jetbrains
 jira
 jiraservicemanagement
 jms
+joat
 job
 jobs
 jobscheduler
@@ -2974,6 +2999,7 @@ lability
 labnotifications
 labservices
 labtech
+labtest
 labworker
 lake
 lambda
@@ -3047,6 +3073,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 link
@@ -3280,6 +3307,7 @@ mdatp
 mdb
 mdbc
 mde
+mdop
 mdt
 mdx
 me4024
@@ -3390,7 +3418,6 @@ mipsdk
 miration-step
 mirror
 miscellaneous
-mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -3621,12 +3648,12 @@ ngen
 ngfw
 nhl
 nic
-nightmare
 ninite
 ninja
 ninjaone
 ninjarmm
 nios
+nitrox
 nl
 nla
 nlm
@@ -3663,6 +3690,7 @@ nprintingapi
 nps
 npslog
 npslogfile
+nrc
 nrql
 ns
 ns.nl
@@ -3889,6 +3917,7 @@ ovgd
 owasp
 owls
 owner
+oxygen
 oxyplot
 p2000
 p2s
@@ -3945,6 +3974,7 @@ partnerportal
 pass
 passcode
 passivetotal
+passphrase
 passphraser passphrase password generator entropy
 password
 password_generation
@@ -4011,6 +4041,7 @@ pf
 pfe
 pfsense
 pfx
+pgp
 phabricator
 philips
 philosophical
@@ -4232,7 +4263,6 @@ print
 printer
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -4488,6 +4518,7 @@ pxedistributionpoint
 pyranja
 python
 python-for-dotnet
+qcloud
 qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
@@ -4572,6 +4603,7 @@ rdsgw
 react-stockcharts
 read-slog
 readable
+readiness
 readme
 readthedocs
 realschule
@@ -4661,7 +4693,6 @@ remotemanagement
 remotesession
 remoting
 remove
-remove-githubsecrets
 remove-pass
 remove-path
 remove-pinneditem
@@ -4681,6 +4712,7 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
+reportrunner
 reports
 repos
 repositories
@@ -4707,6 +4739,7 @@ resource_watcher
 resourceaccount
 resourcecontroller
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -4722,7 +4755,6 @@ restore
 resume
 retention
 retry
-reuse
 reverse-engineer
 reverse-string
 reversedsc
@@ -4798,6 +4830,7 @@ rt
 rtu
 rubber
 rubrik
+ruby
 rule
 rulesengine
 run
@@ -4817,6 +4850,7 @@ runway
 russia
 rust
 rust-lang
+ryanairps
 ryver
 s.ds.p
 s3
@@ -4935,6 +4969,7 @@ scrolllock
 scrub
 scrubber
 scsm
+scuba
 sd
 sddl
 sdk
@@ -4982,6 +5017,7 @@ securityroles
 securityscopes
 securitytxt
 seek
+seekatar
 seeshell
 select
 select-item
@@ -5062,7 +5098,6 @@ sessions
 set
 set_bios
 set-alias
-set-githubsecrets
 set-location
 set-openfiles
 set-pass
@@ -5078,6 +5113,7 @@ sevenzip
 sf
 sfb
 sftp
+sfx
 sgw
 sha256
 shadow
@@ -5148,6 +5184,7 @@ sintez
 sintez.module.rds
 site
 site_navigation
+sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
@@ -5200,9 +5237,7 @@ sms
 smtp
 smtpaddressupdate psmodule
 smtpsecure
-snap
 snapchat
-snapping
 snapshot
 snapshots
 snippet
@@ -5296,7 +5331,6 @@ splatting
 split
 splunk
 spo
-spooler
 sport
 sports
 sports-tracker
@@ -5428,6 +5462,7 @@ streak
 stream
 streamanalytics
 streaming
+stretch
 strictmode
 string
 string-template
@@ -5491,11 +5526,11 @@ svt
 swagger
 swamid
 swarm
-swimlane
 swis
 switch
 sxs
 sybase
+sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5527,6 +5562,7 @@ sysop
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
+system-group
 system-service
 system-services
 system.directoryservices.protocols
@@ -5600,6 +5636,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+techsmith
 tel
 telegram
 telegram-bot
@@ -5711,11 +5748,13 @@ tlsprotocol
 toast
 toasts
 tobias
+toc
 todo
 todo.txt
 toggl
 toggle
 token
+tokens
 tookit
 tool
 toolbox
@@ -5763,6 +5802,7 @@ transliteration
 transmission
 transparency
 trap
+trec
 tree
 treesize
 treffynnon
@@ -5776,6 +5816,7 @@ triangle
 trigger
 triodos
 tripunkt
+troubleshoot
 troubleshooting
 trouw
 truecrypt
@@ -5951,6 +5992,7 @@ updmgmt
 upgrade
 uplift
 uplink
+upn
 ups
 upsource
 upstream
@@ -5968,6 +6010,7 @@ urlredirections
 urlrewrite
 urlscan
 urlupdate
+uru
 usage
 usageaggregates
 usageapi
@@ -5991,8 +6034,10 @@ usg
 usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
@@ -6137,6 +6182,7 @@ vocabularies
 voice
 voiceconfig
 voidtools
+volkskrant
 volume
 volumeshadowcopy
 volumio
@@ -6256,6 +6302,7 @@ websphereappserver
 websphereportal
 webtest
 webtesting
+webtime
 wec
 wecutil
 weekday
@@ -6396,6 +6443,7 @@ workingdays
 workinghours
 workingtime
 workload-automation
+workpoint
 workrequests
 worksheet
 workshop
