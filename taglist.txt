@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 15 May 2022 09:52:43 UTC
+Updated: Sunday, 15 May 2022 17:52:58 UTC
 
 ?:
 ??
@@ -231,6 +231,7 @@ alerts
 alertsmanagement
 alfresco
 algorithm
+algorithms
 alias
 aliases
 aliens
@@ -429,6 +430,7 @@ audio
 audiocodes
 audit
 auditing
+auditpol
 auditpolicies
 auditpolicy
 audits
@@ -473,6 +475,7 @@ autotaskpsa
 autoyast
 availability
 availabilityset
+avalara
 avalonia
 ave
 avepoint
@@ -490,6 +493,7 @@ aws-lambda
 aws-vault
 awscli
 awspricelist
+axapta
 axinom
 axium
 az
@@ -654,10 +658,10 @@ bigfix
 bigquery
 bikeshed
 billing
+bin
 bin-obj
 binary
 binaryip
-bind
 binding
 bing
 bingmap
@@ -682,7 +686,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackbox
 blacklist
 blade
 bladeserver
@@ -910,7 +913,7 @@ choco
 choco-bear
 chocobear
 chocolatey
-chooser
+choice
 christaylorcodes
 christmas
 chrome
@@ -926,7 +929,9 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimi
+ciminstance
 cims
 cimsession
 cinegy
@@ -1005,6 +1010,7 @@ cloudberry
 cloudblue
 cloudbolt
 cloudendure
+cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1024,6 +1030,7 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1228,6 +1235,7 @@ core
 coreposh
 corona
 corporate
+cortex
 cos
 cosmos
 cosmosdb
@@ -1245,6 +1253,7 @@ cover
 coverage
 coveralls
 coveralls.io
+covid
 covid-19
 cppm
 cpu
@@ -1339,6 +1348,7 @@ custominformationservices
 customis
 customisation
 customization
+customlocation
 customproviders
 cvad
 cve-2021-34527
@@ -1356,7 +1366,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365f&o
@@ -1467,6 +1476,8 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
+deep
+deepvisibility
 def
 default
 defaultparameter
@@ -1515,6 +1526,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutsch
 deutschland
 dev
@@ -1614,6 +1626,7 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
+diving
 division
 divoom
 dkim
@@ -1772,6 +1785,7 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
+dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -1803,6 +1817,7 @@ educational
 effectiveroutes
 efi
 eigencontroles
+einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
@@ -1944,6 +1959,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2092,7 +2108,6 @@ filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
-filesharing
 filestorage
 filestream
 filesystem
@@ -2117,7 +2132,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialforce
 find
 find-path
 findlocation
@@ -2244,12 +2258,12 @@ gamecategory:cards
 games
 gameserver
 garage
+gas
 gat
 gateway
 gauge
 gavin
 gavineke
-gc
 gce
 gci
 gcloud
@@ -2374,8 +2388,6 @@ gping
 gpio
 gplink
 gpo
-gpo-maintenance
-gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2443,6 +2455,7 @@ haloservicedesk
 haloservicesolutions
 hamradiodeluxe
 hana
+hanaon
 handle
 handler
 hangouts
@@ -2464,8 +2477,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -2636,7 +2647,6 @@ icingawindows
 icloud
 icmp
 icon
-icons
 icraftsoftware
 icws
 id
@@ -2662,6 +2672,7 @@ iis
 iis10
 iis8
 iisadministration
+ikev2
 il
 illinois
 ilo
@@ -2721,9 +2732,7 @@ infosec
 infrastructure
 infrastructureascode
 ingestion
-inheritance
 ini
-inifile
 initialization
 initials-avatar
 initiator
@@ -2738,6 +2747,7 @@ insight
 insightanalytics
 insights
 inspect
+inspur
 instagram
 install
 install-module
@@ -2751,6 +2761,7 @@ installwindows
 instance
 instant
 instapush
+instorage
 intacct
 integrated
 integratedscriptingeditor
@@ -2878,10 +2889,10 @@ jetbrains
 jira
 jiraservicemanagement
 jms
-joat
 job
 jobs
 jobscheduler
+johnshopkins
 join
 join-object
 jojoba
@@ -2915,6 +2926,7 @@ jws
 jwt
 jwttoken
 k8s
+kafka
 kaminario
 karma
 kaseya
@@ -2936,7 +2948,6 @@ kestrel
 key
 key-vault
 key2wocas
-keybase
 keyboard
 keycipher
 keylight
@@ -2951,11 +2962,13 @@ kindle
 kintone
 klantcontroles
 kms
+knapsack
 knob
 knowledge
 knowledgebase
 koans
 korn
+kql
 krbtgt
 krick
 kubclt
@@ -2970,6 +2983,7 @@ kurukuru
 kusto
 kvm
 l1tf
+l2tp
 lab
 labautomation
 labdefinition
@@ -2977,6 +2991,7 @@ label
 labels
 lability
 labnotifications
+labservices
 labtech
 labtest
 labworker
@@ -2999,7 +3014,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3278,6 +3292,7 @@ mbs
 mc
 mcafee
 mcas
+mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
 md5sum
@@ -3634,6 +3649,7 @@ ninja
 ninjaone
 ninjarmm
 nios
+nitrox
 nl
 nla
 nlm
@@ -3790,6 +3806,7 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
+onq
 ons
 ontap
 ontap_9.10.1
@@ -3896,6 +3913,7 @@ ovgd
 owasp
 owls
 owner
+oxygen
 oxyplot
 p2000
 p2s
@@ -3915,6 +3933,7 @@ packaging psmodule
 packard
 packer
 packet
+packing
 pacli
 page
 pageant
@@ -3927,6 +3946,7 @@ panels
 pansies
 panther
 panzerbjrn
+pap
 paper
 papis
 paradox
@@ -3972,7 +3992,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -3997,7 +4016,6 @@ peheader
 pem
 pemfile
 pendingreboot
-penetrationtesting
 pentesting
 pentia
 perforce
@@ -4029,6 +4047,7 @@ photos
 php
 phpapam
 pi
+picker
 picture
 pictures
 pid
@@ -4197,7 +4216,6 @@ powershelltypeaccelerators
 powershellv5
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -4205,6 +4223,7 @@ ppk
 pposh
 pps
 ppt
+pptp
 pptx
 pranks
 predicate
@@ -4430,6 +4449,7 @@ pssqlitebynarymodule
 pssqlitemodule
 psst
 psstgenerator
+pstablacus
 psthread
 pstk
 pstwitter
@@ -4450,6 +4470,7 @@ publicclient
 publicfolder
 publicip
 publish
+publishedmodules
 publisher
 publishers
 publishing
@@ -4563,6 +4584,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -4625,7 +4647,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register-argumentcompleter
 registration
 registry
 regression
@@ -4669,7 +4690,6 @@ remove-pinneditem
 removetypeaccelerators
 remux
 ren-isac
-reparsepoint
 repeat
 repl
 replace
@@ -4778,6 +4798,7 @@ route
 route53
 routeconfig
 router
+routes
 routetable
 routine
 rover
@@ -4820,6 +4841,7 @@ runway
 russia
 rust
 rust-lang
+ryanairps
 ryver
 s.ds.p
 s3
@@ -4831,7 +4853,6 @@ sacl
 safari
 safeguard
 sage
-saggiehaim
 sailpoint
 sale
 sales
@@ -4914,7 +4935,6 @@ scrape
 scraper
 screen
 screencap
-screencapture
 screenconnect
 screenfetch
 screenresolution
@@ -4939,6 +4959,7 @@ scrolllock
 scrub
 scrubber
 scsm
+scuba
 sd
 sddl
 sdk
@@ -4986,7 +5007,6 @@ securityroles
 securityscopes
 securitytxt
 seek
-seekatar
 seeshell
 select
 select-item
@@ -5020,6 +5040,7 @@ sensor
 sensors
 sensu
 sentinel
+sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5107,7 +5128,6 @@ shares
 sheets
 shell
 shell-art
-shells
 shieldedvm
 ships
 shipstation
@@ -5128,8 +5148,8 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
-signalfx
 signalr
 signature
 signed
@@ -5252,6 +5272,7 @@ sonarqube
 sonarr
 sonatype
 songs
+sonicwall
 sonicwallvpn
 sonus
 soon
@@ -5295,7 +5316,6 @@ speedtester
 spf
 spi
 spinnaker
-splat
 splatting
 split
 splunk
@@ -5363,6 +5383,7 @@ sso
 sspr
 ssrs
 ssst
+sstp
 stache
 stackedge
 stackexchange
@@ -5554,6 +5575,7 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
+tablacus
 table
 tableau
 tables
@@ -5767,8 +5789,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 trap
@@ -5805,12 +5825,12 @@ tsheets
 tsqlbestpractice
 tts
 tui
-tulpep
 tuner
 tutorial
 tv
 tweet
 twig
+twilio
 twincat
 twinkly
 twitch
@@ -5819,6 +5839,7 @@ twitter-api
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -5882,11 +5903,13 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
+ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
+ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -5903,7 +5926,6 @@ ui/ux
 ui7
 uk
 ul
-ulid
 ulm
 um
 uml
@@ -6012,7 +6034,6 @@ utils
 utm
 uudecode
 uuencode
-uuid
 uw
 uwp
 ux
@@ -6020,6 +6041,7 @@ vaas
 vagrant
 validate
 validate-dcb
+validatemapsconnectivity
 validation
 validator
 value
@@ -6191,6 +6213,7 @@ vulnerabilty
 vum
 vvx
 vxrail
+w32time
 w3svc
 w3w
 waas
@@ -6252,6 +6275,7 @@ webpage
 webpi
 webreport
 webrequest
+webresponse
 webroot
 webserver
 webservice
@@ -6474,6 +6498,7 @@ xaf
 xbase
 xbox
 xclarity
+xdr
 xdschelper
 xdscresources
 xdt
@@ -6501,6 +6526,7 @@ xor
 xpath
 xpendingreboot
 xpertdoc
+xpo
 xprotect
 xrm
 xsa
@@ -6519,7 +6545,6 @@ yetanotherhelloworld
 ynab
 youtube
 youtube-dl
-youtubeextractor
 yq
 yubaba
 z
