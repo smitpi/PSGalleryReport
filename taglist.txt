@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 14 May 2022 17:52:30 UTC
+Updated: Sunday, 15 May 2022 02:32:23 UTC
 
 ?:
 ??
@@ -98,6 +98,7 @@ acmesharp_ext
 act-on
 act!
 actifio
+actifiogo
 action
 actionplan
 actions
@@ -210,6 +211,7 @@ aianomalydetection
 ailanguage
 aim
 aip
+aipscanner
 aircall
 airtable
 aispeech
@@ -229,6 +231,7 @@ alerts
 alertsmanagement
 alfresco
 algorithm
+algorithms
 alias
 aliases
 aliens
@@ -259,6 +262,7 @@ anaconda
 analysis
 analysisservices
 analyst
+analyth
 analytics
 analyze
 analyzer
@@ -309,6 +313,7 @@ app.config
 appclusive
 appcmd
 appconfiguration
+appdynamics
 appearance
 appender
 appian
@@ -360,7 +365,6 @@ arm-json
 arm-templates
 armor
 armtemplate
-armtemplates
 arp
 array
 arrays
@@ -429,6 +433,7 @@ auditpol
 auditpolicies
 auditpolicy
 audits
+aumid
 aut
 auth0
 authenticate
@@ -518,8 +523,10 @@ azuead
 azure
 azure_ad
 azure_security
+azure-adx
 azure-backup
 azure-cli
+azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
@@ -607,7 +614,6 @@ base64url
 base85
 basecamp
 based
-baseline
 bash
 bastion
 bat
@@ -630,7 +636,6 @@ bearer
 beautifier
 beautify
 beckhoff
-beep
 benchmark
 benchmarking
 benchmarks
@@ -650,9 +655,9 @@ bigfix
 bigquery
 bikeshed
 billing
+bin
 bin-obj
 binary
-binaryip
 bind
 binding
 bing
@@ -704,7 +709,6 @@ bofh
 boilerplate
 boinc
 bolt
-bom
 book
 bookmark
 bookmarks
@@ -722,6 +726,7 @@ box
 bpmn
 brainy
 branch
+brave
 bre
 breach
 break
@@ -798,12 +803,12 @@ cantara
 capability
 capacity
 capgemini
-capslock
 capture
 carbon
 card
 cardwirth
 cargo
+carousel
 cartoon
 case
 cassandra
@@ -820,6 +825,8 @@ cavium
 cb
 cblueshell
 cbr
+cchoco
+cchocoex
 ccm
 cd
 cd_path
@@ -919,9 +926,7 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimi
-ciminstance
 cims
 cimsession
 cinegy
@@ -948,6 +953,7 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
+cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1019,6 +1025,7 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1065,9 +1072,6 @@ collectionmembershipevaluationcomponent
 collections
 collector
 color
-color-hex
-color-rgb
-color-show
 colored
 colorful
 colorized
@@ -1119,16 +1123,15 @@ compression
 compute
 computeinstanceagent
 computer
-computer-site
 computername
 computers
-computersite
 concur
 concurrent
 conda
 condition
 conditionalaccess
 conduit
+confidentialclient
 confidentialledger
 config
 configapi
@@ -1207,6 +1210,10 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
+converttodocx
+converttohtml
+converttomarkdown
+converttomd
 cookie
 coolq
 cooltag1
@@ -1216,6 +1223,7 @@ copilot
 copy
 copy-item
 core
+coreposh
 corona
 corporate
 cortex
@@ -1331,7 +1339,6 @@ custominformationservices
 customis
 customisation
 customization
-customlocation
 customproviders
 cvad
 cve-2021-34527
@@ -1415,8 +1422,6 @@ datastore
 datatable
 dataverse
 date
-date-random
-date-truncate
 dates
 datetaken
 datetime
@@ -1427,7 +1432,6 @@ dave
 davinci
 dax
 dayinweek
-days-week
 db
 db2
 dba
@@ -1449,7 +1453,6 @@ debug-files
 debugger
 debugging
 decimal
-decimalip
 declarative
 decline
 decode
@@ -1508,7 +1511,6 @@ desktop
 desktopcentral
 desktopvirtualization
 details
-detect
 detection
 detectionrule
 deutsch
@@ -1612,7 +1614,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 dkim
 dl
 dll
@@ -1627,7 +1628,6 @@ dnd
 dns
 dns-01
 dns-administration
-dns-async
 dns-client
 dns-over-https
 dns-resolver
@@ -1683,7 +1683,6 @@ dotnet-cli
 dotnettool
 dotps1
 dots
-dotteddecimalip
 doubleclick
 download
 downloading
@@ -1744,6 +1743,7 @@ dts
 dtsx
 dtx
 duck
+dudckduckgo
 duf
 dummy
 dummyusers
@@ -1800,6 +1800,7 @@ educational
 effectiveroutes
 efi
 eigencontroles
+einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
@@ -1817,7 +1818,6 @@ elvui
 em
 emacs
 email
-email-address
 emailaddressupdate
 emailmanagment
 emailnotification
@@ -1936,10 +1936,10 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
+eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -1983,8 +1983,6 @@ exo
 exov2
 exp
 expand
-expand-string
-expand-tab
 expandframework
 experiments
 expired
@@ -1993,7 +1991,6 @@ expiry
 exploit
 exploration
 explorer
-exponentiation
 export
 export-cmhealthreport
 export-data
@@ -2059,10 +2056,8 @@ fifa
 figlet
 file
 file-association
-file-encoding
 file-extension
 file-extension-association
-file-invalidchar
 file-matcher
 file-matching
 file-monitoring
@@ -2175,6 +2170,7 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2264,7 +2260,6 @@ generatewif
 generation
 generator
 generic
-genericartifactscontent
 genetic-algorithm
 genxdev
 geo
@@ -2523,6 +2518,7 @@ history
 hitrust
 hive
 hivehome
+hjson
 hl7
 hlds
 hls
@@ -2678,6 +2674,7 @@ imageprocess
 imageprocessing
 images
 imageservicing
+imageslide
 imagevalidate
 imagevalidation
 imagga
@@ -2700,7 +2697,6 @@ inboxrule
 incident-response
 incidentresponse
 incontact
-indents
 index
 indexdb
 inedo
@@ -2725,7 +2721,6 @@ initiator
 innerjoin
 innertext
 input
-inputbox
 inputobject
 insert
 insiderthreat
@@ -2817,7 +2812,6 @@ ipilot
 iplookup
 ipmaths
 ipp
-iprange
 ipv4
 ipv6
 ipynb
@@ -2825,14 +2819,11 @@ ir
 irc
 irkit
 irregular
-isadmin
 iscsi
-isdate
 ise
 iselevated
 isesteroids
 ish
-ishexstring
 ism
 isnumeric
 iso
@@ -2841,8 +2832,6 @@ iso-8601
 ispac
 isprime
 issues
-isvalidemail
-isvalidip
 item
 iterate
 iteration
@@ -2911,6 +2900,7 @@ justenoughadministration
 jwk
 jws
 jwt
+jwttoken
 k8s
 kafka
 kaminario
@@ -2930,6 +2920,7 @@ kelverion
 kentico
 kerberos
 kernel32
+kestrel
 key
 key-vault
 key2wocas
@@ -2948,6 +2939,7 @@ kindle
 kintone
 klantcontroles
 kms
+knapsack
 knob
 knowledge
 knowledgebase
@@ -2976,7 +2968,6 @@ label
 labels
 lability
 labnotifications
-labservices
 labtech
 labtest
 labworker
@@ -3041,6 +3032,7 @@ licence
 license
 license-generator
 licenseautomation
+licensereport
 licenses
 licensing
 light
@@ -3051,7 +3043,6 @@ limit-job
 limits
 lina
 line
-line-endings
 linear
 linearalgebra
 link
@@ -3065,8 +3056,6 @@ linux
 linux-command
 linuxssh
 liquid
-liquit
-liquit.com
 list
 list_files
 list-directory
@@ -3188,8 +3177,8 @@ macos
 macosx
 macros
 madlib
+magazine
 magento
-magic8ball
 magicpacket
 magnet
 mail
@@ -3260,6 +3249,7 @@ masterconfiguration
 matcharray
 matchhashtable
 materialdesign
+materialui
 math
 mathematics
 matplotlib
@@ -3278,7 +3268,6 @@ mcas
 mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
-md5sum
 mdatp
 mdb
 mdbc
@@ -3351,6 +3340,8 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
+microsoft.logic
+microsoft.logic/workflows
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
@@ -3369,6 +3360,7 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
+microsoftstore
 microsoftteams
 microsoftword
 middleware
@@ -3382,6 +3374,7 @@ milestonepstools
 mim
 mimekit
 min
+mindmeister
 minifier
 minimal
 minimum
@@ -3458,13 +3451,13 @@ mschart
 msdeploy
 msdn
 msdtc
+msedge
 msexcel
 msexchange
 msftnet
 msftnetworking
 msg
 msg.exe
-msgbox
 msgraph
 msgraphapi
 msgraphreport
@@ -3519,6 +3512,7 @@ mvn
 mvp
 mx
 mxlookup
+mycloudrevolution
 myhub
 myitprocess
 myjson
@@ -3539,7 +3533,6 @@ names
 namespace
 nana
 nano
-nanoleaf
 nasdaq
 native
 natural-language-to-code
@@ -3551,7 +3544,6 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
-nederland
 nedyalkov
 neo4j
 neptune
@@ -3666,7 +3658,6 @@ npslogfile
 nrc
 nrql
 ns
-ns.nl
 nsg
 nslookup
 nsx
@@ -3679,9 +3670,9 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 null-coalescing
 number
-numlock
 nunit
 nupkg
 nuspec
@@ -3909,6 +3900,7 @@ packaging psmodule
 packard
 packer
 packet
+packing
 pacli
 page
 pageant
@@ -3939,6 +3931,7 @@ parser
 parsing
 partition
 partitions
+partner
 partnercenter
 partnerportal
 pass
@@ -4031,7 +4024,6 @@ pid
 pie
 pim
 ping
-ping-async
 pingsweep
 pinneditem
 pinterest
@@ -4044,7 +4036,6 @@ piraeus
 pivot
 pivotal
 pivottable
-pixoo
 pki
 pks
 place
@@ -4193,6 +4184,7 @@ powershelltypeaccelerators
 powershellv5
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -4215,7 +4207,6 @@ prepend
 preprocessing
 preprocessor
 presenter
-presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4444,6 +4435,7 @@ public
 public-key
 public-transport
 publicapi
+publicclient
 publicfolder
 publicip
 publish
@@ -4534,7 +4526,6 @@ raj
 ram
 ram-it
 random
-random-date
 randompassword
 randomuser
 ras
@@ -4624,6 +4615,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register-argumentcompleter
 registration
 registry
 regression
@@ -4725,7 +4717,6 @@ retention
 retry
 reuse
 reverse-engineer
-reverse-string
 reversedsc
 revision
 reword
@@ -4767,10 +4758,8 @@ role
 roles
 rollingfile
 romaji
-rot13
 rotate
 rotation
-round
 roundrobindatabase
 route
 route53
@@ -4819,7 +4808,6 @@ runway
 russia
 rust
 rust-lang
-ryanairps
 ryver
 s.ds.p
 s3
@@ -4857,7 +4845,6 @@ sasxpt
 satirical
 save
 savedcreds
-savefile
 savings
 savov
 sbc
@@ -4905,9 +4892,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -4935,7 +4919,6 @@ scriptlogging
 scriptrunner
 scripts
 scriptsmonitoring
-scrolllock
 scrub
 scrubber
 scsm
@@ -4949,6 +4932,7 @@ search-adminauditlog
 searchengine
 searching
 searchplace
+searchquery
 searchstring
 secaas
 secedit
@@ -5024,6 +5008,7 @@ sentinelone
 sep
 seppmail
 seppmail.cloud
+seq
 sequence
 serialization
 serialize
@@ -5073,7 +5058,6 @@ set-pass
 set-psbreakpoint
 set-psenv
 set-randompass
-set-type
 setbios
 setting
 settings
@@ -5092,8 +5076,6 @@ shadowgroups
 shanghaitech
 shard
 share
-share-permission
-share-stat
 shared
 sharefile
 sharepoint
@@ -5281,7 +5263,6 @@ spdx
 spdx-license-identifier:ms-pl
 spe
 speach
-speak
 specification
 specify
 spectre
@@ -5462,10 +5443,10 @@ subnet
 subnet-calculator
 subnetdetails
 subnetmapping
-subnetmask
 subnetmaths
 subnets
 subnetting
+subscribedskus
 subscription
 subscriptiondefinition
 subsystem
@@ -5505,9 +5486,11 @@ sybase
 sybaseiq
 symantec
 symbolic
+symbolic_link
 symboliclink
 symbols
 symbolservers
+symlink
 symmetric
 synapse
 sync
@@ -5545,6 +5528,7 @@ systeminformation
 systemlocale
 systems
 systemsplash
+systray
 t
 t-sql
 tab
@@ -5715,6 +5699,7 @@ tls11
 tls12
 tlsprotocol
 toast
+toasts
 tobias
 toc
 todo
@@ -5723,6 +5708,7 @@ toggl
 toggle
 token
 tokenlifetime
+tokens
 tookit
 tool
 toolbox
@@ -5750,7 +5736,6 @@ tracking
 trafficfiltering
 trafficmanager
 trafficmarking
-train
 training
 tram
 transact
@@ -5774,7 +5759,6 @@ trec
 tree
 treesize
 treffynnon
-trein
 trello
 trellops
 trendmicro
@@ -5811,7 +5795,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -5888,7 +5871,6 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
-ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -5909,6 +5891,7 @@ ulid
 ulm
 um
 uml
+umn
 ums
 unattend
 unattendedfile
@@ -5971,7 +5954,6 @@ uri-scheme
 url
 url-encode
 url-shortener
-urlencode
 urlhaus
 urlredirections
 urlrewrite
@@ -6001,10 +5983,8 @@ usg
 usps
 utc
 utf-8
-utf-sig
 utf7
 utf8
-utf8-sig
 utf8bom
 util
 utilities
@@ -6091,6 +6071,7 @@ virsh
 virtual
 virtualappliance
 virtualbox
+virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -6424,7 +6405,6 @@ wow
 wpad
 wpf
 wrap
-wrap-text
 wrapper
 wrapperfunctions
 wrc
