@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 15 May 2022 02:32:23 UTC
+Updated: Sunday, 15 May 2022 09:52:43 UTC
 
 ?:
 ??
@@ -231,7 +231,6 @@ alerts
 alertsmanagement
 alfresco
 algorithm
-algorithms
 alias
 aliases
 aliens
@@ -365,6 +364,7 @@ arm-json
 arm-templates
 armor
 armtemplate
+armtemplates
 arp
 array
 arrays
@@ -429,7 +429,6 @@ audio
 audiocodes
 audit
 auditing
-auditpol
 auditpolicies
 auditpolicy
 audits
@@ -474,7 +473,6 @@ autotaskpsa
 autoyast
 availability
 availabilityset
-avalara
 avalonia
 ave
 avepoint
@@ -492,7 +490,6 @@ aws-lambda
 aws-vault
 awscli
 awspricelist
-axapta
 axinom
 axium
 az
@@ -614,6 +611,7 @@ base64url
 base85
 basecamp
 based
+baseline
 bash
 bastion
 bat
@@ -636,6 +634,7 @@ bearer
 beautifier
 beautify
 beckhoff
+beep
 benchmark
 benchmarking
 benchmarks
@@ -655,9 +654,9 @@ bigfix
 bigquery
 bikeshed
 billing
-bin
 bin-obj
 binary
+binaryip
 bind
 binding
 bing
@@ -709,6 +708,7 @@ bofh
 boilerplate
 boinc
 bolt
+bom
 book
 bookmark
 bookmarks
@@ -803,6 +803,7 @@ cantara
 capability
 capacity
 capgemini
+capslock
 capture
 carbon
 card
@@ -909,7 +910,6 @@ choco
 choco-bear
 chocobear
 chocolatey
-choice
 chooser
 christaylorcodes
 christmas
@@ -1005,7 +1005,6 @@ cloudberry
 cloudblue
 cloudbolt
 cloudendure
-cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1025,7 +1024,6 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1072,6 +1070,9 @@ collectionmembershipevaluationcomponent
 collections
 collector
 color
+color-hex
+color-rgb
+color-show
 colored
 colorful
 colorized
@@ -1080,7 +1081,6 @@ colour
 column
 columns
 com
-combinations
 combine
 comic
 comical
@@ -1123,8 +1123,10 @@ compression
 compute
 computeinstanceagent
 computer
+computer-site
 computername
 computers
+computersite
 concur
 concurrent
 conda
@@ -1226,7 +1228,6 @@ core
 coreposh
 corona
 corporate
-cortex
 cos
 cosmos
 cosmosdb
@@ -1244,7 +1245,6 @@ cover
 coverage
 coveralls
 coveralls.io
-covid
 covid-19
 cppm
 cpu
@@ -1422,6 +1422,8 @@ datastore
 datatable
 dataverse
 date
+date-random
+date-truncate
 dates
 datetaken
 datetime
@@ -1432,6 +1434,7 @@ dave
 davinci
 dax
 dayinweek
+days-week
 db
 db2
 dba
@@ -1453,6 +1456,7 @@ debug-files
 debugger
 debugging
 decimal
+decimalip
 declarative
 decline
 decode
@@ -1463,8 +1467,6 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
-deep
-deepvisibility
 def
 default
 defaultparameter
@@ -1511,8 +1513,8 @@ desktop
 desktopcentral
 desktopvirtualization
 details
+detect
 detection
-detectionrule
 deutsch
 deutschland
 dev
@@ -1612,8 +1614,8 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
-diving
 division
+divoom
 dkim
 dl
 dll
@@ -1628,6 +1630,7 @@ dnd
 dns
 dns-01
 dns-administration
+dns-async
 dns-client
 dns-over-https
 dns-resolver
@@ -1683,6 +1686,7 @@ dotnet-cli
 dotnettool
 dotps1
 dots
+dotteddecimalip
 doubleclick
 download
 downloading
@@ -1768,7 +1772,6 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
-dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -1800,7 +1803,6 @@ educational
 effectiveroutes
 efi
 eigencontroles
-einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
@@ -1818,7 +1820,9 @@ elvui
 em
 emacs
 email
+email-address
 emailaddressupdate
+emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -1983,6 +1987,8 @@ exo
 exov2
 exp
 expand
+expand-string
+expand-tab
 expandframework
 experiments
 expired
@@ -1991,6 +1997,7 @@ expiry
 exploit
 exploration
 explorer
+exponentiation
 export
 export-cmhealthreport
 export-data
@@ -2056,8 +2063,10 @@ fifa
 figlet
 file
 file-association
+file-encoding
 file-extension
 file-extension-association
+file-invalidchar
 file-matcher
 file-matching
 file-monitoring
@@ -2235,7 +2244,6 @@ gamecategory:cards
 games
 gameserver
 garage
-gas
 gat
 gateway
 gauge
@@ -2260,6 +2268,7 @@ generatewif
 generation
 generator
 generic
+genericartifactscontent
 genetic-algorithm
 genxdev
 geo
@@ -2360,6 +2369,7 @@ gopher+
 gopherplus
 governance
 gp
+gpg
 gping
 gpio
 gplink
@@ -2433,7 +2443,6 @@ haloservicedesk
 haloservicesolutions
 hamradiodeluxe
 hana
-hanaon
 handle
 handler
 hangouts
@@ -2653,7 +2662,6 @@ iis
 iis10
 iis8
 iisadministration
-ikev2
 il
 illinois
 ilo
@@ -2697,6 +2705,7 @@ inboxrule
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 inedo
@@ -2721,6 +2730,7 @@ initiator
 innerjoin
 innertext
 input
+inputbox
 inputobject
 insert
 insiderthreat
@@ -2728,7 +2738,6 @@ insight
 insightanalytics
 insights
 inspect
-inspur
 instagram
 install
 install-module
@@ -2742,7 +2751,6 @@ installwindows
 instance
 instant
 instapush
-instorage
 intacct
 integrated
 integratedscriptingeditor
@@ -2812,6 +2820,7 @@ ipilot
 iplookup
 ipmaths
 ipp
+iprange
 ipv4
 ipv6
 ipynb
@@ -2819,11 +2828,14 @@ ir
 irc
 irkit
 irregular
+isadmin
 iscsi
+isdate
 ise
 iselevated
 isesteroids
 ish
+ishexstring
 ism
 isnumeric
 iso
@@ -2832,6 +2844,8 @@ iso-8601
 ispac
 isprime
 issues
+isvalidemail
+isvalidip
 item
 iterate
 iteration
@@ -2868,7 +2882,6 @@ joat
 job
 jobs
 jobscheduler
-johnshopkins
 join
 join-object
 jojoba
@@ -2902,7 +2915,6 @@ jws
 jwt
 jwttoken
 k8s
-kafka
 kaminario
 karma
 kaseya
@@ -2939,13 +2951,11 @@ kindle
 kintone
 klantcontroles
 kms
-knapsack
 knob
 knowledge
 knowledgebase
 koans
 korn
-kql
 krbtgt
 krick
 kubclt
@@ -2960,7 +2970,6 @@ kurukuru
 kusto
 kvm
 l1tf
-l2tp
 lab
 labautomation
 labdefinition
@@ -3043,6 +3052,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 link
@@ -3056,6 +3066,8 @@ linux
 linux-command
 linuxssh
 liquid
+liquit
+liquit.com
 list
 list_files
 list-directory
@@ -3179,6 +3191,7 @@ macros
 madlib
 magazine
 magento
+magic8ball
 magicpacket
 magnet
 mail
@@ -3265,9 +3278,9 @@ mbs
 mc
 mcafee
 mcas
-mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
+md5sum
 mdatp
 mdb
 mdbc
@@ -3458,6 +3471,7 @@ msftnet
 msftnetworking
 msg
 msg.exe
+msgbox
 msgraph
 msgraphapi
 msgraphreport
@@ -3533,6 +3547,7 @@ names
 namespace
 nana
 nano
+nanoleaf
 nasdaq
 native
 natural-language-to-code
@@ -3544,6 +3559,7 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
+nederland
 nedyalkov
 neo4j
 neptune
@@ -3618,7 +3634,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nitrox
 nl
 nla
 nlm
@@ -3658,6 +3673,7 @@ npslogfile
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -3673,6 +3689,7 @@ nuget.exe
 nuget.org
 null-coalescing
 number
+numlock
 nunit
 nupkg
 nuspec
@@ -3773,7 +3790,6 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
-onq
 ons
 ontap
 ontap_9.10.1
@@ -3880,7 +3896,6 @@ ovgd
 owasp
 owls
 owner
-oxygen
 oxyplot
 p2000
 p2s
@@ -3900,7 +3915,6 @@ packaging psmodule
 packard
 packer
 packet
-packing
 pacli
 page
 pageant
@@ -3913,7 +3927,6 @@ panels
 pansies
 panther
 panzerbjrn
-pap
 paper
 papis
 paradox
@@ -3984,7 +3997,6 @@ peheader
 pem
 pemfile
 pendingreboot
-penetration
 penetrationtesting
 pentesting
 pentia
@@ -3993,7 +4005,6 @@ performance
 performance-counters
 permission
 permissions
-permutations
 persistent
 personal
 personalisation
@@ -4004,6 +4015,7 @@ pf
 pfe
 pfsense
 pfx
+pgp
 phabricator
 philips
 philosophical
@@ -4017,13 +4029,13 @@ photos
 php
 phpapam
 pi
-picker
 picture
 pictures
 pid
 pie
 pim
 ping
+ping-async
 pingsweep
 pinneditem
 pinterest
@@ -4036,6 +4048,7 @@ piraeus
 pivot
 pivotal
 pivottable
+pixoo
 pki
 pks
 place
@@ -4192,7 +4205,6 @@ ppk
 pposh
 pps
 ppt
-pptp
 pptx
 pranks
 predicate
@@ -4418,7 +4430,6 @@ pssqlitebynarymodule
 pssqlitemodule
 psst
 psstgenerator
-pstablacus
 psthread
 pstk
 pstwitter
@@ -4439,7 +4450,6 @@ publicclient
 publicfolder
 publicip
 publish
-publishedmodules
 publisher
 publishers
 publishing
@@ -4526,6 +4536,7 @@ raj
 ram
 ram-it
 random
+random-date
 randompassword
 randomuser
 ras
@@ -4552,7 +4563,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -4717,6 +4727,7 @@ retention
 retry
 reuse
 reverse-engineer
+reverse-string
 reversedsc
 revision
 reword
@@ -4758,14 +4769,15 @@ role
 roles
 rollingfile
 romaji
+rot13
 rotate
 rotation
+round
 roundrobindatabase
 route
 route53
 routeconfig
 router
-routes
 routetable
 routine
 rover
@@ -4845,6 +4857,7 @@ sasxpt
 satirical
 save
 savedcreds
+savefile
 savings
 savov
 sbc
@@ -4892,6 +4905,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -4919,10 +4935,10 @@ scriptlogging
 scriptrunner
 scripts
 scriptsmonitoring
+scrolllock
 scrub
 scrubber
 scsm
-scuba
 sd
 sddl
 sdk
@@ -5004,7 +5020,6 @@ sensor
 sensors
 sensu
 sentinel
-sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5058,6 +5073,7 @@ set-pass
 set-psbreakpoint
 set-psenv
 set-randompass
+set-type
 setbios
 setting
 settings
@@ -5076,6 +5092,8 @@ shadowgroups
 shanghaitech
 shard
 share
+share-permission
+share-stat
 shared
 sharefile
 sharepoint
@@ -5110,7 +5128,6 @@ sid
 sidecar
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -5235,7 +5252,6 @@ sonarqube
 sonarr
 sonatype
 songs
-sonicwall
 sonicwallvpn
 sonus
 soon
@@ -5263,6 +5279,7 @@ spdx
 spdx-license-identifier:ms-pl
 spe
 speach
+speak
 specification
 specify
 spectre
@@ -5346,7 +5363,6 @@ sso
 sspr
 ssrs
 ssst
-sstp
 stache
 stackedge
 stackexchange
@@ -5443,6 +5459,7 @@ subnet
 subnet-calculator
 subnetdetails
 subnetmapping
+subnetmask
 subnetmaths
 subnets
 subnetting
@@ -5537,7 +5554,6 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
-tablacus
 table
 tableau
 tables
@@ -5736,6 +5752,7 @@ tracking
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 training
 tram
 transact
@@ -5759,6 +5776,7 @@ trec
 tree
 treesize
 treffynnon
+trein
 trello
 trellops
 trendmicro
@@ -5793,15 +5811,14 @@ tutorial
 tv
 tweet
 twig
-twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -5865,7 +5882,6 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
-ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -5954,6 +5970,7 @@ uri-scheme
 url
 url-encode
 url-shortener
+urlencode
 urlhaus
 urlredirections
 urlrewrite
@@ -5983,8 +6000,10 @@ usg
 usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
@@ -6001,7 +6020,6 @@ vaas
 vagrant
 validate
 validate-dcb
-validatemapsconnectivity
 validation
 validator
 value
@@ -6173,7 +6191,6 @@ vulnerabilty
 vum
 vvx
 vxrail
-w32time
 w3svc
 w3w
 waas
@@ -6235,7 +6252,6 @@ webpage
 webpi
 webreport
 webrequest
-webresponse
 webroot
 webserver
 webservice
@@ -6405,6 +6421,7 @@ wow
 wpad
 wpf
 wrap
+wrap-text
 wrapper
 wrapperfunctions
 wrc
@@ -6457,7 +6474,6 @@ xaf
 xbase
 xbox
 xclarity
-xdr
 xdschelper
 xdscresources
 xdt
@@ -6485,7 +6501,6 @@ xor
 xpath
 xpendingreboot
 xpertdoc
-xpo
 xprotect
 xrm
 xsa
