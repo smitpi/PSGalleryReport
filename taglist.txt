@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 15 May 2022 17:52:58 UTC
+Updated: Monday, 16 May 2022 02:24:05 UTC
 
 ?:
 ??
@@ -500,7 +500,6 @@ az
 az-cli
 az.automation
 az.stackhci
-aza
 azautomation
 azcli
 azcompute
@@ -615,7 +614,6 @@ base64url
 base85
 basecamp
 based
-baseline
 bash
 bastion
 bat
@@ -662,6 +660,7 @@ bin
 bin-obj
 binary
 binaryip
+bind
 binding
 bing
 bingmap
@@ -686,6 +685,7 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
+blackbox
 blacklist
 blade
 bladeserver
@@ -938,7 +938,6 @@ cinegy
 cinema
 cinst
 cipher
-circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1366,6 +1365,7 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
+cyrillic
 d365
 d365ce
 d365f&o
@@ -1626,7 +1626,6 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
-diving
 division
 divoom
 dkim
@@ -1688,7 +1687,6 @@ dok
 dokuwiki
 domain
 domains
-donothing
 dos
 dot
 dotenv
@@ -1839,7 +1837,6 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
-emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -2108,6 +2105,7 @@ filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
+filesharing
 filestorage
 filestream
 filesystem
@@ -2132,6 +2130,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialforce
 find
 find-path
 findlocation
@@ -2258,22 +2257,18 @@ gamecategory:cards
 games
 gameserver
 garage
-gas
 gat
 gateway
 gauge
 gavin
 gavineke
+gc
 gce
 gci
 gcloud
 gcp
 gcs
 gdpr
-gemini
-geminiprotocol
-gemlog
-gemtext
 general
 generate
 generateaddress
@@ -2388,6 +2383,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2647,6 +2644,7 @@ icingawindows
 icloud
 icmp
 icon
+icons
 icraftsoftware
 icws
 id
@@ -2732,7 +2730,9 @@ infosec
 infrastructure
 infrastructureascode
 ingestion
+inheritance
 ini
+inifile
 initialization
 initials-avatar
 initiator
@@ -2889,6 +2889,7 @@ jetbrains
 jira
 jiraservicemanagement
 jms
+joat
 job
 jobs
 jobscheduler
@@ -2948,6 +2949,7 @@ kestrel
 key
 key-vault
 key2wocas
+keybase
 keyboard
 keycipher
 keylight
@@ -2968,7 +2970,6 @@ knowledge
 knowledgebase
 koans
 korn
-kql
 krbtgt
 krick
 kubclt
@@ -3014,6 +3015,7 @@ lastlogon
 lastpass
 latency
 latestupdate
+latin
 latitude
 launcher
 layer
@@ -3080,8 +3082,6 @@ linux
 linux-command
 linuxssh
 liquid
-liquit
-liquit.com
 list
 list_files
 list-directory
@@ -3203,7 +3203,6 @@ macos
 macosx
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -3537,7 +3536,6 @@ mutation
 mute
 mutex
 mva
-mvn
 mvp
 mx
 mxlookup
@@ -3649,7 +3647,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nitrox
 nl
 nla
 nlm
@@ -3719,7 +3716,6 @@ nxt
 nyse
 nzb
 o365
-o365mailnotification
 oa
 oacli
 oacmdlets
@@ -3796,7 +3792,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onetimesecret
@@ -3913,7 +3908,6 @@ ovgd
 owasp
 owls
 owner
-oxygen
 oxyplot
 p2000
 p2s
@@ -3977,7 +3971,6 @@ password_generation
 password-generator
 password-less
 password-manager
-passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -4016,6 +4009,7 @@ peheader
 pem
 pemfile
 pendingreboot
+penetrationtesting
 pentesting
 pentia
 perforce
@@ -4238,6 +4232,7 @@ prepend
 preprocessing
 preprocessor
 presenter
+presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4690,6 +4685,7 @@ remove-pinneditem
 removetypeaccelerators
 remux
 ren-isac
+reparsepoint
 repeat
 repl
 replace
@@ -4841,7 +4837,6 @@ runway
 russia
 rust
 rust-lang
-ryanairps
 ryver
 s.ds.p
 s3
@@ -4853,6 +4848,7 @@ sacl
 safari
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -4926,15 +4922,13 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
 scraper
 screen
 screencap
+screencapture
 screenconnect
 screenfetch
 screenresolution
@@ -4959,7 +4953,6 @@ scrolllock
 scrub
 scrubber
 scsm
-scuba
 sd
 sddl
 sdk
@@ -5007,6 +5000,7 @@ securityroles
 securityscopes
 securitytxt
 seek
+seekatar
 seeshell
 select
 select-item
@@ -5073,7 +5067,6 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
-serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5128,6 +5121,7 @@ shares
 sheets
 shell
 shell-art
+shells
 shieldedvm
 ships
 shipstation
@@ -5150,6 +5144,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -5316,6 +5311,7 @@ speedtester
 spf
 spi
 spinnaker
+splat
 splatting
 split
 splunk
@@ -5501,7 +5497,6 @@ sumologic
 superheros
 supermarket
 support
-suppress
 supress-reboot
 surround
 survey
@@ -5628,7 +5623,6 @@ techdirect
 techedna2014
 techlog
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -5658,7 +5652,6 @@ ternary
 terraform
 terraformcloud
 terrafun
-tesla
 test
 test-dscconfiguration
 test-modulepath
@@ -5789,6 +5782,8 @@ transforms
 transitionmanager
 translate
 translation
+translit
+transliteration
 transmission
 transparency
 trap
@@ -5840,7 +5835,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -5926,6 +5920,7 @@ ui/ux
 ui7
 uk
 ul
+ulid
 ulm
 um
 uml
@@ -6034,6 +6029,7 @@ utils
 utm
 uudecode
 uuencode
+uuid
 uw
 uwp
 ux
@@ -6041,7 +6037,6 @@ vaas
 vagrant
 validate
 validate-dcb
-validatemapsconnectivity
 validation
 validator
 value
@@ -6362,7 +6357,6 @@ windowsplugins
 windowspowershell
 windowspresentationfoundation
 windowsrest
-windowssandbox
 windowsserver
 windowsserver2008
 windowsserver2012
@@ -6545,6 +6539,7 @@ yetanotherhelloworld
 ynab
 youtube
 youtube-dl
+youtubeextractor
 yq
 yubaba
 z

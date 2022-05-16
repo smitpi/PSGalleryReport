@@ -5,6 +5,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2205.555) | 2205.555
+
+### Published: 05/15/2022 22:24:21 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 549,996 | __Repository__: https://stealthpuppy.com/evergreen/
+
+## [ADDSAuditTasks](https://www.powershellgallery.com/Packages/ADDSAuditTasks/1.4.0) | 1.4.0
+
+### Published: 05/15/2022 21:02:17 by DrIOSX
+
+Tasks for auditing Active Directory
+
+__Downloads__: 59 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADDSAuditTasks
+
+## [AuditPolicy](https://www.powershellgallery.com/Packages/AuditPolicy/0.0.3) | 0.0.3
+
+### Published: 05/15/2022 19:45:53 by Przemyslaw Klys
+
+Module that replaces auditpol.exe with a custom version that can be used to audit or make changes to the Windows Security Policy.
+
+__Downloads__: 29 | __Repository__: https://github.com/EvotecIT/AuditPolicy
+
 ## [Dimmo](https://www.powershellgallery.com/Packages/Dimmo/1.31) | 1.31
 
 ### Published: 05/15/2022 12:13:37 by Dimitri Koens
@@ -65,7 +89,7 @@ __Downloads__: 2,137 | __Repository__:
 
 Converts registry items into local security policy using LGPO
 
-__Downloads__: 110 | __Repository__: https://github.com/PowerShellCrack/LGPOPSmodule
+__Downloads__: 111 | __Repository__: https://github.com/PowerShellCrack/LGPOPSmodule
 
 ## [JAz.PIM](https://www.powershellgallery.com/Packages/JAz.PIM/0.0.3) | 0.0.3
 
@@ -83,21 +107,13 @@ Module that utilizes PowerShell as a wrapper for SteamCMD and engages with sever
 
 __Downloads__: 1,848 | __Repository__: https://github.com/hjorslev/SteamPS
 
-## [ADDSAuditTasks](https://www.powershellgallery.com/Packages/ADDSAuditTasks/1.2.0) | 1.2.0
-
-### Published: 05/14/2022 17:42:17 by DrIOSX
-
-Tasks for auditing Active Directory
-
-__Downloads__: 59 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADDSAuditTasks
-
 ## [PS-Generate-Thumbnails](https://www.powershellgallery.com/Packages/PS-Generate-Thumbnails/1.0) | 1.0
 
 ### Published: 05/14/2022 15:53:44 by Krokofant
 
 Generate thumbnails using mtn
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 2 | __Repository__: 
 
 ## [ThirdPartyLibraries](https://www.powershellgallery.com/Packages/ThirdPartyLibraries/3.1.0) | 3.1.0
 
@@ -114,7 +130,7 @@ __Downloads__: 100 | __Repository__: https://github.com/max-ieremenko/ThirdParty
 
 Package Management (OneGet) provider that facilitates installing WinGet packages from any NuGet repository.
 
-__Downloads__: 20,989 | __Repository__: https://github.com/ethanbergstrom/WinGet
+__Downloads__: 20,984 | __Repository__: https://github.com/ethanbergstrom/WinGet
 
 ## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.10.1) | 0.10.1
 
@@ -138,7 +154,7 @@ __Downloads__: 38,017 | __Repository__: https://github.com/gaelcolas/Sampler
 
 Pure Storage FlashArray REST API integration with Windows PowerShell.
 
-__Downloads__: 28,860 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK
+__Downloads__: 28,863 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK
 
 ## [PureStoragePowerShellSDK2](https://www.powershellgallery.com/Packages/PureStoragePowerShellSDK2/2.2.276.0) | 2.2.276.0
 
@@ -154,7 +170,7 @@ __Downloads__: 2,623 | __Repository__: https://github.com/PureStorage-Connect/Po
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 1,974 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 1,976 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [ACGCore](https://www.powershellgallery.com/Packages/ACGCore/0.20.0) | 0.20.0
 
@@ -170,7 +186,7 @@ __Downloads__: 1,567 | __Repository__: https://github.com/Adicitus/acgcore
 
 A PowerShell Crescendo wrapper for WinGet
 
-__Downloads__: 9,534 | __Repository__: https://github.com/ethanbergstrom/Cobalt
+__Downloads__: 9,529 | __Repository__: https://github.com/ethanbergstrom/Cobalt
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5) | 0.5
 
@@ -248,7 +264,7 @@ __Downloads__: 768 | __Repository__: https://github.com/icraftsoftware/Be.Statel
 
 A prompt theme engine for any shell
 
-__Downloads__: 1,510,874 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 1,510,671 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.7.227) | 1.7.227
 
@@ -256,7 +272,7 @@ __Downloads__: 1,510,874 | __Repository__: https://github.com/JanDeDobbeleer/oh-
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 1,792,661 | __Repository__: http://psframework.org/
+__Downloads__: 1,792,699 | __Repository__: http://psframework.org/
 
 ## [ADGraph](https://www.powershellgallery.com/Packages/ADGraph/1.0.3) | 1.0.3
 
@@ -272,7 +288,7 @@ __Downloads__: 244 | __Repository__: https://github.com/Callidus2000/ADGraph/
 
 STTI CLI Module
 
-__Downloads__: 459 | __Repository__: 
+__Downloads__: 460 | __Repository__: 
 
 ## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.48) | 0.0.0.48
 
@@ -328,7 +344,7 @@ __Downloads__: 80,295 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 21,877 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 21,858 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.3.0) | 4.3.0
 
@@ -368,7 +384,7 @@ __Downloads__: 475 | __Repository__: https://github.com/ScottColson/CCLLC.CDS.De
 
 This DSC module is used to deploy and configure SharePoint Server 2013, 2016 and 2019, and covers a wide range of areas including web apps, service apps and farm configuration.
 
-__Downloads__: 343,605 | __Repository__: https://github.com/dsccommunity/SharePointDsc
+__Downloads__: 344,109 | __Repository__: https://github.com/dsccommunity/SharePointDsc
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.1) | 1.5.1
 
@@ -376,7 +392,7 @@ __Downloads__: 343,605 | __Repository__: https://github.com/dsccommunity/SharePo
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 302,264 | __Repository__: 
+__Downloads__: 302,333 | __Repository__: 
 
 ## [PSGitCompletions](https://www.powershellgallery.com/Packages/PSGitCompletions/2.36.0) | 2.36.0
 
@@ -408,7 +424,7 @@ __Downloads__: 433 | __Repository__: https://github.com/jhoek/UncommonSense.Volk
 
 HP Client Management Script Library
 
-__Downloads__: 19,555,207 | __Repository__: 
+__Downloads__: 19,554,553 | __Repository__: 
 
 ## [CRS.NavContainerHelperExtension](https://www.powershellgallery.com/Packages/CRS.NavContainerHelperExtension/1.0.3.26) | 1.0.3.26
 
@@ -496,7 +512,7 @@ __Downloads__: 851 | __Repository__: https://github.com/abbgrade/PsSqlClient
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine.
 
-__Downloads__: 242 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 244 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [Optimized.Mga](https://www.powershellgallery.com/Packages/Optimized.Mga/0.0.2.8) | 0.0.2.8
 
@@ -652,21 +668,13 @@ Manages etl2pcapng.exe and provides a PowerShell wrapper for the executable.
 
 __Downloads__: 2,203 | __Repository__: https://github.com/microsoft/Convert-Etl2Pcapng
 
-## [AuditPolicy](https://www.powershellgallery.com/Packages/AuditPolicy/0.0.2) | 0.0.2
-
-### Published: 05/11/2022 16:39:04 by Przemyslaw Klys
-
-Module that replaces auditpol.exe with a custom version that can be used to audit or make changes to the Windows Security Policy.
-
-__Downloads__: 30 | __Repository__: https://github.com/EvotecIT/AuditPolicy
-
 ## [TD.Util](https://www.powershellgallery.com/Packages/TD.Util/0.1.30) | 0.1.30
 
 ### Published: 05/11/2022 15:07:45 by Edwin Hagen
 
 Tedon Utilities module
 
-__Downloads__: 13,438 | __Repository__: https://github.com/ehagen/TD.Util
+__Downloads__: 13,441 | __Repository__: https://github.com/ehagen/TD.Util
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.6.11216) | 20.12.6.11216
 
@@ -682,7 +690,7 @@ __Downloads__: 1,421 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,245,096 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,245,100 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Juriba.Dashworks](https://www.powershellgallery.com/Packages/Juriba.Dashworks/0.0.26.0) | 0.0.26.0
 
@@ -698,7 +706,7 @@ __Downloads__: 143 | __Repository__: https://github.com/juribalimited/powershell
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,591,140 | __Repository__: https://dbatools.io/
+__Downloads__: 1,590,733 | __Repository__: https://dbatools.io/
 
 ## [ALLanguageTools](https://www.powershellgallery.com/Packages/ALLanguageTools/0.1.1) | 0.1.1
 
@@ -794,7 +802,7 @@ __Downloads__: 1,907,013 | __Repository__: https://vcredist.com/
 
 MMSMOA Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 205,952 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 205,953 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.5.10.1) | 22.5.10.1
 
@@ -808,7 +816,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 259,206 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 259,211 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [DatabricksPS](https://www.powershellgallery.com/Packages/DatabricksPS/1.9.9.11) | 1.9.9.11
 
@@ -816,7 +824,7 @@ __Downloads__: 259,206 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 A powershell module to interact with the Databricks APIs on Azure, AWS and GCP. Dedicated cmdlets for import/export of whole Databricks workspaces (notebooks, clusters, jobs, ...) for CI/CD pipelines. Full support for pipelining commands.
 
-__Downloads__: 112,628 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
+__Downloads__: 112,625 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/34.0.0) | 34.0.0
 
@@ -1777,7 +1785,7 @@ __Downloads__: 6 | __Repository__:
 
 Main module used to import all individual iDRAC Redfish modules listed in the Powershell gallery. For more details and examples for each module, execute get-help on the specific module.
 
-__Downloads__: 226 | __Repository__: 
+__Downloads__: 225 | __Repository__: 
 
 ## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/2.3.1.1) | 2.3.1.1
 
@@ -1833,7 +1841,7 @@ __Downloads__: 131,586 | __Repository__: https://github.com/OutSystems/OutSystem
 
 For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
 
-__Downloads__: 1,791 | __Repository__: https://github.com/srozemuller/AzAvd
+__Downloads__: 1,790 | __Repository__: https://github.com/srozemuller/AzAvd
 
 ## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.27) | 0.1.27
 
@@ -1890,15 +1898,7 @@ __Downloads__: 881 | __Repository__: https://github.com/fbprogmbh/Audit-Test-Aut
 
 This module contains DSC resources for deployment and configuration of Microsoft DHCP Server.
 
-__Downloads__: 241,569 | __Repository__: https://github.com/dsccommunity/xDhcpServer
-
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2205.549) | 2205.549
-
-### Published: 05/07/2022 04:08:08 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 549,996 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 242,086 | __Repository__: https://github.com/dsccommunity/xDhcpServer
 
 ## [ServiceNow](https://www.powershellgallery.com/Packages/ServiceNow/3.1.11) | 3.1.11
 
@@ -1954,7 +1954,7 @@ __Downloads__: 8 | __Repository__:
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 6,220 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 6,217 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.4) | 3.1.4
 
@@ -2118,4 +2118,4 @@ Module for BitTitanPowerShell.
 
 __Downloads__: 7,957 | __Repository__: 
 
-*Updated: Sunday, 15 May 2022 17:52:48 UTC*
+*Updated: Monday, 16 May 2022 02:23:56 UTC*
