@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 16 May 2022 02:24:05 UTC
+Updated: Monday, 16 May 2022 09:52:27 UTC
 
 ?:
 ??
@@ -395,7 +395,6 @@ asp.net
 aspnet
 aspnet_regiis
 asr
-assembleenationale
 assemblymeta
 assert
 assertion
@@ -480,7 +479,6 @@ avalonia
 ave
 avepoint
 avro
-avs
 avset
 await
 awesome
@@ -500,6 +498,7 @@ az
 az-cli
 az.automation
 az.stackhci
+aza
 azautomation
 azcli
 azcompute
@@ -614,6 +613,7 @@ base64url
 base85
 basecamp
 based
+baseline
 bash
 bastion
 bat
@@ -813,7 +813,6 @@ card
 cardwirth
 cargo
 carousel
-cartoon
 case
 cassandra
 cat
@@ -882,7 +881,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
@@ -914,6 +912,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+chooser
 christaylorcodes
 christmas
 chrome
@@ -938,6 +937,7 @@ cinegy
 cinema
 cinst
 cipher
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1059,7 +1059,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1087,6 +1086,7 @@ colour
 column
 columns
 com
+combinations
 combine
 comic
 comical
@@ -1470,7 +1470,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -1501,7 +1500,6 @@ dellemc
 delta
 demand
 demo
-democratie
 demonstration
 demultiplex
 demultiplexing
@@ -1512,7 +1510,6 @@ deployment
 deploymentconfig
 deploymentmanager
 deploymentresourceprovider
-depute
 der
 description
 deserialize
@@ -1526,7 +1523,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutsch
 deutschland
 dev
@@ -1592,7 +1588,6 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
-dirkjan
 dirsync
 disa
 disable-psremoting
@@ -1626,6 +1621,7 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
+diving
 division
 divoom
 dkim
@@ -1687,10 +1683,10 @@ dok
 dokuwiki
 domain
 domains
+donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -1706,7 +1702,6 @@ dpa
 dpapi
 dps
 dq
-dr
 draw
 drawio
 dreamweaver
@@ -1837,6 +1832,7 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
+emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -2210,7 +2206,6 @@ fox
 foxpro
 fqdn
 framework
-france
 freeipa
 freenas
 freesoftwarefoundation
@@ -2257,6 +2252,7 @@ gamecategory:cards
 games
 gameserver
 garage
+gas
 gat
 gateway
 gauge
@@ -2269,6 +2265,10 @@ gcloud
 gcp
 gcs
 gdpr
+gemini
+geminiprotocol
+gemlog
+gemtext
 general
 generate
 generateaddress
@@ -2474,6 +2474,8 @@ hashset
 hashtable
 hasicorp
 haskell
+haste
+hastebin
 haveibeenpwned
 hba
 hbase
@@ -2732,7 +2734,6 @@ infrastructureascode
 ingestion
 inheritance
 ini
-inifile
 initialization
 initials-avatar
 initiator
@@ -2925,7 +2926,6 @@ justenoughadministration
 jwk
 jws
 jwt
-jwttoken
 k8s
 kafka
 kaminario
@@ -3082,6 +3082,8 @@ linux
 linux-command
 linuxssh
 liquid
+liquit
+liquit.com
 list
 list_files
 list-directory
@@ -3165,7 +3167,6 @@ logrotation
 logs
 logstash
 logtools
-logz
 lol
 lolcat
 longfile
@@ -3203,6 +3204,7 @@ macos
 macosx
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -3367,8 +3369,6 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
-microsoft.logic
-microsoft.logic/workflows
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
@@ -3401,7 +3401,6 @@ milestonepstools
 mim
 mimekit
 min
-mindmeister
 minifier
 minimal
 minimum
@@ -3536,6 +3535,7 @@ mutation
 mute
 mutex
 mva
+mvn
 mvp
 mx
 mxlookup
@@ -3647,6 +3647,7 @@ ninja
 ninjaone
 ninjarmm
 nios
+nitrox
 nl
 nla
 nlm
@@ -3716,6 +3717,7 @@ nxt
 nyse
 nzb
 o365
+o365mailnotification
 oa
 oacli
 oacmdlets
@@ -3792,6 +3794,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onetimesecret
@@ -3819,7 +3822,6 @@ open-ai
 open-ssh
 openai
 openapi
-opendata
 openedge
 openfiles
 openhere
@@ -3908,6 +3910,7 @@ ovgd
 owasp
 owls
 owner
+oxygen
 oxyplot
 p2000
 p2s
@@ -3951,7 +3954,6 @@ parameters
 parclient
 pardot
 parititions
-parool
 parquet
 parse
 parser
@@ -3971,6 +3973,7 @@ password_generation
 password-generator
 password-less
 password-manager
+passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -3985,6 +3988,7 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
+paste
 patch
 patches
 patching
@@ -4009,6 +4013,7 @@ peheader
 pem
 pemfile
 pendingreboot
+penetration
 penetrationtesting
 pentesting
 pentia
@@ -4017,6 +4022,7 @@ performance
 performance-counters
 permission
 permissions
+permutations
 persistent
 personal
 personalisation
@@ -4504,7 +4510,6 @@ pxedistributionpoint
 pyranja
 python
 python-for-dotnet
-qcloud
 qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
@@ -4637,7 +4642,6 @@ reflection
 refresh
 refreshtoken
 reg
-regardscitoyen
 regex
 region
 regions
@@ -4837,6 +4841,7 @@ runway
 russia
 rust
 rust-lang
+ryanairps
 ryver
 s.ds.p
 s3
@@ -4922,6 +4927,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -4953,6 +4961,7 @@ scrolllock
 scrub
 scrubber
 scsm
+scuba
 sd
 sddl
 sdk
@@ -5019,8 +5028,6 @@ selfsigned
 semantic
 semantic-versioning
 semver
-senat
-senateur
 send
 send-logtologanalytics
 send-mailmessage
@@ -5067,6 +5074,7 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
+serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5096,7 +5104,6 @@ sevenzip
 sf
 sfb
 sftp
-sfx
 sgw
 sha256
 shadow
@@ -5142,7 +5149,6 @@ sid
 sidecar
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -5497,6 +5503,7 @@ sumologic
 superheros
 supermarket
 support
+suppress
 supress-reboot
 surround
 survey
@@ -5515,7 +5522,6 @@ swimlane
 swis
 switch
 sxs
-sybase
 sybaseiq
 symantec
 symbolic
@@ -5623,6 +5629,7 @@ techdirect
 techedna2014
 techlog
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -5652,6 +5659,7 @@ ternary
 terraform
 terraformcloud
 terrafun
+tesla
 test
 test-dscconfiguration
 test-modulepath
@@ -5820,6 +5828,7 @@ tsheets
 tsqlbestpractice
 tts
 tui
+tulpep
 tuner
 tutorial
 tv
@@ -5835,6 +5844,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -5856,7 +5866,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -5897,7 +5906,6 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
-ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -6037,6 +6045,7 @@ vaas
 vagrant
 validate
 validate-dcb
+validatemapsconnectivity
 validation
 validator
 value
@@ -6164,7 +6173,6 @@ vocabularies
 voice
 voiceconfig
 voidtools
-volkskrant
 volume
 volumeshadowcopy
 volumio
@@ -6357,6 +6365,7 @@ windowsplugins
 windowspowershell
 windowspresentationfoundation
 windowsrest
+windowssandbox
 windowsserver
 windowsserver2008
 windowsserver2012

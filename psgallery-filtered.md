@@ -5,6 +5,57 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Eryph.ClientRuntime.Configuration](https://www.powershellgallery.com/Packages/Eryph.ClientRuntime.Configuration/0.3.0) | 0.3.0
+
+### Published: 05/16/2022 09:46:45 by dbosoft GmbH and eryph contributors
+
+Configuration Cmdlets for eryph. These Cmdlets allows you to manage your clients, credentials and endpoints for eryph.
+
+__Downloads__: 61 | __Repository__: https://github.com/eryph-org/dotnet-clientruntime
+
+## [PSWriteExcel](https://www.powershellgallery.com/Packages/PSWriteExcel/0.1.13) | 0.1.13
+
+### Published: 05/16/2022 08:50:40 by Przemyslaw Klys
+
+Little project to create Excel files without Microsoft Excel being installed.
+
+__Downloads__: 74,490 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
+
+## [PoshDotnetDumpAnalyzeViewerModule](https://www.powershellgallery.com/Packages/PoshDotnetDumpAnalyzeViewerModule/0.0.2) | 0.0.2
+
+### Published: 05/16/2022 07:46:08 by Igor Bagdamyan
+
+Micro UI for dotnet dump analyze command
+
+__Downloads__: 8 | __Repository__: https://github.com/En3Tho/PoshDotnetDumpAnalyzeViewer
+
+## [oh-my-posh](https://www.powershellgallery.com/Packages/oh-my-posh/7.85.0) | 7.85.0
+
+### Published: 05/16/2022 05:50:20 by Jan De Dobbeleer
+
+A prompt theme engine for any shell
+
+__Downloads__: 1,510,667 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+
+## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.49) | 0.0.0.49
+
+### Published: 05/16/2022 03:49:16 by Anthony Vandewerdt
+
+This is a community generated PowerShell Module for Actifio Global Manager (AGM).  
+It provides composite functions that combine commands to various AGM API endpoints, to achieve specific outcomes. 
+Examples include mounting a database, creating a new VM or running a workflow.
+More information about this module can be found here:   https://github.com/Actifio/AGMPowerLib
+
+__Downloads__: 747 | __Repository__: https://github.com/Actifio/AGMPowerLib
+
+## [Intune.LogMonitor.Tools](https://www.powershellgallery.com/Packages/Intune.LogMonitor.Tools/1.0.0.1) | 1.0.0.1
+
+### Published: 05/16/2022 03:22:58 by Ben Reader
+
+A set of tools to help analyse the IME log file.
+
+__Downloads__: 0 | __Repository__: https://github.com/tabs-not-spaces/Intune.LogMonitor.Tools
+
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2205.555) | 2205.555
 
 ### Published: 05/15/2022 22:24:21 by Aaron Parker
@@ -105,7 +156,7 @@ __Downloads__: 11 | __Repository__:
 
 Module that utilizes PowerShell as a wrapper for SteamCMD and engages with several Steam APIs.
 
-__Downloads__: 1,848 | __Repository__: https://github.com/hjorslev/SteamPS
+__Downloads__: 1,850 | __Repository__: https://github.com/hjorslev/SteamPS
 
 ## [PS-Generate-Thumbnails](https://www.powershellgallery.com/Packages/PS-Generate-Thumbnails/1.0) | 1.0
 
@@ -130,7 +181,7 @@ __Downloads__: 100 | __Repository__: https://github.com/max-ieremenko/ThirdParty
 
 Package Management (OneGet) provider that facilitates installing WinGet packages from any NuGet repository.
 
-__Downloads__: 20,984 | __Repository__: https://github.com/ethanbergstrom/WinGet
+__Downloads__: 20,983 | __Repository__: https://github.com/ethanbergstrom/WinGet
 
 ## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.10.1) | 0.10.1
 
@@ -146,7 +197,7 @@ __Downloads__: 317 | __Repository__:
 
 Sample Module with Pipeline scripts and its Plaster template to create a module following some of the community accepted practices.
 
-__Downloads__: 38,017 | __Repository__: https://github.com/gaelcolas/Sampler
+__Downloads__: 38,031 | __Repository__: https://github.com/gaelcolas/Sampler
 
 ## [PureStoragePowerShellSDK](https://www.powershellgallery.com/Packages/PureStoragePowerShellSDK/1.19.49.0) | 1.19.49.0
 
@@ -170,7 +221,7 @@ __Downloads__: 2,623 | __Repository__: https://github.com/PureStorage-Connect/Po
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 1,976 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 1,977 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [ACGCore](https://www.powershellgallery.com/Packages/ACGCore/0.20.0) | 0.20.0
 
@@ -186,7 +237,7 @@ __Downloads__: 1,567 | __Repository__: https://github.com/Adicitus/acgcore
 
 A PowerShell Crescendo wrapper for WinGet
 
-__Downloads__: 9,529 | __Repository__: https://github.com/ethanbergstrom/Cobalt
+__Downloads__: 9,551 | __Repository__: https://github.com/ethanbergstrom/Cobalt
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5) | 0.5
 
@@ -256,15 +307,7 @@ __Downloads__: 49 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
 
 Commands to deploy Microsoft BizTalk Server Applications supported by a deployment framework featuring a declarative task model.
 
-__Downloads__: 768 | __Repository__: https://github.com/icraftsoftware/Be.Stateless.PowerShell.Module.BizTalk.Deployment
-
-## [oh-my-posh](https://www.powershellgallery.com/Packages/oh-my-posh/7.82.1) | 7.82.1
-
-### Published: 05/13/2022 13:45:03 by Jan De Dobbeleer
-
-A prompt theme engine for any shell
-
-__Downloads__: 1,510,671 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 769 | __Repository__: https://github.com/icraftsoftware/Be.Stateless.PowerShell.Module.BizTalk.Deployment
 
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.7.227) | 1.7.227
 
@@ -272,7 +315,7 @@ __Downloads__: 1,510,671 | __Repository__: https://github.com/JanDeDobbeleer/oh-
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 1,792,699 | __Repository__: http://psframework.org/
+__Downloads__: 1,792,661 | __Repository__: http://psframework.org/
 
 ## [ADGraph](https://www.powershellgallery.com/Packages/ADGraph/1.0.3) | 1.0.3
 
@@ -280,7 +323,7 @@ __Downloads__: 1,792,699 | __Repository__: http://psframework.org/
 
 ADVisual
 
-__Downloads__: 244 | __Repository__: https://github.com/Callidus2000/ADGraph/
+__Downloads__: 245 | __Repository__: https://github.com/Callidus2000/ADGraph/
 
 ## [Stti](https://www.powershellgallery.com/Packages/Stti/1.0.0.2365) | 1.0.0.2365
 
@@ -289,17 +332,6 @@ __Downloads__: 244 | __Repository__: https://github.com/Callidus2000/ADGraph/
 STTI CLI Module
 
 __Downloads__: 460 | __Repository__: 
-
-## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.48) | 0.0.0.48
-
-### Published: 05/13/2022 06:52:04 by Anthony Vandewerdt
-
-This is a community generated PowerShell Module for Actifio Global Manager (AGM).  
-It provides composite functions that combine commands to various AGM API endpoints, to achieve specific outcomes. 
-Examples include mounting a database, creating a new VM or running a workflow.
-More information about this module can be found here:   https://github.com/Actifio/AGMPowerLib
-
-__Downloads__: 747 | __Repository__: https://github.com/Actifio/AGMPowerLib
 
 ## [Get-ADCA](https://www.powershellgallery.com/Packages/Get-ADCA/0.0.1) | 0.0.1
 
@@ -384,7 +416,7 @@ __Downloads__: 475 | __Repository__: https://github.com/ScottColson/CCLLC.CDS.De
 
 This DSC module is used to deploy and configure SharePoint Server 2013, 2016 and 2019, and covers a wide range of areas including web apps, service apps and farm configuration.
 
-__Downloads__: 344,109 | __Repository__: https://github.com/dsccommunity/SharePointDsc
+__Downloads__: 344,110 | __Repository__: https://github.com/dsccommunity/SharePointDsc
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.1) | 1.5.1
 
@@ -392,7 +424,7 @@ __Downloads__: 344,109 | __Repository__: https://github.com/dsccommunity/SharePo
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 302,333 | __Repository__: 
+__Downloads__: 302,303 | __Repository__: 
 
 ## [PSGitCompletions](https://www.powershellgallery.com/Packages/PSGitCompletions/2.36.0) | 2.36.0
 
@@ -410,21 +442,13 @@ A PowerShell module to generate an as built report on the configuration of Veeam
 
 __Downloads__: 488 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
 
-## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.9.0) | 0.0.9.0
-
-### Published: 05/12/2022 13:44:33 by Jan Hoek
-
-PowerShell module for listing Volkskrant articles
-
-__Downloads__: 433 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
-
 ## [HPCMSL](https://www.powershellgallery.com/Packages/HPCMSL/1.6.5) | 1.6.5
 
 ### Published: 05/12/2022 13:36:10 by HP Development Company L.P.
 
 HP Client Management Script Library
 
-__Downloads__: 19,554,553 | __Repository__: 
+__Downloads__: 19,564,235 | __Repository__: 
 
 ## [CRS.NavContainerHelperExtension](https://www.powershellgallery.com/Packages/CRS.NavContainerHelperExtension/1.0.3.26) | 1.0.3.26
 
@@ -440,7 +464,7 @@ __Downloads__: 2,409 | __Repository__: https://github.com/waldo1001/Cloud.Ready.
 
 Module to make it easier to remote execute PowerShell into a DockerHost, with NAV Containers, created by the navcontainerhelper.
 
-__Downloads__: 2,695 | __Repository__: https://github.com/waldo1001/Cloud.Ready.Software.PowerShell
+__Downloads__: 2,730 | __Repository__: https://github.com/waldo1001/Cloud.Ready.Software.PowerShell
 
 ## [Cloud.Ready.Software.NAV](https://www.powershellgallery.com/Packages/Cloud.Ready.Software.NAV/1.0.3.26) | 1.0.3.26
 
@@ -528,7 +552,7 @@ __Downloads__: 805 | __Repository__: https://github.com/baswijdenes/Optimized.Mg
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 13,061 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 13,063 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.10.0) | 4.10.0
 
@@ -536,7 +560,7 @@ __Downloads__: 13,061 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 10,378 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 10,382 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [RestConnect](https://www.powershellgallery.com/Packages/RestConnect/1.0.9) | 1.0.9
 
@@ -674,7 +698,7 @@ __Downloads__: 2,203 | __Repository__: https://github.com/microsoft/Convert-Etl2
 
 Tedon Utilities module
 
-__Downloads__: 13,441 | __Repository__: https://github.com/ehagen/TD.Util
+__Downloads__: 13,459 | __Repository__: https://github.com/ehagen/TD.Util
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.6.11216) | 20.12.6.11216
 
@@ -690,7 +714,7 @@ __Downloads__: 1,421 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,245,100 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,245,096 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Juriba.Dashworks](https://www.powershellgallery.com/Packages/Juriba.Dashworks/0.0.26.0) | 0.0.26.0
 
@@ -706,7 +730,7 @@ __Downloads__: 143 | __Repository__: https://github.com/juribalimited/powershell
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,590,733 | __Repository__: https://dbatools.io/
+__Downloads__: 1,590,729 | __Repository__: https://dbatools.io/
 
 ## [ALLanguageTools](https://www.powershellgallery.com/Packages/ALLanguageTools/0.1.1) | 0.1.1
 
@@ -841,7 +865,7 @@ __Downloads__: 750 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 Functionality to help generate documentation for modules.
 
-__Downloads__: 9,331 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
+__Downloads__: 9,333 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/34.0.0) | 34.0.0
 
@@ -993,7 +1017,7 @@ __Downloads__: 1,185 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Resourcesearch Service
 
-__Downloads__: 1,543 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,544 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Resourcemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcemanager/34.0.0) | 34.0.0
 
@@ -1137,7 +1161,7 @@ __Downloads__: 1,048 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Mysql Service
 
-__Downloads__: 1,885 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,886 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/34.0.0) | 34.0.0
 
@@ -1353,7 +1377,7 @@ __Downloads__: 1,459 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Datasafe Service
 
-__Downloads__: 1,523 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,524 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Datalabelingservicedataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservicedataplane/34.0.0) | 34.0.0
 
@@ -1385,7 +1409,7 @@ __Downloads__: 1,279 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Dataflow Service
 
-__Downloads__: 1,526 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,527 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Dataconnectivity](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataconnectivity/34.0.0) | 34.0.0
 
@@ -1681,7 +1705,7 @@ __Downloads__: 20 | __Repository__: https://github.com/jesymoen/PowerShellLogToo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 39,848 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 39,859 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [InboxAccountingDatabaseManagement](https://www.powershellgallery.com/Packages/InboxAccountingDatabaseManagement/1.2.2) | 1.2.2
 
@@ -1706,14 +1730,6 @@ __Downloads__: 28 | __Repository__:
 A PowerShell module that makes interfacing with Appian a little easier
 
 __Downloads__: 20 | __Repository__: https://github.com/Dejulia489/AppianPS
-
-## [ShoutOut](https://www.powershellgallery.com/Packages/ShoutOut/2.1.0) | 2.1.0
-
-### Published: 05/10/2022 11:22:50 by Joakim Olsson <joakim.olsson@adicitus.cloud>.
-
-The ShoutOut logger used in Caffeine and other ACG projects.
-
-__Downloads__: 401 | __Repository__: https://github.com/Adicitus/shoutout
 
 ## [Restore-Git](https://www.powershellgallery.com/Packages/Restore-Git/0.1.1) | 0.1.1
 
@@ -1954,7 +1970,7 @@ __Downloads__: 8 | __Repository__:
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 6,217 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 6,220 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.4) | 3.1.4
 
@@ -1996,7 +2012,7 @@ __Downloads__: 297 | __Repository__: https://github.com/jhoek/UncommonSense.AH
 
 File Management Functions
 
-__Downloads__: 10,501 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 10,504 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AnaforaShell](https://www.powershellgallery.com/Packages/AnaforaShell/1.8.3) | 1.8.3
 
@@ -2102,20 +2118,4 @@ A collection of useful functions for Azure deployment automation
 
 __Downloads__: 2,376 | __Repository__: https://github.com/corvus-dotnet/Corvus.Deployment
 
-## [JSDR.Configuration](https://www.powershellgallery.com/Packages/JSDR.Configuration/3.0.6) | 3.0.6
-
-### Published: 05/05/2022 09:23:05 by JetStream Software
-
-Powershell Module for confguration of JetStream Software on AVS
-
-__Downloads__: 1,620 | __Repository__: https://www.jetstreamsoft.com/about/support/
-
-## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.119) | 0.0.119
-
-### Published: 05/05/2022 01:09:32 by BitTitan
-
-Module for BitTitanPowerShell.
-
-__Downloads__: 7,957 | __Repository__: 
-
-*Updated: Monday, 16 May 2022 02:23:56 UTC*
+*Updated: Monday, 16 May 2022 09:52:18 UTC*
