@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 16 May 2022 09:52:27 UTC
+Updated: Monday, 16 May 2022 17:53:19 UTC
 
 ?:
 ??
@@ -329,7 +329,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-appmgmtcontrol
 apppool
 appraiser
 approve
@@ -357,7 +356,6 @@ archivial-backup
 archivial-cloud-backup
 arcus
 area
-argument
 argumentcompleter
 arguments
 arm
@@ -479,6 +477,7 @@ avalonia
 ave
 avepoint
 avro
+avs
 avset
 await
 awesome
@@ -660,7 +659,6 @@ bin
 bin-obj
 binary
 binaryip
-bind
 binding
 bing
 bingmap
@@ -744,6 +742,7 @@ brk4452
 broadcast
 broot
 browser
+browserextension
 browserhistory
 brs
 bruteforce
@@ -812,7 +811,7 @@ carbon
 card
 cardwirth
 cargo
-carousel
+cartoon
 case
 cassandra
 cat
@@ -873,7 +872,6 @@ certificates
 certificateservices
 certificatesmanagement
 certutil
-cf
 cfn
 ch9
 change
@@ -881,6 +879,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1059,6 +1058,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codepoint
 codereview
 codes
 codesign
@@ -1239,6 +1239,7 @@ cos
 cosmos
 cosmosdb
 cost
+costoptimization
 couchbase
 couchdb
 couchpotato
@@ -1291,7 +1292,6 @@ credmanager
 crescendo
 crescendobuilt
 crestron
-crlf
 crm
 crm2016
 cron
@@ -1378,7 +1378,6 @@ dacl
 dacpac
 dacpackage
 dangling
-dapr
 dark
 dash
 dashboard
@@ -1470,13 +1469,13 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
 dedicatedhsm
 deduplication
 deep
-deepvisibility
 def
 default
 defaultparameter
@@ -1523,6 +1522,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutsch
 deutschland
 dev
@@ -1588,6 +1588,7 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
+dirkjan
 dirsync
 disa
 disable-psremoting
@@ -1687,6 +1688,7 @@ donothing
 dos
 dot
 dotenv
+dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -1702,8 +1704,8 @@ dpa
 dpapi
 dps
 dq
+dr
 draw
-drawio
 dreamweaver
 dreary
 drift
@@ -1810,11 +1812,9 @@ educational
 effectiveroutes
 efi
 eigencontroles
-einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
-element
 elevate
 elevated
 elevatedconsole
@@ -1832,7 +1832,6 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
-emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -1852,7 +1851,6 @@ encodetext
 encoding
 encrypt
 encryption
-end-of-line
 endomondo
 endpoint
 endpoints
@@ -1884,7 +1882,6 @@ environments
 environmentvariable
 environmentvariables
 envvar
-envvars
 eol
 eop
 eperl
@@ -2023,6 +2020,7 @@ extendedproperty
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2188,7 +2186,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
-fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2498,7 +2495,6 @@ healthz
 heartbeatdiscovery
 heat
 heating
-heavenbay
 helix
 hello
 helloid
@@ -2510,7 +2506,6 @@ helper
 helperfunctions
 helpers
 helpfile
-heml
 here
 hewlett
 hewlett-packard
@@ -2538,7 +2533,6 @@ hitrust
 hive
 hivehome
 hjson
-hl7
 hlds
 hls
 hockey
@@ -2630,7 +2624,6 @@ ias
 ib
 ibm
 ibmc
-ibmhttpserver
 icinga
 icinga2
 icinga2mssql
@@ -2666,7 +2659,6 @@ ifconfig
 ifttt
 igel
 igr
-ihs
 iiittttt
 iis
 iis10
@@ -2693,7 +2685,6 @@ imageprocess
 imageprocessing
 images
 imageservicing
-imageslide
 imagevalidate
 imagevalidation
 imagga
@@ -2734,6 +2725,7 @@ infrastructureascode
 ingestion
 inheritance
 ini
+inifile
 initialization
 initials-avatar
 initiator
@@ -2926,6 +2918,7 @@ justenoughadministration
 jwk
 jws
 jwt
+jwttoken
 k8s
 kafka
 kaminario
@@ -2970,9 +2963,9 @@ knowledge
 knowledgebase
 koans
 korn
+kql
 krbtgt
 krick
-kubclt
 kubectl
 kubectx
 kubens
@@ -3047,7 +3040,6 @@ length
 lenovo
 lesspass
 letsencrypt
-lf
 lgpo
 libgit2
 libraries
@@ -3167,6 +3159,7 @@ logrotation
 logs
 logstash
 logtools
+logz
 lol
 lolcat
 longfile
@@ -3277,7 +3270,6 @@ masterconfiguration
 matcharray
 matchhashtable
 materialdesign
-materialui
 math
 mathematics
 matplotlib
@@ -3355,7 +3347,6 @@ mi
 micro-orm
 microfocus
 microk8s
-microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -3369,6 +3360,8 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
+microsoft.logic
+microsoft.logic/workflows
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
@@ -3401,6 +3394,7 @@ milestonepstools
 mim
 mimekit
 min
+mindmeister
 minifier
 minimal
 minimum
@@ -3717,7 +3711,6 @@ nxt
 nyse
 nzb
 o365
-o365mailnotification
 oa
 oacli
 oacmdlets
@@ -3954,6 +3947,7 @@ parameters
 parclient
 pardot
 parititions
+parool
 parquet
 parse
 parser
@@ -3973,7 +3967,6 @@ password_generation
 password-generator
 password-less
 password-manager
-passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -4020,6 +4013,7 @@ pentia
 perforce
 performance
 performance-counters
+performancemonitoring
 permission
 permissions
 permutations
@@ -4216,6 +4210,7 @@ powershelltypeaccelerators
 powershellv5
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -4314,7 +4309,6 @@ provider
 providerhub
 provision
 provisioning
-provisioningpackage
 provisonedpackage
 prowl
 prowl-notifications
@@ -4364,7 +4358,6 @@ psdeploy
 psdevops
 psdocs
 psdocs-documents
-psdrawio
 psdrive
 psdrives
 psdsc
@@ -4510,6 +4503,7 @@ pxedistributionpoint
 pyranja
 python
 python-for-dotnet
+qcloud
 qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
@@ -4646,6 +4640,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register-argumentcompleter
 registration
 registry
 regression
@@ -4766,6 +4761,7 @@ ribbon
 ribcl
 rightjoin
 rights
+rightsizing
 ripe
 risk
 riskiq
@@ -4834,14 +4830,12 @@ rundeck
 runner
 runspace
 runspacepool
-runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
 russia
 rust
 rust-lang
-ryanairps
 ryver
 s.ds.p
 s3
@@ -4947,7 +4941,6 @@ script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
-scriptbook
 scriptcop
 scriptcreation
 scriptcs
@@ -5041,7 +5034,6 @@ sensor
 sensors
 sensu
 sentinel
-sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5104,6 +5096,7 @@ sevenzip
 sf
 sfb
 sftp
+sfx
 sgw
 sha256
 shadow
@@ -5149,6 +5142,7 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -5169,8 +5163,6 @@ single
 singlestore
 singleton
 sinks
-sintez
-sintez.module.rds
 site
 site_navigation
 sitecollection
@@ -5521,7 +5513,7 @@ swarm
 swimlane
 swis
 switch
-sxs
+sybase
 sybaseiq
 symantec
 symbolic
@@ -5584,7 +5576,6 @@ tablestorage
 tabs
 tabular
 tag
-tag-requiredmodule1-1.0
 tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
@@ -5716,7 +5707,6 @@ threat-hunting
 threathunting
 threatintelligence
 throttle
-thumbprint
 thunderbird
 thycotic
 tic-tac-toe
@@ -5747,7 +5737,6 @@ toggl
 toggle
 token
 tokenlifetime
-tokens
 tookit
 tool
 toolbox
@@ -5866,6 +5855,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -6125,6 +6115,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6173,6 +6164,7 @@ vocabularies
 voice
 voiceconfig
 voidtools
+volkskrant
 volume
 volumeshadowcopy
 volumio
