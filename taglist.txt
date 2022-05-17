@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 16 May 2022 17:53:19 UTC
+Updated: Tuesday, 17 May 2022 02:32:33 UTC
 
 ?:
 ??
@@ -329,6 +329,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+appmgmtcontrol
 apppool
 appraiser
 approve
@@ -356,6 +357,7 @@ archivial-backup
 archivial-cloud-backup
 arcus
 area
+argument
 argumentcompleter
 arguments
 arm
@@ -393,6 +395,7 @@ asp.net
 aspnet
 aspnet_regiis
 asr
+assembleenationale
 assemblymeta
 assert
 assertion
@@ -659,6 +662,7 @@ bin
 bin-obj
 binary
 binaryip
+bind
 binding
 bing
 bingmap
@@ -811,6 +815,7 @@ carbon
 card
 cardwirth
 cargo
+carousel
 cartoon
 case
 cassandra
@@ -872,6 +877,7 @@ certificates
 certificateservices
 certificatesmanagement
 certutil
+cf
 cfn
 ch9
 change
@@ -1292,6 +1298,7 @@ credmanager
 crescendo
 crescendobuilt
 crestron
+crlf
 crm
 crm2016
 cron
@@ -1378,6 +1385,7 @@ dacl
 dacpac
 dacpackage
 dangling
+dapr
 dark
 dash
 dashboard
@@ -1476,6 +1484,7 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deepvisibility
 def
 default
 defaultparameter
@@ -1499,6 +1508,7 @@ dellemc
 delta
 demand
 demo
+democratie
 demonstration
 demultiplex
 demultiplexing
@@ -1509,6 +1519,7 @@ deployment
 deploymentconfig
 deploymentmanager
 deploymentresourceprovider
+depute
 der
 description
 deserialize
@@ -1706,6 +1717,7 @@ dps
 dq
 dr
 draw
+drawio
 dreamweaver
 dreary
 drift
@@ -1812,15 +1824,16 @@ educational
 effectiveroutes
 efi
 eigencontroles
+einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
+element
 elevate
 elevated
 elevatedconsole
 elevatedmode
 elgato
-elk
 elm
 elonmusk
 eloqua
@@ -1832,6 +1845,7 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
+emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -1851,6 +1865,7 @@ encodetext
 encoding
 encrypt
 encryption
+end-of-line
 endomondo
 endpoint
 endpoints
@@ -1882,6 +1897,7 @@ environments
 environmentvariable
 environmentvariables
 envvar
+envvars
 eol
 eop
 eperl
@@ -2186,6 +2202,7 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2203,6 +2220,7 @@ fox
 foxpro
 fqdn
 framework
+france
 freeipa
 freenas
 freesoftwarefoundation
@@ -2495,6 +2513,7 @@ healthz
 heartbeatdiscovery
 heat
 heating
+heavenbay
 helix
 hello
 helloid
@@ -2506,6 +2525,7 @@ helper
 helperfunctions
 helpers
 helpfile
+heml
 here
 hewlett
 hewlett-packard
@@ -2533,6 +2553,7 @@ hitrust
 hive
 hivehome
 hjson
+hl7
 hlds
 hls
 hockey
@@ -2624,6 +2645,7 @@ ias
 ib
 ibm
 ibmc
+ibmhttpserver
 icinga
 icinga2
 icinga2mssql
@@ -2659,6 +2681,7 @@ ifconfig
 ifttt
 igel
 igr
+ihs
 iiittttt
 iis
 iis10
@@ -2685,6 +2708,7 @@ imageprocess
 imageprocessing
 images
 imageservicing
+imageslide
 imagevalidate
 imagevalidation
 imagga
@@ -2949,7 +2973,6 @@ keylight
 keymanagement
 keypair
 keyvault
-kibana
 kickstart
 kidrsa
 kill
@@ -2966,6 +2989,7 @@ korn
 kql
 krbtgt
 krick
+kubclt
 kubectl
 kubectx
 kubens
@@ -3040,6 +3064,7 @@ length
 lenovo
 lesspass
 letsencrypt
+lf
 lgpo
 libgit2
 libraries
@@ -3270,6 +3295,7 @@ masterconfiguration
 matcharray
 matchhashtable
 materialdesign
+materialui
 math
 mathematics
 matplotlib
@@ -3347,6 +3373,7 @@ mi
 micro-orm
 microfocus
 microk8s
+microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -3711,6 +3738,7 @@ nxt
 nyse
 nzb
 o365
+o365mailnotification
 oa
 oacli
 oacmdlets
@@ -3815,6 +3843,7 @@ open-ai
 open-ssh
 openai
 openapi
+opendata
 openedge
 openfiles
 openhere
@@ -3967,6 +3996,7 @@ password_generation
 password-generator
 password-less
 password-manager
+passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -4309,6 +4339,7 @@ provider
 providerhub
 provision
 provisioning
+provisioningpackage
 provisonedpackage
 prowl
 prowl-notifications
@@ -4358,6 +4389,7 @@ psdeploy
 psdevops
 psdocs
 psdocs-documents
+psdrawio
 psdrive
 psdrives
 psdsc
@@ -4636,6 +4668,7 @@ reflection
 refresh
 refreshtoken
 reg
+regardscitoyen
 regex
 region
 regions
@@ -4830,12 +4863,14 @@ rundeck
 runner
 runspace
 runspacepool
+runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
 russia
 rust
 rust-lang
+ryanairps
 ryver
 s.ds.p
 s3
@@ -4941,6 +4976,7 @@ script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
+scriptbook
 scriptcop
 scriptcreation
 scriptcs
@@ -5021,6 +5057,8 @@ selfsigned
 semantic
 semantic-versioning
 semver
+senat
+senateur
 send
 send-logtologanalytics
 send-mailmessage
@@ -5034,6 +5072,7 @@ sensor
 sensors
 sensu
 sentinel
+sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5163,6 +5202,8 @@ single
 singlestore
 singleton
 sinks
+sintez
+sintez.module.rds
 site
 site_navigation
 sitecollection
@@ -5513,6 +5554,7 @@ swarm
 swimlane
 swis
 switch
+sxs
 sybase
 sybaseiq
 symantec
@@ -5576,6 +5618,7 @@ tablestorage
 tabs
 tabular
 tag
+tag-requiredmodule1-1.0
 tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
@@ -5707,6 +5750,7 @@ threat-hunting
 threathunting
 threatintelligence
 throttle
+thumbprint
 thunderbird
 thycotic
 tic-tac-toe
@@ -5737,6 +5781,7 @@ toggl
 toggle
 token
 tokenlifetime
+tokens
 tookit
 tool
 toolbox
@@ -5896,6 +5941,7 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
+ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
