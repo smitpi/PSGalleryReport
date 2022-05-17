@@ -5,6 +5,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Cloud.Governance.Client](https://www.powershellgallery.com/Packages/Cloud.Governance.Client/5.5.2) | 5.5.2
+
+### Published: 05/17/2022 08:14:52 by AvePointInc
+
+A PowerShell client for AvePoint Cloud Governance public REST endpoints providing the functionalities of Cloud Governance.
+
+__Downloads__: 1,880 | __Repository__: https://github.com/AvePoint/cloud-governance-client
+
+## [oh-my-posh](https://www.powershellgallery.com/Packages/oh-my-posh/7.85.2) | 7.85.2
+
+### Published: 05/17/2022 07:00:14 by Jan De Dobbeleer
+
+A prompt theme engine for any shell
+
+__Downloads__: 1,511,783 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+
 ## [kubetools](https://www.powershellgallery.com/Packages/kubetools/0.3) | 0.3
 
 ### Published: 05/17/2022 01:10:30 by Trevor Sullivan <trevor@trevorsullivan.net>
@@ -27,7 +43,7 @@ __Downloads__: 0 | __Repository__: https://github.com/derpenstiltskin/onedrivesh
 
 MMSMOA Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 206,771 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 206,768 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.62.1) | 1.62.1
 
@@ -86,14 +102,6 @@ For more information, please visit the https://davideberhardt.wordpress.com/ or 
 
 __Downloads__: 2,193 | __Repository__: 
 
-## [oh-my-posh](https://www.powershellgallery.com/Packages/oh-my-posh/7.85.1) | 7.85.1
-
-### Published: 05/16/2022 16:13:44 by Jan De Dobbeleer
-
-A prompt theme engine for any shell
-
-__Downloads__: 1,511,788 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
-
 ## [UMN-AutoPackager](https://www.powershellgallery.com/Packages/UMN-AutoPackager/1.0.39) | 1.0.39
 
 ### Published: 05/16/2022 14:35:11 by Jeff Bolduan Matt Thoen Greg Slavik
@@ -148,7 +156,7 @@ __Downloads__: 197 | __Repository__:
 
 A module that can interact with the Episerver Cloud
 
-__Downloads__: 126,105 | __Repository__: 
+__Downloads__: 126,141 | __Repository__: 
 
 ## [NTware.Ufo.PowerShell.ObjectManagement](https://www.powershellgallery.com/Packages/NTware.Ufo.PowerShell.ObjectManagement/2022.2.0.1) | 2022.2.0.1
 
@@ -196,7 +204,7 @@ __Downloads__: 23 | __Repository__: https://github.com/eryph-org/dotnet-commoncl
 
 Little project to create Excel files without Microsoft Excel being installed.
 
-__Downloads__: 74,534 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
+__Downloads__: 74,537 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
 
 ## [Eryph.ClientRuntime.Configuration](https://www.powershellgallery.com/Packages/Eryph.ClientRuntime.Configuration/0.3.0) | 0.3.0
 
@@ -239,7 +247,7 @@ __Downloads__: 14 | __Repository__: https://github.com/tabs-not-spaces/Intune.Lo
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 556,049 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 556,754 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [AuditPolicy](https://www.powershellgallery.com/Packages/AuditPolicy/0.0.3) | 0.0.3
 
@@ -382,7 +390,7 @@ __Downloads__: 1,669 | __Repository__: https://github.com/Adicitus/acgcore
 
 A PowerShell Crescendo wrapper for WinGet
 
-__Downloads__: 9,575 | __Repository__: https://github.com/ethanbergstrom/Cobalt
+__Downloads__: 9,591 | __Repository__: https://github.com/ethanbergstrom/Cobalt
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5) | 0.5
 
@@ -460,7 +468,7 @@ __Downloads__: 769 | __Repository__: https://github.com/icraftsoftware/Be.Statel
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 1,801,780 | __Repository__: http://psframework.org/
+__Downloads__: 1,802,470 | __Repository__: http://psframework.org/
 
 ## [ADGraph](https://www.powershellgallery.com/Packages/ADGraph/1.0.3) | 1.0.3
 
@@ -561,7 +569,7 @@ __Downloads__: 489 | __Repository__: https://github.com/ScottColson/CCLLC.CDS.De
 
 This DSC module is used to deploy and configure SharePoint Server 2013, 2016 and 2019, and covers a wide range of areas including web apps, service apps and farm configuration.
 
-__Downloads__: 344,131 | __Repository__: https://github.com/dsccommunity/SharePointDsc
+__Downloads__: 344,133 | __Repository__: https://github.com/dsccommunity/SharePointDsc
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.1) | 1.5.1
 
@@ -569,7 +577,7 @@ __Downloads__: 344,131 | __Repository__: https://github.com/dsccommunity/SharePo
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 307,162 | __Repository__: 
+__Downloads__: 307,195 | __Repository__: 
 
 ## [PSGitCompletions](https://www.powershellgallery.com/Packages/PSGitCompletions/2.36.0) | 2.36.0
 
@@ -705,7 +713,7 @@ __Downloads__: 807 | __Repository__: https://github.com/baswijdenes/Optimized.Mg
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 13,065 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 13,067 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.10.0) | 4.10.0
 
@@ -713,7 +721,7 @@ __Downloads__: 13,065 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 10,385 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 10,387 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [RestConnect](https://www.powershellgallery.com/Packages/RestConnect/1.0.9) | 1.0.9
 
@@ -875,7 +883,7 @@ __Downloads__: 5,245,771 | __Repository__: https://github.com/TheJumpCloud/suppo
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,593,327 | __Repository__: https://dbatools.io/
+__Downloads__: 1,593,312 | __Repository__: https://dbatools.io/
 
 ## [ALLanguageTools](https://www.powershellgallery.com/Packages/ALLanguageTools/0.1.1) | 0.1.1
 
@@ -923,7 +931,7 @@ __Downloads__: 102 | __Repository__: https://github.com/baswijdenes/Optimized.Mg
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,861,024 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,861,539 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.12) | 1.0.12
 
@@ -963,7 +971,7 @@ __Downloads__: 60 | __Repository__: https://github.com/archmachina/ps-reportrunn
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 1,908,771 | __Repository__: https://vcredist.com/
+__Downloads__: 1,908,907 | __Repository__: https://vcredist.com/
 
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.5.10.1) | 22.5.10.1
 
@@ -977,7 +985,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 259,427 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 259,508 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [DatabricksPS](https://www.powershellgallery.com/Packages/DatabricksPS/1.9.9.11) | 1.9.9.11
 
@@ -985,7 +993,7 @@ __Downloads__: 259,427 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 A powershell module to interact with the Databricks APIs on Azure, AWS and GCP. Dedicated cmdlets for import/export of whole Databricks workspaces (notebooks, clusters, jobs, ...) for CI/CD pipelines. Full support for pipelining commands.
 
-__Downloads__: 112,862 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
+__Downloads__: 112,908 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/34.0.0) | 34.0.0
 
@@ -1922,7 +1930,7 @@ __Downloads__: 10 | __Repository__: https://github.com/jamesandariese/container-
 
 PowerShell script packaging, console-based editor, profiling, installer creation, WPF, TUI and Windows Forms design, and desktop automation.
 
-__Downloads__: 18,119 | __Repository__: 
+__Downloads__: 18,120 | __Repository__: 
 
 ## [TMConsole.Provider.Amazon.AWS](https://www.powershellgallery.com/Packages/TMConsole.Provider.Amazon.AWS/1.0.0.0) | 1.0.0.0
 
@@ -2051,7 +2059,7 @@ __Downloads__: 882 | __Repository__: https://github.com/fbprogmbh/Audit-Test-Aut
 
 This module contains DSC resources for deployment and configuration of Microsoft DHCP Server.
 
-__Downloads__: 242,116 | __Repository__: https://github.com/dsccommunity/xDhcpServer
+__Downloads__: 242,118 | __Repository__: https://github.com/dsccommunity/xDhcpServer
 
 ## [ServiceNow](https://www.powershellgallery.com/Packages/ServiceNow/3.1.11) | 3.1.11
 
@@ -2059,7 +2067,7 @@ __Downloads__: 242,116 | __Repository__: https://github.com/dsccommunity/xDhcpSe
 
 Automate against ServiceNow service and asset management.  This module can be used standalone or with Azure Automation.
 
-__Downloads__: 172,129 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
+__Downloads__: 172,066 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
 ## [ListFunctions](https://www.powershellgallery.com/Packages/ListFunctions/1.2.0) | 1.2.0
 
@@ -2109,12 +2117,4 @@ Manage (create, extend, import, export) Azure B2C xml IEF policy sets used for c
 
 __Downloads__: 1,620 | __Repository__: https://github.com/mrochon/IEFPolicies
 
-## [AzAuth](https://www.powershellgallery.com/Packages/AzAuth/1.1.1) | 1.1.1
-
-### Published: 05/05/2022 21:31:53 by Emanuel Palm
-
-A lightweight PowerShell module to handle Azure authentication, using the Azure.Identity library.
-
-__Downloads__: 36 | __Repository__: https://github.com/PalmEmanuel/AzAuth
-
-*Updated: Tuesday, 17 May 2022 02:32:24 UTC*
+*Updated: Tuesday, 17 May 2022 09:52:53 UTC*
