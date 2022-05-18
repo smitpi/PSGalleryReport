@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 18 May 2022 09:53:38 UTC
+Updated: Wednesday, 18 May 2022 17:53:52 UTC
 
 ?:
 ??
@@ -548,7 +548,6 @@ azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
 azuredataexplorer
-azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
@@ -651,6 +650,7 @@ bibtex
 bicep
 bicepnet
 big-ip
+big-iq
 bigcommerce
 bigeval
 bigfix
@@ -686,6 +686,7 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
+blackbox
 blacklist
 blade
 bladeserver
@@ -693,9 +694,7 @@ blaze
 blob
 blobstorage
 block
-block-kit
 blockchain
-blocks
 blog
 blogs
 bls
@@ -1622,6 +1621,7 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
+distributedcache
 distributedfilesystem
 distribution
 distributiongroup
@@ -1768,7 +1768,6 @@ dudckduckgo
 duf
 dummy
 dummyusers
-dump
 duplicate
 duplicate-files
 duplicatioin
@@ -1990,7 +1989,6 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
-exclusion
 excuse
 exe
 exec
@@ -2168,7 +2166,6 @@ flatfile
 flatten
 flex
 flex-query
-flexdesk
 flickr
 flowchart
 flowy
@@ -2465,6 +2462,7 @@ haloservicesolutions
 hamradiodeluxe
 hana
 hanaon
+handle
 handler
 hangouts
 hannelstoolbox
@@ -2537,7 +2535,6 @@ hiera
 hierarchialdistributionlist
 hierarchical
 high-availability
-highlight
 highlighting
 highrise
 hipaa
@@ -2779,7 +2776,6 @@ intacct
 integrated
 integratedscriptingeditor
 integration
-integrationaccount
 integrationservicescatalog
 integrity
 intel
@@ -2846,7 +2842,6 @@ ipp
 iprange
 ipv4
 ipv6
-ipynb
 ir
 irc
 irkit
@@ -2874,7 +2869,6 @@ iterate
 iteration
 itg
 itglue
-itop
 itsm
 itstore
 ivanti
@@ -2931,7 +2925,6 @@ jumpcloud
 jumpstart
 junction
 junctions
-jupyter
 jupytor
 justenoughadministration
 jwk
@@ -2971,6 +2964,7 @@ keyvault
 kibana
 kickstart
 kidrsa
+kill
 kindle
 kintone
 klantcontroles
@@ -3127,6 +3121,7 @@ locationbasedservices
 lock
 lockdisplaytimeout
 lockdown
+locking
 lockoutreport
 lockscreen
 lockstep
@@ -3313,6 +3308,7 @@ mdatp
 mdb
 mdbc
 mde
+mdm
 mdop
 mdt
 mdx
@@ -3351,6 +3347,7 @@ messagebox
 messages
 messaging
 messenger
+met
 metadata
 metadataservice
 metaprogramming
@@ -3359,6 +3356,7 @@ methodinfo
 methods
 metric
 metrics
+metrolink
 mfa
 mga
 mi
@@ -3791,6 +3789,7 @@ ome
 omnisphere
 omnistack
 oms
+omsagent
 on
 on-demand
 on-premise
@@ -3851,6 +3850,8 @@ operating-system
 operation
 operationalinsights
 operations
+operationsmanagementsuite
+operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
@@ -4251,6 +4252,7 @@ prepend
 preprocessing
 preprocessor
 presenter
+presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4477,6 +4479,7 @@ pszabbix
 pubg
 public
 public-key
+public-transport
 publicapi
 publicclient
 publicfolder
@@ -4535,7 +4538,6 @@ qlogicfcprovider
 qna
 qol
 qq
-qr
 qrcode
 qrp
 quality
@@ -4950,6 +4952,7 @@ scrape
 scraper
 screen
 screencap
+screencapture
 screenconnect
 screenfetch
 screenresolution
@@ -5071,6 +5074,7 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
+serverless
 servermanagement
 servers
 service
@@ -5115,7 +5119,6 @@ setting
 settings
 setup
 sevenzip
-sf
 sfb
 sftp
 sfx
@@ -5153,6 +5156,7 @@ shopify
 shortcut
 shortcuts
 shortpath
+shotgun
 show
 show-command
 show-on-command
@@ -5264,6 +5268,7 @@ soap
 soc
 soccer
 social
+social-media
 socialmedia
 socketlabs
 sockets
@@ -5464,6 +5469,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -5535,6 +5541,7 @@ swimlane
 swis
 switch
 sxs
+sybase
 sybaseiq
 symantec
 symbolic
@@ -5598,6 +5605,7 @@ tabs
 tabular
 tag
 tag-requiredmodule1-1.0
+tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
@@ -5789,6 +5797,7 @@ trafficmanager
 trafficmarking
 train
 training
+tram
 transact
 transaction
 transactions
@@ -5850,6 +5859,8 @@ twincat
 twinkly
 twitch
 twitter
+twitter-api
+twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
@@ -6096,7 +6107,6 @@ veeva
 venafi
 vendor
 venue
-venvlink
 vera
 veracrypt
 verbose
@@ -6117,7 +6127,6 @@ videos
 vie
 viewer
 viewgroup
-vigenere
 vim
 vimode
 virole
