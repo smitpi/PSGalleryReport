@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 17 May 2022 17:53:53 UTC
+Updated: Wednesday, 18 May 2022 02:29:47 UTC
 
 ?:
 ??
@@ -239,6 +239,7 @@ all
 alletra
 alm
 almrangers
+alpha
 alphafs
 alpine
 alpr
@@ -350,12 +351,12 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
 arcus
 area
-argument
 argumentcompleter
 arguments
 arm
@@ -368,6 +369,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -649,7 +651,6 @@ bicep
 bicepnet
 big-ip
 big-iq
-bigcommerce
 bigeval
 bigfix
 bigquery
@@ -692,9 +693,7 @@ blaze
 blob
 blobstorage
 block
-block-kit
 blockchain
-blocks
 blog
 blogs
 bls
@@ -874,6 +873,7 @@ certificates
 certificateservices
 certificatesmanagement
 certutil
+cf
 cfn
 ch9
 change
@@ -1030,6 +1030,7 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1342,6 +1343,7 @@ current
 custom
 customchecks
 customer
+customerengagement
 customers
 customevents
 custominformationservices
@@ -1368,6 +1370,7 @@ cylance
 cypher
 cyrillic
 d365
+d365ce
 d365f&o
 d365fo
 d365lbd
@@ -1566,7 +1569,6 @@ diagrams
 dialog
 dice
 diceware
-dicom
 dictionary
 diff
 difference
@@ -1644,9 +1646,7 @@ dns
 dns-01
 dns-administration
 dns-async
-dns-client
 dns-over-https
-dns-resolver
 dnsbl
 dnsdumpster
 dnsentry
@@ -1781,7 +1781,9 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
+dynamics365ce
 dynamics365fo
+dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2829,6 +2831,7 @@ ip-address
 ipa
 ipaddress
 ipam
+ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -2987,7 +2990,6 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
-kubespray
 kudu
 kurukuru
 kusto
@@ -3434,7 +3436,6 @@ mlflow
 mmdc
 mobile
 mobilitycontroller
-mock
 mocking
 modify
 module
@@ -3542,6 +3543,7 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
+musiccast
 mustache
 mutation
 mute
@@ -4167,7 +4169,6 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
-position
 postgre
 postgres
 postgresql
@@ -4639,10 +4640,7 @@ redfish
 redforest
 redgate
 redirect
-redirecting
 redirects
-redirectstandarderror
-redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -4741,7 +4739,6 @@ resolution
 resolve
 resolve-stache
 resolve-template
-resolver
 resource
 resource_monitor
 resource_watcher
@@ -5134,7 +5131,6 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
-shard
 share
 share-permission
 share-stat
@@ -5446,7 +5442,6 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
-stderr
 stdout
 steam
 steam-games
@@ -5618,6 +5613,7 @@ tagging
 tags
 tak
 taken
+tally
 talxis
 tanzu
 tar
@@ -5682,7 +5678,6 @@ termset
 ternary
 terraform
 terraformcloud
-terrafun
 tesla
 test
 test-dscconfiguration
@@ -5944,6 +5939,7 @@ ud-wordtree
 udcm
 udfeedback
 udp
+udpclient
 udptest
 udr
 udthememode
@@ -6366,7 +6362,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-registry
@@ -6392,7 +6387,6 @@ windowsplugins
 windowspowershell
 windowspresentationfoundation
 windowsrest
-windowssandbox
 windowsserver
 windowsserver2008
 windowsserver2012
@@ -6439,6 +6433,8 @@ wmi
 wmifilter
 wmipermanentevents
 wol
+wolfram
+wolframalpha
 woocommerce
 woolworths
 woolworthsrewards
@@ -6565,6 +6561,7 @@ xwiki
 xwindowsupdate
 yahoo
 yahw
+yamaha
 yaml
 yandex
 yarn
