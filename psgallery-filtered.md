@@ -5,6 +5,92 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [TfsCmdlets](https://www.powershellgallery.com/Packages/TfsCmdlets/2.3.2) | 2.3.2
+
+### Published: 05/18/2022 08:01:51 by Igor Abade V. Leite
+
+PowerShell Cmdlets for Azure DevOps and Team Foundation Server
+
+__Downloads__: 6,930 | __Repository__: https://github.com/igoravl/tfscmdlets/
+
+## [PSWinReportingV2](https://www.powershellgallery.com/Packages/PSWinReportingV2/2.0.22) | 2.0.22
+
+### Published: 05/18/2022 07:24:04 by Przemyslaw Klys
+
+PSWinReportingV2 is fast and efficient Event Viewing, Event Reporting and Event Collecting tool. It's version 2 of known PSWinReporting PowerShell module and can work next to it.
+
+__Downloads__: 51,952 | __Repository__: https://github.com/EvotecIT/PSWinReporting
+
+## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/1.0.19) | 1.0.19
+
+### Published: 05/18/2022 07:22:44 by Przemyslaw Klys
+
+Simple module allowing parsing of event logs. Has its own quirks...
+
+__Downloads__: 172,090 | __Repository__: https://github.com/EvotecIT/PSEventViewer
+
+## [SCCMStuff](https://www.powershellgallery.com/Packages/SCCMStuff/1.0.0) | 1.0.0
+
+### Published: 05/18/2022 07:03:56 by @AndrewZtrhgf
+
+Various Azure related functions. Some of them are explained at https://doitpsway.com.
+
+Some of the interesting functions:
+- Add-CMDeviceToCollection - adding selected device to selected collection
+- Clear-CMClientCache - clearing SCCM client cache
+- Connect-SCCM - making remote session to SCCM server
+- Get-CMLog - openning the correct SCCM client/server log(s) based on specified topic
+- Invoke-CMAdminServiceQuery - invoking query against SCCM Admin Service
+- Invoke-CMAppInstall - invoking installation of deployed application(s) on the client
+- Invoke-CMComplianceEvaluation - invoking of compliance validations
+- Refresh-CMCollection - refreshing SCCM collection members
+- Update-CMAppSourceContent - updating source data of the application
+- Update-CMClientPolicy - updating of SCCM client policies (like gpupdate for GPO)
+- ...
+
+__Downloads__: 0 | __Repository__: 
+
+## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.0.7) | 1.0.7
+
+### Published: 05/18/2022 07:03:05 by @AndrewZtrhgf
+
+Various Azure related functions. Some of them are explained at https://doitpsway.com.
+
+Some of the interesting functions:
+- Get-AzureADAccountOccurrence - for getting all occurrences of specified account in your Azure environment
+- Get-AzureADAppConsentRequest - for getting all application admin consent requests
+- Get-AzureDevOpsOrganizationOverview - list of all DevOps organizations
+- Add-AzureADAppCertificate - add the certificate (existing or create self-signed) to selected Azure application as an secret
+- Add-AzureADAppUserConsent - granting permission consent on behalf of another user
+- ...
+
+Some of the authentication-related functions:
+- New-AzureDevOpsAuthHeader
+- New-GraphAPIAuthHeader
+
+__Downloads__: 51 | __Repository__: 
+
+## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.1) | 1.0.1
+
+### Published: 05/18/2022 07:02:35 by @AndrewZtrhgf
+
+Various Intune related functions. Some of them are explained at https://doitpsway.com.
+
+Some of the interesting functions:
+- Get-ClientIntunePolicyResult - RSOP/gpresult for Intune
+- Invoke-IntuneScriptRedeploy - redeploy script deployed from Intune
+- Invoke-IntuneWin32AppRedeploy - redeploy application deployed from Intune
+
+__Downloads__: 1 | __Repository__: 
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22137.30375) | 4.4.22137.30375
+
+### Published: 05/18/2022 03:49:56 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 2,864,309 | __Repository__: https://www.red-gate.com/sca/productpage
+
 ## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.108) | 2.0.108
 
 ### Published: 05/18/2022 02:09:48 by Dylan Haskins and Eugene Van Staden
@@ -19,7 +105,7 @@ __Downloads__: 6,390 | __Repository__: https://github.com/dylanhaskins/Microsoft
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,246,335 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,246,333 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/34.1.0) | 34.1.0
 
@@ -444,7 +530,7 @@ __Downloads__: 397 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Identity Service
 
-__Downloads__: 2,205 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,200 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/34.1.0) | 34.1.0
 
@@ -908,39 +994,7 @@ __Downloads__: 62 | __Repository__: https://github.com/archmachina/ps-reportrunn
 
 This DSC module is used to manage Secure Channel (SChannel) configurations.
 
-__Downloads__: 10,439 | __Repository__: https://github.com/dsccommunity/SChannelDsc
-
-## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.0.5) | 1.0.5
-
-### Published: 05/17/2022 12:08:08 by @AndrewZtrhgf
-
-Various Azure related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the functions:
-- Get-AzureADAccountOccurrence - for getting all account occurrences in your Azure environment
-- Get-AzureADAppConsentRequest - for getting all application admin consent requests
-- Get-AzureDevOpsOrganizationOverview - list of all DevOps organizations
-- Add-AzureADAppCertificate - add the certificate (existing or create self-signed) to selected Azure application as an secret
-- Add-AzureADAppUserConsent - granting permission consent on behalf of another user
-
-Some of the authentication-related functions:
-- New-AzureDevOpsAuthHeader
-- New-GraphAPIAuthHeader
-
-__Downloads__: 51 | __Repository__: 
-
-## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.0) | 1.0.0
-
-### Published: 05/17/2022 12:04:19 by @AndrewZtrhgf
-
-Various Intune related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the interesting functions:
-- Get-ClientIntunePolicyResult - RSOP/gpresult for Intune
-- Invoke-IntuneScriptRedeploy - redeploy script deployed from Intune
-- Invoke-IntuneWin32AppRedeploy - redeploy application deployed from Intune
-
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 10,433 | __Repository__: https://github.com/dsccommunity/SChannelDsc
 
 ## [Elizium.Loopz](https://www.powershellgallery.com/Packages/Elizium.Loopz/4.1.0) | 4.1.0
 
@@ -964,7 +1018,7 @@ __Downloads__: 28 | __Repository__: https://github.com/archmachina/ps-certcheck/
 
 Automate against ServiceNow service and asset management.  This module can be used standalone or with Azure Automation.
 
-__Downloads__: 172,561 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
+__Downloads__: 172,554 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/3.0.8) | 3.0.8
 
@@ -988,7 +1042,7 @@ __Downloads__: 1,888 | __Repository__: https://github.com/AvePoint/cloud-governa
 
 A prompt theme engine for any shell
 
-__Downloads__: 1,512,844 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 1,512,942 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## [kubetools](https://www.powershellgallery.com/Packages/kubetools/0.3) | 0.3
 
@@ -1020,7 +1074,7 @@ __Downloads__: 1,986 | __Repository__: https://github.com/chris-peterson/pwsh-gi
 
 This module facilitates interaction with the ConnectWise Manage REST API via PowerShell
 
-__Downloads__: 5,742 | __Repository__: https://github.com/pncit/cwmApi
+__Downloads__: 5,741 | __Repository__: https://github.com/pncit/cwmApi
 
 ## [JAz.PIM](https://www.powershellgallery.com/Packages/JAz.PIM/0.0.6) | 0.0.6
 
@@ -1061,7 +1115,7 @@ __Downloads__: 3 | __Repository__: https://github.com/andysvints/BrowserExtensio
 Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
 For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
 
-__Downloads__: 2,196 | __Repository__: 
+__Downloads__: 2,195 | __Repository__: 
 
 ## [UMN-AutoPackager](https://www.powershellgallery.com/Packages/UMN-AutoPackager/1.0.39) | 1.0.39
 
@@ -1117,7 +1171,7 @@ __Downloads__: 198 | __Repository__:
 
 A module that can interact with the Episerver Cloud
 
-__Downloads__: 126,650 | __Repository__: 
+__Downloads__: 126,646 | __Repository__: 
 
 ## [NTware.Ufo.PowerShell.ObjectManagement](https://www.powershellgallery.com/Packages/NTware.Ufo.PowerShell.ObjectManagement/2022.2.0.1) | 2022.2.0.1
 
@@ -1165,7 +1219,7 @@ __Downloads__: 24 | __Repository__: https://github.com/eryph-org/dotnet-commoncl
 
 Little project to create Excel files without Microsoft Excel being installed.
 
-__Downloads__: 74,566 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
+__Downloads__: 74,565 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
 
 ## [Eryph.ClientRuntime.Configuration](https://www.powershellgallery.com/Packages/Eryph.ClientRuntime.Configuration/0.3.0) | 0.3.0
 
@@ -1208,7 +1262,7 @@ __Downloads__: 21 | __Repository__: https://github.com/tabs-not-spaces/Intune.Lo
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 559,701 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 559,697 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [AuditPolicy](https://www.powershellgallery.com/Packages/AuditPolicy/0.0.3) | 0.0.3
 
@@ -1311,7 +1365,7 @@ __Downloads__: 106 | __Repository__: https://github.com/max-ieremenko/ThirdParty
 
 Package Management (OneGet) provider that facilitates installing WinGet packages from any NuGet repository.
 
-__Downloads__: 21,099 | __Repository__: https://github.com/ethanbergstrom/WinGet
+__Downloads__: 21,098 | __Repository__: https://github.com/ethanbergstrom/WinGet
 
 ## [Sampler](https://www.powershellgallery.com/Packages/Sampler/0.114.0) | 0.114.0
 
@@ -1327,7 +1381,7 @@ __Downloads__: 38,128 | __Repository__: https://github.com/gaelcolas/Sampler
 
 Pure Storage FlashArray REST API integration with Windows PowerShell.
 
-__Downloads__: 28,903 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK
+__Downloads__: 28,894 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK
 
 ## [PureStoragePowerShellSDK2](https://www.powershellgallery.com/Packages/PureStoragePowerShellSDK2/2.2.276.0) | 2.2.276.0
 
@@ -1351,7 +1405,7 @@ __Downloads__: 1,694 | __Repository__: https://github.com/Adicitus/acgcore
 
 A PowerShell Crescendo wrapper for WinGet
 
-__Downloads__: 9,640 | __Repository__: https://github.com/ethanbergstrom/Cobalt
+__Downloads__: 9,639 | __Repository__: https://github.com/ethanbergstrom/Cobalt
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5) | 0.5
 
@@ -1429,7 +1483,7 @@ __Downloads__: 769 | __Repository__: https://github.com/icraftsoftware/Be.Statel
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 1,808,649 | __Repository__: http://psframework.org/
+__Downloads__: 1,808,654 | __Repository__: http://psframework.org/
 
 ## [ADGraph](https://www.powershellgallery.com/Packages/ADGraph/1.0.3) | 1.0.3
 
@@ -1482,7 +1536,7 @@ __Downloads__: 269 | __Repository__: https://github.com/danielberber/Kraken
 
 Universal Dashbord v3 framework for Powershell Universal
 
-__Downloads__: 80,508 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+__Downloads__: 80,506 | __Repository__: https://www.ironmansoftware.com/powershell-universal
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/2.11.1) | 2.11.1
 
@@ -1522,7 +1576,7 @@ __Downloads__: 2 | __Repository__: https://github.com/FriedrichWeinmann/MDCA
 
 This module provides a way to import and export document templates.
 
-__Downloads__: 497 | __Repository__: https://github.com/ScottColson/CCLLC.CDS.DevOps.PowerShell
+__Downloads__: 495 | __Repository__: https://github.com/ScottColson/CCLLC.CDS.DevOps.PowerShell
 
 ## [SharePointDSC](https://www.powershellgallery.com/Packages/SharePointDSC/5.2.0) | 5.2.0
 
@@ -1570,7 +1624,7 @@ __Downloads__: 443 | __Repository__: https://github.com/jhoek/UncommonSense.Volk
 
 HP Client Management Script Library
 
-__Downloads__: 19,593,931 | __Repository__: 
+__Downloads__: 19,593,205 | __Repository__: 
 
 ## [CRS.NavContainerHelperExtension](https://www.powershellgallery.com/Packages/CRS.NavContainerHelperExtension/1.0.3.26) | 1.0.3.26
 
@@ -1586,7 +1640,7 @@ __Downloads__: 2,413 | __Repository__: https://github.com/waldo1001/Cloud.Ready.
 
 Module to make it easier to remote execute PowerShell into a DockerHost, with NAV Containers, created by the navcontainerhelper.
 
-__Downloads__: 2,733 | __Repository__: https://github.com/waldo1001/Cloud.Ready.Software.PowerShell
+__Downloads__: 2,803 | __Repository__: https://github.com/waldo1001/Cloud.Ready.Software.PowerShell
 
 ## [Cloud.Ready.Software.NAV](https://www.powershellgallery.com/Packages/Cloud.Ready.Software.NAV/1.0.3.26) | 1.0.3.26
 
@@ -1727,6 +1781,14 @@ A "standard" library for PowerShell inspired by the preludes of other languages
 
 __Downloads__: 1,041 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
 
+## [Terrafun](https://www.powershellgallery.com/Packages/Terrafun/1.5.3) | 1.5.3
+
+### Published: 05/11/2022 22:38:08 by dougbw
+
+terraform version manager
+
+__Downloads__: 728 | __Repository__: https://github.com/dougbw/pwsh-terrafun
+
 ## [RSMassTransit.PowerShell](https://www.powershellgallery.com/Packages/RSMassTransit.PowerShell/1.0.0) | 1.0.0
 
 ### Published: 05/11/2022 22:33:59 by Jeffrey Sharp
@@ -1820,7 +1882,7 @@ __Downloads__: 1,421 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,595,888 | __Repository__: https://dbatools.io/
+__Downloads__: 1,596,111 | __Repository__: https://dbatools.io/
 
 ## [ALLanguageTools](https://www.powershellgallery.com/Packages/ALLanguageTools/0.1.1) | 0.1.1
 
@@ -1862,14 +1924,6 @@ Custom SharePoint functions together with the Optimized.Mga. See the Project Sit
 
 __Downloads__: 103 | __Repository__: https://github.com/baswijdenes/Optimized.Mga.SharePoint
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22130.30215) | 4.4.22130.30215
-
-### Published: 05/11/2022 08:49:27 by Red Gate Software Ltd.
-
-Automation tools for production quality database deployment
-
-__Downloads__: 2,864,301 | __Repository__: https://www.red-gate.com/sca/productpage
-
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.12) | 1.0.12
 
 ### Published: 05/11/2022 06:05:05 by Christopher Berg Schwanstrøm
@@ -1900,7 +1954,7 @@ __Downloads__: 4 | __Repository__: https://github.com/Largehawiian/DellSwitches
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 1,910,302 | __Repository__: https://vcredist.com/
+__Downloads__: 1,910,303 | __Repository__: https://vcredist.com/
 
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.5.10.1) | 22.5.10.1
 
@@ -1930,7 +1984,7 @@ __Downloads__: 113,187 | __Repository__: https://github.com/gbrueckl/Databricks.
 
 Functionality to help generate documentation for modules.
 
-__Downloads__: 9,348 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
+__Downloads__: 9,349 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
 
 ## [LogTools](https://www.powershellgallery.com/Packages/LogTools/1.0.5) | 1.0.5
 
@@ -2090,47 +2144,6 @@ __Downloads__: 216 | __Repository__: https://github.com/enbrea/psuntis
 
 Tools for installing and manage the OutSystems platform installation
 
-__Downloads__: 131,618 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
+__Downloads__: 131,617 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
 
-## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/2.1.5) | 2.1.5
-
-### Published: 05/08/2022 20:00:53 by Sander Rozemuller
-
-For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
-
-__Downloads__: 1,797 | __Repository__: https://github.com/srozemuller/AzAvd
-
-## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.27) | 0.1.27
-
-### Published: 05/08/2022 18:00:58 by Goran Condric
-
-SAP on Azure PowerShell Modules used for automation.
-
-__Downloads__: 875 | __Repository__: 
-
-## [XDHealthCheck](https://www.powershellgallery.com/Packages/XDHealthCheck/0.2.11) | 0.2.11
-
-### Published: 05/08/2022 05:10:02 by Pierre Smit
-
-Creates daily health check and config reports for your on-premise Citrix farm. To get started, you need to run Install-ParametersFile.
-This will capture and save needed farm details, to allow scripts to run automatically.
-
-__Downloads__: 158 | __Repository__: https://github.com/smitpi/XDHealthCheck
-
-## [New-FunctionFromPS1](https://www.powershellgallery.com/Packages/New-FunctionFromPS1/1.0.1) | 1.0.1
-
-### Published: 05/07/2022 13:29:54 by Simon Godefroy - Simon.Godefroy@FocusedIT.co.uk
-
-Create a Global Function from a PS1 file
-
-__Downloads__: 4 | __Repository__: 
-
-## [MultiChoice](https://www.powershellgallery.com/Packages/MultiChoice/1.0.3) | 1.0.3
-
-### Published: 05/07/2022 13:09:12 by Simon Godefroy - Simon.Godefroy@FocusedIT.co.uk
-
-Generate a Multichoice from multi-valued object and return the selected object (can accept pipeline input)
-
-__Downloads__: 12 | __Repository__: 
-
-*Updated: Wednesday, 18 May 2022 02:29:37 UTC*
+*Updated: Wednesday, 18 May 2022 09:53:26 UTC*

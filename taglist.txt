@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 18 May 2022 02:29:47 UTC
+Updated: Wednesday, 18 May 2022 09:53:38 UTC
 
 ?:
 ??
@@ -357,6 +357,7 @@ archivial-backup
 archivial-cloud-backup
 arcus
 area
+argument
 argumentcompleter
 arguments
 arm
@@ -650,7 +651,7 @@ bibtex
 bicep
 bicepnet
 big-ip
-big-iq
+bigcommerce
 bigeval
 bigfix
 bigquery
@@ -685,7 +686,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackbox
 blacklist
 blade
 bladeserver
@@ -693,7 +693,9 @@ blaze
 blob
 blobstorage
 block
+block-kit
 blockchain
+blocks
 blog
 blogs
 bls
@@ -1569,6 +1571,7 @@ diagrams
 dialog
 dice
 diceware
+dicom
 dictionary
 diff
 difference
@@ -1619,7 +1622,6 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
-distributedcache
 distributedfilesystem
 distribution
 distributiongroup
@@ -1646,7 +1648,9 @@ dns
 dns-01
 dns-administration
 dns-async
+dns-client
 dns-over-https
+dns-resolver
 dnsbl
 dnsdumpster
 dnsentry
@@ -1914,7 +1918,6 @@ esae
 escape
 escapecodes
 escapesequences
-escaping
 ese
 esent
 esoteric
@@ -2462,7 +2465,6 @@ haloservicesolutions
 hamradiodeluxe
 hana
 hanaon
-handle
 handler
 hangouts
 hannelstoolbox
@@ -2804,7 +2806,6 @@ inventory
 investigation
 investment
 investments
-invocation
 invoke
 invoke-asadmin
 invoke-asadministrator
@@ -2970,7 +2971,6 @@ keyvault
 kibana
 kickstart
 kidrsa
-kill
 kindle
 kintone
 klantcontroles
@@ -2990,6 +2990,7 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
+kubespray
 kudu
 kurukuru
 kusto
@@ -3126,7 +3127,6 @@ locationbasedservices
 lock
 lockdisplaytimeout
 lockdown
-locking
 lockoutreport
 lockscreen
 lockstep
@@ -3351,7 +3351,6 @@ messagebox
 messages
 messaging
 messenger
-met
 metadata
 metadataservice
 metaprogramming
@@ -3360,7 +3359,6 @@ methodinfo
 methods
 metric
 metrics
-metrolink
 mfa
 mga
 mi
@@ -3399,7 +3397,6 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -3436,6 +3433,7 @@ mlflow
 mmdc
 mobile
 mobilitycontroller
+mock
 mocking
 modify
 module
@@ -3793,7 +3791,6 @@ ome
 omnisphere
 omnistack
 oms
-omsagent
 on
 on-demand
 on-premise
@@ -3854,8 +3851,6 @@ operating-system
 operation
 operationalinsights
 operations
-operationsmanagementsuite
-operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
@@ -4169,6 +4164,7 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
+position
 postgre
 postgres
 postgresql
@@ -4255,7 +4251,6 @@ prepend
 preprocessing
 preprocessor
 presenter
-presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4482,7 +4477,6 @@ pszabbix
 pubg
 public
 public-key
-public-transport
 publicapi
 publicclient
 publicfolder
@@ -4559,7 +4553,6 @@ quicksetup
 quota
 quote
 quotes
-quoting
 quser
 r
 r53
@@ -4640,7 +4633,10 @@ redfish
 redforest
 redgate
 redirect
+redirecting
 redirects
+redirectstandarderror
+redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -4739,6 +4735,7 @@ resolution
 resolve
 resolve-stache
 resolve-template
+resolver
 resource
 resource_monitor
 resource_watcher
@@ -4953,7 +4950,6 @@ scrape
 scraper
 screen
 screencap
-screencapture
 screenconnect
 screenfetch
 screenresolution
@@ -5075,7 +5071,6 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
-serverless
 servermanagement
 servers
 service
@@ -5131,6 +5126,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -5157,7 +5153,6 @@ shopify
 shortcut
 shortcuts
 shortpath
-shotgun
 show
 show-command
 show-on-command
@@ -5269,7 +5264,6 @@ soap
 soc
 soccer
 social
-social-media
 socialmedia
 socketlabs
 sockets
@@ -5442,6 +5436,7 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
+stderr
 stdout
 steam
 steam-games
@@ -5469,7 +5464,6 @@ storefront
 storeonce
 storeserv
 strava
-streak
 stream
 streamanalytics
 streaming
@@ -5541,7 +5535,6 @@ swimlane
 swis
 switch
 sxs
-sybase
 sybaseiq
 symantec
 symbolic
@@ -5605,7 +5598,6 @@ tabs
 tabular
 tag
 tag-requiredmodule1-1.0
-tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
@@ -5678,6 +5670,7 @@ termset
 ternary
 terraform
 terraformcloud
+terrafun
 tesla
 test
 test-dscconfiguration
@@ -5796,7 +5789,6 @@ trafficmanager
 trafficmarking
 train
 training
-tram
 transact
 transaction
 transactions
@@ -5858,8 +5850,6 @@ twincat
 twinkly
 twitch
 twitter
-twitter-api
-twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
@@ -5929,7 +5919,6 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -6362,6 +6351,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-registry
@@ -6387,6 +6377,7 @@ windowsplugins
 windowspowershell
 windowspresentationfoundation
 windowsrest
+windowssandbox
 windowsserver
 windowsserver2008
 windowsserver2012
