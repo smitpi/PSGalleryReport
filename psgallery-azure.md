@@ -52,7 +52,7 @@ Validate Azure resources and infrastructure as code using PSRule.
 
 This project uses GitHub Issues to track bugs and feature requests. See GitHub project for more information.
 
-__Downloads__: 24,644 | __Repository__: https://aka.ms/ps-rule-azure
+__Downloads__: 24,638 | __Repository__: https://aka.ms/ps-rule-azure
 
 ## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.27) | 0.1.27
 
@@ -68,7 +68,7 @@ __Downloads__: 877 | __Repository__:
 
 PowerShell module to help with CI&CD for Azure Data Factory, mainly to publish to ADF service in multiple environments. Check https://github.com/SQLPlayer/azure.datafactory.tools/ & https://sqlplayer.net/adf/
 
-__Downloads__: 62,218 | __Repository__: https://github.com/SQLPlayer/azure.datafactory.tools/
+__Downloads__: 62,188 | __Repository__: https://github.com/SQLPlayer/azure.datafactory.tools/
 
 ## [AzureConnectedMachineDsc](https://www.powershellgallery.com/Packages/AzureConnectedMachineDsc/1.3.0) | 1.3.0
 
@@ -466,7 +466,7 @@ __Downloads__: 158 | __Repository__: https://github.com/darrenjrobinson/AzureADU
 
 Lookup Azure Active Directory OIDC AuthZ Endpoint using Domain Name and return the TenantID.
 
-__Downloads__: 259 | __Repository__: https://github.com/darrenjrobinson/AzureADTenantId
+__Downloads__: 260 | __Repository__: https://github.com/darrenjrobinson/AzureADTenantId
 
 ## [PSDocs.Azure](https://www.powershellgallery.com/Packages/PSDocs.Azure/0.3.0) | 0.3.0
 
@@ -524,7 +524,7 @@ __Downloads__: 611 | __Repository__: https://github.com/christaylorcodes/AzureKe
 
 Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
 
-__Downloads__: 1,339,406 | __Repository__: 
+__Downloads__: 1,339,405 | __Repository__: 
 
 ## [AzureADAuthMethods](https://www.powershellgallery.com/Packages/AzureADAuthMethods/1.2.2) | 1.2.2
 
@@ -998,6 +998,14 @@ A library of Azure components for Universal Dashboard.
 
 __Downloads__: 263 | __Repository__: https://github.com/ironmansoftware/powershell-universal
 
+## [PSAzureAppConfiguration](https://www.powershellgallery.com/Packages/PSAzureAppConfiguration/0.1.4) | 0.1.4
+
+### Published: 02/22/2021 08:37:47 by Michiel Thai
+
+A module for data retrieval from Azure App Configuration
+
+__Downloads__: 415 | __Repository__: https://github.com/mieel/PSAzureAppConfiguration
+
 ## [EcoVadis.AzureDevOps](https://www.powershellgallery.com/Packages/EcoVadis.AzureDevOps/0.0.24) | 0.0.24
 
 ### Published: 02/11/2021 13:55:52 by Pawel Wujczyk
@@ -1119,7 +1127,7 @@ __Downloads__: 250 | __Repository__:
 
 Security Scanner for Azure DevOps (ADO)
 
-__Downloads__: 24,695 | __Repository__: https://github.com/azsk/azsk-docs
+__Downloads__: 24,690 | __Repository__: https://github.com/azsk/azsk-docs
 
 ## [AzSKPreview.AzureDevOps](https://www.powershellgallery.com/Packages/AzSKPreview.AzureDevOps/1.0.16) | 1.0.16
 
@@ -1638,7 +1646,7 @@ Import-Module AzureAutomationAuthoringToolkit
 
 in the PowerShell ISE
 
-__Downloads__: 50,306 | __Repository__: https://github.com/azureautomation/azure-automation-ise-addon
+__Downloads__: 50,305 | __Repository__: https://github.com/azureautomation/azure-automation-ise-addon
 
 ## [AzureRM.Scheduler](https://www.powershellgallery.com/Packages/AzureRM.Scheduler/0.16.10) | 0.16.10
 
@@ -1720,7 +1728,7 @@ __Downloads__: 513 | __Repository__: https://github.com/iricigor/EasyAzureFuncti
 
 Microsoft Azure PowerShell - SiteRecovery service cmdlets for Azure Resource Manager
 
-__Downloads__: 1,835,839 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 1,835,804 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ServerManagement](https://www.powershellgallery.com/Packages/AzureRM.ServerManagement/4.1.2) | 4.1.2
 
@@ -1728,7 +1736,7 @@ __Downloads__: 1,835,839 | __Repository__: https://github.com/Azure/azure-powers
 
 Microsoft Azure PowerShell - ServerManagement cmdlets for Azure Resource Manager
 
-__Downloads__: 1,787,373 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 1,787,343 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [posh-azure](https://www.powershellgallery.com/Packages/posh-azure/0.3.7) | 0.3.7
 
@@ -1840,7 +1848,7 @@ __Downloads__: 1,565 | __Repository__: https://github.com/Mimeo/cAzureKeyVault
 
 Microsoft Azure PowerShell - Storage management cmdlets for Azure Stack
 
-__Downloads__: 197,062 | __Repository__: 
+__Downloads__: 197,060 | __Repository__: 
 
 ## [AzureRM.AzureStackAdmin](https://www.powershellgallery.com/Packages/AzureRM.AzureStackAdmin/0.11.1) | 0.11.1
 
@@ -2076,12 +2084,4 @@ This is a PowerShell module that packages up some useful Azure focused cmdlets I
 
 __Downloads__: 750 | __Repository__: 
 
-## [ps-AzureFaceAPI](https://www.powershellgallery.com/Packages/ps-AzureFaceAPI/1.0.1) | 1.0.1
-
-### Published: 11/09/2016 15:24:33 by Marco Lauper
-
-This is a full implementation of the Microsoft Azure Face API version 1.0.
-
-__Downloads__: 729 | __Repository__: https://github.com/MLauper/ps-AzureFaceAPI
-
-*Updated: Thursday, 19 May 2022 09:53:20 UTC*
+*Updated: Thursday, 19 May 2022 18:02:53 UTC*

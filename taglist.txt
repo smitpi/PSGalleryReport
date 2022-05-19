@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 May 2022 09:53:28 UTC
+Updated: Thursday, 19 May 2022 18:03:01 UTC
 
 ?:
 ??
@@ -258,7 +258,6 @@ amp
 amqp
 amsi
 amxmodx
-anaconda
 analysis
 analysisservices
 analyst
@@ -538,6 +537,7 @@ azuread
 azureadconnect
 azureadgraph
 azureadtoolkit
+azureappconfiguration
 azurearc
 azureas
 azureautomation
@@ -631,6 +631,7 @@ bdd
 bds
 be.stateless
 be.stateless.be
+beam3d
 bearded-avenger
 bearer
 beautifier
@@ -730,7 +731,6 @@ bpmn
 brainy
 branch
 brave
-bre
 breach
 break
 breakpoint
@@ -775,7 +775,6 @@ businesscentral
 businessdays
 businesshours
 businessobjects
-businessrulesengine
 businesstime
 bxor
 bydesign
@@ -1027,6 +1026,7 @@ cloudmarque
 cloudservice
 clueser
 cluster
+clusterminimumvalues
 clusterplugins
 cmaccounts
 cmbuild
@@ -1072,7 +1072,6 @@ cognitiveservices
 cohesity
 coinmarketcap
 collatordso
-collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1138,7 +1137,6 @@ computers
 computersite
 concur
 concurrent
-conda
 condition
 conditionalaccess
 conduit
@@ -1160,7 +1158,6 @@ configurationmanager
 configure
 confluence
 confluent
-conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1174,6 +1171,7 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
+connections
 connectionsmanager
 connectionstring
 connectwise
@@ -1655,6 +1653,7 @@ dnsentry
 dnsimple
 dnsmadeeasy
 dnsrecord
+dnsresolver
 dnsserver
 dnssuffix
 dnvm
@@ -1880,6 +1879,7 @@ enterprisemanager
 enterprisevoice
 entity
 entityframework
+entropy
 enum
 enumerable
 env
@@ -1947,9 +1947,11 @@ eventcollector
 eventful
 eventgrid
 eventhub
+eventing
 eventlist
 eventlog
 eventlogs
+eventmonitoring
 eventprocessor
 events
 eventsubscription
@@ -2033,7 +2035,6 @@ extensions
 external
 externalip
 extract
-extreme-networks
 eztheme
 f
 f#
@@ -2132,6 +2133,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialforce
 find
 find-path
 findlocation
@@ -2201,6 +2203,7 @@ fortigate
 fortigi
 fortimanager
 fortinet
+fortinetmanager
 fortios
 fortune
 forum
@@ -2218,8 +2221,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-front
-frontapp
 frontdoor
 frontrange
 fs
@@ -2449,7 +2450,6 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
-hailstone
 haipa
 halo
 haloitsm
@@ -2565,8 +2565,6 @@ hosts
 hosts-file
 hostsfile
 hot-water
-hotkey
-hotkeys
 howto
 hp
 hpc
@@ -2740,6 +2738,7 @@ infrastructureascode
 ingestion
 inheritance
 ini
+inifile
 initialization
 initials-avatar
 initiator
@@ -2832,6 +2831,7 @@ ipc
 ipcalc
 ipcalculator
 iperf
+ipfy.org
 iphone
 ipilot
 iplookup
@@ -2865,6 +2865,7 @@ isvalidemail
 isvalidip
 item
 iterate
+iteration
 itg
 itglue
 itop
@@ -3129,10 +3130,6 @@ lod
 lodasoft
 log
 log-administration
-log-file
-log-files
-log-mail
-log-mails
 log-management
 log-rotation
 log4net
@@ -3158,8 +3155,6 @@ loginscreen
 loginsight
 logistic
 logitech
-logmail
-logmails
 logman
 logoff
 logon
@@ -3221,9 +3216,7 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
-mailing
 mailkit
-mails
 main
 main-menu
 maintenance
@@ -3292,6 +3285,7 @@ matrix
 maven
 max
 max_path
+maximum
 maxoffice
 mb
 mbc
@@ -3413,6 +3407,7 @@ min
 mindmeister
 minifier
 minimal
+minimum
 mip
 mipsdk
 miration-step
@@ -3434,11 +3429,14 @@ mock
 mocking
 modify
 module
+modulebuild
 modulecreation
+modulemanagement
 modules
 moduleupdate
 moduleupdateinfo
 moduleupdater
+moduleversion
 mof
 moldova
 moment
@@ -3559,6 +3557,7 @@ nac
 nagios
 name
 name-of-dogs
+namedpipe
 nameit
 nameresolution
 names
@@ -3633,7 +3632,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 newpassword
 newrelic
 newspaper
@@ -3689,6 +3687,7 @@ nprintingapi
 nps
 npslog
 npslogfile
+nrc
 nrql
 ns
 ns.nl
@@ -3894,6 +3893,7 @@ ossec
 osubbillingschedule
 osuborganizationsubscription
 osubsubscription
+osubusage
 osx
 otp
 ou
@@ -3968,6 +3968,8 @@ partitions
 partner
 partnercenter
 partnerportal
+pass
+passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
@@ -4043,7 +4045,6 @@ philips
 philosophical
 philpritchett
 phishing
-phoenix
 phoneautomation
 photo
 photograph
@@ -4118,6 +4119,7 @@ policystate
 poll
 polycom
 ponduit
+pool
 poop
 pop
 pop-location
@@ -4242,7 +4244,6 @@ prepend
 preprocessing
 preprocessor
 presenter
-presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4339,10 +4340,6 @@ ps1
 ps1xml
 ps1xmlgen
 ps2exe
-ps3
-ps4
-ps5
-ps6
 ps7
 psa
 psadbscreencap
@@ -4473,6 +4470,7 @@ public-transport
 publicapi
 publicclient
 publicfolder
+publicip
 publish
 publishedmodules
 publisher
@@ -4640,6 +4638,9 @@ redshift
 redteaming
 redundancy
 refactor
+refeds
+refeds-mfa
+refedsmfa
 reference
 reflect
 reflection
@@ -4830,7 +4831,6 @@ rubber
 rubrik
 ruby
 rule
-rulesengine
 run
 run-as-user
 runas
@@ -4882,6 +4882,7 @@ sapstartstopazure
 sarcasm
 sarif
 sasdatasets
+sasxpt
 satirical
 save
 savedcreds
@@ -5109,7 +5110,6 @@ setting
 settings
 setup
 sevenzip
-sf
 sfb
 sftp
 sfx
@@ -5313,6 +5313,7 @@ spe
 speach
 speak
 specification
+specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -5417,6 +5418,7 @@ starwars
 stash
 stat
 state
+static
 staticanalysis
 statichtmlsites
 statistical
@@ -6181,7 +6183,6 @@ vmwvmhost
 vnet
 vnugglets
 vnugglets.com
-vocabularies
 voice
 voiceconfig
 voidtools
@@ -6315,6 +6316,7 @@ well-known
 wem
 wemsdk
 what3words
+whatismyip
 where
 whfb
 whiteboard
@@ -6422,6 +6424,7 @@ wmf
 wmf5
 wmi
 wmifilter
+wmipermanentevents
 wol
 wolfram
 wolframalpha
@@ -6431,10 +6434,12 @@ woolworthsrewards
 word
 word-wrap
 wordcloud
+wordlist
 wordpress
 wordwrap
 workbook
 workday
+worker
 workflow
 workflowmax
 workflows
@@ -6526,7 +6531,6 @@ xi
 xiaomi
 xkcd
 xliff
-xmc
 xml
 xml-rpc
 xml-transform
