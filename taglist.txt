@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 May 2022 02:36:59 UTC
+Updated: Thursday, 19 May 2022 09:53:28 UTC
 
 ?:
 ??
@@ -392,6 +392,7 @@ asn1
 asnbank
 asp
 asp.net
+aspnet
 aspnet_regiis
 asr
 assembleenationale
@@ -537,7 +538,6 @@ azuread
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureappconfiguration
 azurearc
 azureas
 azureautomation
@@ -577,6 +577,7 @@ azuresecuritycenter
 azuresentinel
 azureservicebus
 azuresigntool
+azuresql
 azuresqlexport
 azuresqlimport
 azuressas
@@ -630,7 +631,6 @@ bdd
 bds
 be.stateless
 be.stateless.be
-beam3d
 bearded-avenger
 bearer
 beautifier
@@ -1027,7 +1027,6 @@ cloudmarque
 cloudservice
 clueser
 cluster
-clusterminimumvalues
 clusterplugins
 cmaccounts
 cmbuild
@@ -1175,7 +1174,6 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
-connections
 connectionsmanager
 connectionstring
 connectwise
@@ -1233,7 +1231,6 @@ cooltag2
 coordinates
 copilot
 copy
-copy-item
 core
 coreposh
 corona
@@ -1571,6 +1568,7 @@ diagrams
 dialog
 dice
 diceware
+dicom
 dictionary
 diff
 difference
@@ -1638,6 +1636,7 @@ dl
 dll
 dlmautomation
 dlmigration
+dlp
 dmarc
 dmgr
 dmi
@@ -1656,7 +1655,6 @@ dnsentry
 dnsimple
 dnsmadeeasy
 dnsrecord
-dnsresolver
 dnsserver
 dnssuffix
 dnvm
@@ -1882,7 +1880,6 @@ enterprisemanager
 enterprisevoice
 entity
 entityframework
-entropy
 enum
 enumerable
 env
@@ -1950,11 +1947,9 @@ eventcollector
 eventful
 eventgrid
 eventhub
-eventing
 eventlist
 eventlog
 eventlogs
-eventmonitoring
 eventprocessor
 events
 eventsubscription
@@ -2137,7 +2132,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialforce
 find
 find-path
 findlocation
@@ -2205,6 +2199,7 @@ fortify
 fortifyondemand
 fortigate
 fortigi
+fortimanager
 fortinet
 fortios
 fortune
@@ -2548,6 +2543,7 @@ history
 hitrust
 hive
 hivehome
+hjson
 hl7
 hlds
 hls
@@ -2744,7 +2740,6 @@ infrastructureascode
 ingestion
 inheritance
 ini
-inifile
 initialization
 initials-avatar
 initiator
@@ -2778,6 +2773,7 @@ intacct
 integrated
 integratedscriptingeditor
 integration
+integrationaccount
 integrationservicescatalog
 integrity
 intel
@@ -2836,7 +2832,6 @@ ipc
 ipcalc
 ipcalculator
 iperf
-ipfy.org
 iphone
 ipilot
 iplookup
@@ -2870,7 +2865,6 @@ isvalidemail
 isvalidip
 item
 iterate
-iteration
 itg
 itglue
 itop
@@ -3084,6 +3078,7 @@ line-endings
 linear
 linearalgebra
 link
+linkedin
 linkedinads
 linq
 linqpad
@@ -3145,6 +3140,8 @@ loganalytics
 logbook
 logcat
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -3283,6 +3280,7 @@ marvellqlogicfcpowerkit
 mask
 mass
 masstransit
+masterconfiguration
 matcharray
 matchhashtable
 materialdesign
@@ -3294,7 +3292,6 @@ matrix
 maven
 max
 max_path
-maximum
 maxoffice
 mb
 mbc
@@ -3416,7 +3413,6 @@ min
 mindmeister
 minifier
 minimal
-minimum
 mip
 mipsdk
 miration-step
@@ -3438,14 +3434,11 @@ mock
 mocking
 modify
 module
-modulebuild
 modulecreation
-modulemanagement
 modules
 moduleupdate
 moduleupdateinfo
 moduleupdater
-moduleversion
 mof
 moldova
 moment
@@ -3566,7 +3559,6 @@ nac
 nagios
 name
 name-of-dogs
-namedpipe
 nameit
 nameresolution
 names
@@ -3697,7 +3689,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nrc
 nrql
 ns
 ns.nl
@@ -3903,7 +3894,6 @@ ossec
 osubbillingschedule
 osuborganizationsubscription
 osubsubscription
-osubusage
 osx
 otp
 ou
@@ -3978,8 +3968,6 @@ partitions
 partner
 partnercenter
 partnerportal
-pass
-passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
@@ -4130,7 +4118,6 @@ policystate
 poll
 polycom
 ponduit
-pool
 poop
 pop
 pop-location
@@ -4333,6 +4320,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4483,7 +4473,6 @@ public-transport
 publicapi
 publicclient
 publicfolder
-publicip
 publish
 publishedmodules
 publisher
@@ -4505,6 +4494,7 @@ purestorage
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -4892,7 +4882,6 @@ sapstartstopazure
 sarcasm
 sarif
 sasdatasets
-sasxpt
 satirical
 save
 savedcreds
@@ -5324,7 +5313,6 @@ spe
 speach
 speak
 specification
-specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -5429,7 +5417,6 @@ starwars
 stash
 stat
 state
-static
 staticanalysis
 statichtmlsites
 statistical
@@ -5543,6 +5530,7 @@ swimlane
 swis
 switch
 sxs
+sybase
 sybaseiq
 symantec
 symbolic
@@ -5911,6 +5899,7 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
+ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
@@ -6326,7 +6315,6 @@ well-known
 wem
 wemsdk
 what3words
-whatismyip
 where
 whfb
 whiteboard
@@ -6391,6 +6379,7 @@ windowspresentationfoundation
 windowsrest
 windowssandbox
 windowsserver
+windowsserver2008
 windowsserver2012
 windowsserver2016
 windowsserver2019
@@ -6433,7 +6422,6 @@ wmf
 wmf5
 wmi
 wmifilter
-wmipermanentevents
 wol
 wolfram
 wolframalpha
@@ -6443,12 +6431,10 @@ woolworthsrewards
 word
 word-wrap
 wordcloud
-wordlist
 wordpress
 wordwrap
 workbook
 workday
-worker
 workflow
 workflowmax
 workflows
