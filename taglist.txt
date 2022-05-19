@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 18 May 2022 17:53:52 UTC
+Updated: Thursday, 19 May 2022 02:36:59 UTC
 
 ?:
 ??
@@ -392,7 +392,6 @@ asn1
 asnbank
 asp
 asp.net
-aspnet
 aspnet_regiis
 asr
 assembleenationale
@@ -548,6 +547,7 @@ azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
 azuredataexplorer
+azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
@@ -577,7 +577,6 @@ azuresecuritycenter
 azuresentinel
 azureservicebus
 azuresigntool
-azuresql
 azuresqlexport
 azuresqlimport
 azuressas
@@ -694,7 +693,9 @@ blaze
 blob
 blobstorage
 block
+block-kit
 blockchain
+blocks
 blog
 blogs
 bls
@@ -1570,7 +1571,6 @@ diagrams
 dialog
 dice
 diceware
-dicom
 dictionary
 diff
 difference
@@ -1638,7 +1638,6 @@ dl
 dll
 dlmautomation
 dlmigration
-dlp
 dmarc
 dmgr
 dmi
@@ -1768,6 +1767,7 @@ dudckduckgo
 duf
 dummy
 dummyusers
+dump
 duplicate
 duplicate-files
 duplicatioin
@@ -1917,6 +1917,7 @@ esae
 escape
 escapecodes
 escapesequences
+escaping
 ese
 esent
 esoteric
@@ -1989,6 +1990,7 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
+exclusion
 excuse
 exe
 exec
@@ -2166,6 +2168,7 @@ flatfile
 flatten
 flex
 flex-query
+flexdesk
 flickr
 flowchart
 flowy
@@ -2202,7 +2205,6 @@ fortify
 fortifyondemand
 fortigate
 fortigi
-fortimanager
 fortinet
 fortios
 fortune
@@ -2535,6 +2537,7 @@ hiera
 hierarchialdistributionlist
 hierarchical
 high-availability
+highlight
 highlighting
 highrise
 hipaa
@@ -2545,7 +2548,6 @@ history
 hitrust
 hive
 hivehome
-hjson
 hl7
 hlds
 hls
@@ -2802,6 +2804,7 @@ inventory
 investigation
 investment
 investments
+invocation
 invoke
 invoke-asadmin
 invoke-asadministrator
@@ -2842,6 +2845,7 @@ ipp
 iprange
 ipv4
 ipv6
+ipynb
 ir
 irc
 irkit
@@ -2869,6 +2873,7 @@ iterate
 iteration
 itg
 itglue
+itop
 itsm
 itstore
 ivanti
@@ -2925,6 +2930,7 @@ jumpcloud
 jumpstart
 junction
 junctions
+jupyter
 jupytor
 justenoughadministration
 jwk
@@ -3078,7 +3084,6 @@ line-endings
 linear
 linearalgebra
 link
-linkedin
 linkedinads
 linq
 linqpad
@@ -3140,8 +3145,6 @@ loganalytics
 logbook
 logcat
 logfile
-logfilearchivearchive
-logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -3280,7 +3283,6 @@ marvellqlogicfcpowerkit
 mask
 mass
 masstransit
-masterconfiguration
 matcharray
 matchhashtable
 materialdesign
@@ -3395,6 +3397,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4330,9 +4333,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4505,7 +4505,6 @@ purestorage
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -4538,6 +4537,7 @@ qlogicfcprovider
 qna
 qol
 qq
+qr
 qrcode
 qrp
 quality
@@ -4555,6 +4555,7 @@ quicksetup
 quota
 quote
 quotes
+quoting
 quser
 r
 r53
@@ -5119,6 +5120,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -5541,7 +5543,6 @@ swimlane
 swis
 switch
 sxs
-sybase
 sybaseiq
 symantec
 symbolic
@@ -5910,7 +5911,6 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
-ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
@@ -5930,6 +5930,7 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -6107,6 +6108,7 @@ veeva
 venafi
 vendor
 venue
+venvlink
 vera
 veracrypt
 verbose
@@ -6127,6 +6129,7 @@ videos
 vie
 viewer
 viewgroup
+vigenere
 vim
 vimode
 virole
@@ -6388,7 +6391,6 @@ windowspresentationfoundation
 windowsrest
 windowssandbox
 windowsserver
-windowsserver2008
 windowsserver2012
 windowsserver2016
 windowsserver2019
