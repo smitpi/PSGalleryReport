@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 20 May 2022 02:31:20 UTC
+Updated: Friday, 20 May 2022 09:53:03 UTC
 
 ?:
 ??
@@ -1057,7 +1057,6 @@ coa
 cockroachdb
 codaamok
 code
-code-page
 code365
 codebuild
 codecov
@@ -1076,7 +1075,6 @@ cognitiveservices
 cohesity
 coinmarketcap
 collatordso
-collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1164,7 +1162,6 @@ configurationmanager
 configure
 confluence
 confluent
-conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1270,8 +1267,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crayon
-crc
-crc32
 create
 createcolumn
 createdatabase
@@ -1368,8 +1363,6 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
-cyclic
-cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -2144,7 +2137,6 @@ financeoperations
 financial
 financialforce
 find
-find-path
 findlocation
 findplace
 findproxyforurl
@@ -2328,7 +2320,6 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
-get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -2461,7 +2452,6 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
-hailstone
 haipa
 halo
 haloitsm
@@ -2651,12 +2641,10 @@ ibmc
 ibmhttpserver
 icinga
 icinga2
-icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
-icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -2867,7 +2855,6 @@ iselevated
 isesteroids
 ish
 ishexstring
-ism
 isnumeric
 iso
 iso-3166-1
@@ -2886,7 +2873,6 @@ itop
 itsm
 itstore
 ivanti
-ivantips
 ivb
 ivdc
 iwi
@@ -3533,7 +3519,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -3574,7 +3559,6 @@ myob
 mysql
 mysql-database
 mytest
-n-central
 nac
 nagios
 name
@@ -4094,11 +4078,9 @@ pipeline
 pipelines
 piraeus
 pivot
-pivotal
 pivottable
 pixoo
 pki
-pks
 place
 places
 plain
@@ -4359,7 +4341,6 @@ prtg
 prtg_network_monitor
 prtgnetworkmonitor
 ps
-ps-ncentral
 ps.credentialmanager
 ps1
 ps1xml
@@ -4665,7 +4646,6 @@ redoc
 redseal
 redshift
 redteaming
-redundancy
 refactor
 refeds
 refeds-mfa
@@ -4720,7 +4700,6 @@ remoting
 remove
 remove-githubsecrets
 remove-pass
-remove-path
 remove-pinneditem
 removetypeaccelerators
 remux
@@ -5140,7 +5119,6 @@ setting
 settings
 setup
 sevenzip
-sf
 sfb
 sftp
 sfx
@@ -5804,7 +5782,6 @@ torrents
 toshiba
 totp
 touch
-toughswitch
 tphubps
 tpp
 trace
@@ -5947,7 +5924,6 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
-ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
