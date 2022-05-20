@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 20 May 2022 09:53:03 UTC
+Updated: Friday, 20 May 2022 17:53:16 UTC
 
 ?:
 ??
@@ -552,7 +552,6 @@ azuredataexplorer
 azuredatastudio
 azuredevops
 azuredevops_security
-azuredevopsserver
 azuredns
 azurefilesync
 azurefunctionapp
@@ -1057,6 +1056,7 @@ coa
 cockroachdb
 codaamok
 code
+code-page
 code365
 codebuild
 codecov
@@ -1075,6 +1075,7 @@ cognitiveservices
 cohesity
 coinmarketcap
 collatordso
+collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1162,6 +1163,7 @@ configurationmanager
 configure
 confluence
 confluent
+conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1267,6 +1269,8 @@ cqdpowershell
 cqhttp
 crack psmodule
 crayon
+crc
+crc32
 create
 createcolumn
 createdatabase
@@ -1363,6 +1367,8 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
+cyclic
+cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -2137,6 +2143,7 @@ financeoperations
 financial
 financialforce
 find
+find-path
 findlocation
 findplace
 findproxyforurl
@@ -2320,6 +2327,7 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
+get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -2332,8 +2340,6 @@ getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
 ggplot
-gh-actions
-ghactions
 ghc
 ghibli
 ghost
@@ -2452,6 +2458,7 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
+hailstone
 haipa
 halo
 haloitsm
@@ -2641,10 +2648,12 @@ ibmc
 ibmhttpserver
 icinga
 icinga2
+icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
+icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -2718,7 +2727,6 @@ import-sampackagedefinitionsms
 importexport
 importteams
 inactive
-inboxrule
 incident-response
 incidentresponse
 incontact
@@ -2855,6 +2863,7 @@ iselevated
 isesteroids
 ish
 ishexstring
+ism
 isnumeric
 iso
 iso-3166-1
@@ -2873,6 +2882,7 @@ itop
 itsm
 itstore
 ivanti
+ivantips
 ivb
 ivdc
 iwi
@@ -2942,7 +2952,6 @@ katakana
 kb
 kbarticle
 kdbx
-keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3483,7 +3492,6 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msband
-msbi
 msbuild
 mschart
 msdeploy
@@ -3519,6 +3527,7 @@ msproject
 msrc
 msrdc
 mssql
+mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -4078,9 +4087,11 @@ pipeline
 pipelines
 piraeus
 pivot
+pivotal
 pivottable
 pixoo
 pki
+pks
 place
 places
 plain
@@ -4646,6 +4657,7 @@ redoc
 redseal
 redshift
 redteaming
+redundancy
 refactor
 refeds
 refeds-mfa
@@ -4700,6 +4712,7 @@ remoting
 remove
 remove-githubsecrets
 remove-pass
+remove-path
 remove-pinneditem
 removetypeaccelerators
 remux
@@ -5119,6 +5132,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -5377,7 +5391,6 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
-sqlserveragent
 sqlvirtualmachine
 sqr
 sqrt
@@ -5924,6 +5937,7 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
+ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -6008,7 +6022,6 @@ ups
 upsource
 upstream
 uptime
-uptimerobot
 uptobox
 uri
 uri-scheme

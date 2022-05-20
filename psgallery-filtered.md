@@ -5,6 +5,86 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [VMware.VCDRService](https://www.powershellgallery.com/Packages/VMware.VCDRService/7.22.2.1) | 7.22.2.1
+
+### Published: 05/20/2022 16:49:36 by VMware
+
+PowerCLI VMware Cloud Disaster Recovery module
+
+__Downloads__: 9 | __Repository__: https://github.com/vmware/vmware-powercli-for-vmware-cloud-disaster-recovery
+
+## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.0.3) | 3.0.3
+
+### Published: 05/20/2022 16:41:06 by Carlos Perez
+
+Provide SSH and SCP functionality for executing commands against remote hosts.
+
+__Downloads__: 12,792,213 | __Repository__: 
+
+## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
+
+### Published: 05/20/2022 15:39:08 by Atempo
+
+PowerShell module for managing and monitoring Atempo Lina continuous data protection solution
+
+__Downloads__: 1,044 | __Repository__: 
+
+## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.1.3.2) | 2022.1.3.2
+
+### Published: 05/20/2022 15:34:28 by Devolutions
+
+Devolutions Remote Desktop Manager (RDM) PowerShell Module
+
+__Downloads__: 4,970 | __Repository__: 
+
+## [ElCocktail](https://www.powershellgallery.com/Packages/ElCocktail/1.1.0.0) | 1.1.0.0
+
+### Published: 05/20/2022 15:30:23 by Dor Danai
+
+Get Cocktail Information from thecocktaildb.com
+
+__Downloads__: 0 | __Repository__: 
+
+## [ctxal-sdk](https://www.powershellgallery.com/Packages/ctxal-sdk/0.3.27) | 0.3.27
+
+### Published: 05/20/2022 14:07:00 by Ryan Butler
+
+Reversed Engineered Unidesk\Citrix App Layering SDK
+
+__Downloads__: 1,915 | __Repository__: https://github.com/ryancbutler/UnideskSDK
+
+## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.93) | 1.0.93
+
+### Published: 05/20/2022 13:31:45 by Mathias Stjernfelt
+
+BrightCom Solutions AB powershell helper.
+
+__Downloads__: 1,933 | __Repository__: 
+
+## [StepAutomation](https://www.powershellgallery.com/Packages/StepAutomation/1.0.0) | 1.0.0
+
+### Published: 05/20/2022 13:19:07 by Ogtay Garayev
+
+This module provides classes for automating operations.
+
+__Downloads__: 0 | __Repository__: 
+
+## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.1.1) | 1.1.1
+
+### Published: 05/20/2022 12:37:48 by Sascha Spiekermann
+
+A module to interact with a Fortinet Manager appliance for Fortigate Firewalls
+
+__Downloads__: 8 | __Repository__: https://github.com/Callidus2000/FortiManager/
+
+## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.9.6484) | 1.0.9.6484
+
+### Published: 05/20/2022 10:17:45 by Cisco Systems
+
+Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
+
+__Downloads__: 830 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+
 ## [PS-NCentral](https://www.powershellgallery.com/Packages/PS-NCentral/1.4) | 1.4
 
 ### Published: 05/20/2022 09:49:22 by Adriaan Sluis
@@ -12,14 +92,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 PowerShell integration for N-Central(c) by N-Able(R)
 
 __Downloads__: 6,439 | __Repository__: 
-
-## [ElCocktail](https://www.powershellgallery.com/Packages/ElCocktail/1.0) | 1.0
-
-### Published: 05/20/2022 09:09:52 by Dor Danai
-
-Module used for getting cocktail info
-
-__Downloads__: 0 | __Repository__: 
 
 ## [ALLanguageTools](https://www.powershellgallery.com/Packages/ALLanguageTools/0.1.2) | 0.1.2
 
@@ -85,14 +157,6 @@ Continuous Integration/Continuous Delivery module.
 
 __Downloads__: 4,686 | __Repository__: https://github.com/webmd-health-services/Whiskey
 
-## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.0.2) | 3.0.2
-
-### Published: 05/20/2022 01:50:11 by Carlos Perez
-
-Provide SSH and SCP functionality for executing commands against remote hosts.
-
-__Downloads__: 12,792,270 | __Repository__: 
-
 ## [PSAutoLab](https://www.powershellgallery.com/Packages/PSAutoLab/4.22.1) | 4.22.1
 
 ### Published: 05/19/2022 21:19:56 by Pluralsight
@@ -107,7 +171,7 @@ __Downloads__: 10,894 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,247,350 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,247,348 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.2) | 0.0.2
 
@@ -379,7 +443,7 @@ __Downloads__: 611 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Excel
 
-__Downloads__: 2,007 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 2,008 | __Repository__: http://www.cdata.com/powershell/
 
 ## [CSVCmdlets](https://www.powershellgallery.com/Packages/CSVCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1563,7 +1627,7 @@ __Downloads__: 1,283 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Authorize.Net
 
-__Downloads__: 1,028 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 1,011 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SageIntacctCmdlets](https://www.powershellgallery.com/Packages/SageIntacctCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1739,7 +1803,7 @@ __Downloads__: 693 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for ServiceNow
 
-__Downloads__: 1,657 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 1,656 | __Repository__: http://www.cdata.com/powershell/
 
 ## [BingCmdlets](https://www.powershellgallery.com/Packages/BingCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1861,14 +1925,6 @@ File Management Functions
 
 __Downloads__: 10,534 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.1.3.1) | 2022.1.3.1
-
-### Published: 05/19/2022 19:20:10 by Devolutions
-
-Devolutions Remote Desktop Manager (RDM) PowerShell Module
-
-__Downloads__: 4,970 | __Repository__: 
-
 ## [AuditPolicy](https://www.powershellgallery.com/Packages/AuditPolicy/0.0.4) | 0.0.4
 
 ### Published: 05/19/2022 17:24:22 by Przemyslaw Klys
@@ -1907,7 +1963,7 @@ __Downloads__: 15 | __Repository__: https://github.com/mgajda83/PSServiceBusMess
 
 A collection of useful PowerShell functions which can be used to write log and error to logfile .Have a seperate function which will create a errorogfile only when an error occurs . .
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
 ## [D365FOLBDAdmin](https://www.powershellgallery.com/Packages/D365FOLBDAdmin/2.1.23.0) | 2.1.23.0
 
@@ -1916,14 +1972,6 @@ __Downloads__: 1 | __Repository__:
 For Dynamics 365 Finance and Operations Local Business Data (LBD) Administration
 
 __Downloads__: 1,819 | __Repository__: https://github.com/stefanland/D365FOLBDAdmin
-
-## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.1.0) | 1.1.0
-
-### Published: 05/19/2022 14:43:32 by Sascha Spiekermann
-
-A module to interact with a Fortinet Manager appliance for Fortigate Firewalls
-
-__Downloads__: 8 | __Repository__: https://github.com/Callidus2000/FortiManager/
 
 ## [EguibarIT](https://www.powershellgallery.com/Packages/EguibarIT/1.51.60) | 1.51.60
 
@@ -1957,77 +2005,4 @@ KB Viewer, Saver, Installer and Uninstaller
 
 __Downloads__: 315,377 | __Repository__: 
 
-## [PSSIM](https://www.powershellgallery.com/Packages/PSSIM/1.0.1) | 1.0.1
-
-### Published: 05/19/2022 11:30:50 by Erwin Rijss
-
-Wrapper around Sitecore Install Framework
-
-__Downloads__: 3 | __Repository__: https://github.com/erijss/PSSIM
-
-## [EndpointCloudkit](https://www.powershellgallery.com/Packages/EndpointCloudkit/0.0.14.5) | 0.0.14.5
-
-### Published: 05/19/2022 10:25:30 by Diagg
-
-Endpoint Cloud kit Module (ECK), a set of cmdlet to help building scripts or application deployed by your MDM (Intune/Workspace One...)
-
-- Run Powershell script or executable in User/system/admin/trusted installer/System Interactive context
-- Restart your script after reboot
-- Logging function
-- Configurable reboot toast notifications
-- Execution context (Admin/system/user/TI) detection
-- Pending reboot detection
-- Windows Build converter to friendly name (like 21H2)
-- Download from Git/Github on public/private repo
-- Auto update ECK module
-
-__Downloads__: 810 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
-
-## [Write-Error-Log](https://www.powershellgallery.com/Packages/Write-Error-Log/1.0.0) | 1.0.0
-
-### Published: 05/19/2022 08:02:35 by Athira G Rajan
-
-A collection of useful PowerShell functions which can be used to write log and error to logfile .Have a seperate function which will create a errorogfile only when an error occurs . .
-
-__Downloads__: 1 | __Repository__: 
-
-## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.0.10) | 1.0.10
-
-### Published: 05/19/2022 08:01:54 by @AndrewZtrhgf
-
-Various Azure related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the interesting functions:
-- Add-AzureADAppCertificate - generates and adds authentication certificate to Azure application
-- Add-AzureADAppUserConsent - granting permission consent on behalf of another user
-- Get-AzureADAccountOccurrence - for getting all occurrences of specified account in your Azure environment
-- Add-AzureADAppCertificate - add the certificate (existing or create self-signed) to selected Azure application as an secret
-- Get-AzureADAppVerificationStatus
-- Get-AzureADAppConsentRequest - for getting all application admin consent requests
-- Remove-AzureADAppUserConsent - removes user consent
-- Get-AzureDevOpsOrganizationOverview - list of all DevOps organizations
-- ...
-
-Some of the authentication-related functions:
-- New-AzureDevOpsAuthHeader
-- New-GraphAPIAuthHeader
-
-__Downloads__: 63 | __Repository__: https://doitpsway.com/series/azure
-
-## [Cohesity.PowerShell](https://www.powershellgallery.com/Packages/Cohesity.PowerShell/1.8.0) | 1.8.0
-
-### Published: 05/19/2022 07:33:37 by Cohesity
-
-Cohesity PowerShell Module provides cmdlets to manage and create workflows using Cohesity DataPlatform.
-
-__Downloads__: 31,368 | __Repository__: https://cohesity.github.io/cohesity-powershell-module
-
-## [Cohesity.PowerShell.Core](https://www.powershellgallery.com/Packages/Cohesity.PowerShell.Core/1.8.0) | 1.8.0
-
-### Published: 05/19/2022 07:33:09 by Cohesity
-
-Cohesity PowerShell Module provides cmdlets to manage and create workflows using Cohesity DataPlatform.
-
-__Downloads__: 3,508 | __Repository__: https://cohesity.github.io/cohesity-powershell-module
-
-*Updated: Friday, 20 May 2022 09:52:53 UTC*
+*Updated: Friday, 20 May 2022 17:53:06 UTC*
