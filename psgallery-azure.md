@@ -5,6 +5,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org) that are Azure-related. This includes modules published by Microsoft and the community. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AzureADAssessment](https://www.powershellgallery.com/Packages/AzureADAssessment/2.2.36) | 2.2.36
+
+### Published: 05/19/2022 21:17:13 by Microsoft Identity
+
+This module analyzes your Azure Active Directory configuration and provides best practice recommendations.
+
+__Downloads__: 3,404 | __Repository__: https://github.com/AzureAD/AzureADAssessment
+
+## [AzureDevOpsCmdlets](https://www.powershellgallery.com/Packages/AzureDevOpsCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:17:27 by CData Software Inc.
+
+CData Cmdlets for Azure DevOps
+
+__Downloads__: 305 | __Repository__: http://www.cdata.com/powershell/
+
+## [AzureDataCatalogCmdlets](https://www.powershellgallery.com/Packages/AzureDataCatalogCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:15:43 by CData Software Inc.
+
+CData Cmdlets for Azure Data Catalog
+
+__Downloads__: 140 | __Repository__: http://www.cdata.com/powershell/
+
+## [AzureResourceManagementCmdlets](https://www.powershellgallery.com/Packages/AzureResourceManagementCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:13:05 by CData Software Inc.
+
+CData Cmdlets for Azure Resource Management
+
+__Downloads__: 79 | __Repository__: http://www.cdata.com/powershell/
+
+## [AzureTablesCmdlets](https://www.powershellgallery.com/Packages/AzureTablesCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:07:55 by CData Software Inc.
+
+CData Cmdlets for Azure Table Storage
+
+__Downloads__: 891 | __Repository__: http://www.cdata.com/powershell/
+
 ## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.0.10) | 1.0.10
 
 ### Published: 05/19/2022 08:01:54 by @AndrewZtrhgf
@@ -26,7 +66,7 @@ Some of the authentication-related functions:
 - New-AzureDevOpsAuthHeader
 - New-GraphAPIAuthHeader
 
-__Downloads__: 55 | __Repository__: https://doitpsway.com/series/azure
+__Downloads__: 59 | __Repository__: https://doitpsway.com/series/azure
 
 ## [Microsoft.AzureStack.ReadinessChecker](https://www.powershellgallery.com/Packages/Microsoft.AzureStack.ReadinessChecker/1.2100.1963.864) | 1.2100.1963.864
 
@@ -166,30 +206,6 @@ Getting and queueing a release
 
 __Downloads__: 176 | __Repository__: 
 
-## [AzureDevOpsCmdlets](https://www.powershellgallery.com/Packages/AzureDevOpsCmdlets/21.0.8091.1) | 21.0.8091.1
-
-### Published: 03/07/2022 16:57:31 by CData Software Inc.
-
-CData Cmdlets for Azure DevOps
-
-__Downloads__: 305 | __Repository__: http://www.cdata.com/powershell/
-
-## [AzureDataCatalogCmdlets](https://www.powershellgallery.com/Packages/AzureDataCatalogCmdlets/21.0.8091.1) | 21.0.8091.1
-
-### Published: 03/07/2022 16:50:07 by CData Software Inc.
-
-CData Cmdlets for Azure Data Catalog
-
-__Downloads__: 140 | __Repository__: http://www.cdata.com/powershell/
-
-## [AzureResourceManagementCmdlets](https://www.powershellgallery.com/Packages/AzureResourceManagementCmdlets/21.0.8091.1) | 21.0.8091.1
-
-### Published: 03/07/2022 16:42:59 by CData Software Inc.
-
-CData Cmdlets for Azure Resource Management
-
-__Downloads__: 79 | __Repository__: http://www.cdata.com/powershell/
-
 ## [Pinja.Azure.Alerts](https://www.powershellgallery.com/Packages/Pinja.Azure.Alerts/0.0.8) | 0.0.8
 
 ### Published: 03/07/2022 16:07:22 by pekka.savolainen@pinja.com
@@ -197,22 +213,6 @@ __Downloads__: 79 | __Repository__: http://www.cdata.com/powershell/
 Powershell module to simplify getting good default alerts for all environments
 
 __Downloads__: 1,694 | __Repository__: https://github.com/by-pinja/Pinja.Azure.Alerts
-
-## [AzureTablesCmdlets](https://www.powershellgallery.com/Packages/AzureTablesCmdlets/21.0.8091.1) | 21.0.8091.1
-
-### Published: 03/07/2022 15:56:37 by CData Software Inc.
-
-CData Cmdlets for Azure Table Storage
-
-__Downloads__: 891 | __Repository__: http://www.cdata.com/powershell/
-
-## [AzureADAssessment](https://www.powershellgallery.com/Packages/AzureADAssessment/2.2.19) | 2.2.19
-
-### Published: 02/18/2022 21:33:43 by Microsoft Identity
-
-This module analyzes your Azure Active Directory configuration and provides best practice recommendations.
-
-__Downloads__: 3,404 | __Repository__: https://github.com/AzureAD/AzureADAssessment
 
 ## [Kelverion.Azure.Infrastructure](https://www.powershellgallery.com/Packages/Kelverion.Azure.Infrastructure/1.1) | 1.1
 
@@ -271,7 +271,7 @@ __Downloads__: 4,116 | __Repository__:
 
 Azure Web App related function and cmdlets.
 
-__Downloads__: 973 | __Repository__: 
+__Downloads__: 976 | __Repository__: 
 
 ## [Microsoft.AzureStack.Util.ConvertNetwork](https://www.powershellgallery.com/Packages/Microsoft.AzureStack.Util.ConvertNetwork/1.2100.1838.786) | 1.2100.1838.786
 
@@ -296,7 +296,7 @@ __Downloads__: 1,576 | __Repository__: https://github.com/itoleck/AzureSaveMoney
 
 Azure Stack Adminisitration Module
 
-__Downloads__: 152,829 | __Repository__: https://github.com/Azure/azurestack-powershell
+__Downloads__: 152,828 | __Repository__: https://github.com/Azure/azurestack-powershell
 
 ## [Azs.Azurebridge.Admin](https://www.powershellgallery.com/Packages/Azs.Azurebridge.Admin/1.0.2) | 1.0.2
 
@@ -360,7 +360,7 @@ __Downloads__: 4,328 | __Repository__: https://github.com/dtewinkel/AzureCli
 
 PowerShell module to help with Azure Databricks CI & CD Scenarios by simplifying the API or CLI calls into idempotent commands. See https://github.com/DataThirstLtd/azure.databricks.cicd.tools & https://datathirst.net
 
-__Downloads__: 399,280 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
+__Downloads__: 399,432 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
 
 ## [Om.Azure](https://www.powershellgallery.com/Packages/Om.Azure/0.0.2) | 0.0.2
 
@@ -466,7 +466,7 @@ __Downloads__: 158 | __Repository__: https://github.com/darrenjrobinson/AzureADU
 
 Lookup Azure Active Directory OIDC AuthZ Endpoint using Domain Name and return the TenantID.
 
-__Downloads__: 260 | __Repository__: https://github.com/darrenjrobinson/AzureADTenantId
+__Downloads__: 261 | __Repository__: https://github.com/darrenjrobinson/AzureADTenantId
 
 ## [PSDocs.Azure](https://www.powershellgallery.com/Packages/PSDocs.Azure/0.3.0) | 0.3.0
 
@@ -484,7 +484,7 @@ __Downloads__: 3,426 | __Repository__: https://github.com/Azure/PSDocs.Azure
 
 A collection of Azure related PowerShell utility functions.  Updated by Arian T. Kulp, 2021
 
-__Downloads__: 1,057 | __Repository__: 
+__Downloads__: 1,058 | __Repository__: 
 
 ## [AzureADLicensing](https://www.powershellgallery.com/Packages/AzureADLicensing/2.3.5) | 2.3.5
 
@@ -524,7 +524,7 @@ __Downloads__: 611 | __Repository__: https://github.com/christaylorcodes/AzureKe
 
 Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
 
-__Downloads__: 1,339,405 | __Repository__: 
+__Downloads__: 1,339,536 | __Repository__: 
 
 ## [AzureADAuthMethods](https://www.powershellgallery.com/Packages/AzureADAuthMethods/1.2.2) | 1.2.2
 
@@ -996,7 +996,7 @@ __Downloads__: 529 | __Repository__: https://github.com/umn-microsoft-automation
 
 A library of Azure components for Universal Dashboard.
 
-__Downloads__: 263 | __Repository__: https://github.com/ironmansoftware/powershell-universal
+__Downloads__: 264 | __Repository__: https://github.com/ironmansoftware/powershell-universal
 
 ## [PSAzureAppConfiguration](https://www.powershellgallery.com/Packages/PSAzureAppConfiguration/0.1.4) | 0.1.4
 
@@ -1076,7 +1076,7 @@ __Downloads__: 303 | __Repository__: https://github.com/panicoenlaxbox/AzureSqlM
 
 This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
 
-__Downloads__: 735 | __Repository__: 
+__Downloads__: 736 | __Repository__: 
 
 ## [Azure](https://www.powershellgallery.com/Packages/Azure/5.3.1) | 5.3.1
 
@@ -1183,7 +1183,7 @@ __Downloads__: 898 | __Repository__:
 
 Management of Microsoft 365 Group settings including limiting approved creators groups.
 
-__Downloads__: 212 | __Repository__: 
+__Downloads__: 213 | __Repository__: 
 
 ## [AzureDevOpsHelpers](https://www.powershellgallery.com/Packages/AzureDevOpsHelpers/1.1.24) | 1.1.24
 
@@ -1728,7 +1728,7 @@ __Downloads__: 513 | __Repository__: https://github.com/iricigor/EasyAzureFuncti
 
 Microsoft Azure PowerShell - SiteRecovery service cmdlets for Azure Resource Manager
 
-__Downloads__: 1,835,804 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 1,835,803 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ServerManagement](https://www.powershellgallery.com/Packages/AzureRM.ServerManagement/4.1.2) | 4.1.2
 
@@ -1736,7 +1736,7 @@ __Downloads__: 1,835,804 | __Repository__: https://github.com/Azure/azure-powers
 
 Microsoft Azure PowerShell - ServerManagement cmdlets for Azure Resource Manager
 
-__Downloads__: 1,787,343 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 1,787,342 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [posh-azure](https://www.powershellgallery.com/Packages/posh-azure/0.3.7) | 0.3.7
 
@@ -1848,7 +1848,7 @@ __Downloads__: 1,565 | __Repository__: https://github.com/Mimeo/cAzureKeyVault
 
 Microsoft Azure PowerShell - Storage management cmdlets for Azure Stack
 
-__Downloads__: 197,060 | __Repository__: 
+__Downloads__: 197,062 | __Repository__: 
 
 ## [AzureRM.AzureStackAdmin](https://www.powershellgallery.com/Packages/AzureRM.AzureStackAdmin/0.11.1) | 0.11.1
 
@@ -2014,7 +2014,7 @@ __Downloads__: 608 | __Repository__: https://github.com/fodonnel/CredentialStore
 
 Tools for Azure Automation logging
 
-__Downloads__: 1,221 | __Repository__: https://github.com/big-data-for-humans/azure-automation-tools
+__Downloads__: 1,222 | __Repository__: https://github.com/big-data-for-humans/azure-automation-tools
 
 ## [AzureArmTemplateHelper](https://www.powershellgallery.com/Packages/AzureArmTemplateHelper/1.0.3) | 1.0.3
 
@@ -2084,4 +2084,4 @@ This is a PowerShell module that packages up some useful Azure focused cmdlets I
 
 __Downloads__: 750 | __Repository__: 
 
-*Updated: Thursday, 19 May 2022 18:02:53 UTC*
+*Updated: Friday, 20 May 2022 02:31:12 UTC*

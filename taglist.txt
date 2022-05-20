@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 May 2022 18:03:01 UTC
+Updated: Friday, 20 May 2022 02:31:20 UTC
 
 ?:
 ??
@@ -258,6 +258,7 @@ amp
 amqp
 amsi
 amxmodx
+anaconda
 analysis
 analysisservices
 analyst
@@ -354,6 +355,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcus
 area
 argument
@@ -731,6 +733,7 @@ bpmn
 brainy
 branch
 brave
+bre
 breach
 break
 breakpoint
@@ -775,6 +778,7 @@ businesscentral
 businessdays
 businesshours
 businessobjects
+businessrulesengine
 businesstime
 bxor
 bydesign
@@ -1072,6 +1076,7 @@ cognitiveservices
 cohesity
 coinmarketcap
 collatordso
+collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1137,6 +1142,7 @@ computers
 computersite
 concur
 concurrent
+conda
 condition
 conditionalaccess
 conduit
@@ -1158,6 +1164,7 @@ configurationmanager
 configure
 confluence
 confluent
+conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1229,6 +1236,7 @@ cooltag2
 coordinates
 copilot
 copy
+copy-item
 core
 coreposh
 corona
@@ -2035,6 +2043,7 @@ extensions
 external
 externalip
 extract
+extreme-networks
 eztheme
 f
 f#
@@ -2221,6 +2230,8 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
+front
+frontapp
 frontdoor
 frontrange
 fs
@@ -2450,6 +2461,7 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
+hailstone
 haipa
 halo
 haloitsm
@@ -2565,6 +2577,8 @@ hosts
 hosts-file
 hostsfile
 hot-water
+hotkey
+hotkeys
 howto
 hp
 hpc
@@ -3130,6 +3144,10 @@ lod
 lodasoft
 log
 log-administration
+log-file
+log-files
+log-mail
+log-mails
 log-management
 log-rotation
 log4net
@@ -3155,6 +3173,8 @@ loginscreen
 loginsight
 logistic
 logitech
+logmail
+logmails
 logman
 logoff
 logon
@@ -3216,7 +3236,9 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
+mailing
 mailkit
+mails
 main
 main-menu
 maintenance
@@ -3632,6 +3654,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4045,6 +4068,7 @@ philips
 philosophical
 philpritchett
 phishing
+phoenix
 phoneautomation
 photo
 photograph
@@ -4244,6 +4268,7 @@ prepend
 preprocessing
 preprocessor
 presenter
+presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4340,6 +4365,10 @@ ps1
 ps1xml
 ps1xmlgen
 ps2exe
+ps3
+ps4
+ps5
+ps6
 ps7
 psa
 psadbscreencap
@@ -4831,6 +4860,7 @@ rubber
 rubrik
 ruby
 rule
+rulesengine
 run
 run-as-user
 runas
@@ -5110,6 +5140,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -6183,6 +6214,7 @@ vmwvmhost
 vnet
 vnugglets
 vnugglets.com
+vocabularies
 voice
 voiceconfig
 voidtools
@@ -6531,6 +6563,7 @@ xi
 xiaomi
 xkcd
 xliff
+xmc
 xml
 xml-rpc
 xml-transform
