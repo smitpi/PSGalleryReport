@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 20 May 2022 17:53:16 UTC
+Updated: Saturday, 21 May 2022 02:16:48 UTC
 
 ?:
 ??
@@ -43,7 +43,6 @@ Updated: Friday, 20 May 2022 17:53:16 UTC
 3d
 3dprinting
 3par
-50
 64
 650
 650flb
@@ -119,7 +118,6 @@ activity
 activitycount
 actor-model
 actors
-acumatica
 ad
 ad_monitoring
 ad-ds
@@ -154,7 +152,6 @@ adfstools
 adgroupmemberobjects
 adgroups
 adif
-adm
 admf
 admin
 admin-tools
@@ -402,7 +399,6 @@ assert
 assertion
 asset
 assetintelligencepoint
-assets
 assistance
 association
 ast
@@ -552,6 +548,7 @@ azuredataexplorer
 azuredatastudio
 azuredevops
 azuredevops_security
+azuredevopsserver
 azuredns
 azurefilesync
 azurefunctionapp
@@ -754,7 +751,6 @@ bson
 btdf
 btm
 budget
-bugzilla
 build
 build-scripts
 builddefinition
@@ -1075,7 +1071,6 @@ cognitiveservices
 cohesity
 coinmarketcap
 collatordso
-collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1163,7 +1158,6 @@ configurationmanager
 configure
 confluence
 confluent
-conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1459,7 +1453,6 @@ dbase
 dbcommand
 dbfs
 dbnull
-dbops
 dbup
 dbwebapi
 dc
@@ -1915,7 +1908,6 @@ error-log
 errorcode
 errorfile
 errors
-errorview
 eryph
 esae
 escape
@@ -2340,6 +2332,8 @@ getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
 ggplot
+gh-actions
+ghactions
 ghc
 ghibli
 ghost
@@ -2458,7 +2452,6 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
-hailstone
 haipa
 halo
 haloitsm
@@ -2727,6 +2720,7 @@ import-sampackagedefinitionsms
 importexport
 importteams
 inactive
+inboxrule
 incident-response
 incidentresponse
 incontact
@@ -2952,6 +2946,7 @@ katakana
 kb
 kbarticle
 kdbx
+keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3150,8 +3145,6 @@ loganalytics
 logbook
 logcat
 logfile
-logfilearchivearchive
-logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -3284,9 +3277,6 @@ marklogic
 marvel
 marvell
 marvell_semiconductor_inc
-marvellfcpowerkit
-marvellfcprovider
-marvellqlogicfcpowerkit
 mask
 mass
 masstransit
@@ -3318,7 +3308,6 @@ mdatp
 mdb
 mdbc
 mde
-mdm
 mdop
 mdt
 mdx
@@ -3483,8 +3472,6 @@ mp4
 mpc
 mpeg
 mpn
-mrvl_fc_powerkit
-mrvlfcprovider
 ms_365
 ms-graph
 ms365
@@ -3492,6 +3479,7 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msband
+msbi
 msbuild
 mschart
 msdeploy
@@ -3684,11 +3672,9 @@ nordtools
 normal
 norskale
 nosql
-note
 notebook
 notepad
 noteproperty
-notes
 notification
 notificationhubs
 notifications
@@ -4479,7 +4465,6 @@ pstwitter
 pswa
 pswindocumentation
 pswinreporting
-pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -4535,14 +4520,11 @@ python-for-dotnet
 qcloud
 qconvergeconsolepowerkit
 qemu
-qlgc_fc_powerkit
 qlik
 qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
-qlogicfcpowerkit
-qlogicfcprovider
 qna
 qol
 qq
@@ -4645,10 +4627,7 @@ redfish
 redforest
 redgate
 redirect
-redirecting
 redirects
-redirectstandarderror
-redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -4722,7 +4701,6 @@ repeat
 repl
 replace
 replaygain
-replication
 repoo
 report
 reporting
@@ -5391,6 +5369,7 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
+sqlserveragent
 sqlvirtualmachine
 sqr
 sqrt
@@ -5454,7 +5433,6 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
-stderr
 stdout
 steam
 steam-games
@@ -5611,7 +5589,6 @@ tabexpansion
 tabexpansion2
 tablacus
 table
-tableau
 tables
 tablestorage
 tabs
@@ -5795,6 +5772,7 @@ torrents
 toshiba
 totp
 touch
+toughswitch
 tphubps
 tpp
 trace
@@ -5905,7 +5883,6 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
-ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -5960,7 +5937,6 @@ uefi
 ui
 ui/ux
 ui7
-uk
 ul
 ulid
 ulm
@@ -6022,6 +5998,7 @@ ups
 upsource
 upstream
 uptime
+uptimerobot
 uptobox
 uri
 uri-scheme
@@ -6331,7 +6308,6 @@ webtime
 wec
 wecutil
 weekday
-wef
 weixin
 well-known
 wem
