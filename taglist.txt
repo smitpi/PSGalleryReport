@@ -1,9 +1,10 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 21 May 2022 09:52:34 UTC
+Updated: Saturday, 21 May 2022 17:52:33 UTC
 
 ?:
 ??
+.bat
 .env
 .net
 .ps1xml
@@ -1056,6 +1057,7 @@ coa
 cockroachdb
 codaamok
 code
+code-page
 code365
 codebuild
 codecov
@@ -1801,6 +1803,7 @@ dynmanageddns
 e-mail
 easy
 easy-to-use
+easyvista
 eaton
 ebay
 ebooks
@@ -2059,6 +2062,7 @@ farmanager
 fast
 fast-dds
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2430,6 +2434,7 @@ group-policy
 groupmembership
 grouppolicy
 groups
+grouvee
 grr
 gsuite
 gtx1080ti
@@ -2646,10 +2651,12 @@ ibmc
 ibmhttpserver
 icinga
 icinga2
+icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
+icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -2827,6 +2834,7 @@ ios
 iot
 iotcentral
 iothub
+iothubproperties
 ip
 ip-address
 ipa
@@ -3281,6 +3289,9 @@ marklogic
 marvel
 marvell
 marvell_semiconductor_inc
+marvellfcpowerkit
+marvellfcprovider
+marvellqlogicfcpowerkit
 mask
 mass
 masstransit
@@ -3477,6 +3488,8 @@ mp4
 mpc
 mpeg
 mpn
+mrvl_fc_powerkit
+mrvlfcprovider
 ms_365
 ms-graph
 ms365
@@ -3520,6 +3533,7 @@ msproject
 msrc
 msrdc
 mssql
+mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -3646,6 +3660,7 @@ newspaper
 newtonsoft
 nexenta
 nexentastor
+nexthink
 nexus
 ngen
 ngfw
@@ -3926,6 +3941,7 @@ oxyplot
 p2000
 p2s
 pa1reg
+paas
 pac
 pack
 package
@@ -4077,9 +4093,11 @@ pipeline
 pipelines
 piraeus
 pivot
+pivotal
 pivottable
 pixoo
 pki
+pks
 place
 places
 plain
@@ -4325,6 +4343,7 @@ protocol
 provance
 provider
 providerhub
+provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -4524,11 +4543,14 @@ python-for-dotnet
 qcloud
 qconvergeconsolepowerkit
 qemu
+qlgc_fc_powerkit
 qlik
 qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
+qlogicfcpowerkit
+qlogicfcprovider
 qna
 qol
 qq
@@ -4631,7 +4653,10 @@ redfish
 redforest
 redgate
 redirect
+redirecting
 redirects
+redirectstandarderror
+redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -5438,6 +5463,7 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
+stderr
 stdout
 steam
 steam-games
@@ -5701,6 +5727,8 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
+textbuffer
 texting
 textwrapping
 tfe
@@ -6546,6 +6574,7 @@ xoauth2
 xor
 xpath
 xpendingreboot
+xpertdoc
 xpo
 xprotect
 xrm
