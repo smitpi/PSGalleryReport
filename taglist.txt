@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 21 May 2022 17:52:33 UTC
+Updated: Sunday, 22 May 2022 02:28:51 UTC
 
 ?:
 ??
@@ -1574,7 +1574,6 @@ diagrams
 dialog
 dice
 diceware
-dicom
 dictionary
 diff
 difference
@@ -1656,7 +1655,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsdumpster
 dnsentry
 dnsimple
 dnsmadeeasy
@@ -2380,7 +2378,6 @@ gobright
 godaddy
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -4183,7 +4180,6 @@ poshtemplate
 poshwsus
 position
 postgre
-postgres
 postgresql
 pow
 powdrgit
@@ -4605,7 +4601,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdb
@@ -4911,7 +4906,6 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
-sasdatasets
 sasxpt
 satirical
 save
@@ -4950,7 +4944,6 @@ scheduler
 schedules-execution
 scheduling
 schema
-schemaextensions
 scheme
 school-information-system
 schulung
@@ -5323,13 +5316,11 @@ soonragent
 sophos
 sort
 source
-source-dedicated-server
 sourcecontrol
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 space
 spaces
 spacex
@@ -5466,7 +5457,6 @@ staytus
 stderr
 stdout
 steam
-steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5728,7 +5718,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textwrapping
 tfe
@@ -5851,7 +5840,6 @@ triangle
 trigger
 triodos
 tripunkt
-troubleshoot
 troubleshooting
 trouw
 truecrypt
