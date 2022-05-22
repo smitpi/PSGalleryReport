@@ -1,9 +1,10 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 22 May 2022 09:52:29 UTC
+Updated: Sunday, 22 May 2022 17:52:36 UTC
 
 ?:
 ??
+.bat
 .env
 .net
 .ps1xml
@@ -188,7 +189,6 @@ advapi32
 advisor
 adwords
 adx
-adxingestion
 aem
 aeries
 aeriessis
@@ -221,7 +221,6 @@ alac
 alarm
 albertheijn
 albums
-alero
 alert
 alerting
 alertmail
@@ -250,6 +249,7 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonwebservices
 amend
 ami
 amp
@@ -423,6 +423,7 @@ attestation
 attila
 attilakrick
 attribute
+attributes
 au
 audio
 audiocodes
@@ -434,6 +435,7 @@ auditpolicy
 audits
 aumid
 aut
+auth0
 authenticate
 authentication
 authenticationcertificate
@@ -544,7 +546,6 @@ azurecli
 azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
-azuredataexplorer
 azuredatastudio
 azuredevops
 azuredevops_security
@@ -659,7 +660,6 @@ bin
 bin-obj
 binary
 binaryip
-bind
 binding
 bing
 bingmap
@@ -1071,6 +1071,7 @@ cognitiveservices
 cohesity
 coinmarketcap
 collatordso
+collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1158,6 +1159,7 @@ configurationmanager
 configure
 confluence
 confluent
+conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1320,7 +1322,6 @@ csproj
 csrf
 css
 csv
-csv2adx
 csvhelper
 ctf
 ctglobal
@@ -1337,6 +1338,7 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
+current
 custom
 customchecks
 customer
@@ -1609,7 +1611,6 @@ disk-space
 diskfree
 diskpart
 diskpool
-diskspace
 dism
 dismal
 display
@@ -2372,7 +2373,6 @@ gobright
 godaddy
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2453,6 +2453,7 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
+hailstone
 haipa
 halo
 haloitsm
@@ -3069,7 +3070,6 @@ licence
 license
 license-generator
 licenseautomation
-licensereport
 licenses
 licensing
 light
@@ -3337,6 +3337,7 @@ meltdown
 mem
 member
 members
+membership
 memcm
 memory
 memorystream
@@ -3487,7 +3488,6 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msband
-msbi
 msbuild
 mschart
 msdeploy
@@ -3861,6 +3861,7 @@ operationvalidation
 operatoraccesscontrol
 operators
 opml
+ops
 opsi
 opsmgr
 optics
@@ -4591,7 +4592,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdb
@@ -4610,6 +4610,7 @@ rds
 rdsgw
 react-stockcharts
 read-slog
+readable
 readiness
 readme
 readthedocs
@@ -4935,7 +4936,6 @@ scheduler
 schedules-execution
 scheduling
 schema
-schemaextensions
 scheme
 school-information-system
 schulung
@@ -5156,6 +5156,7 @@ shell-art
 shells
 shieldedvm
 ships
+shipstation
 shlink
 shodan
 shopify
@@ -5307,13 +5308,11 @@ soonragent
 sophos
 sort
 source
-source-dedicated-server
 sourcecontrol
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 space
 spaces
 spacex
@@ -5383,7 +5382,6 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
-sqlserveragent
 sqlvirtualmachine
 sqr
 sqrt
@@ -5450,7 +5448,6 @@ staytus
 stderr
 stdout
 steam
-steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5475,6 +5472,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -5510,7 +5508,6 @@ subnetmask
 subnetmaths
 subnets
 subnetting
-subscribedskus
 subscription
 subscriptiondefinition
 subsystem
@@ -5904,10 +5901,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -5918,7 +5917,6 @@ ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
-ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
@@ -5926,7 +5924,6 @@ ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
-ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
@@ -6334,6 +6331,7 @@ where
 whfb
 whiteboard
 whitespace
+whoami
 whois
 whormi
 wi-fi
@@ -6391,6 +6389,7 @@ windowsplugins
 windowspowershell
 windowspresentationfoundation
 windowsrest
+windowssandbox
 windowsserver
 windowsserver2008
 windowsserver2012
@@ -6414,7 +6413,6 @@ winrm
 winrs
 winrt
 wins
-winsat
 winscp
 wintellect
 winterminal

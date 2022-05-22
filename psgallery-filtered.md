@@ -5,6 +5,39 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.5) | 3.1.5
+
+### Published: 05/22/2022 16:24:28 by Marius Rochon
+
+Manage (create, extend, import, export) Azure B2C xml IEF policy sets used for custom journeys. See https://github.com/mrochon/IEFPolicies
+
+__Downloads__: 1,724 | __Repository__: https://github.com/mrochon/IEFPolicies
+
+## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.5.22) | 22.5.22
+
+### Published: 05/22/2022 15:09:30 by David Eberhardt
+
+Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
+For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
+
+__Downloads__: 2,220 | __Repository__: 
+
+## [kbupdate-library](https://www.powershellgallery.com/Packages/kbupdate-library/1.1.2) | 1.1.2
+
+### Published: 05/22/2022 13:52:11 by Chrissy LeMaire
+
+Database for KB Viewer and Saver
+
+__Downloads__: 333,787 | __Repository__: 
+
+## [TrainingUtils](https://www.powershellgallery.com/Packages/TrainingUtils/1.0.4) | 1.0.4
+
+### Published: 05/22/2022 12:16:38 by Jarom Hernandez
+
+Training module.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.4) | 0.0.4
 
 ### Published: 05/21/2022 16:42:34 by Przemyslaw Klys
@@ -28,7 +61,7 @@ __Downloads__: 161 | __Repository__: https://github.com/smitpi/XDHealthCheck
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,603,184 | __Repository__: https://dbatools.io/
+__Downloads__: 1,603,142 | __Repository__: https://dbatools.io/
 
 ## [AzureServiceBusManagement](https://www.powershellgallery.com/Packages/AzureServiceBusManagement/0.0.3) | 0.0.3
 
@@ -124,7 +157,7 @@ __Downloads__: 140 | __Repository__:
 
 Devolutions Remote Desktop Manager (RDM) PowerShell Module
 
-__Downloads__: 5,005 | __Repository__: 
+__Downloads__: 5,007 | __Repository__: 
 
 ## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.6) | 1.2.6
 
@@ -148,7 +181,7 @@ __Downloads__: 12 | __Repository__: https://github.com/vmware/vmware-powercli-fo
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 12,805,319 | __Repository__: 
+__Downloads__: 12,805,275 | __Repository__: 
 
 ## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
 
@@ -236,7 +269,7 @@ __Downloads__: 4 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 652,032 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 652,033 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
 
@@ -364,7 +397,7 @@ __Downloads__: 259 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Microsoft Planner
 
-__Downloads__: 355 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 354 | __Repository__: http://www.cdata.com/powershell/
 
 ## [EdgarOnlineCmdlets](https://www.powershellgallery.com/Packages/EdgarOnlineCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -397,6 +430,14 @@ __Downloads__: 205 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for EpicorERP
 
 __Downloads__: 302 | __Repository__: http://www.cdata.com/powershell/
+
+## [StreakCmdlets](https://www.powershellgallery.com/Packages/StreakCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:24:28 by CData Software Inc.
+
+CData Cmdlets for Streak
+
+__Downloads__: 196 | __Repository__: http://www.cdata.com/powershell/
 
 ## [DocuSignCmdlets](https://www.powershellgallery.com/Packages/DocuSignCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -958,6 +999,14 @@ CData Cmdlets for Tally
 
 __Downloads__: 211 | __Repository__: http://www.cdata.com/powershell/
 
+## [ShipStationCmdlets](https://www.powershellgallery.com/Packages/ShipStationCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:17:44 by CData Software Inc.
+
+CData Cmdlets for ShipStation
+
+__Downloads__: 185 | __Repository__: http://www.cdata.com/powershell/
+
 ## [FacebookAdsCmdlets](https://www.powershellgallery.com/Packages/FacebookAdsCmdlets/21.0.8137.1) | 21.0.8137.1
 
 ### Published: 05/19/2022 20:17:38 by CData Software Inc.
@@ -1246,14 +1295,6 @@ CData Cmdlets for SAP Business One
 
 __Downloads__: 404 | __Repository__: http://www.cdata.com/powershell/
 
-## [SplunkCmdlets](https://www.powershellgallery.com/Packages/SplunkCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:14:15 by CData Software Inc.
-
-CData Cmdlets for Splunk
-
-__Downloads__: 681 | __Repository__: http://www.cdata.com/powershell/
-
 ## [Wsl-Arch](https://www.powershellgallery.com/Packages/Wsl-Arch/1.1.1) | 1.1.1
 
 ### Published: 05/19/2022 20:14:15 by Antoine Martin
@@ -1261,6 +1302,14 @@ __Downloads__: 681 | __Repository__: http://www.cdata.com/powershell/
 Powershell cmdlet to quickly create a small Arch Linux based WSL distribution
 
 __Downloads__: 1 | __Repository__: https://github.com/antoinemartin/PowerShell-Wsl-Arch
+
+## [SplunkCmdlets](https://www.powershellgallery.com/Packages/SplunkCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:14:15 by CData Software Inc.
+
+CData Cmdlets for Splunk
+
+__Downloads__: 681 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ActCRMCmdlets](https://www.powershellgallery.com/Packages/ActCRMCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1958,52 +2007,4 @@ CData Cmdlets for eBay
 
 __Downloads__: 893 | __Repository__: http://www.cdata.com/powershell/
 
-## [GoogleAdsManagerCmdlets](https://www.powershellgallery.com/Packages/GoogleAdsManagerCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:17 by CData Software Inc.
-
-CData Cmdlets for Google Ads Manager
-
-__Downloads__: 438 | __Repository__: http://www.cdata.com/powershell/
-
-## [BasecampCmdlets](https://www.powershellgallery.com/Packages/BasecampCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:11 by CData Software Inc.
-
-CData Cmdlets for Basecamp
-
-__Downloads__: 721 | __Repository__: http://www.cdata.com/powershell/
-
-## [BoxCmdlets](https://www.powershellgallery.com/Packages/BoxCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:05 by CData Software Inc.
-
-CData Cmdlets for Box
-
-__Downloads__: 578 | __Repository__: http://www.cdata.com/powershell/
-
-## [ReckonCmdlets](https://www.powershellgallery.com/Packages/ReckonCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:00 by CData Software Inc.
-
-CData Cmdlets for Reckon
-
-__Downloads__: 621 | __Repository__: http://www.cdata.com/powershell/
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/10.2.10) | 10.2.10
-
-### Published: 05/19/2022 19:23:27 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 13,589 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.12.0) | 1.12.0
-
-### Published: 05/19/2022 19:22:52 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 10,542 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Sunday, 22 May 2022 09:52:20 UTC*
+*Updated: Sunday, 22 May 2022 17:52:26 UTC*
