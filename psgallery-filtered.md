@@ -5,6 +5,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.1.2) | 1.1.2
+
+### Published: 05/23/2022 17:12:56 by Sascha Spiekermann
+
+A module to interact with a Fortinet Manager appliance for Fortigate Firewalls
+
+__Downloads__: 12 | __Repository__: https://github.com/Callidus2000/FortiManager/
+
+## [UcLobbyTeams](https://www.powershellgallery.com/Packages/UcLobbyTeams/0.1.2) | 0.1.2
+
+### Published: 05/23/2022 15:50:44 by David Paulino
+
+UC Lobby Teams PowerShell Module
+
+__Downloads__: 10 | __Repository__: 
+
+## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/0.1.5) | 0.1.5
+
+### Published: 05/23/2022 13:48:33 by Endjineers
+
+Provides automated build features using on the InvokeBuild module
+
+__Downloads__: 1,329 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.23.2) | 22.5.23.2
+
+### Published: 05/23/2022 12:49:07 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 211,819 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.22143.1) | 1.0.22143.1
+
+### Published: 05/23/2022 11:30:06 by rdannenberg
+
+This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
+
+__Downloads__: 1,511 | __Repository__: 
+
+## [FSWatcherEngineEvent](https://www.powershellgallery.com/Packages/FSWatcherEngineEvent/1.4) | 1.4
+
+### Published: 05/23/2022 11:26:38 by github.com/wgross
+
+Provide file system change notifications as PowerShell engine events
+
+__Downloads__: 620 | __Repository__: https://github.com/wgross/fswatcher-engine-event
+
 ## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/0.3.4) | 0.3.4
 
 ### Published: 05/23/2022 09:07:38 by hugoalh
@@ -89,14 +137,6 @@ PowerShell Crescendo-generated Module to query APT-Package Information
 
 __Downloads__: 0 | __Repository__: 
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.23.1) | 22.5.23.1
-
-### Published: 05/23/2022 07:03:51 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 211,819 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [StopBruteforce](https://www.powershellgallery.com/Packages/StopBruteforce/1.0.6) | 1.0.6
 
 ### Published: 05/23/2022 05:34:59 by Ilya
@@ -177,7 +217,7 @@ __Downloads__: 163 | __Repository__: https://github.com/smitpi/XDHealthCheck
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,604,985 | __Repository__: https://dbatools.io/
+__Downloads__: 1,604,998 | __Repository__: https://dbatools.io/
 
 ## [AzureServiceBusManagement](https://www.powershellgallery.com/Packages/AzureServiceBusManagement/0.0.3) | 0.0.3
 
@@ -297,7 +337,7 @@ __Downloads__: 15 | __Repository__: https://github.com/vmware/vmware-powercli-fo
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 12,814,649 | __Repository__: 
+__Downloads__: 12,814,741 | __Repository__: 
 
 ## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
 
@@ -322,14 +362,6 @@ __Downloads__: 1,966 | __Repository__: https://github.com/ryancbutler/UnideskSDK
 This module provides classes for automating operations.
 
 __Downloads__: 2 | __Repository__: 
-
-## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.1.1) | 1.1.1
-
-### Published: 05/20/2022 12:37:48 by Sascha Spiekermann
-
-A module to interact with a Fortinet Manager appliance for Fortigate Firewalls
-
-__Downloads__: 12 | __Repository__: https://github.com/Callidus2000/FortiManager/
 
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.9.6484) | 1.0.9.6484
 
@@ -417,7 +449,7 @@ __Downloads__: 10,923 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,248,139 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,248,140 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -810,14 +842,6 @@ __Downloads__: 1,018 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Facebook
 
 __Downloads__: 1,398 | __Repository__: http://www.cdata.com/powershell/
-
-## [FinancialEdgeNXTCmdlets](https://www.powershellgallery.com/Packages/FinancialEdgeNXTCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:21:20 by CData Software Inc.
-
-CData Cmdlets for Blackbaud Financial Edge NXT
-
-__Downloads__: 350 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SybaseCmdlets](https://www.powershellgallery.com/Packages/SybaseCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1403,14 +1427,6 @@ CData Cmdlets for SAP Business One
 
 __Downloads__: 406 | __Repository__: http://www.cdata.com/powershell/
 
-## [Wsl-Arch](https://www.powershellgallery.com/Packages/Wsl-Arch/1.1.1) | 1.1.1
-
-### Published: 05/19/2022 20:14:15 by Antoine Martin
-
-Powershell cmdlet to quickly create a small Arch Linux based WSL distribution
-
-__Downloads__: 2 | __Repository__: https://github.com/antoinemartin/PowerShell-Wsl-Arch
-
 ## [SplunkCmdlets](https://www.powershellgallery.com/Packages/SplunkCmdlets/21.0.8137.1) | 21.0.8137.1
 
 ### Published: 05/19/2022 20:14:15 by CData Software Inc.
@@ -1418,6 +1434,14 @@ __Downloads__: 2 | __Repository__: https://github.com/antoinemartin/PowerShell-W
 CData Cmdlets for Splunk
 
 __Downloads__: 683 | __Repository__: http://www.cdata.com/powershell/
+
+## [Wsl-Arch](https://www.powershellgallery.com/Packages/Wsl-Arch/1.1.1) | 1.1.1
+
+### Published: 05/19/2022 20:14:15 by Antoine Martin
+
+Powershell cmdlet to quickly create a small Arch Linux based WSL distribution
+
+__Downloads__: 3 | __Repository__: https://github.com/antoinemartin/PowerShell-Wsl-Arch
 
 ## [ActCRMCmdlets](https://www.powershellgallery.com/Packages/ActCRMCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1753,7 +1777,7 @@ __Downloads__: 856 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 7,274 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 7,273 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -2003,28 +2027,4 @@ CData Cmdlets for Smartsheet
 
 __Downloads__: 1,025 | __Repository__: http://www.cdata.com/powershell/
 
-## [QuandlCmdlets](https://www.powershellgallery.com/Packages/QuandlCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:22 by CData Software Inc.
-
-CData Cmdlets for Quandl
-
-__Downloads__: 670 | __Repository__: http://www.cdata.com/powershell/
-
-## [PayPalCmdlets](https://www.powershellgallery.com/Packages/PayPalCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:17 by CData Software Inc.
-
-CData Cmdlets for PayPal
-
-__Downloads__: 699 | __Repository__: http://www.cdata.com/powershell/
-
-## [StripeCmdlets](https://www.powershellgallery.com/Packages/StripeCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:11 by CData Software Inc.
-
-CData Cmdlets for Stripe
-
-__Downloads__: 696 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Monday, 23 May 2022 09:52:43 UTC*
+*Updated: Monday, 23 May 2022 17:53:46 UTC*

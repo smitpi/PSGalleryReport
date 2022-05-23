@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 23 May 2022 09:52:52 UTC
+Updated: Monday, 23 May 2022 17:53:56 UTC
 
 ?:
 ??
@@ -189,7 +189,6 @@ advapi32
 advisor
 adwords
 adx
-adxingestion
 aem
 aeries
 aeriessis
@@ -245,7 +244,6 @@ alpine
 alpr
 alt3
 alter
-alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -314,7 +312,6 @@ appclusive
 appcmd
 appconfiguration
 appdynamics
-appearance
 appender
 appian
 appinsights
@@ -548,7 +545,6 @@ azurecli
 azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
-azuredataexplorer
 azuredatastudio
 azuredevops
 azuredevops_security
@@ -1057,6 +1053,7 @@ coa
 cockroachdb
 codaamok
 code
+code-page
 code365
 codebuild
 codecov
@@ -1326,7 +1323,6 @@ csproj
 csrf
 css
 csv
-csv2adx
 csvhelper
 ctf
 ctglobal
@@ -1618,10 +1614,8 @@ diskpart
 diskpool
 diskspace
 dism
-dismal
 display
 displayresolution
-distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1719,7 +1713,6 @@ dr
 draw
 drawio
 dreamweaver
-dreary
 drift
 driftmonitor
 drive
@@ -1967,7 +1960,6 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
-everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2061,6 +2053,7 @@ farmanager
 fast
 fast-dds
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2435,6 +2428,7 @@ groups
 grouvee
 grr
 gsuite
+gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -2483,6 +2477,7 @@ harperdb
 harvest
 harvestforecast
 hash
+hashcat
 hashicorp
 hashset
 hashtable
@@ -2521,7 +2516,6 @@ helloworld
 helmet
 help
 helper
-helperfunctions
 helpers
 helpfile
 heml
@@ -3289,7 +3283,6 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
-mass
 masstransit
 masterconfiguration
 matcharray
@@ -3515,6 +3508,7 @@ msi
 msi psmodule
 msiexec
 msil
+msix
 mslab
 msmq
 msol
@@ -3655,7 +3649,6 @@ newspaper
 newtonsoft
 nexenta
 nexentastor
-nexthink
 nexus
 ngen
 ngfw
@@ -3848,6 +3841,7 @@ openfiles
 openhere
 openidconnect
 openinghours
+openport
 openscad
 opensourceinitiative
 openssh
@@ -3865,6 +3859,7 @@ operationvalidation
 operatoraccesscontrol
 operators
 opml
+ops
 opsi
 opsmgr
 optics
@@ -4046,7 +4041,6 @@ permissions
 permutations
 persistent
 personal
-personalisation
 personalization
 personalvault
 pester
@@ -4099,7 +4093,6 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
@@ -4107,7 +4100,6 @@ player
 playlists
 pleasant
 pleasantpasswordserver
-plex
 plist
 plog
 plot
@@ -4316,6 +4308,7 @@ progressbar
 project
 project-management
 projectmanagement
+projectreunion
 projects
 projecttemplate
 projectwise
@@ -4730,6 +4723,7 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
+reportrunner
 reports
 repos
 repositories
@@ -4954,7 +4948,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5101,7 +5094,7 @@ serviceendpoints
 servicefabric
 servicemanagementautomation
 servicemanager
-servicemanagerproxy
+servicemesh
 servicenow
 serviceplan
 servicepointmanager
@@ -5296,6 +5289,7 @@ solarigate
 solarized
 solarwinds
 solr
+soltra
 solution
 solutions
 sonarcloud
@@ -5642,6 +5636,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
+tcpport
 tcpserver
 tcptest
 tcx
@@ -5725,7 +5720,6 @@ tfscmdlets
 tftd
 tftp
 tfvc
-thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
@@ -5909,11 +5903,10 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -5942,7 +5935,6 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
-ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -5983,7 +5975,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
@@ -6426,6 +6417,7 @@ winsat
 winscp
 wintellect
 winterminal
+winui
 wireless
 wirelessnetwork
 wireshark
@@ -6447,8 +6439,6 @@ wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -6482,7 +6472,6 @@ wpf
 wrap
 wrap-text
 wrapper
-wrapperfunctions
 wrc
 wrike
 write
