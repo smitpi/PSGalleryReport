@@ -5,6 +5,122 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/0.3.4) | 0.3.4
+
+### Published: 05/23/2022 09:07:38 by hugoalh
+
+Provide a better and easier way for GitHub Actions to communicate with the runner machine.
+
+__Downloads__: 252 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+
+## [EndpointCloudkit](https://www.powershellgallery.com/Packages/EndpointCloudkit/0.0.14.7) | 0.0.14.7
+
+### Published: 05/23/2022 08:53:20 by Diagg
+
+Endpoint Cloud kit Module (ECK), a set of cmdlet to help building scripts or application deployed by your MDM (Intune/Workspace One...)
+
+- Run Powershell script or executable in User/system/admin/trusted installer/System Interactive context
+- Restart your script after reboot
+- Logging function
+- Configurable reboot toast notifications
+- Execution context (Admin/system/user/TI) detection
+- Pending reboot detection
+- Windows Build converter to friendly name (like 21H2)
+- Download from Git/Github on public/private repo
+- Auto update ECK module
+
+__Downloads__: 826 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
+
+## [EndpointCloudkit-Alpha](https://www.powershellgallery.com/Packages/EndpointCloudkit-Alpha/0.0.14.7) | 0.0.14.7
+
+### Published: 05/23/2022 08:51:42 by Diagg
+
+Endpoint Cloud kit Module (ECK), a set of cmdlet to help building scripts or application deployed by your MDM (Intune/Workspace One...)
+
+- Run Powershell script or executable in User/system/admin/trusted installer/System Interactive context
+- Restart your script after reboot
+- Logging function
+- Configurable reboot toast notifications
+- Execution context (Admin/system/user/TI) detection
+- Pending reboot detection
+- Windows Build converter to friendly name (like 21H2)
+- Download from Git/Github on public/private repo
+- Auto update ECK module
+
+__Downloads__: 54 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
+
+## [io.github.ajchemist.PS.Hyper-V](https://www.powershellgallery.com/Packages/io.github.ajchemist.PS.Hyper-V/2022.143.31473) | 2022.143.31473
+
+### Published: 05/23/2022 08:44:45 by ajchemist
+
+io.github.ajchemist.PS.Hyper-V
+
+__Downloads__: 57 | __Repository__: 
+
+## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.94) | 1.0.94
+
+### Published: 05/23/2022 08:43:33 by Mathias Stjernfelt
+
+BrightCom Solutions AB powershell helper.
+
+__Downloads__: 1,968 | __Repository__: 
+
+## [ShoutOut](https://www.powershellgallery.com/Packages/ShoutOut/4.2.0) | 4.2.0
+
+### Published: 05/23/2022 08:40:44 by Joakim Olsson <joakim.olsson@adicitus.cloud>.
+
+The ShoutOut logger used in Caffeine and other ACG projects.
+
+__Downloads__: 423 | __Repository__: https://github.com/Adicitus/shoutout
+
+## [ZPki](https://www.powershellgallery.com/Packages/ZPki/0.1.8178.1006) | 0.1.8178.1006
+
+### Published: 05/23/2022 08:21:13 by Anders Runesson
+
+Windows PKI and certificate management
+
+__Downloads__: 349 | __Repository__: https://github.com/zampleworks/ZPki
+
+## [AptPackage](https://www.powershellgallery.com/Packages/AptPackage/0.0.2) | 0.0.2
+
+### Published: 05/23/2022 07:47:12 by Cornelius Schuchardt
+
+PowerShell Crescendo-generated Module to query APT-Package Information
+
+__Downloads__: 0 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.23.1) | 22.5.23.1
+
+### Published: 05/23/2022 07:03:51 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 211,819 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [StopBruteforce](https://www.powershellgallery.com/Packages/StopBruteforce/1.0.6) | 1.0.6
+
+### Published: 05/23/2022 05:34:59 by Ilya
+
+PSStopBruteforce modules to stop bruteforce attack on SMB, RDP and WinRm
+
+__Downloads__: 91 | __Repository__: https://github.com/nneeoo/PSStopBruteforce
+
+## [TfsCmdlets](https://www.powershellgallery.com/Packages/TfsCmdlets/2.4.0) | 2.4.0
+
+### Published: 05/23/2022 05:11:56 by Igor Abade V. Leite
+
+PowerShell Cmdlets for Azure DevOps and Team Foundation Server
+
+__Downloads__: 6,939 | __Repository__: https://github.com/igoravl/tfscmdlets/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.11.0) | 4.11.0
+
+### Published: 05/23/2022 04:05:47 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 10,449 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
 ## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.5) | 0.0.5
 
 ### Published: 05/22/2022 18:44:52 by Przemyslaw Klys
@@ -61,7 +177,7 @@ __Downloads__: 163 | __Repository__: https://github.com/smitpi/XDHealthCheck
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,604,998 | __Repository__: https://dbatools.io/
+__Downloads__: 1,604,985 | __Repository__: https://dbatools.io/
 
 ## [AzureServiceBusManagement](https://www.powershellgallery.com/Packages/AzureServiceBusManagement/0.0.3) | 0.0.3
 
@@ -181,7 +297,7 @@ __Downloads__: 15 | __Repository__: https://github.com/vmware/vmware-powercli-fo
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 12,814,741 | __Repository__: 
+__Downloads__: 12,814,649 | __Repository__: 
 
 ## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
 
@@ -198,14 +314,6 @@ __Downloads__: 1,084 | __Repository__:
 Reversed Engineered Unidesk\Citrix App Layering SDK
 
 __Downloads__: 1,966 | __Repository__: https://github.com/ryancbutler/UnideskSDK
-
-## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.93) | 1.0.93
-
-### Published: 05/20/2022 13:31:45 by Mathias Stjernfelt
-
-BrightCom Solutions AB powershell helper.
-
-__Downloads__: 1,968 | __Repository__: 
 
 ## [StepAutomation](https://www.powershellgallery.com/Packages/StepAutomation/1.0.0) | 1.0.0
 
@@ -269,7 +377,7 @@ __Downloads__: 5 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 653,072 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 653,080 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
 
@@ -309,7 +417,7 @@ __Downloads__: 10,923 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,248,135 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,248,139 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1415,14 +1523,6 @@ CData Cmdlets for Azure Resource Management
 
 __Downloads__: 82 | __Repository__: http://www.cdata.com/powershell/
 
-## [SlackCmdlets](https://www.powershellgallery.com/Packages/SlackCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:12:59 by CData Software Inc.
-
-CData Cmdlets for Slack
-
-__Downloads__: 406 | __Repository__: http://www.cdata.com/powershell/
-
 ## [D365BusinessCentralCmdlets](https://www.powershellgallery.com/Packages/D365BusinessCentralCmdlets/21.0.8137.1) | 21.0.8137.1
 
 ### Published: 05/19/2022 20:12:54 by CData Software Inc.
@@ -1653,7 +1753,7 @@ __Downloads__: 856 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 7,272 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 7,274 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1927,84 +2027,4 @@ CData Cmdlets for Stripe
 
 __Downloads__: 696 | __Repository__: http://www.cdata.com/powershell/
 
-## [ServiceNowCmdlets](https://www.powershellgallery.com/Packages/ServiceNowCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:05 by CData Software Inc.
-
-CData Cmdlets for ServiceNow
-
-__Downloads__: 1,661 | __Repository__: http://www.cdata.com/powershell/
-
-## [BingCmdlets](https://www.powershellgallery.com/Packages/BingCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:00 by CData Software Inc.
-
-CData Cmdlets for Bing
-
-__Downloads__: 727 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleSearchCmdlets](https://www.powershellgallery.com/Packages/GoogleSearchCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:55 by CData Software Inc.
-
-CData Cmdlets for Google Search
-
-__Downloads__: 1,286 | __Repository__: http://www.cdata.com/powershell/
-
-## [OpenExchangeRatesCmdlets](https://www.powershellgallery.com/Packages/OpenExchangeRatesCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:49 by CData Software Inc.
-
-CData Cmdlets for Open Exchange Rates
-
-__Downloads__: 619 | __Repository__: http://www.cdata.com/powershell/
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.19.1) | 22.5.19.1
-
-### Published: 05/19/2022 20:06:46 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-MMSMOA Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 211,824 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [JIRACmdlets](https://www.powershellgallery.com/Packages/JIRACmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:44 by CData Software Inc.
-
-CData Cmdlets for JIRA
-
-__Downloads__: 957 | __Repository__: http://www.cdata.com/powershell/
-
-## [HighriseCmdlets](https://www.powershellgallery.com/Packages/HighriseCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:39 by CData Software Inc.
-
-CData Cmdlets for Highrise
-
-__Downloads__: 704 | __Repository__: http://www.cdata.com/powershell/
-
-## [SendGridCmdlets](https://www.powershellgallery.com/Packages/SendGridCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:33 by CData Software Inc.
-
-CData Cmdlets for SendGrid
-
-__Downloads__: 1,119 | __Repository__: http://www.cdata.com/powershell/
-
-## [SalesforceChatterCmdlets](https://www.powershellgallery.com/Packages/SalesforceChatterCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:28 by CData Software Inc.
-
-CData Cmdlets for Salesforce Chatter
-
-__Downloads__: 515 | __Repository__: http://www.cdata.com/powershell/
-
-## [EbayCmdlets](https://www.powershellgallery.com/Packages/EbayCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:06:22 by CData Software Inc.
-
-CData Cmdlets for eBay
-
-__Downloads__: 894 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Monday, 23 May 2022 02:31:35 UTC*
+*Updated: Monday, 23 May 2022 09:52:43 UTC*

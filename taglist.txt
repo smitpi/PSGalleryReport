@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 23 May 2022 02:31:47 UTC
+Updated: Monday, 23 May 2022 09:52:52 UTC
 
 ?:
 ??
@@ -663,6 +663,7 @@ bin
 bin-obj
 binary
 binaryip
+bind
 binding
 bing
 bingmap
@@ -748,6 +749,7 @@ broot
 browser
 browserextension
 browserhistory
+brs
 bruteforce
 bson
 btdf
@@ -1055,7 +1057,6 @@ coa
 cockroachdb
 codaamok
 code
-code-page
 code365
 codebuild
 codecov
@@ -2060,7 +2061,6 @@ farmanager
 fast
 fast-dds
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2435,7 +2435,6 @@ groups
 grouvee
 grr
 gsuite
-gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -2484,7 +2483,6 @@ harperdb
 harvest
 harvestforecast
 hash
-hashcat
 hashicorp
 hashset
 hashtable
@@ -3517,7 +3515,6 @@ msi
 msi psmodule
 msiexec
 msil
-msix
 mslab
 msmq
 msol
@@ -3784,6 +3781,7 @@ office2016
 office2019
 office365
 officedev
+officegraph
 officemessageencryption
 offline
 offlinewimservicing
@@ -3850,7 +3848,6 @@ openfiles
 openhere
 openidconnect
 openinghours
-openport
 openscad
 opensourceinitiative
 openssh
@@ -3868,7 +3865,6 @@ operationvalidation
 operatoraccesscontrol
 operators
 opml
-ops
 opsi
 opsmgr
 optics
@@ -4103,6 +4099,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -4198,10 +4195,13 @@ powercli
 powercligoodies
 powerdex
 powerforensics
+powergraph
 powermax
 powerplan
 powerplateform
 powerplatform
+powerprotect
+powerprotect_datamanager
 powersaving
 powerscheme
 powershell
@@ -4242,6 +4242,7 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
+ppdm
 ppk
 pposh
 pps
@@ -4315,7 +4316,6 @@ progressbar
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -4730,7 +4730,6 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
-reportrunner
 reports
 repos
 repositories
@@ -5103,7 +5102,6 @@ servicefabric
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
-servicemesh
 servicenow
 serviceplan
 servicepointmanager
@@ -5298,7 +5296,6 @@ solarigate
 solarized
 solarwinds
 solr
-soltra
 solution
 solutions
 sonarcloud
@@ -5645,7 +5642,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcpserver
 tcptest
 tcx
@@ -5915,7 +5911,6 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
-ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -6035,6 +6030,7 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
+urlscan
 urlupdate
 uru
 usage
@@ -6430,7 +6426,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
