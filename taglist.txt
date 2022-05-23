@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 22 May 2022 17:52:36 UTC
+Updated: Monday, 23 May 2022 02:31:47 UTC
 
 ?:
 ??
@@ -189,6 +189,7 @@ advapi32
 advisor
 adwords
 adx
+adxingestion
 aem
 aeries
 aeriessis
@@ -221,6 +222,7 @@ alac
 alarm
 albertheijn
 albums
+alero
 alert
 alerting
 alertmail
@@ -546,6 +548,7 @@ azurecli
 azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
+azuredataexplorer
 azuredatastudio
 azuredevops
 azuredevops_security
@@ -1322,6 +1325,7 @@ csproj
 csrf
 css
 csv
+csv2adx
 csvhelper
 ctf
 ctglobal
@@ -1611,6 +1615,7 @@ disk-space
 diskfree
 diskpart
 diskpool
+diskspace
 dism
 dismal
 display
@@ -2373,6 +2378,7 @@ gobright
 godaddy
 goldengate
 goldsource
+goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -3070,6 +3076,7 @@ licence
 license
 license-generator
 licenseautomation
+licensereport
 licenses
 licensing
 light
@@ -3488,6 +3495,7 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msband
+msbi
 msbuild
 mschart
 msdeploy
@@ -3776,7 +3784,6 @@ office2016
 office2019
 office365
 officedev
-officegraph
 officemessageencryption
 offline
 offlinewimservicing
@@ -4096,7 +4103,6 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
@@ -4192,7 +4198,6 @@ powercli
 powercligoodies
 powerdex
 powerforensics
-powergraph
 powermax
 powerplan
 powerplateform
@@ -4592,6 +4597,7 @@ razzle
 rbac
 rbacmodel
 rbsu
+rcon
 rcs
 rcu
 rdb
@@ -4936,6 +4942,7 @@ scheduler
 schedules-execution
 scheduling
 schema
+schemaextensions
 scheme
 school-information-system
 schulung
@@ -5308,11 +5315,13 @@ soonragent
 sophos
 sort
 source
+source-dedicated-server
 sourcecontrol
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 space
 spaces
 spacex
@@ -5382,6 +5391,7 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
+sqlserveragent
 sqlvirtualmachine
 sqr
 sqrt
@@ -5448,6 +5458,7 @@ staytus
 stderr
 stdout
 steam
+steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5508,6 +5519,7 @@ subnetmask
 subnetmaths
 subnets
 subnetting
+subscribedskus
 subscription
 subscriptiondefinition
 subsystem
@@ -5917,6 +5929,7 @@ ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
+ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
@@ -5924,6 +5937,7 @@ ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
+ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
@@ -6021,7 +6035,6 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
-urlscan
 urlupdate
 uru
 usage
@@ -6413,6 +6426,7 @@ winrm
 winrs
 winrt
 wins
+winsat
 winscp
 wintellect
 winterminal
