@@ -5,13 +5,82 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.97) | 1.1.97
+## [xFailOverCluster](https://www.powershellgallery.com/Packages/xFailOverCluster/1.16.1) | 1.16.1
 
-### Published: 05/24/2022 09:34:44 by the dbatools team
+### Published: 05/24/2022 17:36:54 by DSC Community
+
+Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
+
+__Downloads__: 800,551 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+
+## [routines](https://www.powershellgallery.com/Packages/routines/0.5.2) | 0.5.2
+
+### Published: 05/24/2022 15:01:38 by DClementDawan
+
+Common functions for scripts.
+
+Test-AdminPrivilege : Test if powershell is launched with administrator privileges
+Get-Password : Passwords generator
+Clear-String : Remove special characters designed to create login
+Remove-Diacritics : Remove diacritic symbols
+Read-PopUp : Display a customizable popup
+Read-Choice : Display a native PowerShell prompt
+Get-IPv4Range : Returns an array of IP providing network and subnet mask
+Get-IPv4Info : Returns info about IP
+Test-ICMP : Faster ping, ping networks
+New-HVClone : Clone an Hyper-V VM
+
+https://hedgedoc.dawan.fr/s/upKcNVLcL#
+
+__Downloads__: 10 | __Repository__: https://www.dawan.fr/
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.62.2) | 1.62.2
+
+### Published: 05/24/2022 14:48:23 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 2,221 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [wks_graphapi](https://www.powershellgallery.com/Packages/wks_graphapi/1.1.3) | 1.1.3
+
+### Published: 05/24/2022 14:05:34 by Kevin Oster
+
+Abstraction layer for Microsoft Graph API calls
+
+__Downloads__: 212 | __Repository__: 
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.98) | 1.1.98
+
+### Published: 05/24/2022 12:36:07 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,607,335 | __Repository__: https://dbatools.io/
+__Downloads__: 1,607,332 | __Repository__: https://dbatools.io/
+
+## [PS-NCentral](https://www.powershellgallery.com/Packages/PS-NCentral/1.4.1) | 1.4.1
+
+### Published: 05/24/2022 12:10:42 by Adriaan Sluis
+
+PowerShell integration for N-Central(c) by N-Able(R)
+
+__Downloads__: 12,812 | __Repository__: https://github.com/ToschAutomatisering/PS-NCentral
+
+## [AzOps](https://www.powershellgallery.com/Packages/AzOps/1.8.0) | 1.8.0
+
+### Published: 05/24/2022 12:01:42 by Customer Architecture Team (CAT)
+
+Integrated CI/CD Solution for Microsoft Azure.
+
+__Downloads__: 628,340 | __Repository__: https://github.com/Azure/AzOps
+
+## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/3.0.10) | 3.0.10
+
+### Published: 05/24/2022 09:57:40 by Freddy Kristiansen
+
+PowerShell module
+
+__Downloads__: 543,149 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -28,14 +97,6 @@ __Downloads__: 384 | __Repository__:
 ADVisual
 
 __Downloads__: 253 | __Repository__: https://github.com/Callidus2000/ADGraph/
-
-## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/3.0.9) | 3.0.9
-
-### Published: 05/24/2022 06:57:39 by Freddy Kristiansen
-
-PowerShell module
-
-__Downloads__: 543,149 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [Dracoon](https://www.powershellgallery.com/Packages/Dracoon/1.5.2) | 1.5.2
 
@@ -83,7 +144,7 @@ __Downloads__: 1,412 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,283,486 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,283,479 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.7) | 0.1.7
 
@@ -299,15 +360,6 @@ Training module.
 
 __Downloads__: 4 | __Repository__: 
 
-## [XDHealthCheck](https://www.powershellgallery.com/Packages/XDHealthCheck/0.2.12) | 0.2.12
-
-### Published: 05/21/2022 15:03:58 by Pierre Smit
-
-Creates daily health check and config reports for your on-premise Citrix farm. To get started, you need to run Install-ParametersFile.
-This will capture and save needed farm details, to allow scripts to run automatically.
-
-__Downloads__: 164 | __Repository__: https://github.com/smitpi/XDHealthCheck
-
 ## [AzureServiceBusManagement](https://www.powershellgallery.com/Packages/AzureServiceBusManagement/0.0.3) | 0.0.3
 
 ### Published: 05/21/2022 14:42:26 by David O'Brien
@@ -426,7 +478,7 @@ __Downloads__: 16 | __Repository__: https://github.com/vmware/vmware-powercli-fo
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 12,826,619 | __Repository__: 
+__Downloads__: 12,826,548 | __Repository__: 
 
 ## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
 
@@ -459,14 +511,6 @@ __Downloads__: 3 | __Repository__:
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
 __Downloads__: 842 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-## [PS-NCentral](https://www.powershellgallery.com/Packages/PS-NCentral/1.4) | 1.4
-
-### Published: 05/20/2022 09:49:22 by Adriaan Sluis
-
-PowerShell integration for N-Central(c) by N-Able(R)
-
-__Downloads__: 12,812 | __Repository__: 
 
 ## [ALLanguageTools](https://www.powershellgallery.com/Packages/ALLanguageTools/0.1.2) | 0.1.2
 
@@ -538,7 +582,7 @@ __Downloads__: 10,934 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,248,837 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,248,846 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -571,6 +615,14 @@ __Downloads__: 280 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Dataverse
 
 __Downloads__: 319 | __Repository__: http://www.cdata.com/powershell/
+
+## [TrelloCmdlets](https://www.powershellgallery.com/Packages/TrelloCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:25:27 by CData Software Inc.
+
+CData Cmdlets for Trello
+
+__Downloads__: 242 | __Repository__: http://www.cdata.com/powershell/
 
 ## [PinterestCmdlets](https://www.powershellgallery.com/Packages/PinterestCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1508,6 +1560,14 @@ CData Cmdlets for WordPress
 
 __Downloads__: 352 | __Repository__: http://www.cdata.com/powershell/
 
+## [SAPBusinessOneCmdlets](https://www.powershellgallery.com/Packages/SAPBusinessOneCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:14:21 by CData Software Inc.
+
+CData Cmdlets for SAP Business One
+
+__Downloads__: 406 | __Repository__: http://www.cdata.com/powershell/
+
 ## [SplunkCmdlets](https://www.powershellgallery.com/Packages/SplunkCmdlets/21.0.8137.1) | 21.0.8137.1
 
 ### Published: 05/19/2022 20:14:15 by CData Software Inc.
@@ -1988,52 +2048,4 @@ CData Cmdlets for Sage 50 UK
 
 __Downloads__: 534 | __Repository__: http://www.cdata.com/powershell/
 
-## [SquareCmdlets](https://www.powershellgallery.com/Packages/SquareCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:08:49 by CData Software Inc.
-
-CData Cmdlets for Square
-
-__Downloads__: 559 | __Repository__: http://www.cdata.com/powershell/
-
-## [MicrosoftProjectCmdlets](https://www.powershellgallery.com/Packages/MicrosoftProjectCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:08:44 by CData Software Inc.
-
-CData Cmdlets for Microsoft Project
-
-__Downloads__: 464 | __Repository__: http://www.cdata.com/powershell/
-
-## [DynamicsNAVCmdlets](https://www.powershellgallery.com/Packages/DynamicsNAVCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:08:38 by CData Software Inc.
-
-CData Cmdlets for Dynamics NAV
-
-__Downloads__: 814 | __Repository__: http://www.cdata.com/powershell/
-
-## [MailChimpCmdlets](https://www.powershellgallery.com/Packages/MailChimpCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:08:33 by CData Software Inc.
-
-CData Cmdlets for MailChimp
-
-__Downloads__: 803 | __Repository__: http://www.cdata.com/powershell/
-
-## [LinkedInCmdlets](https://www.powershellgallery.com/Packages/LinkedInCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:08:27 by CData Software Inc.
-
-CData Cmdlets for LinkedIn
-
-__Downloads__: 598 | __Repository__: http://www.cdata.com/powershell/
-
-## [CouchbaseCmdlets](https://www.powershellgallery.com/Packages/CouchbaseCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:08:22 by CData Software Inc.
-
-CData Cmdlets for Couchbase
-
-__Downloads__: 787 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Tuesday, 24 May 2022 09:53:52 UTC*
+*Updated: Tuesday, 24 May 2022 17:53:54 UTC*

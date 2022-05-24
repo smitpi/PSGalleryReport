@@ -19,19 +19,19 @@ Internal navigation links may not work in the PDF version of this report.
 + [Michael Haken](#Michael-Haken) (31)
 + [Jeff Hicks](#Jeff-Hicks) (31)
 + [James Brundage](#James-Brundage) (29)
-+ [Gabriel Adrian Samfira Alessandro Pilotti](#Gabriel-Adrian-Samfira-Alessandro-Pilotti) (24)
 + [Adam Bertram](#Adam-Bertram) (23)
++ [Gabriel Adrian Samfira Alessandro Pilotti](#Gabriel-Adrian-Samfira-Alessandro-Pilotti) (23)
 + [mkht](#mkht) (23)
 + [Warren Frame](#Warren-Frame) (21)
 + [Christos Polydorou](#Christos-Polydorou) (21)
 + [Brandon Olin](#Brandon-Olin) (20)
-+ [Joel Bennett](#Joel-Bennett) (19)
++ [Joel Bennett](#Joel-Bennett) (20)
 + [jakub.pawlowski](#jakubpawlowski) (19)
 + [EPRSBuildTeam](#EPRSBuildTeam) (18)
 + [Michal Gajda](#Michal-Gajda) (18)
 + [Roy Ashbrook](#Roy-Ashbrook) (17)
-+ [Shannon Graybrook](#Shannon-Graybrook) (17)
 + [WebMD Health Services](#WebMD-Health-Services) (17)
++ [Shannon Graybrook](#Shannon-Graybrook) (17)
 
 ## psdevuk
 
@@ -43,7 +43,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **[UniversalDashboard.UDSimpleDrawer 1.0.0](https://psdevuk.github.io/ud-flix/Simple-Drawer-Component/)**  - Adds a simple drawer component to your page [*12/23/2020 13:46:35*]
 + **[UniversalDashboard.UDScrollSpy 1.0.0](https://psdevuk.github.io/ud-flix/ScrollSpy-Navigation-Component/)**  - Adds scrollspy ability to a given page [*12/22/2020 18:04:32*]
 + **[UniversalDashboard.UDBreadcrumbItem 1.0.0](https://github.com/psDevUK/UDBreadCrumb/blob/main/README.md)**  - Adds the breadcrumb link you need UDBreadcrumb module as well [*12/22/2020 14:43:45*]
-+ **[UniversalDashboard.UDBreadcrumb 1.0.0](https://github.com/psDevUK/UDBreadCrumb/blob/main/README.md)**  - Adds Breadcrumbs to your dashboard please note you need this module and BreadcrumbItem module [*12/22/2020 14:43:16*]
 + **[UniversalDashboard.UDStep 1.0.1](https://psdevuk.github.io/ud-flix/x2-Progress-Wizard-Components/)**  - An icon progress wizard bar see project page for use [*12/22/2020 14:38:29*]
 + **[UniversalDashboard.UDHero 1.0.0](https://psdevuk.github.io/ud-flix/New-Hero-Component/)**  - Hero component see Project Page for more information [*12/17/2020 19:55:39*]
 + **[UniversalDashboard.UDReadingBar 1.0.1](https://psdevuk.github.io/ud-flix/Reading-Progress-Bar/)**  - Reading Progress Bar please see PROJECT PAGE for more information [*12/16/2020 10:18:26*]
@@ -109,6 +108,7 @@ Internal navigation links may not work in the PDF version of this report.
 + **UniversalDashboard.UDSlider 1.0.0**  - Adds a slider component to UD [*12/01/2019 23:02:15*]
 + **UniversalDashboard.UDNumber 1.0.0**  - Animates a given number ability to add pre and post text [*11/29/2019 19:36:17*]
 + **[UniversalDashboard.UDIndicator 1.0.0](https://github.com/psDevUK/UDIndicator/tree/master/src/output/UniversalDashboard.UDIndicator)**  - Adds a graphical indicator to your dashboard [*11/25/2019 21:06:26*]
++ **[UniversalDashboard.UDDatePicker 1.0.0](https://github.com/psDevUK/New-UDDatePicker)**  - Allows you to select between a start and an end date [*11/08/2019 15:35:35*]
 + **UniversalDashboard.UDCircle 1.0.0**  - Adds an SVG Circle Chart showing percentage in the middle [*10/29/2019 22:57:03*]
 + **UniversalDashboard.UDSprite 1.0.0**  - Allows you to animate a spritesheet [*10/29/2019 22:23:16*]
 + **[UniversalDashboard.UDImageFX 1.0.0](https://github.com/psDevUK/UDImageFX)**  - Adds various image effects to your images [*10/24/2019 22:11:48*]
@@ -423,19 +423,19 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Github.Dependabot 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Dependabot [*03/07/2022 21:04:45*]
 + **[GitHub.Orgs 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Orgs [*03/07/2022 21:04:42*]
 + **[GitHub.Git 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Git [*03/07/2022 21:04:42*]
-+ **[GitHub.Migrations 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Migrations [*03/07/2022 21:04:42*]
 + **[GitHub.Branches 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Branches [*03/07/2022 21:04:42*]
++ **[GitHub.Migrations 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Migrations [*03/07/2022 21:04:42*]
 + **[GitHub.GitIgnore 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.GitIgnore [*03/07/2022 21:04:41*]
 + **[GitHub.Packages 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Packages [*03/07/2022 21:04:40*]
 + **[GitHub.Teams 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Teams [*03/07/2022 21:04:37*]
 + **[GitHub.Reactions 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Reactions [*03/07/2022 21:04:37*]
-+ **[GitHub.Meta 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Meta [*03/07/2022 21:04:35*]
 + **[GitHub.Pulls 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Pulls [*03/07/2022 21:04:35*]
 + **[GitHub.Emojis 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Emojis [*03/07/2022 21:04:35*]
++ **[GitHub.Meta 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Meta [*03/07/2022 21:04:35*]
 + **[GitHub.Codespaces 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Codespaces [*03/07/2022 21:04:34*]
 + **[GitHub.Gists 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Gists [*03/07/2022 21:04:34*]
-+ **[GitHub.Deployments 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Deployments [*03/07/2022 21:04:32*]
 + **[GitHub.Apps 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Apps [*03/07/2022 21:04:32*]
++ **[GitHub.Deployments 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Deployments [*03/07/2022 21:04:32*]
 + **[GitHub.Billing 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Billing [*03/07/2022 21:04:32*]
 + **[GitHub.Webhooks 0.0.4](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Webhooks [*03/07/2022 21:04:30*]
 + **[GitHub.Actions 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Actions [*03/07/2022 21:04:30*]
@@ -643,35 +643,6 @@ A powerful PowerShell wrapper for git that lets you extend git, automate multipl
 + **[Discovery 1.0.1](http://discovery.start-automating.com/)**  - Open the Black Box [*11/26/2014 03:26:05*]
 + **[IsePackV2 1.4.1](http://powershellise.com/)**  - The Updated ISEPack.  Now Way Cooler [*11/26/2014 03:23:54*]
 
-## Gabriel Adrian Samfira Alessandro Pilotti
-
-+ **[AutomatedLabTest 5.42.0](https://github.com/AutomatedLab/AutomatedLab)**  - The module is for testing AutomatedLab [*05/05/2022 11:24:15*]
-+ **JhcAdoRest 1.1.7**  - Collection of Cmdlets that run Azure Dev Ops Rest API calls. Provides access to Build definitions, specific Builds and Build Timelines.; Release definitions and specific releases; Pipelines and pipeline runs; Full YAML Pipeline definition payloads; Agent Pools; Agent Pool Queues; Pull requests.  The Select-* cmdlets transforms raw JSON response payloads into useful report objects. [*03/23/2022 19:45:20*]
-+ **[GuiCompletion 0.11.1](https://github.com/nightroman/PS-GuiCompletion)**  - GUI-style tab-completion menu for PowerShell. [*12/21/2021 01:47:58*]
-+ **[NetApp.ONTAP 9.10.1.2111](https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit)**  - NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.10.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS. [*11/25/2021 16:25:37*]
-+ **[CloudiQ 1.0.0](https://github.com/CrayonGroup/Crayon.Cloud-iQ.PowerShell)**  - Module to automate licensing through Crayon Cloud-iQ. [*08/29/2021 08:21:36*]
-+ **[TelligentInstall 0.0.14](https://github.com/RichMercer/TelligentInstanceManager/)**  - Helper functions for installing Telligent Community [*02/10/2021 10:24:44*]
-+ **powershell-yaml 0.4.2**  - Powershell module for serializing and deserializing YAML [*05/05/2020 12:31:42*]
-+ **WindowsImageBuilder 1.0.0**  - Powershell module to automate Windows image generation for OpenStack, MAAS, KVM, HyperV, ESXi and more. [*01/21/2020 15:50:11*]
-+ **[TelligentLocalInstance 0.0.14](https://github.com/RichMercer/TelligentInstanceManager/)**  - Telligent Instance Manager allows you to create and manage local Telligent Community instances. [*07/31/2019 14:49:15*]
-+ **[PoshBot.Rubrik 1.0.0.0](https://github.com/rubrikinc/rubrik-module-for-poshbot)**  - This module is a plugin for PoshBot that allows for the command and control of a Rubrik cluster. [*07/24/2019 06:01:12*]
-+ **[compositeresource 1.0.96](http://github.com/microsoft/CompositeResource)**  - Converts PowerShell DSC Configuration to PowerShell DSC Composite Resource [*03/18/2019 21:56:08*]
-+ **[IIS10Audit 1.2.1](https://github.com/fbprogmbh/Audit-Test-Automation)**  - A module that benchmarks the current systems settings with current hardening standards such as the CIS Microsoft IIS Benchmarks. This module is specifically designed for Windows Server 2016 with IIS 10. [*01/23/2019 09:53:57*]
-+ **[vDocumentation 2.4.7](https://github.com/arielsanchezmora/vDocumentation)**  - PowerShell module that produces documentation of a vSphere environment [*11/30/2018 18:18:07*]
-+ **[IIS8Audit 1.0.0.0](https://github.com/fbprogmbh/Audit-Test-Automation)**  - A module that benchmarks the current systems settings with current hardening standards such as the CIS Microsoft IIS Benchmarks. This module is specifically designed for Windows Server 2012 with IIS 8. [*10/10/2018 08:58:47*]
-+ **[MSBITools 1.0](https://github.com/bablulawrence/MSBITools)**  - Module for deploying MSBI projects [*07/10/2018 10:08:14*]
-+ **UnofficialIntuneManagement 0.2.1.1**  - Module with gathering of the functions defined by the Microsoft Intune Teams PowerShell Samples. Code written by Dave Falkus. See https://github.com/microsoftgraph/powershell-intune-samples for examples of how to use the functions. [*11/21/2017 14:43:04*]
-+ **TelligentCommunitySample 0.1.1**  - Create sample data for Telligent Community imstances. [*10/17/2017 09:26:26*]
-+ **TelligentCommunityRest 0.1.0**  - Provides access to Telligent Community REST APIs. [*10/16/2017 18:56:02*]
-+ **[SMBBlueprint 8.2.0.3](https://github.com/itnetx/SMBblueprint-PowerShell)**  - Deployment Framework for the Microsoft SMB Azure & O365 solution. [*04/28/2017 14:44:45*]
-+ **[Convert-WindowsImage 10.0](https://github.com/Microsoft/Virtualization-Documentation/tree/master/hyperv-tools/Convert-WindowsImage)**  - Convert-WindowsImage is the new version of WIM2VHD designed specifically for Windows 8 and above. Written in PowerShell, this command-line tool allows you to rapidly create sysprepped VHDX and VHDX images from setup media for Windows 7/Server 2008 R2, Windows 8/8.1/Server 2012/R2 [*05/16/2016 14:46:39*]
-+ **[OMSSearch 6.1.0](https://github.com/slavizh/OMSSearch)**  - This module allows you to get token from Azure AD and execute OMS query against OMS search API. [*01/24/2016 13:37:56*]
-+ **[PowerShellGetGUI 1.0.0.0](https://github.com/SAPIENTechnologiesInc/PowerShellGet-GUI)**  - A GUI tool for managing PowerShell Gallery modules.
-
-PowerShellGet-GUI is a tool originally developed by Ferdinand Rios of SAPIEN Technologies, Inc. using PowerShell Studio 2015 ® for the PowerShell Asia Conference in September 2015, additional features were added by Devin Leaman of SAPIEN Technologies, Inc. It provides an easy to use interface for managing modules from the PowerShell Gallery. [*11/03/2015 19:44:38*]
-+ **[AppvProvider 0.6.2.8](https://github.com/VirtualEngine/AppvProvider)**  - Powershell OneGet/Package Management Provider for App-V 5.x [*06/03/2015 08:45:39*]
-+ **[ShowUI 1.5](http://show-ui.org/)**  - ShowUI is a module to help you write user interfaces to interact with PowerShell [*11/23/2014 13:51:02*]
-
 ## Adam Bertram
 
 + **[AzureVmSnapshots 1.0.11](https://github.com/adbertram/AzureVmSnapshots)**  - A small PowerShell module to create and restore Azure VMs. [*03/09/2020 20:23:43*]
@@ -699,6 +670,34 @@ provide a standard interface to treat software installers of all types exactly t
 + **[NTFSPermissionMigration 1.0](https://github.com/adbertram/Random-PowerShell-Work/blob/master/Security/NTFSPermissionMigration.psm1)**  - This module is used as a wrapper to the popular icacls utility to save permissions to a file and then restore those permissions to a mirror copy of the original folder structure. It is useful in file server migrations. [*03/09/2017 19:59:01*]
 + **[SoftwareInstallManager 1.0.0.0](https://github.com/adbertram/SoftwareInstallManager)**  - This module assists software deployment administrators in deploying disparate software. It is designed to
 provide a standard interface to treat software installers of all types exactly the same. [*04/09/2016 21:36:01*]
+
+## Gabriel Adrian Samfira Alessandro Pilotti
+
++ **[AutomatedLabTest 5.42.0](https://github.com/AutomatedLab/AutomatedLab)**  - The module is for testing AutomatedLab [*05/05/2022 11:24:15*]
++ **JhcAdoRest 1.1.7**  - Collection of Cmdlets that run Azure Dev Ops Rest API calls. Provides access to Build definitions, specific Builds and Build Timelines.; Release definitions and specific releases; Pipelines and pipeline runs; Full YAML Pipeline definition payloads; Agent Pools; Agent Pool Queues; Pull requests.  The Select-* cmdlets transforms raw JSON response payloads into useful report objects. [*03/23/2022 19:45:20*]
++ **[GuiCompletion 0.11.1](https://github.com/nightroman/PS-GuiCompletion)**  - GUI-style tab-completion menu for PowerShell. [*12/21/2021 01:47:58*]
++ **[NetApp.ONTAP 9.10.1.2111](https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit)**  - NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.10.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS. [*11/25/2021 16:25:37*]
++ **[TelligentInstall 0.0.14](https://github.com/RichMercer/TelligentInstanceManager/)**  - Helper functions for installing Telligent Community [*02/10/2021 10:24:44*]
++ **powershell-yaml 0.4.2**  - Powershell module for serializing and deserializing YAML [*05/05/2020 12:31:42*]
++ **WindowsImageBuilder 1.0.0**  - Powershell module to automate Windows image generation for OpenStack, MAAS, KVM, HyperV, ESXi and more. [*01/21/2020 15:50:11*]
++ **[TelligentLocalInstance 0.0.14](https://github.com/RichMercer/TelligentInstanceManager/)**  - Telligent Instance Manager allows you to create and manage local Telligent Community instances. [*07/31/2019 14:49:15*]
++ **[PoshBot.Rubrik 1.0.0.0](https://github.com/rubrikinc/rubrik-module-for-poshbot)**  - This module is a plugin for PoshBot that allows for the command and control of a Rubrik cluster. [*07/24/2019 06:01:12*]
++ **[compositeresource 1.0.96](http://github.com/microsoft/CompositeResource)**  - Converts PowerShell DSC Configuration to PowerShell DSC Composite Resource [*03/18/2019 21:56:08*]
++ **[IIS10Audit 1.2.1](https://github.com/fbprogmbh/Audit-Test-Automation)**  - A module that benchmarks the current systems settings with current hardening standards such as the CIS Microsoft IIS Benchmarks. This module is specifically designed for Windows Server 2016 with IIS 10. [*01/23/2019 09:53:57*]
++ **[vDocumentation 2.4.7](https://github.com/arielsanchezmora/vDocumentation)**  - PowerShell module that produces documentation of a vSphere environment [*11/30/2018 18:18:07*]
++ **[IIS8Audit 1.0.0.0](https://github.com/fbprogmbh/Audit-Test-Automation)**  - A module that benchmarks the current systems settings with current hardening standards such as the CIS Microsoft IIS Benchmarks. This module is specifically designed for Windows Server 2012 with IIS 8. [*10/10/2018 08:58:47*]
++ **[MSBITools 1.0](https://github.com/bablulawrence/MSBITools)**  - Module for deploying MSBI projects [*07/10/2018 10:08:14*]
++ **UnofficialIntuneManagement 0.2.1.1**  - Module with gathering of the functions defined by the Microsoft Intune Teams PowerShell Samples. Code written by Dave Falkus. See https://github.com/microsoftgraph/powershell-intune-samples for examples of how to use the functions. [*11/21/2017 14:43:04*]
++ **TelligentCommunitySample 0.1.1**  - Create sample data for Telligent Community imstances. [*10/17/2017 09:26:26*]
++ **TelligentCommunityRest 0.1.0**  - Provides access to Telligent Community REST APIs. [*10/16/2017 18:56:02*]
++ **[SMBBlueprint 8.2.0.3](https://github.com/itnetx/SMBblueprint-PowerShell)**  - Deployment Framework for the Microsoft SMB Azure & O365 solution. [*04/28/2017 14:44:45*]
++ **[Convert-WindowsImage 10.0](https://github.com/Microsoft/Virtualization-Documentation/tree/master/hyperv-tools/Convert-WindowsImage)**  - Convert-WindowsImage is the new version of WIM2VHD designed specifically for Windows 8 and above. Written in PowerShell, this command-line tool allows you to rapidly create sysprepped VHDX and VHDX images from setup media for Windows 7/Server 2008 R2, Windows 8/8.1/Server 2012/R2 [*05/16/2016 14:46:39*]
++ **[OMSSearch 6.1.0](https://github.com/slavizh/OMSSearch)**  - This module allows you to get token from Azure AD and execute OMS query against OMS search API. [*01/24/2016 13:37:56*]
++ **[PowerShellGetGUI 1.0.0.0](https://github.com/SAPIENTechnologiesInc/PowerShellGet-GUI)**  - A GUI tool for managing PowerShell Gallery modules.
+
+PowerShellGet-GUI is a tool originally developed by Ferdinand Rios of SAPIEN Technologies, Inc. using PowerShell Studio 2015 ® for the PowerShell Asia Conference in September 2015, additional features were added by Devin Leaman of SAPIEN Technologies, Inc. It provides an easy to use interface for managing modules from the PowerShell Gallery. [*11/03/2015 19:44:38*]
++ **[AppvProvider 0.6.2.8](https://github.com/VirtualEngine/AppvProvider)**  - Powershell OneGet/Package Management Provider for App-V 5.x [*06/03/2015 08:45:39*]
++ **[ShowUI 1.5](http://show-ui.org/)**  - ShowUI is a module to help you write user interfaces to interact with PowerShell [*11/23/2014 13:51:02*]
 
 ## mkht
 
@@ -810,6 +809,7 @@ provide a standard interface to treat software installers of all types exactly t
 + **[ModuleBuilder 2.0.0](https://github.com/PoshCode/ModuleBuilder)**  - A module for authoring and building PowerShell modules [*09/28/2020 05:03:23*]
 + **[ErrorView 0.0.2](https://github.com/poshcode/errorview)**  - Enhances formatting ability for Errors [*08/21/2019 17:35:40*]
 + **Wasp 2.5.0.0**  - A Windows Automation Script module for Powershell [*08/06/2019 20:33:33*]
++ **Math 1.1.0**  - Provides a calculator command (Invoke-MathEvaluator) [*07/16/2019 20:40:09*]
 + **[WindowsConsoleFonts 1.1.0](https://github.com/Jaykul/WindowsConsoleFonts)**  - A module for setting the console font in Windows [*03/12/2019 04:01:17*]
 + **[Environment 1.1.0](https://github.com/Jaykul/Environment)**  - Provides Trace-Message, and functions for working with Environment and Path variables [*05/30/2018 03:19:03*]
 + **[BetterCredentials 4.5](https://github.com/Jaykul/BetterCredentials)**  - A (compatible) major upgrade for Get-Credential, including support for storing credentials in Windows Credential Manager, and for specifying the full prompts when asking for credentials, etc. [*05/19/2018 04:16:54*]
@@ -906,26 +906,6 @@ provide a standard interface to treat software installers of all types exactly t
 + **Get-FreightItemsForMCTF 1.0.0.1**  - Returns a list of Freight Items for Motor Carrier Tax Filings. [*04/16/2021 21:45:26*]
 + **Add-PrefixForLogging 1.0.0.2**  - Adds a prefix for logging to a string. [*04/16/2021 19:25:09*]
 
-## Shannon Graybrook
-
-+ **[ConvertFrom-DataRow 0.9.2](https://github.com/realslacker/ConvertFrom-DataRow)**  - Small utility PowerShell module with function to convert System.Data.DataRow objects to OrderedDictionary or PSCustomObject. [*01/06/2022 22:33:36*]
-+ **BW.Utils.GroupPolicy.WMIFilter 21.12.1.1107**  - Module to support the import and export of Group Policy WMI filters [*12/01/2021 17:07:21*]
-+ **[BitwardenWrapper 21.11.29.1420](https://github.com/realslacker/BitwardenWrapper)**  - Wrapper module for Bitwarden CLI bw.exe [*11/29/2021 20:20:33*]
-+ **[SoftwareInstallDsc 0.6](https://github.com/realslacker/SoftwareInstallDsc)**  - DSC resources for configuring software installation. [*11/24/2021 17:14:57*]
-+ **[ActiveDirectoryObjectPicker 3.0.7](https://github.com/realslacker/ActiveDirectoryObjectPicker)**  - Tulpep.ActiveDirectoryObjectPicker wrapper for PowerShell [*07/20/2021 14:22:54*]
-+ **BW.Utils.GroupPolicy 21.7.16.1505**  - Generic group policy utilities to supplement the official GroupPolicy module [*07/16/2021 20:05:18*]
-+ **[UninstallHelper 21.5.19.1212](https://github.com/realslacker/UninstallHelper)**  - Functions to help with uninstalling software from Programs and Features list [*05/19/2021 17:29:18*]
-+ **[BW.Utils.BindZoneFile 21.5.17.934](https://github.com/realslacker/BW.Utils.BindZoneFile)**  - Read and write Bind zone files [*05/17/2021 14:35:00*]
-+ **BW.Utils.PSCron 20.12.15.2227**  - Handles cron scheduling. Intended to run every minute. [*12/16/2020 04:27:37*]
-+ **[BW.Utils.WMIPermissions 20.10.13.1124](https://github.com/realslacker/BW.Utils.WMIPermissions)**  - Utility module to modify WMI Namespace permissions. [*10/13/2020 17:02:51*]
-+ **BW.Utils.OutJson 20.6.9.1204**  - Implements Out-Json as a function to support outputting JSON files that are standards compliant. [*06/09/2020 17:04:51*]
-+ **BW.Utils.InstallClickOnceApplication 20.6.8.1304**  - Small utility module to handle installing ClickOnce apps. [*06/08/2020 18:04:37*]
-+ **[BWDynamicParameter 20.1.23.1413](https://github.com/realslacker/BWDynamicParameter)**  - Easily create dynamic parameters with extended validation. [*01/23/2020 20:13:12*]
-+ **[BWNetworkTests 20.1.23.1410](https://github.com/realslacker/BWNetworkTests)**  - Network test utilities. [*01/23/2020 20:10:21*]
-+ **[BWRandomPassword 20.1.23.1405](https://github.com/realslacker/BWRandomPassword)**  - Generates one or more complex passwords designed to fulfill the requirements for Active Directory. [*01/23/2020 20:05:50*]
-+ **[ScreenConnectUtils 20.1.23.1319](https://github.com/realslacker/ScreenConnectUtils)**  - Helper functions for managing ScreenConnect [*01/23/2020 19:20:19*]
-+ **PSmRemoteNG 20.1.23.1059**  - A module to create mRemoteNG connection files from PowerShell. [*01/23/2020 17:00:12*]
-
 ## WebMD Health Services
 
 + **[Whiskey 0.50.1](https://github.com/webmd-health-services/Whiskey)**  - Continuous Integration/Continuous Delivery module. [*05/20/2022 03:58:08*]
@@ -977,4 +957,24 @@ System Requirements:
     This module uses [LibGit2Sharp](https://github.com/libgit2/libgit2sharp), the .NET wrapper of [libgit2](https://libgit2.github.com/), "a portable, pure C implementation of... Git", which allows you to call Git via API instead using the Git command line interface. [*09/30/2019 19:01:37*]
 + **[CloudBoltAutomation 0.0.1](https://github.com/webmd-health-services/CloudBoltAutomation)**  - A PowerShell module for using the CloudBolt API. [*06/21/2019 22:34:44*]
 
-*Updated: Tuesday, 24 May 2022 09:54:04 UTC*
+## Shannon Graybrook
+
++ **[ConvertFrom-DataRow 0.9.2](https://github.com/realslacker/ConvertFrom-DataRow)**  - Small utility PowerShell module with function to convert System.Data.DataRow objects to OrderedDictionary or PSCustomObject. [*01/06/2022 22:33:36*]
++ **BW.Utils.GroupPolicy.WMIFilter 21.12.1.1107**  - Module to support the import and export of Group Policy WMI filters [*12/01/2021 17:07:21*]
++ **[BitwardenWrapper 21.11.29.1420](https://github.com/realslacker/BitwardenWrapper)**  - Wrapper module for Bitwarden CLI bw.exe [*11/29/2021 20:20:33*]
++ **[SoftwareInstallDsc 0.6](https://github.com/realslacker/SoftwareInstallDsc)**  - DSC resources for configuring software installation. [*11/24/2021 17:14:57*]
++ **[ActiveDirectoryObjectPicker 3.0.7](https://github.com/realslacker/ActiveDirectoryObjectPicker)**  - Tulpep.ActiveDirectoryObjectPicker wrapper for PowerShell [*07/20/2021 14:22:54*]
++ **BW.Utils.GroupPolicy 21.7.16.1505**  - Generic group policy utilities to supplement the official GroupPolicy module [*07/16/2021 20:05:18*]
++ **[UninstallHelper 21.5.19.1212](https://github.com/realslacker/UninstallHelper)**  - Functions to help with uninstalling software from Programs and Features list [*05/19/2021 17:29:18*]
++ **[BW.Utils.BindZoneFile 21.5.17.934](https://github.com/realslacker/BW.Utils.BindZoneFile)**  - Read and write Bind zone files [*05/17/2021 14:35:00*]
++ **BW.Utils.PSCron 20.12.15.2227**  - Handles cron scheduling. Intended to run every minute. [*12/16/2020 04:27:37*]
++ **[BW.Utils.WMIPermissions 20.10.13.1124](https://github.com/realslacker/BW.Utils.WMIPermissions)**  - Utility module to modify WMI Namespace permissions. [*10/13/2020 17:02:51*]
++ **BW.Utils.OutJson 20.6.9.1204**  - Implements Out-Json as a function to support outputting JSON files that are standards compliant. [*06/09/2020 17:04:51*]
++ **BW.Utils.InstallClickOnceApplication 20.6.8.1304**  - Small utility module to handle installing ClickOnce apps. [*06/08/2020 18:04:37*]
++ **[BWDynamicParameter 20.1.23.1413](https://github.com/realslacker/BWDynamicParameter)**  - Easily create dynamic parameters with extended validation. [*01/23/2020 20:13:12*]
++ **[BWNetworkTests 20.1.23.1410](https://github.com/realslacker/BWNetworkTests)**  - Network test utilities. [*01/23/2020 20:10:21*]
++ **[BWRandomPassword 20.1.23.1405](https://github.com/realslacker/BWRandomPassword)**  - Generates one or more complex passwords designed to fulfill the requirements for Active Directory. [*01/23/2020 20:05:50*]
++ **[ScreenConnectUtils 20.1.23.1319](https://github.com/realslacker/ScreenConnectUtils)**  - Helper functions for managing ScreenConnect [*01/23/2020 19:20:19*]
++ **PSmRemoteNG 20.1.23.1059**  - A module to create mRemoteNG connection files from PowerShell. [*01/23/2020 17:00:12*]
+
+*Updated: Tuesday, 24 May 2022 17:54:04 UTC*

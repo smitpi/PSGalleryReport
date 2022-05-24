@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 24 May 2022 09:54:04 UTC
+Updated: Tuesday, 24 May 2022 17:54:04 UTC
 
 ?:
 ??
@@ -395,7 +395,6 @@ asp
 asp.net
 aspnet
 aspnet_regiis
-asr
 assembleenationale
 assemblymeta
 assert
@@ -793,6 +792,7 @@ cache
 caching
 caf
 cal
+calc
 calculate
 calculator
 calendar
@@ -1007,7 +1007,6 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
-cloud-iq
 cloudant
 cloudbees
 cloudberry
@@ -1023,7 +1022,6 @@ cloudgovernance
 cloudguard
 cloudinairy
 cloudinit
-cloudiq
 cloudkey
 cloudmarque
 cloudservice
@@ -1268,7 +1266,6 @@ cqd
 cqdpowershell
 cqhttp
 crack psmodule
-crayon
 crc
 crc32
 create
@@ -1592,6 +1589,7 @@ director
 directories
 directory
 directory psedition_core psedition_desktop
+directory-transform
 directorymarks
 directoryname
 directorysearcher
@@ -2099,6 +2097,7 @@ file-name-extension-association
 file-server
 file-share
 file-system
+file-transform
 file-type
 file-type-association
 fileencryption
@@ -2434,6 +2433,7 @@ groups
 grouvee
 grr
 gsuite
+gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -2482,6 +2482,7 @@ harperdb
 harvest
 harvestforecast
 hash
+hashcat
 hashicorp
 hashset
 hashtable
@@ -2897,6 +2898,7 @@ javaversion
 jboss
 jdbc
 jdedwards
+jdt
 jea
 jenkins
 jetbrains
@@ -2920,6 +2922,7 @@ js7
 jsm
 jsm.insight
 json
+json-transform
 json+
 jsonplus
 jsonwebkey
@@ -3317,6 +3320,7 @@ mdatp
 mdb
 mdbc
 mde
+mdm
 mdop
 mdt
 mdx
@@ -3567,6 +3571,7 @@ myob
 mysql
 mysql-database
 mytest
+n-central
 nac
 nagios
 name
@@ -3647,7 +3652,6 @@ new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
-newpassword
 newrelic
 newspaper
 newtonsoft
@@ -3939,6 +3943,7 @@ pac
 pack
 package
 package-management
+package-transform
 packagemanagement
 packagemanager
 packages
@@ -4353,6 +4358,7 @@ prtg
 prtg_network_monitor
 prtgnetworkmonitor
 ps
+ps-ncentral
 ps.credentialmanager
 ps1
 ps1xml
@@ -4973,6 +4979,7 @@ screenresolution
 screensaver
 screenshot
 script
+script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -4994,6 +5001,7 @@ scuba
 sd
 sddl
 sdk
+sdn
 search
 search-adminauditlog
 searchengine
@@ -5819,6 +5827,7 @@ transcode
 transcript
 transcripts
 transform
+transformation
 transforms
 transitionmanager
 translate
@@ -5899,7 +5908,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -5911,6 +5919,7 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
+ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
@@ -6033,7 +6042,6 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
-urlscan
 urlupdate
 uru
 usage
@@ -6047,7 +6055,6 @@ user-environment
 userdiscovery
 usergroup
 userinterface
-usermanagement
 username
 userprofile
 userright
@@ -6540,9 +6547,9 @@ xclarity
 xdr
 xdschelper
 xdscresources
+xdt
 xel
 xenapp
-xendeskop
 xendesktop
 xero
 xevent
@@ -6555,6 +6562,7 @@ xliff
 xmc
 xml
 xml-rpc
+xml-transform
 xmla
 xmlrpc
 xmlutils
@@ -6594,6 +6602,7 @@ zendesk
 zerto
 zigbee
 zip
+zipfile-transform
 zoho
 zone
 zoom
