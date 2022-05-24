@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 23 May 2022 17:53:56 UTC
+Updated: Tuesday, 24 May 2022 02:35:25 UTC
 
 ?:
 ??
@@ -165,9 +165,7 @@ administrativeunit
 administrativeuser
 administrator
 admintools
-adml
 admpwd
-admx
 ado
 ado_security
 ado.net
@@ -189,6 +187,7 @@ advapi32
 advisor
 adwords
 adx
+adxingestion
 aem
 aeries
 aeriessis
@@ -244,6 +243,7 @@ alpine
 alpr
 alt3
 alter
+alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -545,6 +545,7 @@ azurecli
 azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
+azuredataexplorer
 azuredatastudio
 azuredevops
 azuredevops_security
@@ -1053,7 +1054,6 @@ coa
 cockroachdb
 codaamok
 code
-code-page
 code365
 codebuild
 codecov
@@ -1323,6 +1323,7 @@ csproj
 csrf
 css
 csv
+csv2adx
 csvhelper
 ctf
 ctglobal
@@ -1408,7 +1409,6 @@ datacatalog
 datacenter
 dataclassification
 dataconduit
-dataconnectivity
 datadog
 datafactory
 dataflow
@@ -1612,10 +1612,10 @@ disk-space
 diskfree
 diskpart
 diskpool
-diskspace
 dism
 display
 displayresolution
+distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1960,6 +1960,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2516,6 +2517,7 @@ helloworld
 helmet
 help
 helper
+helperfunctions
 helpers
 helpfile
 heml
@@ -2911,6 +2913,7 @@ joke
 jotform
 journal
 jpg
+jq
 js7
 jsm
 jsm.insight
@@ -3283,6 +3286,7 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
+mass
 masstransit
 masterconfiguration
 matcharray
@@ -3450,7 +3454,6 @@ moduleupdater
 moduleversion
 mof
 moldova
-moment
 monaco
 money
 moneyforward
@@ -3649,6 +3652,7 @@ newspaper
 newtonsoft
 nexenta
 nexentastor
+nexthink
 nexus
 ngen
 ngfw
@@ -4093,6 +4097,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -4100,6 +4105,7 @@ player
 playlists
 pleasant
 pleasantpasswordserver
+plex
 plist
 plog
 plot
@@ -4158,7 +4164,6 @@ poshevents
 poshgraph
 poshgraph-sdk
 poshgrouppolicy
-poshkeepass
 poshlog
 poshorigin
 poshproject
@@ -4241,6 +4246,7 @@ pps
 ppt
 pptp
 pptx
+pq
 pranks
 predicate
 prediction
@@ -4423,7 +4429,6 @@ psitem
 psjob
 psjobs
 psjobthreads
-pskeepass
 pslocalgallery
 psloganalytics
 psm1
@@ -4948,6 +4953,7 @@ scom
 sconfig
 scoop
 scope
+score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5092,8 +5098,10 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
+servicemanagerproxy
 servicemesh
 servicenow
 serviceplan
@@ -5903,10 +5911,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -5935,6 +5945,7 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
+ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -5975,6 +5986,7 @@ unique-files
 unit
 unit_testing
 unit-testing
+unitconvesion
 unittest
 unittesting
 unity
@@ -6413,7 +6425,6 @@ winrm
 winrs
 winrt
 wins
-winsat
 winscp
 wintellect
 winterminal
@@ -6439,6 +6450,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -6472,6 +6485,7 @@ wpf
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
@@ -6505,7 +6519,6 @@ wu
 wunderlist
 wvd
 www
-x-cart
 x.509
 x1
 x2

@@ -5,6 +5,55 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PwshQuery](https://www.powershellgallery.com/Packages/PwshQuery/0.0.9) | 0.0.9
+
+### Published: 05/23/2022 22:59:18 by Andrew Opem (MSFT)
+
+A PowerShell-native JSON query class/interface to simplify working with JSON in PowerShell. Encapsulates useful operations that cannot be simply accomplished with the JSON object returned from the ConvertFrom-Json cmdlet. For documentation or to contribute, please visit https://github.com/aopem/PwshQuery.
+
+__Downloads__: 0 | __Repository__: https://github.com/aopem/PwshQuery
+
+## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/2.3.1.2) | 2.3.1.2
+
+### Published: 05/23/2022 20:17:20 by TransitionManager
+
+Provides TransitionManager Functionality
+
+__Downloads__: 424 | __Repository__: 
+
+## [dbaclone](https://www.powershellgallery.com/Packages/dbaclone/0.10.67) | 0.10.67
+
+### Published: 05/23/2022 20:10:00 by Sander Stad
+
+Module for cloning SQL Server databases
+
+__Downloads__: 1,411 | __Repository__: 
+
+## [msp360](https://www.powershellgallery.com/Packages/msp360/2.21.143) | 2.21.143
+
+### Published: 05/23/2022 19:39:46 by Andrew Anushin <services@msp360.com>
+
+The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
+
+__Downloads__: 1,283,479 | __Repository__: https://mspbackups.com/AP/Help/powershell
+
+## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.7) | 0.1.7
+
+### Published: 05/23/2022 18:15:34 by Sebastiaan Dammann
+
+Powershell module to generate interactive console menu.
+    
+    Supports:
+    - Multiselection
+    - Paging
+    - Objects
+    - Custom rendering
+    - Rendering callback
+    
+    Check for examples on how to use it on Github!
+
+__Downloads__: 1,461 | __Repository__: https://github.com/Sebazzz/PSMenu
+
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.1.2) | 1.1.2
 
 ### Published: 05/23/2022 17:12:56 by Sascha Spiekermann
@@ -35,7 +84,7 @@ __Downloads__: 1,329 | __Repository__: https://github.com/endjin/Endjin.Recommen
 
 Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 211,819 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 212,912 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.22143.1) | 1.0.22143.1
 
@@ -43,7 +92,7 @@ __Downloads__: 211,819 | __Repository__: https://github.com/OSDeploy/OSD
 
 This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
 
-__Downloads__: 1,511 | __Repository__: 
+__Downloads__: 1,510 | __Repository__: 
 
 ## [FSWatcherEngineEvent](https://www.powershellgallery.com/Packages/FSWatcherEngineEvent/1.4) | 1.4
 
@@ -151,7 +200,7 @@ __Downloads__: 91 | __Repository__: https://github.com/nneeoo/PSStopBruteforce
 
 PowerShell Cmdlets for Azure DevOps and Team Foundation Server
 
-__Downloads__: 6,939 | __Repository__: https://github.com/igoravl/tfscmdlets/
+__Downloads__: 6,944 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.11.0) | 4.11.0
 
@@ -192,7 +241,7 @@ __Downloads__: 2,221 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 335,945 | __Repository__: 
+__Downloads__: 338,260 | __Repository__: 
 
 ## [TrainingUtils](https://www.powershellgallery.com/Packages/TrainingUtils/1.0.4) | 1.0.4
 
@@ -217,7 +266,7 @@ __Downloads__: 163 | __Repository__: https://github.com/smitpi/XDHealthCheck
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,604,998 | __Repository__: https://dbatools.io/
+__Downloads__: 1,607,332 | __Repository__: https://dbatools.io/
 
 ## [AzureServiceBusManagement](https://www.powershellgallery.com/Packages/AzureServiceBusManagement/0.0.3) | 0.0.3
 
@@ -273,7 +322,7 @@ __Downloads__: 3 | __Repository__:
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 1,969 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 2,057 | __Repository__: https://aka.ms/AzAPICall
 
 ## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/1.72) | 1.72
 
@@ -337,7 +386,7 @@ __Downloads__: 15 | __Repository__: https://github.com/vmware/vmware-powercli-fo
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 12,814,741 | __Repository__: 
+__Downloads__: 12,826,683 | __Repository__: 
 
 ## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
 
@@ -377,7 +426,7 @@ __Downloads__: 838 | __Repository__: https://github.com/CiscoDevNet/intersight-p
 
 PowerShell integration for N-Central(c) by N-Able(R)
 
-__Downloads__: 7,013 | __Repository__: 
+__Downloads__: 12,810 | __Repository__: 
 
 ## [ALLanguageTools](https://www.powershellgallery.com/Packages/ALLanguageTools/0.1.2) | 0.1.2
 
@@ -409,7 +458,7 @@ __Downloads__: 5 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 653,080 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 654,616 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
 
@@ -449,7 +498,7 @@ __Downloads__: 10,923 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,248,140 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,248,837 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -843,6 +892,14 @@ CData Cmdlets for Facebook
 
 __Downloads__: 1,398 | __Repository__: http://www.cdata.com/powershell/
 
+## [FinancialEdgeNXTCmdlets](https://www.powershellgallery.com/Packages/FinancialEdgeNXTCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:21:20 by CData Software Inc.
+
+CData Cmdlets for Blackbaud Financial Edge NXT
+
+__Downloads__: 350 | __Repository__: http://www.cdata.com/powershell/
+
 ## [SybaseCmdlets](https://www.powershellgallery.com/Packages/SybaseCmdlets/21.0.8137.1) | 21.0.8137.1
 
 ### Published: 05/19/2022 20:21:15 by CData Software Inc.
@@ -1106,14 +1163,6 @@ __Downloads__: 306 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Zuora
 
 __Downloads__: 130 | __Repository__: http://www.cdata.com/powershell/
-
-## [XCartCmdlets](https://www.powershellgallery.com/Packages/XCartCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:18:00 by CData Software Inc.
-
-CData Cmdlets for X-Cart
-
-__Downloads__: 195 | __Repository__: http://www.cdata.com/powershell/
 
 ## [WaveFinancialCmdlets](https://www.powershellgallery.com/Packages/WaveFinancialCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1473,7 +1522,7 @@ __Downloads__: 702 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for PostgreSQL
 
-__Downloads__: 5,210 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 5,219 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ShopifyCmdlets](https://www.powershellgallery.com/Packages/ShopifyCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1547,6 +1596,14 @@ CData Cmdlets for Azure Resource Management
 
 __Downloads__: 82 | __Repository__: http://www.cdata.com/powershell/
 
+## [SlackCmdlets](https://www.powershellgallery.com/Packages/SlackCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:12:59 by CData Software Inc.
+
+CData Cmdlets for Slack
+
+__Downloads__: 406 | __Repository__: http://www.cdata.com/powershell/
+
 ## [D365BusinessCentralCmdlets](https://www.powershellgallery.com/Packages/D365BusinessCentralCmdlets/21.0.8137.1) | 21.0.8137.1
 
 ### Published: 05/19/2022 20:12:54 by CData Software Inc.
@@ -1562,14 +1619,6 @@ __Downloads__: 554 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for API
 
 __Downloads__: 551 | __Repository__: http://www.cdata.com/powershell/
-
-## [BingAdsCmdlets](https://www.powershellgallery.com/Packages/BingAdsCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:12:43 by CData Software Inc.
-
-CData Cmdlets for Bing Ads
-
-__Downloads__: 576 | __Repository__: http://www.cdata.com/powershell/
 
 ## [CloudantCmdlets](https://www.powershellgallery.com/Packages/CloudantCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1777,7 +1826,7 @@ __Downloads__: 856 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 7,273 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 7,274 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1987,44 +2036,4 @@ CData Cmdlets for Azure Table Storage
 
 __Downloads__: 894 | __Repository__: http://www.cdata.com/powershell/
 
-## [MagentoCmdlets](https://www.powershellgallery.com/Packages/MagentoCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:49 by CData Software Inc.
-
-CData Cmdlets for Magento
-
-__Downloads__: 632 | __Repository__: http://www.cdata.com/powershell/
-
-## [YouTubeAnalyticsCmdlets](https://www.powershellgallery.com/Packages/YouTubeAnalyticsCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:44 by CData Software Inc.
-
-CData Cmdlets for YouTube Analytics
-
-__Downloads__: 674 | __Repository__: http://www.cdata.com/powershell/
-
-## [xBaseCmdlets](https://www.powershellgallery.com/Packages/xBaseCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:38 by CData Software Inc.
-
-CData Cmdlets for xBase
-
-__Downloads__: 736 | __Repository__: http://www.cdata.com/powershell/
-
-## [TwilioCmdlets](https://www.powershellgallery.com/Packages/TwilioCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:33 by CData Software Inc.
-
-CData Cmdlets for Twilio
-
-__Downloads__: 773 | __Repository__: http://www.cdata.com/powershell/
-
-## [SmartsheetCmdlets](https://www.powershellgallery.com/Packages/SmartsheetCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:07:27 by CData Software Inc.
-
-CData Cmdlets for Smartsheet
-
-__Downloads__: 1,025 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Monday, 23 May 2022 17:53:46 UTC*
+*Updated: Tuesday, 24 May 2022 02:35:12 UTC*
