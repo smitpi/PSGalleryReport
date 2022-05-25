@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 25 May 2022 02:33:09 UTC
+Updated: Wednesday, 25 May 2022 09:52:49 UTC
 
 ?:
 ??
@@ -18,20 +18,13 @@ Updated: Wednesday, 25 May 2022 02:33:09 UTC
 🍣
 💩
 1.1.1.1
-10
 11
-1607
-1703
-1709
-1803
 1809
 1c
 1e
 1password
 1poshword
 200
-2010
-2013
 2016
 2018
 2019
@@ -47,11 +40,9 @@ Updated: Wednesday, 25 May 2022 02:33:09 UTC
 64
 650
 650flb
-7
 7-zip
 7z
 7zip
-8.1
 8ball
 9
 aa
@@ -73,7 +64,6 @@ abe
 about
 abstractsyntaxtree
 abuse
-acas
 accelerator
 access
 access-control
@@ -331,7 +321,6 @@ applocker
 appmgmtcontrol
 apppool
 appraiser
-approve
 apps
 appservice
 appservices
@@ -347,7 +336,6 @@ arc
 arcade
 arcgis
 architecture
-architecuture
 archive
 archivedteams
 archivematica
@@ -500,7 +488,6 @@ az
 az-cli
 az.automation
 az.stackhci
-aza
 azautomation
 azcli
 azcompute
@@ -1475,7 +1462,6 @@ debugging
 decimal
 decimalip
 declarative
-decline
 decode
 decode64
 decoding
@@ -1686,7 +1672,6 @@ documents
 docusaurus
 docusign
 docx
-dod
 dog
 dog-names
 dogs
@@ -1795,7 +1780,6 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
-dynamicsnav
 dynamodb
 dynatrace
 dyndns
@@ -1888,7 +1872,6 @@ enterprisevoice
 entity
 entityframework
 entropy
-enum
 enumerable
 env
 environment
@@ -2721,6 +2704,7 @@ imb
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -2933,7 +2917,6 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
-jumbo
 jump
 jump-location
 jumpcloud
@@ -2955,7 +2938,6 @@ kaseya
 kaseyavsa
 katakana
 kb
-kbarticle
 kdbx
 keenetic
 keepachangelog
@@ -2966,6 +2948,7 @@ kelverion
 kentico
 kerberos
 kernel32
+kestrel
 key
 key-vault
 key2wocas
@@ -2986,7 +2969,6 @@ klantcontroles
 kms
 knapsack
 knob
-knowledge
 knowledgebase
 koans
 korn
@@ -4186,6 +4168,7 @@ poshtemplate
 poshwsus
 position
 postgre
+postgres
 postgresql
 pow
 powdrgit
@@ -4240,6 +4223,7 @@ powershellget
 powershellgetformatversion_2.0
 powershelllogger
 powershellmodule
+powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -4308,7 +4292,6 @@ processing
 processmitigation
 processor
 procs
-product
 productid
 productivity
 productmedia
@@ -4383,7 +4366,6 @@ psbackup
 psbbix
 psbicep
 psclient
-pscmdlet
 pscommander
 psconfasia
 psconfeu
@@ -4442,6 +4424,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm1
 psmodule
@@ -4984,7 +4967,6 @@ screenresolution
 screensaver
 screenshot
 script
-script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -5033,6 +5015,7 @@ securechannel
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security-policy
@@ -5693,7 +5676,6 @@ templates
 templating
 temporary
 tenable
-tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
@@ -5930,7 +5912,6 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
-ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -5980,7 +5961,6 @@ uk
 ul
 ulid
 ulm
-um
 uml
 umn
 ums
@@ -6027,7 +6007,6 @@ updatemanagement
 updatemgmt
 updater
 updates
-updateservices
 updmanagement
 updmgmt
 upgrade
@@ -6072,6 +6051,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -6269,7 +6249,6 @@ vvx
 vxrail
 w32time
 w3svc
-w3w
 waas
 wac
 waf
@@ -6352,7 +6331,6 @@ weixin
 well-known
 wem
 wemsdk
-what3words
 whatismyip
 where
 whfb
