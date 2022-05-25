@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 24 May 2022 17:54:04 UTC
+Updated: Wednesday, 25 May 2022 02:33:09 UTC
 
 ?:
 ??
@@ -151,7 +151,6 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
-adgroupmemberobjects
 adgroups
 adif
 adm
@@ -395,6 +394,7 @@ asp
 asp.net
 aspnet
 aspnet_regiis
+asr
 assembleenationale
 assemblymeta
 assert
@@ -942,6 +942,7 @@ cinegy
 cinema
 cinst
 cipher
+circuit-breaker
 circumlunar
 cireson
 ciresonassetmanagement
@@ -1007,6 +1008,7 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
+cloud-iq
 cloudant
 cloudbees
 cloudberry
@@ -1022,6 +1024,7 @@ cloudgovernance
 cloudguard
 cloudinairy
 cloudinit
+cloudiq
 cloudkey
 cloudmarque
 cloudservice
@@ -1266,6 +1269,7 @@ cqd
 cqdpowershell
 cqhttp
 crack psmodule
+crayon
 crc
 crc32
 create
@@ -2962,7 +2966,6 @@ kelverion
 kentico
 kerberos
 kernel32
-kestrel
 key
 key-vault
 key2wocas
@@ -3075,6 +3078,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanager
 licensereport
 licenses
 licensing
@@ -3652,6 +3656,7 @@ new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
+newpassword
 newrelic
 newspaper
 newtonsoft
@@ -4138,6 +4143,7 @@ policyinsights
 policymetadata
 policystate
 poll
+polly
 polycom
 ponduit
 pool
@@ -4180,7 +4186,6 @@ poshtemplate
 poshwsus
 position
 postgre
-postgres
 postgresql
 pow
 powdrgit
@@ -4235,7 +4240,6 @@ powershellget
 powershellgetformatversion_2.0
 powershelllogger
 powershellmodule
-powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -4438,7 +4442,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-pslocalgallery
 psloganalytics
 psm1
 psmodule
@@ -4590,11 +4593,13 @@ random
 random-date
 randompassword
 randomuser
+randomusers
 ras
 raspberry-pi
 raspberrypi
 raspbian
 rate
+rate-limit
 rate-limiting
 rates
 rating
@@ -5712,6 +5717,7 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
+testaccount
 testautomation
 testing
 testlab
@@ -5908,6 +5914,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -6042,6 +6049,7 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
+urlscan
 urlupdate
 uru
 usage
@@ -6055,6 +6063,7 @@ user-environment
 userdiscovery
 usergroup
 userinterface
+usermanagement
 username
 userprofile
 userright
@@ -6063,7 +6072,6 @@ userrightsassignment
 users
 userworkstations
 usg
-usps
 utc
 utf-8
 utf-sig
@@ -6550,6 +6558,7 @@ xdscresources
 xdt
 xel
 xenapp
+xendeskop
 xendesktop
 xero
 xevent
