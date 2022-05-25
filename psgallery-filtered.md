@@ -5,13 +5,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Devart.DbForge.DevOpsAutomation.SqlServer](https://www.powershellgallery.com/Packages/Devart.DbForge.DevOpsAutomation.SqlServer/1.1.16) | 1.1.16
+## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/1.75) | 1.75
 
-### Published: 05/25/2022 09:45:00 by Devart Ltd.
+### Published: 05/25/2022 17:35:40 by Tanner Schmidt
 
-dbForge DevOps Automation PowerShell for SQL Server helps with organizing database DevOps processes for your SQL Server databases. It allows you to develop, source-control, and safely automate the deployment of database changes by using dbForge for SQL Server tools via the PowerShell interface.
+This module does stuff
 
-__Downloads__: 1,882 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
+__Downloads__: 69 | __Repository__: 
+
+## [FailoverClusterDsc](https://www.powershellgallery.com/Packages/FailoverClusterDsc/2.0.0) | 2.0.0
+
+### Published: 05/25/2022 16:17:52 by DSC Community
+
+Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
+
+__Downloads__: 0 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+
+## [WTToolBox](https://www.powershellgallery.com/Packages/WTToolBox/1.15.0) | 1.15.0
+
+### Published: 05/25/2022 13:42:58 by Jeff Hicks
+
+A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft.
+
+__Downloads__: 2,795 | __Repository__: https://github.com/jdhitsolutions/WTToolbox
+
+## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.2.2) | 1.2.2
+
+### Published: 05/25/2022 13:24:22 by Sonny Nguyen
+
+SkylineAutomationToolkit
+
+__Downloads__: 206 | __Repository__: 
+
+## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/1.0.20) | 1.0.20
+
+### Published: 05/25/2022 12:12:07 by Przemyslaw Klys
+
+Simple module allowing parsing of event logs. Has its own quirks...
+
+__Downloads__: 172,523 | __Repository__: https://github.com/EvotecIT/PSEventViewer
+
+## [Pipeline.Sql.Deploy](https://www.powershellgallery.com/Packages/Pipeline.Sql.Deploy/0.0.142) | 0.0.142
+
+### Published: 05/25/2022 11:28:34 by Sabin.IO
+
+Pipeline helper functions for deployments of sql server
+
+__Downloads__: 538 | __Repository__: 
+
+## [DevOpTools](https://www.powershellgallery.com/Packages/DevOpTools/0.0.3) | 0.0.3
+
+### Published: 05/25/2022 10:35:09 by Jens Döllmann
+
+PowerShell DevOp tools. Some cmdlets for development.
+
+__Downloads__: 1 | __Repository__: https://github.com/JensDll/devops/tree/main/projects/DevopTools
 
 ## [SecureSpherePS](https://www.powershellgallery.com/Packages/SecureSpherePS/1.0.0) | 1.0.0
 
@@ -89,14 +137,6 @@ Connect to the Huntress API
 
 __Downloads__: 2 | __Repository__: 
 
-## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/1.73) | 1.73
-
-### Published: 05/24/2022 23:51:58 by Tanner Schmidt
-
-This module does stuff
-
-__Downloads__: 69 | __Repository__: 
-
 ## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.2.1) | 1.2.1
 
 ### Published: 05/24/2022 23:12:31 by Mikey O'Toole
@@ -104,14 +144,6 @@ __Downloads__: 69 | __Repository__:
 This module provides an interface to the NinjaOne API.
 
 __Downloads__: 191 | __Repository__: https://github.com/homotechsual/NinjaOne
-
-## [DevOpTools](https://www.powershellgallery.com/Packages/DevOpTools/0.0.1) | 0.0.1
-
-### Published: 05/24/2022 22:52:30 by Jens Döllmann
-
-PowerShell DevOp tools. Some cmdlets for development.
-
-__Downloads__: 1 | __Repository__: https://github.com/JensDll/devops/tree/main/projects/DevopTools
 
 ## [MetasysRestClient](https://www.powershellgallery.com/Packages/MetasysRestClient/2.1.2) | 2.1.2
 
@@ -143,7 +175,7 @@ __Downloads__: 1 | __Repository__: https://github.com/BanterBoy/CreateTestAccoun
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 632,834 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 632,490 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PSPolly](https://www.powershellgallery.com/Packages/PSPolly/0.0.1) | 0.0.1
 
@@ -1077,7 +1109,7 @@ __Downloads__: 14,044 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 545,087 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 545,112 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -1190,7 +1222,7 @@ __Downloads__: 1,341 | __Repository__: https://github.com/endjin/Endjin.Recommen
 
 Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 214,100 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 214,099 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.22143.1) | 1.0.22143.1
 
@@ -1452,15 +1484,7 @@ __Downloads__: 145 | __Repository__:
 
 Devolutions Remote Desktop Manager (RDM) PowerShell Module
 
-__Downloads__: 5,079 | __Repository__: 
-
-## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.6) | 1.2.6
-
-### Published: 05/20/2022 17:57:24 by FastTrack In-Product Experiences Team
-
-Harness for generating fake sensitive information to test Microsoft Purview data loss prevention (DLP) policies.
-
-__Downloads__: 69 | __Repository__: 
+__Downloads__: 5,078 | __Repository__: 
 
 ## [VMware.VCDRService](https://www.powershellgallery.com/Packages/VMware.VCDRService/7.22.2.1) | 7.22.2.1
 
@@ -1540,15 +1564,7 @@ __Downloads__: 5 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 656,262 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
-
-## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
-
-### Published: 05/20/2022 05:16:58 by Robert Eriksen
-
-Test module - Shouldn't be used, can't be trusted, might break stuff.
-
-__Downloads__: 120 | __Repository__: 
+__Downloads__: 656,241 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [CLUFaber.UPM](https://www.powershellgallery.com/Packages/CLUFaber.UPM/0.1.0) | 0.1.0
 
@@ -1580,7 +1596,7 @@ __Downloads__: 10,938 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,249,752 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,249,747 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -2062,20 +2078,4 @@ CData Cmdlets for SAP Hybris Cloud for Customer
 
 __Downloads__: 427 | __Repository__: http://www.cdata.com/powershell/
 
-## [GoogleSpannerCmdlets](https://www.powershellgallery.com/Packages/GoogleSpannerCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:20:20 by CData Software Inc.
-
-CData Cmdlets for Google Spanner
-
-__Downloads__: 298 | __Repository__: http://www.cdata.com/powershell/
-
-## [DropboxCmdlets](https://www.powershellgallery.com/Packages/DropboxCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:20:15 by CData Software Inc.
-
-CData Cmdlets for Dropbox
-
-__Downloads__: 418 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Wednesday, 25 May 2022 09:52:40 UTC*
+*Updated: Wednesday, 25 May 2022 17:54:03 UTC*

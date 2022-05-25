@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 25 May 2022 09:52:49 UTC
+Updated: Wednesday, 25 May 2022 17:54:13 UTC
 
 ?:
 ??
@@ -18,13 +18,20 @@ Updated: Wednesday, 25 May 2022 09:52:49 UTC
 🍣
 💩
 1.1.1.1
+10
 11
+1607
+1703
+1709
+1803
 1809
 1c
 1e
 1password
 1poshword
 200
+2010
+2013
 2016
 2018
 2019
@@ -40,9 +47,11 @@ Updated: Wednesday, 25 May 2022 09:52:49 UTC
 64
 650
 650flb
+7
 7-zip
 7z
 7zip
+8.1
 8ball
 9
 aa
@@ -64,6 +73,7 @@ abe
 about
 abstractsyntaxtree
 abuse
+acas
 accelerator
 access
 access-control
@@ -321,6 +331,7 @@ applocker
 appmgmtcontrol
 apppool
 appraiser
+approve
 apps
 appservice
 appservices
@@ -336,6 +347,7 @@ arc
 arcade
 arcgis
 architecture
+architecuture
 archive
 archivedteams
 archivematica
@@ -488,6 +500,7 @@ az
 az-cli
 az.automation
 az.stackhci
+aza
 azautomation
 azcli
 azcompute
@@ -986,7 +999,6 @@ clipart
 clipasswordsdk
 clipboard
 clixml
-clock
 clojure
 clone
 close-openfile
@@ -1373,7 +1385,6 @@ dacl
 dacpac
 dacpackage
 dangling
-dapr
 dark
 dash
 dashboard
@@ -1462,6 +1473,7 @@ debugging
 decimal
 decimalip
 declarative
+decline
 decode
 decode64
 decoding
@@ -1523,7 +1535,6 @@ detection
 detectionrule
 deutsch
 deutschland
-dev
 dev-tools
 devart
 devdeer
@@ -1628,14 +1639,12 @@ dl
 dll
 dlmautomation
 dlmigration
-dlp
 dmarc
 dmgr
 dmi
 dmx
 dnd
 dns
-dns-01
 dns-administration
 dns-async
 dns-client
@@ -1672,6 +1681,7 @@ documents
 docusaurus
 docusign
 docx
+dod
 dog
 dog-names
 dogs
@@ -1780,6 +1790,7 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
+dynamicsnav
 dynamodb
 dynatrace
 dyndns
@@ -1872,6 +1883,7 @@ enterprisevoice
 entity
 entityframework
 entropy
+enum
 enumerable
 env
 environment
@@ -1951,7 +1963,6 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
-everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2511,7 +2522,6 @@ helper
 helperfunctions
 helpers
 helpfile
-heml
 here
 hewlett
 hewlett-packard
@@ -2917,6 +2927,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -2938,6 +2949,7 @@ kaseya
 kaseyavsa
 katakana
 kb
+kbarticle
 kdbx
 keenetic
 keepachangelog
@@ -2969,13 +2981,13 @@ klantcontroles
 kms
 knapsack
 knob
+knowledge
 knowledgebase
 koans
 korn
 kql
 krbtgt
 krick
-kubclt
 kubectl
 kubectx
 kubens
@@ -2999,7 +3011,6 @@ labservices
 labtech
 labtest
 labworker
-lake
 lambda
 lame
 lan
@@ -3009,7 +3020,6 @@ languageexperiencepack
 languagepack
 lansweeper
 laps
-laragon
 laserbeams
 last
 last.fm
@@ -3361,7 +3371,6 @@ mi
 micro-orm
 microfocus
 microk8s
-microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -3646,7 +3655,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-ngen
 ngfw
 nhl
 nic
@@ -4292,6 +4300,7 @@ processing
 processmitigation
 processor
 procs
+product
 productid
 productivity
 productmedia
@@ -4366,6 +4375,7 @@ psbackup
 psbbix
 psbicep
 psclient
+pscmdlet
 pscommander
 psconfasia
 psconfeu
@@ -4435,7 +4445,6 @@ psmsgraphapi
 psmvp
 psnavigation
 psnexosisclient
-psngenposh
 psobject
 pspath
 pspowerhour
@@ -4967,6 +4976,7 @@ screenresolution
 screensaver
 screenshot
 script
+script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -5294,7 +5304,6 @@ solarigate
 solarized
 solarwinds
 solr
-soltra
 solution
 solutions
 sonarcloud
@@ -5676,6 +5685,7 @@ templates
 templating
 temporary
 tenable
+tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
@@ -5912,6 +5922,7 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
+ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -5961,6 +5972,7 @@ uk
 ul
 ulid
 ulm
+um
 uml
 umn
 ums
@@ -6007,6 +6019,7 @@ updatemanagement
 updatemgmt
 updater
 updates
+updateservices
 updmanagement
 updmgmt
 upgrade
@@ -6249,6 +6262,7 @@ vvx
 vxrail
 w32time
 w3svc
+w3w
 waas
 wac
 waf
@@ -6325,12 +6339,12 @@ webtesting
 webtime
 wec
 wecutil
-weekday
 wef
 weixin
 well-known
 wem
 wemsdk
+what3words
 whatismyip
 where
 whfb
@@ -6444,8 +6458,6 @@ wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
