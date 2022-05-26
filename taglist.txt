@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 26 May 2022 09:53:07 UTC
+Updated: Thursday, 26 May 2022 17:54:28 UTC
 
 ?:
 ??
@@ -26,6 +26,7 @@ Updated: Thursday, 26 May 2022 09:53:07 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -110,6 +111,7 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
+activeefficiency
 activeresponse
 activesession
 activiti
@@ -249,6 +251,7 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonwebservices
 amend
 ami
 amp
@@ -348,6 +351,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -367,6 +371,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -790,6 +795,7 @@ caf
 cal
 calc
 calculate
+calculator
 calendar
 callingcode
 callqueue
@@ -911,7 +917,6 @@ choco
 choco-bear
 chocobear
 chocolatey
-choice
 chooser
 christaylorcodes
 christmas
@@ -928,7 +933,9 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimi
+ciminstance
 cims
 cimsession
 cinegy
@@ -1353,7 +1360,6 @@ customproviders
 cvad
 cve-2021-34527
 cvrf
-cvss
 cwi
 cx
 cyberark
@@ -1379,6 +1385,7 @@ dacl
 dacpac
 dacpackage
 dangling
+dapr
 dark
 dash
 dashboard
@@ -1643,6 +1650,7 @@ dmi
 dmx
 dnd
 dns
+dns-01
 dns-administration
 dns-async
 dns-client
@@ -1696,7 +1704,7 @@ dotenv
 dotfile
 dotfiles
 dotnet
-dotnettool
+dotnet-cli
 dotps1
 dots
 dotteddecimalip
@@ -1959,6 +1967,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2044,7 +2053,6 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
-failedlogin
 falcon
 fallbackstatuspoint
 faq
@@ -2320,6 +2328,7 @@ get-pass
 get-passivetrippoint
 get-passlist
 get-path
+get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
@@ -2515,8 +2524,10 @@ helloworld
 helmet
 help
 helper
+helperfunctions
 helpers
 helpfile
+heml
 here
 hewlett
 hewlett-packard
@@ -2525,6 +2536,7 @@ hex
 hg
 hibernation
 hibp
+hidden
 hide
 hids
 hiera
@@ -2664,7 +2676,6 @@ identitydataplane
 identitydirector
 identitynow
 idf
-ids
 ie
 iem
 ifconfig
@@ -2983,6 +2994,7 @@ korn
 kql
 krbtgt
 krick
+kubclt
 kubectl
 kubectx
 kubens
@@ -3084,6 +3096,7 @@ linear
 linearalgebra
 link
 linkedin
+linkedinads
 linq
 linqpad
 lint
@@ -3367,6 +3380,7 @@ mi
 micro-orm
 microfocus
 microk8s
+microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -3637,6 +3651,7 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
+new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
@@ -3874,6 +3889,7 @@ orchestrator
 order
 organization
 orgnetwork
+oriflame
 orion
 orleans
 orm
@@ -3997,7 +4013,6 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
-passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -4062,7 +4077,6 @@ photos
 php
 phpapam
 pi
-picker
 picture
 pictures
 pid
@@ -4071,6 +4085,7 @@ pim
 ping
 ping-async
 pingsweep
+pinneditem
 pinterest
 pinvoke
 pip
@@ -4416,7 +4431,6 @@ psgallery
 psget
 psgitlab
 psgraph
-psgraylog
 pshot
 pshtml
 psini
@@ -4712,6 +4726,7 @@ remove
 remove-githubsecrets
 remove-pass
 remove-path
+remove-pinneditem
 removetypeaccelerators
 remux
 ren-isac
@@ -5436,6 +5451,7 @@ start
 start-job
 start-jobthread
 start-threadjob
+startmen
 starwars
 stash
 stat
@@ -5522,6 +5538,7 @@ subscribedskus
 subscription
 subscriptiondefinition
 subsystem
+subtitle
 subversion
 successfactors
 sudo
@@ -5554,6 +5571,7 @@ swis
 switch
 sxs
 sybase
+sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5631,6 +5649,7 @@ tar
 target
 task
 task-runner
+taskbar
 tasker
 taskgroup
 taskmanagement
@@ -5736,6 +5755,7 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
+thousandeyes
 thread
 threading
 threadjob
@@ -5924,7 +5944,6 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
-ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -6054,6 +6073,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -6072,7 +6092,6 @@ uuid
 uw
 uwp
 ux
-vaas
 vagrant
 validate
 validate-dcb
@@ -6192,6 +6211,7 @@ vms
 vmtovmhostrule
 vmtovmrule
 vmware
+vmware.vsphere
 vmwaredrs
 vmwcluster
 vmwdatacenter
@@ -6249,7 +6269,6 @@ vum
 vvx
 vxrail
 w32time
-w3svc
 w3w
 waas
 wac
@@ -6482,6 +6501,7 @@ wpf
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
