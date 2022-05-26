@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 25 May 2022 17:54:13 UTC
+Updated: Thursday, 26 May 2022 02:35:38 UTC
 
 ?:
 ??
@@ -151,6 +151,7 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
+adgroupmemberobjects
 adgroups
 adif
 adm
@@ -999,6 +1000,7 @@ clipart
 clipasswordsdk
 clipboard
 clixml
+clock
 clojure
 clone
 close-openfile
@@ -1216,7 +1218,6 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
-convert-movietogif
 convert-windowsimage
 converter
 convertfrom-yaml
@@ -1396,6 +1397,8 @@ data_protection
 data-archive
 data-backup
 data-tier
+data-uri
+data-uri-converter
 database
 database-migrations
 databaseautomation
@@ -1535,6 +1538,7 @@ detection
 detectionrule
 deutsch
 deutschland
+dev
 dev-tools
 devart
 devdeer
@@ -1630,7 +1634,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -1645,6 +1648,7 @@ dmi
 dmx
 dnd
 dns
+dns-01
 dns-administration
 dns-async
 dns-client
@@ -1963,6 +1967,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2519,7 +2524,6 @@ helloworld
 helmet
 help
 helper
-helperfunctions
 helpers
 helpfile
 here
@@ -2691,6 +2695,7 @@ ilo5
 ilocmdlets
 im
 image
+image-converter
 image-creation
 image-generation
 image-process
@@ -2952,7 +2957,6 @@ kb
 kbarticle
 kdbx
 keenetic
-keepachangelog
 keepass
 keepasslib
 keeper
@@ -3011,6 +3015,7 @@ labservices
 labtech
 labtest
 labworker
+lake
 lambda
 lame
 lan
@@ -3020,6 +3025,7 @@ languageexperiencepack
 languagepack
 lansweeper
 laps
+laragon
 laserbeams
 last
 last.fm
@@ -3655,6 +3661,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+ngen
 ngfw
 nhl
 nic
@@ -4445,6 +4452,7 @@ psmsgraphapi
 psmvp
 psnavigation
 psnexosisclient
+psngenposh
 psobject
 pspath
 pspowerhour
@@ -5075,7 +5083,6 @@ sensitive
 sensitivity
 sensor
 sensors
-sensu
 sentinel
 sentinelone
 sep
@@ -5304,6 +5311,7 @@ solarigate
 solarized
 solarwinds
 solr
+soltra
 solution
 solutions
 sonarcloud
@@ -5473,7 +5481,6 @@ stigrepo
 stingar
 stock
 stockcharts
-stocks
 stoicism
 stoics
 stop
@@ -5864,7 +5871,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tts
 tui
@@ -5906,7 +5912,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -6339,6 +6344,7 @@ webtesting
 webtime
 wec
 wecutil
+weekday
 wef
 weixin
 well-known
@@ -6458,6 +6464,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -6491,7 +6499,6 @@ wpf
 wrap
 wrap-text
 wrapper
-wrapperfunctions
 wrc
 wrike
 write

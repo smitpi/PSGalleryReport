@@ -5,13 +5,102 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/1.75) | 1.75
+## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.109) | 2.0.109
 
-### Published: 05/25/2022 17:35:40 by Tanner Schmidt
+### Published: 05/26/2022 00:59:43 by Dylan Haskins and Eugene Van Staden
+
+A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
+
+__Downloads__: 6,771 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+
+## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.1.1) | 0.1.1
+
+### Published: 05/26/2022 00:13:54 by Jason Wohlgemuth
+
+A "standard" library for PowerShell inspired by the preludes of other languages
+
+__Downloads__: 1,044 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
+
+## [ImageDataUriConverter](https://www.powershellgallery.com/Packages/ImageDataUriConverter/1.0.0) | 1.0.0
+
+### Published: 05/26/2022 00:02:18 by Rob Green
+
+A Powershell module that generates a data uri from an image file or converts a data uri to an image file.
+
+__Downloads__: 0 | __Repository__: https://github.com/trossr32/ps-image-data-uri-converter
+
+## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/1.76) | 1.76
+
+### Published: 05/25/2022 22:53:32 by Tanner Schmidt
 
 This module does stuff
 
 __Downloads__: 69 | __Repository__: 
+
+## [PowerDir.GetPowerDir](https://www.powershellgallery.com/Packages/PowerDir.GetPowerDir/0.3.2) | 0.3.2
+
+### Published: 05/25/2022 21:32:31 by Raffaello Bertini
+
+PowerDir is a Powershell 7 Module as an alternative to Get-ChildItem.
+
+__Downloads__: 26 | __Repository__: https://github.com/BlueRedSkyLTD/PowerDir
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.25.2) | 22.5.25.2
+
+### Published: 05/25/2022 20:31:03 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 214,098 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.4.0) | 4.4.0
+
+### Published: 05/25/2022 20:03:29 by Venafi
+
+Automate your Venafi Trust Protection Platform and Venafi as a Service platforms!
+
+__Downloads__: 1,717 | __Repository__: https://github.com/Venafi/VenafiPS
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22145.30480) | 4.4.22145.30480
+
+### Published: 05/25/2022 19:27:46 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 2,881,096 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.8) | 0.1.8
+
+### Published: 05/25/2022 19:20:39 by Sebastiaan Dammann
+
+Powershell module to generate interactive console menu.
+    
+    Supports:
+    - Multiselection
+    - Paging
+    - Objects
+    - Custom rendering
+    - Rendering callback
+    
+    Check for examples on how to use it on Github!
+
+__Downloads__: 1,476 | __Repository__: https://github.com/Sebazzz/PSMenu
+
+## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/1.0.21) | 1.0.21
+
+### Published: 05/25/2022 18:33:39 by Przemyslaw Klys
+
+Simple module allowing parsing of event logs. Has its own quirks...
+
+__Downloads__: 172,522 | __Repository__: https://github.com/EvotecIT/PSEventViewer
+
+## [cwmApi](https://www.powershellgallery.com/Packages/cwmApi/1.4.2) | 1.4.2
+
+### Published: 05/25/2022 18:21:20 by Rob Gilbreath - rob.gilbreath@pncit.com
+
+This module facilitates interaction with the ConnectWise Manage REST API via PowerShell
+
+__Downloads__: 5,783 | __Repository__: https://github.com/pncit/cwmApi
 
 ## [FailoverClusterDsc](https://www.powershellgallery.com/Packages/FailoverClusterDsc/2.0.0) | 2.0.0
 
@@ -27,7 +116,7 @@ __Downloads__: 0 | __Repository__: https://github.com/dsccommunity/xFailOverClus
 
 A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft.
 
-__Downloads__: 2,795 | __Repository__: https://github.com/jdhitsolutions/WTToolbox
+__Downloads__: 2,796 | __Repository__: https://github.com/jdhitsolutions/WTToolbox
 
 ## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.2.2) | 1.2.2
 
@@ -36,14 +125,6 @@ __Downloads__: 2,795 | __Repository__: https://github.com/jdhitsolutions/WTToolb
 SkylineAutomationToolkit
 
 __Downloads__: 206 | __Repository__: 
-
-## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/1.0.20) | 1.0.20
-
-### Published: 05/25/2022 12:12:07 by Przemyslaw Klys
-
-Simple module allowing parsing of event logs. Has its own quirks...
-
-__Downloads__: 172,523 | __Repository__: https://github.com/EvotecIT/PSEventViewer
 
 ## [Pipeline.Sql.Deploy](https://www.powershellgallery.com/Packages/Pipeline.Sql.Deploy/0.0.142) | 0.0.142
 
@@ -90,7 +171,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 332,391 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 332,390 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.3) | 1.0.3
 
@@ -175,7 +256,7 @@ __Downloads__: 1 | __Repository__: https://github.com/BanterBoy/CreateTestAccoun
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 632,490 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 632,480 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PSPolly](https://www.powershellgallery.com/Packages/PSPolly/0.0.1) | 0.0.1
 
@@ -1109,7 +1190,7 @@ __Downloads__: 14,044 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 545,112 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 545,087 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -1175,23 +1256,6 @@ The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API 
 
 __Downloads__: 1,286,837 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
-## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.7) | 0.1.7
-
-### Published: 05/23/2022 18:15:34 by Sebastiaan Dammann
-
-Powershell module to generate interactive console menu.
-    
-    Supports:
-    - Multiselection
-    - Paging
-    - Objects
-    - Custom rendering
-    - Rendering callback
-    
-    Check for examples on how to use it on Github!
-
-__Downloads__: 1,476 | __Repository__: https://github.com/Sebazzz/PSMenu
-
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.1.2) | 1.1.2
 
 ### Published: 05/23/2022 17:12:56 by Sascha Spiekermann
@@ -1215,14 +1279,6 @@ __Downloads__: 13 | __Repository__:
 Provides automated build features using on the InvokeBuild module
 
 __Downloads__: 1,341 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.23.2) | 22.5.23.2
-
-### Published: 05/23/2022 12:49:07 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 214,099 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.22143.1) | 1.0.22143.1
 
@@ -1452,7 +1508,7 @@ __Downloads__: 4 | __Repository__:
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 2,107 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 2,105 | __Repository__: https://aka.ms/AzAPICall
 
 ## [tom42tools](https://www.powershellgallery.com/Packages/tom42tools/22.5.21.1) | 22.5.21.1
 
@@ -1484,7 +1540,7 @@ __Downloads__: 145 | __Repository__:
 
 Devolutions Remote Desktop Manager (RDM) PowerShell Module
 
-__Downloads__: 5,078 | __Repository__: 
+__Downloads__: 5,079 | __Repository__: 
 
 ## [VMware.VCDRService](https://www.powershellgallery.com/Packages/VMware.VCDRService/7.22.2.1) | 7.22.2.1
 
@@ -1548,7 +1604,7 @@ __Downloads__: 22 | __Repository__:
 
 QCT Driver and Firmware Update Management.
 
-__Downloads__: 2,574 | __Repository__: 
+__Downloads__: 2,575 | __Repository__: 
 
 ## [CLUFaber.Unity](https://www.powershellgallery.com/Packages/CLUFaber.Unity/0.1.0) | 0.1.0
 
@@ -1564,7 +1620,15 @@ __Downloads__: 5 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 656,241 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 656,239 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+
+## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
+
+### Published: 05/20/2022 05:16:58 by Robert Eriksen
+
+Test module - Shouldn't be used, can't be trusted, might break stuff.
+
+__Downloads__: 120 | __Repository__: 
 
 ## [CLUFaber.UPM](https://www.powershellgallery.com/Packages/CLUFaber.UPM/0.1.0) | 0.1.0
 
@@ -1596,7 +1660,7 @@ __Downloads__: 10,938 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,249,747 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,249,756 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -2014,68 +2078,4 @@ CData Cmdlets for Snowflake
 
 __Downloads__: 964 | __Repository__: http://www.cdata.com/powershell/
 
-## [ActOnCmdlets](https://www.powershellgallery.com/Packages/ActOnCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:21:04 by CData Software Inc.
-
-CData Cmdlets for Act-On
-
-__Downloads__: 415 | __Repository__: http://www.cdata.com/powershell/
-
-## [TeradataCmdlets](https://www.powershellgallery.com/Packages/TeradataCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:20:58 by CData Software Inc.
-
-CData Cmdlets for Teradata
-
-__Downloads__: 345 | __Repository__: http://www.cdata.com/powershell/
-
-## [PrestoCmdlets](https://www.powershellgallery.com/Packages/PrestoCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:20:52 by CData Software Inc.
-
-CData Cmdlets for Presto
-
-__Downloads__: 210 | __Repository__: http://www.cdata.com/powershell/
-
-## [DigitalOceanCmdlets](https://www.powershellgallery.com/Packages/DigitalOceanCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:20:47 by CData Software Inc.
-
-CData Cmdlets for DigitalOcean
-
-__Downloads__: 414 | __Repository__: http://www.cdata.com/powershell/
-
-## [AmazonMarketplaceCmdlets](https://www.powershellgallery.com/Packages/AmazonMarketplaceCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:20:42 by CData Software Inc.
-
-CData Cmdlets for Amazon Marketplace
-
-__Downloads__: 456 | __Repository__: http://www.cdata.com/powershell/
-
-## [MarkLogicCmdlets](https://www.powershellgallery.com/Packages/MarkLogicCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:20:36 by CData Software Inc.
-
-CData Cmdlets for MarkLogic
-
-__Downloads__: 294 | __Repository__: http://www.cdata.com/powershell/
-
-## [AcumaticaCmdlets](https://www.powershellgallery.com/Packages/AcumaticaCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:20:31 by CData Software Inc.
-
-CData Cmdlets for Acumatica
-
-__Downloads__: 569 | __Repository__: http://www.cdata.com/powershell/
-
-## [SAPHybrisC4CCmdlets](https://www.powershellgallery.com/Packages/SAPHybrisC4CCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:20:25 by CData Software Inc.
-
-CData Cmdlets for SAP Hybris Cloud for Customer
-
-__Downloads__: 427 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Wednesday, 25 May 2022 17:54:03 UTC*
+*Updated: Thursday, 26 May 2022 02:35:28 UTC*
