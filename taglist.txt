@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 26 May 2022 02:35:38 UTC
+Updated: Thursday, 26 May 2022 09:53:07 UTC
 
 ?:
 ??
@@ -26,7 +26,6 @@ Updated: Thursday, 26 May 2022 02:35:38 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -111,7 +110,6 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
-activeefficiency
 activeresponse
 activesession
 activiti
@@ -251,7 +249,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonwebservices
 amend
 ami
 amp
@@ -351,7 +348,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -371,7 +367,6 @@ arp
 array
 arrays
 art
-artefactual
 artifact
 artifactory
 artifacts
@@ -795,7 +790,6 @@ caf
 cal
 calc
 calculate
-calculator
 calendar
 callingcode
 callqueue
@@ -934,9 +928,7 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimi
-ciminstance
 cims
 cimsession
 cinegy
@@ -1218,6 +1210,7 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-windowsimage
 converter
 convertfrom-yaml
@@ -1634,6 +1627,7 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
+dividends
 diving
 division
 divoom
@@ -1642,13 +1636,13 @@ dl
 dll
 dlmautomation
 dlmigration
+dlp
 dmarc
 dmgr
 dmi
 dmx
 dnd
 dns
-dns-01
 dns-administration
 dns-async
 dns-client
@@ -1702,7 +1696,6 @@ dotenv
 dotfile
 dotfiles
 dotnet
-dotnet-cli
 dotnettool
 dotps1
 dots
@@ -1966,7 +1959,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2328,7 +2320,6 @@ get-pass
 get-passivetrippoint
 get-passlist
 get-path
-get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
@@ -2534,7 +2525,6 @@ hex
 hg
 hibernation
 hibp
-hidden
 hide
 hids
 hiera
@@ -2957,6 +2947,7 @@ kb
 kbarticle
 kdbx
 keenetic
+keepachangelog
 keepass
 keepasslib
 keeper
@@ -3093,7 +3084,6 @@ linear
 linearalgebra
 link
 linkedin
-linkedinads
 linq
 linqpad
 lint
@@ -3647,7 +3637,6 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
-new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
@@ -3885,7 +3874,6 @@ orchestrator
 order
 organization
 orgnetwork
-oriflame
 orion
 orleans
 orm
@@ -4083,7 +4071,6 @@ pim
 ping
 ping-async
 pingsweep
-pinneditem
 pinterest
 pinvoke
 pip
@@ -4725,7 +4712,6 @@ remove
 remove-githubsecrets
 remove-pass
 remove-path
-remove-pinneditem
 removetypeaccelerators
 remux
 ren-isac
@@ -5083,6 +5069,7 @@ sensitive
 sensitivity
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sep
@@ -5449,7 +5436,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startmen
 starwars
 stash
 stat
@@ -5481,6 +5467,7 @@ stigrepo
 stingar
 stock
 stockcharts
+stocks
 stoicism
 stoics
 stop
@@ -5535,7 +5522,6 @@ subscribedskus
 subscription
 subscriptiondefinition
 subsystem
-subtitle
 subversion
 successfactors
 sudo
@@ -5568,7 +5554,6 @@ swis
 switch
 sxs
 sybase
-sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5646,7 +5631,6 @@ tar
 target
 task
 task-runner
-taskbar
 tasker
 taskgroup
 taskmanagement
@@ -5752,7 +5736,6 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
-thousandeyes
 thread
 threading
 threadjob
@@ -5871,6 +5854,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tts
 tui
@@ -5912,6 +5896,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -6069,7 +6054,6 @@ userrightsassignment
 users
 userworkstations
 usg
-usps
 utc
 utf-8
 utf-sig
@@ -6208,7 +6192,6 @@ vms
 vmtovmhostrule
 vmtovmrule
 vmware
-vmware.vsphere
 vmwaredrs
 vmwcluster
 vmwdatacenter

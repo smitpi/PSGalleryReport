@@ -5,6 +5,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.13) | 0.2.13
+
+### Published: 05/26/2022 09:15:59 by Simon Bergwall
+
+Wrapper for Robocopy
+
+__Downloads__: 3,986,865 | __Repository__: https://github.com/sbergwall/RobocopyPS
+
+## [PowerVCF](https://www.powershellgallery.com/Packages/PowerVCF/2.2.0) | 2.2.0
+
+### Published: 05/26/2022 08:48:13 by Brian O Connell Gary Blake & Ken Gould
+
+PowerShell Module for the VMware Cloud Foundation 4.x API.
+
+__Downloads__: 2,805 | __Repository__: 
+
+## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/1.0.22) | 1.0.22
+
+### Published: 05/26/2022 08:27:48 by Przemyslaw Klys
+
+Simple module allowing parsing of event logs. Has its own quirks...
+
+__Downloads__: 172,523 | __Repository__: https://github.com/EvotecIT/PSEventViewer
+
+## [ReportRunner](https://www.powershellgallery.com/Packages/ReportRunner/0.6.7) | 0.6.7
+
+### Published: 05/26/2022 05:42:38 by Jesse Reichman
+
+ReportRunner
+
+__Downloads__: 68 | __Repository__: https://github.com/archmachina/ps-reportrunner/
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.25.3) | 22.5.25.3
+
+### Published: 05/26/2022 03:41:07 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+Gary Blok HP Experiment Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 214,124 | __Repository__: https://github.com/OSDeploy/OSD
+
 ## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.109) | 2.0.109
 
 ### Published: 05/26/2022 00:59:43 by Dylan Haskins and Eugene Van Staden
@@ -29,14 +69,6 @@ A Powershell module that generates a data uri from an image file or converts a d
 
 __Downloads__: 0 | __Repository__: https://github.com/trossr32/ps-image-data-uri-converter
 
-## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/1.76) | 1.76
-
-### Published: 05/25/2022 22:53:32 by Tanner Schmidt
-
-This module does stuff
-
-__Downloads__: 69 | __Repository__: 
-
 ## [PowerDir.GetPowerDir](https://www.powershellgallery.com/Packages/PowerDir.GetPowerDir/0.3.2) | 0.3.2
 
 ### Published: 05/25/2022 21:32:31 by Raffaello Bertini
@@ -44,14 +76,6 @@ __Downloads__: 69 | __Repository__:
 PowerDir is a Powershell 7 Module as an alternative to Get-ChildItem.
 
 __Downloads__: 26 | __Repository__: https://github.com/BlueRedSkyLTD/PowerDir
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.25.2) | 22.5.25.2
-
-### Published: 05/25/2022 20:31:03 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 214,098 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.4.0) | 4.4.0
 
@@ -67,7 +91,7 @@ __Downloads__: 1,717 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,881,096 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,881,108 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.8) | 0.1.8
 
@@ -85,14 +109,6 @@ Powershell module to generate interactive console menu.
     Check for examples on how to use it on Github!
 
 __Downloads__: 1,476 | __Repository__: https://github.com/Sebazzz/PSMenu
-
-## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/1.0.21) | 1.0.21
-
-### Published: 05/25/2022 18:33:39 by Przemyslaw Klys
-
-Simple module allowing parsing of event logs. Has its own quirks...
-
-__Downloads__: 172,522 | __Repository__: https://github.com/EvotecIT/PSEventViewer
 
 ## [cwmApi](https://www.powershellgallery.com/Packages/cwmApi/1.4.2) | 1.4.2
 
@@ -116,7 +132,7 @@ __Downloads__: 0 | __Repository__: https://github.com/dsccommunity/xFailOverClus
 
 A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft.
 
-__Downloads__: 2,796 | __Repository__: https://github.com/jdhitsolutions/WTToolbox
+__Downloads__: 2,795 | __Repository__: https://github.com/jdhitsolutions/WTToolbox
 
 ## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.2.2) | 1.2.2
 
@@ -171,7 +187,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 332,390 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 332,392 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.3) | 1.0.3
 
@@ -1129,7 +1145,7 @@ __Downloads__: 12,657 | __Repository__: https://github.com/thycotic-ps/thycotic.
 
 Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
 
-__Downloads__: 803,244 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+__Downloads__: 803,207 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5.2) | 0.5.2
 
@@ -1174,7 +1190,7 @@ __Downloads__: 212 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,610,154 | __Repository__: https://dbatools.io/
+__Downloads__: 1,610,093 | __Repository__: https://dbatools.io/
 
 ## [PS-NCentral](https://www.powershellgallery.com/Packages/PS-NCentral/1.4.1) | 1.4.1
 
@@ -1190,15 +1206,7 @@ __Downloads__: 14,044 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 545,087 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
-
-## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
-
-### Published: 05/24/2022 08:46:10 by Christopher Berg Schwanstrøm
-
-Various helpful cmdlets and functions
-
-__Downloads__: 387 | __Repository__: 
+__Downloads__: 545,112 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [ADGraph](https://www.powershellgallery.com/Packages/ADGraph/1.0.4) | 1.0.4
 
@@ -1254,7 +1262,7 @@ __Downloads__: 1,417 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,286,837 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,286,799 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.1.2) | 1.1.2
 
@@ -1402,15 +1410,7 @@ __Downloads__: 6,948 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 10,466 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.5) | 0.0.5
-
-### Published: 05/22/2022 18:44:52 by Przemyslaw Klys
-
-Module that allows getting, adding and removing User Rights Assignment without using secedit.exe
-
-__Downloads__: 23 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
+__Downloads__: 10,467 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.5) | 3.1.5
 
@@ -1542,6 +1542,14 @@ Devolutions Remote Desktop Manager (RDM) PowerShell Module
 
 __Downloads__: 5,079 | __Repository__: 
 
+## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.6) | 1.2.6
+
+### Published: 05/20/2022 17:57:24 by FastTrack In-Product Experiences Team
+
+Harness for generating fake sensitive information to test Microsoft Purview data loss prevention (DLP) policies.
+
+__Downloads__: 69 | __Repository__: 
+
 ## [VMware.VCDRService](https://www.powershellgallery.com/Packages/VMware.VCDRService/7.22.2.1) | 7.22.2.1
 
 ### Published: 05/20/2022 16:49:36 by VMware
@@ -1556,7 +1564,7 @@ __Downloads__: 16 | __Repository__: https://github.com/vmware/vmware-powercli-fo
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 12,837,230 | __Repository__: 
+__Downloads__: 12,837,423 | __Repository__: 
 
 ## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
 
@@ -1604,7 +1612,7 @@ __Downloads__: 22 | __Repository__:
 
 QCT Driver and Firmware Update Management.
 
-__Downloads__: 2,575 | __Repository__: 
+__Downloads__: 2,574 | __Repository__: 
 
 ## [CLUFaber.Unity](https://www.powershellgallery.com/Packages/CLUFaber.Unity/0.1.0) | 0.1.0
 
@@ -1621,14 +1629,6 @@ __Downloads__: 5 | __Repository__:
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
 __Downloads__: 656,239 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
-
-## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
-
-### Published: 05/20/2022 05:16:58 by Robert Eriksen
-
-Test module - Shouldn't be used, can't be trusted, might break stuff.
-
-__Downloads__: 120 | __Repository__: 
 
 ## [CLUFaber.UPM](https://www.powershellgallery.com/Packages/CLUFaber.UPM/0.1.0) | 0.1.0
 
@@ -1660,7 +1660,7 @@ __Downloads__: 10,938 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,249,756 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,249,742 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1693,14 +1693,6 @@ __Downloads__: 280 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Dataverse
 
 __Downloads__: 319 | __Repository__: http://www.cdata.com/powershell/
-
-## [TrelloCmdlets](https://www.powershellgallery.com/Packages/TrelloCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:25:27 by CData Software Inc.
-
-CData Cmdlets for Trello
-
-__Downloads__: 242 | __Repository__: http://www.cdata.com/powershell/
 
 ## [PinterestCmdlets](https://www.powershellgallery.com/Packages/PinterestCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -2078,4 +2070,12 @@ CData Cmdlets for Snowflake
 
 __Downloads__: 964 | __Repository__: http://www.cdata.com/powershell/
 
-*Updated: Thursday, 26 May 2022 02:35:28 UTC*
+## [ActOnCmdlets](https://www.powershellgallery.com/Packages/ActOnCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:21:04 by CData Software Inc.
+
+CData Cmdlets for Act-On
+
+__Downloads__: 415 | __Repository__: http://www.cdata.com/powershell/
+
+*Updated: Thursday, 26 May 2022 09:52:58 UTC*
