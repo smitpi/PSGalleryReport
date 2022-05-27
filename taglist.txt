@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 27 May 2022 09:53:56 UTC
+Updated: Friday, 27 May 2022 17:54:32 UTC
 
 ?:
 ??
@@ -19,7 +19,6 @@ Updated: Friday, 27 May 2022 09:53:56 UTC
 💩
 1.1.1.1
 10
-11
 1607
 1703
 1709
@@ -37,6 +36,7 @@ Updated: Friday, 27 May 2022 09:53:56 UTC
 2019
 24-bit
 2fa
+300
 365
 36867
 3d
@@ -200,7 +200,6 @@ agenda
 agent
 aggregates
 aggregation
-agile
 agility
 agm
 agnoster
@@ -952,6 +951,7 @@ cisco
 ciscoucscmdlets
 ciscoucsdsc
 citrix
+civo
 cix
 class
 classes
@@ -1308,7 +1308,6 @@ cropping
 cross-platform
 cross-reference
 crossjoin
-crossover
 crossplatform
 crowdstrike
 crt.sh
@@ -1330,6 +1329,7 @@ csv
 csv2adx
 csvhelper
 ctf
+ctglobal
 ctl
 ctx
 ctype
@@ -1416,6 +1416,7 @@ dataclassification
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 datafactory
 dataflow
 datagateway
@@ -1567,6 +1568,7 @@ dfs
 dfw
 dg
 dhcp
+di
 diagnostic
 diagnostics
 diagram
@@ -1595,7 +1597,6 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorymarks
-directoryname
 directorysearcher
 directorysecurity
 directrouting
@@ -1970,7 +1971,6 @@ everydaypowershell
 everydayrewards
 everything
 evidencelock
-evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2295,7 +2295,6 @@ generation
 generator
 generic
 genericartifactscontent
-genetic-algorithm
 genxdev
 geo
 geoencode
@@ -2442,9 +2441,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guestconfigurationinitiative
-guestconfigurationpolicy
-guestinitiative
 gui
 gui.cs
 guid
@@ -2456,6 +2452,7 @@ gymnasium
 gz
 gzip
 ha
+haarlemsdagblad
 hack
 hacktoberfest
 hadoop
@@ -2636,6 +2633,7 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
+ia
 iaas
 iac
 iam
@@ -2763,6 +2761,7 @@ inputobject
 insert
 insiderthreat
 insight
+insightanalytics
 insights
 inspect
 inspur
@@ -2905,6 +2904,7 @@ jea
 jenkins
 jetbrains
 jira
+jiraservicemanagement
 jms
 joat
 job
@@ -2916,10 +2916,11 @@ join-object
 jojoba
 joke
 jotform
-journal
 jpg
 jq
 js7
+jsm
+jsm.insight
 json
 json-transform
 json+
@@ -2946,8 +2947,6 @@ k8s
 kafka
 kaminario
 karma
-kaseya
-kaseyavsa
 katakana
 kb
 kbarticle
@@ -3000,6 +2999,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -3166,7 +3166,6 @@ logicmonitor
 login
 login-azurermaccount
 login-rdp
-loginscreen
 loginsight
 logistic
 logitech
@@ -3554,7 +3553,6 @@ multithreading
 music
 musiccast
 mustache
-mutation
 mute
 mutex
 mva
@@ -3587,7 +3585,6 @@ nanoleaf
 nasdaq
 native
 natural-language-to-code
-natural-selection
 nav
 navigation
 nbi
@@ -3865,6 +3862,7 @@ operationalinsights
 operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
+operationvalidation
 operatoraccesscontrol
 operators
 opml
@@ -3872,7 +3870,6 @@ ops
 opsi
 opsmgr
 optics
-optimization
 optimizer
 option
 opus
@@ -4127,9 +4124,6 @@ pode
 poe
 point
 point-to-site
-pokeapi
-pokedex
-pokemon
 poker
 policies
 policy
@@ -4147,7 +4141,6 @@ pop
 pop-location
 pop3
 popd
-population
 popup
 port
 portal
@@ -4198,7 +4191,6 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
-powerdex
 powerforensics
 powergraph
 powermax
@@ -4567,7 +4559,6 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quota
@@ -4628,7 +4619,6 @@ rdsgw
 react-stockcharts
 read-slog
 readable
-readiness
 readme
 readthedocs
 realschule
@@ -4637,6 +4627,7 @@ reboot
 rebootnodeifneeded
 reckon
 recommendation
+reconcile
 record
 recording
 recovery
@@ -5056,7 +5047,6 @@ select-item
 select-kubecontext
 select-kubenamespace
 select-string
-selection
 selectxmlinfo
 selenium
 self
@@ -5149,7 +5139,6 @@ sf
 sfb
 sftp
 sfx
-sgw
 sha256
 shadow
 shadowcopy
@@ -5314,7 +5303,6 @@ solr
 soltra
 solution
 solutions
-sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -5490,7 +5478,6 @@ storablecolortheme
 storage
 storageaccount
 storagecache
-storagegrid-webscale
 storagesync
 store
 storefront
@@ -5919,6 +5906,7 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
+ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -5934,7 +5922,6 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6198,13 +6185,11 @@ vm
 vmc
 vmfs
 vmgroup
-vmguestpolicy
 vmhost
 vmhostgroup
 vmhostnetworkadapater
 vmmanagement
 vmnic
-vmpolicy
 vmrole
 vms
 vmtovmhostrule
@@ -6243,7 +6228,6 @@ vrops
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vscode
 vsdevcmd
@@ -6289,6 +6273,7 @@ warning
 warplaneporn
 warranty
 warrenty
+wasabi
 watch
 watchmen
 watery
@@ -6347,7 +6332,6 @@ wec
 wecutil
 weekday
 wef
-weixin
 well-known
 wem
 wemsdk
