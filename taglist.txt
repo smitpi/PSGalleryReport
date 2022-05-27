@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 26 May 2022 17:54:28 UTC
+Updated: Friday, 27 May 2022 02:32:20 UTC
 
 ?:
 ??
@@ -917,6 +917,7 @@ choco
 choco-bear
 chocobear
 chocolatey
+choice
 chooser
 christaylorcodes
 christmas
@@ -1035,7 +1036,6 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1273,11 +1273,7 @@ crayon
 crc
 crc32
 create
-createcolumn
-createdatabase
 createprocessasuser
-createschema
-createtable
 creationworkflowsimplification
 creator
 cred
@@ -1360,6 +1356,7 @@ customproviders
 cvad
 cve-2021-34527
 cvrf
+cvss
 cwi
 cx
 cyberark
@@ -1705,6 +1702,7 @@ dotfile
 dotfiles
 dotnet
 dotnet-cli
+dotnettool
 dotps1
 dots
 dotteddecimalip
@@ -1734,9 +1732,7 @@ driverupdates
 drm
 drop
 dropbox
-dropdatabase
 droplet
-droptable
 drs
 drsrule
 drupal
@@ -2053,6 +2049,7 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
+failedlogin
 falcon
 fallbackstatuspoint
 faq
@@ -2676,6 +2673,7 @@ identitydataplane
 identitydirector
 identitynow
 idf
+ids
 ie
 iem
 ifconfig
@@ -4013,6 +4011,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -4077,6 +4076,7 @@ photos
 php
 phpapam
 pi
+picker
 picture
 pictures
 pid
@@ -4431,6 +4431,7 @@ psgallery
 psget
 psgitlab
 psgraph
+psgraylog
 pshot
 pshtml
 psini
@@ -4639,7 +4640,6 @@ reboot
 rebootnodeifneeded
 reckon
 recommendation
-reconcile
 record
 recording
 recovery
@@ -5944,6 +5944,7 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
+ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -6075,7 +6076,6 @@ userworkstations
 usg
 usps
 utc
-utf-8
 utf-sig
 utf7
 utf8
@@ -6092,6 +6092,7 @@ uuid
 uw
 uwp
 ux
+vaas
 vagrant
 validate
 validate-dcb
@@ -6269,6 +6270,7 @@ vum
 vvx
 vxrail
 w32time
+w3svc
 w3w
 waas
 wac

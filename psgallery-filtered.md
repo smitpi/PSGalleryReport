@@ -5,13 +5,93 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [JMg.Files](https://www.powershellgallery.com/Packages/JMg.Files/0.0.1) | 0.0.1
+## [Piecemeal](https://www.powershellgallery.com/Packages/Piecemeal/0.2.7) | 0.2.7
 
-### Published: 05/26/2022 16:30:59 by Justin Grote @justinwgrote
+### Published: 05/27/2022 02:19:04 by James Brundage
+
+Easy Extensible Plugins for PowerShell
+
+__Downloads__: 84 | __Repository__: https://github.com/StartAutomating/Piecemeal
+
+## [PSRandomUser](https://www.powershellgallery.com/Packages/PSRandomUser/1.0.0) | 1.0.0
+
+### Published: 05/27/2022 01:27:16 by Luke Leigh
+
+The PSRandomUser Module enables you to create random user accounts. This module can be used to create random user accounts for testing purposes. Commands included enable the easy creation of Temporary Active Directory user accounts. This module is not intended for use in production environments.
+
+__Downloads__: 3 | __Repository__: https://github.com/BanterBoy/CreateTestAccounts
+
+## [LGPO](https://www.powershellgallery.com/Packages/LGPO/1.0.3.1) | 1.0.3.1
+
+### Published: 05/27/2022 01:23:42 by Powershellcrack
+
+Converts registry items into local security policy using LGPO
+
+__Downloads__: 124 | __Repository__: https://github.com/PowerShellCrack/LGPOPSmodule
+
+## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.51.0) | 0.51.0
+
+### Published: 05/27/2022 01:22:43 by WebMD Health Services
+
+Continuous Integration/Continuous Delivery module.
+
+__Downloads__: 4,743 | __Repository__: https://github.com/webmd-health-services/Whiskey
+
+## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/1.78) | 1.78
+
+### Published: 05/26/2022 23:52:27 by Tanner Schmidt
+
+This module does stuff
+
+__Downloads__: 94 | __Repository__: 
+
+## [JMg.Files](https://www.powershellgallery.com/Packages/JMg.Files/0.0.2) | 0.0.2
+
+### Published: 05/26/2022 23:49:11 by Justin Grote @justinwgrote
 
 Functions to make working with Files (aka DriveItems) in OneDrive and Sharepoint easier
 
 __Downloads__: 0 | __Repository__: https://github.com/JustinGrote/JMg.Files
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.99) | 1.1.99
+
+### Published: 05/26/2022 22:15:43 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,612,811 | __Repository__: https://dbatools.io/
+
+## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.1.2) | 0.1.2
+
+### Published: 05/26/2022 21:17:46 by Jason Wohlgemuth
+
+A "standard" library for PowerShell inspired by the preludes of other languages
+
+__Downloads__: 1,047 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
+
+## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.2.2) | 1.2.2
+
+### Published: 05/26/2022 21:12:09 by Mikey O'Toole
+
+This module provides an interface to the NinjaOne API.
+
+__Downloads__: 193 | __Repository__: https://github.com/homotechsual/NinjaOne
+
+## [ComputerManagement](https://www.powershellgallery.com/Packages/ComputerManagement/1.1.2.3) | 1.1.2.3
+
+### Published: 05/26/2022 20:15:29 by Jeffrey Patton
+
+A PowerShell module for working with the local computer
+
+__Downloads__: 408 | __Repository__: https://github.com/mod-posh
+
+## [Indented.Net.IP](https://www.powershellgallery.com/Packages/Indented.Net.IP/6.3.1) | 6.3.1
+
+### Published: 05/26/2022 18:42:01 by Chris Dent
+
+A collection of commands written to perform IPv4 subnet math.
+
+__Downloads__: 82,796 | __Repository__: 
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.26.1) | 22.5.26.1
 
@@ -91,7 +171,7 @@ __Downloads__: 238 | __Repository__:
 
 A Powershell module that generates a data uri from an image file, converts a data uri to an image file or resizes a data uri.
 
-__Downloads__: 7 | __Repository__: https://github.com/trossr32/ps-image-data-uri-converter
+__Downloads__: 4 | __Repository__: https://github.com/trossr32/ps-image-data-uri-converter
 
 ## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.13) | 0.2.13
 
@@ -133,22 +213,6 @@ A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft Po
 
 __Downloads__: 6,843 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
-## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.1.1) | 0.1.1
-
-### Published: 05/26/2022 00:13:54 by Jason Wohlgemuth
-
-A "standard" library for PowerShell inspired by the preludes of other languages
-
-__Downloads__: 1,047 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
-
-## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/1.76) | 1.76
-
-### Published: 05/25/2022 22:53:32 by Tanner Schmidt
-
-This module does stuff
-
-__Downloads__: 94 | __Repository__: 
-
 ## [PowerDir.GetPowerDir](https://www.powershellgallery.com/Packages/PowerDir.GetPowerDir/0.3.2) | 0.3.2
 
 ### Published: 05/25/2022 21:32:31 by Raffaello Bertini
@@ -156,6 +220,14 @@ __Downloads__: 94 | __Repository__:
 PowerDir is a Powershell 7 Module as an alternative to Get-ChildItem.
 
 __Downloads__: 33 | __Repository__: https://github.com/BlueRedSkyLTD/PowerDir
+
+## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.4.0) | 4.4.0
+
+### Published: 05/25/2022 20:03:29 by Venafi
+
+Automate your Venafi Trust Protection Platform and Venafi as a Service platforms!
+
+__Downloads__: 1,724 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22145.30480) | 4.4.22145.30480
 
@@ -304,15 +376,7 @@ __Downloads__: 1,831 | __Repository__: https://github.com/stefanland/D365FOLBDAd
 
 Connect to the Huntress API
 
-__Downloads__: 6 | __Repository__: 
-
-## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.2.1) | 1.2.1
-
-### Published: 05/24/2022 23:12:31 by Mikey O'Toole
-
-This module provides an interface to the NinjaOne API.
-
-__Downloads__: 193 | __Repository__: https://github.com/homotechsual/NinjaOne
+__Downloads__: 5 | __Repository__: 
 
 ## [MetasysRestClient](https://www.powershellgallery.com/Packages/MetasysRestClient/2.1.2) | 2.1.2
 
@@ -329,14 +393,6 @@ __Downloads__: 140 | __Repository__: https://github.com/metasys-server/powershel
 Powershell SDK for Kaminario / Silk cloud data platform.
 
 __Downloads__: 258 | __Repository__: https://github.com/JayAreP/SDP
-
-## [PSRandomUser](https://www.powershellgallery.com/Packages/PSRandomUser/0.0.1) | 0.0.1
-
-### Published: 05/24/2022 21:18:41 by Luke Leigh
-
-The PSRandomUser Module enables you to create random user accounts.
-
-__Downloads__: 3 | __Repository__: https://github.com/BanterBoy/CreateTestAccounts
 
 ## [AzOps](https://www.powershellgallery.com/Packages/AzOps/1.8.1) | 1.8.1
 
@@ -1248,14 +1304,6 @@ Abstraction layer for Microsoft Graph API calls
 
 __Downloads__: 214 | __Repository__: 
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.98) | 1.1.98
-
-### Published: 05/24/2022 12:36:07 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,612,811 | __Repository__: https://dbatools.io/
-
 ## [PS-NCentral](https://www.powershellgallery.com/Packages/PS-NCentral/1.4.1) | 1.4.1
 
 ### Published: 05/24/2022 12:10:42 by Adriaan Sluis
@@ -1270,7 +1318,7 @@ __Downloads__: 14,094 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 547,055 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 547,074 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -1507,7 +1555,7 @@ __Downloads__: 2,238 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 343,839 | __Repository__: 
+__Downloads__: 345,470 | __Repository__: 
 
 ## [TrainingUtils](https://www.powershellgallery.com/Packages/TrainingUtils/1.0.4) | 1.0.4
 
@@ -1709,14 +1757,6 @@ __Downloads__: 123 | __Repository__:
 UPM convenience functions
 
 __Downloads__: 8 | __Repository__: 
-
-## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.50.1) | 0.50.1
-
-### Published: 05/20/2022 03:58:08 by WebMD Health Services
-
-Continuous Integration/Continuous Delivery module.
-
-__Downloads__: 4,743 | __Repository__: https://github.com/webmd-health-services/Whiskey
 
 ## [PSAutoLab](https://www.powershellgallery.com/Packages/PSAutoLab/4.22.1) | 4.22.1
 
@@ -2038,44 +2078,4 @@ CData Cmdlets for QuickBooks
 
 __Downloads__: 749 | __Repository__: http://www.cdata.com/powershell/
 
-## [QuickBooksOnlineCmdlets](https://www.powershellgallery.com/Packages/QuickBooksOnlineCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:22:20 by CData Software Inc.
-
-CData Cmdlets for QuickBooks Online
-
-__Downloads__: 744 | __Repository__: http://www.cdata.com/powershell/
-
-## [DynamicsCRMCmdlets](https://www.powershellgallery.com/Packages/DynamicsCRMCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:22:15 by CData Software Inc.
-
-CData Cmdlets for Dynamics CRM
-
-__Downloads__: 968 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleSheetsCmdlets](https://www.powershellgallery.com/Packages/GoogleSheetsCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:22:09 by CData Software Inc.
-
-CData Cmdlets for Google Sheets
-
-__Downloads__: 2,804 | __Repository__: http://www.cdata.com/powershell/
-
-## [LDAPCmdlets](https://www.powershellgallery.com/Packages/LDAPCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:22:04 by CData Software Inc.
-
-CData Cmdlets for LDAP
-
-__Downloads__: 2,044 | __Repository__: http://www.cdata.com/powershell/
-
-## [ApacheHBaseCmdlets](https://www.powershellgallery.com/Packages/ApacheHBaseCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:21:58 by CData Software Inc.
-
-CData Cmdlets for Apache HBase
-
-__Downloads__: 1,420 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Thursday, 26 May 2022 17:54:16 UTC*
+*Updated: Friday, 27 May 2022 02:32:10 UTC*

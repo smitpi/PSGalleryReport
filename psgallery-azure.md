@@ -124,7 +124,7 @@ __Downloads__: 881 | __Repository__:
 
 PowerShell module to help with CI&CD for Azure Data Factory, mainly to publish to ADF service in multiple environments. Check https://github.com/SQLPlayer/azure.datafactory.tools/ & https://sqlplayer.net/adf/
 
-__Downloads__: 64,227 | __Repository__: https://github.com/SQLPlayer/azure.datafactory.tools/
+__Downloads__: 64,232 | __Repository__: https://github.com/SQLPlayer/azure.datafactory.tools/
 
 ## [AzureConnectedMachineDsc](https://www.powershellgallery.com/Packages/AzureConnectedMachineDsc/1.3.0) | 1.3.0
 
@@ -368,7 +368,7 @@ __Downloads__: 4,383 | __Repository__: https://github.com/dtewinkel/AzureCli
 
 PowerShell module to help with Azure Databricks CI & CD Scenarios by simplifying the API or CLI calls into idempotent commands. See https://github.com/DataThirstLtd/azure.databricks.cicd.tools & https://datathirst.net
 
-__Downloads__: 405,878 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
+__Downloads__: 405,883 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
 
 ## [Om.Azure](https://www.powershellgallery.com/Packages/Om.Azure/0.0.2) | 0.0.2
 
@@ -1654,7 +1654,7 @@ Import-Module AzureAutomationAuthoringToolkit
 
 in the PowerShell ISE
 
-__Downloads__: 50,439 | __Repository__: https://github.com/azureautomation/azure-automation-ise-addon
+__Downloads__: 50,440 | __Repository__: https://github.com/azureautomation/azure-automation-ise-addon
 
 ## [AzureRM.Scheduler](https://www.powershellgallery.com/Packages/AzureRM.Scheduler/0.16.10) | 0.16.10
 
@@ -2022,7 +2022,7 @@ __Downloads__: 608 | __Repository__: https://github.com/fodonnel/CredentialStore
 
 Tools for Azure Automation logging
 
-__Downloads__: 1,231 | __Repository__: https://github.com/big-data-for-humans/azure-automation-tools
+__Downloads__: 1,232 | __Repository__: https://github.com/big-data-for-humans/azure-automation-tools
 
 ## [AzureArmTemplateHelper](https://www.powershellgallery.com/Packages/AzureArmTemplateHelper/1.0.3) | 1.0.3
 
@@ -2084,4 +2084,4 @@ A set of utility commands for use with Azure Automation runbooks.
 
 __Downloads__: 1,478 | __Repository__: 
 
-*Updated: Thursday, 26 May 2022 17:54:19 UTC*
+*Updated: Friday, 27 May 2022 02:32:12 UTC*
