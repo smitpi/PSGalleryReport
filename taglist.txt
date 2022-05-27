@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 27 May 2022 02:32:20 UTC
+Updated: Friday, 27 May 2022 09:53:56 UTC
 
 ?:
 ??
@@ -37,7 +37,6 @@ Updated: Friday, 27 May 2022 02:32:20 UTC
 2019
 24-bit
 2fa
-300
 365
 36867
 3d
@@ -73,7 +72,6 @@ abe
 about
 abstractsyntaxtree
 abuse
-acas
 accelerator
 access
 access-control
@@ -198,6 +196,7 @@ afd
 affinity
 affinity-co
 affinity-crm
+agenda
 agent
 aggregates
 aggregation
@@ -953,7 +952,6 @@ cisco
 ciscoucscmdlets
 ciscoucsdsc
 citrix
-civo
 cix
 class
 classes
@@ -1036,6 +1034,7 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1146,6 +1145,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1273,7 +1273,11 @@ crayon
 crc
 crc32
 create
+createcolumn
+createdatabase
 createprocessasuser
+createschema
+createtable
 creationworkflowsimplification
 creator
 cred
@@ -1326,7 +1330,6 @@ csv
 csv2adx
 csvhelper
 ctf
-ctglobal
 ctl
 ctx
 ctype
@@ -1564,7 +1567,6 @@ dfs
 dfw
 dg
 dhcp
-di
 diagnostic
 diagnostics
 diagram
@@ -1684,7 +1686,6 @@ documents
 docusaurus
 docusign
 docx
-dod
 dog
 dog-names
 dogs
@@ -1732,7 +1733,9 @@ driverupdates
 drm
 drop
 dropbox
+dropdatabase
 droplet
+droptable
 drs
 drsrule
 drupal
@@ -2453,7 +2456,6 @@ gymnasium
 gz
 gzip
 ha
-haarlemsdagblad
 hack
 hacktoberfest
 hadoop
@@ -2634,7 +2636,6 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
-ia
 iaas
 iac
 iam
@@ -2762,7 +2763,6 @@ inputobject
 insert
 insiderthreat
 insight
-insightanalytics
 insights
 inspect
 inspur
@@ -2905,7 +2905,6 @@ jea
 jenkins
 jetbrains
 jira
-jiraservicemanagement
 jms
 joat
 job
@@ -2921,8 +2920,6 @@ journal
 jpg
 jq
 js7
-jsm
-jsm.insight
 json
 json-transform
 json+
@@ -3868,7 +3865,6 @@ operationalinsights
 operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
-operationvalidation
 operatoraccesscontrol
 operators
 opml
@@ -4271,6 +4267,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -5130,6 +5127,7 @@ servicing
 servicingstack
 ses
 session
+sessionize
 sessions
 set
 set_bios
@@ -5350,6 +5348,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 specification
 specify
 spectre
@@ -5695,7 +5694,6 @@ templates
 templating
 temporary
 tenable
-tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
@@ -5921,7 +5919,6 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
-ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -6076,6 +6073,7 @@ userworkstations
 usg
 usps
 utc
+utf-8
 utf-sig
 utf7
 utf8
@@ -6291,7 +6289,6 @@ warning
 warplaneporn
 warranty
 warrenty
-wasabi
 watch
 watchmen
 watery

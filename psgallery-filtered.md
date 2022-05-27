@@ -5,6 +5,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSessionize](https://www.powershellgallery.com/Packages/PSessionize/1.0.1) | 1.0.1
+
+### Published: 05/27/2022 09:16:29 by Emanuel Palm
+
+A module to get session and speaker data from Sessionize for conferences, talks and presentations.
+
+__Downloads__: 0 | __Repository__: https://github.com/PalmEmanuel/PSessionize
+
+## [JSDR.Configuration](https://www.powershellgallery.com/Packages/JSDR.Configuration/3.1.1) | 3.1.1
+
+### Published: 05/27/2022 06:58:07 by JetStream Software
+
+Powershell Module for confguration of JetStream Software on AVS
+
+__Downloads__: 1,635 | __Repository__: https://www.jetstreamsoft.com/about/support/
+
+## [RoughDraft](https://www.powershellgallery.com/Packages/RoughDraft/0.3.4) | 0.3.4
+
+### Published: 05/27/2022 05:35:24 by James Brundage
+
+A Fun PowerShell Module for Multimedia
+
+__Downloads__: 1,878 | __Repository__: https://github.com/StartAutomating/RoughDraft
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.64.0) | 1.64.0
+
+### Published: 05/27/2022 03:19:44 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 2,234 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
 ## [Piecemeal](https://www.powershellgallery.com/Packages/Piecemeal/0.2.7) | 0.2.7
 
 ### Published: 05/27/2022 02:19:04 by James Brundage
@@ -59,7 +91,7 @@ __Downloads__: 0 | __Repository__: https://github.com/JustinGrote/JMg.Files
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,612,811 | __Repository__: https://dbatools.io/
+__Downloads__: 1,612,867 | __Repository__: https://dbatools.io/
 
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.1.2) | 0.1.2
 
@@ -91,7 +123,7 @@ __Downloads__: 408 | __Repository__: https://github.com/mod-posh
 
 A collection of commands written to perform IPv4 subnet math.
 
-__Downloads__: 82,796 | __Repository__: 
+__Downloads__: 82,795 | __Repository__: 
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.5.26.1) | 22.5.26.1
 
@@ -99,15 +131,7 @@ __Downloads__: 82,796 | __Repository__:
 
 Gary Blok HP Experiment Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 215,234 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.63.0) | 1.63.0
-
-### Published: 05/26/2022 15:27:05 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 2,234 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 215,246 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [NewRelicPS](https://www.powershellgallery.com/Packages/NewRelicPS/1.3.0) | 1.3.0
 
@@ -171,7 +195,7 @@ __Downloads__: 238 | __Repository__:
 
 A Powershell module that generates a data uri from an image file, converts a data uri to an image file or resizes a data uri.
 
-__Downloads__: 4 | __Repository__: https://github.com/trossr32/ps-image-data-uri-converter
+__Downloads__: 7 | __Repository__: https://github.com/trossr32/ps-image-data-uri-converter
 
 ## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.13) | 0.2.13
 
@@ -179,7 +203,7 @@ __Downloads__: 4 | __Repository__: https://github.com/trossr32/ps-image-data-uri
 
 Wrapper for Robocopy
 
-__Downloads__: 3,995,482 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 3,995,990 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [PowerVCF](https://www.powershellgallery.com/Packages/PowerVCF/2.2.0) | 2.2.0
 
@@ -276,7 +300,7 @@ __Downloads__: 91 | __Repository__: https://github.com/dsccommunity/xFailOverClu
 
 A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft.
 
-__Downloads__: 2,811 | __Repository__: https://github.com/jdhitsolutions/WTToolbox
+__Downloads__: 2,812 | __Repository__: https://github.com/jdhitsolutions/WTToolbox
 
 ## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.2.2) | 1.2.2
 
@@ -331,7 +355,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 333,953 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 333,955 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.3) | 1.0.3
 
@@ -400,7 +424,7 @@ __Downloads__: 258 | __Repository__: https://github.com/JayAreP/SDP
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 635,253 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 635,303 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PSPolly](https://www.powershellgallery.com/Packages/PSPolly/0.0.1) | 0.0.1
 
@@ -1273,7 +1297,7 @@ __Downloads__: 12,723 | __Repository__: https://github.com/thycotic-ps/thycotic.
 
 Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
 
-__Downloads__: 805,744 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+__Downloads__: 805,795 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5.2) | 0.5.2
 
@@ -1318,7 +1342,7 @@ __Downloads__: 14,094 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 547,074 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 547,055 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -1382,7 +1406,7 @@ __Downloads__: 1,420 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,290,114 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,290,170 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.1.2) | 1.1.2
 
@@ -1555,7 +1579,7 @@ __Downloads__: 2,238 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 345,470 | __Repository__: 
+__Downloads__: 343,839 | __Repository__: 
 
 ## [TrainingUtils](https://www.powershellgallery.com/Packages/TrainingUtils/1.0.4) | 1.0.4
 
@@ -1676,7 +1700,7 @@ __Downloads__: 18 | __Repository__: https://github.com/vmware/vmware-powercli-fo
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 12,990,686 | __Repository__: 
+__Downloads__: 12,991,595 | __Repository__: 
 
 ## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
 
@@ -1740,7 +1764,7 @@ __Downloads__: 6 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 657,883 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 658,550 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
 
@@ -1764,7 +1788,7 @@ __Downloads__: 8 | __Repository__:
 
 This module contains the control scripts to build, snapshot and remove lab environements using DSC configurations and the Lability PowerShell module.
 
-__Downloads__: 10,957 | __Repository__: https://github.com/pluralsight/PS-AutoLab-Env
+__Downloads__: 10,958 | __Repository__: https://github.com/pluralsight/PS-AutoLab-Env
 
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/1.22.1) | 1.22.1
 
@@ -1772,7 +1796,7 @@ __Downloads__: 10,957 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,250,932 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,250,970 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1789,14 +1813,6 @@ __Downloads__: 213 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for SAP ByDesign
 
 __Downloads__: 249 | __Repository__: http://www.cdata.com/powershell/
-
-## [WasabiCmdlets](https://www.powershellgallery.com/Packages/WasabiCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:25:39 by CData Software Inc.
-
-CData Cmdlets for Wasabi
-
-__Downloads__: 281 | __Repository__: http://www.cdata.com/powershell/
 
 ## [CDSCmdlets](https://www.powershellgallery.com/Packages/CDSCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -1869,14 +1885,6 @@ __Downloads__: 360 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for EdgarOnline
 
 __Downloads__: 266 | __Repository__: http://www.cdata.com/powershell/
-
-## [ConfluenceCmdlets](https://www.powershellgallery.com/Packages/ConfluenceCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:24:44 by CData Software Inc.
-
-CData Cmdlets for Confluence
-
-__Downloads__: 250 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SAPFieldglassCmdlets](https://www.powershellgallery.com/Packages/SAPFieldglassCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -2070,12 +2078,4 @@ CData Cmdlets for RSS
 
 __Downloads__: 531 | __Repository__: http://www.cdata.com/powershell/
 
-## [QuickBooksCmdlets](https://www.powershellgallery.com/Packages/QuickBooksCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:22:26 by CData Software Inc.
-
-CData Cmdlets for QuickBooks
-
-__Downloads__: 749 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Friday, 27 May 2022 02:32:10 UTC*
+*Updated: Friday, 27 May 2022 09:53:44 UTC*
