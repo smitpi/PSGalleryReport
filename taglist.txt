@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 28 May 2022 02:27:45 UTC
+Updated: Saturday, 28 May 2022 09:52:36 UTC
 
 ?:
 ??
@@ -236,7 +236,6 @@ algorithms
 alias
 aliases
 aliens
-all
 alletra
 alm
 almrangers
@@ -285,7 +284,6 @@ ansible
 antimalwarescaninterface
 antispam
 antivirus
-any
 anyconnect
 anypoint
 anywhere
@@ -300,6 +298,7 @@ apigateway
 apigee
 apigeeedge
 apimanagement
+apis
 apm
 apmconfig
 apmcontrolplane
@@ -340,6 +339,7 @@ appsetting
 appv
 appveyor
 appx
+appxmanifest
 aprs
 apt-get
 apt-get-update
@@ -718,7 +718,6 @@ book
 bookmark
 bookmarks
 books
-bool
 bootloader
 bootstrap
 bootstrapping
@@ -1142,7 +1141,6 @@ computersite
 concur
 concurrent
 conda
-condition
 conditionalaccess
 conduit
 conference
@@ -1298,7 +1296,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-crestron
 crlf
 crm
 crm2016
@@ -1520,6 +1517,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1697,7 +1695,6 @@ doh
 dok
 dokuwiki
 domain
-domains
 donothing
 dos
 dot
@@ -1726,6 +1723,7 @@ dreary
 drift
 driftmonitor
 drive
+drive letter
 driver
 driverpacks
 drivers
@@ -1890,7 +1888,6 @@ entity
 entityframework
 entropy
 enum
-enumerable
 env
 environment
 environment-variables
@@ -2020,7 +2017,6 @@ expired
 expiring
 expiry
 exploit
-exploration
 explorer
 exponentiation
 export
@@ -2081,6 +2077,7 @@ feed
 fetch
 ffmpeg
 fhirservice
+fiche
 fiddler
 fido
 fieldglass
@@ -2168,10 +2165,8 @@ fixpack
 flac
 flash
 flasharray
-flashblade
 flatfile
 flatten
-flex
 flex-query
 flexdesk
 flickr
@@ -2485,7 +2480,6 @@ harvestforecast
 hash
 hashcat
 hashicorp
-hashset
 hashtable
 hasicorp
 haskell
@@ -2717,6 +2711,7 @@ imaging
 imap
 imb
 imi
+impala
 impersonation
 imperva
 import
@@ -3450,7 +3445,6 @@ mobile
 mobilitycontroller
 mock
 mocking
-modify
 module
 modulebuild
 modulecreation
@@ -3500,7 +3494,6 @@ msal
 msband
 msbi
 msbuild
-mschart
 msdeploy
 msdn
 msdtc
@@ -3594,6 +3587,7 @@ natural-language-to-code
 natural-selection
 nav
 navigation
+nbi
 ncal
 ndes
 nebulon
@@ -4258,7 +4252,6 @@ pptp
 pptx
 pq
 pranks
-predicate
 prediction
 predictor
 preferences
@@ -4447,6 +4440,7 @@ psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
+psmp
 psmsgraph
 psmsgraphapi
 psmvp
@@ -4571,7 +4565,6 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quota
 quote
 quotes
 quoting
@@ -4845,6 +4838,7 @@ routine
 rover
 royalapps
 royaldocument
+royalserver
 royalts
 royaltsx
 rpa
@@ -5699,6 +5693,7 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
+termbin
 terminal
 terminal-services
 terminal.gui
@@ -5724,6 +5719,7 @@ testing
 testlab
 testplans
 tests
+testsuite
 testtag1
 testtag2
 testtool
@@ -6353,7 +6349,6 @@ wem
 wemsdk
 what3words
 whatismyip
-where
 whfb
 whiteboard
 whitespace
@@ -6382,6 +6377,7 @@ winbuilder
 window
 windows
 windows  server
+windows explorer
 windows_events
 windows-10
 windows-api

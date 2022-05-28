@@ -5,13 +5,121 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.226) | 0.0.226
+
+### Published: 05/28/2022 07:47:47 by Przemyslaw Klys
+
+Module covering functions that are shared within multiple projects
+
+__Downloads__: 134,907 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
+## [StepAutomation](https://www.powershellgallery.com/Packages/StepAutomation/1.0.3) | 1.0.3
+
+### Published: 05/28/2022 07:37:06 by Ogtay Garayev
+
+This module allows administrators, testers to automate sequential steps (configuration based).
+
+The module provides classes for automating operations. You can also easily extend the module with adding your own custom operations.
+
+The Module also provides classes for automating Web Page actions over Chrome Web Browser (e.g. navigating, clicking, text adding) and some default methods for this.
+
+__Downloads__: 6 | __Repository__: 
+
+## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.33.2022) | 1.33.2022
+
+### Published: 05/28/2022 07:14:55 by René Vaessen
+
+A Windows PowerShell module for finding resources and information on the internet
+
+__Downloads__: 166 | __Repository__: https://github.com/renevaessen/GenXdev.Queries
+
+## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.33.2022) | 1.33.2022
+
+### Published: 05/28/2022 07:14:09 by René Vaessen
+
+A Windows PowerShell module for enhancing the commandline experience
+
+__Downloads__: 127 | __Repository__: https://github.com/renevaessen/GenXdev.Console
+
+## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.33.2022) | 1.33.2022
+
+### Published: 05/28/2022 07:09:32 by René Vaessen
+
+A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
+
+__Downloads__: 308 | __Repository__: https://github.com/renevaessen/GenXdev.Webbrowser
+
+## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.33.2022) | 1.33.2022
+
+### Published: 05/28/2022 07:08:15 by René Vaessen
+
+A Windows PowerShell module that provides ui Windows manipulation helpers
+
+__Downloads__: 355 | __Repository__: https://github.com/renevaessen/GenXdev.Windows
+
+## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.33.2022) | 1.33.2022
+
+### Published: 05/28/2022 07:07:29 by René Vaessen
+
+A Windows PowerShell module with helpers mostly used by other GenXdev modules
+
+__Downloads__: 474 | __Repository__: https://github.com/renevaessen/GenXdev.Helpers
+
+## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.33.2022) | 1.33.2022
+
+### Published: 05/28/2022 07:07:13 by René Vaessen
+
+A Windows PowerShell module for basic and advanced file management tasks
+
+__Downloads__: 352 | __Repository__: https://github.com/renevaessen/GenXdev.FileSystem
+
+## [JMg.Files](https://www.powershellgallery.com/Packages/JMg.Files/0.0.7) | 0.0.7
+
+### Published: 05/28/2022 05:55:18 by Justin Grote @justinwgrote
+
+Functions to make working with Files (aka DriveItems) in OneDrive and Sharepoint easier
+
+__Downloads__: 4 | __Repository__: https://github.com/JustinGrote/JMg.Files
+
+## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/0.4.0) | 0.4.0
+
+### Published: 05/28/2022 05:15:26 by hugoalh
+
+Provide a better and easier way for GitHub Actions to communicate with the runner machine.
+
+__Downloads__: 264 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2205.567) | 2205.567
+
+### Published: 05/28/2022 04:41:59 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 575,853 | __Repository__: https://stealthpuppy.com/evergreen/
+
+## [Test-Connections](https://www.powershellgallery.com/Packages/Test-Connections/2022.5.27.0) | 2022.5.27.0
+
+### Published: 05/28/2022 04:12:48 by David Isaacson
+
+Test-Connection to multiple devcies in parallel with a color and "watch" feature.
+
+__Downloads__: 0 | __Repository__: https://github.com/daisaacson/Test-Connections
+
+## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/12.2.2) | 12.2.2
+
+### Published: 05/28/2022 03:30:16 by Vadim Melamed
+
+Module for CyberArk v12.2 Privileged Access Security Web Service REST API
+
+__Downloads__: 78 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/VpasModule/VpasModule/12.2.2
+
 ## [AudioDeviceCmdlets](https://www.powershellgallery.com/Packages/AudioDeviceCmdlets/3.1.0.1) | 3.1.0.1
 
 ### Published: 05/28/2022 01:59:15 by Francois Gendron <fg@frgn.ca>
 
 AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 
-__Downloads__: 1,559,588 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
+__Downloads__: 1,559,596 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
 
 ## [PS-Sudoku](https://www.powershellgallery.com/Packages/PS-Sudoku/2.0.2) | 2.0.2
 
@@ -29,14 +137,6 @@ A "standard" library for PowerShell inspired by the preludes of other languages
 
 __Downloads__: 1,050 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
 
-## [JMg.Files](https://www.powershellgallery.com/Packages/JMg.Files/0.0.5) | 0.0.5
-
-### Published: 05/27/2022 21:11:40 by Justin Grote @justinwgrote
-
-Functions to make working with Files (aka DriveItems) in OneDrive and Sharepoint easier
-
-__Downloads__: 4 | __Repository__: https://github.com/JustinGrote/JMg.Files
-
 ## [D365FOLBDAdmin](https://www.powershellgallery.com/Packages/D365FOLBDAdmin/2.1.26.0) | 2.1.26.0
 
 ### Published: 05/27/2022 20:04:57 by StefanRLand
@@ -51,7 +151,7 @@ __Downloads__: 1,832 | __Repository__: https://github.com/stefanland/D365FOLBDAd
 
 This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
 
-__Downloads__: 747 | __Repository__: 
+__Downloads__: 748 | __Repository__: 
 
 ## [Kang](https://www.powershellgallery.com/Packages/Kang/0.0.3) | 0.0.3
 
@@ -59,7 +159,7 @@ __Downloads__: 747 | __Repository__:
 
 Various usefull functions
 
-__Downloads__: 2 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
 
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.2.0) | 1.2.0
 
@@ -69,25 +169,13 @@ A module to interact with a Fortinet Manager appliance for Fortigate Firewalls
 
 __Downloads__: 18 | __Repository__: https://github.com/Callidus2000/FortiManager/
 
-## [StepAutomation](https://www.powershellgallery.com/Packages/StepAutomation/1.0.2) | 1.0.2
-
-### Published: 05/27/2022 16:06:54 by Ogtay Garayev
-
-This module allows administrators, testers to automate sequential steps (configuration based).
-
-The module provides classes for automating operations. You can also easily extend the module with adding your own custom operations.
-
-The Module also provides classes for automating Web Page actions over Chrome Web Browser (e.g. navigating, clicking, text adding) and some default methods for this.
-
-__Downloads__: 6 | __Repository__: 
-
 ## [UMN-AutoPackager](https://www.powershellgallery.com/Packages/UMN-AutoPackager/1.0.42) | 1.0.42
 
 ### Published: 05/27/2022 15:41:59 by Jeff Bolduan Matt Thoen Greg Slavik
 
 Auto packager to detect newer version and build applications in MEMCM and Intune.
 
-__Downloads__: 85 | __Repository__: https://github.com/umn-microsoft-automation/UMN-AutoPackager/
+__Downloads__: 86 | __Repository__: https://github.com/umn-microsoft-automation/UMN-AutoPackager/
 
 ## [AuditPolicy](https://www.powershellgallery.com/Packages/AuditPolicy/0.0.5) | 0.0.5
 
@@ -111,7 +199,7 @@ __Downloads__: 0 | __Repository__: https://metabpa.org/projects/hvdx/
 
 Adds the required configuration to SCEPman (https://scepman.com/) right after installing or updating to a 2.x version.
 
-__Downloads__: 593 | __Repository__: https://scepman.com/
+__Downloads__: 594 | __Repository__: https://scepman.com/
 
 ## [Assert-JsonValidity](https://www.powershellgallery.com/Packages/Assert-JsonValidity/0.9.1) | 0.9.1
 
@@ -191,7 +279,7 @@ __Downloads__: 4,797 | __Repository__: https://github.com/webmd-health-services/
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,616,245 | __Repository__: https://dbatools.io/
+__Downloads__: 1,616,250 | __Repository__: https://dbatools.io/
 
 ## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.2.2) | 1.2.2
 
@@ -223,7 +311,7 @@ __Downloads__: 82,847 | __Repository__:
 
 Gary Blok HP Experiment Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 216,587 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 216,584 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [NewRelicPS](https://www.powershellgallery.com/Packages/NewRelicPS/1.3.0) | 1.3.0
 
@@ -264,6 +352,14 @@ __Downloads__: 1 | __Repository__:
 Converts a GZipped and Base64 Encoded string into its original string content
 
 __Downloads__: 3 | __Repository__: 
+
+## [AVDManagementFramework](https://www.powershellgallery.com/Packages/AVDManagementFramework/1.0.28) | 1.0.28
+
+### Published: 05/26/2022 11:24:06 by wmoselhy
+
+Azure Virtual Desktop Management Framework
+
+__Downloads__: 243 | __Repository__: 
 
 ## [ImageDataUriConverter](https://www.powershellgallery.com/Packages/ImageDataUriConverter/1.1.1) | 1.1.1
 
@@ -335,7 +431,7 @@ __Downloads__: 1,738 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,887,996 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,888,066 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.8) | 0.1.8
 
@@ -368,7 +464,7 @@ __Downloads__: 6,138 | __Repository__: https://github.com/pncit/cwmApi
 
 Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
 
-__Downloads__: 98 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+__Downloads__: 99 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
 
 ## [WTToolBox](https://www.powershellgallery.com/Packages/WTToolBox/1.15.0) | 1.15.0
 
@@ -431,7 +527,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 335,580 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 335,583 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.3) | 1.0.3
 
@@ -492,7 +588,7 @@ __Downloads__: 258 | __Repository__: https://github.com/JayAreP/SDP
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 637,789 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 637,786 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PSPolly](https://www.powershellgallery.com/Packages/PSPolly/0.0.1) | 0.0.1
 
@@ -661,7 +757,7 @@ __Downloads__: 1,248 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Resourcesearch Service
 
-__Downloads__: 1,631 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,632 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Resourcemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcemanager/34.2.0) | 34.2.0
 
@@ -1125,7 +1221,7 @@ __Downloads__: 495 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Core Service
 
-__Downloads__: 6,401 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 6,402 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Containerengine](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerengine/34.2.0) | 34.2.0
 
@@ -1349,7 +1445,7 @@ __Downloads__: 93 | __Repository__: https://github.com/oracle/oci-powershell-mod
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 40,804 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 40,807 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.60.6) | 0.60.6
 
@@ -1357,7 +1453,7 @@ __Downloads__: 40,804 | __Repository__: https://github.com/oracle/oci-powershell
 
 Interact with the Secret Server REST API
 
-__Downloads__: 12,789 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 12,790 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [xFailOverCluster](https://www.powershellgallery.com/Packages/xFailOverCluster/1.16.1) | 1.16.1
 
@@ -1365,7 +1461,7 @@ __Downloads__: 12,789 | __Repository__: https://github.com/thycotic-ps/thycotic.
 
 Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
 
-__Downloads__: 808,154 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+__Downloads__: 808,164 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5.2) | 0.5.2
 
@@ -1410,7 +1506,7 @@ __Downloads__: 14,142 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 548,549 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 548,556 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -1474,7 +1570,7 @@ __Downloads__: 1,422 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,293,554 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,293,570 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [UcLobbyTeams](https://www.powershellgallery.com/Packages/UcLobbyTeams/0.1.2) | 0.1.2
 
@@ -1499,14 +1595,6 @@ __Downloads__: 1,541 | __Repository__:
 Provide file system change notifications as PowerShell engine events
 
 __Downloads__: 635 | __Repository__: https://github.com/wgross/fswatcher-engine-event
-
-## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/0.3.4) | 0.3.4
-
-### Published: 05/23/2022 09:07:38 by hugoalh
-
-Provide a better and easier way for GitHub Actions to communicate with the runner machine.
-
-__Downloads__: 264 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [EndpointCloudkit](https://www.powershellgallery.com/Packages/EndpointCloudkit/0.0.14.7) | 0.0.14.7
 
@@ -1639,7 +1727,7 @@ __Downloads__: 2,241 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 348,910 | __Repository__: 
+__Downloads__: 348,911 | __Repository__: 
 
 ## [TrainingUtils](https://www.powershellgallery.com/Packages/TrainingUtils/1.0.4) | 1.0.4
 
@@ -1752,7 +1840,7 @@ __Downloads__: 18 | __Repository__: https://github.com/vmware/vmware-powercli-fo
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 13,014,922 | __Repository__: 
+__Downloads__: 13,014,776 | __Repository__: 
 
 ## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
 
@@ -1808,7 +1896,7 @@ __Downloads__: 6 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 660,081 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 660,094 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
 
@@ -1994,92 +2082,4 @@ CData Cmdlets for Apache Phoenix
 
 __Downloads__: 296 | __Repository__: http://www.cdata.com/powershell/
 
-## [AmazonS3Cmdlets](https://www.powershellgallery.com/Packages/AmazonS3Cmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:24:07 by CData Software Inc.
-
-CData Cmdlets for Amazon S3
-
-__Downloads__: 347 | __Repository__: http://www.cdata.com/powershell/
-
-## [VeevaVaultCmdlets](https://www.powershellgallery.com/Packages/VeevaVaultCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:24:00 by CData Software Inc.
-
-CData Cmdlets for Veeva Vault
-
-__Downloads__: 339 | __Repository__: http://www.cdata.com/powershell/
-
-## [MariaDBCmdlets](https://www.powershellgallery.com/Packages/MariaDBCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:23:55 by CData Software Inc.
-
-CData Cmdlets for MariaDB
-
-__Downloads__: 1,372 | __Repository__: http://www.cdata.com/powershell/
-
-## [OracleOciCmdlets](https://www.powershellgallery.com/Packages/OracleOciCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:23:50 by CData Software Inc.
-
-CData Cmdlets for Oracle
-
-__Downloads__: 284 | __Repository__: http://www.cdata.com/powershell/
-
-## [SAPHANACmdlets](https://www.powershellgallery.com/Packages/SAPHANACmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:23:44 by CData Software Inc.
-
-CData Cmdlets for SAP HANA
-
-__Downloads__: 304 | __Repository__: http://www.cdata.com/powershell/
-
-## [AlfrescoCmdlets](https://www.powershellgallery.com/Packages/AlfrescoCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:23:39 by CData Software Inc.
-
-CData Cmdlets for Alfresco
-
-__Downloads__: 346 | __Repository__: http://www.cdata.com/powershell/
-
-## [IBMCloudSQLQueryCmdlets](https://www.powershellgallery.com/Packages/IBMCloudSQLQueryCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:23:34 by CData Software Inc.
-
-CData Cmdlets for IBM Cloud SQL Query
-
-__Downloads__: 294 | __Repository__: http://www.cdata.com/powershell/
-
-## [GreenplumCmdlets](https://www.powershellgallery.com/Packages/GreenplumCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:23:28 by CData Software Inc.
-
-CData Cmdlets for Greenplum
-
-__Downloads__: 301 | __Repository__: http://www.cdata.com/powershell/
-
-## [SFTPCmdlets](https://www.powershellgallery.com/Packages/SFTPCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:23:23 by CData Software Inc.
-
-CData Cmdlets for SFTP
-
-__Downloads__: 590 | __Repository__: http://www.cdata.com/powershell/
-
-## [EvernoteCmdlets](https://www.powershellgallery.com/Packages/EvernoteCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:23:17 by CData Software Inc.
-
-CData Cmdlets for Evernote
-
-__Downloads__: 301 | __Repository__: http://www.cdata.com/powershell/
-
-## [AdobeAnalyticsCmdlets](https://www.powershellgallery.com/Packages/AdobeAnalyticsCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:23:11 by CData Software Inc.
-
-CData Cmdlets for Adobe Analytics
-
-__Downloads__: 333 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Saturday, 28 May 2022 02:27:36 UTC*
+*Updated: Saturday, 28 May 2022 09:52:26 UTC*
