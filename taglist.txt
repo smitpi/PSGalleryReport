@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 27 May 2022 17:54:32 UTC
+Updated: Saturday, 28 May 2022 02:27:45 UTC
 
 ?:
 ??
@@ -19,6 +19,7 @@ Updated: Friday, 27 May 2022 17:54:32 UTC
 💩
 1.1.1.1
 10
+11
 1607
 1703
 1709
@@ -72,6 +73,7 @@ abe
 about
 abstractsyntaxtree
 abuse
+acas
 accelerator
 access
 access-control
@@ -200,6 +202,7 @@ agenda
 agent
 aggregates
 aggregation
+agile
 agility
 agm
 agnoster
@@ -297,7 +300,6 @@ apigateway
 apigee
 apigeeedge
 apimanagement
-apis
 apm
 apmconfig
 apmcontrolplane
@@ -338,7 +340,6 @@ appsetting
 appv
 appveyor
 appx
-appxmanifest
 aprs
 apt-get
 apt-get-update
@@ -805,7 +806,6 @@ canarie
 cancel
 canonical
 cantara
-capability
 capacity
 capgemini
 capslock
@@ -1308,6 +1308,7 @@ cropping
 cross-platform
 cross-reference
 crossjoin
+crossover
 crossplatform
 crowdstrike
 crt.sh
@@ -1519,7 +1520,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1597,6 +1597,7 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorymarks
+directoryname
 directorysearcher
 directorysecurity
 directrouting
@@ -1687,6 +1688,7 @@ documents
 docusaurus
 docusign
 docx
+dod
 dog
 dog-names
 dogs
@@ -1724,7 +1726,6 @@ dreary
 drift
 driftmonitor
 drive
-drive letter
 driver
 driverpacks
 drivers
@@ -1971,6 +1972,7 @@ everydaypowershell
 everydayrewards
 everything
 evidencelock
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2079,7 +2081,6 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fieldglass
@@ -2295,6 +2296,7 @@ generation
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genxdev
 geo
 geoencode
@@ -2715,7 +2717,6 @@ imaging
 imap
 imb
 imi
-impala
 impersonation
 imperva
 import
@@ -2916,6 +2917,7 @@ join-object
 jojoba
 joke
 jotform
+journal
 jpg
 jq
 js7
@@ -2947,6 +2949,8 @@ k8s
 kafka
 kaminario
 karma
+kaseya
+kaseyavsa
 katakana
 kb
 kbarticle
@@ -3166,6 +3170,7 @@ logicmonitor
 login
 login-azurermaccount
 login-rdp
+loginscreen
 loginsight
 logistic
 logitech
@@ -3553,6 +3558,7 @@ multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -3585,9 +3591,9 @@ nanoleaf
 nasdaq
 native
 natural-language-to-code
+natural-selection
 nav
 navigation
-nbi
 ncal
 ndes
 nebulon
@@ -3783,7 +3789,6 @@ office365
 officedev
 officegraph
 officemessageencryption
-offline
 offlinewimservicing
 ofx
 ogg
@@ -3801,7 +3806,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onboard
 onboardadministrator
@@ -3870,6 +3874,7 @@ ops
 opsi
 opsmgr
 optics
+optimization
 optimizer
 option
 opus
@@ -4124,6 +4129,9 @@ pode
 poe
 point
 point-to-site
+pokeapi
+pokedex
+pokemon
 poker
 policies
 policy
@@ -4141,6 +4149,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 portal
@@ -4191,6 +4200,7 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
+powerdex
 powerforensics
 powergraph
 powermax
@@ -4437,7 +4447,6 @@ psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
-psmp
 psmsgraph
 psmsgraphapi
 psmvp
@@ -4559,6 +4568,7 @@ queue
 queues
 queuing
 quickaccess
+quickbase
 quickbooks
 quicksetup
 quota
@@ -4619,6 +4629,7 @@ rdsgw
 react-stockcharts
 read-slog
 readable
+readiness
 readme
 readthedocs
 realschule
@@ -4834,7 +4845,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -5047,6 +5057,7 @@ select-item
 select-kubecontext
 select-kubenamespace
 select-string
+selection
 selectxmlinfo
 selenium
 self
@@ -5139,6 +5150,7 @@ sf
 sfb
 sftp
 sfx
+sgw
 sha256
 shadow
 shadowcopy
@@ -5303,6 +5315,7 @@ solr
 soltra
 solution
 solutions
+sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -5478,6 +5491,7 @@ storablecolortheme
 storage
 storageaccount
 storagecache
+storagegrid-webscale
 storagesync
 store
 storefront
@@ -5681,10 +5695,10 @@ templates
 templating
 temporary
 tenable
+tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-services
 terminal.gui
@@ -5710,7 +5724,6 @@ testing
 testlab
 testplans
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -5922,6 +5935,7 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6228,6 +6242,7 @@ vrops
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vscode
 vsdevcmd
@@ -6332,6 +6347,7 @@ wec
 wecutil
 weekday
 wef
+weixin
 well-known
 wem
 wemsdk
@@ -6366,7 +6382,6 @@ winbuilder
 window
 windows
 windows  server
-windows explorer
 windows_events
 windows-10
 windows-api
