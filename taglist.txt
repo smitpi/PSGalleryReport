@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 28 May 2022 09:52:36 UTC
+Updated: Saturday, 28 May 2022 17:53:29 UTC
 
 ?:
 ??
@@ -236,6 +236,7 @@ algorithms
 alias
 aliases
 aliens
+all
 alletra
 alm
 almrangers
@@ -284,6 +285,7 @@ ansible
 antimalwarescaninterface
 antispam
 antivirus
+any
 anyconnect
 anypoint
 anywhere
@@ -718,6 +720,7 @@ book
 bookmark
 bookmarks
 books
+bool
 bootloader
 bootstrap
 bootstrapping
@@ -805,6 +808,7 @@ canarie
 cancel
 canonical
 cantara
+capability
 capacity
 capgemini
 capslock
@@ -968,8 +972,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1141,6 +1143,7 @@ computersite
 concur
 concurrent
 conda
+condition
 conditionalaccess
 conduit
 conference
@@ -1369,7 +1372,6 @@ cyclic
 cyclicredundancycheck
 cygwin
 cylance
-cypher
 cyrillic
 d365
 d365ce
@@ -1695,6 +1697,7 @@ doh
 dok
 dokuwiki
 domain
+domains
 donothing
 dos
 dot
@@ -1888,6 +1891,7 @@ entity
 entityframework
 entropy
 enum
+enumerable
 env
 environment
 environment-variables
@@ -2017,6 +2021,7 @@ expired
 expiring
 expiry
 exploit
+exploration
 explorer
 exponentiation
 export
@@ -2130,7 +2135,6 @@ filewrite
 fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -2165,6 +2169,7 @@ fixpack
 flac
 flash
 flasharray
+flashblade
 flatfile
 flatten
 flex-query
@@ -2375,7 +2380,6 @@ gobright
 godaddy
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2480,6 +2484,7 @@ harvestforecast
 hash
 hashcat
 hashicorp
+hashset
 hashtable
 hasicorp
 haskell
@@ -2711,7 +2716,6 @@ imaging
 imap
 imb
 imi
-impala
 impersonation
 imperva
 import
@@ -3104,7 +3108,6 @@ liquit.com
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -3402,7 +3405,6 @@ microsoftexchangeserver
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
-microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
@@ -3445,6 +3447,7 @@ mobile
 mobilitycontroller
 mock
 mocking
+modify
 module
 modulebuild
 modulecreation
@@ -3491,9 +3494,9 @@ ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
-msband
 msbi
 msbuild
+mschart
 msdeploy
 msdn
 msdtc
@@ -3783,6 +3786,7 @@ office365
 officedev
 officegraph
 officemessageencryption
+offline
 offlinewimservicing
 ofx
 ogg
@@ -3800,6 +3804,7 @@ omnistack
 oms
 omsagent
 on
+on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4252,6 +4257,7 @@ pptp
 pptx
 pq
 pranks
+predicate
 prediction
 predictor
 preferences
@@ -4440,7 +4446,6 @@ psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
-psmp
 psmsgraph
 psmsgraphapi
 psmvp
@@ -4565,6 +4570,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+quota
 quote
 quotes
 quoting
@@ -4602,7 +4608,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdb
@@ -5047,7 +5052,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -5251,7 +5255,6 @@ smartarray
 smartarraycmdlets
 smarthome
 smartsheet
-smartwatch
 smash
 smb
 smb1
@@ -5309,7 +5312,6 @@ solr
 soltra
 solution
 solutions
-sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -5323,13 +5325,11 @@ soonragent
 sophos
 sort
 source
-source-dedicated-server
 sourcecontrol
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 space
 spaces
 spacex
@@ -5467,7 +5467,6 @@ staytus
 stderr
 stdout
 steam
-steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5491,7 +5490,6 @@ store
 storefront
 storeonce
 storeserv
-strava
 streak
 stream
 streamanalytics
@@ -5656,7 +5654,6 @@ tcp/ip
 tcpip
 tcpport
 tcpserver
-tcptest
 tcx
 tcxaemgmt
 tdd
@@ -5812,7 +5809,6 @@ tpp
 trace
 traceevent
 tracer
-tracert
 tracing
 tracker
 tracking
@@ -5965,7 +5961,6 @@ udcm
 udfeedback
 udp
 udpclient
-udptest
 udr
 udthememode
 uefi
@@ -6336,7 +6331,6 @@ websockets
 websphere
 websphereappserver
 websphereportal
-webtest
 webtesting
 webtime
 wec
@@ -6349,6 +6343,7 @@ wem
 wemsdk
 what3words
 whatismyip
+where
 whfb
 whiteboard
 whitespace

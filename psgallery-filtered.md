@@ -5,6 +5,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ProductivityTools.PublishReadmeToWordpress](https://www.powershellgallery.com/Packages/ProductivityTools.PublishReadmeToWordpress/0.0.2) | 0.0.2
+
+### Published: 05/28/2022 17:44:52 by Pawel Wujczyk
+
+It publishes Readme file to the wordpress
+
+__Downloads__: 0 | __Repository__: 
+
+## [D365FOLBDAdmin](https://www.powershellgallery.com/Packages/D365FOLBDAdmin/2.1.27.0) | 2.1.27.0
+
+### Published: 05/28/2022 16:58:13 by StefanRLand
+
+For Dynamics 365 Finance and Operations Local Business Data (LBD) Administration
+
+__Downloads__: 1,832 | __Repository__: https://github.com/stefanland/D365FOLBDAdmin
+
+## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/1.9.0) | 1.9.0
+
+### Published: 05/28/2022 16:39:27 by Mithrandyr
+
+Querying SQL (SQL Server, Oracle, PostgreSql, SQLite, & mySql) the PowerShell way: simple commands... powerful opportunities.
+
+SimplySql is a module that provides an intuitive set of cmdlets for talking to databases that abstracts the vendor specifics, allowing you to focus on getting work done.  The basic pattern is to connect to a database, execute one or more sql statements and then close your database connection.  This module provides cmdlets that map to this basic pattern.  Each provider has its own Open-*Connection cmdlet -> Open-SqlConnection, Open-SQLiteConnection, Open-OracleConnection, Open-PostGreConnection, Open-MySqlConnection.  The rest of the commands are provider agnostic.
+
+Open/Close/Show/Test/Set/Get -SqlConnection >> Control as many active connections as you want.
+Invoke- SqlScalar/SqlQuery/SqlUpdate >> Interact with those connections.
+Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
+Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
+Start/Complete/Undo/Get -SqlTransaction >> Utilize transactions!
+
+__Downloads__: 185,146 | __Repository__: https://github.com/mithrandyr/SimplySql
+
+## [Get-NetView](https://www.powershellgallery.com/Packages/Get-NetView/2022.5.28.198) | 2022.5.28.198
+
+### Published: 05/28/2022 16:21:33 by Dan Cuomo
+
+Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
+
+__Downloads__: 443,401 | __Repository__: https://github.com/microsoft/Get-NetView
+
+## [AppInsights](https://www.powershellgallery.com/Packages/AppInsights/1.0.810) | 1.0.810
+
+### Published: 05/28/2022 15:22:19 by Sven Grav
+
+PowerShell module that encapsulates the Application Insights Telemetry Client. https://github.com/svengrav/powershell-appinsights
+
+__Downloads__: 149 | __Repository__: https://github.com/svengrav/powershell-appinsights
+
+## [MEM-Win32App-Builder](https://www.powershellgallery.com/Packages/MEM-Win32App-Builder/0.1.4) | 0.1.4
+
+### Published: 05/28/2022 15:19:16 by Mark Kerry
+
+Creates an organised directory structure for building Microsoft Endpoint Manager Win32 Apps
+
+__Downloads__: 10 | __Repository__: https://github.com/markkerry/MEM-Win32App-Builder
+
+## [PSTemplating](https://www.powershellgallery.com/Packages/PSTemplating/0.1.0) | 0.1.0
+
+### Published: 05/28/2022 14:08:39 by Torben Soennecken
+
+Module for generating values based on schema strings and variable bindings.
+
+__Downloads__: 1 | __Repository__: https://github.com/tosoikea/PSTemplating
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.100) | 1.1.100
+
+### Published: 05/28/2022 10:51:33 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,616,265 | __Repository__: https://dbatools.io/
+
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.226) | 0.0.226
 
 ### Published: 05/28/2022 07:47:47 by Przemyslaw Klys
@@ -95,7 +167,7 @@ __Downloads__: 264 | __Repository__: https://github.com/hugoalh-studio/ghactions
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 575,853 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 575,841 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [Test-Connections](https://www.powershellgallery.com/Packages/Test-Connections/2022.5.27.0) | 2022.5.27.0
 
@@ -119,7 +191,7 @@ __Downloads__: 78 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/V
 
 AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 
-__Downloads__: 1,559,596 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
+__Downloads__: 1,559,618 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
 
 ## [PS-Sudoku](https://www.powershellgallery.com/Packages/PS-Sudoku/2.0.2) | 2.0.2
 
@@ -136,14 +208,6 @@ __Downloads__: 127 | __Repository__:
 A "standard" library for PowerShell inspired by the preludes of other languages
 
 __Downloads__: 1,050 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
-
-## [D365FOLBDAdmin](https://www.powershellgallery.com/Packages/D365FOLBDAdmin/2.1.26.0) | 2.1.26.0
-
-### Published: 05/27/2022 20:04:57 by StefanRLand
-
-For Dynamics 365 Finance and Operations Local Business Data (LBD) Administration
-
-__Downloads__: 1,832 | __Repository__: https://github.com/stefanland/D365FOLBDAdmin
 
 ## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.17) | 1.0.17
 
@@ -273,14 +337,6 @@ Continuous Integration/Continuous Delivery module.
 
 __Downloads__: 4,797 | __Repository__: https://github.com/webmd-health-services/Whiskey
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.99) | 1.1.99
-
-### Published: 05/26/2022 22:15:43 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,616,250 | __Repository__: https://dbatools.io/
-
 ## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.2.2) | 1.2.2
 
 ### Published: 05/26/2022 21:12:09 by Mikey O'Toole
@@ -375,7 +431,7 @@ __Downloads__: 9 | __Repository__: https://github.com/trossr32/ps-image-data-uri
 
 Wrapper for Robocopy
 
-__Downloads__: 4,003,710 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 4,003,719 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [PowerVCF](https://www.powershellgallery.com/Packages/PowerVCF/2.2.0) | 2.2.0
 
@@ -431,7 +487,7 @@ __Downloads__: 1,738 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,888,066 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,888,029 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.8) | 0.1.8
 
@@ -464,7 +520,7 @@ __Downloads__: 6,138 | __Repository__: https://github.com/pncit/cwmApi
 
 Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
 
-__Downloads__: 99 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+__Downloads__: 98 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
 
 ## [WTToolBox](https://www.powershellgallery.com/Packages/WTToolBox/1.15.0) | 1.15.0
 
@@ -472,7 +528,7 @@ __Downloads__: 99 | __Repository__: https://github.com/dsccommunity/xFailOverClu
 
 A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft.
 
-__Downloads__: 2,841 | __Repository__: https://github.com/jdhitsolutions/WTToolbox
+__Downloads__: 2,842 | __Repository__: https://github.com/jdhitsolutions/WTToolbox
 
 ## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.2.2) | 1.2.2
 
@@ -527,7 +583,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 335,583 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 335,580 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.3) | 1.0.3
 
@@ -1453,7 +1509,7 @@ __Downloads__: 40,807 | __Repository__: https://github.com/oracle/oci-powershell
 
 Interact with the Secret Server REST API
 
-__Downloads__: 12,790 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 12,789 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [xFailOverCluster](https://www.powershellgallery.com/Packages/xFailOverCluster/1.16.1) | 1.16.1
 
@@ -1461,7 +1517,7 @@ __Downloads__: 12,790 | __Repository__: https://github.com/thycotic-ps/thycotic.
 
 Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
 
-__Downloads__: 808,164 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+__Downloads__: 808,173 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5.2) | 0.5.2
 
@@ -1506,7 +1562,7 @@ __Downloads__: 14,142 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 548,556 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 548,549 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -1570,7 +1626,7 @@ __Downloads__: 1,422 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,293,570 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,293,596 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [UcLobbyTeams](https://www.powershellgallery.com/Packages/UcLobbyTeams/0.1.2) | 0.1.2
 
@@ -1727,7 +1783,7 @@ __Downloads__: 2,241 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 348,911 | __Repository__: 
+__Downloads__: 348,910 | __Repository__: 
 
 ## [TrainingUtils](https://www.powershellgallery.com/Packages/TrainingUtils/1.0.4) | 1.0.4
 
@@ -1792,7 +1848,7 @@ __Downloads__: 5 | __Repository__:
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 2,246 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 2,247 | __Repository__: https://aka.ms/AzAPICall
 
 ## [tom42tools](https://www.powershellgallery.com/Packages/tom42tools/22.5.21.1) | 22.5.21.1
 
@@ -1896,7 +1952,7 @@ __Downloads__: 6 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 660,094 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 660,083 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
 
@@ -1928,7 +1984,7 @@ __Downloads__: 10,967 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,252,644 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,252,658 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -2034,52 +2090,4 @@ CData Cmdlets for Confluence
 
 __Downloads__: 257 | __Repository__: http://www.cdata.com/powershell/
 
-## [SAPFieldglassCmdlets](https://www.powershellgallery.com/Packages/SAPFieldglassCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:24:39 by CData Software Inc.
-
-CData Cmdlets for SAP Fieldglass
-
-__Downloads__: 215 | __Repository__: http://www.cdata.com/powershell/
-
-## [EpicorERPCmdlets](https://www.powershellgallery.com/Packages/EpicorERPCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:24:33 by CData Software Inc.
-
-CData Cmdlets for EpicorERP
-
-__Downloads__: 304 | __Repository__: http://www.cdata.com/powershell/
-
-## [StreakCmdlets](https://www.powershellgallery.com/Packages/StreakCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:24:28 by CData Software Inc.
-
-CData Cmdlets for Streak
-
-__Downloads__: 199 | __Repository__: http://www.cdata.com/powershell/
-
-## [DocuSignCmdlets](https://www.powershellgallery.com/Packages/DocuSignCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:24:23 by CData Software Inc.
-
-CData Cmdlets for DocuSign
-
-__Downloads__: 274 | __Repository__: http://www.cdata.com/powershell/
-
-## [BigCommerceCmdlets](https://www.powershellgallery.com/Packages/BigCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:24:17 by CData Software Inc.
-
-CData Cmdlets for BigCommerce
-
-__Downloads__: 272 | __Repository__: http://www.cdata.com/powershell/
-
-## [ApachePhoenixCmdlets](https://www.powershellgallery.com/Packages/ApachePhoenixCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:24:12 by CData Software Inc.
-
-CData Cmdlets for Apache Phoenix
-
-__Downloads__: 296 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Saturday, 28 May 2022 09:52:26 UTC*
+*Updated: Saturday, 28 May 2022 17:53:16 UTC*
