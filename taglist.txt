@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 28 May 2022 17:53:29 UTC
+Updated: Sunday, 29 May 2022 02:37:18 UTC
 
 ?:
 ??
@@ -25,7 +25,6 @@ Updated: Saturday, 28 May 2022 17:53:29 UTC
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -972,6 +971,8 @@ clear
 clear-history
 clearpass
 cli
+cli-menu
+cli-menu-helpers
 clickonce
 client
 client-management
@@ -1247,7 +1248,6 @@ cos
 cosmos
 cosmosdb
 cost
-costoptimization
 couchbase
 couchdb
 couchpotato
@@ -1299,6 +1299,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+crestron
 crlf
 crm
 crm2016
@@ -1372,6 +1373,7 @@ cyclic
 cyclicredundancycheck
 cygwin
 cylance
+cypher
 cyrillic
 d365
 d365ce
@@ -2135,6 +2137,7 @@ filewrite
 fill
 film
 filter
+filter-item
 filtering
 fim
 fims
@@ -2172,6 +2175,7 @@ flasharray
 flashblade
 flatfile
 flatten
+flex
 flex-query
 flexdesk
 flickr
@@ -2380,6 +2384,7 @@ gobright
 godaddy
 goldengate
 goldsource
+goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2716,6 +2721,7 @@ imaging
 imap
 imb
 imi
+impala
 impersonation
 imperva
 import
@@ -3108,6 +3114,7 @@ liquit.com
 list
 list_files
 list-directory
+list-item
 listener
 litecoin
 litedb
@@ -3405,6 +3412,7 @@ microsoftexchangeserver
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
+microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
@@ -3494,6 +3502,7 @@ ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
+msband
 msbi
 msbuild
 mschart
@@ -3819,7 +3828,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onetimesecret
 oneviewglobaldashboard
 online
@@ -4045,7 +4053,6 @@ pentia
 perforce
 performance
 performance-counters
-performancemonitoring
 permission
 permissions
 permutations
@@ -4383,7 +4390,6 @@ psbbix
 psbicep
 psclient
 pscmdlet
-pscommander
 psconfasia
 psconfeu
 pscore
@@ -4446,6 +4452,7 @@ psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
+psmp
 psmsgraph
 psmsgraphapi
 psmvp
@@ -4608,6 +4615,7 @@ razzle
 rbac
 rbacmodel
 rbsu
+rcon
 rcs
 rcu
 rdb
@@ -4804,7 +4812,6 @@ ribbon
 ribcl
 rightjoin
 rights
-rightsizing
 ripe
 risk
 riskiq
@@ -4843,7 +4850,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -5052,6 +5058,7 @@ seek
 seekatar
 seeshell
 select
+select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -5255,6 +5262,7 @@ smartarray
 smartarraycmdlets
 smarthome
 smartsheet
+smartwatch
 smash
 smb
 smb1
@@ -5312,6 +5320,7 @@ solr
 soltra
 solution
 solutions
+sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -5325,11 +5334,13 @@ soonragent
 sophos
 sort
 source
+source-dedicated-server
 sourcecontrol
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 space
 spaces
 spacex
@@ -5467,6 +5478,7 @@ staytus
 stderr
 stdout
 steam
+steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5490,6 +5502,7 @@ store
 storefront
 storeonce
 storeserv
+strava
 streak
 stream
 streamanalytics
@@ -5654,6 +5667,7 @@ tcp/ip
 tcpip
 tcpport
 tcpserver
+tcptest
 tcx
 tcxaemgmt
 tdd
@@ -5667,7 +5681,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 techsmith
 tel
 telegram
@@ -5809,6 +5822,7 @@ tpp
 trace
 traceevent
 tracer
+tracert
 tracing
 tracker
 tracking
@@ -5929,7 +5943,6 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
-ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
@@ -5961,6 +5974,7 @@ udcm
 udfeedback
 udp
 udpclient
+udptest
 udr
 udthememode
 uefi
@@ -6166,7 +6180,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6331,6 +6344,7 @@ websockets
 websphere
 websphereappserver
 websphereportal
+webtest
 webtesting
 webtime
 wec
