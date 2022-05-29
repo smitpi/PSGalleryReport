@@ -5,13 +5,29 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.1.5) | 0.1.5
+
+### Published: 05/29/2022 17:08:24 by Jason Wohlgemuth
+
+A "standard" library for PowerShell inspired by the preludes of other languages
+
+__Downloads__: 1,052 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
+
+## [Test-Connections](https://www.powershellgallery.com/Packages/Test-Connections/2022.5.29.0) | 2022.5.29.0
+
+### Published: 05/29/2022 16:18:43 by David Isaacson
+
+Test-Connection to multiple devcies in parallel with a color and "watch" feature.
+
+__Downloads__: 4 | __Repository__: https://github.com/daisaacson/Test-Connections
+
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.101) | 1.1.101
 
 ### Published: 05/29/2022 07:34:50 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,618,919 | __Repository__: https://dbatools.io/
+__Downloads__: 1,618,923 | __Repository__: https://dbatools.io/
 
 ## [Soap](https://www.powershellgallery.com/Packages/Soap/6.0.0) | 6.0.0
 
@@ -28,14 +44,6 @@ __Downloads__: 0 | __Repository__:
 Creates an inventory catalogue of a Brickset collection in HTML & Word formats using the Brickset API.
 
 __Downloads__: 0 | __Repository__: https://github.com/tpcarman/BricksetCatalogue
-
-## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.1.4) | 0.1.4
-
-### Published: 05/29/2022 00:26:07 by Jason Wohlgemuth
-
-A "standard" library for PowerShell inspired by the preludes of other languages
-
-__Downloads__: 1,052 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.458) | 1.0.458
 
@@ -67,7 +75,7 @@ __Downloads__: 201 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 
-__Downloads__: 1,560,710 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
+__Downloads__: 1,560,711 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
 
 ## [ProductivityTools.PublishReadmeToWordpress](https://www.powershellgallery.com/Packages/ProductivityTools.PublishReadmeToWordpress/0.0.2) | 0.0.2
 
@@ -107,7 +115,7 @@ __Downloads__: 185,265 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 444,900 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 444,908 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [MEM-Win32App-Builder](https://www.powershellgallery.com/Packages/MEM-Win32App-Builder/0.1.4) | 0.1.4
 
@@ -217,14 +225,6 @@ Create evergreen Windows image builds with the latest versions of applications. 
 
 __Downloads__: 578,248 | __Repository__: https://stealthpuppy.com/evergreen/
 
-## [Test-Connections](https://www.powershellgallery.com/Packages/Test-Connections/2022.5.27.0) | 2022.5.27.0
-
-### Published: 05/28/2022 04:12:48 by David Isaacson
-
-Test-Connection to multiple devcies in parallel with a color and "watch" feature.
-
-__Downloads__: 4 | __Repository__: https://github.com/daisaacson/Test-Connections
-
 ## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/12.2.2) | 12.2.2
 
 ### Published: 05/28/2022 03:30:16 by Vadim Melamed
@@ -247,7 +247,7 @@ __Downloads__: 131 | __Repository__:
 
 This module does stuff
 
-__Downloads__: 198 | __Repository__: 
+__Downloads__: 196 | __Repository__: 
 
 ## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.17) | 1.0.17
 
@@ -463,7 +463,7 @@ __Downloads__: 9 | __Repository__: https://github.com/trossr32/ps-image-data-uri
 
 Wrapper for Robocopy
 
-__Downloads__: 4,005,293 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 4,005,337 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [PowerVCF](https://www.powershellgallery.com/Packages/PowerVCF/2.2.0) | 2.2.0
 
@@ -570,6 +570,14 @@ SkylineAutomationToolkit
 
 __Downloads__: 210 | __Repository__: 
 
+## [Pipeline.Sql.Deploy](https://www.powershellgallery.com/Packages/Pipeline.Sql.Deploy/0.0.142) | 0.0.142
+
+### Published: 05/25/2022 11:28:34 by Sabin.IO
+
+Pipeline helper functions for deployments of sql server
+
+__Downloads__: 548 | __Repository__: 
+
 ## [DevOpTools](https://www.powershellgallery.com/Packages/DevOpTools/0.0.3) | 0.0.3
 
 ### Published: 05/25/2022 10:35:09 by Jens Döllmann
@@ -607,7 +615,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 337,587 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 337,636 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.3) | 1.0.3
 
@@ -854,14 +862,6 @@ __Downloads__: 1,338 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Osubusage Service
 
 __Downloads__: 377 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osubsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubsubscription/34.2.0) | 34.2.0
-
-### Published: 05/24/2022 18:38:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubsubscription Service
-
-__Downloads__: 382 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Osuborganizationsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osuborganizationsubscription/34.2.0) | 34.2.0
 
@@ -1541,7 +1541,7 @@ __Downloads__: 12,838 | __Repository__: https://github.com/thycotic-ps/thycotic.
 
 Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
 
-__Downloads__: 810,513 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+__Downloads__: 810,517 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5.2) | 0.5.2
 
@@ -1586,7 +1586,7 @@ __Downloads__: 14,146 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 549,172 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 549,173 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -1650,7 +1650,7 @@ __Downloads__: 1,423 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,296,246 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,296,254 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [UcLobbyTeams](https://www.powershellgallery.com/Packages/UcLobbyTeams/0.1.2) | 0.1.2
 
@@ -1710,7 +1710,7 @@ Endpoint Cloud kit Module (ECK), a set of cmdlet to help building scripts or app
 - Download from Git/Github on public/private repo
 - Auto update ECK module
 
-__Downloads__: 61 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
+__Downloads__: 60 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
 
 ## [io.github.ajchemist.PS.Hyper-V](https://www.powershellgallery.com/Packages/io.github.ajchemist.PS.Hyper-V/2022.143.31473) | 2022.143.31473
 
@@ -1808,14 +1808,6 @@ __Downloads__: 2,241 | __Repository__:
 Database for KB Viewer and Saver
 
 __Downloads__: 351,555 | __Repository__: 
-
-## [TrainingUtils](https://www.powershellgallery.com/Packages/TrainingUtils/1.0.4) | 1.0.4
-
-### Published: 05/22/2022 12:16:38 by Jarom Hernandez
-
-Training module.
-
-__Downloads__: 5 | __Repository__: 
 
 ## [XDHealthCheck](https://www.powershellgallery.com/Packages/XDHealthCheck/0.2.12) | 0.2.12
 
@@ -1976,7 +1968,7 @@ __Downloads__: 6 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 661,250 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 661,260 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.1) | 0.1.1
 
@@ -2008,7 +2000,7 @@ __Downloads__: 10,974 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,254,038 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,254,062 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -2090,4 +2082,12 @@ CData Cmdlets for Asana
 
 __Downloads__: 268 | __Repository__: http://www.cdata.com/powershell/
 
-*Updated: Sunday, 29 May 2022 09:52:24 UTC*
+## [MicrosoftPlannerCmdlets](https://www.powershellgallery.com/Packages/MicrosoftPlannerCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:24:55 by CData Software Inc.
+
+CData Cmdlets for Microsoft Planner
+
+__Downloads__: 360 | __Repository__: http://www.cdata.com/powershell/
+
+*Updated: Sunday, 29 May 2022 17:52:41 UTC*
