@@ -5,9 +5,17 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Soap](https://www.powershellgallery.com/Packages/Soap/5.1.4) | 5.1.4
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.101) | 1.1.101
 
-### Published: 05/29/2022 01:20:40 by Victor Fernandez III
+### Published: 05/29/2022 07:34:50 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,618,919 | __Repository__: https://dbatools.io/
+
+## [Soap](https://www.powershellgallery.com/Packages/Soap/6.0.0) | 6.0.0
+
+### Published: 05/29/2022 04:15:56 by Victor Fernandez III
 
 A PowerShell module with cybersecurity-related functions.
 
@@ -59,7 +67,7 @@ __Downloads__: 201 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 
-__Downloads__: 1,560,694 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
+__Downloads__: 1,560,710 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
 
 ## [ProductivityTools.PublishReadmeToWordpress](https://www.powershellgallery.com/Packages/ProductivityTools.PublishReadmeToWordpress/0.0.2) | 0.0.2
 
@@ -99,7 +107,7 @@ __Downloads__: 185,265 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 444,908 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 444,900 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [MEM-Win32App-Builder](https://www.powershellgallery.com/Packages/MEM-Win32App-Builder/0.1.4) | 0.1.4
 
@@ -116,14 +124,6 @@ __Downloads__: 11 | __Repository__: https://github.com/markkerry/MEM-Win32App-Bu
 Module for generating values based on schema strings and variable bindings.
 
 __Downloads__: 1 | __Repository__: https://github.com/tosoikea/PSTemplating
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.100) | 1.1.100
-
-### Published: 05/28/2022 10:51:33 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,618,884 | __Repository__: https://dbatools.io/
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.226) | 0.0.226
 
@@ -399,7 +399,7 @@ __Downloads__: 82,862 | __Repository__:
 
 Gary Blok HP Experiment Edition - OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 216,875 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 216,876 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [NewRelicPS](https://www.powershellgallery.com/Packages/NewRelicPS/1.3.0) | 1.3.0
 
@@ -570,21 +570,13 @@ SkylineAutomationToolkit
 
 __Downloads__: 210 | __Repository__: 
 
-## [Pipeline.Sql.Deploy](https://www.powershellgallery.com/Packages/Pipeline.Sql.Deploy/0.0.142) | 0.0.142
-
-### Published: 05/25/2022 11:28:34 by Sabin.IO
-
-Pipeline helper functions for deployments of sql server
-
-__Downloads__: 548 | __Repository__: 
-
 ## [DevOpTools](https://www.powershellgallery.com/Packages/DevOpTools/0.0.3) | 0.0.3
 
 ### Published: 05/25/2022 10:35:09 by Jens Döllmann
 
 PowerShell DevOp tools. Some cmdlets for development.
 
-__Downloads__: 10 | __Repository__: https://github.com/JensDll/devops/tree/main/projects/DevopTools
+__Downloads__: 12 | __Repository__: https://github.com/JensDll/devops/tree/main/projects/DevopTools
 
 ## [SecureSpherePS](https://www.powershellgallery.com/Packages/SecureSpherePS/1.0.0) | 1.0.0
 
@@ -615,7 +607,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 337,636 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 337,587 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.3) | 1.0.3
 
@@ -1594,7 +1586,7 @@ __Downloads__: 14,146 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 549,173 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 549,172 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -1658,7 +1650,7 @@ __Downloads__: 1,423 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,296,219 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,296,246 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [UcLobbyTeams](https://www.powershellgallery.com/Packages/UcLobbyTeams/0.1.2) | 0.1.2
 
@@ -1718,7 +1710,7 @@ Endpoint Cloud kit Module (ECK), a set of cmdlet to help building scripts or app
 - Download from Git/Github on public/private repo
 - Auto update ECK module
 
-__Downloads__: 60 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
+__Downloads__: 61 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
 
 ## [io.github.ajchemist.PS.Hyper-V](https://www.powershellgallery.com/Packages/io.github.ajchemist.PS.Hyper-V/2022.143.31473) | 2022.143.31473
 
@@ -1734,7 +1726,7 @@ __Downloads__: 60 | __Repository__:
 
 BrightCom Solutions AB powershell helper.
 
-__Downloads__: 1,999 | __Repository__: 
+__Downloads__: 2,000 | __Repository__: 
 
 ## [ShoutOut](https://www.powershellgallery.com/Packages/ShoutOut/4.2.0) | 4.2.0
 
@@ -2090,4 +2082,12 @@ CData Cmdlets for MYOB
 
 __Downloads__: 108 | __Repository__: http://www.cdata.com/powershell/
 
-*Updated: Sunday, 29 May 2022 02:37:08 UTC*
+## [AsanaCmdlets](https://www.powershellgallery.com/Packages/AsanaCmdlets/21.0.8137.1) | 21.0.8137.1
+
+### Published: 05/19/2022 20:25:00 by CData Software Inc.
+
+CData Cmdlets for Asana
+
+__Downloads__: 268 | __Repository__: http://www.cdata.com/powershell/
+
+*Updated: Sunday, 29 May 2022 09:52:24 UTC*
