@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 30 May 2022 02:37:58 UTC
+Updated: Monday, 30 May 2022 09:53:46 UTC
 
 ?:
 ??
@@ -212,7 +212,6 @@ aianomalydetection
 ailanguage
 aim
 aip
-aipscanner
 aircall
 airtable
 aispeech
@@ -723,6 +722,7 @@ books
 bool
 bootloader
 bootstrap
+bootstrapping
 bop
 bot
 botservice
@@ -766,6 +766,7 @@ buildingmapping
 buildkite
 buildmaster
 builds
+buildtool
 bulk
 bullhorn
 bundle
@@ -970,6 +971,8 @@ clear
 clear-history
 clearpass
 cli
+cli-menu
+cli-menu-helpers
 clickonce
 client
 client-management
@@ -1228,7 +1231,6 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
-cookie
 coolq
 cooltag1
 cooltag2
@@ -1245,6 +1247,7 @@ cos
 cosmos
 cosmosdb
 cost
+costoptimization
 couchbase
 couchdb
 couchpotato
@@ -1296,7 +1299,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-crestron
 crlf
 crm
 crm2016
@@ -1484,6 +1486,7 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
+deduplication
 deep
 deepvisibility
 def
@@ -1609,7 +1612,6 @@ disasm
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 disk
@@ -1670,6 +1672,7 @@ docfx
 dock
 docker
 docker-compose
+docker-image
 docker-machine
 docker-volumes
 dockerfile
@@ -1702,7 +1705,6 @@ dotenv
 dotfile
 dotfiles
 dotnet
-dotnet-cli
 dotnettool
 dotps1
 dots
@@ -1775,6 +1777,7 @@ dump
 duplicate
 duplicate-files
 duplicatioin
+duplication
 dust
 dutch
 dvls
@@ -1805,7 +1808,6 @@ easylife365
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
@@ -2097,6 +2099,7 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-server
 file-share
 file-system
 file-transform
@@ -2117,7 +2120,6 @@ fileserverresourcemanager
 fileshare
 filesharing
 filestorage
-filestream
 filesystem
 filesystementry-matcher
 filesystementry-matching
@@ -2131,6 +2133,7 @@ filewrite
 fill
 film
 filter
+filter-item
 filtering
 fim
 fims
@@ -2168,7 +2171,6 @@ flasharray
 flashblade
 flatfile
 flatten
-flex
 flex-query
 flexdesk
 flickr
@@ -2211,7 +2213,6 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
-fortune
 forum
 forwardcompatibility
 forwardedevents
@@ -2231,6 +2232,7 @@ front
 frontapp
 frontdoor
 frontrange
+fs
 fsf
 fsharp
 fslogix
@@ -2316,7 +2318,6 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-externalip
 get-firmwaretype
 get-history
 get-openfile
@@ -2578,7 +2579,6 @@ hpc
 hpcc
 hpccache
 hpe
-hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3106,6 +3106,7 @@ liquit.com
 list
 list_files
 list-directory
+list-item
 listener
 litecoin
 litedb
@@ -3113,7 +3114,6 @@ literature
 live
 lldp
 lmhost
-lmhosts
 lms
 load
 loadbalancer
@@ -3325,7 +3325,6 @@ mdx
 me4024
 mean
 measure
-measure-process
 mecm
 media
 mediant
@@ -3472,7 +3471,6 @@ monthlyupdate
 moodle
 moonshot
 mosaic
-motd
 mount
 mouse
 move
@@ -4022,7 +4020,6 @@ pause
 paylocity
 paypal
 pays
-pbench
 pc
 pcapng
 pci-dss
@@ -4043,6 +4040,7 @@ pentia
 perforce
 performance
 performance-counters
+performancemonitoring
 permission
 permissions
 permutations
@@ -4803,6 +4801,7 @@ ribbon
 ribcl
 rightjoin
 rights
+rightsizing
 ripe
 risk
 riskiq
@@ -4892,7 +4891,6 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 sam
@@ -4912,6 +4910,7 @@ sapstartstopazure
 sarcasm
 sarif
 sasdatasets
+sasxpt
 satirical
 save
 savedcreds
@@ -4990,7 +4989,6 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
-scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
@@ -5045,10 +5043,10 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
-seek
 seekatar
 seeshell
 select
+select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -5685,6 +5683,7 @@ telnet
 temp
 temperature
 template
+template-engine
 templates
 templating
 temporary
@@ -5961,6 +5960,7 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
+udcm
 udfeedback
 udp
 udpclient
@@ -6100,6 +6100,7 @@ vao
 variable
 variables
 variance
+variants
 vastlimits
 vault
 vaultextension
@@ -6169,6 +6170,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6215,7 +6217,6 @@ vocabularies
 voice
 voiceconfig
 voidtools
-volkskrant
 volume
 volumeshadowcopy
 volumio
@@ -6227,6 +6228,7 @@ vpg
 vplex
 vpn
 vpn-certificate
+vps
 vra
 vrealize
 vro
