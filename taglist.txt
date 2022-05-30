@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 29 May 2022 17:52:52 UTC
+Updated: Monday, 30 May 2022 02:37:58 UTC
 
 ?:
 ??
@@ -341,6 +341,7 @@ appsetting
 appv
 appveyor
 appx
+appxmanifest
 aprs
 apt-get
 apt-get-update
@@ -352,6 +353,9 @@ architecuture
 archive
 archivedteams
 archivematica
+archivial
+archivial-backup
+archivial-cloud-backup
 archlinux
 arcus
 area
@@ -523,6 +527,7 @@ azure
 azure_ad
 azure_security
 azure-adx
+azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
@@ -761,7 +766,6 @@ buildingmapping
 buildkite
 buildmaster
 builds
-buildtool
 bulk
 bullhorn
 bundle
@@ -919,6 +923,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -965,8 +970,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1000,6 +1003,7 @@ clone
 close-openfile
 cloud
 cloud_data_management
+cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1241,7 +1245,6 @@ cos
 cosmos
 cosmosdb
 cost
-costoptimization
 couchbase
 couchdb
 couchpotato
@@ -1390,6 +1393,8 @@ dashboardservice
 dast
 data
 data_protection
+data-archive
+data-backup
 data-tier
 data-uri
 data-uri-converter
@@ -1479,7 +1484,6 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
-deduplication
 deep
 deepvisibility
 def
@@ -1513,6 +1517,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1770,7 +1775,6 @@ dump
 duplicate
 duplicate-files
 duplicatioin
-duplication
 dust
 dutch
 dvls
@@ -1797,6 +1801,7 @@ dynmanageddns
 e-mail
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2092,7 +2097,6 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
-file-server
 file-share
 file-system
 file-transform
@@ -2127,7 +2131,6 @@ filewrite
 fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -2228,7 +2231,6 @@ front
 frontapp
 frontdoor
 frontrange
-fs
 fsf
 fsharp
 fslogix
@@ -2314,6 +2316,7 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-externalip
 get-firmwaretype
 get-history
 get-openfile
@@ -2634,6 +2637,7 @@ iac
 iam
 iana
 iap
+ias
 ib
 ibm
 ibmc
@@ -3010,6 +3014,7 @@ labservices
 labtech
 labtest
 labworker
+lake
 lambda
 lame
 lan
@@ -3101,7 +3106,6 @@ liquit.com
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -3177,10 +3181,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 lol
 lolcat
@@ -3630,6 +3632,7 @@ networkdrives
 networking
 networkinterfaces
 networkloadbalancer
+networkpolicyserver
 networkscan
 networksecurity
 networksecuritygroup
@@ -3699,6 +3702,9 @@ npm
 npm-upgrade
 nprinting
 nprintingapi
+nps
+npslog
+npslogfile
 nrc
 nrql
 ns
@@ -3815,6 +3821,7 @@ onestools
 onetimesecret
 oneviewglobaldashboard
 online
+online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -3872,6 +3879,7 @@ oracle
 oraclecloudinfrastructure
 orchestration
 orchestrator
+order
 organization
 orgnetwork
 oriflame
@@ -3902,6 +3910,7 @@ oss
 ossec
 osubbillingschedule
 osuborganizationsubscription
+osubsubscription
 osubusage
 osx
 otp
@@ -4034,7 +4043,6 @@ pentia
 perforce
 performance
 performance-counters
-performancemonitoring
 permission
 permissions
 permutations
@@ -4431,6 +4439,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
@@ -4794,7 +4803,6 @@ ribbon
 ribcl
 rightjoin
 rights
-rightsizing
 ripe
 risk
 riskiq
@@ -4904,7 +4912,6 @@ sapstartstopazure
 sarcasm
 sarif
 sasdatasets
-sasxpt
 satirical
 save
 savedcreds
@@ -5042,7 +5049,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -5475,6 +5481,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stop
 storablecolortheme
 storage
 storageaccount
@@ -5638,6 +5645,7 @@ target
 task
 task-runner
 taskbar
+tasker
 taskgroup
 taskmanagement
 tasks
@@ -5925,6 +5933,7 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
+ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
@@ -5945,13 +5954,13 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
 ud-typing
 ud-window
 ud-wordtree
-udcm
 udfeedback
 udp
 udpclient
@@ -6029,6 +6038,7 @@ uptobox
 uri
 uri-scheme
 url
+url-encode
 url-shortener
 urlencode
 urlhaus
@@ -6159,7 +6169,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6218,7 +6227,6 @@ vpg
 vplex
 vpn
 vpn-certificate
-vps
 vra
 vrealize
 vro
@@ -6495,6 +6503,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-progress
 write-slog
 write-wansi
@@ -6506,6 +6515,7 @@ wsapi
 wsl
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
