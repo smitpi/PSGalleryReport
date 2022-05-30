@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 30 May 2022 09:53:46 UTC
+Updated: Monday, 30 May 2022 17:54:12 UTC
 
 ?:
 ??
@@ -212,6 +212,7 @@ aianomalydetection
 ailanguage
 aim
 aip
+aipscanner
 aircall
 airtable
 aispeech
@@ -396,7 +397,6 @@ asp.net
 aspnet
 aspnet_regiis
 asr
-assembleenationale
 assemblymeta
 assert
 assertion
@@ -442,14 +442,12 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
-authn
 authoring
 authoringtools
 authority
 authorization
 authorizationheaders
 authorize.net
-authz
 autify
 auto_cd
 auto-completion
@@ -1231,6 +1229,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+cookie
 coolq
 cooltag1
 cooltag2
@@ -1299,6 +1298,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+crestron
 crlf
 crm
 crm2016
@@ -1512,7 +1512,6 @@ dellemc
 delta
 demand
 demo
-democratie
 demonstration
 demultiplex
 demultiplexing
@@ -1523,7 +1522,6 @@ deployment
 deploymentconfig
 deploymentmanager
 deploymentresourceprovider
-depute
 der
 description
 deserialize
@@ -1612,6 +1610,7 @@ disasm
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 disk
@@ -1705,6 +1704,7 @@ dotenv
 dotfile
 dotfiles
 dotnet
+dotnet-cli
 dotnettool
 dotps1
 dots
@@ -1808,6 +1808,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2120,6 +2121,7 @@ fileserverresourcemanager
 fileshare
 filesharing
 filestorage
+filestream
 filesystem
 filesystementry-matcher
 filesystementry-matching
@@ -2171,6 +2173,7 @@ flasharray
 flashblade
 flatfile
 flatten
+flex
 flex-query
 flexdesk
 flickr
@@ -2213,6 +2216,7 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
+fortune
 forum
 forwardcompatibility
 forwardedevents
@@ -2221,7 +2225,6 @@ fox
 foxpro
 fqdn
 framework
-france
 freeipa
 freenas
 freesoftwarefoundation
@@ -2318,6 +2321,7 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-externalip
 get-firmwaretype
 get-history
 get-openfile
@@ -2579,6 +2583,7 @@ hpc
 hpcc
 hpccache
 hpe
+hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3114,6 +3119,7 @@ literature
 live
 lldp
 lmhost
+lmhosts
 lms
 load
 loadbalancer
@@ -3181,8 +3187,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 lol
 lolcat
@@ -3325,6 +3333,7 @@ mdx
 me4024
 mean
 measure
+measure-process
 mecm
 media
 mediant
@@ -3471,6 +3480,7 @@ monthlyupdate
 moodle
 moonshot
 mosaic
+motd
 mount
 mouse
 move
@@ -3741,7 +3751,6 @@ oa
 oacli
 oacmdlets
 oacommand
-oauhuth
 oauth
 oauth2
 oauth2.0
@@ -3841,7 +3850,6 @@ open-ai
 open-ssh
 openai
 openapi
-opendata
 openedge
 openfiles
 openhere
@@ -4020,6 +4028,7 @@ pause
 paylocity
 paypal
 pays
+pbench
 pc
 pcapng
 pci-dss
@@ -4675,7 +4684,6 @@ reflection
 refresh
 refreshtoken
 reg
-regardscitoyen
 regex
 region
 regions
@@ -4822,7 +4830,6 @@ rock
 rocket
 rocketcyber
 role
-roles
 rollingfile
 romaji
 rot13
@@ -4891,6 +4898,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 sam
@@ -4989,6 +4997,7 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
+scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
@@ -5043,6 +5052,7 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+seek
 seekatar
 seeshell
 select
@@ -5062,8 +5072,6 @@ selfsigned
 semantic
 semantic-versioning
 semver
-senat
-senateur
 send
 send-logtologanalytics
 send-mailmessage
@@ -5643,7 +5651,6 @@ target
 task
 task-runner
 taskbar
-tasker
 taskgroup
 taskmanagement
 tasks
@@ -5852,7 +5859,6 @@ triangle
 trigger
 triodos
 tripunkt
-troubleshoot
 troubleshooting
 trouw
 truecrypt
@@ -6217,6 +6223,7 @@ vocabularies
 voice
 voiceconfig
 voidtools
+volkskrant
 volume
 volumeshadowcopy
 volumio

@@ -5,6 +5,47 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.5.3) | 7.5.3
+
+### Published: 05/30/2022 17:38:34 by Douglas Finke
+
+PowerShell module to import/export Excel spreadsheets, without Excel.
+Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
+
+__Downloads__: 1,574,428 | __Repository__: https://github.com/dfinke/ImportExcel
+
+## [PsXisfReader](https://www.powershellgallery.com/Packages/PsXisfReader/1.0.36) | 1.0.36
+
+### Published: 05/30/2022 16:34:07 by Jonathan W. MacCollum
+
+A set of Cmdlets for maintaining images acquired and saved in XISF format with the goal of automating pre-processing processing workflows.
+
+__Downloads__: 156 | __Repository__: 
+
+## [OktaPosh](https://www.powershellgallery.com/Packages/OktaPosh/0.5.1) | 0.5.1
+
+### Published: 05/30/2022 14:45:57 by Jim Wallace
+
+Module for accessing the Okta API
+
+__Downloads__: 1,882 | __Repository__: https://github.com/Seekatar/OktaPosh
+
+## [PsSqlClient](https://www.powershellgallery.com/Packages/PsSqlClient/1.3.1) | 1.3.1
+
+### Published: 05/30/2022 14:13:03 by Steffen Kampmann
+
+The PowerShell SQL Client module replaces the SQL Server utilities SQLCMD and BCP with native PowerShell commands.
+
+__Downloads__: 986 | __Repository__: https://github.com/abbgrade/PsSqlClient
+
+## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.4.5.0) | 1.4.5.0
+
+### Published: 05/30/2022 13:30:29 by glueckkanja-gab
+
+Adds the required configuration to SCEPman (https://scepman.com/) right after installing or updating to a 2.x version.
+
+__Downloads__: 612 | __Repository__: https://scepman.com/
+
 ## [syntax-highlighting](https://www.powershellgallery.com/Packages/syntax-highlighting/0.0.2) | 0.0.2
 
 ### Published: 05/30/2022 09:45:04 by brian.tannert
@@ -12,14 +53,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Syntax highlighting for PowerShell
 
 __Downloads__: 2 | __Repository__: 
-
-## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.4.3.0) | 1.4.3.0
-
-### Published: 05/30/2022 09:30:23 by glueckkanja-gab
-
-Adds the required configuration to SCEPman (https://scepman.com/) right after installing or updating to a 2.x version.
-
-__Downloads__: 612 | __Repository__: https://scepman.com/
 
 ## [XpandPwsh](https://www.powershellgallery.com/Packages/XpandPwsh/1.212.0.4) | 1.212.0.4
 
@@ -67,7 +100,7 @@ __Downloads__: 84,918,811 | __Repository__: https://github.com/dsccommunity/Netw
 
 OSDCloud File Menu Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 216,985 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 216,983 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.1.6) | 0.1.6
 
@@ -123,7 +156,7 @@ __Downloads__: 11 | __Repository__: https://github.com/daisaacson/Test-Connectio
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,621,483 | __Repository__: https://dbatools.io/
+__Downloads__: 1,621,512 | __Repository__: https://dbatools.io/
 
 ## [BricksetCatalogue](https://www.powershellgallery.com/Packages/BricksetCatalogue/0.1.2) | 0.1.2
 
@@ -155,7 +188,7 @@ __Downloads__: 204 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 
-__Downloads__: 1,561,342 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
+__Downloads__: 1,561,358 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
 
 ## [ProductivityTools.PublishReadmeToWordpress](https://www.powershellgallery.com/Packages/ProductivityTools.PublishReadmeToWordpress/0.0.2) | 0.0.2
 
@@ -369,14 +402,6 @@ A PowerShell module for saving and retrieving KVPs both on host and guest, cross
 
 __Downloads__: 5 | __Repository__: https://metabpa.org/projects/hvdx/
 
-## [Assert-JsonValidity](https://www.powershellgallery.com/Packages/Assert-JsonValidity/0.9.1) | 0.9.1
-
-### Published: 05/27/2022 10:56:54 by codydiehl
-
-Fix for JSON Breaking Bug which affects Powershell 7.1 Runbooks when called from Webhooks the JSON gets broken, this fixes it and will accept Valid JSON as well as to not break in the future
-
-__Downloads__: 9 | __Repository__: 
-
 ## [PSessionize](https://www.powershellgallery.com/Packages/PSessionize/1.0.1) | 1.0.1
 
 ### Published: 05/27/2022 09:16:29 by Emanuel Palm
@@ -551,7 +576,7 @@ __Downloads__: 72 | __Repository__: https://github.com/archmachina/ps-reportrunn
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 6,946 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 6,940 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [PowerDir.GetPowerDir](https://www.powershellgallery.com/Packages/PowerDir.GetPowerDir/0.3.2) | 0.3.2
 
@@ -575,7 +600,7 @@ __Downloads__: 1,741 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,889,044 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,889,055 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.8) | 0.1.8
 
@@ -1597,7 +1622,7 @@ __Downloads__: 12,901 | __Repository__: https://github.com/thycotic-ps/thycotic.
 
 Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
 
-__Downloads__: 813,375 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
+__Downloads__: 813,389 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
 
 ## [routines](https://www.powershellgallery.com/Packages/routines/0.5.2) | 0.5.2
 
@@ -1642,7 +1667,7 @@ __Downloads__: 14,149 | __Repository__: https://github.com/ToschAutomatisering/P
 
 PowerShell module
 
-__Downloads__: 549,801 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 549,802 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.14) | 1.0.14
 
@@ -1706,7 +1731,7 @@ __Downloads__: 1,423 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,298,091 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,298,113 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [UcLobbyTeams](https://www.powershellgallery.com/Packages/UcLobbyTeams/0.1.2) | 0.1.2
 
@@ -1863,7 +1888,7 @@ __Downloads__: 2,243 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 354,055 | __Repository__: 
+__Downloads__: 354,056 | __Repository__: 
 
 ## [XDHealthCheck](https://www.powershellgallery.com/Packages/XDHealthCheck/0.2.12) | 0.2.12
 
@@ -1920,7 +1945,7 @@ __Downloads__: 5 | __Repository__:
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 2,348 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 2,349 | __Repository__: https://aka.ms/AzAPICall
 
 ## [tom42tools](https://www.powershellgallery.com/Packages/tom42tools/22.5.21.1) | 22.5.21.1
 
@@ -1954,13 +1979,21 @@ Devolutions Remote Desktop Manager (RDM) PowerShell Module
 
 __Downloads__: 5,148 | __Repository__: 
 
+## [VMware.VCDRService](https://www.powershellgallery.com/Packages/VMware.VCDRService/7.22.2.1) | 7.22.2.1
+
+### Published: 05/20/2022 16:49:36 by VMware
+
+PowerCLI VMware Cloud Disaster Recovery module
+
+__Downloads__: 20 | __Repository__: https://github.com/vmware/vmware-powercli-for-vmware-cloud-disaster-recovery
+
 ## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.0.3) | 3.0.3
 
 ### Published: 05/20/2022 16:41:06 by Carlos Perez
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 13,035,988 | __Repository__: 
+__Downloads__: 13,035,953 | __Repository__: 
 
 ## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/5.3.2.0) | 5.3.2.0
 
@@ -2048,7 +2081,7 @@ __Downloads__: 10,976 | __Repository__: https://github.com/pluralsight/PS-AutoLa
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,255,339 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,255,344 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/21.0.8137.1) | 21.0.8137.1
 
@@ -2058,36 +2091,4 @@ CData Cmdlets for WooCommerce
 
 __Downloads__: 213 | __Repository__: http://www.cdata.com/powershell/
 
-## [SAPByDesignCmdlets](https://www.powershellgallery.com/Packages/SAPByDesignCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:25:44 by CData Software Inc.
-
-CData Cmdlets for SAP ByDesign
-
-__Downloads__: 249 | __Repository__: http://www.cdata.com/powershell/
-
-## [WasabiCmdlets](https://www.powershellgallery.com/Packages/WasabiCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:25:39 by CData Software Inc.
-
-CData Cmdlets for Wasabi
-
-__Downloads__: 281 | __Repository__: http://www.cdata.com/powershell/
-
-## [CDSCmdlets](https://www.powershellgallery.com/Packages/CDSCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:25:33 by CData Software Inc.
-
-CData Cmdlets for Dataverse
-
-__Downloads__: 320 | __Repository__: http://www.cdata.com/powershell/
-
-## [TrelloCmdlets](https://www.powershellgallery.com/Packages/TrelloCmdlets/21.0.8137.1) | 21.0.8137.1
-
-### Published: 05/19/2022 20:25:27 by CData Software Inc.
-
-CData Cmdlets for Trello
-
-__Downloads__: 243 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Monday, 30 May 2022 09:53:35 UTC*
+*Updated: Monday, 30 May 2022 17:54:00 UTC*
