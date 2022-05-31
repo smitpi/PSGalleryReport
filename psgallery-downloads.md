@@ -1732,9 +1732,9 @@ Provides access to credentials in the Windows Credential Manager
 
 __Downloads__: 4,456,744 | __Repository__: 
 
-## [MicrosoftTeams](https://www.powershellgallery.com/Packages/MicrosoftTeams/4.3.0) | 4.3.0
+## [MicrosoftTeams](https://www.powershellgallery.com/Packages/MicrosoftTeams/4.4.1) | 4.4.1
 
-### Published: 05/05/2022 12:09:18 by Microsoft Corporation
+### Published: 05/31/2022 16:22:18 by Microsoft Corporation
 
 Microsoft Teams cmdlets module for Windows PowerShell and PowerShell Core.
 
@@ -2062,7 +2062,7 @@ __Downloads__: 1,832,500 | __Repository__: https://github.com/seanmcne/Microsoft
 
 PowerShell Module designed to retrieve Hewlett-Packard Warranty Information.
 
-__Downloads__: 1,822,613 | __Repository__: http://dotps1.github.io/HPWarranty
+__Downloads__: 1,822,621 | __Repository__: http://dotps1.github.io/HPWarranty
 
 ## [AzureRM.ServerManagement](https://www.powershellgallery.com/Packages/AzureRM.ServerManagement/4.1.2) | 4.1.2
 
@@ -2160,7 +2160,7 @@ __Downloads__: 1,563,636 | __Repository__: https://github.com/frgnca/AudioDevice
 
 This module allows for the parsing of a DSC Configuration script into PSObject for analysis
 
-__Downloads__: 1,551,192 | __Repository__: https://github.com/Microsoft/DSCParser
+__Downloads__: 1,551,196 | __Repository__: https://github.com/Microsoft/DSCParser
 
 ## [WallpaperManager](https://www.powershellgallery.com/Packages/WallpaperManager/0.1.22) | 0.1.22
 
@@ -2208,4 +2208,4 @@ View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modi
 
 __Downloads__: 1,490,664 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-*Updated: Tuesday, 31 May 2022 09:53:14 UTC*
+*Updated: Tuesday, 31 May 2022 17:54:32 UTC*

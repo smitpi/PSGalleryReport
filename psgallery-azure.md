@@ -132,7 +132,7 @@ __Downloads__: 25,847 | __Repository__: https://aka.ms/ps-rule-azure
 
 PowerShell module to help with CI&CD for Azure Data Factory, mainly to publish to ADF service in multiple environments. Check https://github.com/SQLPlayer/azure.datafactory.tools/ & https://sqlplayer.net/adf/
 
-__Downloads__: 65,003 | __Repository__: https://github.com/SQLPlayer/azure.datafactory.tools/
+__Downloads__: 65,006 | __Repository__: https://github.com/SQLPlayer/azure.datafactory.tools/
 
 ## [AzureConnectedMachineDsc](https://www.powershellgallery.com/Packages/AzureConnectedMachineDsc/1.3.0) | 1.3.0
 
@@ -1381,14 +1381,6 @@ A module to quickly and easly manage repetative interactions with VSTS
 
 __Downloads__: 1,044 | __Repository__: http://devopsmodule.utmonline.net/
 
-## [sjAzureTools](https://www.powershellgallery.com/Packages/sjAzureTools/0.1.2) | 0.1.2
-
-### Published: 07/20/2019 18:32:10 by Steven Judd
-
-This is a group of tools for managing Azure resources.
-
-__Downloads__: 278 | __Repository__: https://github.com/stevenjudd/azuretools
-
 ## [SmartPlanets.AzureUtilities](https://www.powershellgallery.com/Packages/SmartPlanets.AzureUtilities/1.0) | 1.0
 
 ### Published: 07/13/2019 04:14:47 by Lucas Schuft
@@ -1864,7 +1856,7 @@ __Downloads__: 1,565 | __Repository__: https://github.com/Mimeo/cAzureKeyVault
 
 Microsoft Azure PowerShell - Storage management cmdlets for Azure Stack
 
-__Downloads__: 197,198 | __Repository__: 
+__Downloads__: 197,197 | __Repository__: 
 
 ## [AzureRM.AzureStackAdmin](https://www.powershellgallery.com/Packages/AzureRM.AzureStackAdmin/0.11.1) | 0.11.1
 
@@ -1872,7 +1864,7 @@ __Downloads__: 197,198 | __Repository__:
 
 Microsoft Azure Stack Administration Module
 
-__Downloads__: 198,854 | __Repository__: 
+__Downloads__: 198,853 | __Repository__: 
 
 ## [AzureIoT](https://www.powershellgallery.com/Packages/AzureIoT/1.0.0.5) | 1.0.0.5
 
@@ -2084,4 +2076,12 @@ Create and use password repository hosted on Azure Key Vault
 
 __Downloads__: 1,850 | __Repository__: 
 
-*Updated: Tuesday, 31 May 2022 09:53:12 UTC*
+## [AzureAutomationRunbookUtilities](https://www.powershellgallery.com/Packages/AzureAutomationRunbookUtilities/1.2) | 1.2
+
+### Published: 12/19/2016 20:13:09 by Jeffrey Fanjoy
+
+A set of utility commands for use with Azure Automation runbooks.
+
+__Downloads__: 1,481 | __Repository__: 
+
+*Updated: Tuesday, 31 May 2022 17:54:30 UTC*
