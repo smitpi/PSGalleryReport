@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 31 May 2022 02:34:47 UTC
+Updated: Tuesday, 31 May 2022 09:53:20 UTC
 
 ?:
 ??
@@ -503,6 +503,7 @@ az-cli
 az.automation
 az.stackhci
 aza
+azautomation
 azcli
 azcompute
 azd
@@ -510,6 +511,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -600,7 +602,6 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
-bank
 banking
 banner
 bar
@@ -970,6 +971,8 @@ clear
 clear-history
 clearpass
 cli
+cli-menu
+cli-menu-helpers
 clickonce
 client
 client-management
@@ -1006,6 +1009,7 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
+cloud-iq
 cloudant
 cloudbees
 cloudberry
@@ -1021,6 +1025,7 @@ cloudgovernance
 cloudguard
 cloudinairy
 cloudinit
+cloudiq
 cloudkey
 cloudmarque
 cloudservice
@@ -1096,6 +1101,7 @@ comical
 comics
 command
 command_line
+command-validation
 commandcoverage
 commandlets
 commandline
@@ -1266,6 +1272,7 @@ cqd
 cqdpowershell
 cqhttp
 crack psmodule
+crayon
 crc
 crc32
 create
@@ -1756,7 +1763,6 @@ dsclient
 dscresource
 dscresourcekit
 dscresources
-dsctools
 dsl
 dsm
 dsreg
@@ -1796,6 +1802,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dyndns
 dynmanageddns
 e-mail
@@ -2016,6 +2023,7 @@ expandframework
 experiments
 expired
 expiring
+expiry
 exploit
 exploration
 explorer
@@ -2131,6 +2139,7 @@ filewrite
 fill
 film
 filter
+filter-item
 filtering
 fim
 fims
@@ -2786,7 +2795,6 @@ integrationaccount
 integrationservicescatalog
 integrity
 intel
-inteligo
 intelligence"
 intellisearch
 intellisense
@@ -3108,6 +3116,7 @@ liquit.com
 list
 list_files
 list-directory
+list-item
 listener
 litecoin
 litedb
@@ -3252,6 +3261,7 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
+managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3328,7 +3338,6 @@ mdx
 me4024
 mean
 measure
-measure-process
 mecm
 media
 mediant
@@ -3340,6 +3349,7 @@ meetup
 meetup.com
 meewind
 megabyte
+meltdown
 mem
 member
 members
@@ -3660,6 +3670,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+ngen
 ngfw
 nhl
 nic
@@ -3765,9 +3776,11 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
+od4b
 oda
 odata
 odbc
+odfb
 odin
 odoo
 offboarding
@@ -3809,6 +3822,7 @@ oncommand-insight
 ondemand
 one
 onedrive
+onedriveforbusiness
 oneget
 oneidentity
 onelogin
@@ -4019,7 +4033,6 @@ pause
 paylocity
 paypal
 pays
-pbench
 pc
 pcapng
 pci-dss
@@ -4447,6 +4460,7 @@ psmsgraphapi
 psmvp
 psnavigation
 psnexosisclient
+psngenposh
 psobject
 pspath
 pspowerhour
@@ -4466,7 +4480,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -4716,6 +4729,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-pass
 remove-path
 remove-pinneditem
@@ -4820,6 +4834,7 @@ rock
 rocket
 rocketcyber
 role
+roles
 rollingfile
 romaji
 rot13
@@ -4837,6 +4852,7 @@ routine
 rover
 royalapps
 royaldocument
+royalserver
 royalts
 royaltsx
 rpa
@@ -4869,6 +4885,7 @@ runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
+runway
 russia
 rust
 rust-lang
@@ -4987,7 +5004,6 @@ scripting
 scriptlogging
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -5011,7 +5027,6 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
-secretscanner
 secretserver
 secretsmanager
 secretvault
@@ -5044,11 +5059,11 @@ seek
 seekatar
 seeshell
 select
+select-item
 select-kubecontext
 select-kubenamespace
 select-string
 selection
-selectxmlinfo
 selenium
 self
 self-hosted
@@ -5123,6 +5138,7 @@ sessions
 set
 set_bios
 set-alias
+set-githubsecrets
 set-location
 set-openfiles
 set-pass
@@ -5232,6 +5248,7 @@ sky
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -5276,7 +5293,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 snugglepup
@@ -5343,6 +5359,8 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
+speculation
+speculationcontrol
 speech
 speed
 speedometer
@@ -5472,6 +5490,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stop
 storablecolortheme
 storage
 storageaccount
@@ -5572,6 +5591,7 @@ synchronize
 syndication
 synergy
 syntax
+syntax-highlighting
 syntaxhighlighter
 synthesis
 synthetics
@@ -5755,7 +5775,6 @@ thumbprint
 thunderbird
 thycotic
 tic-tac-toe
-tickle
 ticks
 tictactoe
 tiermodel
@@ -5916,7 +5935,6 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
-ud-funnel
 ud-hero
 ud-illustration
 ud-input
