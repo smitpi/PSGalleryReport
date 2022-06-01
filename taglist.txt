@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 31 May 2022 17:54:37 UTC
+Updated: Wednesday, 01 June 2022 02:43:24 UTC
 
 ?:
 ??
@@ -115,7 +115,6 @@ activeefficiency
 activeresponse
 activesession
 activiti
-activity
 activitycount
 actor-model
 actors
@@ -617,7 +616,6 @@ base64url
 base85
 basecamp
 based
-baseline
 bash
 bastion
 bat
@@ -887,12 +885,12 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
 charts
 chat
+chatbot
 chatops
 chatroom
 chatter
@@ -1066,7 +1064,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1301,7 +1298,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-crestron
 crlf
 crm
 crm2016
@@ -1484,7 +1480,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -1832,6 +1827,7 @@ educational
 effectiveroutes
 efi
 eigencontroles
+einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
@@ -2177,7 +2173,6 @@ flasharray
 flashblade
 flatfile
 flatten
-flex
 flex-query
 flexdesk
 flickr
@@ -3126,7 +3121,6 @@ live
 lldp
 lmhost
 lmhosts
-lms
 load
 loadbalancer
 loadbalancer.org
@@ -3193,10 +3187,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 lol
 lolcat
@@ -3483,7 +3475,6 @@ monitoring_variables
 monitoringplugins
 monitoringsolutions
 monthlyupdate
-moodle
 moonshot
 mosaic
 motd
@@ -3668,8 +3659,6 @@ newpassword
 newrelic
 newspaper
 newtonsoft
-nexenta
-nexentastor
 nexthink
 nexus
 ngen
@@ -3735,7 +3724,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 null-coalescing
 number
 numlock
@@ -4122,7 +4110,6 @@ playbook
 player
 playlists
 pleasant
-pleasantpasswordserver
 plex
 plist
 plog
@@ -4733,6 +4720,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-pass
 remove-path
 remove-pinneditem
@@ -4752,7 +4740,6 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
-reportrunner
 reports
 repos
 repositories
@@ -5144,6 +5131,7 @@ sessions
 set
 set_bios
 set-alias
+set-githubsecrets
 set-location
 set-openfiles
 set-pass
@@ -5623,6 +5611,7 @@ systemcenter
 systemcolors
 systemdiscovery
 systeminfo
+systeminformation
 systemlocale
 systems
 systemsplash
@@ -5648,6 +5637,7 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
+tagging
 tags
 tak
 taken
@@ -5661,7 +5651,6 @@ task-runner
 taskbar
 tasker
 taskgroup
-taskmanagement
 tasks
 taskscheduler
 taxjar
