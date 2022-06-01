@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 01 June 2022 02:43:24 UTC
+Updated: Wednesday, 01 June 2022 17:55:54 UTC
 
 ?:
 ??
@@ -67,7 +67,6 @@ aadsecurity
 aadsts
 aam
 aas
-abc
 abc_testing
 abe
 about
@@ -115,6 +114,7 @@ activeefficiency
 activeresponse
 activesession
 activiti
+activity
 activitycount
 actor-model
 actors
@@ -616,6 +616,7 @@ base64url
 base85
 basecamp
 based
+baseline
 bash
 bastion
 bat
@@ -707,7 +708,6 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -885,6 +885,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1064,6 +1065,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codepoint
 codereview
 codes
 codesign
@@ -1139,7 +1141,6 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrent
 conda
 condition
@@ -1298,6 +1299,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+crestron
 crlf
 crm
 crm2016
@@ -1469,7 +1471,6 @@ dc
 dcim
 dcim_b324
 deathface
-debian
 debug
 debug-files
 debugger
@@ -1480,6 +1481,7 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
@@ -1487,10 +1489,8 @@ dedicatedhsm
 deduplication
 deep
 deepvisibility
-def
 default
 defaultparameter
-defaultroutes
 defaults
 defence
 defender
@@ -1711,6 +1711,7 @@ dots
 dotteddecimalip
 doubleclick
 download
+downloadinfo
 downloading
 downloads
 dpa
@@ -1812,7 +1813,6 @@ ebooks
 ebur128
 ec2
 ecommerce
-ecovadis
 edgaronline
 edge
 edgegateway
@@ -1824,7 +1824,6 @@ editorservices
 edr
 education
 educational
-effectiveroutes
 efi
 eigencontroles
 einstein
@@ -2109,7 +2108,6 @@ file-type-association
 fileencryption
 filelist
 filelog
-filelogger
 filemanagement
 filematcher
 filename
@@ -2173,6 +2171,7 @@ flasharray
 flashblade
 flatfile
 flatten
+flex
 flex-query
 flexdesk
 flickr
@@ -2946,7 +2945,6 @@ justenoughadministration
 jwk
 jws
 jwt
-jwttoken
 k8s
 kafka
 kaminario
@@ -3121,6 +3119,7 @@ live
 lldp
 lmhost
 lmhosts
+lms
 load
 loadbalancer
 loadbalancer.org
@@ -3187,8 +3186,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 lol
 lolcat
@@ -3262,7 +3263,6 @@ managedserviceproviders
 managedservices
 manageengine
 management
-managementagent
 managementdashboard
 managementgroups
 managementpoint
@@ -3461,7 +3461,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 money
@@ -3475,6 +3474,7 @@ monitoring_variables
 monitoringplugins
 monitoringsolutions
 monthlyupdate
+moodle
 moonshot
 mosaic
 motd
@@ -3659,6 +3659,8 @@ newpassword
 newrelic
 newspaper
 newtonsoft
+nexenta
+nexentastor
 nexthink
 nexus
 ngen
@@ -3724,6 +3726,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 null-coalescing
 number
 numlock
@@ -3797,6 +3800,7 @@ okta
 old
 ole
 oledb
+omaha
 ome
 omnisphere
 omnistack
@@ -4110,6 +4114,7 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
 plex
 plist
 plog
@@ -4740,6 +4745,7 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
+reportrunner
 reports
 repos
 repositories
@@ -4969,7 +4975,6 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
-scrap
 scrape
 scraper
 screen
@@ -5204,7 +5209,6 @@ signtool
 silk
 sim
 simple
-simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -5329,6 +5333,7 @@ sort
 source
 source-dedicated-server
 sourcecontrol
+sourceforge
 sourcegraph
 sourcemod
 sourceone
@@ -5651,6 +5656,7 @@ task-runner
 taskbar
 tasker
 taskgroup
+taskmanagement
 tasks
 taskscheduler
 taxjar
@@ -5891,7 +5897,6 @@ twitter-api
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -6292,7 +6297,6 @@ wasabi
 watch
 watchmen
 watery
-wave
 wayk
 waykagent
 waykbastion
@@ -6318,6 +6322,7 @@ webdav
 webdeploy
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6353,6 +6358,7 @@ wem
 wemsdk
 what3words
 whatismyip
+whd
 where
 whfb
 whiteboard
