@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 02 June 2022 02:37:29 UTC
+Updated: Thursday, 02 June 2022 09:53:59 UTC
 
 ?:
 ??
@@ -67,6 +67,7 @@ aadsecurity
 aadsts
 aam
 aas
+abc
 abc_testing
 abe
 about
@@ -186,6 +187,7 @@ adv190013
 advanced
 advapi32
 advisor
+adwords
 adx
 adxingestion
 aem
@@ -204,7 +206,6 @@ agile
 agility
 agm
 agnoster
-ah
 ai
 aianomalydetection
 ailanguage
@@ -219,7 +220,6 @@ ajustee
 aks
 alac
 alarm
-albertheijn
 albums
 alero
 alert
@@ -235,7 +235,6 @@ alias
 aliases
 aliens
 all
-alletra
 alm
 almrangers
 alpha
@@ -884,7 +883,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
@@ -1064,7 +1062,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1482,16 +1479,16 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
 dedicatedhsm
 deduplication
 deep
-deepvisibility
+def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -1576,7 +1573,6 @@ diagrams
 dialog
 dice
 diceware
-dicom
 dictionary
 diff
 difference
@@ -1611,6 +1607,7 @@ disasm
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 disk
@@ -1808,6 +1805,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -1823,6 +1821,7 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efi
 eigencontroles
 einstein
@@ -2211,6 +2210,7 @@ fortigate
 fortigi
 fortimanager
 fortinet
+fortinetmanager
 fortios
 fortune
 forum
@@ -2287,7 +2287,9 @@ gemlog
 gemtext
 general
 generate
+generateaddress
 generates
+generatewif
 generation
 generator
 generic
@@ -2843,6 +2845,7 @@ iperf
 ipfy.org
 iphone
 ipilot
+iplookup
 ipmaths
 ipp
 iprange
@@ -3596,6 +3599,7 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
+nederland
 nedyalkov
 neo4j
 neptune
@@ -3710,6 +3714,7 @@ npslogfile
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -4278,7 +4283,6 @@ previousversions
 price
 pricelist
 primenumber
-primera
 principal
 principle
 print
@@ -4471,6 +4475,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -4894,6 +4899,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 sam
@@ -4994,6 +5000,7 @@ scripting
 scriptlogging
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -5081,7 +5088,6 @@ sensor
 sensors
 sensu
 sentinel
-sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5096,7 +5102,6 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
-serverless
 servermanagement
 servers
 service
@@ -5203,6 +5208,7 @@ signtool
 silk
 sim
 simple
+simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -5284,6 +5290,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 snugglepup
@@ -5318,7 +5325,6 @@ songs
 sonicwall
 sonicwallvpn
 sonus
-soon
 soonr
 soonragent
 sophos
@@ -5820,6 +5826,7 @@ tracking
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 training
 tram
 transact
@@ -5843,6 +5850,7 @@ trec
 tree
 treesize
 treffynnon
+trein
 trello
 trellops
 trendmicro
@@ -6358,6 +6366,7 @@ whois
 whormi
 wi-fi
 wid
+wif
 wifi
 wiki
 wildcard
@@ -6392,6 +6401,7 @@ windows-remoting
 windows-server-2016
 windows10
 windows10mui
+windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
@@ -6404,6 +6414,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsmanagementframework
 windowsplugins
 windowspowershell
 windowspresentationfoundation
@@ -6449,6 +6460,7 @@ wisdom
 with
 wkhtmltopdf
 wlan
+wmf
 wmf5
 wmi
 wmifilter
@@ -6456,7 +6468,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
@@ -6511,7 +6522,6 @@ writeaccess
 writelog
 writemanager
 ws-federation
-wsapi
 wsl
 wsman
 wsmanlistener
@@ -6569,6 +6579,7 @@ xmlutils
 xoauth2
 xor
 xpath
+xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -6578,6 +6589,7 @@ xtremio
 xtrude
 xunit
 xwiki
+xwindowsupdate
 yahoo
 yahw
 yamaha
