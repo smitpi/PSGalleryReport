@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 02 June 2022 09:53:59 UTC
+Updated: Thursday, 02 June 2022 17:55:43 UTC
 
 ?:
 ??
@@ -206,6 +206,7 @@ agile
 agility
 agm
 agnoster
+ah
 ai
 aianomalydetection
 ailanguage
@@ -220,6 +221,7 @@ ajustee
 aks
 alac
 alarm
+albertheijn
 albums
 alero
 alert
@@ -235,6 +237,7 @@ alias
 aliases
 aliens
 all
+alletra
 alm
 almrangers
 alpha
@@ -807,6 +810,7 @@ canonical
 cantara
 capability
 capacity
+capgemini
 capslock
 capture
 carbon
@@ -883,6 +887,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1062,6 +1067,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codepoint
 codereview
 codes
 codesign
@@ -1479,12 +1485,14 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
 dedicatedhsm
 deduplication
 deep
+deepvisibility
 def
 default
 defaultparameter
@@ -1573,6 +1581,7 @@ diagrams
 dialog
 dice
 diceware
+dicom
 dictionary
 diff
 difference
@@ -1765,6 +1774,7 @@ dsutils
 dtc
 dts
 dtsx
+dtx
 duck
 dudckduckgo
 duf
@@ -1895,6 +1905,7 @@ environment-variables
 environmentmanagent
 environmentmodules
 environments
+environmentvariable
 environmentvariables
 envvar
 envvars
@@ -4283,6 +4294,7 @@ previousversions
 price
 pricelist
 primenumber
+primera
 principal
 principle
 print
@@ -5088,6 +5100,7 @@ sensor
 sensors
 sensu
 sentinel
+sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5102,6 +5115,7 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
+serverless
 servermanagement
 servers
 service
@@ -5325,6 +5339,7 @@ songs
 sonicwall
 sonicwallvpn
 sonus
+soon
 soonr
 soonragent
 sophos
@@ -5429,6 +5444,7 @@ ssl
 sslcertificate
 ssllabs
 ssllabs-scan
+sslprotocol
 ssm
 sso
 sspr
@@ -5788,6 +5804,7 @@ title
 tls
 tls11
 tls12
+tlsprotocol
 toast
 toasts
 tobias
@@ -5942,6 +5959,7 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
+ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -6468,6 +6486,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
@@ -6522,6 +6541,7 @@ writeaccess
 writelog
 writemanager
 ws-federation
+wsapi
 wsl
 wsman
 wsmanlistener

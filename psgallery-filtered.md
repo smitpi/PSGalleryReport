@@ -5,13 +5,109 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PhpConfig](https://www.powershellgallery.com/Packages/PhpConfig/1.0.1) | 1.0.1
+## [PSNotes](https://www.powershellgallery.com/Packages/PSNotes/0.2.0.1) | 0.2.0.1
 
-### Published: 06/02/2022 09:06:13 by Nicolas Cavare
+### Published: 06/02/2022 17:10:49 by Matthew Dowst
+
+PSNotes is a PowerShell module that allows you to create your own custom snippet library, that you can use to reference commands. It is great for long command you run often or commands you don't run often and need a reminder on. Snippets can either be executed directly, copied to your clipboard, or simply output to the screen for you to do whatever you want with them. When you create a note, you assign an alias to it, so you can have an easy to remember keyword that you can then use to recall it. Notes can also be classified with tags, so you group them in logic collections. You can also easily search for them by tag, name, details, or text within the snippet.
+
+__Downloads__: 411 | __Repository__: https://github.com/mdowst/PSNotes
+
+## [pfSense](https://www.powershellgallery.com/Packages/pfSense/0.9.4) | 0.9.4
+
+### Published: 06/02/2022 17:02:21 by Chris Masters
+
+pfSense management functions built for pfSense version 2.x
+
+__Downloads__: 1,015 | __Repository__: https://github.com/masters274/pfSense_API
+
+## [D365FOLBDAdmin](https://www.powershellgallery.com/Packages/D365FOLBDAdmin/2.1.33.0) | 2.1.33.0
+
+### Published: 06/02/2022 16:30:45 by StefanRLand
+
+For Dynamics 365 Finance and Operations Local Business Data (LBD) Administration
+
+__Downloads__: 1,840 | __Repository__: https://github.com/stefanland/D365FOLBDAdmin
+
+## [Pipeline.Sql.Deploy](https://www.powershellgallery.com/Packages/Pipeline.Sql.Deploy/0.0.145) | 0.0.145
+
+### Published: 06/02/2022 16:12:13 by Sabin.IO
+
+Pipeline helper functions for deployments of sql server
+
+__Downloads__: 550 | __Repository__: 
+
+## [PhpConfig](https://www.powershellgallery.com/Packages/PhpConfig/1.0.4) | 1.0.4
+
+### Published: 06/02/2022 15:26:59 by Nicolas Cavare
 
 A PowerShell module to configure PHP
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
+
+## [ExplainLinuxFS](https://www.powershellgallery.com/Packages/ExplainLinuxFS/0.0.5) | 0.0.5
+
+### Published: 06/02/2022 14:30:31 by Ehmiiz
+
+Get info of the linux standard directories at the command-line, and go there
+
+__Downloads__: 0 | __Repository__: https://github.com/ehmiiz/ExplainLinuxFS
+
+## [DynatracePS](https://www.powershellgallery.com/Packages/DynatracePS/0.1.8) | 0.1.8
+
+### Published: 06/02/2022 14:22:09 by joey.was@gmail.com
+
+PowerShell module to interact with Dynatrace API
+
+__Downloads__: 28 | __Repository__: https://github.com/joeywas/DynatracePS
+
+## [PSHangMan](https://www.powershellgallery.com/Packages/PSHangMan/0.0.2) | 0.0.2
+
+### Published: 06/02/2022 14:18:02 by Ehmiiz
+
+The famous game Hang Man, right in your PowerShell host! With tech-companies theme.
+
+__Downloads__: 1 | __Repository__: https://github.com/ehmiiz/PSHangMan
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22153.30561) | 4.4.22153.30561
+
+### Published: 06/02/2022 12:55:40 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 2,898,364 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.5.0.0) | 1.5.0.0
+
+### Published: 06/02/2022 12:18:18 by glueckkanja-gab
+
+Adds the required configuration to SCEPman (https://scepman.com/) right after installing or updating to a 2.x version.
+
+__Downloads__: 658 | __Repository__: https://scepman.com/
+
+## [PSSqlPatch](https://www.powershellgallery.com/Packages/PSSqlPatch/1.1.62) | 1.1.62
+
+### Published: 06/02/2022 12:13:22 by paddycull
+
+PowerShell module used for everything related to SQL Server patching. It contains functions to check for and download SQL patches directly from Microsoft, as well as functions to apply the patches and check patch levels.
+
+__Downloads__: 336 | __Repository__: 
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.102) | 1.1.102
+
+### Published: 06/02/2022 11:38:46 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,631,181 | __Repository__: https://dbatools.io/
+
+## [syntax-highlighting](https://www.powershellgallery.com/Packages/syntax-highlighting/1.1.2) | 1.1.2
+
+### Published: 06/02/2022 10:21:47 by Brian Tannert & Rajeswar Khan
+
+Syntax highlighting for PowerShell
+
+__Downloads__: 18 | __Repository__: https://github.com/digitalguy99/pwsh-syntax-highlighting
 
 ## [Cloud.Governance.Client](https://www.powershellgallery.com/Packages/Cloud.Governance.Client/5.5.3) | 5.5.3
 
@@ -29,14 +125,6 @@ Provide a simple api client to consume Cyberwatch REST Client with HMAC authenti
 
 __Downloads__: 427 | __Repository__: https://github.com/Cyberwatch/cyberwatch_api_powershell
 
-## [D365FOLBDAdmin](https://www.powershellgallery.com/Packages/D365FOLBDAdmin/2.1.32.0) | 2.1.32.0
-
-### Published: 06/02/2022 04:26:14 by StefanRLand
-
-For Dynamics 365 Finance and Operations Local Business Data (LBD) Administration
-
-__Downloads__: 1,840 | __Repository__: https://github.com/stefanland/D365FOLBDAdmin
-
 ## [PsXisfReader](https://www.powershellgallery.com/Packages/PsXisfReader/1.0.37) | 1.0.37
 
 ### Published: 06/02/2022 04:05:28 by Jonathan W. MacCollum
@@ -51,7 +139,7 @@ __Downloads__: 161 | __Repository__:
 
 Designed to facilitate script input/output with an easily customizable WPF window.
 
-__Downloads__: 22,032 | __Repository__: https://github.com/fresh2dev/AnyBox
+__Downloads__: 22,031 | __Repository__: https://github.com/fresh2dev/AnyBox
 
 ## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/1.87) | 1.87
 
@@ -59,7 +147,7 @@ __Downloads__: 22,032 | __Repository__: https://github.com/fresh2dev/AnyBox
 
 This module does stuff
 
-__Downloads__: 332 | __Repository__: 
+__Downloads__: 445 | __Repository__: 
 
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.1.9) | 0.1.9
 
@@ -75,7 +163,7 @@ __Downloads__: 1,063 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prel
 
 Provides basic cmdlets to connect and invoke commands against SQL Server and Azure SQL databases.
 
-__Downloads__: 19,992 | __Repository__: https://github.com/sharpjs/PSql
+__Downloads__: 20,091 | __Repository__: https://github.com/sharpjs/PSql
 
 ## [DownloadInfo](https://www.powershellgallery.com/Packages/DownloadInfo/3.0.0) | 3.0.0
 
@@ -91,7 +179,7 @@ __Downloads__: 3 | __Repository__: https://github.com/sangafabrice/download-info
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 60,962 | __Repository__: 
+__Downloads__: 60,959 | __Repository__: 
 
 ## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/2.2.2) | 2.2.2
 
@@ -99,7 +187,7 @@ __Downloads__: 60,962 | __Repository__:
 
 Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
 
-__Downloads__: 51,942 | __Repository__: https://github.com/joonro/Get-ChildItemColor
+__Downloads__: 51,998 | __Repository__: https://github.com/joonro/Get-ChildItemColor
 
 ## [WebHelpDesk](https://www.powershellgallery.com/Packages/WebHelpDesk/1.2) | 1.2
 
@@ -139,7 +227,7 @@ __Downloads__: 3 | __Repository__:
 
 OSDCloud Azure Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 218,837 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 219,886 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.0.4) | 3.0.4
 
@@ -147,7 +235,7 @@ __Downloads__: 218,837 | __Repository__: https://github.com/OSDeploy/OSD
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 13,120,709 | __Repository__: 
+__Downloads__: 13,154,101 | __Repository__: 
 
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.6) | 3.1.6
 
@@ -155,7 +243,7 @@ __Downloads__: 13,120,709 | __Repository__:
 
 Manage (create, extend, import, export) Azure B2C xml IEF policy sets used for custom journeys. See https://github.com/mrochon/IEFPolicies
 
-__Downloads__: 1,878 | __Repository__: https://github.com/mrochon/IEFPolicies
+__Downloads__: 1,899 | __Repository__: https://github.com/mrochon/IEFPolicies
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.33) | 0.0.33
 
@@ -163,7 +251,7 @@ __Downloads__: 1,878 | __Repository__: https://github.com/mrochon/IEFPolicies
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 228,424 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 230,296 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.29) | 0.0.29
 
@@ -171,7 +259,7 @@ __Downloads__: 228,424 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 228,058 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 229,893 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.17) | 0.0.17
 
@@ -179,7 +267,7 @@ __Downloads__: 228,058 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 256,911 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 258,738 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [Leankit](https://www.powershellgallery.com/Packages/Leankit/0.0.5) | 0.0.5
 
@@ -196,6 +284,14 @@ __Downloads__: 23 | __Repository__:
 Module for cloning SQL Server databases
 
 __Downloads__: 1,429 | __Repository__: 
+
+## [PSTemplating](https://www.powershellgallery.com/Packages/PSTemplating/0.2.0) | 0.2.0
+
+### Published: 05/31/2022 19:05:03 by Torben Soennecken
+
+Module for generating values based on schema strings and variable bindings.
+
+__Downloads__: 106 | __Repository__: https://github.com/tosoikea/PSTemplating
 
 ## [ShoutOut](https://www.powershellgallery.com/Packages/ShoutOut/5.0.2) | 5.0.2
 
@@ -1092,7 +1188,7 @@ __Downloads__: 3 | __Repository__: https://github.com/xadozuk/terramorph
 
 PowerShell Module for VMware Validated Solutions
 
-__Downloads__: 486 | __Repository__: 
+__Downloads__: 493 | __Repository__: 
 
 ## [eNLib](https://www.powershellgallery.com/Packages/eNLib/1.3.33) | 1.3.33
 
@@ -1110,14 +1206,6 @@ Keep XLIFF translation files easily in sync with a generated base-XLIFF file.
 
 __Downloads__: 2,880 | __Repository__: https://github.com/rvanbekkum/ps-xliff-sync
 
-## [syntax-highlighting](https://www.powershellgallery.com/Packages/syntax-highlighting/1.0.2) | 1.0.2
-
-### Published: 05/31/2022 07:14:28 by Brian Tannert & Rajeswar Khan
-
-Syntax highlighting for PowerShell
-
-__Downloads__: 18 | __Repository__: https://github.com/digitalguy99/pwsh-syntax-highlighting
-
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.17) | 0.0.17
 
 ### Published: 05/30/2022 20:14:11 by Marius Storhaug
@@ -1134,14 +1222,6 @@ PowerShell Module for GitHub.Interactions
 
 __Downloads__: 98 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [Github.Dependabot](https://www.powershellgallery.com/Packages/Github.Dependabot/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:14:03 by Marius Storhaug
-
-PowerShell Module for GitHub.Dependabot
-
-__Downloads__: 104 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Projects](https://www.powershellgallery.com/Packages/GitHub.Projects/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:14:03 by Marius Storhaug
@@ -1149,6 +1229,14 @@ __Downloads__: 104 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Projects
 
 __Downloads__: 98 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [Github.Dependabot](https://www.powershellgallery.com/Packages/Github.Dependabot/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:14:03 by Marius Storhaug
+
+PowerShell Module for GitHub.Dependabot
+
+__Downloads__: 104 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Markdown](https://www.powershellgallery.com/Packages/GitHub.Markdown/0.0.8) | 0.0.8
 
@@ -1158,14 +1246,6 @@ PowerShell Module for GitHub.Markdown
 
 __Downloads__: 99 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.CodeScanning](https://www.powershellgallery.com/Packages/GitHub.CodeScanning/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:59 by Marius Storhaug
-
-PowerShell Module for GitHub.CodeScanning
-
-__Downloads__: 103 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Gists](https://www.powershellgallery.com/Packages/GitHub.Gists/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:59 by Marius Storhaug
@@ -1174,13 +1254,21 @@ PowerShell Module for GitHub.Gists
 
 __Downloads__: 100 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.8) | 0.0.8
+## [GitHub.CodeScanning](https://www.powershellgallery.com/Packages/GitHub.CodeScanning/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:59 by Marius Storhaug
+
+PowerShell Module for GitHub.CodeScanning
+
+__Downloads__: 103 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:58 by Marius Storhaug
 
-PowerShell Module for GitHub.Activity
+PowerShell Module for GitHub.SecretScanning
 
-__Downloads__: 114 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 99 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.8) | 0.0.8
 
@@ -1189,6 +1277,14 @@ __Downloads__: 114 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Codespaces
 
 __Downloads__: 108 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:58 by Marius Storhaug
+
+PowerShell Module for GitHub.Activity
+
+__Downloads__: 114 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.EnterpriseAdmin](https://www.powershellgallery.com/Packages/GitHub.EnterpriseAdmin/0.0.8) | 0.0.8
 
@@ -1206,13 +1302,13 @@ PowerShell Module for GitHub.Packages
 
 __Downloads__: 107 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.8) | 0.0.8
+## [GitHub.Commits](https://www.powershellgallery.com/Packages/GitHub.Commits/0.0.6) | 0.0.6
 
-### Published: 05/30/2022 20:13:58 by Marius Storhaug
+### Published: 05/30/2022 20:13:57 by Marius Storhaug
 
-PowerShell Module for GitHub.SecretScanning
+PowerShell Module for GitHub.Commits
 
-__Downloads__: 99 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 91 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Git](https://www.powershellgallery.com/Packages/GitHub.Git/0.0.8) | 0.0.8
 
@@ -1230,14 +1326,6 @@ PowerShell Module for GitHub.Users
 
 __Downloads__: 99 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Commits](https://www.powershellgallery.com/Packages/GitHub.Commits/0.0.6) | 0.0.6
-
-### Published: 05/30/2022 20:13:57 by Marius Storhaug
-
-PowerShell Module for GitHub.Commits
-
-__Downloads__: 91 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Reactions](https://www.powershellgallery.com/Packages/GitHub.Reactions/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:56 by Marius Storhaug
@@ -1253,14 +1341,6 @@ __Downloads__: 97 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.CodesOfConduct
 
 __Downloads__: 111 | __Repository__: 
-
-## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:55 by Marius Storhaug
-
-PowerShell Module for GitHub.OAuthAuthorizations
-
-__Downloads__: 128 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.SCIM](https://www.powershellgallery.com/Packages/GitHub.SCIM/0.0.8) | 0.0.8
 
@@ -1278,13 +1358,21 @@ PowerShell Module for GitHub.Actions
 
 __Downloads__: 118 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Repos](https://www.powershellgallery.com/Packages/GitHub.Repos/0.0.9) | 0.0.9
+## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:55 by Marius Storhaug
+
+PowerShell Module for GitHub.OAuthAuthorizations
+
+__Downloads__: 128 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Migrations](https://www.powershellgallery.com/Packages/GitHub.Migrations/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:54 by Marius Storhaug
 
-PowerShell Module for GitHub.Repos
+PowerShell Module for GitHub.Migrations
 
-__Downloads__: 98 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 99 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.8) | 0.0.8
 
@@ -1294,13 +1382,13 @@ PowerShell Module for GitHub.Issues
 
 __Downloads__: 105 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Migrations](https://www.powershellgallery.com/Packages/GitHub.Migrations/0.0.8) | 0.0.8
+## [GitHub.Repos](https://www.powershellgallery.com/Packages/GitHub.Repos/0.0.9) | 0.0.9
 
 ### Published: 05/30/2022 20:13:54 by Marius Storhaug
 
-PowerShell Module for GitHub.Migrations
+PowerShell Module for GitHub.Repos
 
-__Downloads__: 99 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 98 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Checks](https://www.powershellgallery.com/Packages/GitHub.Checks/0.0.8) | 0.0.8
 
@@ -1326,14 +1414,6 @@ PowerShell Module for GitHub.Collaborators
 
 __Downloads__: 98 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Apps](https://www.powershellgallery.com/Packages/GitHub.Apps/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:52 by Marius Storhaug
-
-PowerShell Module for GitHub.Apps
-
-__Downloads__: 108 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.GitIgnore](https://www.powershellgallery.com/Packages/GitHub.GitIgnore/0.0.9) | 0.0.9
 
 ### Published: 05/30/2022 20:13:52 by Marius Storhaug
@@ -1342,13 +1422,13 @@ PowerShell Module for GitHub.Search
 
 __Downloads__: 102 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.8) | 0.0.8
+## [GitHub.Apps](https://www.powershellgallery.com/Packages/GitHub.Apps/0.0.8) | 0.0.8
 
-### Published: 05/30/2022 20:13:51 by Marius Storhaug
+### Published: 05/30/2022 20:13:52 by Marius Storhaug
 
-PowerShell Module for GitHub.Teams
+PowerShell Module for GitHub.Apps
 
-__Downloads__: 102 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 108 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Search](https://www.powershellgallery.com/Packages/GitHub.Search/0.0.9) | 0.0.9
 
@@ -1358,6 +1438,14 @@ PowerShell Module for GitHub.GitIgnore
 
 __Downloads__: 120 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
+## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:51 by Marius Storhaug
+
+PowerShell Module for GitHub.Teams
+
+__Downloads__: 102 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
 ## [GitHub.Branches](https://www.powershellgallery.com/Packages/GitHub.Branches/0.0.6) | 0.0.6
 
 ### Published: 05/30/2022 20:13:50 by Marius Storhaug
@@ -1366,14 +1454,6 @@ PowerShell Module for GitHub.Branches
 
 __Downloads__: 91 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:49 by Marius Storhaug
-
-PowerShell Module for GitHub.Emojis
-
-__Downloads__: 112 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:49 by Marius Storhaug
@@ -1381,6 +1461,14 @@ __Downloads__: 112 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.RateLimit
 
 __Downloads__: 110 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:49 by Marius Storhaug
+
+PowerShell Module for GitHub.Emojis
+
+__Downloads__: 112 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Licenses](https://www.powershellgallery.com/Packages/GitHub.Licenses/0.0.8) | 0.0.8
 
@@ -1493,7 +1581,7 @@ __Downloads__: 5 | __Repository__: https://github.com/adamdriscoll/animated-lamp
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,583,864 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,588,529 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [OktaPosh](https://www.powershellgallery.com/Packages/OktaPosh/0.5.1) | 0.5.1
 
@@ -1511,21 +1599,21 @@ The PowerShell SQL Client module replaces the SQL Server utilities SQLCMD and BC
 
 __Downloads__: 1,084 | __Repository__: https://github.com/abbgrade/PsSqlClient
 
-## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.4.5.0) | 1.4.5.0
-
-### Published: 05/30/2022 13:30:29 by glueckkanja-gab
-
-Adds the required configuration to SCEPman (https://scepman.com/) right after installing or updating to a 2.x version.
-
-__Downloads__: 658 | __Repository__: https://scepman.com/
-
 ## [XpandPwsh](https://www.powershellgallery.com/Packages/XpandPwsh/1.212.0.4) | 1.212.0.4
 
 ### Published: 05/30/2022 07:58:04 by Apostolis Bekiaris
 
 Various functions working with DevExpress XAF, eXpandFramework and not only
 
-__Downloads__: 26,064 | __Repository__: http://xpandpwsh.expandframework.com/
+__Downloads__: 26,063 | __Repository__: http://xpandpwsh.expandframework.com/
+
+## [AppInsights](https://www.powershellgallery.com/Packages/AppInsights/1.0.1013) | 1.0.1013
+
+### Published: 05/30/2022 07:46:13 by Sven Grav
+
+PowerShell module that encapsulates the Application Insights Telemetry Client. https://github.com/svengrav/powershell-appinsights
+
+__Downloads__: 809 | __Repository__: https://github.com/svengrav/powershell-appinsights
 
 ## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.5) | 1.0.5
 
@@ -1541,7 +1629,7 @@ __Downloads__: 27 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/au
 
 DSC resources for configuring settings related to networking.
 
-__Downloads__: 84,986,732 | __Repository__: https://github.com/dsccommunity/NetworkingDsc
+__Downloads__: 85,022,217 | __Repository__: https://github.com/dsccommunity/NetworkingDsc
 
 ## [TTAPSModuleBuilder](https://www.powershellgallery.com/Packages/TTAPSModuleBuilder/0.0.2) | 0.0.2
 
@@ -1575,14 +1663,6 @@ Test-Connection to multiple devcies in parallel with a color and "watch" feature
 
 __Downloads__: 15 | __Repository__: https://github.com/daisaacson/Test-Connections
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.101) | 1.1.101
-
-### Published: 05/29/2022 07:34:50 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,627,880 | __Repository__: https://dbatools.io/
-
 ## [BricksetCatalogue](https://www.powershellgallery.com/Packages/BricksetCatalogue/0.1.2) | 0.1.2
 
 ### Published: 05/29/2022 01:05:49 by Tim Carman
@@ -1613,7 +1693,7 @@ __Downloads__: 215 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 
-__Downloads__: 1,566,376 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
+__Downloads__: 1,569,360 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
 
 ## [ProductivityTools.PublishReadmeToWordpress](https://www.powershellgallery.com/Packages/ProductivityTools.PublishReadmeToWordpress/0.0.2) | 0.0.2
 
@@ -1637,7 +1717,7 @@ Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
 Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
 Start/Complete/Undo/Get -SqlTransaction >> Utilize transactions!
 
-__Downloads__: 186,027 | __Repository__: https://github.com/mithrandyr/SimplySql
+__Downloads__: 186,275 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 ## [Get-NetView](https://www.powershellgallery.com/Packages/Get-NetView/2022.5.28.198) | 2022.5.28.198
 
@@ -1645,7 +1725,7 @@ __Downloads__: 186,027 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 446,920 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 448,335 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [MEM-Win32App-Builder](https://www.powershellgallery.com/Packages/MEM-Win32App-Builder/0.1.4) | 0.1.4
 
@@ -1661,7 +1741,7 @@ __Downloads__: 14 | __Repository__: https://github.com/markkerry/MEM-Win32App-Bu
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 135,376 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 135,573 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [StepAutomation](https://www.powershellgallery.com/Packages/StepAutomation/1.0.3) | 1.0.3
 
@@ -1745,7 +1825,7 @@ __Downloads__: 283 | __Repository__: https://github.com/hugoalh-studio/ghactions
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 583,298 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 585,133 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/12.2.2) | 12.2.2
 
@@ -1889,7 +1969,7 @@ __Downloads__: 415 | __Repository__: https://github.com/mod-posh
 
 A collection of commands written to perform IPv4 subnet math.
 
-__Downloads__: 83,017 | __Repository__: 
+__Downloads__: 83,016 | __Repository__: 
 
 ## [NewRelicPS](https://www.powershellgallery.com/Packages/NewRelicPS/1.3.0) | 1.3.0
 
@@ -1897,7 +1977,7 @@ __Downloads__: 83,017 | __Repository__:
 
 Module for working with NewRelic
 
-__Downloads__: 3,564 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
+__Downloads__: 3,562 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
 
 ## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.7) | 1.2.7
 
@@ -1939,93 +2019,4 @@ Azure Virtual Desktop Management Framework
 
 __Downloads__: 244 | __Repository__: 
 
-## [ImageDataUriConverter](https://www.powershellgallery.com/Packages/ImageDataUriConverter/1.1.1) | 1.1.1
-
-### Published: 05/26/2022 10:49:53 by Rob Green
-
-A Powershell module that generates a data uri from an image file, converts a data uri to an image file or resizes a data uri.
-
-__Downloads__: 12 | __Repository__: https://github.com/trossr32/ps-image-data-uri-converter
-
-## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.13) | 0.2.13
-
-### Published: 05/26/2022 09:15:59 by Simon Bergwall
-
-Wrapper for Robocopy
-
-__Downloads__: 4,020,974 | __Repository__: https://github.com/sbergwall/RobocopyPS
-
-## [PowerVCF](https://www.powershellgallery.com/Packages/PowerVCF/2.2.0) | 2.2.0
-
-### Published: 05/26/2022 08:48:13 by Brian O Connell Gary Blake & Ken Gould
-
-PowerShell Module for the VMware Cloud Foundation 4.x API.
-
-__Downloads__: 2,853 | __Repository__: 
-
-## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/1.0.22) | 1.0.22
-
-### Published: 05/26/2022 08:27:48 by Przemyslaw Klys
-
-Simple module allowing parsing of event logs. Has its own quirks...
-
-__Downloads__: 172,938 | __Repository__: https://github.com/EvotecIT/PSEventViewer
-
-## [ReportRunner](https://www.powershellgallery.com/Packages/ReportRunner/0.6.7) | 0.6.7
-
-### Published: 05/26/2022 05:42:38 by Jesse Reichman
-
-ReportRunner
-
-__Downloads__: 73 | __Repository__: https://github.com/archmachina/ps-reportrunner/
-
-## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.109) | 2.0.109
-
-### Published: 05/26/2022 00:59:43 by Dylan Haskins and Eugene Van Staden
-
-A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
-
-__Downloads__: 7,136 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
-
-## [PowerDir.GetPowerDir](https://www.powershellgallery.com/Packages/PowerDir.GetPowerDir/0.3.2) | 0.3.2
-
-### Published: 05/25/2022 21:32:31 by Raffaello Bertini
-
-PowerDir is a Powershell 7 Module as an alternative to Get-ChildItem.
-
-__Downloads__: 36 | __Repository__: https://github.com/BlueRedSkyLTD/PowerDir
-
-## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.4.0) | 4.4.0
-
-### Published: 05/25/2022 20:03:29 by Venafi
-
-Automate your Venafi Trust Protection Platform and Venafi as a Service platforms!
-
-__Downloads__: 1,748 | __Repository__: https://github.com/Venafi/VenafiPS
-
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22145.30480) | 4.4.22145.30480
-
-### Published: 05/25/2022 19:27:46 by Red Gate Software Ltd.
-
-Automation tools for production quality database deployment
-
-__Downloads__: 2,894,325 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.8) | 0.1.8
-
-### Published: 05/25/2022 19:20:39 by Sebastiaan Dammann
-
-Powershell module to generate interactive console menu.
-    
-    Supports:
-    - Multiselection
-    - Paging
-    - Objects
-    - Custom rendering
-    - Rendering callback
-    
-    Check for examples on how to use it on Github!
-
-__Downloads__: 1,557 | __Repository__: https://github.com/Sebazzz/PSMenu
-
-*Updated: Thursday, 02 June 2022 09:53:48 UTC*
+*Updated: Thursday, 02 June 2022 17:55:32 UTC*
