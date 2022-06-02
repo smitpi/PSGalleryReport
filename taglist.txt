@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 01 June 2022 17:55:54 UTC
+Updated: Thursday, 02 June 2022 02:37:29 UTC
 
 ?:
 ??
@@ -186,7 +186,6 @@ adv190013
 advanced
 advapi32
 advisor
-adwords
 adx
 adxingestion
 aem
@@ -708,6 +707,7 @@ blueprints
 blueteam
 bluetraitio
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -808,7 +808,6 @@ canonical
 cantara
 capability
 capacity
-capgemini
 capslock
 capture
 carbon
@@ -1141,6 +1140,7 @@ computer-site
 computername
 computers
 computersite
+concur
 concurrent
 conda
 condition
@@ -1471,6 +1471,7 @@ dc
 dcim
 dcim_b324
 deathface
+debian
 debug
 debug-files
 debugger
@@ -1610,7 +1611,6 @@ disasm
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 disk
@@ -1768,7 +1768,6 @@ dsutils
 dtc
 dts
 dtsx
-dtx
 duck
 dudckduckgo
 duf
@@ -1809,10 +1808,10 @@ easylife365
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
+ecovadis
 edgaronline
 edge
 edgegateway
@@ -1897,7 +1896,6 @@ environment-variables
 environmentmanagent
 environmentmodules
 environments
-environmentvariable
 environmentvariables
 envvar
 envvars
@@ -2108,6 +2106,7 @@ file-type-association
 fileencryption
 filelist
 filelog
+filelogger
 filemanagement
 filematcher
 filename
@@ -2212,7 +2211,6 @@ fortigate
 fortigi
 fortimanager
 fortinet
-fortinetmanager
 fortios
 fortune
 forum
@@ -2289,9 +2287,7 @@ gemlog
 gemtext
 general
 generate
-generateaddress
 generates
-generatewif
 generation
 generator
 generic
@@ -2847,7 +2843,6 @@ iperf
 ipfy.org
 iphone
 ipilot
-iplookup
 ipmaths
 ipp
 iprange
@@ -2945,6 +2940,7 @@ justenoughadministration
 jwk
 jws
 jwt
+jwttoken
 k8s
 kafka
 kaminario
@@ -3263,6 +3259,7 @@ managedserviceproviders
 managedservices
 manageengine
 management
+managementagent
 managementdashboard
 managementgroups
 managementpoint
@@ -3461,6 +3458,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 money
@@ -3598,7 +3596,6 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
-nederland
 nedyalkov
 neo4j
 neptune
@@ -3713,7 +3710,6 @@ npslogfile
 nrc
 nrql
 ns
-ns.nl
 nsg
 nslookup
 nsx
@@ -4475,7 +4471,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -4899,7 +4894,6 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 sam
@@ -4975,6 +4969,7 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
+scrap
 scrape
 scraper
 screen
@@ -4999,7 +4994,6 @@ scripting
 scriptlogging
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -5290,7 +5284,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 snugglepup
@@ -5430,7 +5423,6 @@ ssl
 sslcertificate
 ssllabs
 ssllabs-scan
-sslprotocol
 ssm
 sso
 sspr
@@ -5790,7 +5782,6 @@ title
 tls
 tls11
 tls12
-tlsprotocol
 toast
 toasts
 tobias
@@ -5829,7 +5820,6 @@ tracking
 trafficfiltering
 trafficmanager
 trafficmarking
-train
 training
 tram
 transact
@@ -5853,7 +5843,6 @@ trec
 tree
 treesize
 treffynnon
-trein
 trello
 trellops
 trendmicro
@@ -5897,6 +5886,7 @@ twitter-api
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -5944,7 +5934,6 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
-ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -6297,6 +6286,7 @@ wasabi
 watch
 watchmen
 watery
+wave
 wayk
 waykagent
 waykbastion
@@ -6368,7 +6358,6 @@ whois
 whormi
 wi-fi
 wid
-wif
 wifi
 wiki
 wildcard
@@ -6403,7 +6392,6 @@ windows-remoting
 windows-server-2016
 windows10
 windows10mui
-windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
@@ -6416,7 +6404,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsmanagementframework
 windowsplugins
 windowspowershell
 windowspresentationfoundation
@@ -6462,7 +6449,6 @@ wisdom
 with
 wkhtmltopdf
 wlan
-wmf
 wmf5
 wmi
 wmifilter
@@ -6583,7 +6569,6 @@ xmlutils
 xoauth2
 xor
 xpath
-xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -6593,7 +6578,6 @@ xtremio
 xtrude
 xunit
 xwiki
-xwindowsupdate
 yahoo
 yahw
 yamaha

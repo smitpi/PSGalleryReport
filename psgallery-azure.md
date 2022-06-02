@@ -19,7 +19,7 @@ __Downloads__: 889 | __Repository__:
 
 PowerShell module to help with CI&CD for Azure Synapse, mainly to publish to Synapse Workspace service in multiple environments. Check https://github.com/SQLPlayer/azure.synapse.tools/ & https://sqlplayer.net/synapse/
 
-__Downloads__: 860 | __Repository__: https://github.com/SQLPlayer/azure.synapse.tools/
+__Downloads__: 857 | __Repository__: https://github.com/SQLPlayer/azure.synapse.tools/
 
 ## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.17) | 1.0.17
 
@@ -132,7 +132,7 @@ __Downloads__: 26,012 | __Repository__: https://aka.ms/ps-rule-azure
 
 PowerShell module to help with CI&CD for Azure Data Factory, mainly to publish to ADF service in multiple environments. Check https://github.com/SQLPlayer/azure.datafactory.tools/ & https://sqlplayer.net/adf/
 
-__Downloads__: 65,364 | __Repository__: https://github.com/SQLPlayer/azure.datafactory.tools/
+__Downloads__: 65,365 | __Repository__: https://github.com/SQLPlayer/azure.datafactory.tools/
 
 ## [AzureConnectedMachineDsc](https://www.powershellgallery.com/Packages/AzureConnectedMachineDsc/1.3.0) | 1.3.0
 
@@ -164,7 +164,7 @@ __Downloads__: 9,263 | __Repository__: https://github.com/Dejulia489/AzurePipeli
 
 This module exports all the Azure AD objects and Identity related settings in your tenant.
 
-__Downloads__: 2,529 | __Repository__: https://github.com/microsoft/azureadexporter
+__Downloads__: 2,530 | __Repository__: https://github.com/microsoft/azureadexporter
 
 ## [AzureDevOps.Services.OpenApi](https://www.powershellgallery.com/Packages/AzureDevOps.Services.OpenApi/1.0.0) | 1.0.0
 
@@ -279,7 +279,7 @@ __Downloads__: 1,260 | __Repository__: https://github.com/microsoft/AzureADToolk
 
 Module for Azure management used for Omnia.
 
-__Downloads__: 4,393 | __Repository__: 
+__Downloads__: 4,392 | __Repository__: 
 
 ## [CPolydorou.Azure.WebApp](https://www.powershellgallery.com/Packages/CPolydorou.Azure.WebApp/1.0.2) | 1.0.2
 
@@ -368,7 +368,7 @@ __Downloads__: 93 | __Repository__:
 
 Cmdlet and alias to make the use of Azure CLI a bit more PowerShell friendly. Process output of Azure CLI from JSON to custom objects.
 
-__Downloads__: 4,525 | __Repository__: https://github.com/dtewinkel/AzureCli
+__Downloads__: 4,522 | __Repository__: https://github.com/dtewinkel/AzureCli
 
 ## [azure.databricks.cicd.tools](https://www.powershellgallery.com/Packages/azure.databricks.cicd.tools/2.2.5727) | 2.2.5727
 
@@ -376,7 +376,7 @@ __Downloads__: 4,525 | __Repository__: https://github.com/dtewinkel/AzureCli
 
 PowerShell module to help with Azure Databricks CI & CD Scenarios by simplifying the API or CLI calls into idempotent commands. See https://github.com/DataThirstLtd/azure.databricks.cicd.tools & https://datathirst.net
 
-__Downloads__: 409,716 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
+__Downloads__: 409,740 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
 
 ## [Om.Azure](https://www.powershellgallery.com/Packages/Om.Azure/0.0.2) | 0.0.2
 
@@ -540,7 +540,7 @@ __Downloads__: 625 | __Repository__: https://github.com/christaylorcodes/AzureKe
 
 Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
 
-__Downloads__: 1,346,311 | __Repository__: 
+__Downloads__: 1,346,309 | __Repository__: 
 
 ## [AzureADAuthMethods](https://www.powershellgallery.com/Packages/AzureADAuthMethods/1.2.2) | 1.2.2
 
@@ -1022,6 +1022,14 @@ A module for data retrieval from Azure App Configuration
 
 __Downloads__: 456 | __Repository__: https://github.com/mieel/PSAzureAppConfiguration
 
+## [EcoVadis.AzureDevOps](https://www.powershellgallery.com/Packages/EcoVadis.AzureDevOps/0.0.24) | 0.0.24
+
+### Published: 02/11/2021 13:55:52 by Pawel Wujczyk
+
+Creates item in the stealing category in the EcoVadis TFS.
+
+__Downloads__: 313 | __Repository__: https://github.com/pwujczyk/EcoVadis.AzureDevOps
+
 ## [AzureDatacenterIPOrNo](https://www.powershellgallery.com/Packages/AzureDatacenterIPOrNo/1.2.0) | 1.2.0
 
 ### Published: 02/03/2021 19:57:44 by Janne Mattila
@@ -1044,7 +1052,7 @@ __Downloads__: 184 | __Repository__: https://www.kelverion.com/runbook-azure-mon
 
 Manage Modules for an Azure Version Profile. This allows selecting the Azure cmdlets that are compatible with an AzureStack instance, an Azure sovereign cloud, or across Azure instances.
 
-__Downloads__: 139,287 | __Repository__: 
+__Downloads__: 139,286 | __Repository__: 
 
 ## [AzureDataManagementCmdlets](https://www.powershellgallery.com/Packages/AzureDataManagementCmdlets/20.0.7654.0) | 20.0.7654.0
 
@@ -1127,7 +1135,7 @@ __Downloads__: 250 | __Repository__:
 
 Security Scanner for Azure DevOps (ADO)
 
-__Downloads__: 25,026 | __Repository__: https://github.com/azsk/azsk-docs
+__Downloads__: 25,027 | __Repository__: https://github.com/azsk/azsk-docs
 
 ## [AzSKPreview.AzureDevOps](https://www.powershellgallery.com/Packages/AzSKPreview.AzureDevOps/1.0.16) | 1.0.16
 
@@ -1872,7 +1880,7 @@ __Downloads__: 198,865 | __Repository__:
 
 Azure IoT Hub Powershell Module
 
-__Downloads__: 4,603 | __Repository__: https://github.com/markscholman/AzureIoT
+__Downloads__: 4,602 | __Repository__: https://github.com/markscholman/AzureIoT
 
 ## [AzureRM.Compute.Experiments](https://www.powershellgallery.com/Packages/AzureRM.Compute.Experiments/1.0.25) | 1.0.25
 
@@ -2076,12 +2084,4 @@ Create and use password repository hosted on Azure Key Vault
 
 __Downloads__: 1,850 | __Repository__: 
 
-## [AzureAutomationRunbookUtilities](https://www.powershellgallery.com/Packages/AzureAutomationRunbookUtilities/1.2) | 1.2
-
-### Published: 12/19/2016 20:13:09 by Jeffrey Fanjoy
-
-A set of utility commands for use with Azure Automation runbooks.
-
-__Downloads__: 1,482 | __Repository__: 
-
-*Updated: Wednesday, 01 June 2022 17:55:45 UTC*
+*Updated: Thursday, 02 June 2022 02:37:20 UTC*
