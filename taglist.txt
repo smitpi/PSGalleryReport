@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 03 June 2022 02:29:45 UTC
+Updated: Friday, 03 June 2022 09:52:45 UTC
 
 ?:
 ??
@@ -44,7 +44,6 @@ Updated: Friday, 03 June 2022 02:29:45 UTC
 3dprinting
 3par
 50
-64
 650
 650flb
 7
@@ -507,16 +506,13 @@ azautomation
 azcli
 azcompute
 azd
-azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
-aznetworkinterface
 aznicdetails
 azops
-azpublicipaddress
 azresources
 azsdk
 azsk
@@ -1756,7 +1752,6 @@ ds-utils
 dsa
 dsacls
 dsc
-dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
@@ -2254,7 +2249,6 @@ fudge
 fudgepop
 fujitsu
 full
-full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
@@ -2526,8 +2520,6 @@ heavenbay
 helix
 hello
 helloid
-helloposhgallery
-helloworld
 helmet
 help
 helper
@@ -3180,7 +3172,6 @@ logicmonitor
 login
 login-azurermaccount
 login-rdp
-loginscreen
 loginsight
 logistic
 logitech
@@ -3253,7 +3244,6 @@ mails
 main
 main-menu
 maintenance
-maintenance-window
 maintenancewindows
 make
 maker
@@ -4026,7 +4016,6 @@ passwordspray
 passwordstate
 passwordtool
 passwordvault
-passwordwolf
 paste
 patch
 patches
@@ -4780,7 +4769,6 @@ resource
 resource_monitor
 resource_watcher
 resourceaccount
-resourcecontroller
 resourcegroup
 resourceid
 resourcekit
@@ -4964,7 +4952,6 @@ scheduled-tasks
 scheduledjob
 scheduledtasks
 scheduler
-schedules-execution
 scheduling
 schema
 schemaextensions
@@ -5567,7 +5554,6 @@ superheros
 supermarket
 support
 suppress
-supress-reboot
 surround
 survey
 surveymonkey
