@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 03 June 2022 17:53:34 UTC
+Updated: Saturday, 04 June 2022 02:28:58 UTC
 
 ?:
 ??
@@ -154,7 +154,6 @@ adfstools
 adgroupmemberobjects
 adgroups
 adif
-adm
 admf
 admin
 admin-tools
@@ -314,7 +313,6 @@ app.config
 appclusive
 appcmd
 appconfiguration
-appdynamics
 appearance
 appender
 appian
@@ -330,7 +328,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-appmgmtcontrol
 apppool
 appraiser
 approve
@@ -517,7 +514,6 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
 azstate
@@ -570,7 +566,6 @@ azurepack
 azurepipelines
 azurepolicy
 azureresourcemanager
-azureresources
 azurerm
 azurerms
 azurerunasconnection
@@ -836,7 +831,6 @@ cblueshell
 cbr
 cchoco
 cchocoex
-ccm
 cd
 cd_path
 cd-
@@ -1183,7 +1177,6 @@ connectednetwork
 connectexchange
 connection
 connections
-connectionsmanager
 connectionstring
 connectwise
 console
@@ -1592,7 +1585,6 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
-dilbert
 dimcry
 dircolors
 direct
@@ -1848,7 +1840,6 @@ elk
 elm
 elonmusk
 eloqua
-elvui
 em
 emacs
 email
@@ -2526,8 +2517,6 @@ heavenbay
 helix
 hello
 helloid
-helloposhgallery
-helloworld
 helmet
 help
 helper
@@ -2875,7 +2864,6 @@ iselevated
 isesteroids
 ish
 ishexstring
-ism
 isnumeric
 iso
 iso-3166-1
@@ -2894,7 +2882,6 @@ itop
 itsm
 itstore
 ivanti
-ivantips
 ivb
 ivdc
 iwi
@@ -3040,8 +3027,6 @@ laps
 laragon
 laserbeams
 last
-last.fm
-lastfm
 lastlogon
 lastpass
 latency
@@ -3578,7 +3563,6 @@ mx
 mxlookup
 mycloudrevolution
 myhub
-myitprocess
 myjson
 myjson.com
 myob
@@ -3737,7 +3721,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 null-coalescing
 number
 numlock
@@ -4719,8 +4702,6 @@ remote
 remote-desktop
 remote'
 remotecert
-remoteconnection
-remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -4782,7 +4763,6 @@ resource_watcher
 resourceaccount
 resourcecontroller
 resourcegroup
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -5379,7 +5359,6 @@ speedtest
 speedtester
 spf
 spi
-spinnaker
 splat
 splatting
 split
@@ -5392,7 +5371,6 @@ sports-tracker
 spotify
 spotify-api
 spotlight
-spotlightimages
 spp
 spread
 spreadsheet
@@ -5632,7 +5610,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -5709,7 +5686,6 @@ template
 template-engine
 templates
 templating
-temporary
 tenable
 tenable.sc
 tenant
@@ -5752,7 +5728,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textwrapping
 tfe
@@ -6454,7 +6429,6 @@ winform
 winforms
 winget
 wingetbridge
-winrar
 winrm
 winrs
 winrt
@@ -6514,7 +6488,6 @@ workstation
 world
 worldcup
 worryfreebusinesssecurity
-wow
 wpad
 wpf
 wrap
@@ -6598,7 +6571,6 @@ xoauth2
 xor
 xpath
 xpendingreboot
-xpertdoc
 xpo
 xprotect
 xrm
