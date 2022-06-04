@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 04 June 2022 02:28:58 UTC
+Updated: Saturday, 04 June 2022 09:52:35 UTC
 
 ?:
 ??
@@ -313,6 +313,7 @@ app.config
 appclusive
 appcmd
 appconfiguration
+appdynamics
 appearance
 appender
 appian
@@ -514,6 +515,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azstate
@@ -566,6 +568,7 @@ azurepack
 azurepipelines
 azurepolicy
 azureresourcemanager
+azureresources
 azurerm
 azurerms
 azurerunasconnection
@@ -831,6 +834,7 @@ cblueshell
 cbr
 cchoco
 cchocoex
+ccm
 cd
 cd_path
 cd-
@@ -1177,6 +1181,7 @@ connectednetwork
 connectexchange
 connection
 connections
+connectionsmanager
 connectionstring
 connectwise
 console
@@ -1345,7 +1350,6 @@ current
 custom
 customchecks
 customer
-customerengagement
 customers
 customevents
 custominformationservices
@@ -1372,7 +1376,6 @@ cylance
 cypher
 cyrillic
 d365
-d365ce
 d365f&o
 d365fo
 d365lbd
@@ -1585,6 +1588,7 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
+dilbert
 dimcry
 dircolors
 direct
@@ -1712,7 +1716,6 @@ download
 downloadinfo
 downloading
 downloads
-dpa
 dpapi
 dps
 dq
@@ -1748,7 +1751,6 @@ ds-utils
 dsa
 dsacls
 dsc
-dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
@@ -1789,9 +1791,7 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
-dynamics365ce
 dynamics365fo
-dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -1840,6 +1840,7 @@ elk
 elm
 elonmusk
 eloqua
+elvui
 em
 emacs
 email
@@ -2218,14 +2219,12 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
-foudil
 fox
 foxpro
 fqdn
 framework
 france
 freeipa
-freenas
 freesoftwarefoundation
 freshbooks
 freshdesk
@@ -2517,6 +2516,8 @@ heavenbay
 helix
 hello
 helloid
+helloposhgallery
+helloworld
 helmet
 help
 helper
@@ -2864,6 +2865,7 @@ iselevated
 isesteroids
 ish
 ishexstring
+ism
 isnumeric
 iso
 iso-3166-1
@@ -2882,6 +2884,7 @@ itop
 itsm
 itstore
 ivanti
+ivantips
 ivb
 ivdc
 iwi
@@ -3027,6 +3030,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -3238,7 +3243,6 @@ mails
 main
 main-menu
 maintenance
-maintenance-window
 maintenancewindows
 make
 maker
@@ -3341,7 +3345,6 @@ megabyte
 meltdown
 mem
 member
-members
 membership
 memcm
 memory
@@ -3563,6 +3566,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myitprocess
 myjson
 myjson.com
 myob
@@ -3721,6 +3725,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 null-coalescing
 number
 numlock
@@ -3849,7 +3854,6 @@ openhere
 openidconnect
 openinghours
 openport
-openscad
 opensourceinitiative
 openssh
 openssl
@@ -4359,7 +4363,6 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
-ps1
 ps1xml
 ps1xmlgen
 ps2exe
@@ -4702,6 +4705,8 @@ remote
 remote-desktop
 remote'
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -4761,8 +4766,8 @@ resource
 resource_monitor
 resource_watcher
 resourceaccount
-resourcecontroller
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -4944,7 +4949,6 @@ scheduled-tasks
 scheduledjob
 scheduledtasks
 scheduler
-schedules-execution
 scheduling
 schema
 schemaextensions
@@ -5030,8 +5034,6 @@ securesphere
 securestring
 security
 security-policy
-security-txt
-security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -5042,7 +5044,6 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
-securitytxt
 seek
 seekatar
 seeshell
@@ -5359,6 +5360,7 @@ speedtest
 speedtester
 spf
 spi
+spinnaker
 splat
 splatting
 split
@@ -5371,6 +5373,7 @@ sports-tracker
 spotify
 spotify-api
 spotlight
+spotlightimages
 spp
 spread
 spreadsheet
@@ -5545,7 +5548,6 @@ superheros
 supermarket
 support
 suppress
-supress-reboot
 surround
 survey
 surveymonkey
@@ -5610,6 +5612,7 @@ systeminformation
 systemlocale
 systems
 systemsplash
+systray
 t
 t-sql
 tab
@@ -5686,6 +5689,7 @@ template
 template-engine
 templates
 templating
+temporary
 tenable
 tenable.sc
 tenant
@@ -5728,6 +5732,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textwrapping
 tfe
@@ -5914,7 +5919,6 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
-ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -6032,7 +6036,6 @@ upsource
 upstream
 uptime
 uptimerobot
-uptobox
 uri
 uri-scheme
 url
@@ -6309,7 +6312,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -6429,6 +6431,7 @@ winform
 winforms
 winget
 wingetbridge
+winrar
 winrm
 winrs
 winrt
@@ -6488,6 +6491,7 @@ workstation
 world
 worldcup
 worryfreebusinesssecurity
+wow
 wpad
 wpf
 wrap
@@ -6571,6 +6575,7 @@ xoauth2
 xor
 xpath
 xpendingreboot
+xpertdoc
 xpo
 xprotect
 xrm
