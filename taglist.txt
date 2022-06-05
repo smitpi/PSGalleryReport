@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 05 June 2022 09:52:30 UTC
+Updated: Sunday, 05 June 2022 17:53:40 UTC
 
 ?:
 ??
@@ -1234,6 +1234,7 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1267,8 +1268,10 @@ covid
 covid-19
 cppm
 cpu
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crayon
 crc
@@ -1287,6 +1290,7 @@ credential-file
 credential-files
 credential-manager
 credentiallocker
+credentialmanagement
 credentialmanager
 credentialprovider
 credentials
@@ -1306,6 +1310,7 @@ cron
 crontab
 cropping
 cross-platform
+cross-reference
 crossjoin
 crossover
 crossplatform
@@ -1712,6 +1717,7 @@ dots
 dotteddecimalip
 doubleclick
 download
+downloader
 downloadinfo
 downloading
 downloads
@@ -2005,6 +2011,7 @@ exe
 exec
 executable
 executables
+execute
 exexml
 exif
 exiftool
@@ -2221,6 +2228,7 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
+foudil
 fox
 foxpro
 fqdn
@@ -2399,6 +2407,7 @@ gopher+
 gopherplus
 governance
 gp
+gpedit
 gpg
 gping
 gpio
@@ -3054,7 +3063,6 @@ lcm
 lcminternals
 ldap
 league
-lean
 learn
 learning
 learningpowershell
@@ -3100,6 +3108,7 @@ linearalgebra
 link
 linkedin
 linkedinads
+linkid
 linq
 linqpad
 lint
@@ -3125,11 +3134,11 @@ lmhosts
 lms
 load
 loadbalancer
-loadbalancer.org
 loanddepot
 loandepot
 local
 local-caching
+local-policy
 localadmin
 localconfigurationmanager
 localdb
@@ -3350,7 +3359,6 @@ megabyte
 meltdown
 mem
 member
-members
 membership
 memcm
 memory
@@ -3433,7 +3441,6 @@ mimekit
 min
 mindmeister
 minifier
-minimal
 minimum
 mip
 mipsdk
@@ -3950,7 +3957,6 @@ oxyplot
 p2000
 p2s
 pa1reg
-paas
 pac
 pack
 package
@@ -3997,7 +4003,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pass
 passcode
 passivetotal
@@ -4190,7 +4195,6 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
-position
 postgre
 postgres
 postgresql
@@ -4320,6 +4324,7 @@ product
 productid
 productivity
 productmedia
+products
 productstate
 profile
 profiler
@@ -4386,7 +4391,6 @@ psadbscreencap
 psadt
 psake
 psappdeploytoolkit
-psazd
 psbackup
 psbbix
 psbicep
@@ -4570,6 +4574,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qrcode
 qrp
@@ -4688,6 +4693,7 @@ refactor
 refeds
 refeds-mfa
 refedsmfa
+reference
 reflect
 reflection
 refresh
@@ -4774,7 +4780,6 @@ resize
 resolution
 resolve
 resolve-stache
-resolve-template
 resolver
 resource
 resource_monitor
@@ -4870,6 +4875,7 @@ rsa
 rsat
 rshell
 rsjob
+rsop
 rss
 rt
 rtu
@@ -5050,6 +5056,8 @@ securesphere
 securestring
 security
 security-policy
+security-txt
+security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -5060,6 +5068,7 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
+securitytxt
 seek
 seekatar
 seeshell
@@ -5710,7 +5719,6 @@ template
 template-engine
 templates
 templating
-temporary
 tenable
 tenable.sc
 tenant
@@ -5725,7 +5733,6 @@ ternary
 terraform
 terraformcloud
 terrafun
-tesla
 test
 test-dscconfiguration
 test-modulepath
@@ -5942,6 +5949,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6080,7 +6088,6 @@ user
 user-environment
 userdiscovery
 usergroup
-userinterface
 usermanagement
 username
 userprofile
@@ -6089,6 +6096,7 @@ userrights
 userrightsassignment
 users
 userworkstations
+usg
 usps
 utc
 utf-8
@@ -6272,7 +6280,6 @@ vssetup
 vsshell
 vst
 vsteambuilder
-vsteams
 vstest
 vsts
 vsts-cli
@@ -6408,7 +6415,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-registry
