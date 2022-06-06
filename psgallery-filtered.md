@@ -5,6 +5,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.10.1) | 2.10.1
+
+### Published: 06/05/2022 22:41:14 by Reuben Miller
+
+Cumulocity REST API
+
+__Downloads__: 1,309 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
+
+## [YetAnotherCMLogger](https://www.powershellgallery.com/Packages/YetAnotherCMLogger/1.0.0.0) | 1.0.0.0
+
+### Published: 06/05/2022 20:12:05 by Powershellcrack
+
+Another way to log entries in CMtrace format
+
+__Downloads__: 0 | __Repository__: https://github.com/PowerShellCrack/YetAnotherCMLoggerPSmodule
+
+## [DownloadInfo](https://www.powershellgallery.com/Packages/DownloadInfo/3.1.1) | 3.1.1
+
+### Published: 06/05/2022 19:30:08 by Fabrice Sanga
+
+Download information relative to updating an application hosted on GitHub, Omaha and SourceForge.
+
+__Downloads__: 6 | __Repository__: https://github.com/sangafabrice/download-info
+
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.459) | 1.0.459
 
 ### Published: 06/05/2022 17:14:26 by Feodor Fitsner
@@ -19,7 +43,7 @@ __Downloads__: 9,201 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,636,449 | __Repository__: https://dbatools.io/
+__Downloads__: 1,636,459 | __Repository__: https://dbatools.io/
 
 ## [LGPO](https://www.powershellgallery.com/Packages/LGPO/1.0.3.4) | 1.0.3.4
 
@@ -134,7 +158,7 @@ __Downloads__: 878 | __Repository__: https://www.github.com/alt3/Docusaurus.Powe
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 1,917,531 | __Repository__: http://psframework.org/
+__Downloads__: 1,917,632 | __Repository__: http://psframework.org/
 
 ## [PSReleaseTools](https://www.powershellgallery.com/Packages/PSReleaseTools/1.12.0) | 1.12.0
 
@@ -150,7 +174,7 @@ __Downloads__: 16,946 | __Repository__: https://github.com/jdhitsolutions/PSRele
 
 This module contains DSC resources for deployment and configuration of Microsoft Hyper-V.
 
-__Downloads__: 244,277 | __Repository__: https://github.com/dsccommunity/xHyper-V
+__Downloads__: 244,304 | __Repository__: https://github.com/dsccommunity/xHyper-V
 
 ## [SnsMsSqlPsModule](https://www.powershellgallery.com/Packages/SnsMsSqlPsModule/0.0.0.1) | 0.0.0.1
 
@@ -404,7 +428,7 @@ __Downloads__: 6 | __Repository__: https://github.com/ehmiiz/PSHangMan
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,902,257 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,902,265 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [PSSqlPatch](https://www.powershellgallery.com/Packages/PSSqlPatch/1.1.62) | 1.1.62
 
@@ -462,14 +486,6 @@ Provides basic cmdlets to connect and invoke commands against SQL Server and Azu
 
 __Downloads__: 20,188 | __Repository__: https://github.com/sharpjs/PSql
 
-## [DownloadInfo](https://www.powershellgallery.com/Packages/DownloadInfo/3.0.0) | 3.0.0
-
-### Published: 06/01/2022 19:55:48 by Fabrice Sanga
-
-Download information relative to updating an application hosted on GitHub, Omaha and SourceForge.
-
-__Downloads__: 6 | __Repository__: https://github.com/sangafabrice/download-info
-
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.1.0) | 2.1.1.0
 
 ### Published: 06/01/2022 19:40:01 by Bentley Systems Incorporated
@@ -524,7 +540,7 @@ __Downloads__: 4 | __Repository__:
 
 OSDCloud Azure Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 221,070 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 221,071 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.0.4) | 3.0.4
 
@@ -548,7 +564,7 @@ __Downloads__: 1,959 | __Repository__: https://github.com/mrochon/IEFPolicies
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 233,278 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 233,284 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.29) | 0.0.29
 
@@ -556,7 +572,7 @@ __Downloads__: 233,278 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 232,845 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 232,851 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.17) | 0.0.17
 
@@ -564,7 +580,7 @@ __Downloads__: 232,845 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 261,693 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 261,699 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [Leankit](https://www.powershellgallery.com/Packages/Leankit/0.0.5) | 0.0.5
 
@@ -1503,14 +1519,6 @@ PowerShell Module for GitHub
 
 __Downloads__: 212 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Interactions](https://www.powershellgallery.com/Packages/GitHub.Interactions/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:14:08 by Marius Storhaug
-
-PowerShell Module for GitHub.Interactions
-
-__Downloads__: 101 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Projects](https://www.powershellgallery.com/Packages/GitHub.Projects/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:14:03 by Marius Storhaug
@@ -1551,14 +1559,6 @@ PowerShell Module for GitHub.CodeScanning
 
 __Downloads__: 107 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:58 by Marius Storhaug
-
-PowerShell Module for GitHub.SecretScanning
-
-__Downloads__: 102 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.EnterpriseAdmin](https://www.powershellgallery.com/Packages/GitHub.EnterpriseAdmin/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:58 by Marius Storhaug
@@ -1566,14 +1566,6 @@ __Downloads__: 102 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.EnterpriseAdmin
 
 __Downloads__: 119 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:58 by Marius Storhaug
-
-PowerShell Module for GitHub.Activity
-
-__Downloads__: 126 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Packages](https://www.powershellgallery.com/Packages/GitHub.Packages/0.0.8) | 0.0.8
 
@@ -1591,6 +1583,30 @@ PowerShell Module for GitHub.Codespaces
 
 __Downloads__: 112 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
+## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:58 by Marius Storhaug
+
+PowerShell Module for GitHub.SecretScanning
+
+__Downloads__: 102 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:58 by Marius Storhaug
+
+PowerShell Module for GitHub.Activity
+
+__Downloads__: 126 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Git](https://www.powershellgallery.com/Packages/GitHub.Git/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:57 by Marius Storhaug
+
+PowerShell Module for GitHub.Git
+
+__Downloads__: 114 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
 ## [GitHub.Users](https://www.powershellgallery.com/Packages/GitHub.Users/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:57 by Marius Storhaug
@@ -1607,14 +1623,6 @@ PowerShell Module for GitHub.Commits
 
 __Downloads__: 93 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Git](https://www.powershellgallery.com/Packages/GitHub.Git/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:57 by Marius Storhaug
-
-PowerShell Module for GitHub.Git
-
-__Downloads__: 114 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Reactions](https://www.powershellgallery.com/Packages/GitHub.Reactions/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:56 by Marius Storhaug
@@ -1622,14 +1630,6 @@ __Downloads__: 114 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Reactions
 
 __Downloads__: 100 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Actions](https://www.powershellgallery.com/Packages/GitHub.Actions/0.0.9) | 0.0.9
-
-### Published: 05/30/2022 20:13:55 by Marius Storhaug
-
-PowerShell Module for GitHub.Actions
-
-__Downloads__: 122 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.SCIM](https://www.powershellgallery.com/Packages/GitHub.SCIM/0.0.8) | 0.0.8
 
@@ -1639,14 +1639,6 @@ PowerShell Module for GitHub.SCIM
 
 __Downloads__: 110 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:55 by Marius Storhaug
-
-PowerShell Module for GitHub.OAuthAuthorizations
-
-__Downloads__: 131 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.CodesOfConduct](https://www.powershellgallery.com/Packages/GitHub.CodesOfConduct/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:55 by Marius Storhaug
@@ -1655,21 +1647,21 @@ PowerShell Module for GitHub.CodesOfConduct
 
 __Downloads__: 115 | __Repository__: 
 
-## [GitHub.Repos](https://www.powershellgallery.com/Packages/GitHub.Repos/0.0.9) | 0.0.9
+## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.8) | 0.0.8
 
-### Published: 05/30/2022 20:13:54 by Marius Storhaug
+### Published: 05/30/2022 20:13:55 by Marius Storhaug
 
-PowerShell Module for GitHub.Repos
+PowerShell Module for GitHub.OAuthAuthorizations
 
-__Downloads__: 101 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 131 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.8) | 0.0.8
+## [GitHub.Actions](https://www.powershellgallery.com/Packages/GitHub.Actions/0.0.9) | 0.0.9
 
-### Published: 05/30/2022 20:13:54 by Marius Storhaug
+### Published: 05/30/2022 20:13:55 by Marius Storhaug
 
-PowerShell Module for GitHub.Issues
+PowerShell Module for GitHub.Actions
 
-__Downloads__: 108 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 122 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Migrations](https://www.powershellgallery.com/Packages/GitHub.Migrations/0.0.8) | 0.0.8
 
@@ -1679,13 +1671,21 @@ PowerShell Module for GitHub.Migrations
 
 __Downloads__: 102 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.8) | 0.0.8
+## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.8) | 0.0.8
 
-### Published: 05/30/2022 20:13:53 by Marius Storhaug
+### Published: 05/30/2022 20:13:54 by Marius Storhaug
 
-PowerShell Module for GitHub.Billing
+PowerShell Module for GitHub.Issues
 
-__Downloads__: 130 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 108 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Repos](https://www.powershellgallery.com/Packages/GitHub.Repos/0.0.9) | 0.0.9
+
+### Published: 05/30/2022 20:13:54 by Marius Storhaug
+
+PowerShell Module for GitHub.Repos
+
+__Downloads__: 101 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Checks](https://www.powershellgallery.com/Packages/GitHub.Checks/0.0.8) | 0.0.8
 
@@ -1695,6 +1695,14 @@ PowerShell Module for GitHub.Checks
 
 __Downloads__: 105 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
+## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:53 by Marius Storhaug
+
+PowerShell Module for GitHub.Billing
+
+__Downloads__: 130 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
 ## [GitHub.Collaborators](https://www.powershellgallery.com/Packages/GitHub.Collaborators/0.0.6) | 0.0.6
 
 ### Published: 05/30/2022 20:13:52 by Marius Storhaug
@@ -1702,14 +1710,6 @@ __Downloads__: 105 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Collaborators
 
 __Downloads__: 102 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.GitIgnore](https://www.powershellgallery.com/Packages/GitHub.GitIgnore/0.0.9) | 0.0.9
-
-### Published: 05/30/2022 20:13:52 by Marius Storhaug
-
-PowerShell Module for GitHub.Search
-
-__Downloads__: 105 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Apps](https://www.powershellgallery.com/Packages/GitHub.Apps/0.0.8) | 0.0.8
 
@@ -1719,11 +1719,11 @@ PowerShell Module for GitHub.Apps
 
 __Downloads__: 112 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.8) | 0.0.8
+## [GitHub.GitIgnore](https://www.powershellgallery.com/Packages/GitHub.GitIgnore/0.0.9) | 0.0.9
 
-### Published: 05/30/2022 20:13:51 by Marius Storhaug
+### Published: 05/30/2022 20:13:52 by Marius Storhaug
 
-PowerShell Module for GitHub.Teams
+PowerShell Module for GitHub.Search
 
 __Downloads__: 105 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
@@ -1735,6 +1735,14 @@ PowerShell Module for GitHub.GitIgnore
 
 __Downloads__: 124 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
+## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:51 by Marius Storhaug
+
+PowerShell Module for GitHub.Teams
+
+__Downloads__: 105 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
 ## [GitHub.Branches](https://www.powershellgallery.com/Packages/GitHub.Branches/0.0.6) | 0.0.6
 
 ### Published: 05/30/2022 20:13:50 by Marius Storhaug
@@ -1743,14 +1751,6 @@ PowerShell Module for GitHub.Branches
 
 __Downloads__: 93 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:49 by Marius Storhaug
-
-PowerShell Module for GitHub.Emojis
-
-__Downloads__: 116 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.8) | 0.0.8
 
 ### Published: 05/30/2022 20:13:49 by Marius Storhaug
@@ -1758,6 +1758,14 @@ __Downloads__: 116 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.RateLimit
 
 __Downloads__: 113 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.8) | 0.0.8
+
+### Published: 05/30/2022 20:13:49 by Marius Storhaug
+
+PowerShell Module for GitHub.Emojis
+
+__Downloads__: 116 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Licenses](https://www.powershellgallery.com/Packages/GitHub.Licenses/0.0.8) | 0.0.8
 
@@ -1799,14 +1807,6 @@ PowerShell Module for GitHub.Pulls
 
 __Downloads__: 108 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.7) | 0.0.7
-
-### Published: 05/30/2022 19:45:27 by Marius Storhaug
-
-PowerShell Module for GitHub.Meta
-
-__Downloads__: 124 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Webhooks](https://www.powershellgallery.com/Packages/GitHub.Webhooks/0.0.5) | 0.0.5
 
 ### Published: 05/30/2022 19:45:27 by Marius Storhaug
@@ -1814,6 +1814,14 @@ __Downloads__: 124 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Webhooks
 
 __Downloads__: 92 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.7) | 0.0.7
+
+### Published: 05/30/2022 19:45:27 by Marius Storhaug
+
+PowerShell Module for GitHub.Meta
+
+__Downloads__: 124 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Core](https://www.powershellgallery.com/Packages/GitHub.Core/0.0.18) | 0.0.18
 
@@ -1870,7 +1878,7 @@ __Downloads__: 8 | __Repository__: https://github.com/adamdriscoll/animated-lamp
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,594,490 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,594,496 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [OktaPosh](https://www.powershellgallery.com/Packages/OktaPosh/0.5.1) | 0.5.1
 
@@ -1974,7 +1982,7 @@ __Downloads__: 221 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 
-__Downloads__: 1,572,428 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
+__Downloads__: 1,572,432 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
 
 ## [ProductivityTools.PublishReadmeToWordpress](https://www.powershellgallery.com/Packages/ProductivityTools.PublishReadmeToWordpress/0.0.2) | 0.0.2
 
@@ -2006,7 +2014,7 @@ __Downloads__: 186,685 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 451,247 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 451,241 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [MEM-Win32App-Builder](https://www.powershellgallery.com/Packages/MEM-Win32App-Builder/0.1.4) | 0.1.4
 
@@ -2024,16 +2032,4 @@ Module covering functions that are shared within multiple projects
 
 __Downloads__: 135,726 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
-## [StepAutomation](https://www.powershellgallery.com/Packages/StepAutomation/1.0.3) | 1.0.3
-
-### Published: 05/28/2022 07:37:06 by Ogtay Garayev
-
-This module allows administrators, testers to automate sequential steps (configuration based).
-
-The module provides classes for automating operations. You can also easily extend the module with adding your own custom operations.
-
-The Module also provides classes for automating Web Page actions over Chrome Web Browser (e.g. navigating, clicking, text adding) and some default methods for this.
-
-__Downloads__: 16 | __Repository__: 
-
-*Updated: Sunday, 05 June 2022 17:53:27 UTC*
+*Updated: Monday, 06 June 2022 02:32:21 UTC*
