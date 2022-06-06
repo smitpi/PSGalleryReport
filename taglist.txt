@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 06 June 2022 09:53:03 UTC
+Updated: Monday, 06 June 2022 17:52:38 UTC
 
 ?:
 ??
@@ -39,7 +39,6 @@ Updated: Monday, 06 June 2022 09:53:03 UTC
 2fa
 300
 365
-36867
 3d
 3dprinting
 3par
@@ -194,7 +193,6 @@ aem
 aeries
 aeriessis
 aes
-afd
 affinity
 affinity-co
 affinity-crm
@@ -421,6 +419,7 @@ atlassiancli
 atlassianps
 atmosphere
 atrium
+att&ck
 attestation
 attila
 attilakrick
@@ -1029,7 +1028,6 @@ cloudmarque
 cloudservice
 clueser
 cluster
-clusterminimumvalues
 clusterplugins
 cmaccounts
 cmbuild
@@ -1180,6 +1178,7 @@ connectednetwork
 connectexchange
 connection
 connections
+connectionsmanager
 connectionstring
 connectwise
 console
@@ -1211,6 +1210,7 @@ continuousintegration
 control
 controller
 controlroom
+convereter
 converged_data_management
 conversational
 conversion
@@ -1340,6 +1340,9 @@ cumulocity
 curl
 curlie
 currency
+currency-convereter
+currency-exchange
+currencyconverterapi
 current
 custom
 customchecks
@@ -1441,7 +1444,6 @@ date
 date-random
 date-truncate
 dates
-datetaken
 datetime
 datto
 dattormm
@@ -1484,6 +1486,7 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deepvisibility
 def
 default
 defaultparameter
@@ -1694,6 +1697,7 @@ dok
 dokuwiki
 domain
 domains
+donothing
 dos
 dot
 dotenv
@@ -1703,6 +1707,7 @@ dotnet
 dotnet-cli
 dotnettool
 dotps1
+dots
 dotteddecimalip
 doubleclick
 download
@@ -1828,6 +1833,7 @@ einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
+element
 elevate
 elevated
 elevatedconsole
@@ -1980,6 +1986,7 @@ exception
 exceptionless
 exchange
 exchange_online
+exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2059,7 +2066,6 @@ farmanager
 fast
 fast-dds
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2078,7 +2084,6 @@ fetch
 ffmpeg
 fhirservice
 fiche
-fiddler
 fido
 fieldglass
 fifa
@@ -2172,6 +2177,7 @@ flex
 flex-query
 flexdesk
 flickr
+flowchart
 flowy
 flyway
 fmg
@@ -2212,7 +2218,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2470,7 +2475,6 @@ handle
 handler
 hangouts
 hannelstoolbox
-har
 hard
 hardblock
 harden
@@ -3113,14 +3117,12 @@ list-item
 listener
 litecoin
 litedb
-live
 lldp
 lmhost
 lmhosts
 lms
 load
 loadbalancer
-loadbalancer.org
 loanddepot
 loandepot
 local
@@ -3985,6 +3987,7 @@ parameters
 parclient
 pardot
 parititions
+parool
 parquet
 parse
 parser
@@ -4485,7 +4488,6 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
-psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -4583,7 +4585,6 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quota
 quote
 quotes
 quoting
@@ -4718,6 +4719,8 @@ remote
 remote-desktop
 remote'
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -4771,6 +4774,7 @@ resize
 resolution
 resolve
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -5095,6 +5099,7 @@ sensor
 sensors
 sensu
 sentinel
+sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5122,7 +5127,6 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
-servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5238,7 +5242,6 @@ sitemap
 siterecovery
 sites
 sitesystemserver
-sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5389,7 +5392,6 @@ sports-tracker
 spotify
 spotify-api
 spotlight
-spotlightimages
 spp
 spread
 spreadsheet
@@ -5581,6 +5583,7 @@ svt
 swagger
 swamid
 swarm
+swimlane
 swis
 switch
 sxs
@@ -5631,7 +5634,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -5657,7 +5659,6 @@ tagging
 tags
 tak
 taken
-tally
 talxis
 tanzu
 tar
@@ -6064,7 +6065,6 @@ url-encode
 url-shortener
 urlencode
 urlhaus
-urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6105,6 +6105,7 @@ utm
 uudecode
 uuencode
 uuid
+uw
 uwp
 ux
 vaas
@@ -6465,6 +6466,11 @@ winui
 wireless
 wirelessnetwork
 wireshark
+wisc
+wiscmail
+wisco365
+wisconsin-madison
+wisconsin'uw-madison
 wisdom
 with
 wkhtmltopdf
