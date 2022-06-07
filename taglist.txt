@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 07 June 2022 02:30:42 UTC
+Updated: Tuesday, 07 June 2022 09:52:31 UTC
 
 ?:
 ??
@@ -19,7 +19,6 @@ Updated: Tuesday, 07 June 2022 02:30:42 UTC
 💩
 1.1.1.1
 10
-11
 1607
 1703
 1709
@@ -361,7 +360,6 @@ arcus
 area
 argument
 argumentcompleter
-arguments
 arm
 arm-json
 arm-templates
@@ -407,6 +405,7 @@ assets
 assistance
 association
 ast
+astronomy
 asv
 asymmetric
 async
@@ -437,6 +436,7 @@ auditpolicy
 audits
 aumid
 aut
+auth0
 authenticate
 authentication
 authenticationcertificate
@@ -604,7 +604,6 @@ bank
 banking
 banner
 bar
-baremetal
 base
 base16
 base26
@@ -646,8 +645,6 @@ ber
 bestpractice
 bestpractices
 bi
-bibliography
-bibtex
 bicep
 bicepnet
 big-ip
@@ -682,8 +679,6 @@ bitwarden
 bitwig
 bitwise
 biztalk
-biztalkalm
-biztalkdeploymentframework
 bks
 black
 blackbaud
@@ -751,7 +746,6 @@ browserhistory
 brs
 bruteforce
 bson
-btdf
 btm
 budget
 bugzilla
@@ -881,7 +875,6 @@ cf
 cfn
 ch9
 change
-changeanalysis
 changelog
 channel
 channel9
@@ -917,6 +910,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+chooser
 christaylorcodes
 christmas
 chrome
@@ -1148,7 +1142,6 @@ conditionalaccess
 conduit
 conference
 confidentialclient
-confidentialledger
 config
 configapi
 configascode
@@ -1180,7 +1173,6 @@ connectednetwork
 connectexchange
 connection
 connections
-connectionsmanager
 connectionstring
 connectwise
 console
@@ -1241,7 +1233,6 @@ copy-item
 core
 coreposh
 corona
-corporate
 cortex
 cos
 cosmos
@@ -1642,6 +1633,7 @@ diving
 division
 divoom
 dkim
+dkschrutebeets
 dl
 dll
 dlmautomation
@@ -1977,7 +1969,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evidencelock
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2009,6 +2000,7 @@ exec
 executable
 executables
 execute
+exexml
 exif
 exiftool
 exists
@@ -2049,6 +2041,7 @@ extensions
 external
 externalip
 extract
+extreme-networks
 eztheme
 f
 f#
@@ -2067,7 +2060,6 @@ farmanager
 fast
 fast-dds
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2163,6 +2155,7 @@ first
 fisher
 fissionproducts
 fitbit
+fits
 five
 five9
 fix-log
@@ -2181,7 +2174,6 @@ flexdesk
 flickr
 flowchart
 flowy
-flyway
 fmg
 focus
 fod
@@ -2195,7 +2187,6 @@ fonts
 foo
 football
 for
-force
 forcedelete
 foreach
 forensic
@@ -2220,7 +2211,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2248,7 +2238,6 @@ ftps
 fudge
 fudgepop
 fujitsu
-full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2460,6 +2449,7 @@ gymnasium
 gz
 gzip
 ha
+haarlemsdagblad
 hack
 hacktoberfest
 hadoop
@@ -2579,6 +2569,8 @@ hosts
 hosts-file
 hostsfile
 hot-water
+hotkey
+hotkeys
 howto
 hp
 hpc
@@ -2762,7 +2754,6 @@ innerjoin
 innertext
 input
 inputbox
-inputobject
 insert
 insiderthreat
 insight
@@ -2884,6 +2875,7 @@ iterate
 iteration
 itg
 itglue
+itop
 itsm
 itstore
 ivanti
@@ -3107,7 +3099,6 @@ linting
 linux
 linux-command
 linuxssh
-liquid
 liquit
 liquit.com
 list
@@ -3117,8 +3108,6 @@ list-item
 listener
 litecoin
 litedb
-literature
-live
 lldp
 lmhost
 lmhosts
@@ -3177,6 +3166,7 @@ login
 login-azurermaccount
 login-rdp
 loginscreen
+loginsight
 logistic
 logitech
 logmail
@@ -3558,7 +3548,6 @@ multidimenstional
 multimedia
 multipass
 multiple
-multiserver
 multithread
 multithreaded
 multithreaded-helpers
@@ -3590,6 +3579,8 @@ name
 name-of-dogs
 namedpipe
 nameit
+nameresolution
+names
 namespace
 nana
 nano
@@ -3979,7 +3970,6 @@ panther
 panzerbjrn
 pap
 paper
-papis
 paradox
 parallel
 parameter
@@ -3997,7 +3987,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pass
 passcode
 passivetotal
@@ -4031,6 +4020,7 @@ path
 pathfinder
 patternmatching
 pause
+pax8
 paylocity
 paypal
 pays
@@ -4212,7 +4202,6 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
-powermax
 powerplan
 powerplateform
 powerplatform
@@ -4489,6 +4478,7 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
+psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -4504,7 +4494,6 @@ pstwitter
 pswa
 pswindocumentation
 pswinreporting
-pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -4586,7 +4575,6 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quota
 quote
 quotes
 quoting
@@ -4644,7 +4632,6 @@ rdsgw
 react-stockcharts
 read-slog
 readable
-readiness
 readme
 readthedocs
 realschule
@@ -4721,8 +4708,6 @@ remote
 remote-desktop
 remote'
 remotecert
-remoteconnection
-remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -5129,7 +5114,6 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
-servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5350,6 +5334,7 @@ source
 source-dedicated-server
 sourcecontrol
 sourceforge
+sourcegraph
 sourcemod
 sourceone
 sourcepawn
@@ -5609,6 +5594,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -5895,10 +5881,10 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tts
 tui
+tulpep
 tuner
 tutorial
 tv
@@ -6055,6 +6041,7 @@ updmgmt
 upgrade
 uplift
 uplink
+upn
 ups
 upsource
 upstream
@@ -6226,7 +6213,6 @@ vmhostnetworkadapater
 vmmanagement
 vmnic
 vmrole
-vms
 vmtovmhostrule
 vmtovmrule
 vmware
@@ -6368,7 +6354,6 @@ webtime
 wec
 wecutil
 weekday
-wef
 weixin
 well-known
 wem
@@ -6557,7 +6542,6 @@ wu
 wunderlist
 wvd
 www
-x-cart
 x.509
 x1
 x2
@@ -6575,6 +6559,7 @@ xbase
 xbox
 xclarity
 xdr
+xdschelper
 xdscresources
 xdt
 xel
@@ -6589,6 +6574,7 @@ xi
 xiaomi
 xkcd
 xliff
+xmc
 xml
 xml-rpc
 xml-transform
