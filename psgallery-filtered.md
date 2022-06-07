@@ -5,9 +5,1305 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [ps-direnv](https://www.powershellgallery.com/Packages/ps-direnv/1.0.1) | 1.0.1
+## [regexComparisonModule](https://www.powershellgallery.com/Packages/regexComparisonModule/1.1) | 1.1
 
-### Published: 06/06/2022 16:39:00 by Oliver Winks
+### Published: 06/07/2022 01:36:15 by Krystina Kyle
+
+Pre-built RegEx comparison cmdlets
+
+__Downloads__: 0 | __Repository__: 
+
+## [synaps.buildtasks](https://www.powershellgallery.com/Packages/synaps.buildtasks/0.3.6) | 0.3.6
+
+### Published: 06/06/2022 23:16:51 by corpo.coder@gmail.com
+
+Build Tasks for the synaPS build framework
+
+__Downloads__: 0 | __Repository__: https://github.com/ps-synaPS/synaps.buildtasks
+
+## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.10.12) | 2.10.12
+
+### Published: 06/06/2022 22:10:56 by Reuben Miller
+
+Cumulocity REST API
+
+__Downloads__: 1,312 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
+
+## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.2) | 1.2
+
+### Published: 06/06/2022 22:04:27 by Richard M. Hicks
+
+PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
+
+__Downloads__: 90 | __Repository__: 
+
+## [pspulumi.azurenative](https://www.powershellgallery.com/Packages/pspulumi.azurenative/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:40:36 by Worxspace
+
+Parent module containing all Azure Native modules required to create YAML/JSON definitions for pulumi
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.windowsesu](https://www.powershellgallery.com/Packages/pspulumi.azurenative.windowsesu/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:30:05 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.webpubsub](https://www.powershellgallery.com/Packages/pspulumi.azurenative.webpubsub/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:58 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.web](https://www.powershellgallery.com/Packages/pspulumi.azurenative.web/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:53 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.vmwarecloudsimple](https://www.powershellgallery.com/Packages/pspulumi.azurenative.vmwarecloudsimple/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:48 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.visualstudio](https://www.powershellgallery.com/Packages/pspulumi.azurenative.visualstudio/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:43 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.virtualmachineimages](https://www.powershellgallery.com/Packages/pspulumi.azurenative.virtualmachineimages/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:38 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.videoindexer](https://www.powershellgallery.com/Packages/pspulumi.azurenative.videoindexer/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:33 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.videoanalyzer](https://www.powershellgallery.com/Packages/pspulumi.azurenative.videoanalyzer/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:28 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.timeseriesinsights](https://www.powershellgallery.com/Packages/pspulumi.azurenative.timeseriesinsights/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:23 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.testbase](https://www.powershellgallery.com/Packages/pspulumi.azurenative.testbase/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:18 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.synapse](https://www.powershellgallery.com/Packages/pspulumi.azurenative.synapse/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:13 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.subscription](https://www.powershellgallery.com/Packages/pspulumi.azurenative.subscription/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:08 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.streamanalytics](https://www.powershellgallery.com/Packages/pspulumi.azurenative.streamanalytics/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:29:03 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.storsimple](https://www.powershellgallery.com/Packages/pspulumi.azurenative.storsimple/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:28:58 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.storagesync](https://www.powershellgallery.com/Packages/pspulumi.azurenative.storagesync/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:28:53 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.storagecache](https://www.powershellgallery.com/Packages/pspulumi.azurenative.storagecache/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:28:43 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.storage](https://www.powershellgallery.com/Packages/pspulumi.azurenative.storage/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:28:38 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.sqlvirtualmachine](https://www.powershellgallery.com/Packages/pspulumi.azurenative.sqlvirtualmachine/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:28:30 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.sql](https://www.powershellgallery.com/Packages/pspulumi.azurenative.sql/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:28:26 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.solutions](https://www.powershellgallery.com/Packages/pspulumi.azurenative.solutions/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:28:21 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.softwareplan](https://www.powershellgallery.com/Packages/pspulumi.azurenative.softwareplan/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:28:16 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.servicefabricmesh](https://www.powershellgallery.com/Packages/pspulumi.azurenative.servicefabricmesh/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:28:01 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.servicefabric](https://www.powershellgallery.com/Packages/pspulumi.azurenative.servicefabric/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:56 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.servicebus](https://www.powershellgallery.com/Packages/pspulumi.azurenative.servicebus/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:51 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.serialconsole](https://www.powershellgallery.com/Packages/pspulumi.azurenative.serialconsole/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:46 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.securityinsights](https://www.powershellgallery.com/Packages/pspulumi.azurenative.securityinsights/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:41 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.securityandcompliance](https://www.powershellgallery.com/Packages/pspulumi.azurenative.securityandcompliance/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:36 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.security](https://www.powershellgallery.com/Packages/pspulumi.azurenative.security/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:31 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.scvmm](https://www.powershellgallery.com/Packages/pspulumi.azurenative.scvmm/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:22 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.scheduler](https://www.powershellgallery.com/Packages/pspulumi.azurenative.scheduler/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:17 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.saas](https://www.powershellgallery.com/Packages/pspulumi.azurenative.saas/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:12 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.resources](https://www.powershellgallery.com/Packages/pspulumi.azurenative.resources/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:07 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.resourcegraph](https://www.powershellgallery.com/Packages/pspulumi.azurenative.resourcegraph/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:27:02 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.resourceconnector](https://www.powershellgallery.com/Packages/pspulumi.azurenative.resourceconnector/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:57 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.relay](https://www.powershellgallery.com/Packages/pspulumi.azurenative.relay/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:53 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.redhatopenshift](https://www.powershellgallery.com/Packages/pspulumi.azurenative.redhatopenshift/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:48 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.recoveryservices](https://www.powershellgallery.com/Packages/pspulumi.azurenative.recoveryservices/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:43 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.recommendationsservice](https://www.powershellgallery.com/Packages/pspulumi.azurenative.recommendationsservice/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:38 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.quantum](https://www.powershellgallery.com/Packages/pspulumi.azurenative.quantum/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:34 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.purview](https://www.powershellgallery.com/Packages/pspulumi.azurenative.purview/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:29 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.providerhub](https://www.powershellgallery.com/Packages/pspulumi.azurenative.providerhub/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:24 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.powerplatform](https://www.powershellgallery.com/Packages/pspulumi.azurenative.powerplatform/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:19 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.powerbidedicated](https://www.powershellgallery.com/Packages/pspulumi.azurenative.powerbidedicated/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:14 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.portal](https://www.powershellgallery.com/Packages/pspulumi.azurenative.portal/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:05 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.policyinsights](https://www.powershellgallery.com/Packages/pspulumi.azurenative.policyinsights/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:26:00 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.peering](https://www.powershellgallery.com/Packages/pspulumi.azurenative.peering/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:55 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.orbital](https://www.powershellgallery.com/Packages/pspulumi.azurenative.orbital/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:50 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.operationsmanagement](https://www.powershellgallery.com/Packages/pspulumi.azurenative.operationsmanagement/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:45 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.operationalinsights](https://www.powershellgallery.com/Packages/pspulumi.azurenative.operationalinsights/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:41 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.openenergyplatform](https://www.powershellgallery.com/Packages/pspulumi.azurenative.openenergyplatform/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:36 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.offazure](https://www.powershellgallery.com/Packages/pspulumi.azurenative.offazure/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:31 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.notificationhubs](https://www.powershellgallery.com/Packages/pspulumi.azurenative.notificationhubs/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:26 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumiyaml](https://www.powershellgallery.com/Packages/pspulumiyaml/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:22 by Worxspace
+
+Provides basic functionality to integrate with Pulumi YAML
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.network](https://www.powershellgallery.com/Packages/pspulumi.azurenative.network/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:20 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.netapp](https://www.powershellgallery.com/Packages/pspulumi.azurenative.netapp/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:15 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.mobilenetwork](https://www.powershellgallery.com/Packages/pspulumi.azurenative.mobilenetwork/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:10 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.mixedreality](https://www.powershellgallery.com/Packages/pspulumi.azurenative.mixedreality/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:05 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.migrate](https://www.powershellgallery.com/Packages/pspulumi.azurenative.migrate/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:25:00 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.marketplace](https://www.powershellgallery.com/Packages/pspulumi.azurenative.marketplace/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:51 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.maps](https://www.powershellgallery.com/Packages/pspulumi.azurenative.maps/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:46 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.managementpartner](https://www.powershellgallery.com/Packages/pspulumi.azurenative.managementpartner/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:41 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.management](https://www.powershellgallery.com/Packages/pspulumi.azurenative.management/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:37 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.managedservices](https://www.powershellgallery.com/Packages/pspulumi.azurenative.managedservices/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:32 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.managednetwork](https://www.powershellgallery.com/Packages/pspulumi.azurenative.managednetwork/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:27 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.managedidentity](https://www.powershellgallery.com/Packages/pspulumi.azurenative.managedidentity/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:22 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.maintenance](https://www.powershellgallery.com/Packages/pspulumi.azurenative.maintenance/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:18 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.machinelearningservices](https://www.powershellgallery.com/Packages/pspulumi.azurenative.machinelearningservices/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:13 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.machinelearningexperimentation](https://www.powershellgallery.com/Packages/pspulumi.azurenative.machinelearningexperimentation/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:08 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.machinelearningcompute](https://www.powershellgallery.com/Packages/pspulumi.azurenative.machinelearningcompute/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:24:04 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.machinelearning](https://www.powershellgallery.com/Packages/pspulumi.azurenative.machinelearning/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:59 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.m365securityandcompliance](https://www.powershellgallery.com/Packages/pspulumi.azurenative.m365securityandcompliance/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:54 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.logz](https://www.powershellgallery.com/Packages/pspulumi.azurenative.logz/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:49 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.logic](https://www.powershellgallery.com/Packages/pspulumi.azurenative.logic/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:45 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.labservices](https://www.powershellgallery.com/Packages/pspulumi.azurenative.labservices/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:35 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.kusto](https://www.powershellgallery.com/Packages/pspulumi.azurenative.kusto/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:30 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.kubernetesconfiguration](https://www.powershellgallery.com/Packages/pspulumi.azurenative.kubernetesconfiguration/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:25 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.kubernetes](https://www.powershellgallery.com/Packages/pspulumi.azurenative.kubernetes/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:20 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.keyvault](https://www.powershellgallery.com/Packages/pspulumi.azurenative.keyvault/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:15 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.iotsecurity](https://www.powershellgallery.com/Packages/pspulumi.azurenative.iotsecurity/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:23:11 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.hybridnetwork](https://www.powershellgallery.com/Packages/pspulumi.azurenative.hybridnetwork/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:22:45 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.hybriddata](https://www.powershellgallery.com/Packages/pspulumi.azurenative.hybriddata/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:22:41 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.hybridconnectivity](https://www.powershellgallery.com/Packages/pspulumi.azurenative.hybridconnectivity/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:22:36 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.hybridcompute](https://www.powershellgallery.com/Packages/pspulumi.azurenative.hybridcompute/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:22:31 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.hdinsight](https://www.powershellgallery.com/Packages/pspulumi.azurenative.hdinsight/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:22:17 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.hardwaresecuritymodules](https://www.powershellgallery.com/Packages/pspulumi.azurenative.hardwaresecuritymodules/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:22:12 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.hanaonazure](https://www.powershellgallery.com/Packages/pspulumi.azurenative.hanaonazure/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:22:08 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 1 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.guestconfiguration](https://www.powershellgallery.com/Packages/pspulumi.azurenative.guestconfiguration/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:22:03 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.fluidrelay](https://www.powershellgallery.com/Packages/pspulumi.azurenative.fluidrelay/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:21:58 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.features](https://www.powershellgallery.com/Packages/pspulumi.azurenative.features/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:21:54 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.extendedlocation](https://www.powershellgallery.com/Packages/pspulumi.azurenative.extendedlocation/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:21:49 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.eventhub](https://www.powershellgallery.com/Packages/pspulumi.azurenative.eventhub/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:21:44 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.engagementfabric](https://www.powershellgallery.com/Packages/pspulumi.azurenative.engagementfabric/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:21:26 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.elasticsan](https://www.powershellgallery.com/Packages/pspulumi.azurenative.elasticsan/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:21:21 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.elastic](https://www.powershellgallery.com/Packages/pspulumi.azurenative.elastic/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:21:16 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.education](https://www.powershellgallery.com/Packages/pspulumi.azurenative.education/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:21:11 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.domainregistration](https://www.powershellgallery.com/Packages/pspulumi.azurenative.domainregistration/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:57 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.documentdb](https://www.powershellgallery.com/Packages/pspulumi.azurenative.documentdb/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:52 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.digitaltwins](https://www.powershellgallery.com/Packages/pspulumi.azurenative.digitaltwins/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:47 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.devtestlab](https://www.powershellgallery.com/Packages/pspulumi.azurenative.devtestlab/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:42 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.devspaces](https://www.powershellgallery.com/Packages/pspulumi.azurenative.devspaces/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:37 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.devops](https://www.powershellgallery.com/Packages/pspulumi.azurenative.devops/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:32 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.deviceupdate](https://www.powershellgallery.com/Packages/pspulumi.azurenative.deviceupdate/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:28 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.devices](https://www.powershellgallery.com/Packages/pspulumi.azurenative.devices/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:23 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.desktopvirtualization](https://www.powershellgallery.com/Packages/pspulumi.azurenative.desktopvirtualization/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:18 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.deploymentmanager](https://www.powershellgallery.com/Packages/pspulumi.azurenative.deploymentmanager/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:13 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.delegatednetwork](https://www.powershellgallery.com/Packages/pspulumi.azurenative.delegatednetwork/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:07 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.dbforpostgresql](https://www.powershellgallery.com/Packages/pspulumi.azurenative.dbforpostgresql/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:20:03 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.dbformysql](https://www.powershellgallery.com/Packages/pspulumi.azurenative.dbformysql/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:58 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.dbformariadb](https://www.powershellgallery.com/Packages/pspulumi.azurenative.dbformariadb/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:53 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.datashare](https://www.powershellgallery.com/Packages/pspulumi.azurenative.datashare/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:48 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.datamigration](https://www.powershellgallery.com/Packages/pspulumi.azurenative.datamigration/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:38 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.datalakestore](https://www.powershellgallery.com/Packages/pspulumi.azurenative.datalakestore/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:33 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.datalakeanalytics](https://www.powershellgallery.com/Packages/pspulumi.azurenative.datalakeanalytics/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:28 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.datafactory](https://www.powershellgallery.com/Packages/pspulumi.azurenative.datafactory/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:23 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.datadog](https://www.powershellgallery.com/Packages/pspulumi.azurenative.datadog/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:18 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.datacatalog](https://www.powershellgallery.com/Packages/pspulumi.azurenative.datacatalog/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:14 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.databricks](https://www.powershellgallery.com/Packages/pspulumi.azurenative.databricks/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:19:09 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.customproviders](https://www.powershellgallery.com/Packages/pspulumi.azurenative.customproviders/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:18:48 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.customerinsights](https://www.powershellgallery.com/Packages/pspulumi.azurenative.customerinsights/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:18:43 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.costmanagement](https://www.powershellgallery.com/Packages/pspulumi.azurenative.costmanagement/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:18:38 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.containerservice](https://www.powershellgallery.com/Packages/pspulumi.azurenative.containerservice/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:18:33 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.containerregistry](https://www.powershellgallery.com/Packages/pspulumi.azurenative.containerregistry/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:18:28 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.consumption](https://www.powershellgallery.com/Packages/pspulumi.azurenative.consumption/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:18:18 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.connectedvmwarevsphere](https://www.powershellgallery.com/Packages/pspulumi.azurenative.connectedvmwarevsphere/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:18:13 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.confluent](https://www.powershellgallery.com/Packages/pspulumi.azurenative.confluent/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:18:08 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.confidentialledger](https://www.powershellgallery.com/Packages/pspulumi.azurenative.confidentialledger/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:18:03 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.compute](https://www.powershellgallery.com/Packages/pspulumi.azurenative.compute/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:17:58 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.communication](https://www.powershellgallery.com/Packages/pspulumi.azurenative.communication/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:17:53 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.cognitiveservices](https://www.powershellgallery.com/Packages/pspulumi.azurenative.cognitiveservices/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:17:48 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.chaos](https://www.powershellgallery.com/Packages/pspulumi.azurenative.chaos/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:17:44 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.changeanalysis](https://www.powershellgallery.com/Packages/pspulumi.azurenative.changeanalysis/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:17:38 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.certificateregistration](https://www.powershellgallery.com/Packages/pspulumi.azurenative.certificateregistration/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:17:33 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.cdn](https://www.powershellgallery.com/Packages/pspulumi.azurenative.cdn/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:17:28 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.cache](https://www.powershellgallery.com/Packages/pspulumi.azurenative.cache/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:17:22 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.botservice](https://www.powershellgallery.com/Packages/pspulumi.azurenative.botservice/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:17:17 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.batch](https://www.powershellgallery.com/Packages/pspulumi.azurenative.batch/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:58 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.azurestackhci](https://www.powershellgallery.com/Packages/pspulumi.azurenative.azurestackhci/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:53 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.azurestack](https://www.powershellgallery.com/Packages/pspulumi.azurenative.azurestack/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:48 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.azuredata](https://www.powershellgallery.com/Packages/pspulumi.azurenative.azuredata/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:43 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.azurearcdata](https://www.powershellgallery.com/Packages/pspulumi.azurenative.azurearcdata/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:38 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.azureactivedirectory](https://www.powershellgallery.com/Packages/pspulumi.azurenative.azureactivedirectory/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:33 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.avs](https://www.powershellgallery.com/Packages/pspulumi.azurenative.avs/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:27 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.autonomousdevelopmentplatform](https://www.powershellgallery.com/Packages/pspulumi.azurenative.autonomousdevelopmentplatform/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:22 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.automation](https://www.powershellgallery.com/Packages/pspulumi.azurenative.automation/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:17 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.automanage](https://www.powershellgallery.com/Packages/pspulumi.azurenative.automanage/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:12 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.authorization](https://www.powershellgallery.com/Packages/pspulumi.azurenative.authorization/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:07 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.attestation](https://www.powershellgallery.com/Packages/pspulumi.azurenative.attestation/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:16:02 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.appplatform](https://www.powershellgallery.com/Packages/pspulumi.azurenative.appplatform/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:15:57 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.appconfiguration](https://www.powershellgallery.com/Packages/pspulumi.azurenative.appconfiguration/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:15:52 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.analysisservices](https://www.powershellgallery.com/Packages/pspulumi.azurenative.analysisservices/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:15:36 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.alertsmanagement](https://www.powershellgallery.com/Packages/pspulumi.azurenative.alertsmanagement/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:15:31 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.agfoodplatform](https://www.powershellgallery.com/Packages/pspulumi.azurenative.agfoodplatform/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:15:25 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.advisor](https://www.powershellgallery.com/Packages/pspulumi.azurenative.advisor/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:15:20 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.addons](https://www.powershellgallery.com/Packages/pspulumi.azurenative.addons/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:15:15 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.aadiam](https://www.powershellgallery.com/Packages/pspulumi.azurenative.aadiam/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:15:10 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [pspulumi.azurenative.aad](https://www.powershellgallery.com/Packages/pspulumi.azurenative.aad/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 21:13:36 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 0 | __Repository__: https://github.com/worxspace/PSPulumi
+
+## [Benchpress](https://www.powershellgallery.com/Packages/Benchpress/1.3.1) | 1.3.1
+
+### Published: 06/06/2022 20:05:12 by James Brundage
+
+Easy Benchmarking with PowerShell
+
+__Downloads__: 366 | __Repository__: https://github.com/StartAutomating/Benchpress
+
+## [ps-direnv](https://www.powershellgallery.com/Packages/ps-direnv/0.0.1) | 0.0.1
+
+### Published: 06/06/2022 19:13:07 by Oliver Winks
 
 Environment switcher.
 
@@ -40,14 +1336,6 @@ __Downloads__: 16 | __Repository__:
 Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
 
 __Downloads__: 52,080 | __Repository__: https://github.com/joonro/Get-ChildItemColor
-
-## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.10.5) | 2.10.5
-
-### Published: 06/06/2022 11:03:53 by Reuben Miller
-
-Cumulocity REST API
-
-__Downloads__: 1,312 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
 
 ## [D365FOLBDAdmin](https://www.powershellgallery.com/Packages/D365FOLBDAdmin/2.1.35.0) | 2.1.35.0
 
@@ -87,7 +1375,7 @@ __Downloads__: 9,202 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,639,021 | __Repository__: https://dbatools.io/
+__Downloads__: 1,639,011 | __Repository__: https://dbatools.io/
 
 ## [LGPO](https://www.powershellgallery.com/Packages/LGPO/1.0.3.4) | 1.0.3.4
 
@@ -128,7 +1416,7 @@ __Downloads__: 103 | __Repository__: https://github.com/EvotecIT/PSWriteOffice
 
 Gets windows patch release information (Version, Build, Availability date, Preview, Out-of-band, Servicing option, KB article, KB URL and Catalog URL) for Windows client and server versions. Useful for scripting and automation purposes. Supports Windows 10 and Windows Server 2016 onwards.
 
-__Downloads__: 13,429 | __Repository__: https://github.com/AshleyHow/WindowsOSBuild
+__Downloads__: 13,430 | __Repository__: https://github.com/AshleyHow/WindowsOSBuild
 
 ## [GPWmiFilter](https://www.powershellgallery.com/Packages/GPWmiFilter/1.0.5) | 1.0.5
 
@@ -194,7 +1482,7 @@ __Downloads__: 879 | __Repository__: https://www.github.com/alt3/Docusaurus.Powe
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 1,923,397 | __Repository__: http://psframework.org/
+__Downloads__: 1,923,391 | __Repository__: http://psframework.org/
 
 ## [PSReleaseTools](https://www.powershellgallery.com/Packages/PSReleaseTools/1.12.0) | 1.12.0
 
@@ -300,7 +1588,7 @@ __Downloads__: 247 | __Repository__: https://github.com/Keeper-Security/secrets-
 
 Module with DSC Resources for Web Administration
 
-__Downloads__: 21,124,145 | __Repository__: https://github.com/dsccommunity/xWebAdministration
+__Downloads__: 21,124,167 | __Repository__: https://github.com/dsccommunity/xWebAdministration
 
 ## [ExplainLinuxFS](https://www.powershellgallery.com/Packages/ExplainLinuxFS/1.0.0) | 1.0.0
 
@@ -384,7 +1672,7 @@ __Downloads__: 1,092 | __Repository__: http://driverdownloads.qlogic.com/QLogicD
 
 PoshGram provides functionality to send various message types to a specified Telegram chat via the Telegram Bot API. Separate PowerShell functions are used for each message type. Checks are included to ensure that file extensions, and file size restrictions are adhered to based on Telegram requirements.
 
-__Downloads__: 76,850 | __Repository__: https://github.com/techthoughts2/PoshGram
+__Downloads__: 76,849 | __Repository__: https://github.com/techthoughts2/PoshGram
 
 ## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.32) | 1.1.32
 
@@ -408,7 +1696,15 @@ __Downloads__: 32 | __Repository__: https://github.com/vmware/vmware-powercli-fo
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 2,721 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 2,718 | __Repository__: https://aka.ms/AzAPICall
+
+## [PSNotes](https://www.powershellgallery.com/Packages/PSNotes/0.2.0.1) | 0.2.0.1
+
+### Published: 06/02/2022 17:10:49 by Matthew Dowst
+
+PSNotes is a PowerShell module that allows you to create your own custom snippet library, that you can use to reference commands. It is great for long command you run often or commands you don't run often and need a reminder on. Snippets can either be executed directly, copied to your clipboard, or simply output to the screen for you to do whatever you want with them. When you create a note, you assign an alias to it, so you can have an easy to remember keyword that you can then use to recall it. Notes can also be classified with tags, so you group them in logic collections. You can also easily search for them by tag, name, details, or text within the snippet.
+
+__Downloads__: 448 | __Repository__: https://github.com/mdowst/PSNotes
 
 ## [pfSense](https://www.powershellgallery.com/Packages/pfSense/0.9.4) | 0.9.4
 
@@ -448,7 +1744,7 @@ __Downloads__: 6 | __Repository__: https://github.com/ehmiiz/PSHangMan
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,902,858 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,902,852 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [PSSqlPatch](https://www.powershellgallery.com/Packages/PSSqlPatch/1.1.62) | 1.1.62
 
@@ -488,7 +1784,7 @@ __Downloads__: 166 | __Repository__:
 
 Designed to facilitate script input/output with an easily customizable WPF window.
 
-__Downloads__: 22,211 | __Repository__: https://github.com/fresh2dev/AnyBox
+__Downloads__: 22,210 | __Repository__: https://github.com/fresh2dev/AnyBox
 
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.1.9) | 0.1.9
 
@@ -552,7 +1848,7 @@ __Downloads__: 4 | __Repository__:
 
 OSDCloud Azure Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 221,368 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 221,364 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.0.4) | 3.0.4
 
@@ -560,7 +1856,7 @@ __Downloads__: 221,368 | __Repository__: https://github.com/OSDeploy/OSD
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 13,191,535 | __Repository__: 
+__Downloads__: 13,191,606 | __Repository__: 
 
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.6) | 3.1.6
 
@@ -576,7 +1872,7 @@ __Downloads__: 1,959 | __Repository__: https://github.com/mrochon/IEFPolicies
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 234,586 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 234,581 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.29) | 0.0.29
 
@@ -584,7 +1880,7 @@ __Downloads__: 234,586 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 234,150 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 234,145 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.17) | 0.0.17
 
@@ -592,7 +1888,7 @@ __Downloads__: 234,150 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 263,000 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 262,995 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [Leankit](https://www.powershellgallery.com/Packages/Leankit/0.0.5) | 0.0.5
 
@@ -731,1309 +2027,4 @@ This modules provides Cmdlets for OCI Threatintelligence Service
 
 __Downloads__: 360 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Tenantmanagercontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Tenantmanagercontrolplane/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:58:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Tenantmanagercontrolplane Service
-
-__Downloads__: 1,308 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Streaming](https://www.powershellgallery.com/Packages/OCI.PSModules.Streaming/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:58:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Streaming Service
-
-__Downloads__: 1,354 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Stackmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Stackmonitoring/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:58:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Stackmonitoring Service
-
-__Downloads__: 136 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Servicemesh](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemesh/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:58:35 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Servicemesh Service
-
-__Downloads__: 124 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Servicemanagerproxy](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemanagerproxy/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:58:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Servicemanagerproxy Service
-
-__Downloads__: 615 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Servicecatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicecatalog/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:58:22 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Servicecatalog Service
-
-__Downloads__: 986 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Secrets](https://www.powershellgallery.com/Packages/OCI.PSModules.Secrets/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:58:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Secrets Service
-
-__Downloads__: 1,418 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Sch](https://www.powershellgallery.com/Packages/OCI.PSModules.Sch/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:58:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Sch Service
-
-__Downloads__: 1,329 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Rover](https://www.powershellgallery.com/Packages/OCI.PSModules.Rover/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:58:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Rover Service
-
-__Downloads__: 1,261 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcesearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcesearch/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:57:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcesearch Service
-
-__Downloads__: 1,681 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcemanager/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:57:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcemanager Service
-
-__Downloads__: 1,351 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osubusage](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubusage/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:57:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubusage Service
-
-__Downloads__: 391 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osubsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubsubscription/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:57:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubsubscription Service
-
-__Downloads__: 396 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osuborganizationsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osuborganizationsubscription/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:57:27 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osuborganizationsubscription Service
-
-__Downloads__: 615 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osubbillingschedule](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubbillingschedule/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:57:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubbillingschedule Service
-
-__Downloads__: 410 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ospgateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Ospgateway/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:57:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ospgateway Service
-
-__Downloads__: 465 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagement/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:57:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osmanagement Service
-
-__Downloads__: 1,357 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Optimizer](https://www.powershellgallery.com/Packages/OCI.PSModules.Optimizer/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:57:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Optimizer Service
-
-__Downloads__: 1,546 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Opsi](https://www.powershellgallery.com/Packages/OCI.PSModules.Opsi/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:56:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Opsi Service
-
-__Downloads__: 1,322 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Operatoraccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Operatoraccesscontrol/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:56:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Operatoraccesscontrol Service
-
-__Downloads__: 1,056 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ons](https://www.powershellgallery.com/Packages/OCI.PSModules.Ons/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:56:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ons Service
-
-__Downloads__: 1,352 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Oda](https://www.powershellgallery.com/Packages/OCI.PSModules.Oda/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:56:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Oda Service
-
-__Downloads__: 1,351 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ocvp](https://www.powershellgallery.com/Packages/OCI.PSModules.Ocvp/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:56:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ocvp Service
-
-__Downloads__: 1,397 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Oce](https://www.powershellgallery.com/Packages/OCI.PSModules.Oce/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:56:19 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Oce Service
-
-__Downloads__: 1,408 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Objectstorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Objectstorage/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:56:12 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Objectstorage Service
-
-__Downloads__: 5,662 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:56:05 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Nosql Service
-
-__Downloads__: 1,377 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Networkloadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkloadbalancer/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:55:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Networkloadbalancer Service
-
-__Downloads__: 1,123 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mysql](https://www.powershellgallery.com/Packages/OCI.PSModules.Mysql/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:55:50 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mysql Service
-
-__Downloads__: 2,389 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:55:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Monitoring Service
-
-__Downloads__: 1,372 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplace](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplace/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:55:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplace Service
-
-__Downloads__: 1,352 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:55:30 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementdashboard Service
-
-__Downloads__: 1,335 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementagent/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:55:23 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementagent Service
-
-__Downloads__: 1,341 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loggingsearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingsearch/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:55:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loggingsearch Service
-
-__Downloads__: 1,346 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loggingingestion](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingingestion/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:55:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loggingingestion Service
-
-__Downloads__: 1,333 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Logging](https://www.powershellgallery.com/Packages/OCI.PSModules.Logging/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:55:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Logging Service
-
-__Downloads__: 1,449 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loganalytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Loganalytics/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:54:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loganalytics Service
-
-__Downloads__: 1,341 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Loadbalancer/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:54:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loadbalancer Service
-
-__Downloads__: 1,539 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Limits](https://www.powershellgallery.com/Packages/OCI.PSModules.Limits/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:54:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Limits Service
-
-__Downloads__: 1,352 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Licensemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Licensemanager/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:54:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Licensemanager Service
-
-__Downloads__: 23 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Keymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Keymanagement/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:54:27 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Keymanagement Service
-
-__Downloads__: 1,372 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Jms](https://www.powershellgallery.com/Packages/OCI.PSModules.Jms/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:54:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jms Service
-
-__Downloads__: 933 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Integration](https://www.powershellgallery.com/Packages/OCI.PSModules.Integration/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:54:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Integration Service
-
-__Downloads__: 1,348 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identitydataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydataplane/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:54:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identitydataplane Service
-
-__Downloads__: 468 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identity](https://www.powershellgallery.com/Packages/OCI.PSModules.Identity/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:54:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identity Service
-
-__Downloads__: 2,371 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:53:53 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Healthchecks Service
-
-__Downloads__: 2,652 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Goldengate](https://www.powershellgallery.com/Packages/OCI.PSModules.Goldengate/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:53:46 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Goldengate Service
-
-__Downloads__: 1,135 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Genericartifactscontent](https://www.powershellgallery.com/Packages/OCI.PSModules.Genericartifactscontent/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:53:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Genericartifactscontent Service
-
-__Downloads__: 970 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Functions](https://www.powershellgallery.com/Packages/OCI.PSModules.Functions/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:53:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Functions Service
-
-__Downloads__: 1,358 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Filestorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Filestorage/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:53:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Filestorage Service
-
-__Downloads__: 1,368 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Events](https://www.powershellgallery.com/Packages/OCI.PSModules.Events/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:53:19 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Events Service
-
-__Downloads__: 1,382 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Email](https://www.powershellgallery.com/Packages/OCI.PSModules.Email/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:53:12 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Email Service
-
-__Downloads__: 1,369 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dts](https://www.powershellgallery.com/Packages/OCI.PSModules.Dts/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:53:05 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dts Service
-
-__Downloads__: 1,435 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dns](https://www.powershellgallery.com/Packages/OCI.PSModules.Dns/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:52:58 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dns Service
-
-__Downloads__: 1,375 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Devops](https://www.powershellgallery.com/Packages/OCI.PSModules.Devops/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:52:52 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Devops Service
-
-__Downloads__: 860 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datascience](https://www.powershellgallery.com/Packages/OCI.PSModules.Datascience/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:52:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datascience Service
-
-__Downloads__: 1,535 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datasafe](https://www.powershellgallery.com/Packages/OCI.PSModules.Datasafe/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:52:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datasafe Service
-
-__Downloads__: 1,682 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datalabelingservicedataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservicedataplane/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:52:30 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datalabelingservicedataplane Service
-
-__Downloads__: 711 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datalabelingservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservice/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:52:23 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datalabelingservice Service
-
-__Downloads__: 687 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dataintegration](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataintegration/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:52:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataintegration Service
-
-__Downloads__: 1,354 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dataflow](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataflow/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:52:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataflow Service
-
-__Downloads__: 1,697 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dataconnectivity](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataconnectivity/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:52:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataconnectivity Service
-
-__Downloads__: 336 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datacatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Datacatalog/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:51:56 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datacatalog Service
-
-__Downloads__: 1,354 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:51:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasetools Service
-
-__Downloads__: 615 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasemigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemigration/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:51:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemigration Service
-
-__Downloads__: 1,062 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasemanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemanagement/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:51:36 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemanagement Service
-
-__Downloads__: 1,202 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Database](https://www.powershellgallery.com/Packages/OCI.PSModules.Database/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:51:29 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Database Service
-
-__Downloads__: 1,658 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:51:22 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dashboardservice Service
-
-__Downloads__: 527 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Core](https://www.powershellgallery.com/Packages/OCI.PSModules.Core/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:51:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Core Service
-
-__Downloads__: 6,510 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Containerengine](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerengine/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:51:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Containerengine Service
-
-__Downloads__: 1,355 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Computeinstanceagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Computeinstanceagent/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:51:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Computeinstanceagent Service
-
-__Downloads__: 1,453 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudguard](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudguard/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:50:53 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudguard Service
-
-__Downloads__: 1,334 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cims](https://www.powershellgallery.com/Packages/OCI.PSModules.Cims/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:50:46 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cims Service
-
-__Downloads__: 1,380 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Certificatesmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificatesmanagement/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:50:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Certificatesmanagement Service
-
-__Downloads__: 614 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Certificates](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificates/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:50:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Certificates Service
-
-__Downloads__: 609 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:50:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 1,382 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:50:19 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Blockchain Service
-
-__Downloads__: 1,384 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:50:11 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bds Service
-
-__Downloads__: 1,460 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:50:04 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 942 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:49:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 1,381 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:49:50 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 1,458 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:49:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Artifacts Service
-
-__Downloads__: 1,187 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Appmgmtcontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Appmgmtcontrol/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:49:36 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Appmgmtcontrol Service
-
-__Downloads__: 555 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Applicationmigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Applicationmigration/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:49:30 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Applicationmigration Service
-
-__Downloads__: 1,524 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmtraces](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmtraces/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:49:22 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmtraces Service
-
-__Downloads__: 1,402 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmsynthetics](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmsynthetics/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:49:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmsynthetics Service
-
-__Downloads__: 1,162 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmcontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmcontrolplane/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:49:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmcontrolplane Service
-
-__Downloads__: 1,196 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmconfig](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmconfig/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:49:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmconfig Service
-
-__Downloads__: 664 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:48:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apigateway Service
-
-__Downloads__: 1,466 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:48:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 1,377 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:48:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Analytics Service
-
-__Downloads__: 1,389 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:48:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aivision Service
-
-__Downloads__: 342 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:48:27 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aispeech Service
-
-__Downloads__: 398 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:48:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 1,236 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aianomalydetection](https://www.powershellgallery.com/Packages/OCI.PSModules.Aianomalydetection/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:48:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aianomalydetection Service
-
-__Downloads__: 887 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:48:05 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 107 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/34.3.0) | 34.3.0
-
-### Published: 05/31/2022 14:44:54 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 41,472 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/1.7.0) | 1.7.0
-
-### Published: 05/31/2022 09:40:49 by Gary Blake Cloud Infrastructure Business Group (CIBG)
-
-PowerShell Module for VMware Validated Solutions
-
-__Downloads__: 499 | __Repository__: 
-
-## [eNLib](https://www.powershellgallery.com/Packages/eNLib/1.3.33) | 1.3.33
-
-### Published: 05/31/2022 08:05:27 by ::))o-
-
-powerfull write-log function forking information to the screen and to the file with timestamp and screen colouring and more, CSV manipulation functions allowing to convert to and from XLS and load CSV with header check, password generator, input message GUI, connection checkers and couple other usefull functions accelerating scripting and helping in everyday work with commandline.
-
-__Downloads__: 574 | __Repository__: https://github.com/nExoRek/eN-Lib/tree/master/eNLib
-
-## [XliffSync](https://www.powershellgallery.com/Packages/XliffSync/1.7.0.0) | 1.7.0.0
-
-### Published: 05/31/2022 08:03:26 by Rob van Bekkum
-
-Keep XLIFF translation files easily in sync with a generated base-XLIFF file.
-
-__Downloads__: 2,903 | __Repository__: https://github.com/rvanbekkum/ps-xliff-sync
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.17) | 0.0.17
-
-### Published: 05/30/2022 20:14:11 by Marius Storhaug
-
-PowerShell Module for GitHub
-
-__Downloads__: 214 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Interactions](https://www.powershellgallery.com/Packages/GitHub.Interactions/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:14:08 by Marius Storhaug
-
-PowerShell Module for GitHub.Interactions
-
-__Downloads__: 103 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [Github.Dependabot](https://www.powershellgallery.com/Packages/Github.Dependabot/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:14:03 by Marius Storhaug
-
-PowerShell Module for GitHub.Dependabot
-
-__Downloads__: 111 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Projects](https://www.powershellgallery.com/Packages/GitHub.Projects/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:14:03 by Marius Storhaug
-
-PowerShell Module for GitHub.Projects
-
-__Downloads__: 103 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Markdown](https://www.powershellgallery.com/Packages/GitHub.Markdown/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:14:00 by Marius Storhaug
-
-PowerShell Module for GitHub.Markdown
-
-__Downloads__: 104 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.CodeScanning](https://www.powershellgallery.com/Packages/GitHub.CodeScanning/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:59 by Marius Storhaug
-
-PowerShell Module for GitHub.CodeScanning
-
-__Downloads__: 110 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Gists](https://www.powershellgallery.com/Packages/GitHub.Gists/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:59 by Marius Storhaug
-
-PowerShell Module for GitHub.Gists
-
-__Downloads__: 105 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:58 by Marius Storhaug
-
-PowerShell Module for GitHub.SecretScanning
-
-__Downloads__: 104 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Packages](https://www.powershellgallery.com/Packages/GitHub.Packages/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:58 by Marius Storhaug
-
-PowerShell Module for GitHub.Packages
-
-__Downloads__: 112 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:58 by Marius Storhaug
-
-PowerShell Module for GitHub.Codespaces
-
-__Downloads__: 115 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:58 by Marius Storhaug
-
-PowerShell Module for GitHub.Activity
-
-__Downloads__: 129 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.EnterpriseAdmin](https://www.powershellgallery.com/Packages/GitHub.EnterpriseAdmin/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:58 by Marius Storhaug
-
-PowerShell Module for GitHub.EnterpriseAdmin
-
-__Downloads__: 121 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Commits](https://www.powershellgallery.com/Packages/GitHub.Commits/0.0.6) | 0.0.6
-
-### Published: 05/30/2022 20:13:57 by Marius Storhaug
-
-PowerShell Module for GitHub.Commits
-
-__Downloads__: 96 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Git](https://www.powershellgallery.com/Packages/GitHub.Git/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:57 by Marius Storhaug
-
-PowerShell Module for GitHub.Git
-
-__Downloads__: 116 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Users](https://www.powershellgallery.com/Packages/GitHub.Users/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:57 by Marius Storhaug
-
-PowerShell Module for GitHub.Users
-
-__Downloads__: 104 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Reactions](https://www.powershellgallery.com/Packages/GitHub.Reactions/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:56 by Marius Storhaug
-
-PowerShell Module for GitHub.Reactions
-
-__Downloads__: 102 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:55 by Marius Storhaug
-
-PowerShell Module for GitHub.OAuthAuthorizations
-
-__Downloads__: 133 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.SCIM](https://www.powershellgallery.com/Packages/GitHub.SCIM/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:55 by Marius Storhaug
-
-PowerShell Module for GitHub.SCIM
-
-__Downloads__: 112 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Actions](https://www.powershellgallery.com/Packages/GitHub.Actions/0.0.9) | 0.0.9
-
-### Published: 05/30/2022 20:13:55 by Marius Storhaug
-
-PowerShell Module for GitHub.Actions
-
-__Downloads__: 125 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.CodesOfConduct](https://www.powershellgallery.com/Packages/GitHub.CodesOfConduct/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:55 by Marius Storhaug
-
-PowerShell Module for GitHub.CodesOfConduct
-
-__Downloads__: 118 | __Repository__: 
-
-## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:54 by Marius Storhaug
-
-PowerShell Module for GitHub.Issues
-
-__Downloads__: 110 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Migrations](https://www.powershellgallery.com/Packages/GitHub.Migrations/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:54 by Marius Storhaug
-
-PowerShell Module for GitHub.Migrations
-
-__Downloads__: 104 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Repos](https://www.powershellgallery.com/Packages/GitHub.Repos/0.0.9) | 0.0.9
-
-### Published: 05/30/2022 20:13:54 by Marius Storhaug
-
-PowerShell Module for GitHub.Repos
-
-__Downloads__: 103 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:53 by Marius Storhaug
-
-PowerShell Module for GitHub.Billing
-
-__Downloads__: 133 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Checks](https://www.powershellgallery.com/Packages/GitHub.Checks/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:53 by Marius Storhaug
-
-PowerShell Module for GitHub.Checks
-
-__Downloads__: 108 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.GitIgnore](https://www.powershellgallery.com/Packages/GitHub.GitIgnore/0.0.9) | 0.0.9
-
-### Published: 05/30/2022 20:13:52 by Marius Storhaug
-
-PowerShell Module for GitHub.Search
-
-__Downloads__: 107 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Apps](https://www.powershellgallery.com/Packages/GitHub.Apps/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:52 by Marius Storhaug
-
-PowerShell Module for GitHub.Apps
-
-__Downloads__: 115 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Collaborators](https://www.powershellgallery.com/Packages/GitHub.Collaborators/0.0.6) | 0.0.6
-
-### Published: 05/30/2022 20:13:52 by Marius Storhaug
-
-PowerShell Module for GitHub.Collaborators
-
-__Downloads__: 105 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:51 by Marius Storhaug
-
-PowerShell Module for GitHub.Teams
-
-__Downloads__: 107 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Search](https://www.powershellgallery.com/Packages/GitHub.Search/0.0.9) | 0.0.9
-
-### Published: 05/30/2022 20:13:51 by Marius Storhaug
-
-PowerShell Module for GitHub.GitIgnore
-
-__Downloads__: 126 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Branches](https://www.powershellgallery.com/Packages/GitHub.Branches/0.0.6) | 0.0.6
-
-### Published: 05/30/2022 20:13:50 by Marius Storhaug
-
-PowerShell Module for GitHub.Branches
-
-__Downloads__: 96 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:49 by Marius Storhaug
-
-PowerShell Module for GitHub.RateLimit
-
-__Downloads__: 115 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:49 by Marius Storhaug
-
-PowerShell Module for GitHub.Emojis
-
-__Downloads__: 119 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Licenses](https://www.powershellgallery.com/Packages/GitHub.Licenses/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:47 by Marius Storhaug
-
-PowerShell Module for GitHub.Licenses
-
-__Downloads__: 104 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.ServerStatistics](https://www.powershellgallery.com/Packages/GitHub.ServerStatistics/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 20:13:44 by Marius Storhaug
-
-PowerShell Module for GitHub.ServerStatistics
-
-__Downloads__: 105 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.5) | 0.0.5
-
-### Published: 05/30/2022 19:45:36 by Marius Storhaug
-
-PowerShell Module for GitHub.Deployments
-
-__Downloads__: 99 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Orgs](https://www.powershellgallery.com/Packages/GitHub.Orgs/0.0.8) | 0.0.8
-
-### Published: 05/30/2022 19:45:32 by Marius Storhaug
-
-PowerShell Module for GitHub.Orgs
-
-__Downloads__: 121 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.7) | 0.0.7
-
-### Published: 05/30/2022 19:45:30 by Marius Storhaug
-
-PowerShell Module for GitHub.Pulls
-
-__Downloads__: 110 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Webhooks](https://www.powershellgallery.com/Packages/GitHub.Webhooks/0.0.5) | 0.0.5
-
-### Published: 05/30/2022 19:45:27 by Marius Storhaug
-
-PowerShell Module for GitHub.Webhooks
-
-__Downloads__: 94 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.7) | 0.0.7
-
-### Published: 05/30/2022 19:45:27 by Marius Storhaug
-
-PowerShell Module for GitHub.Meta
-
-__Downloads__: 126 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Core](https://www.powershellgallery.com/Packages/GitHub.Core/0.0.18) | 0.0.18
-
-### Published: 05/30/2022 19:45:25 by Marius Storhaug
-
-PowerShell Module for GitHub.Orgs
-
-__Downloads__: 224 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2022.2.1) | 2022.2.1
-
-### Published: 05/30/2022 19:24:43 by Devolutions
-
-Devolutions Gateway PowerShell Module
-
-__Downloads__: 617 | __Repository__: https://github.com/Devolutions/DevolutionsGateway-ps
-
-## [DomainHealthChecker](https://www.powershellgallery.com/Packages/DomainHealthChecker/1.5.1) | 1.5.1
-
-### Published: 05/30/2022 19:09:03 by Martien van Dijk
-
-PowerShell module for checking SPF, DKIM and DMARC-record for one or multiple domains.
-
-__Downloads__: 902 | __Repository__: https://github.com/T13nn3s/Show-SpfDkimDmarc/
-
-## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.28) | 0.1.28
-
-### Published: 05/30/2022 18:20:27 by Goran Condric
-
-SAP on Azure PowerShell Modules used for automation.
-
-__Downloads__: 892 | __Repository__: 
-
-## [VMware.Skyline.InsightsApi](https://www.powershellgallery.com/Packages/VMware.Skyline.InsightsApi/1.0.0) | 1.0.0
-
-### Published: 05/30/2022 18:17:39 by Brian Wuchner
-
-Community sourced PowerShell wrapper module for the Skyline Insights API.
-
-__Downloads__: 9 | __Repository__: 
-
-## [AnimatedLamp](https://www.powershellgallery.com/Packages/AnimatedLamp/0.0.2) | 0.0.2
-
-### Published: 05/30/2022 17:52:02 by Adam Driscoll
-
-Show an animated lamp.
-
-__Downloads__: 8 | __Repository__: https://github.com/adamdriscoll/animated-lamp
-
-## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.5.3) | 7.5.3
-
-### Published: 05/30/2022 17:38:34 by Douglas Finke
-
-PowerShell module to import/export Excel spreadsheets, without Excel.
-Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
-
-__Downloads__: 1,596,179 | __Repository__: https://github.com/dfinke/ImportExcel
-
-## [OktaPosh](https://www.powershellgallery.com/Packages/OktaPosh/0.5.1) | 0.5.1
-
-### Published: 05/30/2022 14:45:57 by Jim Wallace
-
-Module for accessing the Okta API
-
-__Downloads__: 1,922 | __Repository__: https://github.com/Seekatar/OktaPosh
-
-## [PsSqlClient](https://www.powershellgallery.com/Packages/PsSqlClient/1.3.1) | 1.3.1
-
-### Published: 05/30/2022 14:13:03 by Steffen Kampmann
-
-The PowerShell SQL Client module replaces the SQL Server utilities SQLCMD and BCP with native PowerShell commands.
-
-__Downloads__: 1,134 | __Repository__: https://github.com/abbgrade/PsSqlClient
-
-## [XpandPwsh](https://www.powershellgallery.com/Packages/XpandPwsh/1.212.0.4) | 1.212.0.4
-
-### Published: 05/30/2022 07:58:04 by Apostolis Bekiaris
-
-Various functions working with DevExpress XAF, eXpandFramework and not only
-
-__Downloads__: 26,127 | __Repository__: http://xpandpwsh.expandframework.com/
-
-## [AppInsights](https://www.powershellgallery.com/Packages/AppInsights/1.0.1013) | 1.0.1013
-
-### Published: 05/30/2022 07:46:13 by Sven Grav
-
-PowerShell module that encapsulates the Application Insights Telemetry Client. https://github.com/svengrav/powershell-appinsights
-
-__Downloads__: 886 | __Repository__: https://github.com/svengrav/powershell-appinsights
-
-## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.5) | 1.0.5
-
-### Published: 05/30/2022 07:44:52 by Jos Lieben
-
-Automatically right sizes any Azure Windows VM based on configurable telemetry data to the optimal size based on cpu/mem, performance rating and cost. Use Get-Help set-vmRightSize or Get-Help set-rsgRightSize for more information on specific commands.
-
-__Downloads__: 30 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/automatic-modular-rightsizing-of-azure-vms-with-special-focus-on-azure-virtual-desktop/
-
-## [NetworkingDsc](https://www.powershellgallery.com/Packages/NetworkingDsc/9.0.0) | 9.0.0
-
-### Published: 05/30/2022 07:14:50 by DSC Community
-
-DSC resources for configuring settings related to networking.
-
-__Downloads__: 85,122,976 | __Repository__: https://github.com/dsccommunity/NetworkingDsc
-
-## [TTAPSModuleBuilder](https://www.powershellgallery.com/Packages/TTAPSModuleBuilder/0.0.2) | 0.0.2
-
-### Published: 05/29/2022 23:11:41 by TechTok
-
-A Hello World deployment
-
-__Downloads__: 3 | __Repository__: 
-
-## [DevOpTools](https://www.powershellgallery.com/Packages/DevOpTools/0.0.6) | 0.0.6
-
-### Published: 05/29/2022 22:18:28 by Jens Döllmann
-
-PowerShell DevOp tools. Some cmdlets for development.
-
-__Downloads__: 24 | __Repository__: https://github.com/JensDll/devops/tree/main/projects/DevOpTools
-
-## [EasyLife365](https://www.powershellgallery.com/Packages/EasyLife365/0.1.1) | 0.1.1
-
-### Published: 05/29/2022 20:19:44 by tto@easylife365.cloud
-
-EasyLife 365
-
-__Downloads__: 6 | __Repository__: https://easylife365.cloud/
-
-## [Test-Connections](https://www.powershellgallery.com/Packages/Test-Connections/2022.5.29.0) | 2022.5.29.0
-
-### Published: 05/29/2022 16:18:43 by David Isaacson
-
-Test-Connection to multiple devcies in parallel with a color and "watch" feature.
-
-__Downloads__: 17 | __Repository__: https://github.com/daisaacson/Test-Connections
-
-## [BricksetCatalogue](https://www.powershellgallery.com/Packages/BricksetCatalogue/0.1.2) | 0.1.2
-
-### Published: 05/29/2022 01:05:49 by Tim Carman
-
-Creates an inventory catalogue of a Brickset collection in HTML & Word formats using the Brickset API.
-
-__Downloads__: 5 | __Repository__: https://github.com/tpcarman/BricksetCatalogue
-
-## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.2.3) | 1.2.3
-
-### Published: 05/28/2022 19:37:49 by Mikey O'Toole
-
-This module provides an interface to the NinjaOne API.
-
-__Downloads__: 221 | __Repository__: https://github.com/homotechsual/NinjaOne
-
-## [AudioDeviceCmdlets](https://www.powershellgallery.com/Packages/AudioDeviceCmdlets/3.1.0.2) | 3.1.0.2
-
-### Published: 05/28/2022 18:44:10 by Francois Gendron <fg@frgn.ca>
-
-AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
-
-__Downloads__: 1,573,152 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
-
-## [ProductivityTools.PublishReadmeToWordpress](https://www.powershellgallery.com/Packages/ProductivityTools.PublishReadmeToWordpress/0.0.2) | 0.0.2
-
-### Published: 05/28/2022 17:44:52 by Pawel Wujczyk
-
-It publishes Readme file to the wordpress
-
-__Downloads__: 8 | __Repository__: 
-
-## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/1.9.0) | 1.9.0
-
-### Published: 05/28/2022 16:39:27 by Mithrandyr
-
-Querying SQL (SQL Server, Oracle, PostgreSql, SQLite, & mySql) the PowerShell way: simple commands... powerful opportunities.
-
-SimplySql is a module that provides an intuitive set of cmdlets for talking to databases that abstracts the vendor specifics, allowing you to focus on getting work done.  The basic pattern is to connect to a database, execute one or more sql statements and then close your database connection.  This module provides cmdlets that map to this basic pattern.  Each provider has its own Open-*Connection cmdlet -> Open-SqlConnection, Open-SQLiteConnection, Open-OracleConnection, Open-PostGreConnection, Open-MySqlConnection.  The rest of the commands are provider agnostic.
-
-Open/Close/Show/Test/Set/Get -SqlConnection >> Control as many active connections as you want.
-Invoke- SqlScalar/SqlQuery/SqlUpdate >> Interact with those connections.
-Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
-Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
-Start/Complete/Undo/Get -SqlTransaction >> Utilize transactions!
-
-__Downloads__: 186,943 | __Repository__: https://github.com/mithrandyr/SimplySql
-
-## [Get-NetView](https://www.powershellgallery.com/Packages/Get-NetView/2022.5.28.198) | 2022.5.28.198
-
-### Published: 05/28/2022 16:21:33 by Dan Cuomo
-
-Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
-
-__Downloads__: 452,101 | __Repository__: https://github.com/microsoft/Get-NetView
-
-*Updated: Monday, 06 June 2022 17:52:27 UTC*
+*Updated: Tuesday, 07 June 2022 02:30:30 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 06 June 2022 17:52:38 UTC
+Updated: Tuesday, 07 June 2022 02:30:42 UTC
 
 ?:
 ??
@@ -39,6 +39,7 @@ Updated: Monday, 06 June 2022 17:52:38 UTC
 2fa
 300
 365
+36867
 3d
 3dprinting
 3par
@@ -193,6 +194,7 @@ aem
 aeries
 aeriessis
 aes
+afd
 affinity
 affinity-co
 affinity-crm
@@ -405,7 +407,6 @@ assets
 assistance
 association
 ast
-astronomy
 asv
 asymmetric
 async
@@ -436,7 +437,6 @@ auditpolicy
 audits
 aumid
 aut
-auth0
 authenticate
 authentication
 authenticationcertificate
@@ -646,6 +646,8 @@ ber
 bestpractice
 bestpractices
 bi
+bibliography
+bibtex
 bicep
 bicepnet
 big-ip
@@ -915,7 +917,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-chooser
 christaylorcodes
 christmas
 chrome
@@ -1028,6 +1029,7 @@ cloudmarque
 cloudservice
 clueser
 cluster
+clusterminimumvalues
 clusterplugins
 cmaccounts
 cmbuild
@@ -1444,6 +1446,7 @@ date
 date-random
 date-truncate
 dates
+datetaken
 datetime
 datto
 dattormm
@@ -2006,7 +2009,6 @@ exec
 executable
 executables
 execute
-exexml
 exif
 exiftool
 exists
@@ -2047,7 +2049,6 @@ extensions
 external
 externalip
 extract
-extreme-networks
 eztheme
 f
 f#
@@ -2066,6 +2067,7 @@ farmanager
 fast
 fast-dds
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2084,6 +2086,7 @@ fetch
 ffmpeg
 fhirservice
 fiche
+fiddler
 fido
 fieldglass
 fifa
@@ -2160,7 +2163,6 @@ first
 fisher
 fissionproducts
 fitbit
-fits
 five
 five9
 fix-log
@@ -2218,6 +2220,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2457,7 +2460,6 @@ gymnasium
 gz
 gzip
 ha
-haarlemsdagblad
 hack
 hacktoberfest
 hadoop
@@ -2475,6 +2477,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+har
 hard
 hardblock
 harden
@@ -2576,8 +2579,6 @@ hosts
 hosts-file
 hostsfile
 hot-water
-hotkey
-hotkeys
 howto
 hp
 hpc
@@ -2883,7 +2884,6 @@ iterate
 iteration
 itg
 itglue
-itop
 itsm
 itstore
 ivanti
@@ -3117,12 +3117,15 @@ list-item
 listener
 litecoin
 litedb
+literature
+live
 lldp
 lmhost
 lmhosts
 lms
 load
 loadbalancer
+loadbalancer.org
 loanddepot
 loandepot
 local
@@ -3174,7 +3177,6 @@ login
 login-azurermaccount
 login-rdp
 loginscreen
-loginsight
 logistic
 logitech
 logmail
@@ -3588,8 +3590,6 @@ name
 name-of-dogs
 namedpipe
 nameit
-nameresolution
-names
 namespace
 nana
 nano
@@ -3979,6 +3979,7 @@ panther
 panzerbjrn
 pap
 paper
+papis
 paradox
 parallel
 parameter
@@ -4585,6 +4586,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+quota
 quote
 quotes
 quoting
@@ -5127,6 +5129,7 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5242,6 +5245,7 @@ sitemap
 siterecovery
 sites
 sitesystemserver
+sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5346,7 +5350,6 @@ source
 source-dedicated-server
 sourcecontrol
 sourceforge
-sourcegraph
 sourcemod
 sourceone
 sourcepawn
@@ -5392,6 +5395,7 @@ sports-tracker
 spotify
 spotify-api
 spotlight
+spotlightimages
 spp
 spread
 spreadsheet
@@ -5605,7 +5609,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -5634,6 +5637,7 @@ systeminformation
 systemlocale
 systems
 systemsplash
+systray
 t
 t-sql
 tab
@@ -5659,6 +5663,7 @@ tagging
 tags
 tak
 taken
+tally
 talxis
 tanzu
 tar
@@ -5894,7 +5899,6 @@ tsheets
 tsqlbestpractice
 tts
 tui
-tulpep
 tuner
 tutorial
 tv
@@ -6051,7 +6055,6 @@ updmgmt
 upgrade
 uplift
 uplink
-upn
 ups
 upsource
 upstream
@@ -6065,6 +6068,7 @@ url-encode
 url-shortener
 urlencode
 urlhaus
+urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6571,7 +6575,6 @@ xbase
 xbox
 xclarity
 xdr
-xdschelper
 xdscresources
 xdt
 xel
@@ -6586,7 +6589,6 @@ xi
 xiaomi
 xkcd
 xliff
-xmc
 xml
 xml-rpc
 xml-transform
