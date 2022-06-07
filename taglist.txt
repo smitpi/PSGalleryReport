@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 07 June 2022 09:52:31 UTC
+Updated: Tuesday, 07 June 2022 17:52:42 UTC
 
 ?:
 ??
@@ -19,12 +19,12 @@ Updated: Tuesday, 07 June 2022 09:52:31 UTC
 💩
 1.1.1.1
 10
+11
 1607
 1703
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -95,7 +95,6 @@ acme
 acmesharp
 acmesharp_ext
 act-on
-act!
 actifio
 actifiogo
 action
@@ -304,7 +303,6 @@ apm
 apmconfig
 apmcontrolplane
 apmsynthetics
-apmtraces
 aportal
 app
 app-only
@@ -357,9 +355,9 @@ archivial-backup
 archivial-cloud-backup
 archlinux
 arcus
-area
 argument
 argumentcompleter
+arguments
 arm
 arm-json
 arm-templates
@@ -417,7 +415,6 @@ atlas
 atlassian
 atlassiancli
 atlassianps
-atmosphere
 atrium
 att&ck
 attestation
@@ -604,6 +601,7 @@ bank
 banking
 banner
 bar
+baremetal
 base
 base16
 base26
@@ -645,6 +643,8 @@ ber
 bestpractice
 bestpractices
 bi
+bibliography
+bibtex
 bicep
 bicepnet
 big-ip
@@ -662,8 +662,6 @@ binaryip
 bind
 binding
 bing
-bingmap
-bingmaps
 binomial
 bios
 bios_settings
@@ -679,6 +677,8 @@ bitwarden
 bitwig
 bitwise
 biztalk
+biztalkalm
+biztalkdeploymentframework
 bks
 black
 blackbaud
@@ -746,6 +746,7 @@ browserhistory
 brs
 bruteforce
 bson
+btdf
 btm
 budget
 bugzilla
@@ -787,7 +788,6 @@ caching
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -809,7 +809,6 @@ carbon
 card
 cardwirth
 cargo
-carousel
 cartoon
 case
 cassandra
@@ -875,6 +874,7 @@ cf
 cfn
 ch9
 change
+changeanalysis
 changelog
 channel
 channel9
@@ -1142,6 +1142,7 @@ conditionalaccess
 conduit
 conference
 confidentialclient
+confidentialledger
 config
 configapi
 configascode
@@ -1173,6 +1174,7 @@ connectednetwork
 connectexchange
 connection
 connections
+connectionsmanager
 connectionstring
 connectwise
 console
@@ -1233,6 +1235,7 @@ copy-item
 core
 coreposh
 corona
+corporate
 cortex
 cos
 cosmos
@@ -1706,7 +1709,6 @@ dots
 dotteddecimalip
 doubleclick
 download
-downloader
 downloadinfo
 downloading
 downloads
@@ -1969,6 +1971,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evidencelock
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2060,6 +2063,7 @@ farmanager
 fast
 fast-dds
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2142,8 +2146,6 @@ financial
 financialforce
 find
 find-path
-findlocation
-findplace
 findproxyforurl
 firebird
 firefox
@@ -2174,6 +2176,7 @@ flexdesk
 flickr
 flowchart
 flowy
+flyway
 fmg
 focus
 fod
@@ -2187,6 +2190,7 @@ fonts
 foo
 football
 for
+force
 forcedelete
 foreach
 forensic
@@ -2211,6 +2215,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2238,6 +2243,7 @@ ftps
 fudge
 fudgepop
 fujitsu
+full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2283,7 +2289,6 @@ gemtext
 general
 generate
 generateaddress
-generates
 generatewif
 generation
 generator
@@ -2291,9 +2296,6 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
-geo
-geoencode
-geoencoding
 geolocation
 geosearching
 geotagging
@@ -2365,8 +2367,6 @@ globalentry
 globbing
 glpi
 gmail
-gmap
-gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2383,8 +2383,6 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
-googlemap
-googlemaps
 gopher
 gopher+
 gopherplus
@@ -2704,7 +2702,6 @@ imageprocess
 imageprocessing
 images
 imageservicing
-imageslide
 imagevalidate
 imagevalidation
 imagga
@@ -2754,6 +2751,7 @@ innerjoin
 innertext
 input
 inputbox
+inputobject
 insert
 insiderthreat
 insight
@@ -2785,7 +2783,6 @@ integrity
 intel
 inteligo
 intelligence"
-intellisearch
 intellisense
 interactive
 interactive-brokers
@@ -3032,7 +3029,6 @@ lastpass
 latency
 latestupdate
 latin
-latitude
 launcher
 layer
 layman
@@ -3091,7 +3087,6 @@ linearalgebra
 link
 linkedin
 linkedinads
-linkid
 linq
 linqpad
 lint
@@ -3099,6 +3094,7 @@ linting
 linux
 linux-command
 linuxssh
+liquid
 liquit
 liquit.com
 list
@@ -3108,6 +3104,8 @@ list-item
 listener
 litecoin
 litedb
+literature
+live
 lldp
 lmhost
 lmhosts
@@ -3123,7 +3121,6 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
-locale
 localgroup
 localization
 location
@@ -3189,7 +3186,6 @@ lol
 lolcat
 longfile
 longfiles
-longitude
 look
 lookup
 loopback
@@ -3222,7 +3218,6 @@ macos
 macosx
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -3265,12 +3260,10 @@ manager
 mangement
 manifest
 map
-mapapi
 mappeddrives
 mapper24
 mapping
 maps
-mapsapi
 mariadb
 mark
 markdig
@@ -3295,7 +3288,6 @@ masterconfiguration
 matcharray
 matchhashtable
 materialdesign
-materialui
 math
 mathematics
 matplotlib
@@ -3319,7 +3311,6 @@ mdatp
 mdb
 mdbc
 mde
-mdm
 mdop
 mdt
 mdx
@@ -3548,6 +3539,7 @@ multidimenstional
 multimedia
 multipass
 multiple
+multiserver
 multithread
 multithreaded
 multithreaded-helpers
@@ -3726,7 +3718,6 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
-number
 numlock
 nunit
 nupkg
@@ -3754,7 +3745,6 @@ obj
 object
 objectid
 objectstorage
-objecttree
 obs
 observeit
 oce
@@ -3820,7 +3810,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onetimesecret
 oneviewglobaldashboard
 online
@@ -3853,7 +3842,6 @@ openhere
 openidconnect
 openinghours
 openport
-openscad
 opensourceinitiative
 openssh
 openssl
@@ -3970,6 +3958,7 @@ panther
 panzerbjrn
 pap
 paper
+papis
 paradox
 parallel
 parameter
@@ -3987,6 +3976,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pass
 passcode
 passivetotal
@@ -4096,7 +4086,6 @@ pivottable
 pixoo
 pki
 pks
-place
 places
 plain
 plan
@@ -4202,6 +4191,7 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
+powermax
 powerplan
 powerplateform
 powerplatform
@@ -4309,7 +4299,6 @@ product
 productid
 productivity
 productmedia
-products
 productstate
 profile
 profiler
@@ -4442,7 +4431,6 @@ psjobthreads
 pskeepass
 pslocalgallery
 psloganalytics
-psm1
 psmodule
 psmodule psedition_desktop
 psmp
@@ -4494,6 +4482,7 @@ pstwitter
 pswa
 pswindocumentation
 pswinreporting
+pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -4575,6 +4564,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+quota
 quote
 quotes
 quoting
@@ -4605,8 +4595,6 @@ rate
 rate-limit
 rate-limiting
 rates
-rating
-ratings
 ravendb
 razzle
 rbac
@@ -4632,6 +4620,7 @@ rdsgw
 react-stockcharts
 read-slog
 readable
+readiness
 readme
 readthedocs
 realschule
@@ -4708,6 +4697,8 @@ remote
 remote-desktop
 remote'
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -5012,7 +5003,6 @@ search
 search-adminauditlog
 searchengine
 searching
-searchplace
 searchquery
 searchstring
 secaas
@@ -5114,6 +5104,7 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5683,7 +5674,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 techsmith
 tel
 telegram
@@ -5715,7 +5705,6 @@ ternary
 terraform
 terraformcloud
 terrafun
-tesla
 test
 test-dscconfiguration
 test-modulepath
@@ -5881,6 +5870,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tts
 tui
@@ -6153,7 +6143,6 @@ version
 versioncontrol
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -6213,6 +6202,7 @@ vmhostnetworkadapater
 vmmanagement
 vmnic
 vmrole
+vms
 vmtovmhostrule
 vmtovmrule
 vmware
@@ -6245,7 +6235,6 @@ vps
 vra
 vrealize
 vro
-vrops
 vrtu
 vs
 vs-shell
@@ -6354,6 +6343,7 @@ webtime
 wec
 wecutil
 weekday
+wef
 weixin
 well-known
 wem
@@ -6542,6 +6532,7 @@ wu
 wunderlist
 wvd
 www
+x-cart
 x.509
 x1
 x2
