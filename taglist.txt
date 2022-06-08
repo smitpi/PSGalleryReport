@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 08 June 2022 09:53:29 UTC
+Updated: Wednesday, 08 June 2022 17:52:31 UTC
 
 ?:
 ??
@@ -25,6 +25,7 @@ Updated: Wednesday, 08 June 2022 09:53:29 UTC
 1709
 1803
 1809
+1c
 1e
 1password
 1poshword
@@ -216,7 +217,6 @@ aircall
 airtable
 aispeech
 aivision
-ajustee
 aks
 alac
 alarm
@@ -236,7 +236,6 @@ alias
 aliases
 aliens
 all
-alletra
 alm
 almrangers
 alpha
@@ -267,7 +266,6 @@ analytics
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -357,6 +355,7 @@ archivial-backup
 archivial-cloud-backup
 archlinux
 arcus
+area
 argument
 argumentcompleter
 arguments
@@ -417,6 +416,7 @@ atlas
 atlassian
 atlassiancli
 atlassianps
+atmosphere
 atrium
 att&ck
 attestation
@@ -435,7 +435,6 @@ auditpolicy
 audits
 aumid
 aut
-auth0
 authenticate
 authentication
 authenticationcertificate
@@ -493,7 +492,6 @@ aws-vault
 awscli
 awspricelist
 axapta
-axinom
 axium
 az
 az-cli
@@ -664,6 +662,8 @@ binaryip
 bind
 binding
 bing
+bingmap
+bingmaps
 binomial
 bios
 bios_settings
@@ -710,6 +710,7 @@ bofh
 boilerplate
 boinc
 bolt
+bom
 book
 bookmark
 bookmarks
@@ -727,7 +728,6 @@ box
 bpmn
 brainy
 branch
-brave
 bre
 breach
 break
@@ -797,6 +797,7 @@ callqueue
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 canonical
@@ -912,7 +913,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-chooser
 christaylorcodes
 christmas
 chrome
@@ -1149,13 +1149,11 @@ config
 configapi
 configascode
 configdata
-configkey
 configmgr
 configmgrcbdsc
 configuration
 configurationapi
 configurationdata
-configurationkey
 configurationmanagement
 configurationmanager
 configure
@@ -1240,7 +1238,6 @@ corona
 corporate
 cortex
 cos
-cosmos
 cosmosdb
 cost
 costoptimization
@@ -1267,8 +1264,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crayon
-crc
-crc32
 create
 createcolumn
 createdatabase
@@ -1365,8 +1360,6 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
-cyclic
-cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -1532,6 +1525,7 @@ desktop
 desktopcentral
 desktopvirtualization
 details
+detect
 detection
 detectionrule
 deutsch
@@ -1637,7 +1631,6 @@ diving
 division
 divoom
 dkim
-dkschrutebeets
 dl
 dll
 dlmautomation
@@ -1733,14 +1726,11 @@ drivers
 drivertool
 drivertool.powercli
 driverupdates
-drm
 drop
 dropbox
 dropdatabase
 droplet
 droptable
-drs
-drsrule
 drupal
 drush
 dry
@@ -1770,7 +1760,6 @@ dts
 dtsx
 dtx
 duck
-dudckduckgo
 duf
 dummy
 dummyusers
@@ -1925,7 +1914,6 @@ esae
 escape
 escapecodes
 escapesequences
-escaping
 ese
 esent
 esoteric
@@ -2148,6 +2136,8 @@ financial
 financialforce
 find
 find-path
+findlocation
+findplace
 findproxyforurl
 firebird
 firefox
@@ -2299,6 +2289,9 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
+geo
+geoencode
+geoencoding
 geolocation
 geosearching
 geotagging
@@ -2370,6 +2363,8 @@ globalentry
 globbing
 glpi
 gmail
+gmap
+gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2379,13 +2374,14 @@ goldengate
 goldsource
 goldsource-dedicated-server
 google
-google-chrome
 google-histogram
 google-sankey
 google-table
 googleadsv2
 googlecloudplatform
 googledrive
+googlemap
+googlemaps
 gopher
 gopher+
 gopherplus
@@ -2621,7 +2617,6 @@ hybris
 hyper-v
 hyperconverged
 hyperfine
-hyperlink
 hyperthreading
 hyperv
 hypervisor
@@ -2729,6 +2724,7 @@ inboxrule
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 inedo
@@ -2807,9 +2803,7 @@ inventory
 investigation
 investment
 investments
-invocation
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3008,7 +3002,6 @@ label
 labels
 lability
 labnotifications
-labservices
 labtech
 labtest
 labworker
@@ -3033,6 +3026,7 @@ lastpass
 latency
 latestupdate
 latin
+latitude
 launcher
 layer
 layman
@@ -3085,6 +3079,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 link
@@ -3125,6 +3120,7 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
+locale
 localgroup
 localization
 location
@@ -3190,6 +3186,7 @@ lol
 lolcat
 longfile
 longfiles
+longitude
 look
 lookup
 loopback
@@ -3265,10 +3262,12 @@ manager
 mangement
 manifest
 map
+mapapi
 mappeddrives
 mapper24
 mapping
 maps
+mapsapi
 mariadb
 mark
 markdig
@@ -3497,7 +3496,6 @@ mschart
 msdeploy
 msdn
 msdtc
-msedge
 msexcel
 msexchange
 msftnet
@@ -3523,7 +3521,6 @@ msonlineext
 msp
 msp360
 mspbackups
-msproject
 msrc
 msrdc
 mssql
@@ -3819,6 +3816,7 @@ oneidentity
 onelogin
 oneloginapi
 onenote
+onestools
 onetimesecret
 oneviewglobaldashboard
 online
@@ -3973,7 +3971,6 @@ paradox
 parallel
 parameter
 parameterinfo
-parameters
 parclient
 pardot
 parititions
@@ -4020,7 +4017,6 @@ path
 pathfinder
 patternmatching
 pause
-pax8
 paylocity
 paypal
 pays
@@ -4096,6 +4092,7 @@ pivottable
 pixoo
 pki
 pks
+place
 places
 plain
 plan
@@ -4103,7 +4100,6 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
@@ -4119,7 +4115,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pni
 pnp
@@ -4179,7 +4174,6 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
-position
 postgre
 postgres
 postgresql
@@ -4197,7 +4191,6 @@ powerbiembedded
 powerbiembeddedcapacity
 powerbot
 powercli
-powercligoodies
 powerdex
 powerforensics
 powergraph
@@ -4277,7 +4270,6 @@ previousversions
 price
 pricelist
 primenumber
-primera
 principal
 principle
 print
@@ -4581,7 +4573,6 @@ quicksetup
 quota
 quote
 quotes
-quoting
 quser
 r
 r53
@@ -4609,6 +4600,8 @@ rate
 rate-limit
 rate-limiting
 rates
+rating
+ratings
 ravendb
 razzle
 rbac
@@ -4635,6 +4628,7 @@ react-stockcharts
 read-slog
 readable
 readiness
+readme
 readthedocs
 realschule
 rebase
@@ -4673,7 +4667,6 @@ redoc
 redseal
 redshift
 redteaming
-redundancy
 refactor
 refeds
 refeds-mfa
@@ -4880,7 +4873,6 @@ rundeck
 runner
 runspace
 runspacepool
-runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -5016,7 +5008,7 @@ search
 search-adminauditlog
 searchengine
 searching
-searchquery
+searchplace
 searchstring
 secaas
 secedit
@@ -5324,7 +5316,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -5687,6 +5678,8 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
+techlog
+techsmith
 tel
 telegram
 telegram-bot
@@ -5745,7 +5738,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textwrapping
 tfe
@@ -5854,6 +5846,7 @@ transliteration
 transmission
 transparency
 trap
+trec
 tree
 treesize
 treffynnon
@@ -5886,7 +5879,6 @@ tsheets
 tsqlbestpractice
 tts
 tui
-tulpep
 tuner
 tutorial
 tv
@@ -5937,12 +5929,10 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -5957,6 +5947,7 @@ ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
+ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
@@ -5991,6 +5982,7 @@ ulid
 ulm
 um
 uml
+umn
 ums
 unattend
 unattendedfile
@@ -6083,8 +6075,10 @@ usg
 usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
@@ -6191,7 +6185,6 @@ virtualterminal
 visio
 visual
 visual-studio
-visualbuilder
 visualc
 visualization
 visualstudio
@@ -6204,19 +6197,14 @@ vlsm
 vm
 vmc
 vmfs
-vmgroup
 vmhost
-vmhostgroup
 vmhostnetworkadapater
 vmmanagement
 vmnic
 vmrole
 vms
-vmtovmhostrule
-vmtovmrule
 vmware
 vmware.vsphere
-vmwaredrs
 vmwcluster
 vmwdatacenter
 vmwfolder
@@ -6324,7 +6312,6 @@ webdav
 webdeploy
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6360,7 +6347,6 @@ wem
 wemsdk
 what3words
 whatismyip
-whd
 where
 whfb
 whiteboard
@@ -6397,7 +6383,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-registry
@@ -6527,7 +6512,6 @@ writeaccess
 writelog
 writemanager
 ws-federation
-wsapi
 wsl
 wsman
 wsmanlistener
