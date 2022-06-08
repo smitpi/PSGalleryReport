@@ -680,7 +680,7 @@ __Downloads__: 26,203,656 | __Repository__: https://github.com/Azure/azure-power
 
 This module includes DSC resources that simplify administration of certificates on a Windows Server
 
-__Downloads__: 25,397,869 | __Repository__: https://github.com/PowerShell/xCertificate
+__Downloads__: 25,397,865 | __Repository__: https://github.com/PowerShell/xCertificate
 
 ## [Az.Functions](https://www.powershellgallery.com/Packages/Az.Functions/4.0.3) | 4.0.3
 
@@ -1444,7 +1444,7 @@ __Downloads__: 8,017,968 | __Repository__:
 
 Windows Defender module allows you to configure Windows Defender settings.
 
-__Downloads__: 7,959,171 | __Repository__: 
+__Downloads__: 7,959,163 | __Repository__: 
 
 ## [Az.Security](https://www.powershellgallery.com/Packages/Az.Security/1.3.0) | 1.3.0
 
@@ -1573,7 +1573,7 @@ __Downloads__: 5,761,124 | __Repository__: https://gallery.technet.microsoft.com
 
 This DSC Resource allows configuration of the Windows System Locale.
 
-__Downloads__: 5,696,486 | __Repository__: https://github.com/PowerShell/SystemLocaleDsc
+__Downloads__: 5,696,485 | __Repository__: https://github.com/PowerShell/SystemLocaleDsc
 
 ## [ChocolateyGet](https://www.powershellgallery.com/Packages/ChocolateyGet/4.0.0) | 4.0.0
 
@@ -1978,7 +1978,7 @@ __Downloads__: 2,248,378 | __Repository__: https://aka.ms/sppnp
 
 This module can be used to run scheduled tasks and synchronously wait for them to complete.
 
-__Downloads__: 2,058,169 | __Repository__: 
+__Downloads__: 2,058,173 | __Repository__: 
 
 ## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.1.0) | 2.1.0
 
@@ -2070,7 +2070,7 @@ __Downloads__: 1,837,795 | __Repository__: https://github.com/Azure/azure-powers
 
 Microsoft Azure PowerShell - ServerManagement cmdlets for Azure Resource Manager
 
-__Downloads__: 1,789,183 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 1,789,184 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [PolicyFileEditor](https://www.powershellgallery.com/Packages/PolicyFileEditor/3.0.1) | 3.0.1
 
@@ -2208,4 +2208,4 @@ View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modi
 
 __Downloads__: 1,493,934 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-*Updated: Wednesday, 08 June 2022 02:31:05 UTC*
+*Updated: Wednesday, 08 June 2022 09:53:22 UTC*
