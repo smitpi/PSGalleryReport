@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 09 June 2022 09:53:10 UTC
+Updated: Thursday, 09 June 2022 17:52:39 UTC
 
 ?:
 ??
@@ -203,7 +203,6 @@ agent
 aggregates
 aggregation
 agile
-agility
 agm
 agnoster
 ah
@@ -497,6 +496,7 @@ awscli
 awspricelist
 axapta
 axinom
+axium
 az
 az-cli
 az.automation
@@ -532,7 +532,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-ssis
 azureactivedirectory
 azuread
@@ -704,6 +703,7 @@ blogs
 bls
 bluedolhin
 blueprint
+blueprints
 blueteam
 bluetraitio
 bmc
@@ -734,6 +734,7 @@ branch
 brave
 bre
 breach
+break
 breakpoint
 brickset
 bridge
@@ -1056,6 +1057,7 @@ coa
 cockroachdb
 codaamok
 code
+code-page
 code365
 codebuild
 codecov
@@ -1295,7 +1297,6 @@ credentialstore
 credentialutility
 credit
 credman
-credmanager
 crescendo
 crescendobuilt
 crestron
@@ -2100,6 +2101,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2115,6 +2118,7 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filereplication
 files
@@ -2126,6 +2130,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2324,6 +2331,7 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
+get-help
 get-history
 get-iislog
 get-openfile
@@ -2462,6 +2470,7 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -3256,6 +3265,7 @@ make
 maker
 malware
 maml
+man-highlighting
 manage
 manage-wmi
 manageability
@@ -3276,6 +3286,7 @@ managementpoint
 manager
 mangement
 manifest
+manual
 map
 mapapi
 mappeddrives
@@ -3405,7 +3416,6 @@ microsoft.logic/workflows
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
-microsoftazure
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -3607,6 +3617,7 @@ navigation
 nbi
 ncal
 ndes
+nebulon
 nec-infrared-transmission-protocol
 nederland
 nedyalkov
@@ -4105,9 +4116,11 @@ pipeline
 pipelines
 piraeus
 pivot
+pivotal
 pivottable
 pixoo
 pki
+pks
 place
 places
 plain
@@ -4116,7 +4129,6 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
@@ -4192,6 +4204,7 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
+position
 postgre
 postgres
 postgresql
@@ -4260,6 +4273,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -4941,6 +4955,7 @@ satirical
 save
 savedcreds
 savefile
+savings
 savov
 sbc
 sc
@@ -5317,6 +5332,7 @@ soap
 soc
 soccer
 social
+social-media
 socialmedia
 socketlabs
 sockets
@@ -5526,6 +5542,7 @@ streak
 stream
 streamanalytics
 streaming
+stretch
 strictmode
 string
 string-template
@@ -5666,7 +5683,6 @@ tagging
 tags
 tak
 taken
-tally
 talxis
 tanzu
 tar
@@ -5913,6 +5929,8 @@ twincat
 twinkly
 twitch
 twitter
+twitter-api
+twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
@@ -6392,6 +6410,7 @@ wid
 wif
 wifi
 wiki
+wildcard
 wildfly
 wim
 wim2vhd
@@ -6415,6 +6434,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-registry
