@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 June 2022 02:35:38 UTC
+Updated: Friday, 10 June 2022 09:53:25 UTC
 
 ?:
 ??
@@ -70,12 +70,14 @@ aas
 abc
 abc_testing
 abe
+about
 abstractsyntaxtree
 abuse
 acas
 accelerator
 access
 access-control
+access-points
 accesscontrol
 accesscontroldsc
 accesspoint
@@ -754,7 +756,6 @@ bson
 btdf
 btm
 budget
-bugzilla
 build
 build-scripts
 builddefinition
@@ -1368,6 +1369,7 @@ cyberark
 cyberdrain
 cybereason
 cybersecurity
+cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -1625,7 +1627,6 @@ dism
 dismal
 display
 displayresolution
-distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1859,6 +1860,7 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
+emergency
 emoji
 emotion
 empire
@@ -1931,6 +1933,7 @@ escapesequences
 escaping
 ese
 esent
+esoteric
 esp
 esp-idf
 esp32
@@ -2067,7 +2070,6 @@ farm
 farmanager
 fast
 fast-dds
-fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2105,7 +2107,6 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transform
 file-type
@@ -2466,6 +2467,7 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -2532,6 +2534,7 @@ help
 helper
 helperfunctions
 helpers
+helpfile
 heml
 here
 hewlett
@@ -2674,7 +2677,6 @@ icws
 id
 id3
 ide
-identifier
 identity
 identity-management
 identitydataplane
@@ -2884,6 +2886,7 @@ issues
 isvalidemail
 isvalidip
 item
+iterate
 iteration
 itg
 itglue
@@ -2901,7 +2904,9 @@ japanese
 jar
 jav
 java
+javamanager
 javascript
+javaversion
 jboss
 jdbc
 jdedwards
@@ -3303,7 +3308,6 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
-mass
 masstransit
 masterconfiguration
 matcharray
@@ -3952,6 +3956,7 @@ owls
 owner
 oxygen
 oxyplot
+p2000
 p2s
 pa1reg
 paas
@@ -4080,6 +4085,7 @@ philips
 philosophical
 philpritchett
 phishing
+phoenix
 phoneautomation
 photo
 photograph
@@ -4228,13 +4234,16 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-credentials
 powershell-dsc
 powershell-gallery
+powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -4447,6 +4456,7 @@ psini
 psinsight
 psintune
 psise
+psitem
 psjob
 psjobs
 psjobthreads
@@ -4589,7 +4599,6 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quota
 quote
 quotes
 quoting
@@ -5033,7 +5042,6 @@ searchengine
 searching
 searchplace
 searchquery
-searchstring
 secaas
 secedit
 secret
@@ -5568,6 +5576,7 @@ subtitle
 subversion
 successfactors
 sudo
+sugar
 sugarcrm
 suitecrm
 sullivan
@@ -5804,6 +5813,7 @@ time
 timeout
 timer
 timeseriesinsights
+timespan
 timezone
 tinkerpop
 tips
@@ -6029,7 +6039,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
@@ -6171,6 +6180,7 @@ verbose psmodule
 version
 versioncontrol
 versioning
+versionmanager
 versionnumber
 vertical
 vester
