@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 June 2022 09:53:25 UTC
+Updated: Friday, 10 June 2022 17:52:32 UTC
 
 ?:
 ??
@@ -517,7 +517,6 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
 azstate
@@ -570,7 +569,6 @@ azurepack
 azurepipelines
 azurepolicy
 azureresourcemanager
-azureresources
 azurerm
 azurerms
 azurerunasconnection
@@ -756,6 +754,7 @@ bson
 btdf
 btm
 budget
+bugzilla
 build
 build-scripts
 builddefinition
@@ -877,6 +876,7 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
+certutil
 cf
 cfn
 ch9
@@ -1627,6 +1627,7 @@ dism
 dismal
 display
 displayresolution
+distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1818,7 +1819,6 @@ ebooks
 ebur128
 ec2
 ecommerce
-ecovadis
 edgaronline
 edge
 edgegateway
@@ -2070,6 +2070,7 @@ farm
 farmanager
 fast
 fast-dds
+fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2107,10 +2108,12 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
+file-share
 file-system
 file-transform
 file-type
 file-type-association
+fileencryption
 filelist
 filelog
 filelogger
@@ -2277,11 +2280,8 @@ games
 gameserver
 garage
 gas
-gat
 gateway
 gauge
-gavin
-gavineke
 gc
 gce
 gci
@@ -2328,7 +2328,6 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
-get-help
 get-history
 get-iislog
 get-openfile
@@ -2467,7 +2466,6 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -2677,6 +2675,7 @@ icws
 id
 id3
 ide
+identifier
 identity
 identity-management
 identitydataplane
@@ -2979,6 +2978,7 @@ key-vault
 key2wocas
 keybase
 keyboard
+keycipher
 keylight
 keymanagement
 keypair
@@ -3261,7 +3261,6 @@ make
 maker
 malware
 maml
-man-highlighting
 manage
 manage-wmi
 manageability
@@ -3282,7 +3281,6 @@ managementpoint
 manager
 mangement
 manifest
-manual
 map
 mapapi
 mappeddrives
@@ -3308,6 +3306,7 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
+mass
 masstransit
 masterconfiguration
 matcharray
@@ -3578,7 +3577,6 @@ mutation
 mute
 mutex
 mva
-mvn
 mvp
 mx
 mxlookup
@@ -4022,6 +4020,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4599,6 +4598,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+quota
 quote
 quotes
 quoting
@@ -4796,7 +4796,6 @@ resource_watcher
 resourceaccount
 resourcecontroller
 resourcegroup
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -5042,6 +5041,7 @@ searchengine
 searching
 searchplace
 searchquery
+searchstring
 secaas
 secedit
 secret
@@ -5833,7 +5833,6 @@ toggle
 token
 tokenlifetime
 tokens
-tookit
 tool
 toolbox
 toolkit
@@ -6039,6 +6038,7 @@ unique-files
 unit
 unit_testing
 unit-testing
+unitconvesion
 unittest
 unittesting
 unity
