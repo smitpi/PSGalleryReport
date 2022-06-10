@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 09 June 2022 17:52:39 UTC
+Updated: Friday, 10 June 2022 02:35:38 UTC
 
 ?:
 ??
@@ -70,14 +70,12 @@ aas
 abc
 abc_testing
 abe
-about
 abstractsyntaxtree
 abuse
 acas
 accelerator
 access
 access-control
-access-points
 accesscontrol
 accesscontroldsc
 accesspoint
@@ -203,6 +201,7 @@ agent
 aggregates
 aggregation
 agile
+agility
 agm
 agnoster
 ah
@@ -532,6 +531,7 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
+azure-pipelines
 azure-ssis
 azureactivedirectory
 azuread
@@ -876,7 +876,6 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
-certutil
 cf
 cfn
 ch9
@@ -1297,6 +1296,7 @@ credentialstore
 credentialutility
 credit
 credman
+credmanager
 crescendo
 crescendobuilt
 crestron
@@ -1368,7 +1368,6 @@ cyberark
 cyberdrain
 cybereason
 cybersecurity
-cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -1860,7 +1859,6 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
-emergency
 emoji
 emotion
 empire
@@ -1933,7 +1931,6 @@ escapesequences
 escaping
 ese
 esent
-esoteric
 esp
 esp-idf
 esp32
@@ -2113,7 +2110,6 @@ file-system
 file-transform
 file-type
 file-type-association
-fileencryption
 filelist
 filelog
 filelogger
@@ -2470,7 +2466,6 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -2537,7 +2532,6 @@ help
 helper
 helperfunctions
 helpers
-helpfile
 heml
 here
 hewlett
@@ -2827,6 +2821,7 @@ investment
 investments
 invocation
 invoke
+invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -2889,7 +2884,6 @@ issues
 isvalidemail
 isvalidip
 item
-iterate
 iteration
 itg
 itglue
@@ -2907,9 +2901,7 @@ japanese
 jar
 jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jdedwards
@@ -2982,7 +2974,6 @@ key-vault
 key2wocas
 keybase
 keyboard
-keycipher
 keylight
 keymanagement
 keypair
@@ -3416,6 +3407,7 @@ microsoft.logic/workflows
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
+microsoftazure
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -3960,7 +3952,6 @@ owls
 owner
 oxygen
 oxyplot
-p2000
 p2s
 pa1reg
 paas
@@ -4026,7 +4017,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4090,7 +4080,6 @@ philips
 philosophical
 philpritchett
 phishing
-phoenix
 phoneautomation
 photo
 photograph
@@ -4129,6 +4118,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -4238,16 +4228,13 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-credentials
 powershell-dsc
 powershell-gallery
-powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -4460,7 +4447,6 @@ psini
 psinsight
 psintune
 psise
-psitem
 psjob
 psjobs
 psjobthreads
@@ -5582,7 +5568,6 @@ subtitle
 subversion
 successfactors
 sudo
-sugar
 sugarcrm
 suitecrm
 sullivan
@@ -5683,6 +5668,7 @@ tagging
 tags
 tak
 taken
+tally
 talxis
 tanzu
 tar
@@ -5818,7 +5804,6 @@ time
 timeout
 timer
 timeseriesinsights
-timespan
 timezone
 tinkerpop
 tips
@@ -6186,7 +6171,6 @@ verbose psmodule
 version
 versioncontrol
 versioning
-versionmanager
 versionnumber
 vertical
 vester
