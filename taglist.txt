@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 June 2022 17:52:32 UTC
+Updated: Saturday, 11 June 2022 02:31:13 UTC
 
 ?:
 ??
@@ -153,7 +153,6 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroups
-adif
 adm
 admf
 admin
@@ -223,7 +222,6 @@ alac
 alarm
 albertheijn
 albums
-alero
 alert
 alerting
 alertmail
@@ -248,8 +246,6 @@ alt3
 alter
 alteryx
 alwaysonvpn
-amateur-data-interchange-format
-amateur-radio
 amateurradio
 amazon
 amazonwebservices
@@ -303,7 +299,6 @@ apimanagement
 apis
 apm
 apmconfig
-apmcontrolplane
 apmsynthetics
 apmtraces
 aportal
@@ -497,7 +492,6 @@ awscli
 awspricelist
 axapta
 axinom
-axium
 az
 az-cli
 az.automation
@@ -888,7 +882,6 @@ channel9
 char
 character
 chart
-charting
 charts
 chat
 chatbot
@@ -1227,10 +1220,6 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
-converttodocx
-converttohtml
-converttomarkdown
-converttomd
 cookie
 coolq
 cooltag1
@@ -1301,7 +1290,6 @@ credmanager
 crescendo
 crescendobuilt
 crestron
-crlf
 crm
 crm2016
 cron
@@ -1374,7 +1362,6 @@ cyclic
 cyclicredundancycheck
 cygwin
 cylance
-cypher
 cyrillic
 d365
 d365ce
@@ -1408,7 +1395,6 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
-databasetools
 databooster
 databox
 databoxedge
@@ -1627,7 +1613,6 @@ dism
 dismal
 display
 displayresolution
-distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1819,6 +1804,7 @@ ebooks
 ebur128
 ec2
 ecommerce
+ecovadis
 edgaronline
 edge
 edgegateway
@@ -1875,7 +1861,6 @@ encodetext
 encoding
 encrypt
 encryption
-end-of-line
 endomondo
 endpoint
 endpoints
@@ -2013,7 +1998,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exo
 exov2
@@ -2070,7 +2054,6 @@ farm
 farmanager
 fast
 fast-dds
-fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2108,7 +2091,6 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transform
 file-type
@@ -2280,8 +2262,11 @@ games
 gameserver
 garage
 gas
+gat
 gateway
 gauge
+gavin
+gavineke
 gc
 gce
 gci
@@ -3077,7 +3062,6 @@ length
 lenovo
 lesspass
 letsencrypt
-lf
 lgpo
 libgit2
 libraries
@@ -3093,8 +3077,6 @@ licenses
 licensing
 light
 lights
-lime
-limesurvey
 limit-job
 limits
 lina
@@ -3164,7 +3146,6 @@ log-management
 log-rotation
 log4net
 loganalytics
-logbook
 logcat
 logentry
 logfile
@@ -3306,7 +3287,6 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
-mass
 masstransit
 masterconfiguration
 matcharray
@@ -3423,7 +3403,6 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -3577,6 +3556,7 @@ mutation
 mute
 mutex
 mva
+mvn
 mvp
 mx
 mxlookup
@@ -3741,7 +3721,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 null-coalescing
 number
 numlock
@@ -3801,7 +3780,6 @@ office2016
 office2019
 office365
 officedev
-officegraph
 officemessageencryption
 offline
 offlinewimservicing
@@ -3869,7 +3847,6 @@ openfiles
 openhere
 openidconnect
 openinghours
-openport
 openscad
 opensourceinitiative
 openssh
@@ -4058,7 +4035,6 @@ pem
 pemfile
 pendingreboot
 penetration
-penetrationtesting
 pentesting
 pentia
 perforce
@@ -4220,7 +4196,6 @@ powercli
 powercligoodies
 powerdex
 powerforensics
-powergraph
 powermax
 powerplan
 powerplateform
@@ -5203,7 +5178,6 @@ shares
 sheets
 shell
 shell-art
-shells
 shieldedvm
 ships
 shipstation
@@ -5588,7 +5562,6 @@ support
 suppress
 supress-reboot
 surround
-survey
 surveymonkey
 sushi
 suspensive
@@ -5695,7 +5668,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcpserver
 tcptest
 tcx
@@ -5833,6 +5805,7 @@ toggle
 token
 tokenlifetime
 tokens
+tookit
 tool
 toolbox
 toolkit
@@ -5947,7 +5920,6 @@ ubnt
 ubuntu
 ucs
 ucspowertool
-ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -6038,7 +6010,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
