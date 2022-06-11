@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 11 June 2022 09:52:34 UTC
+Updated: Saturday, 11 June 2022 17:52:49 UTC
 
 ?:
 ??
@@ -26,6 +26,7 @@ Updated: Saturday, 11 June 2022 09:52:34 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -110,6 +111,7 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
+activeefficiency
 activeresponse
 activesession
 activiti
@@ -390,7 +392,6 @@ asn
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspnet
 aspnet_regiis
@@ -1030,7 +1031,6 @@ cloudmarque
 cloudservice
 clueser
 cluster
-clusterminimumvalues
 clusterplugins
 cmaccounts
 cmbuild
@@ -1281,7 +1281,6 @@ createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
-creator
 cred
 credential
 credential-file
@@ -1716,7 +1715,6 @@ dots
 dotteddecimalip
 doubleclick
 download
-downloader
 downloadinfo
 downloading
 downloads
@@ -1782,6 +1780,7 @@ dummy
 dummyusers
 dump
 duplicate
+duplicate-files
 duplicatioin
 duplication
 dust
@@ -1910,14 +1909,12 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
 epicorerp
 episode
 epplus
 eprosima
 equality
-erb
 erp
 error
 error-log
@@ -2051,7 +2048,6 @@ extensions
 external
 externalip
 extract
-extractor
 extreme-networks
 eztheme
 f
@@ -2151,6 +2147,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialforce
 find
 find-path
 findlocation
@@ -2262,6 +2259,7 @@ function
 functionality
 functionalprogramming
 functions
+funds
 funny
 fuzzy
 fyi
@@ -2640,7 +2638,6 @@ hyperlink
 hyperthreading
 hyperv
 hypervisor
-hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -2715,6 +2712,7 @@ imagebuilder
 imagecreate
 imagecreation
 imagegeneration
+imageoftheday
 imageprocess
 imageprocessing
 images
@@ -2940,7 +2938,6 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
 jumbo
 jump
 jump-location
@@ -2974,7 +2971,6 @@ kelverion
 kentico
 kerberos
 kernel32
-kestrel
 key
 key-vault
 key2wocas
@@ -3107,7 +3103,6 @@ linearalgebra
 link
 linkedin
 linkedinads
-linkid
 linq
 linqpad
 lint
@@ -3139,6 +3134,7 @@ loandepot
 local
 local-caching
 local-policy
+localadmin
 localconfigurationmanager
 localdb
 locale
@@ -3355,6 +3351,7 @@ mediawiki
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 meltdown
 mem
@@ -3372,7 +3369,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messages
 messaging
 messenger
@@ -3456,7 +3452,6 @@ mitrend
 mittelschule
 mixedreality
 mixer
-mkdocs
 mlflow
 mmdc
 mobile
@@ -3578,7 +3573,6 @@ mutation
 mute
 mutex
 mva
-mvn
 mvp
 mx
 mxlookup
@@ -3671,7 +3665,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4260,7 +4253,6 @@ powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
-powershellscript
 powershelltemplate
 powershelltypeaccelerators
 powershellv5
@@ -4286,11 +4278,8 @@ preparead
 preparealldomains
 prepareschema
 prepend
-preprocessing
-preprocessor
 presentation
 presenter
-presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4331,7 +4320,6 @@ product
 productid
 productivity
 productmedia
-products
 productstate
 profile
 profiler
@@ -5333,6 +5321,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -5693,7 +5682,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -5921,7 +5909,6 @@ tuner
 tutorial
 tv
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -6037,6 +6024,8 @@ unifiedlabeling
 uninstall
 uninstaller
 union
+unique
+unique-files
 unit
 unit_testing
 unit-testing
@@ -6110,6 +6099,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -6470,7 +6460,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
