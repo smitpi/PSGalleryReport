@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 11 June 2022 02:31:13 UTC
+Updated: Saturday, 11 June 2022 09:52:34 UTC
 
 ?:
 ??
@@ -26,7 +26,6 @@ Updated: Saturday, 11 June 2022 02:31:13 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -111,7 +110,6 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
-activeefficiency
 activeresponse
 activesession
 activiti
@@ -153,6 +151,7 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroups
+adif
 adm
 admf
 admin
@@ -222,6 +221,7 @@ alac
 alarm
 albertheijn
 albums
+alero
 alert
 alerting
 alertmail
@@ -246,6 +246,8 @@ alt3
 alter
 alteryx
 alwaysonvpn
+amateur-data-interchange-format
+amateur-radio
 amateurradio
 amazon
 amazonwebservices
@@ -299,6 +301,7 @@ apimanagement
 apis
 apm
 apmconfig
+apmcontrolplane
 apmsynthetics
 apmtraces
 aportal
@@ -492,6 +495,7 @@ awscli
 awspricelist
 axapta
 axinom
+axium
 az
 az-cli
 az.automation
@@ -511,6 +515,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azstate
@@ -563,6 +568,7 @@ azurepack
 azurepipelines
 azurepolicy
 azureresourcemanager
+azureresources
 azurerm
 azurerms
 azurerunasconnection
@@ -882,6 +888,7 @@ channel9
 char
 character
 chart
+charting
 charts
 chat
 chatbot
@@ -1220,6 +1227,10 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
+converttodocx
+converttohtml
+converttomarkdown
+converttomd
 cookie
 coolq
 cooltag1
@@ -1290,6 +1301,7 @@ credmanager
 crescendo
 crescendobuilt
 crestron
+crlf
 crm
 crm2016
 cron
@@ -1362,6 +1374,7 @@ cyclic
 cyclicredundancycheck
 cygwin
 cylance
+cypher
 cyrillic
 d365
 d365ce
@@ -1395,6 +1408,7 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
+databasetools
 databooster
 databox
 databoxedge
@@ -1613,6 +1627,7 @@ dism
 dismal
 display
 displayresolution
+distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1767,7 +1782,6 @@ dummy
 dummyusers
 dump
 duplicate
-duplicate-files
 duplicatioin
 duplication
 dust
@@ -1861,6 +1875,7 @@ encodetext
 encoding
 encrypt
 encryption
+end-of-line
 endomondo
 endpoint
 endpoints
@@ -1998,6 +2013,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exo
 exov2
@@ -2054,6 +2070,7 @@ farm
 farmanager
 fast
 fast-dds
+fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2091,6 +2108,7 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
+file-share
 file-system
 file-transform
 file-type
@@ -2133,7 +2151,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialforce
 find
 find-path
 findlocation
@@ -2245,7 +2262,6 @@ function
 functionality
 functionalprogramming
 functions
-funds
 funny
 fuzzy
 fyi
@@ -2313,6 +2329,7 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
+get-help
 get-history
 get-iislog
 get-openfile
@@ -2451,6 +2468,7 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -2697,7 +2715,6 @@ imagebuilder
 imagecreate
 imagecreation
 imagegeneration
-imageoftheday
 imageprocess
 imageprocessing
 images
@@ -3062,6 +3079,7 @@ length
 lenovo
 lesspass
 letsencrypt
+lf
 lgpo
 libgit2
 libraries
@@ -3077,6 +3095,8 @@ licenses
 licensing
 light
 lights
+lime
+limesurvey
 limit-job
 limits
 lina
@@ -3119,7 +3139,6 @@ loandepot
 local
 local-caching
 local-policy
-localadmin
 localconfigurationmanager
 localdb
 locale
@@ -3146,6 +3165,7 @@ log-management
 log-rotation
 log4net
 loganalytics
+logbook
 logcat
 logentry
 logfile
@@ -3242,6 +3262,7 @@ make
 maker
 malware
 maml
+man-highlighting
 manage
 manage-wmi
 manageability
@@ -3262,6 +3283,7 @@ managementpoint
 manager
 mangement
 manifest
+manual
 map
 mapapi
 mappeddrives
@@ -3273,7 +3295,6 @@ mariadb
 mark
 markdig
 markdown
-markdownrender
 marketing
 marketo
 marketplace
@@ -3287,6 +3308,7 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
+mass
 masstransit
 masterconfiguration
 matcharray
@@ -3333,7 +3355,6 @@ mediawiki
 meeting
 meetup
 meetup.com
-meewind
 megabyte
 meltdown
 mem
@@ -3403,6 +3424,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -3721,6 +3743,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 null-coalescing
 number
 numlock
@@ -3780,6 +3803,7 @@ office2016
 office2019
 office365
 officedev
+officegraph
 officemessageencryption
 offline
 offlinewimservicing
@@ -3847,6 +3871,7 @@ openfiles
 openhere
 openidconnect
 openinghours
+openport
 openscad
 opensourceinitiative
 openssh
@@ -4035,6 +4060,7 @@ pem
 pemfile
 pendingreboot
 penetration
+penetrationtesting
 pentesting
 pentia
 perforce
@@ -4196,6 +4222,7 @@ powercli
 powercligoodies
 powerdex
 powerforensics
+powergraph
 powermax
 powerplan
 powerplateform
@@ -4461,6 +4488,7 @@ psprovider
 psprtg
 pspublicapi
 psraw
+psreadexif
 psreadline
 psremoting
 psrepository
@@ -4771,6 +4799,7 @@ resource_watcher
 resourceaccount
 resourcecontroller
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -5178,6 +5207,7 @@ shares
 sheets
 shell
 shell-art
+shells
 shieldedvm
 ships
 shipstation
@@ -5303,7 +5333,6 @@ social
 social-media
 socialmedia
 socketlabs
-sockets
 sodium
 software
 softwarecenter
@@ -5562,6 +5591,7 @@ support
 suppress
 supress-reboot
 surround
+survey
 surveymonkey
 sushi
 suspensive
@@ -5668,6 +5698,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
+tcpport
 tcpserver
 tcptest
 tcx
@@ -5920,6 +5951,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -6005,11 +6037,10 @@ unifiedlabeling
 uninstall
 uninstaller
 union
-unique
-unique-files
 unit
 unit_testing
 unit-testing
+unitconvesion
 unittest
 unittesting
 unity
@@ -6079,7 +6110,6 @@ userrightsassignment
 users
 userworkstations
 usg
-usps
 utc
 utf-8
 utf-sig
