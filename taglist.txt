@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 12 June 2022 09:52:35 UTC
+Updated: Sunday, 12 June 2022 17:53:38 UTC
 
 ?:
 ??
@@ -223,7 +223,6 @@ alac
 alarm
 albertheijn
 albums
-alero
 alert
 alerting
 alertmail
@@ -345,6 +344,8 @@ appxmanifest
 aprs
 apt-get
 apt-get-update
+aql
+arangodb
 arc
 arcade
 arcgis
@@ -590,7 +591,6 @@ azurestate
 azurestorage
 azurestorageservices
 azuretable
-azurevirtualdesktop
 azurevirtualmachines
 azurevm
 azvm
@@ -890,7 +890,6 @@ channel9
 char
 character
 chart
-charting
 charts
 chat
 chatbot
@@ -941,6 +940,7 @@ ciminstance
 cims
 cimsession
 cinegy
+cinema
 cinst
 cipher
 circuit-breaker
@@ -1100,6 +1100,7 @@ comic
 comical
 comics
 command
+command_line
 command-validation
 commandcoverage
 commandlets
@@ -1408,6 +1409,7 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
+databasetools
 databooster
 databox
 databoxedge
@@ -1492,7 +1494,6 @@ deep
 deepvisibility
 def
 default
-defaultparameter
 defaultroutes
 defaults
 defence
@@ -1515,8 +1516,6 @@ demand
 demo
 democratie
 demonstration
-demultiplex
-demultiplexing
 dependencies
 dependency
 deploy
@@ -1715,6 +1714,7 @@ dots
 dotteddecimalip
 doubleclick
 download
+downloader
 downloadinfo
 downloading
 downloads
@@ -1817,7 +1817,6 @@ ebooks
 ebur128
 ec2
 ecommerce
-ecovadis
 edgaronline
 edge
 edgegateway
@@ -1927,6 +1926,7 @@ errorview
 eryph
 esae
 escape
+escapecodes
 escapesequences
 escaping
 ese
@@ -1958,6 +1958,7 @@ event_id
 event_list
 event-timeline
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2048,6 +2049,7 @@ extensions
 external
 externalip
 extract
+extractor
 extreme-networks
 eztheme
 f
@@ -2136,6 +2138,7 @@ filetransfer
 filetype
 filewrite
 fill
+film
 filter
 filter-item
 filtering
@@ -2146,7 +2149,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialforce
 find
 find-path
 findlocation
@@ -2216,7 +2218,6 @@ fortigate
 fortigi
 fortimanager
 fortinet
-fortinetmanager
 fortios
 fortune
 forum
@@ -2793,6 +2794,7 @@ intacct
 integrated
 integratedscriptingeditor
 integration
+integrationaccount
 integrationservicescatalog
 integrity
 intel
@@ -2880,7 +2882,6 @@ iso-3166-1
 iso-8601
 ispac
 isprime
-issues
 isvalidemail
 isvalidip
 item
@@ -2927,7 +2928,6 @@ joke
 jotform
 journal
 jpg
-js7
 jsm
 jsm.insight
 json
@@ -3104,6 +3104,7 @@ linearalgebra
 link
 linkedin
 linkedinads
+linkid
 linq
 linqpad
 lint
@@ -3641,7 +3642,6 @@ nets
 netsapiens
 netscaler
 netscape
-netsec
 netsh
 netstat
 netsuite
@@ -3918,7 +3918,6 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
-osdprogress
 osdsus
 osdupdate
 osi
@@ -4140,7 +4139,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pni
 pnp
@@ -4330,6 +4328,7 @@ product
 productid
 productivity
 productmedia
+products
 productstate
 profile
 profiler
@@ -4658,7 +4657,6 @@ react-stockcharts
 read-slog
 readable
 readiness
-readme
 readthedocs
 realschule
 rebase
@@ -4839,7 +4837,6 @@ ripe
 risk
 riskiq
 riskpro
-risksense
 rlan
 rmcp
 rmm
@@ -4908,7 +4905,6 @@ runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
-runway
 russia
 rust
 rust-lang
@@ -4945,6 +4941,7 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
+sasdatasets
 sasxpt
 satirical
 save
@@ -5411,7 +5408,6 @@ spotify-api
 spotlight
 spotlightimages
 spp
-spread
 spreadsheet
 springcloud
 sql
@@ -5423,7 +5419,6 @@ sqlautomation
 sqlchangeautomation
 sqlclient
 sqlcmd
-sqlcodeguard
 sqldbatools
 sqldiagapi
 sqlexport
@@ -5911,7 +5906,6 @@ ts
 tsa
 tsd
 tsheets
-tsqlbestpractice
 tts
 tui
 tulpep
