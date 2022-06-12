@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 11 June 2022 17:52:49 UTC
+Updated: Sunday, 12 June 2022 02:36:49 UTC
 
 ?:
 ??
@@ -26,7 +26,6 @@ Updated: Saturday, 11 June 2022 17:52:49 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -111,7 +110,6 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
-activeefficiency
 activeresponse
 activesession
 activiti
@@ -392,6 +390,7 @@ asn
 asn.1
 asn1
 asnbank
+asp
 asp.net
 aspnet
 aspnet_regiis
@@ -1031,6 +1030,7 @@ cloudmarque
 cloudservice
 clueser
 cluster
+clusterminimumvalues
 clusterplugins
 cmaccounts
 cmbuild
@@ -1281,6 +1281,7 @@ createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
+creator
 cred
 credential
 credential-file
@@ -1715,6 +1716,7 @@ dots
 dotteddecimalip
 doubleclick
 download
+downloader
 downloadinfo
 downloading
 downloads
@@ -1909,12 +1911,14 @@ envvar
 envvars
 eol
 eop
+eperl
 ephesoft
 epicorerp
 episode
 epplus
 eprosima
 equality
+erb
 erp
 error
 error-log
@@ -2048,6 +2052,7 @@ extensions
 external
 externalip
 extract
+extractor
 extreme-networks
 eztheme
 f
@@ -2294,9 +2299,7 @@ gemlog
 gemtext
 general
 generate
-generateaddress
 generates
-generatewif
 generation
 generator
 generic
@@ -2390,7 +2393,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2525,7 +2527,6 @@ heating
 heavenbay
 helix
 hello
-helloid
 helloposhgallery
 helloworld
 helmet
@@ -2564,7 +2565,6 @@ hivehome
 hjson
 hl7
 hlds
-hls
 hockey
 hol
 holiday
@@ -2638,6 +2638,7 @@ hyperlink
 hyperthreading
 hyperv
 hypervisor
+hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -2903,9 +2904,7 @@ japanese
 jar
 jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jdedwards
@@ -2938,6 +2937,7 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
+jsp
 jumbo
 jump
 jump-location
@@ -2971,6 +2971,7 @@ kelverion
 kentico
 kerberos
 kernel32
+kestrel
 key
 key-vault
 key2wocas
@@ -3103,6 +3104,7 @@ linearalgebra
 link
 linkedin
 linkedinads
+linkid
 linq
 linqpad
 lint
@@ -3291,12 +3293,12 @@ mariadb
 mark
 markdig
 markdown
+markdownrender
 marketing
 marketo
 marketplace
 marketplaceordering
 marking
-marklogic
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3369,6 +3371,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messages
 messaging
 messenger
@@ -3420,7 +3423,6 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -3452,6 +3454,7 @@ mitrend
 mittelschule
 mixedreality
 mixer
+mkdocs
 mlflow
 mmdc
 mobile
@@ -3495,7 +3498,6 @@ mozilla
 mp3
 mp4
 mpc
-mpeg
 mpn
 mrvl_fc_powerkit
 mrvlfcprovider
@@ -3606,7 +3608,6 @@ nav
 navigation
 nbi
 ncal
-ndes
 nebulon
 nec-infrared-transmission-protocol
 nederland
@@ -3665,6 +3666,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4278,6 +4280,8 @@ preparead
 preparealldomains
 prepareschema
 prepend
+preprocessing
+preprocessor
 presentation
 presenter
 preston-k-parsard
@@ -4320,6 +4324,7 @@ product
 productid
 productivity
 productmedia
+products
 productstate
 profile
 profiler
@@ -4606,7 +4611,6 @@ rainbow
 raisers
 raj
 ram
-ram-it
 random
 random-date
 randompassword
@@ -4833,7 +4837,6 @@ risksense
 rlan
 rmcp
 rmm
-rmmapi
 rms
 rng
 roarwrecker
@@ -5682,6 +5685,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
@@ -5776,7 +5780,6 @@ theme
 themes
 thermal
 thermostat
-thinprint
 third-party-libraries
 third-party-notice
 thispc
@@ -5829,7 +5832,6 @@ tool
 toolbox
 toolkit
 tools
-tools4ever
 topdesk
 topics
 topology
@@ -5839,7 +5841,6 @@ toshiba
 totp
 touch
 toughswitch
-tphubps
 tpp
 trace
 traceevent
@@ -5909,6 +5910,7 @@ tuner
 tutorial
 tv
 tweet
+twig
 twilio
 twincat
 twinkly
@@ -5938,7 +5940,6 @@ ubnt
 ubuntu
 ucs
 ucspowertool
-ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -6124,7 +6125,6 @@ validate
 validate-dcb
 validatemapsconnectivity
 validation
-validator
 value
 valve
 vami
@@ -6171,7 +6171,6 @@ verbose psmodule
 version
 versioncontrol
 versioning
-versionmanager
 versionnumber
 vertical
 vester
@@ -6317,7 +6316,6 @@ warranty
 warrenty
 wasabi
 watch
-watchguard
 watchmen
 watery
 wave
@@ -6392,7 +6390,6 @@ whois
 whormi
 wi-fi
 wid
-wif
 wifi
 wiki
 wildcard
@@ -6460,6 +6457,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
