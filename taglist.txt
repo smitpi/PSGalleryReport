@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 12 June 2022 02:36:49 UTC
+Updated: Sunday, 12 June 2022 09:52:35 UTC
 
 ?:
 ??
@@ -26,6 +26,7 @@ Updated: Sunday, 12 June 2022 02:36:49 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -110,6 +111,7 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
+activeefficiency
 activeresponse
 activesession
 activiti
@@ -939,7 +941,6 @@ ciminstance
 cims
 cimsession
 cinegy
-cinema
 cinst
 cipher
 circuit-breaker
@@ -1099,7 +1100,6 @@ comic
 comical
 comics
 command
-command_line
 command-validation
 commandcoverage
 commandlets
@@ -1408,7 +1408,6 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
-databasetools
 databooster
 databox
 databoxedge
@@ -1716,7 +1715,6 @@ dots
 dotteddecimalip
 doubleclick
 download
-downloader
 downloadinfo
 downloading
 downloads
@@ -1929,7 +1927,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -1961,7 +1958,6 @@ event_id
 event_list
 event-timeline
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -2052,7 +2048,6 @@ extensions
 external
 externalip
 extract
-extractor
 extreme-networks
 eztheme
 f
@@ -2141,7 +2136,6 @@ filetransfer
 filetype
 filewrite
 fill
-film
 filter
 filter-item
 filtering
@@ -2299,7 +2293,9 @@ gemlog
 gemtext
 general
 generate
+generateaddress
 generates
+generatewif
 generation
 generator
 generic
@@ -2393,6 +2389,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2527,6 +2524,7 @@ heating
 heavenbay
 helix
 hello
+helloid
 helloposhgallery
 helloworld
 helmet
@@ -2565,6 +2563,7 @@ hivehome
 hjson
 hl7
 hlds
+hls
 hockey
 hol
 holiday
@@ -2794,7 +2793,6 @@ intacct
 integrated
 integratedscriptingeditor
 integration
-integrationaccount
 integrationservicescatalog
 integrity
 intel
@@ -2904,7 +2902,9 @@ japanese
 jar
 jav
 java
+javamanager
 javascript
+javaversion
 jboss
 jdbc
 jdedwards
@@ -3104,7 +3104,6 @@ linearalgebra
 link
 linkedin
 linkedinads
-linkid
 linq
 linqpad
 lint
@@ -3299,6 +3298,7 @@ marketo
 marketplace
 marketplaceordering
 marking
+marklogic
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3423,6 +3423,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -3498,6 +3499,7 @@ mozilla
 mp3
 mp4
 mpc
+mpeg
 mpn
 mrvl_fc_powerkit
 mrvlfcprovider
@@ -3575,6 +3577,7 @@ mutation
 mute
 mutex
 mva
+mvn
 mvp
 mx
 mxlookup
@@ -3608,6 +3611,7 @@ nav
 navigation
 nbi
 ncal
+ndes
 nebulon
 nec-infrared-transmission-protocol
 nederland
@@ -4255,6 +4259,7 @@ powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellscript
 powershelltemplate
 powershelltypeaccelerators
 powershellv5
@@ -4284,6 +4289,7 @@ preprocessing
 preprocessor
 presentation
 presenter
+presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4324,7 +4330,6 @@ product
 productid
 productivity
 productmedia
-products
 productstate
 profile
 profiler
@@ -4611,6 +4616,7 @@ rainbow
 raisers
 raj
 ram
+ram-it
 random
 random-date
 randompassword
@@ -4837,6 +4843,7 @@ risksense
 rlan
 rmcp
 rmm
+rmmapi
 rms
 rng
 roarwrecker
@@ -4938,7 +4945,6 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
-sasdatasets
 sasxpt
 satirical
 save
@@ -5780,6 +5786,7 @@ theme
 themes
 thermal
 thermostat
+thinprint
 third-party-libraries
 third-party-notice
 thispc
@@ -5832,6 +5839,7 @@ tool
 toolbox
 toolkit
 tools
+tools4ever
 topdesk
 topics
 topology
@@ -5841,6 +5849,7 @@ toshiba
 totp
 touch
 toughswitch
+tphubps
 tpp
 trace
 traceevent
@@ -5940,6 +5949,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -6125,6 +6135,7 @@ validate
 validate-dcb
 validatemapsconnectivity
 validation
+validator
 value
 valve
 vami
@@ -6171,6 +6182,7 @@ verbose psmodule
 version
 versioncontrol
 versioning
+versionmanager
 versionnumber
 vertical
 vester
@@ -6316,6 +6328,7 @@ warranty
 warrenty
 wasabi
 watch
+watchguard
 watchmen
 watery
 wave
@@ -6390,6 +6403,7 @@ whois
 whormi
 wi-fi
 wid
+wif
 wifi
 wiki
 wildcard
