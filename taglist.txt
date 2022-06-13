@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 13 June 2022 09:53:26 UTC
+Updated: Monday, 13 June 2022 17:53:01 UTC
 
 ?:
 ??
@@ -399,6 +399,7 @@ asp.net
 aspnet
 aspnet_regiis
 asr
+assembleenationale
 assemblymeta
 assert
 assertion
@@ -504,6 +505,7 @@ az-cli
 az.automation
 az.stackhci
 aza
+azautomation
 azcli
 azcompute
 azd
@@ -511,6 +513,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -553,7 +556,6 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
-azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -802,7 +804,6 @@ callqueue
 cam
 camera
 campaign
-camtasia
 canarie
 cancel
 canonical
@@ -878,6 +879,7 @@ certificates
 certificateservices
 certificatesmanagement
 certutil
+cf
 cfn
 ch9
 change
@@ -1054,7 +1056,6 @@ cmtrace
 cmwt
 cns
 coa
-cockroachdb
 codaamok
 code
 code-page
@@ -1152,7 +1153,6 @@ confidentialclient
 confidentialledger
 config
 configapi
-configascode
 configdata
 configkey
 configmgr
@@ -1408,7 +1408,6 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
-databasetools
 databooster
 databox
 databoxedge
@@ -1514,6 +1513,7 @@ dellemc
 delta
 demand
 demo
+democratie
 demonstration
 demultiplex
 demultiplexing
@@ -1524,6 +1524,7 @@ deployment
 deploymentconfig
 deploymentmanager
 deploymentresourceprovider
+depute
 der
 description
 deserialize
@@ -1625,6 +1626,7 @@ dism
 dismal
 display
 displayresolution
+distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1982,6 +1984,7 @@ evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -2229,6 +2232,7 @@ fox
 foxpro
 fqdn
 framework
+france
 freeipa
 freenas
 freesoftwarefoundation
@@ -2518,7 +2522,6 @@ healthcareapis
 healthcheck
 healthchecks
 healthservice
-healthz
 heartbeatdiscovery
 heat
 heating
@@ -2794,6 +2797,7 @@ intacct
 integrated
 integratedscriptingeditor
 integration
+integrationaccount
 integrationservicescatalog
 integrity
 intel
@@ -3061,8 +3065,12 @@ ldap
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leetabit
 leftjoin
@@ -3267,6 +3275,7 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
+managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3299,6 +3308,7 @@ marketo
 marketplace
 marketplaceordering
 marking
+marklogic
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3306,6 +3316,7 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
+mass
 masstransit
 masterconfiguration
 matcharray
@@ -3863,12 +3874,14 @@ open-ai
 open-ssh
 openai
 openapi
+opendata
 openedge
 openfiles
 openhere
 openidconnect
 openinghours
 openport
+openscad
 opensourceinitiative
 openssh
 openssl
@@ -3921,7 +3934,6 @@ osdupdate
 osi
 osmanagement
 osp
-ospgateway
 osprovision
 osprovisioning
 oss
@@ -4232,8 +4244,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4244,10 +4258,13 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4258,6 +4275,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
@@ -4484,6 +4502,7 @@ psprovider
 psprtg
 pspublicapi
 psraw
+psreadexif
 psreadline
 psremoting
 psrepository
@@ -4705,6 +4724,7 @@ reflection
 refresh
 refreshtoken
 reg
+regardscitoyen
 regex
 region
 regions
@@ -5096,6 +5116,8 @@ selfsigned
 semantic
 semantic-versioning
 semver
+senat
+senateur
 send
 send-logtologanalytics
 send-mailmessage
@@ -5392,7 +5414,6 @@ speedtester
 spf
 spi
 spinnaker
-splat
 splatting
 split
 splunk
@@ -5708,7 +5729,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-techsmith
 tel
 telegram
 telegram-bot
@@ -5858,6 +5878,7 @@ trafficmanager
 trafficmarking
 train
 training
+training-course
 tram
 transact
 transaction
@@ -5876,7 +5897,6 @@ transliteration
 transmission
 transparency
 trap
-trec
 tree
 treesize
 treffynnon
@@ -6035,6 +6055,7 @@ unique-files
 unit
 unit_testing
 unit-testing
+unitconvesion
 unittest
 unittesting
 unity
@@ -6189,7 +6210,6 @@ videos
 vie
 viewer
 viewgroup
-vigenere
 vim
 vimode
 virole
