@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 12 June 2022 17:53:38 UTC
+Updated: Monday, 13 June 2022 02:36:39 UTC
 
 ?:
 ??
@@ -223,6 +223,7 @@ alac
 alarm
 albertheijn
 albums
+alero
 alert
 alerting
 alertmail
@@ -478,7 +479,6 @@ autotaskpsa
 autoyast
 availability
 availabilityset
-avalara
 avalonia
 ave
 avepoint
@@ -504,7 +504,6 @@ az-cli
 az.automation
 az.stackhci
 aza
-azautomation
 azcli
 azcompute
 azd
@@ -512,7 +511,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -591,6 +589,7 @@ azurestate
 azurestorage
 azurestorageservices
 azuretable
+azurevirtualdesktop
 azurevirtualmachines
 azurevm
 azvm
@@ -890,6 +889,7 @@ channel9
 char
 character
 chart
+charting
 charts
 chat
 chatbot
@@ -1494,6 +1494,7 @@ deep
 deepvisibility
 def
 default
+defaultparameter
 defaultroutes
 defaults
 defence
@@ -1516,6 +1517,8 @@ demand
 demo
 democratie
 demonstration
+demultiplex
+demultiplexing
 dependencies
 dependency
 deploy
@@ -1817,6 +1820,7 @@ ebooks
 ebur128
 ec2
 ecommerce
+ecovadis
 edgaronline
 edge
 edgegateway
@@ -2218,6 +2222,7 @@ fortigate
 fortigi
 fortimanager
 fortinet
+fortinetmanager
 fortios
 fortune
 forum
@@ -2259,7 +2264,6 @@ function
 functionality
 functionalprogramming
 functions
-funds
 funny
 fuzzy
 fyi
@@ -2390,7 +2394,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2826,7 +2829,6 @@ invoke
 invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
-invoke-automation
 invoke-build
 invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
@@ -2882,6 +2884,7 @@ iso-3166-1
 iso-8601
 ispac
 isprime
+issues
 isvalidemail
 isvalidip
 item
@@ -3266,7 +3269,6 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
-managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3291,7 +3293,6 @@ maps
 mapsapi
 mariadb
 mark
-markdig
 markdown
 markdownrender
 marketing
@@ -3354,7 +3355,6 @@ mediawiki
 meeting
 meetup
 meetup.com
-meewind
 megabyte
 meltdown
 mem
@@ -3642,6 +3642,7 @@ nets
 netsapiens
 netscaler
 netscape
+netsec
 netsh
 netstat
 netsuite
@@ -3918,6 +3919,7 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
+osdprogress
 osdsus
 osdupdate
 osi
@@ -4139,6 +4141,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 pni
 pnp
@@ -4572,10 +4575,7 @@ qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
-qlik-api
-qlik-view
 qlikview
-qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
 qlogicfcpowerkit
@@ -4657,6 +4657,7 @@ react-stockcharts
 read-slog
 readable
 readiness
+readme
 readthedocs
 realschule
 rebase
@@ -4837,6 +4838,7 @@ ripe
 risk
 riskiq
 riskpro
+risksense
 rlan
 rmcp
 rmm
@@ -4905,6 +4907,7 @@ runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
+runway
 russia
 rust
 rust-lang
@@ -5408,6 +5411,7 @@ spotify-api
 spotlight
 spotlightimages
 spp
+spread
 spreadsheet
 springcloud
 sql
@@ -5419,6 +5423,7 @@ sqlautomation
 sqlchangeautomation
 sqlclient
 sqlcmd
+sqlcodeguard
 sqldbatools
 sqldiagapi
 sqlexport
@@ -5686,7 +5691,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -5906,6 +5910,7 @@ ts
 tsa
 tsd
 tsheets
+tsqlbestpractice
 tts
 tui
 tulpep
@@ -5967,7 +5972,6 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -5990,7 +5994,6 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -6104,7 +6107,6 @@ userrightsassignment
 users
 userworkstations
 usg
-usps
 utc
 utf-8
 utf-sig
@@ -6164,7 +6166,6 @@ ve7cc
 vector
 veeam
 veeampn
-veeva
 venafi
 vendor
 venue
@@ -6293,7 +6294,6 @@ vsts
 vsts-cli
 vulnerability
 vulnerabilityassessment
-vulnerabilityscanning
 vulnerabilty
 vum
 vvx
