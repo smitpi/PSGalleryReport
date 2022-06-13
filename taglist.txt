@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 13 June 2022 02:36:39 UTC
+Updated: Monday, 13 June 2022 09:53:26 UTC
 
 ?:
 ??
@@ -399,7 +399,6 @@ asp.net
 aspnet
 aspnet_regiis
 asr
-assembleenationale
 assemblymeta
 assert
 assertion
@@ -479,6 +478,7 @@ autotaskpsa
 autoyast
 availability
 availabilityset
+avalara
 avalonia
 ave
 avepoint
@@ -878,7 +878,6 @@ certificates
 certificateservices
 certificatesmanagement
 certutil
-cf
 cfn
 ch9
 change
@@ -1515,7 +1514,6 @@ dellemc
 delta
 demand
 demo
-democratie
 demonstration
 demultiplex
 demultiplexing
@@ -1526,7 +1524,6 @@ deployment
 deploymentconfig
 deploymentmanager
 deploymentresourceprovider
-depute
 der
 description
 deserialize
@@ -1628,7 +1625,6 @@ dism
 dismal
 display
 displayresolution
-distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1811,7 +1807,6 @@ dyndns
 dynmanageddns
 e-mail
 easy
-easy-to-use
 easylife365
 easyvista
 eaton
@@ -2153,6 +2148,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialforce
 find
 find-path
 findlocation
@@ -2233,7 +2229,6 @@ fox
 foxpro
 fqdn
 framework
-france
 freeipa
 freenas
 freesoftwarefoundation
@@ -2264,6 +2259,7 @@ function
 functionality
 functionalprogramming
 functions
+funds
 funny
 fuzzy
 fyi
@@ -2394,6 +2390,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2797,7 +2794,6 @@ intacct
 integrated
 integratedscriptingeditor
 integration
-integrationaccount
 integrationservicescatalog
 integrity
 intel
@@ -2829,6 +2825,7 @@ invoke
 invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
+invoke-automation
 invoke-build
 invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
@@ -2931,6 +2928,7 @@ joke
 jotform
 journal
 jpg
+js7
 jsm
 jsm.insight
 json
@@ -3293,6 +3291,7 @@ maps
 mapsapi
 mariadb
 mark
+markdig
 markdown
 markdownrender
 marketing
@@ -3300,7 +3299,6 @@ marketo
 marketplace
 marketplaceordering
 marking
-marklogic
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3308,7 +3306,6 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
-mass
 masstransit
 masterconfiguration
 matcharray
@@ -3355,6 +3352,7 @@ mediawiki
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 meltdown
 mem
@@ -3865,14 +3863,12 @@ open-ai
 open-ssh
 openai
 openapi
-opendata
 openedge
 openfiles
 openhere
 openidconnect
 openinghours
 openport
-openscad
 opensourceinitiative
 openssh
 openssl
@@ -4488,7 +4484,6 @@ psprovider
 psprtg
 pspublicapi
 psraw
-psreadexif
 psreadline
 psremoting
 psrepository
@@ -4575,7 +4570,10 @@ qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
+qlik-api
+qlik-view
 qlikview
+qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
 qlogicfcpowerkit
@@ -4707,7 +4705,6 @@ reflection
 refresh
 refreshtoken
 reg
-regardscitoyen
 regex
 region
 regions
@@ -5099,8 +5096,6 @@ selfsigned
 semantic
 semantic-versioning
 semver
-senat
-senateur
 send
 send-logtologanalytics
 send-mailmessage
@@ -5691,6 +5686,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
@@ -5972,6 +5968,7 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -5994,6 +5991,7 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -6037,7 +6035,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
@@ -6107,6 +6104,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -6166,6 +6164,7 @@ ve7cc
 vector
 veeam
 veeampn
+veeva
 venafi
 vendor
 venue
@@ -6294,6 +6293,7 @@ vsts
 vsts-cli
 vulnerability
 vulnerabilityassessment
+vulnerabilityscanning
 vulnerabilty
 vum
 vvx
