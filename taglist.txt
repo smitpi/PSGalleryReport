@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 13 June 2022 17:53:01 UTC
+Updated: Tuesday, 14 June 2022 02:39:29 UTC
 
 ?:
 ??
@@ -526,7 +526,6 @@ azstate
 azsubnet
 azuead
 azure
-azure_ad
 azure_security
 azure-adx
 azure-backup
@@ -547,7 +546,6 @@ azurearc
 azureas
 azureautomation
 azureautomationnotsupported
-azurecli
 azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
@@ -804,6 +802,7 @@ callqueue
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 canonical
@@ -1056,6 +1055,7 @@ cmtrace
 cmwt
 cns
 coa
+cockroachdb
 codaamok
 code
 code-page
@@ -1408,6 +1408,7 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
+databasetools
 databooster
 databox
 databoxedge
@@ -1433,7 +1434,6 @@ dataplatform
 datapro
 dataprotection
 dataquality
-datarow
 datasafe
 datascience
 dataset
@@ -1647,7 +1647,6 @@ dl
 dll
 dlmautomation
 dlmigration
-dlp
 dmarc
 dmgr
 dmi
@@ -1809,6 +1808,7 @@ dyndns
 dynmanageddns
 e-mail
 easy
+easy-to-use
 easylife365
 easyvista
 eaton
@@ -1989,7 +1989,6 @@ excel
 exception
 exceptionless
 exchange
-exchange_online
 exchange-rates
 exchange2010
 exchange2013
@@ -2024,7 +2023,6 @@ expand-tab
 expandframework
 experiments
 expired
-expiring
 expiry
 exploit
 exploration
@@ -2151,7 +2149,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialforce
 find
 find-path
 findlocation
@@ -2522,6 +2519,7 @@ healthcareapis
 healthcheck
 healthchecks
 healthservice
+healthz
 heartbeatdiscovery
 heat
 heating
@@ -2814,6 +2812,8 @@ internet-explorer
 internetexplorer
 intersight
 intersightcmdlets
+interval
+interval-timer
 intigua
 intranet
 intrusion
@@ -2861,7 +2861,6 @@ iphone
 ipilot
 iplookup
 ipmaths
-ipp
 iprange
 ipv4
 ipv6
@@ -3403,10 +3402,6 @@ microfocus
 microk8s
 microservices
 microsoft
-microsoft_365
-microsoft_azure
-microsoft_online
-microsoft_teams
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -3513,9 +3508,7 @@ mpeg
 mpn
 mrvl_fc_powerkit
 mrvlfcprovider
-ms_365
 ms-graph
-ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
@@ -3647,7 +3640,6 @@ netcore
 netfirewallrule
 netherlands
 netmask
-nets
 netsapiens
 netscaler
 netscape
@@ -3805,7 +3797,6 @@ odoo
 offboarding
 offence
 office
-office_365
 office2010
 office2013
 office2016
@@ -3934,6 +3925,7 @@ osdupdate
 osi
 osmanagement
 osp
+ospgateway
 osprovision
 osprovisioning
 oss
@@ -4103,7 +4095,6 @@ php
 phpapam
 pi
 picker
-picture
 pictures
 pid
 pie
@@ -4170,6 +4161,7 @@ policystate
 poll
 polly
 polycom
+pomodoro
 ponduit
 pool
 poop
@@ -4304,7 +4296,6 @@ preprocessing
 preprocessor
 presentation
 presenter
-presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4408,7 +4399,6 @@ ps5
 ps6
 ps7
 psa
-psadbscreencap
 psadt
 psake
 psappdeploytoolkit
@@ -4547,7 +4537,6 @@ publicip
 publish
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -5022,7 +5011,6 @@ scrap
 scrape
 scraper
 screen
-screencap
 screencapture
 screenconnect
 screenfetch
@@ -5087,7 +5075,6 @@ security-txt
 security.txt
 securityassertionmarkuplanguage
 securitycenter
-securitycompliancecenter
 securitygroup
 securitygroups
 securityinsights
@@ -5159,7 +5146,6 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
-servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5257,7 +5243,6 @@ simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
-simplysql
 sin
 single
 singlestore
@@ -5414,6 +5399,7 @@ speedtester
 spf
 spi
 spinnaker
+splat
 splatting
 split
 splunk
@@ -5729,6 +5715,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+techsmith
 tel
 telegram
 telegram-bot
@@ -5897,6 +5884,7 @@ transliteration
 transmission
 transparency
 trap
+trec
 tree
 treesize
 treffynnon
@@ -6210,6 +6198,7 @@ videos
 vie
 viewer
 viewgroup
+vigenere
 vim
 vimode
 virole
@@ -6557,7 +6546,6 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
-wrike
 write
 write-ascii
 write-color
