@@ -1026,9 +1026,9 @@ A set of utilities and tools to work in Powershell 1C.
 
 __Downloads__: 265,924 | __Repository__: https://bitbucket.org/willynilly74/1c.utils/wiki/Home
 
-## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.5.10.1) | 22.5.10.1
+## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.6.14.2) | 22.6.14.2
 
-### Published: 05/10/2022 20:52:24 by David Segura @SeguraOSD
+### Published: 06/15/2022 07:29:16 by David Segura @SeguraOSD
 
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
@@ -1112,9 +1112,9 @@ Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few 
 
 __Downloads__: 234,344 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.11.1) | 22.6.11.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.15.1) | 22.6.15.1
 
-### Published: 06/11/2022 06:44:55 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+### Published: 06/15/2022 07:29:07 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
 
 OSDCloud Azure Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
@@ -2152,4 +2152,4 @@ PowerShell data (psd1) tool kit
 
 __Downloads__: 64,381 | __Repository__: https://github.com/nightroman/PsdKit
 
-*Updated: Wednesday, 15 June 2022 02:38:16 UTC*
+*Updated: Wednesday, 15 June 2022 09:53:01 UTC*

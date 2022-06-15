@@ -5,6 +5,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org) that are Azure-related. This includes modules published by Microsoft and the community. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSAzureMigrationAdvisor](https://www.powershellgallery.com/Packages/PSAzureMigrationAdvisor/1.1.6) | 1.1.6
+
+### Published: 06/15/2022 07:18:58 by Friedrich Weinmann
+
+Tools to help migrate scripts using the official Azure/AzureAD modules
+
+__Downloads__: 106 | __Repository__: https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor
+
 ## [AzureDevOps.Services.OpenApi](https://www.powershellgallery.com/Packages/AzureDevOps.Services.OpenApi/1.0.2) | 1.0.2
 
 ### Published: 06/14/2022 07:48:47 by Friedrich Weinmann
@@ -1047,14 +1055,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 2 | __Repository__: 
 
-## [pspulumiyaml.azurenative.dbforpostgresql](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.dbforpostgresql/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:00:41 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 4 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.dbformysql](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.dbformysql/0.0.2) | 0.0.2
 
 ### Published: 06/08/2022 20:00:35 by Worxspace
@@ -1158,14 +1158,6 @@ __Downloads__: 2 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.dashboard](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.dashboard/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 19:59:17 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 4 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.customproviders](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.customproviders/0.0.2) | 0.0.2
 
@@ -1670,14 +1662,6 @@ This module exports all the Azure AD objects and Identity related settings in yo
 
 __Downloads__: 2,633 | __Repository__: https://github.com/microsoft/azureadexporter
 
-## [PSAzureMigrationAdvisor](https://www.powershellgallery.com/Packages/PSAzureMigrationAdvisor/1.1.5) | 1.1.5
-
-### Published: 04/14/2022 10:39:13 by Friedrich Weinmann
-
-Tools to help migrate scripts using the official Azure/AzureAD modules
-
-__Downloads__: 106 | __Repository__: https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor
-
 ## [AzureRestApiHelper](https://www.powershellgallery.com/Packages/AzureRestApiHelper/0.0.4) | 0.0.4
 
 ### Published: 03/30/2022 14:59:03 by Lars Panzerbjørn
@@ -1930,14 +1914,6 @@ This module gets all Azure container registry based on subscription, including r
 
 __Downloads__: 94 | __Repository__: https://github.com/lukasz-kuch/ps-azure-container-registry
 
-## [ProductivityTools.AzureAutomation](https://www.powershellgallery.com/Packages/ProductivityTools.AzureAutomation/0.0.7) | 0.0.7
-
-### Published: 09/04/2021 19:51:45 by Pawel Wujczyk
-
-Abstract layer on the Powershell azure cmdlets.
-
-__Downloads__: 234 | __Repository__: http://productivitytools.tech/ss/
-
 ## [AzureAD](https://www.powershellgallery.com/Packages/AzureAD/2.0.2.140) | 2.0.2.140
 
 ### Published: 08/19/2021 21:05:09 by Microsoft Corporation
@@ -2030,4 +2006,28 @@ PowerShell module for working with the Azure Key Vault.
 
 __Downloads__: 641 | __Repository__: https://github.com/christaylorcodes/AzureKeyVaultHelper
 
-*Updated: Wednesday, 15 June 2022 02:38:10 UTC*
+## [AzureRmStorageTable](https://www.powershellgallery.com/Packages/AzureRmStorageTable/2.1.0) | 2.1.0
+
+### Published: 04/09/2021 22:12:17 by Paulo Marques (MSFT)
+
+Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
+
+__Downloads__: 1,352,730 | __Repository__: 
+
+## [AzureADAuthMethods](https://www.powershellgallery.com/Packages/AzureADAuthMethods/1.2.2) | 1.2.2
+
+### Published: 04/08/2021 22:36:20 by Microsoft Identity
+
+This is a community-supported module helps Azure AD administrators managing authentication methods for users. To report issues and contribute go to https://github.com/andres-canello/AzureADAuthMethods
+
+__Downloads__: 374 | __Repository__: 
+
+## [AzureServicePrincipalAccount](https://www.powershellgallery.com/Packages/AzureServicePrincipalAccount/2.1.0) | 2.1.0
+
+### Published: 04/07/2021 09:44:51 by Tao Yang
+
+Azure Automation module that defines key (password) based Azure AD Service Principal connection asset and offers easier way to sign in to Azure using the service principals. It also provides a function Get-AzureADToken that generates Azure AD oAuth token either using a user principal or a service principal.
+
+__Downloads__: 6,299 | __Repository__: https://github.com/tyconsulting/AzureServicePrincipalAccount-PS
+
+*Updated: Wednesday, 15 June 2022 09:52:56 UTC*

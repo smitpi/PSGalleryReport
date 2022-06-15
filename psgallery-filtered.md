@@ -5,6 +5,108 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PhpConfig](https://www.powershellgallery.com/Packages/PhpConfig/1.1.4) | 1.1.4
+
+### Published: 06/15/2022 09:30:11 by Nicolas Cavare
+
+A PowerShell module to configure PHP
+
+__Downloads__: 60 | __Repository__: https://github.com/ncavare/powershell-phpconfig
+
+## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.4.0) | 3.4.0
+
+### Published: 06/15/2022 09:18:04 by Joon Ro
+
+Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
+
+__Downloads__: 52,327 | __Repository__: https://github.com/joonro/Get-ChildItemColor
+
+## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.6.14.2) | 22.6.14.2
+
+### Published: 06/15/2022 07:29:16 by David Segura @SeguraOSD
+
+https://osdsus.osdeploy.com/
+https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
+
+WSUS Update Catalogs:
+These are contained within this PowerShell Module, so regular Module updating is needed to
+ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
+from Microsoft Update Catalog website due to Preview Releases
+
+__Downloads__: 264,111 | __Repository__: https://github.com/OSDeploy/OSDSUS
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.15.1) | 22.6.15.1
+
+### Published: 06/15/2022 07:29:07 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+OSDCloud Azure Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 228,044 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Profiler](https://www.powershellgallery.com/Packages/Profiler/4.0.0) | 4.0.0
+
+### Published: 06/15/2022 07:22:08 by nohwnd
+
+Script, ScriptBlock and module performance profiler for PowerShell 5, and PowerShell 7.
+
+__Downloads__: 3,499 | __Repository__: https://github.com/nohwnd/Profiler
+
+## [PSAzureMigrationAdvisor](https://www.powershellgallery.com/Packages/PSAzureMigrationAdvisor/1.1.6) | 1.1.6
+
+### Published: 06/15/2022 07:18:58 by Friedrich Weinmann
+
+Tools to help migrate scripts using the official Azure/AzureAD modules
+
+__Downloads__: 106 | __Repository__: https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor
+
+## [AVDManagementFramework](https://www.powershellgallery.com/Packages/AVDManagementFramework/1.0.37) | 1.0.37
+
+### Published: 06/15/2022 07:16:31 by wmoselhy
+
+Azure Virtual Desktop Management Framework
+
+__Downloads__: 266 | __Repository__: 
+
+## [PSCoreApplicationInsights](https://www.powershellgallery.com/Packages/PSCoreApplicationInsights/0.0.2) | 0.0.2
+
+### Published: 06/15/2022 06:56:52 by leonboers@gmail.com
+
+A module to simplify working with the Powershell Core 7 Application Insights implementation.
+
+__Downloads__: 9 | __Repository__: https://github.com/LeonB87/PSCoreApplicationInsights
+
+## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.6) | 0.0.6
+
+### Published: 06/15/2022 06:15:13 by Przemyslaw Klys
+
+Module that allows getting, adding and removing User Rights Assignment without using secedit.exe
+
+__Downloads__: 43 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
+
+## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.1.0.0) | 2.1.0.0
+
+### Published: 06/15/2022 05:55:58 by Elmar Niederkofler
+
+DesktopControl
+
+__Downloads__: 39 | __Repository__: 
+
+## [Refactor](https://www.powershellgallery.com/Packages/Refactor/1.1.15) | 1.1.15
+
+### Published: 06/15/2022 05:52:37 by Friedrich Weinmann
+
+PowerShell Code refactoring framework
+
+__Downloads__: 120 | __Repository__: https://github.com/FriedrichWeinmann/Refactor
+
+## [PdqStuff](https://www.powershellgallery.com/Packages/PdqStuff/5.2.0) | 5.2.0
+
+### Published: 06/15/2022 02:56:05 by Colby Bouma
+
+Random scripts that do fun things with PDQ.com's applications.
+
+__Downloads__: 366 | __Repository__: https://gitlab.com/ColbyBouma/pdqstuff
+
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/2.2206.335.15132) | 2.2206.335.15132
 
 ### Published: 06/15/2022 01:52:01 by Adam Rudell
@@ -982,14 +1084,6 @@ Collection of Cmdlets that run Azure Dev Ops Rest API calls. Provides access to 
 
 __Downloads__: 150 | __Repository__: 
 
-## [AVDManagementFramework](https://www.powershellgallery.com/Packages/AVDManagementFramework/1.0.36) | 1.0.36
-
-### Published: 06/14/2022 15:21:54 by wmoselhy
-
-Azure Virtual Desktop Management Framework
-
-__Downloads__: 266 | __Repository__: 
-
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.3.0) | 1.3.0
 
 ### Published: 06/14/2022 14:41:05 by Sascha Spiekermann
@@ -1029,14 +1123,6 @@ __Downloads__: 1,660,151 | __Repository__: https://dbatools.io/
 PowerShell script packaging, console-based editor, profiling, installer creation, WPF, TUI and Windows Forms design, and desktop automation.
 
 __Downloads__: 18,338 | __Repository__: 
-
-## [PhpConfig](https://www.powershellgallery.com/Packages/PhpConfig/1.1.3) | 1.1.3
-
-### Published: 06/14/2022 13:11:13 by Nicolas Cavare
-
-A PowerShell module to configure PHP
-
-__Downloads__: 60 | __Repository__: https://github.com/ncavare/powershell-phpconfig
 
 ## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.6.0.0) | 1.6.0.0
 
@@ -1163,14 +1249,6 @@ __Downloads__: 241 | __Repository__:
 PowerShell module for P2000 emergency services notifications
 
 __Downloads__: 759 | __Repository__: 
-
-## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.3.0) | 3.3.0
-
-### Published: 06/13/2022 10:41:43 by Joon Ro
-
-Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
-
-__Downloads__: 52,327 | __Repository__: https://github.com/joonro/Get-ChildItemColor
 
 ## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.7) | 0.2.7
 
@@ -1309,14 +1387,6 @@ __Downloads__: 15 | __Repository__: https://github.com/sangafabrice/download-inf
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
 __Downloads__: 112,745 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.11.1) | 22.6.11.1
-
-### Published: 06/11/2022 06:44:55 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-OSDCloud Azure Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 228,044 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.0.3) | 1.0.3
 
@@ -1545,14 +1615,6 @@ __Downloads__: 1,469 | __Repository__: https://matteoguadrini.github.io/PSCouchD
 Velkommen til vores get-pcinfo funktion, der er lavet i forbindelse med serverautomatisering 2.
 
 __Downloads__: 11 | __Repository__: 
-
-## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.0.1.0) | 2.0.1.0
-
-### Published: 06/09/2022 09:55:00 by Elmar Niederkofler
-
-DesktopControl
-
-__Downloads__: 39 | __Repository__: 
 
 ## [Sampler](https://www.powershellgallery.com/Packages/Sampler/0.115.0) | 0.115.0
 
@@ -1962,60 +2024,4 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 3 | __Repository__: 
 
-## [pspulumiyaml.azurenative.relay](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.relay/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:09:47 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 3 | __Repository__: 
-
-## [pspulumiyaml.azurenative.redhatopenshift](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.redhatopenshift/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:09:40 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 3 | __Repository__: 
-
-## [pspulumiyaml.azurenative.recoveryservices](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.recoveryservices/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:09:33 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 1 | __Repository__: 
-
-## [pspulumiyaml.azurenative.recommendationsservice](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.recommendationsservice/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:09:27 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 1 | __Repository__: 
-
-## [pspulumiyaml.azurenative.quantum](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.quantum/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:09:21 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.purview](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.purview/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:09:14 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.providerhub](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.providerhub/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:09:08 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 1 | __Repository__: 
-
-*Updated: Wednesday, 15 June 2022 02:38:08 UTC*
+*Updated: Wednesday, 15 June 2022 09:52:53 UTC*

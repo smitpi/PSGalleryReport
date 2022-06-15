@@ -2208,4 +2208,4 @@ View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modi
 
 __Downloads__: 1,498,105 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-*Updated: Wednesday, 15 June 2022 02:38:13 UTC*
+*Updated: Wednesday, 15 June 2022 09:52:59 UTC*

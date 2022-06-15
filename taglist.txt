@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 15 June 2022 02:38:20 UTC
+Updated: Wednesday, 15 June 2022 09:53:05 UTC
 
 ?:
 ??
@@ -946,7 +946,6 @@ ciminstance
 cims
 cimsession
 cinegy
-cinema
 cinst
 cipher
 circuit-breaker
@@ -1048,7 +1047,6 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
-cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1463,7 +1461,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days-week
 db
 db2
@@ -2150,7 +2147,6 @@ filetransfer
 filetype
 filewrite
 fill
-film
 filter
 filter-item
 filtering
@@ -3149,7 +3145,6 @@ literature
 live
 lldp
 lmhost
-lmhosts
 lms
 load
 loadbalancer
@@ -4482,7 +4477,6 @@ psget
 psgitlab
 psgraph
 psgraylog
-pshot
 pshtml
 psini
 psinsight
@@ -4646,7 +4640,6 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
-raisers
 raj
 ram
 ram-it
@@ -5512,10 +5505,7 @@ stackoverflow
 staffhub
 staging
 stale
-stan
-stanc
 standard
-stansummary
 start
 start-job
 start-jobthread
