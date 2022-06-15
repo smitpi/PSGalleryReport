@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 15 June 2022 09:53:05 UTC
+Updated: Wednesday, 15 June 2022 17:53:50 UTC
 
 ?:
 ??
@@ -346,8 +346,6 @@ appxmanifest
 aprs
 apt-get
 apt-get-update
-aql
-arangodb
 arc
 arcade
 arcgis
@@ -737,8 +735,6 @@ bpmn
 brainy
 branch
 brave
-brawlapi
-brawlstars
 bre
 breach
 break
@@ -946,6 +942,7 @@ ciminstance
 cims
 cimsession
 cinegy
+cinema
 cinst
 cipher
 circuit-breaker
@@ -1047,6 +1044,7 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
+cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1151,7 +1149,6 @@ concurrent
 conda
 condition
 conditionalaccess
-conduit
 conference
 confidentialclient
 confidentialledger
@@ -1355,7 +1352,6 @@ currencyconverterapi
 current
 custom
 customchecks
-customer
 customerengagement
 customers
 customevents
@@ -1461,6 +1457,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days-week
 db
 db2
@@ -2147,6 +2144,7 @@ filetransfer
 filetype
 filewrite
 fill
+film
 filter
 filter-item
 filtering
@@ -2414,7 +2412,6 @@ gopherplus
 governance
 governancerulescontrolplane
 gp
-gpedit
 gpg
 gping
 gpio
@@ -2641,7 +2638,6 @@ humorous
 hunter
 hybrid
 hybridrunbookworker
-hybris
 hyper-v
 hyperconverged
 hyperfine
@@ -3096,7 +3092,6 @@ lenovo
 lesspass
 letsencrypt
 lf
-lgpo
 libgit2
 libraries
 library
@@ -3145,6 +3140,7 @@ literature
 live
 lldp
 lmhost
+lmhosts
 lms
 load
 loadbalancer
@@ -3153,7 +3149,6 @@ loanddepot
 loandepot
 local
 local-caching
-local-policy
 localadmin
 localconfigurationmanager
 localdb
@@ -4100,7 +4095,6 @@ pfe
 pfsense
 pfx
 pgp
-phabricator
 philips
 philosophical
 philpritchett
@@ -4182,7 +4176,6 @@ poll
 polly
 polycom
 pomodoro
-ponduit
 pool
 poop
 pop
@@ -4204,7 +4197,6 @@ posh-cats
 posh-chocobear
 posh-direnv
 posh-git
-posh-ribbon
 posh-ssh
 poshbot
 poshcommence
@@ -4477,6 +4469,7 @@ psget
 psgitlab
 psgraph
 psgraylog
+pshot
 pshtml
 psini
 psinsight
@@ -4513,7 +4506,6 @@ psprovider
 psprtg
 pspublicapi
 psraw
-psreadexif
 psreadline
 psremoting
 psrepository
@@ -4640,6 +4632,7 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
+raisers
 raj
 ram
 ram-it
@@ -4856,7 +4849,6 @@ rfc5952
 rfc826
 rg
 rhapsody
-ribbon
 ribcl
 rightjoin
 rights
@@ -4912,7 +4904,6 @@ rsa
 rsat
 rshell
 rsjob
-rsop
 rss
 rt
 rtu
@@ -5092,7 +5083,6 @@ securescore
 securesphere
 securestring
 security
-security-policy
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -5281,7 +5271,6 @@ sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
-sitemap
 siterecovery
 sites
 sitesystemserver
@@ -5380,7 +5369,6 @@ sonatype
 songs
 sonicwall
 sonicwallvpn
-sonus
 soon
 soonr
 soonragent
@@ -5505,7 +5493,10 @@ stackoverflow
 staffhub
 staging
 stale
+stan
+stanc
 standard
+stansummary
 start
 start-job
 start-jobthread
@@ -5607,7 +5598,6 @@ suitecrm
 sullivan
 summary
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -6029,7 +6019,6 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
-udcm
 udfeedback
 udp
 udpclient
@@ -6077,7 +6066,6 @@ universaldashboard
 university
 unix
 unlinked
-unlock
 unprotect
 unsupported
 untis
@@ -6105,7 +6093,6 @@ uptime
 uptimerobot
 uptobox
 uri
-uri-scheme
 url
 url-encode
 url-shortener
@@ -6289,7 +6276,6 @@ voidtools
 volkskrant
 volume
 volumeshadowcopy
-volumio
 vorbis
 vovin
 vpasmodule

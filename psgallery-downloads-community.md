@@ -296,9 +296,9 @@ This module can be used to run scheduled tasks and synchronously wait for them t
 
 __Downloads__: 2,063,143 | __Repository__: 
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.7.235) | 1.7.235
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.7.237) | 1.7.237
 
-### Published: 06/04/2022 14:48:19 by Friedrich Weinmann
+### Published: 06/15/2022 14:06:17 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
@@ -368,9 +368,9 @@ SNMP Functions for Get and Walk both pipeline aware
 
 __Downloads__: 1,711,358 | __Repository__: http://www.proxx.nl/Module/SNMP/
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.105) | 1.1.105
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.106) | 1.1.106
 
-### Published: 06/14/2022 13:37:01 by the dbatools team
+### Published: 06/15/2022 11:29:29 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
@@ -1026,9 +1026,9 @@ A set of utilities and tools to work in Powershell 1C.
 
 __Downloads__: 265,924 | __Repository__: https://bitbucket.org/willynilly74/1c.utils/wiki/Home
 
-## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.6.14.2) | 22.6.14.2
+## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.6.15.1) | 22.6.15.1
 
-### Published: 06/15/2022 07:29:16 by David Segura @SeguraOSD
+### Published: 06/15/2022 17:14:52 by David Segura @SeguraOSD
 
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
@@ -1112,9 +1112,9 @@ Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few 
 
 __Downloads__: 234,344 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.15.1) | 22.6.15.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.15.2) | 22.6.15.2
 
-### Published: 06/15/2022 07:29:07 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+### Published: 06/15/2022 17:14:46 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
 
 OSDCloud Azure Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
@@ -2152,4 +2152,4 @@ PowerShell data (psd1) tool kit
 
 __Downloads__: 64,381 | __Repository__: https://github.com/nightroman/PsdKit
 
-*Updated: Wednesday, 15 June 2022 09:53:01 UTC*
+*Updated: Wednesday, 15 June 2022 17:53:45 UTC*

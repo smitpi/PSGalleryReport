@@ -1998,9 +1998,9 @@ These DSC resources allow you to configure new domains, child domains, and high 
 
 __Downloads__: 2,047,012 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.7.235) | 1.7.235
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.7.237) | 1.7.237
 
-### Published: 06/04/2022 14:48:19 by Friedrich Weinmann
+### Published: 06/15/2022 14:06:17 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
@@ -2120,9 +2120,9 @@ SNMP Functions for Get and Walk both pipeline aware
 
 __Downloads__: 1,711,358 | __Repository__: http://www.proxx.nl/Module/SNMP/
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.105) | 1.1.105
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.106) | 1.1.106
 
-### Published: 06/14/2022 13:37:01 by the dbatools team
+### Published: 06/15/2022 11:29:29 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
@@ -2208,4 +2208,4 @@ View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modi
 
 __Downloads__: 1,498,105 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-*Updated: Wednesday, 15 June 2022 09:52:59 UTC*
+*Updated: Wednesday, 15 June 2022 17:53:43 UTC*
