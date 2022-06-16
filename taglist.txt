@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 15 June 2022 17:53:50 UTC
+Updated: Thursday, 16 June 2022 02:35:52 UTC
 
 ?:
 ??
@@ -160,7 +160,6 @@ admin
 admin-tools
 admindirectory
 administration
-administrative
 administrativeunit
 administrativeuser
 administrator
@@ -320,7 +319,6 @@ appearance
 appender
 appian
 appinsights
-applayering
 apple
 application
 application-transformer
@@ -346,6 +344,8 @@ appxmanifest
 aprs
 apt-get
 apt-get-update
+aql
+arangodb
 arc
 arcade
 arcgis
@@ -635,7 +635,6 @@ bdd
 bds
 be.stateless
 be.stateless.be
-beam3d
 bearded-avenger
 bearer
 beautifier
@@ -735,6 +734,8 @@ bpmn
 brainy
 branch
 brave
+brawlapi
+brawlstars
 bre
 breach
 break
@@ -794,7 +795,6 @@ c++
 cache
 caching
 caf
-cal
 calc
 calculate
 calculator
@@ -1056,7 +1056,6 @@ cmsmessage
 cmtrace
 cmwt
 cns
-coa
 cockroachdb
 codaamok
 code
@@ -1149,6 +1148,7 @@ concurrent
 conda
 condition
 conditionalaccess
+conduit
 conference
 confidentialclient
 confidentialledger
@@ -1209,8 +1209,6 @@ continuous-delivery
 continuous-deploy
 continuous-deployment
 continuous-integration
-continuousdelivery
-continuousdeployment
 continuousintegration
 control
 controller
@@ -1352,6 +1350,7 @@ currencyconverterapi
 current
 custom
 customchecks
+customer
 customerengagement
 customers
 customevents
@@ -1442,7 +1441,6 @@ datascience
 dataset
 datashare
 datasource
-datastore
 datatable
 dataverse
 date
@@ -1580,7 +1578,6 @@ diagram
 diagrams
 dialog
 dice
-diceware
 dicom
 dictionary
 diff
@@ -1641,7 +1638,6 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
-diving
 division
 divoom
 dkim
@@ -1718,7 +1714,6 @@ dots
 dotteddecimalip
 doubleclick
 download
-downloader
 downloadinfo
 downloading
 downloads
@@ -1767,7 +1762,6 @@ dsclient
 dscresource
 dscresourcekit
 dscresources
-dsctools
 dsl
 dsm
 dsreg
@@ -1813,7 +1807,6 @@ dynmanageddns
 e-mail
 easy
 easy-to-use
-easylife365
 easyvista
 eaton
 ebay
@@ -1893,7 +1886,6 @@ enteo
 enter
 enterprise
 enterprise-scale
-enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -1957,7 +1949,6 @@ etrade
 ets
 etw
 evaluator
-evc
 event
 event_id
 event_list
@@ -2055,7 +2046,6 @@ extensions
 external
 externalip
 extract
-extractor
 extreme-networks
 eztheme
 f
@@ -2065,7 +2055,6 @@ facebook
 factoryorchestrator
 factoryorchestratorclient
 facts
-faf
 failedlogin
 falcon
 fallbackstatuspoint
@@ -2081,7 +2070,6 @@ fastlookup
 fastping
 favorites
 fb-pro
-fciv
 fd
 feature
 features
@@ -2142,7 +2130,6 @@ filesystemsecurity
 filesystemwatcher
 filetransfer
 filetype
-filewrite
 fill
 film
 filter
@@ -2283,7 +2270,6 @@ gamecategory:cards
 games
 gameserver
 garage
-gas
 gat
 gateway
 gauge
@@ -2412,6 +2398,7 @@ gopherplus
 governance
 governancerulescontrolplane
 gp
+gpedit
 gpg
 gping
 gpio
@@ -2509,7 +2496,6 @@ haskell
 haste
 hastebin
 haveibeenpwned
-hba
 hbase
 hci
 hcl
@@ -2638,6 +2624,7 @@ humorous
 hunter
 hybrid
 hybridrunbookworker
+hybris
 hyper-v
 hyperconverged
 hyperfine
@@ -2700,7 +2687,6 @@ igr
 ihs
 iiittttt
 iis
-iis10
 iis8
 iisadministration
 ikev2
@@ -2792,7 +2778,6 @@ installationmanager
 installedapplications
 installer
 installers
-installwindows
 instance
 instant
 instapush
@@ -3092,6 +3077,7 @@ lenovo
 lesspass
 letsencrypt
 lf
+lgpo
 libgit2
 libraries
 library
@@ -3100,7 +3086,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanager
 licensereport
 licenses
 licensing
@@ -3118,7 +3103,6 @@ linearalgebra
 link
 linkedin
 linkedinads
-linkid
 linq
 linqpad
 lint
@@ -3149,6 +3133,7 @@ loanddepot
 loandepot
 local
 local-caching
+local-policy
 localadmin
 localconfigurationmanager
 localdb
@@ -3178,7 +3163,6 @@ log4net
 loganalytics
 logbook
 logcat
-logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3235,8 +3219,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3389,7 +3371,6 @@ messagebox
 messages
 messaging
 messenger
-met
 metadata
 metadataservice
 metaprogramming
@@ -3398,7 +3379,6 @@ methodinfo
 methods
 metric
 metrics
-metrolink
 mfa
 mga
 mi
@@ -3637,7 +3617,6 @@ nerdymishka
 nessus
 nested
 net
-net4.8
 netadapter
 netapi32
 netapp
@@ -3703,7 +3682,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nitrox
 nl
 nla
 nlm
@@ -3843,13 +3821,11 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
-ondemand
 one
 onedrive
 onedriveforbusiness
 oneget
 oneidentity
-onelogin
 oneloginapi
 onenote
 onestools
@@ -3903,7 +3879,6 @@ operationvalidation
 operatoraccesscontrol
 operators
 opml
-ops
 opsi
 opsmgr
 optics
@@ -3968,7 +3943,6 @@ ovgd
 owasp
 owls
 owner
-oxygen
 oxyplot
 p2000
 p2s
@@ -4025,7 +3999,6 @@ partnerportal
 pass
 passcode
 passivetotal
-passphrase
 passphraser passphrase password generator entropy
 password
 password_generation
@@ -4095,6 +4068,7 @@ pfe
 pfsense
 pfx
 pgp
+phabricator
 philips
 philosophical
 philpritchett
@@ -4176,6 +4150,7 @@ poll
 polly
 polycom
 pomodoro
+ponduit
 pool
 poop
 pop
@@ -4197,6 +4172,7 @@ posh-cats
 posh-chocobear
 posh-direnv
 posh-git
+posh-ribbon
 posh-ssh
 poshbot
 poshcommence
@@ -4349,7 +4325,6 @@ product
 productid
 productivity
 productmedia
-products
 productstate
 profile
 profiler
@@ -4370,7 +4345,6 @@ projectwise
 proliant
 prometheus
 prompt
-pronounceable
 properties
 property
 property-list
@@ -4459,7 +4433,6 @@ psexcel
 psexec
 psexec.exe
 psexpandline
-psfciv
 psfitbit
 psfive9
 psfive9admin
@@ -4542,7 +4515,6 @@ pszabbix
 pubg
 public
 public-key
-public-transport
 publicapi
 publicclient
 publicfolder
@@ -4587,7 +4559,6 @@ pxedistributionpoint
 pyranja
 python
 python-for-dotnet
-qcloud
 qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
@@ -4714,7 +4685,6 @@ redistributables
 redkite
 redoc
 redseal
-redshift
 redteaming
 redundancy
 refactor
@@ -4742,7 +4712,6 @@ relational
 relay
 release
 releasedefinition
-releasemanagement
 relevance
 relic
 remediation
@@ -4849,6 +4818,7 @@ rfc5952
 rfc826
 rg
 rhapsody
+ribbon
 ribcl
 rightjoin
 rights
@@ -4874,7 +4844,6 @@ rock
 rocket
 rocketcyber
 role
-roles
 rollingfile
 romaji
 rot13
@@ -4904,6 +4873,7 @@ rsa
 rsat
 rshell
 rsjob
+rsop
 rss
 rt
 rtu
@@ -5035,7 +5005,6 @@ script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
-scriptbook
 scriptcop
 scriptcreation
 scriptcs
@@ -5049,7 +5018,6 @@ scrolllock
 scrub
 scrubber
 scsm
-scuba
 sd
 sddl
 sdk
@@ -5083,6 +5051,7 @@ securescore
 securesphere
 securestring
 security
+security-policy
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -5150,7 +5119,6 @@ serverless
 servermanagement
 servers
 service
-service-bus
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5165,7 +5133,6 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
-serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5260,7 +5227,6 @@ simplivity
 simplysql
 sin
 single
-singlestore
 singleton
 sinks
 sintez
@@ -5271,6 +5237,7 @@ sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -5369,6 +5336,7 @@ sonatype
 songs
 sonicwall
 sonicwallvpn
+sonus
 soon
 soonr
 soonragent
@@ -5469,7 +5437,6 @@ ssas
 ssc
 ssdt
 ssh
-ssh-keygen
 sshmanagement
 sshservers
 ssis
@@ -5598,6 +5565,7 @@ suitecrm
 sullivan
 summary
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -5879,10 +5847,8 @@ trafficmarking
 train
 training
 training-course
-tram
 transact
 transaction
-transactions
 transcode
 transcript
 transcripts
@@ -6000,7 +5966,6 @@ ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
-ud-selectdatetime
 ud-selector
 ud-signature
 ud-simpledrawer
@@ -6019,6 +5984,7 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
+udcm
 udfeedback
 udp
 udpclient
@@ -6042,7 +6008,6 @@ unattendedfile
 unblock
 unc
 unicode
-unidesk
 unifi
 unified
 unifiedauditlog
@@ -6093,6 +6058,7 @@ uptime
 uptimerobot
 uptobox
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -6211,7 +6177,6 @@ viewgroup
 vigenere
 vim
 vimode
-virole
 virsh
 virtual
 virtualappliance
@@ -6230,13 +6195,11 @@ virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
-virtualportgroup
 virtualrtu
 virtualterminal
 visio
 visual
 visual-studio
-visualbuilder
 visualc
 visualization
 visualstudio
@@ -6268,7 +6231,6 @@ vmwfolder
 vmwvmhost
 vnet
 vnugglets
-vnugglets.com
 vocabularies
 voice
 voiceconfig
@@ -6276,11 +6238,11 @@ voidtools
 volkskrant
 volume
 volumeshadowcopy
+volumio
 vorbis
 vovin
 vpasmodule
 vpc
-vpg
 vplex
 vpn
 vpn-certificate
@@ -6311,7 +6273,6 @@ vsts
 vsts-cli
 vulnerability
 vulnerabilityassessment
-vulnerabilityscanning
 vulnerabilty
 vum
 vvx
@@ -6344,7 +6305,6 @@ watch
 watchguard
 watchmen
 watery
-wave
 wayk
 waykagent
 waykbastion
@@ -6421,7 +6381,6 @@ wifi
 wiki
 wildcard
 wildfly
-wim
 wim2vhd
 win
 win-ps2exe
@@ -6569,7 +6528,6 @@ write-loganalytics
 write-progress
 write-slog
 write-wansi
-writeaccess
 writelog
 writemanager
 ws-federation
