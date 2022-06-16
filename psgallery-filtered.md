@@ -5,45 +5,63 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Terrafun](https://www.powershellgallery.com/Packages/Terrafun/1.5.4) | 1.5.4
+## [VirtualEngine.EvergreenDsc](https://www.powershellgallery.com/Packages/VirtualEngine.EvergreenDsc/1.2.1) | 1.2.1
 
-### Published: 06/16/2022 09:49:57 by dougbw
+### Published: 06/16/2022 16:22:24 by Iain Brighton
 
-terraform version manager
+The VirtualEngine.EvergreenDsc module provides cmdlets and DSC resources for interacting with Virtual Engine Evergreen packages.
 
-__Downloads__: 744 | __Repository__: https://github.com/dougbw/pwsh-terrafun
+__Downloads__: 24,948 | __Repository__: https://dev.azure.com/virtual-engine/PSRepository/_git/VirtualEngine.EvergreenDsc
 
-## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/0.1.0) | 0.1.0
+## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.2.0.8) | 2.2.0.8
 
-### Published: 06/16/2022 09:34:21 by Radi Atanassov
-
-A set of PowerShell cmdlets for administering Quantum DMS.
-
-__Downloads__: 1 | __Repository__: 
-
-## [AVDManagementFramework](https://www.powershellgallery.com/Packages/AVDManagementFramework/1.0.43) | 1.0.43
-
-### Published: 06/16/2022 09:11:51 by wmoselhy
-
-Azure Virtual Desktop Management Framework
-
-__Downloads__: 304 | __Repository__: 
-
-## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.2.0.0) | 2.2.0.0
-
-### Published: 06/16/2022 08:56:25 by Elmar Niederkofler
+### Published: 06/16/2022 14:39:49 by Elmar Niederkofler
 
 DesktopControl
 
 __Downloads__: 43 | __Repository__: 
 
-## [man-highlighting](https://www.powershellgallery.com/Packages/man-highlighting/1.7.3) | 1.7.3
+## [LXCOPSTool](https://www.powershellgallery.com/Packages/LXCOPSTool/1.6.0.18) | 1.6.0.18
 
-### Published: 06/16/2022 05:50:37 by Brian Tannert & zett42
+### Published: 06/16/2022 11:45:48 by Lenovo Corporation
 
-Colorizing Get-Help output.
+Lenovo XClarity Orchestrator PowerShell tool
 
-__Downloads__: 38 | __Repository__: https://github.com/digitalguy99/pwsh-man-highlighting
+The LXCOPSTool cmdlets use REST APIs that are provided for Lenovo XClarity Orchestrator to enable you to automate functions such as:
+- Logging in to Lenovo XClarity Orchestrator;
+
+Lenovo XClarity Orchestrator is a centralized, resource-management solution that is aimed at reducing complexity, speeding response, and enhancing the availability of Lenovo server systems and solutions. It runs as a virtual appliance that you can use to manage Flex System chassis and System x rack servers in a secure environment.
+Get more detail information from:
+https://sysmgt.lenovofiles.com/help/topic/com.lenovo.systems.management.common.nav.doc/ic-homepage.html
+
+Lenovo XClarity Orchestrator REST APIs used in this module:
+https://sysmgt.lenovofiles.com/help/topic/lxco_scripting/rest-apis.html
+
+__Downloads__: 41 | __Repository__: 
+
+## [Terrafun](https://www.powershellgallery.com/Packages/Terrafun/1.5.5) | 1.5.5
+
+### Published: 06/16/2022 10:21:52 by dougbw
+
+terraform version manager
+
+__Downloads__: 742 | __Repository__: https://github.com/dougbw/pwsh-terrafun
+
+## [AVDManagementFramework](https://www.powershellgallery.com/Packages/AVDManagementFramework/1.0.44) | 1.0.44
+
+### Published: 06/16/2022 10:20:49 by wmoselhy
+
+Azure Virtual Desktop Management Framework
+
+__Downloads__: 304 | __Repository__: 
+
+## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/0.1.1) | 0.1.1
+
+### Published: 06/16/2022 10:18:27 by Radi Atanassov
+
+A set of PowerShell cmdlets for administering Quantum DMS.
+
+__Downloads__: 1 | __Repository__: 
 
 ## [DynatracePS](https://www.powershellgallery.com/Packages/DynatracePS/0.1.14) | 0.1.14
 
@@ -1602,7 +1620,7 @@ __Downloads__: 2 | __Repository__:
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 346 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 347 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [Exporter](https://www.powershellgallery.com/Packages/Exporter/1.0) | 1.0
 
@@ -1848,6 +1866,14 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 4 | __Repository__: 
 
+## [pspulumiyaml.azurenative.vmwarecloudsimple](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.vmwarecloudsimple/0.0.2) | 0.0.2
+
+### Published: 06/08/2022 20:13:40 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 5 | __Repository__: 
+
 ## [pspulumiyaml.azurenative.visualstudio](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.visualstudio/0.0.2) | 0.0.2
 
 ### Published: 06/08/2022 20:13:32 by Worxspace
@@ -1944,6 +1970,14 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 3 | __Repository__: 
 
+## [pspulumiyaml.azurenative.storagecache](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storagecache/0.0.2) | 0.0.2
+
+### Published: 06/08/2022 20:12:11 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 4 | __Repository__: 
+
 ## [pspulumiyaml.azurenative.storage](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storage/0.0.2) | 0.0.2
 
 ### Published: 06/08/2022 20:12:04 by Worxspace
@@ -1992,13 +2026,21 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 7 | __Repository__: 
 
-## [pspulumiyaml.azurenative.servicelinker](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.servicelinker/0.0.2) | 0.0.2
+## [pspulumiyaml.azurenative.servicefabricmesh](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.servicefabricmesh/0.0.2) | 0.0.2
 
-### Published: 06/08/2022 20:11:24 by Worxspace
+### Published: 06/08/2022 20:11:18 by Worxspace
 
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
-__Downloads__: 4 | __Repository__: 
+__Downloads__: 2 | __Repository__: 
+
+## [pspulumiyaml.azurenative.servicefabric](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.servicefabric/0.0.2) | 0.0.2
+
+### Published: 06/08/2022 20:11:11 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 2 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.servicebus](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.servicebus/0.0.2) | 0.0.2
 
@@ -2008,36 +2050,4 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 8 | __Repository__: 
 
-## [pspulumiyaml.azurenative.serialconsole](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.serialconsole/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:10:58 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 4 | __Repository__: 
-
-## [pspulumiyaml.azurenative.securityinsights](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.securityinsights/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:10:52 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 4 | __Repository__: 
-
-## [pspulumiyaml.azurenative.securityandcompliance](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.securityandcompliance/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:10:44 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 3 | __Repository__: 
-
-## [pspulumiyaml.azurenative.security](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.security/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:10:38 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 3 | __Repository__: 
-
-*Updated: Thursday, 16 June 2022 09:52:51 UTC*
+*Updated: Thursday, 16 June 2022 17:53:32 UTC*
