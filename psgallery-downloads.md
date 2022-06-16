@@ -1962,7 +1962,7 @@ __Downloads__: 2,422,014 | __Repository__: https://github.com/itglue/powershellw
 
 Module with DSC Resources for Networking area
 
-__Downloads__: 2,413,888 | __Repository__: https://github.com/PowerShell/xNetworking
+__Downloads__: 2,413,887 | __Repository__: https://github.com/PowerShell/xNetworking
 
 ## [PnP.PowerShell](https://www.powershellgallery.com/Packages/PnP.PowerShell/1.10.0) | 1.10.0
 
@@ -2126,7 +2126,7 @@ __Downloads__: 1,713,048 | __Repository__: http://www.proxx.nl/Module/SNMP/
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,664,020 | __Repository__: https://dbatools.io/
+__Downloads__: 1,663,971 | __Repository__: https://dbatools.io/
 
 ## [PSSoftware](https://www.powershellgallery.com/Packages/PSSoftware/1.0.29) | 1.0.29
 
@@ -2144,7 +2144,7 @@ __Downloads__: 1,651,085 | __Repository__: https://github.com/adbertram/PSSoftwa
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,628,387 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,628,382 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [MSCloudLoginAssistant](https://www.powershellgallery.com/Packages/MSCloudLoginAssistant/1.0.85) | 1.0.85
 
@@ -2168,7 +2168,7 @@ __Downloads__: 1,589,112 | __Repository__: https://github.com/frgnca/AudioDevice
 
 Allows for an image to be dynamically set as the lockscreen image based off of the resolution of the primary monitor.
 
-__Downloads__: 1,576,336 | __Repository__: 
+__Downloads__: 1,576,335 | __Repository__: 
 
 ## [PowerNSX](https://www.powershellgallery.com/Packages/PowerNSX/3.0.1192) | 3.0.1192
 
@@ -2180,7 +2180,7 @@ It aims to focus on exposing New, Update, Remove and Get operations for all key 
 It is unlikely that it will ever expose 100% of the NSX API, but feature requests are welcomed if you find a particular function you require to be lacking.
 PowerNSX is currently a work in progress and is not yet feature complete.
 
-__Downloads__: 1,564,288 | __Repository__: https://powernsx.github.io/
+__Downloads__: 1,564,282 | __Repository__: https://powernsx.github.io/
 
 ## [DSCParser](https://www.powershellgallery.com/Packages/DSCParser/1.3.0.4) | 1.3.0.4
 
@@ -2188,7 +2188,7 @@ __Downloads__: 1,564,288 | __Repository__: https://powernsx.github.io/
 
 This module allows for the parsing of a DSC Configuration script into PSObject for analysis
 
-__Downloads__: 1,557,086 | __Repository__: https://github.com/Microsoft/DSCParser
+__Downloads__: 1,557,085 | __Repository__: https://github.com/Microsoft/DSCParser
 
 ## [oh-my-posh](https://www.powershellgallery.com/Packages/oh-my-posh/7.85.2) | 7.85.2
 
@@ -2196,7 +2196,7 @@ __Downloads__: 1,557,086 | __Repository__: https://github.com/Microsoft/DSCParse
 
 A prompt theme engine for any shell
 
-__Downloads__: 1,532,496 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 1,532,494 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## [NuGet](https://www.powershellgallery.com/Packages/NuGet/1.3.3) | 1.3.3
 
@@ -2206,6 +2206,6 @@ Create Nuget repos, Register Repos, Manage Modules and Packages with a single DS
 Examples show off all the core functionality as well as support Kitchen integration. 
 View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modify functionality
 
-__Downloads__: 1,498,861 | __Repository__: https://github.com/PowerShellOrg/NuGet
+__Downloads__: 1,498,859 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-*Updated: Thursday, 16 June 2022 02:35:45 UTC*
+*Updated: Thursday, 16 June 2022 09:52:56 UTC*
