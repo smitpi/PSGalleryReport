@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 17 June 2022 02:34:15 UTC
+Updated: Friday, 17 June 2022 09:52:41 UTC
 
 ?:
 ??
@@ -637,6 +637,7 @@ bdd
 bds
 be.stateless
 be.stateless.be
+beam3d
 bearded-avenger
 bearer
 beautifier
@@ -1819,7 +1820,6 @@ e-mail
 easy
 easy-to-use
 easylife365
-easyvista
 eaton
 ebay
 ebooks
@@ -1827,6 +1827,7 @@ ebur128
 ec2
 ecommerce
 ecovadis
+edgaronline
 edge
 edgegateway
 edgeorder
@@ -1908,6 +1909,7 @@ enumerable
 env
 environment
 environment-variables
+environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -1930,7 +1932,6 @@ error-log
 errorcode
 errorfile
 errors
-errorview
 eryph
 esae
 escape
@@ -2603,7 +2604,6 @@ hpc
 hpcc
 hpccache
 hpe
-hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -2788,6 +2788,7 @@ insightanalytics
 insights
 inspect
 inspur
+instagram
 install
 install-module
 install-windowsimage
@@ -2986,6 +2987,7 @@ kelverion
 kentico
 kerberos
 kernel32
+kestrel
 key
 key-vault
 key2wocas
@@ -3344,6 +3346,7 @@ maxoffice
 mb
 mbc
 mbs
+mc
 mcafee
 mcas
 mchapv2
@@ -3477,6 +3480,7 @@ mkdocs
 mlflow
 mmdc
 mobile
+mobilitycontroller
 mock
 mocking
 modify
@@ -4149,8 +4153,8 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
 plex
-plist
 plog
 plot
 plugin
@@ -4367,6 +4371,7 @@ progress
 progressbar
 project
 project-management
+projectmanagement
 projectreunion
 projects
 projecttemplate
@@ -4377,7 +4382,6 @@ prompt
 pronounceable
 properties
 property
-property-list
 prose
 protect
 protect-blob
@@ -5127,7 +5131,6 @@ semver
 senat
 senateur
 send
-send-logtologanalytics
 send-mailmessage
 send-message
 sendgrid
@@ -5470,6 +5473,7 @@ sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
+square
 squire
 srcds
 srcsrv
@@ -5716,7 +5720,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -5795,6 +5798,7 @@ text
 text-to-image
 text-to-speach"
 text-to-speech
+text2image
 textanalysis
 textbuffer
 texting
@@ -5968,7 +5972,6 @@ types.ps1xml
 typescript
 tzutil
 uac
-uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -6169,7 +6172,6 @@ variable
 variables
 variance
 variants
-vastlimits
 vault
 vaultextension
 vaultstore
