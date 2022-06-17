@@ -5,6 +5,166 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/10.3.0) | 10.3.0
+
+### Published: 06/17/2022 01:31:13 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 14,660 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.15.0) | 2.15.0
+
+### Published: 06/17/2022 01:30:35 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 2,866 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.0) | 4.8.0
+
+### Published: 06/17/2022 01:30:28 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 10,339 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.0) | 1.9.0
+
+### Published: 06/17/2022 01:30:24 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 10,496 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/2.9.0) | 2.9.0
+
+### Published: 06/17/2022 01:30:21 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 11,239 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.13.0) | 2.13.0
+
+### Published: 06/17/2022 01:30:17 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 14,379 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.0) | 1.6.0
+
+### Published: 06/17/2022 01:30:12 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 10,500 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.13.0) | 1.13.0
+
+### Published: 06/17/2022 01:30:08 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 10,811 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.12.0) | 4.12.0
+
+### Published: 06/17/2022 01:30:04 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 10,649 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.0) | 1.9.0
+
+### Published: 06/17/2022 01:30:01 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 11,405 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.8.0) | 4.8.0
+
+### Published: 06/17/2022 01:29:57 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 11,189 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.8.0) | 1.8.0
+
+### Published: 06/17/2022 01:29:53 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 13,029 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.7.915) | 20.12.7.915
+
+### Published: 06/17/2022 00:48:07 by BinaryTreePackagePublisher
+
+PowerShell Management cmdlets for Binary Tree Power365
+
+__Downloads__: 533 | __Repository__: 
+
+## [gispad](https://www.powershellgallery.com/Packages/gispad/0.0.4) | 0.0.4
+
+### Published: 06/16/2022 21:21:19 by gisp
+
+Active Directory tools
+
+__Downloads__: 0 | __Repository__: 
+
+## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.16) | 1.0.16
+
+### Published: 06/16/2022 21:20:58 by Matt Miller Security Engineer
+
+This module provides the ability to query the speculation control settings for the system.
+
+__Downloads__: 509,827,423 | __Repository__: 
+
+## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.23.1) | 3.23.1
+
+### Published: 06/16/2022 20:54:46 by Puppet Inc
+
+Puppet Bolt is an open source task runner that executes ad hoc tasks, scripts, and commands across your infrastructure and applications
+
+__Downloads__: 723 | __Repository__: https://github.com/puppetlabs/bolt
+
+## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.0.2) | 4.0.2
+
+### Published: 06/16/2022 20:47:51 by Ironman Software
+
+Universal Dashbord v3 framework for Powershell Universal
+
+__Downloads__: 81,376 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/3.0.2) | 3.0.2
+
+### Published: 06/16/2022 20:47:26 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 23,164 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [WindowsOSBuild](https://www.powershellgallery.com/Packages/WindowsOSBuild/2206.3) | 2206.3
+
+### Published: 06/16/2022 20:39:09 by Ashley How
+
+Gets windows patch release information (Version, Build, Availability date, Preview, Out-of-band, Servicing option, KB article, KB URL and Catalog URL) for Windows client and server versions. Useful for scripting and automation purposes. Supports Windows 10 and Windows Server 2016 onwards.
+
+__Downloads__: 14,377 | __Repository__: https://github.com/AshleyHow/WindowsOSBuild
+
+## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.5.1) | 0.5.1
+
+### Published: 06/16/2022 19:05:04 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Veeam VBR.
+
+__Downloads__: 595 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
+
 ## [VirtualEngine.EvergreenDsc](https://www.powershellgallery.com/Packages/VirtualEngine.EvergreenDsc/1.2.1) | 1.2.1
 
 ### Published: 06/16/2022 16:22:24 by Iain Brighton
@@ -62,6 +222,14 @@ __Downloads__: 304 | __Repository__:
 A set of PowerShell cmdlets for administering Quantum DMS.
 
 __Downloads__: 1 | __Repository__: 
+
+## [man-highlighting](https://www.powershellgallery.com/Packages/man-highlighting/1.7.3) | 1.7.3
+
+### Published: 06/16/2022 05:50:37 by Brian Tannert & zett42
+
+Colorizing Get-Help output.
+
+__Downloads__: 38 | __Repository__: https://github.com/digitalguy99/pwsh-man-highlighting
 
 ## [DynatracePS](https://www.powershellgallery.com/Packages/DynatracePS/0.1.14) | 0.1.14
 
@@ -293,14 +461,6 @@ A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft Po
 
 __Downloads__: 7,823 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
-## [WindowsOSBuild](https://www.powershellgallery.com/Packages/WindowsOSBuild/2206.2) | 2206.2
-
-### Published: 06/14/2022 23:43:32 by Ashley How
-
-Gets windows patch release information (Version, Build, Availability date, Preview, Out-of-band, Servicing option, KB article, KB URL and Catalog URL) for Windows client and server versions. Useful for scripting and automation purposes. Supports Windows 10 and Windows Server 2016 onwards.
-
-__Downloads__: 14,377 | __Repository__: https://github.com/AshleyHow/WindowsOSBuild
-
 ## [GuestConfiguration](https://www.powershellgallery.com/Packages/GuestConfiguration/4.1.0) | 4.1.0
 
 ### Published: 06/14/2022 22:56:32 by Azure Guest Configuration
@@ -332,14 +492,6 @@ __Downloads__: 933 | __Repository__: https://docs.poshtools.com/powershell-pro-t
 PowerShell module for Nectar DXP
 
 __Downloads__: 357 | __Repository__: 
-
-## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.15) | 1.0.15
-
-### Published: 06/14/2022 21:08:38 by Matt Miller Security Engineer
-
-This module provides the ability to query the speculation control settings for the system.
-
-__Downloads__: 509,827,423 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/35.0.0) | 35.0.0
 
@@ -1246,22 +1398,6 @@ Collection of Cmdlets that run Azure Dev Ops Rest API calls. Provides access to 
 
 __Downloads__: 152 | __Repository__: 
 
-## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.0.1) | 4.0.1
-
-### Published: 06/14/2022 14:26:34 by Ironman Software
-
-Universal Dashbord v3 framework for Powershell Universal
-
-__Downloads__: 81,376 | __Repository__: https://www.ironmansoftware.com/powershell-universal
-
-## [Universal](https://www.powershellgallery.com/Packages/Universal/3.0.1) | 3.0.1
-
-### Published: 06/14/2022 14:26:10 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 23,164 | __Repository__: https://ironmansoftware.com/powershell-universal
-
 ## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2022.6.0) | 2022.6.0
 
 ### Published: 06/14/2022 13:26:54 by Ironman Software LLC
@@ -1620,7 +1756,7 @@ __Downloads__: 2 | __Repository__:
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 347 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 346 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [Exporter](https://www.powershellgallery.com/Packages/Exporter/1.0) | 1.0
 
@@ -1810,14 +1946,6 @@ Module for CyberArk v12.2 Privileged Access Security Web Service REST API
 
 __Downloads__: 99 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/VpasModule/VpasModule/12.2.3
 
-## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.7.122) | 20.12.7.122
-
-### Published: 06/08/2022 23:40:44 by BinaryTreePackagePublisher
-
-PowerShell Management cmdlets for Binary Tree Power365
-
-__Downloads__: 533 | __Repository__: 
-
 ## [pspulumiyaml.azurenative](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative/0.0.2) | 0.0.2
 
 ### Published: 06/08/2022 20:32:57 by Worxspace
@@ -1922,132 +2050,4 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 5 | __Repository__: 
 
-## [pspulumiyaml.azurenative.synapse](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.synapse/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:12:49 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 3 | __Repository__: 
-
-## [pspulumiyaml.azurenative.subscription](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.subscription/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:12:42 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 3 | __Repository__: 
-
-## [pspulumiyaml.azurenative.streamanalytics](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.streamanalytics/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:12:36 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 3 | __Repository__: 
-
-## [pspulumiyaml.azurenative.storsimple](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storsimple/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:12:29 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.storagesync](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storagesync/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:12:23 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.storagepool](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storagepool/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:12:17 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 3 | __Repository__: 
-
-## [pspulumiyaml.azurenative.storagecache](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storagecache/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:12:11 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 4 | __Repository__: 
-
-## [pspulumiyaml.azurenative.storage](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storage/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:12:04 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.sqlvirtualmachine](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.sqlvirtualmachine/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:11:57 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.sql](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.sql/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:11:51 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.solutions](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.solutions/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:11:44 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.softwareplan](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.softwareplan/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:11:37 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 4 | __Repository__: 
-
-## [pspulumiyaml.azurenative.signalrservice](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.signalrservice/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:11:31 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 7 | __Repository__: 
-
-## [pspulumiyaml.azurenative.servicefabricmesh](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.servicefabricmesh/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:11:18 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.servicefabric](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.servicefabric/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:11:11 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 2 | __Repository__: 
-
-## [pspulumiyaml.azurenative.servicebus](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.servicebus/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:11:05 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 8 | __Repository__: 
-
-*Updated: Thursday, 16 June 2022 17:53:32 UTC*
+*Updated: Friday, 17 June 2022 02:34:04 UTC*
