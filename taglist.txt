@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 17 June 2022 09:52:41 UTC
+Updated: Friday, 17 June 2022 17:54:51 UTC
 
 ?:
 ??
@@ -112,7 +112,6 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activeefficiency
-activeresponse
 activesession
 activiti
 activity
@@ -125,7 +124,6 @@ ad_monitoring
 ad-ds
 adal
 adapter
-adaptivecards
 adb
 adc
 adcs
@@ -1203,7 +1201,6 @@ containergroup
 containerinstance
 containerregistry
 containers
-containment
 context
 continious-deploy
 continious-integration
@@ -1279,8 +1276,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crayon
-crc
-crc32
 create
 createcolumn
 createdatabase
@@ -1366,7 +1361,6 @@ customis
 customisation
 customization
 customlocation
-customproviders
 cvad
 cve-2021-34527
 cvrf
@@ -1378,8 +1372,6 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
-cyclic
-cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -1461,7 +1453,6 @@ datto
 dattormm
 datum
 dave
-davinci
 dax
 dayinweek
 days-week
@@ -1820,6 +1811,7 @@ e-mail
 easy
 easy-to-use
 easylife365
+easyvista
 eaton
 ebay
 ebooks
@@ -1932,6 +1924,7 @@ error-log
 errorcode
 errorfile
 errors
+errorview
 eryph
 esae
 escape
@@ -2604,6 +2597,7 @@ hpc
 hpcc
 hpccache
 hpe
+hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -2708,7 +2702,6 @@ iis
 iis10
 iis8
 iisadministration
-ikev2
 il
 illinois
 ilo
@@ -3028,7 +3021,6 @@ kusto
 kvm
 kvp
 l1tf
-l2tp
 lab
 labautomation
 labdefinition
@@ -3131,7 +3123,6 @@ lint
 linting
 linux
 linux-command
-linuxssh
 liquid
 liquit
 liquit.com
@@ -3230,7 +3221,6 @@ look
 lookup
 loopback
 lpr
-lpsiamol
 ls
 lsa
 lsasecrets
@@ -3238,7 +3228,6 @@ lsd
 ltm
 lucd
 lucene
-lunches
 lwa
 lxca
 lxcapstool
@@ -3349,7 +3338,6 @@ mbs
 mc
 mcafee
 mcas
-mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
 md5sum
@@ -3477,7 +3465,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mlflow
 mmdc
 mobile
 mobilitycontroller
@@ -4008,7 +3995,6 @@ panels
 pansies
 panther
 panzerbjrn
-pap
 paper
 papis
 paradox
@@ -4155,6 +4141,7 @@ playlists
 pleasant
 pleasantpasswordserver
 plex
+plist
 plog
 plot
 plugin
@@ -4301,7 +4288,6 @@ ppk
 pposh
 pps
 ppt
-pptp
 pptx
 pranks
 predicate
@@ -4382,6 +4368,7 @@ prompt
 pronounceable
 properties
 property
+property-list
 prose
 protect
 protect-blob
@@ -4725,7 +4712,6 @@ redoc
 redseal
 redshift
 redteaming
-redundancy
 refactor
 refeds
 refeds-mfa
@@ -4861,7 +4847,6 @@ rhapsody
 ribbon
 ribcl
 rightjoin
-rights
 rightsizing
 ripe
 risk
@@ -4896,7 +4881,6 @@ route
 route53
 routeconfig
 router
-routes
 routetable
 routine
 rover
@@ -5131,6 +5115,7 @@ semver
 senat
 senateur
 send
+send-logtologanalytics
 send-mailmessage
 send-message
 sendgrid
@@ -5159,9 +5144,7 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
-servers
 service
-service-bus
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5483,8 +5466,6 @@ ssc
 ssdt
 ssh
 ssh-keygen
-sshmanagement
-sshservers
 ssis
 ssl
 sslcertificate
@@ -5496,7 +5477,6 @@ sso
 sspr
 ssrs
 ssst
-sstp
 stache
 stackedge
 stackexchange
@@ -5633,7 +5613,6 @@ swarm
 swimlane
 swis
 switch
-sxs
 sybase
 sybaseiq
 symantec
@@ -5653,7 +5632,6 @@ synergy
 syntax
 syntax-highlighting
 syntaxhighlighter
-synthesis
 synthetics
 sysadmin
 sysctr
@@ -5720,10 +5698,10 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
-tcpip
 tcpport
 tcpserver
 tcptest
@@ -5792,7 +5770,6 @@ tests
 testsuite
 testtag1
 testtag2
-testtool
 testusers
 text
 text-to-image
@@ -5972,6 +5949,7 @@ types.ps1xml
 typescript
 tzutil
 uac
+uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -5984,7 +5962,6 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
-ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -6172,6 +6149,7 @@ variable
 variables
 variance
 variants
+vastlimits
 vault
 vaultextension
 vaultstore
@@ -6668,7 +6646,6 @@ ynab
 youtube
 youtube-dl
 youtubeextractor
-yq
 yubaba
 z
 zabbix
