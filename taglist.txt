@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 18 June 2022 02:34:53 UTC
+Updated: Saturday, 18 June 2022 09:52:31 UTC
 
 ?:
 ??
@@ -16,7 +16,6 @@ Updated: Saturday, 18 June 2022 02:34:53 UTC
 "interactive
 🍄
 🍣
-💩
 1.1.1.1
 10
 11
@@ -124,7 +123,6 @@ ad_monitoring
 ad-ds
 adal
 adapter
-adaptivecards
 adb
 adc
 adcs
@@ -198,7 +196,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-agenda
 agent
 aggregates
 aggregation
@@ -237,7 +234,6 @@ alias
 aliases
 aliens
 all
-alletra
 alm
 almrangers
 alpha
@@ -1106,7 +1102,6 @@ comical
 comics
 command
 command_line
-command-validation
 commandcoverage
 commandlets
 commandline
@@ -1153,7 +1148,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1300,7 +1294,6 @@ credentialprovider
 credentials
 credentials-cache
 credentialstore
-credentialutility
 credit
 credman
 credmanager
@@ -1337,7 +1330,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctx
@@ -1993,6 +1985,7 @@ evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -2940,7 +2933,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 jpg
@@ -3077,8 +3069,12 @@ ldap
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leetabit
 leftjoin
@@ -3213,8 +3209,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 lol
 lolcat
@@ -3225,7 +3223,6 @@ look
 lookup
 loopback
 lpr
-lpsiamol
 ls
 lsa
 lsasecrets
@@ -3233,7 +3230,6 @@ lsd
 ltm
 lucd
 lucene
-lunches
 lwa
 lxca
 lxcapstool
@@ -3628,7 +3624,6 @@ navigation
 nbi
 ncal
 ndes
-nebulon
 nec-infrared-transmission-protocol
 nederland
 nedyalkov
@@ -3800,7 +3795,6 @@ octopus-deploy
 octopus.client
 octopusdeploy
 octopusenergy
-ocvp
 od4b
 oda
 odata
@@ -4180,7 +4174,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4217,7 +4210,6 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
-position
 postgre
 postgres
 postgresql
@@ -4252,8 +4244,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4264,10 +4258,13 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4278,10 +4275,12 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -4303,7 +4302,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -4314,7 +4312,6 @@ previousversions
 price
 pricelist
 primenumber
-primera
 principal
 principle
 print
@@ -4611,7 +4608,6 @@ quarantine
 query
 queue
 queues
-queuing
 quickaccess
 quickbase
 quickbooks
@@ -4730,6 +4726,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register-argumentcompleter
 registration
 registry
 regression
@@ -5073,7 +5070,6 @@ secretvault
 section
 secur32
 secure
-secureapplicationmodel
 securechannel
 securemfa
 securerdp
@@ -5149,7 +5145,6 @@ serverless
 servermanagement
 servers
 service
-service-bus
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5174,7 +5169,6 @@ servicing
 servicingstack
 ses
 session
-sessionize
 sessions
 set
 set_bios
@@ -5195,7 +5189,6 @@ sevenzip
 sf
 sfb
 sftp
-sfx
 sgw
 sha256
 shadow
@@ -5219,7 +5212,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -5397,7 +5389,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 specification
 specify
 spectre
@@ -5492,7 +5483,6 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
-staging
 stale
 stan
 stanc
@@ -5780,7 +5770,6 @@ tests
 testsuite
 testtag1
 testtag2
-testtool
 testusers
 text
 text-to-image
@@ -5879,6 +5868,7 @@ trafficmanager
 trafficmarking
 train
 training
+training-course
 tram
 transact
 transaction
@@ -6017,7 +6007,6 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
-ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -6308,6 +6297,7 @@ vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
@@ -6445,7 +6435,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-registry
@@ -6575,7 +6564,6 @@ writeaccess
 writelog
 writemanager
 ws-federation
-wsapi
 wsl
 wsman
 wsmanlistener

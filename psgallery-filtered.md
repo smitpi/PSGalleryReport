@@ -5,6 +5,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Ldbc](https://www.powershellgallery.com/Packages/Ldbc/0.8.0) | 0.8.0
+
+### Published: 06/18/2022 04:41:33 by Roman Kuzmin
+
+LiteDB Cmdlets, the document store in PowerShell
+
+__Downloads__: 844 | __Repository__: https://github.com/nightroman/Ldbc
+
 ## [PS-SyncHr](https://www.powershellgallery.com/Packages/PS-SyncHr/1.0.10) | 1.0.10
 
 ### Published: 06/17/2022 21:46:06 by sqone2
@@ -59,7 +67,7 @@ __Downloads__: 1,890 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 136,816 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 136,818 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.6.0) | 7.6.0
 
@@ -439,7 +447,7 @@ __Downloads__: 1,879 | __Repository__: https://github.com/stefanland/D365FOLBDAd
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 1,987,418 | __Repository__: http://psframework.org/
+__Downloads__: 1,987,345 | __Repository__: http://psframework.org/
 
 ## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.121) | 1.0.121
 
@@ -889,14 +897,6 @@ __Downloads__: 8 | __Repository__: https://github.com/oracle/oci-powershell-modu
 This modules provides Cmdlets for OCI Oda Service
 
 __Downloads__: 1,371 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ocvp](https://www.powershellgallery.com/Packages/OCI.PSModules.Ocvp/35.0.0) | 35.0.0
-
-### Published: 06/14/2022 20:39:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ocvp Service
-
-__Downloads__: 1,417 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Oce](https://www.powershellgallery.com/Packages/OCI.PSModules.Oce/35.0.0) | 35.0.0
 
@@ -1520,7 +1520,7 @@ __Downloads__: 18,363 | __Repository__:
 
 Adds the required configuration to SCEPman (https://scepman.com/) right after installing or updating to a 2.x version.
 
-__Downloads__: 789 | __Repository__: https://scepman.com/
+__Downloads__: 788 | __Repository__: https://scepman.com/
 
 ## [ipmgmt](https://www.powershellgallery.com/Packages/ipmgmt/0.1.18) | 0.1.18
 
@@ -1568,7 +1568,15 @@ __Downloads__: 370 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,930,216 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,930,213 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [LearnPowerShell](https://www.powershellgallery.com/Packages/LearnPowerShell/0.7.0) | 0.7.0
+
+### Published: 06/13/2022 16:46:38 by Jake Morrison
+
+Returns episode information from the Learn PowerShell series. Learn PowerShell in an operationally focused blog and video series. This module contains information about each episode.
+
+__Downloads__: 3 | __Repository__: https://github.com/techthoughts2/Learn-PowerShell-Code-Examples
 
 ## [MOVEit.MIA](https://www.powershellgallery.com/Packages/MOVEit.MIA/0.3.2) | 0.3.2
 
@@ -1656,23 +1664,6 @@ A PowerShell toolbox for Microsoft 365 security fans.
 
 __Downloads__: 5,540 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
-## [cbsch-ssh](https://www.powershellgallery.com/Packages/cbsch-ssh/1.0.2) | 1.0.2
-
-### Published: 06/13/2022 06:46:33 by Christopher Berg Schwanstrøm
-
-Argument completer for ssh
-
-__Downloads__: 3 | __Repository__: 
-
-## [PSSPI](https://www.powershellgallery.com/Packages/PSSPI/0.1.0) | 0.1.0
-
-### Published: 06/13/2022 04:37:42 by Jordan Borean
-
-Module for interacting with SSIS on Windows.
-See https://github.com/jborean93/PSSPI for more info
-
-__Downloads__: 3 | __Repository__: https://github.com/jborean93/PSSPI
-
 ## [ThirdPartyLibraries](https://www.powershellgallery.com/Packages/ThirdPartyLibraries/3.1.2) | 3.1.2
 
 ### Published: 06/12/2022 12:12:45 by Max Ieremenko
@@ -1688,7 +1679,7 @@ __Downloads__: 141 | __Repository__: https://github.com/max-ieremenko/ThirdParty
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 883,374 | __Repository__: https://0install.net/
+__Downloads__: 883,509 | __Repository__: https://0install.net/
 
 ## [PSReadLineVIExtension](https://www.powershellgallery.com/Packages/PSReadLineVIExtension/1.0.7) | 1.0.7
 
@@ -1856,7 +1847,7 @@ __Downloads__: 5 | __Repository__:
 
 A set of tools that can simplify handle Wi-Fi profiles, connection. Also additional tools that closely related to networking and Wi-Fi.
 
-__Downloads__: 2,494,800 | __Repository__: https://github.com/buscseik/WifiTools/
+__Downloads__: 2,494,794 | __Repository__: https://github.com/buscseik/WifiTools/
 
 ## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/16.0.0.0) | 16.0.0.0
 
@@ -1900,7 +1891,7 @@ __Downloads__: 7,138 | __Repository__: https://github.com/wetling23/logicmonitor
 
 Module for working with NewRelic
 
-__Downloads__: 3,780 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
+__Downloads__: 3,784 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
 
 ## [GoPS](https://www.powershellgallery.com/Packages/GoPS/2.2.1) | 2.2.1
 
@@ -1916,7 +1907,7 @@ __Downloads__: 9 | __Repository__: https://github.com/endowdly/GoPS
 
 A collection of commands written to perform IPv4 subnet math.
 
-__Downloads__: 83,486 | __Repository__: 
+__Downloads__: 83,485 | __Repository__: 
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2206.574) | 2206.574
 
@@ -2004,7 +1995,7 @@ __Downloads__: 53 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
 
 For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
 
-__Downloads__: 2,174 | __Repository__: https://github.com/srozemuller/AzAvd
+__Downloads__: 2,173 | __Repository__: https://github.com/srozemuller/AzAvd
 
 ## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/12.2.3) | 12.2.3
 
@@ -2021,14 +2012,6 @@ __Downloads__: 104 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/
 Parent module containing all Azure Native modules required to create YAML/JSON definitions for pulumi
 
 __Downloads__: 4 | __Repository__: 
-
-## [pspulumiyaml.azurenative.workloads](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.workloads/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:14:15 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 3 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.windowsiot](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.windowsiot/0.0.2) | 0.0.2
 
@@ -2054,4 +2037,20 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 3 | __Repository__: 
 
-*Updated: Saturday, 18 June 2022 02:34:41 UTC*
+## [pspulumiyaml.azurenative.web](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.web/0.0.2) | 0.0.2
+
+### Published: 06/08/2022 20:13:48 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 4 | __Repository__: 
+
+## [pspulumiyaml.azurenative.vmwarecloudsimple](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.vmwarecloudsimple/0.0.2) | 0.0.2
+
+### Published: 06/08/2022 20:13:40 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 6 | __Repository__: 
+
+*Updated: Saturday, 18 June 2022 09:52:22 UTC*
