@@ -5,6 +5,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PS-SyncHr](https://www.powershellgallery.com/Packages/PS-SyncHr/1.0.10) | 1.0.10
+
+### Published: 06/17/2022 21:46:06 by sqone2
+
+SyncHr Functions
+
+__Downloads__: 3 | __Repository__: 
+
+## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.5.0) | 2.1.5.0
+
+### Published: 06/17/2022 20:06:18 by Bentley Systems Incorporated
+
+ProjectWise PowerShell Cmdlets from System Architecture Group
+
+__Downloads__: 61,296 | __Repository__: 
+
+## [gispad](https://www.powershellgallery.com/Packages/gispad/0.0.5) | 0.0.5
+
+### Published: 06/17/2022 19:52:02 by gisp
+
+Active Directory tools
+
+__Downloads__: 11 | __Repository__: https://sparrli.notion.site/gispad-b5944d29fe0946ebb0d175e6d6b77c79
+
+## [ProductivityTools.GetServiceDescription](https://www.powershellgallery.com/Packages/ProductivityTools.GetServiceDescription/0.0.2) | 0.0.2
+
+### Published: 06/17/2022 19:35:02 by Pawel Wujczyk
+
+Gets service description for service name
+
+__Downloads__: 1 | __Repository__: https://www.powershellgallery.com/packages/ProductivityTools.GetServiceDescription
+
+## [AzurePipelinesPS](https://www.powershellgallery.com/Packages/AzurePipelinesPS/4.0.22) | 4.0.22
+
+### Published: 06/17/2022 18:35:52 by Dejulia489
+
+A PowerShell module that makes interfacing with Azure Pipelines a little easier
+
+__Downloads__: 10,029 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.5.0) | 4.5.0
 
 ### Published: 06/17/2022 17:42:23 by Venafi
@@ -19,7 +59,7 @@ __Downloads__: 1,890 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 136,818 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 136,816 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.6.0) | 7.6.0
 
@@ -54,29 +94,13 @@ PowerShell module to interact with Atlassian Statuspage
 
 __Downloads__: 1,813 | __Repository__: 
 
-## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.3.0) | 2.1.3.0
-
-### Published: 06/17/2022 13:43:30 by Bentley Systems Incorporated
-
-ProjectWise PowerShell Cmdlets from System Architecture Group
-
-__Downloads__: 61,296 | __Repository__: 
-
 ## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.12) | 0.0.12
 
 ### Published: 06/17/2022 13:43:12 by Przemyslaw Klys
 
 Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
 
-__Downloads__: 74,977 | __Repository__: https://github.com/EvotecIT/Transferetto
-
-## [PS-SyncHr](https://www.powershellgallery.com/Packages/PS-SyncHr/1.0.5) | 1.0.5
-
-### Published: 06/17/2022 13:41:15 by sqone2
-
-SyncHr Functions
-
-__Downloads__: 3 | __Repository__: 
+__Downloads__: 74,978 | __Repository__: https://github.com/EvotecIT/Transferetto
 
 ## [PowerShellPivot](https://www.powershellgallery.com/Packages/PowerShellPivot/0.8.1) | 0.8.1
 
@@ -241,21 +265,13 @@ PowerShell Management cmdlets for Binary Tree Power365
 
 __Downloads__: 533 | __Repository__: 
 
-## [gispad](https://www.powershellgallery.com/Packages/gispad/0.0.4) | 0.0.4
-
-### Published: 06/16/2022 21:21:19 by gisp
-
-Active Directory tools
-
-__Downloads__: 11 | __Repository__: 
-
 ## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.16) | 1.0.16
 
 ### Published: 06/16/2022 21:20:58 by Matt Miller Security Engineer
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 509,840,532 | __Repository__: 
+__Downloads__: 509,840,462 | __Repository__: 
 
 ## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.23.1) | 3.23.1
 
@@ -423,7 +439,7 @@ __Downloads__: 1,879 | __Repository__: https://github.com/stefanland/D365FOLBDAd
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 1,987,345 | __Repository__: http://psframework.org/
+__Downloads__: 1,987,418 | __Repository__: http://psframework.org/
 
 ## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.121) | 1.0.121
 
@@ -559,7 +575,7 @@ __Downloads__: 9 | __Repository__: https://github.com/digitalguy99/pwsh-interval
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 7,937 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 7,935 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [GuestConfiguration](https://www.powershellgallery.com/Packages/GuestConfiguration/4.1.0) | 4.1.0
 
@@ -1552,15 +1568,7 @@ __Downloads__: 370 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,930,213 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [LearnPowerShell](https://www.powershellgallery.com/Packages/LearnPowerShell/0.7.0) | 0.7.0
-
-### Published: 06/13/2022 16:46:38 by Jake Morrison
-
-Returns episode information from the Learn PowerShell series. Learn PowerShell in an operationally focused blog and video series. This module contains information about each episode.
-
-__Downloads__: 3 | __Repository__: https://github.com/techthoughts2/Learn-PowerShell-Code-Examples
+__Downloads__: 2,930,216 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [MOVEit.MIA](https://www.powershellgallery.com/Packages/MOVEit.MIA/0.3.2) | 0.3.2
 
@@ -1614,7 +1622,7 @@ __Downloads__: 247 | __Repository__:
 
 PowerShell module for P2000 emergency services notifications
 
-__Downloads__: 1,020 | __Repository__: 
+__Downloads__: 1,019 | __Repository__: 
 
 ## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.7) | 0.2.7
 
@@ -1638,7 +1646,7 @@ __Downloads__: 2,164 | __Repository__:
 
 Various helpful cmdlets and functions
 
-__Downloads__: 532 | __Repository__: 
+__Downloads__: 531 | __Repository__: 
 
 ## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/1.0.28) | 1.0.28
 
@@ -1654,7 +1662,7 @@ __Downloads__: 5,540 | __Repository__: https://github.com/DanielChronlund/DCTool
 
 Argument completer for ssh
 
-__Downloads__: 4 | __Repository__: 
+__Downloads__: 3 | __Repository__: 
 
 ## [PSSPI](https://www.powershellgallery.com/Packages/PSSPI/0.1.0) | 0.1.0
 
@@ -1680,7 +1688,7 @@ __Downloads__: 141 | __Repository__: https://github.com/max-ieremenko/ThirdParty
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 883,734 | __Repository__: https://0install.net/
+__Downloads__: 883,374 | __Repository__: https://0install.net/
 
 ## [PSReadLineVIExtension](https://www.powershellgallery.com/Packages/PSReadLineVIExtension/1.0.7) | 1.0.7
 
@@ -1834,13 +1842,21 @@ Provide a better and easier way for GitHub Actions to communicate with the runne
 
 __Downloads__: 358 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
+## [Exporter](https://www.powershellgallery.com/Packages/Exporter/1.0) | 1.0
+
+### Published: 06/10/2022 09:41:47 by Jonas Haudrup Aamann Jessen
+
+Function to export content to CSV, JSON and so on.
+
+__Downloads__: 5 | __Repository__: 
+
 ## [WifiTools](https://www.powershellgallery.com/Packages/WifiTools/1.8.3) | 1.8.3
 
 ### Published: 06/10/2022 07:34:39 by Krisztian Buscsei
 
 A set of tools that can simplify handle Wi-Fi profiles, connection. Also additional tools that closely related to networking and Wi-Fi.
 
-__Downloads__: 2,494,794 | __Repository__: https://github.com/buscseik/WifiTools/
+__Downloads__: 2,494,800 | __Repository__: https://github.com/buscseik/WifiTools/
 
 ## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/16.0.0.0) | 16.0.0.0
 
@@ -1884,7 +1900,7 @@ __Downloads__: 7,138 | __Repository__: https://github.com/wetling23/logicmonitor
 
 Module for working with NewRelic
 
-__Downloads__: 3,784 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
+__Downloads__: 3,780 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
 
 ## [GoPS](https://www.powershellgallery.com/Packages/GoPS/2.2.1) | 2.2.1
 
@@ -1900,7 +1916,7 @@ __Downloads__: 9 | __Repository__: https://github.com/endowdly/GoPS
 
 A collection of commands written to perform IPv4 subnet math.
 
-__Downloads__: 83,485 | __Repository__: 
+__Downloads__: 83,486 | __Repository__: 
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2206.574) | 2206.574
 
@@ -1966,14 +1982,6 @@ This module includes functions to gather information from remote devices
 
 __Downloads__: 15 | __Repository__: 
 
-## [rmmapi](https://www.powershellgallery.com/Packages/rmmapi/0.0.1) | 0.0.1
-
-### Published: 06/09/2022 07:50:59 by JunboYang
-
-WatchGuard RMMAPI module
-
-__Downloads__: 3 | __Repository__: 
-
 ## [Sampler.AzureDevOpsTasks](https://www.powershellgallery.com/Packages/Sampler.AzureDevOpsTasks/0.1.1) | 0.1.1
 
 ### Published: 06/09/2022 06:00:07 by SynEdgy Limited
@@ -1996,7 +2004,7 @@ __Downloads__: 53 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
 
 For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
 
-__Downloads__: 2,173 | __Repository__: https://github.com/srozemuller/AzAvd
+__Downloads__: 2,174 | __Repository__: https://github.com/srozemuller/AzAvd
 
 ## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/12.2.3) | 12.2.3
 
@@ -2046,12 +2054,4 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 3 | __Repository__: 
 
-## [pspulumiyaml.azurenative.web](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.web/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:13:48 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 4 | __Repository__: 
-
-*Updated: Friday, 17 June 2022 17:54:39 UTC*
+*Updated: Saturday, 18 June 2022 02:34:41 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 17 June 2022 17:54:51 UTC
+Updated: Saturday, 18 June 2022 02:34:53 UTC
 
 ?:
 ??
@@ -25,7 +25,6 @@ Updated: Friday, 17 June 2022 17:54:51 UTC
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -112,6 +111,7 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activeefficiency
+activeresponse
 activesession
 activiti
 activity
@@ -124,6 +124,7 @@ ad_monitoring
 ad-ds
 adal
 adapter
+adaptivecards
 adb
 adc
 adcs
@@ -1201,6 +1202,7 @@ containergroup
 containerinstance
 containerregistry
 containers
+containment
 context
 continious-deploy
 continious-integration
@@ -1276,6 +1278,8 @@ cqdpowershell
 cqhttp
 crack psmodule
 crayon
+crc
+crc32
 create
 createcolumn
 createdatabase
@@ -1361,6 +1365,7 @@ customis
 customisation
 customization
 customlocation
+customproviders
 cvad
 cve-2021-34527
 cvrf
@@ -1372,6 +1377,8 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
+cyclic
+cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -1453,6 +1460,7 @@ datto
 dattormm
 datum
 dave
+davinci
 dax
 dayinweek
 days-week
@@ -1985,7 +1993,6 @@ evtx
 ews
 exact
 example
-examples
 excel
 exception
 exceptionless
@@ -2702,6 +2709,7 @@ iis
 iis10
 iis8
 iisadministration
+ikev2
 il
 illinois
 ilo
@@ -3021,6 +3029,7 @@ kusto
 kvm
 kvp
 l1tf
+l2tp
 lab
 labautomation
 labdefinition
@@ -3068,12 +3077,8 @@ ldap
 league
 lean
 learn
-learn-powershell
-learn-powershell-series
 learning
-learning-powershell
 learningpowershell
-learnpowershell
 lease
 leetabit
 leftjoin
@@ -3123,6 +3128,7 @@ lint
 linting
 linux
 linux-command
+linuxssh
 liquid
 liquit
 liquit.com
@@ -3207,10 +3213,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 lol
 lolcat
@@ -3221,6 +3225,7 @@ look
 lookup
 loopback
 lpr
+lpsiamol
 ls
 lsa
 lsasecrets
@@ -3228,6 +3233,7 @@ lsd
 ltm
 lucd
 lucene
+lunches
 lwa
 lxca
 lxcapstool
@@ -3338,6 +3344,7 @@ mbs
 mc
 mcafee
 mcas
+mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
 md5sum
@@ -3465,6 +3472,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mlflow
 mmdc
 mobile
 mobilitycontroller
@@ -3846,7 +3854,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -3995,6 +4002,7 @@ panels
 pansies
 panther
 panzerbjrn
+pap
 paper
 papis
 paradox
@@ -4244,10 +4252,8 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
-powershell-course
 powershell-credentials
 powershell-dsc
-powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4258,13 +4264,10 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
-powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
-powershellcourse
-powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4275,12 +4278,10 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
-powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -4288,6 +4289,7 @@ ppk
 pposh
 pps
 ppt
+pptp
 pptx
 pranks
 predicate
@@ -4712,6 +4714,7 @@ redoc
 redseal
 redshift
 redteaming
+redundancy
 refactor
 refeds
 refeds-mfa
@@ -4727,7 +4730,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register-argumentcompleter
 registration
 registry
 regression
@@ -4847,6 +4849,7 @@ rhapsody
 ribbon
 ribcl
 rightjoin
+rights
 rightsizing
 ripe
 risk
@@ -4856,7 +4859,6 @@ risksense
 rlan
 rmcp
 rmm
-rmmapi
 rms
 rng
 roarwrecker
@@ -4881,6 +4883,7 @@ route
 route53
 routeconfig
 router
+routes
 routetable
 routine
 rover
@@ -5144,7 +5147,9 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
+servers
 service
+service-bus
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5466,6 +5471,8 @@ ssc
 ssdt
 ssh
 ssh-keygen
+sshmanagement
+sshservers
 ssis
 ssl
 sslcertificate
@@ -5477,6 +5484,7 @@ sso
 sspr
 ssrs
 ssst
+sstp
 stache
 stackedge
 stackexchange
@@ -5613,6 +5621,7 @@ swarm
 swimlane
 swis
 switch
+sxs
 sybase
 sybaseiq
 symantec
@@ -5632,6 +5641,7 @@ synergy
 syntax
 syntax-highlighting
 syntaxhighlighter
+synthesis
 synthetics
 sysadmin
 sysctr
@@ -5702,6 +5712,7 @@ taxjar
 taxonomy
 tcp
 tcp/ip
+tcpip
 tcpport
 tcpserver
 tcptest
@@ -5718,7 +5729,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 techsmith
 tel
 telegram
@@ -5770,6 +5780,7 @@ tests
 testsuite
 testtag1
 testtag2
+testtool
 testusers
 text
 text-to-image
@@ -5868,7 +5879,6 @@ trafficmanager
 trafficmarking
 train
 training
-training-course
 tram
 transact
 transaction
@@ -5962,6 +5972,7 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
+ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -6297,7 +6308,6 @@ vss
 vssetup
 vsshell
 vst
-vsteambuilder
 vsteams
 vstest
 vsts
@@ -6334,7 +6344,6 @@ warranty
 warrenty
 wasabi
 watch
-watchguard
 watchmen
 watery
 wave
@@ -6646,6 +6655,7 @@ ynab
 youtube
 youtube-dl
 youtubeextractor
+yq
 yubaba
 z
 zabbix
