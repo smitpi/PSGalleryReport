@@ -5,6 +5,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Az.Adm](https://www.powershellgallery.com/Packages/Az.Adm/1.0.4) | 1.0.4
+
+### Published: 06/19/2022 07:18:28 by Diogo De Santana Jacome
+
+Function to help in the everyday to manage Microsoft Azure. This module supports PowerShell 7.2.2 For more information about the Az.Adm module, visit the following: https://github.com/Didjacome/Modules.Azure
+
+__Downloads__: 0 | __Repository__: https://github.com/Didjacome/Modules.Azure
+
+## [Ldbc](https://www.powershellgallery.com/Packages/Ldbc/0.8.1) | 0.8.1
+
+### Published: 06/19/2022 06:13:24 by Roman Kuzmin
+
+LiteDB Cmdlets, the document store in PowerShell
+
+__Downloads__: 845 | __Repository__: https://github.com/nightroman/Ldbc
+
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2206.581) | 2206.581
 
 ### Published: 06/19/2022 01:49:56 by Aaron Parker
@@ -37,14 +53,6 @@ __Downloads__: 8 | __Repository__: https://github.com/svesavov/SnsMsSqlPsModule
 Gets service description for service name
 
 __Downloads__: 3 | __Repository__: https://www.powershellgallery.com/packages/ProductivityTools.GetServiceDescription
-
-## [Ldbc](https://www.powershellgallery.com/Packages/Ldbc/0.8.0) | 0.8.0
-
-### Published: 06/18/2022 04:41:33 by Roman Kuzmin
-
-LiteDB Cmdlets, the document store in PowerShell
-
-__Downloads__: 845 | __Repository__: https://github.com/nightroman/Ldbc
 
 ## [PS-SyncHr](https://www.powershellgallery.com/Packages/PS-SyncHr/1.0.10) | 1.0.10
 
@@ -304,7 +312,7 @@ __Downloads__: 534 | __Repository__:
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 509,850,929 | __Repository__: 
+__Downloads__: 509,849,953 | __Repository__: 
 
 ## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.23.1) | 3.23.1
 
@@ -544,7 +552,7 @@ __Downloads__: 68 | __Repository__: https://github.com/ncavare/powershell-phpcon
 
 Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
 
-__Downloads__: 52,446 | __Repository__: https://github.com/joonro/Get-ChildItemColor
+__Downloads__: 52,444 | __Repository__: https://github.com/joonro/Get-ChildItemColor
 
 ## [Profiler](https://www.powershellgallery.com/Packages/Profiler/4.0.0) | 4.0.0
 
@@ -1695,7 +1703,7 @@ __Downloads__: 532 | __Repository__:
 
 A PowerShell toolbox for Microsoft 365 security fans.
 
-__Downloads__: 5,554 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+__Downloads__: 5,556 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
 ## [cbsch-ssh](https://www.powershellgallery.com/Packages/cbsch-ssh/1.0.2) | 1.0.2
 
@@ -1729,7 +1737,7 @@ __Downloads__: 141 | __Repository__: https://github.com/max-ieremenko/ThirdParty
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 899,443 | __Repository__: https://0install.net/
+__Downloads__: 900,343 | __Repository__: https://0install.net/
 
 ## [PSReadLineVIExtension](https://www.powershellgallery.com/Packages/PSReadLineVIExtension/1.0.7) | 1.0.7
 
@@ -1809,7 +1817,7 @@ __Downloads__: 1,266 | __Repository__:
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 3,699 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 3,701 | __Repository__: https://aka.ms/AzAPICall
 
 ## [msp360](https://www.powershellgallery.com/Packages/msp360/2.24.161) | 2.24.161
 
@@ -1833,7 +1841,7 @@ __Downloads__: 1,347 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 2,907 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 2,908 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [HyperDeploy](https://www.powershellgallery.com/Packages/HyperDeploy/0.2) | 0.2
 
@@ -2055,12 +2063,4 @@ Module for CyberArk v12.2 Privileged Access Security Web Service REST API
 
 __Downloads__: 104 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/VpasModule/VpasModule/12.2.3
 
-## [pspulumiyaml.azurenative](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative/0.0.2) | 0.0.2
-
-### Published: 06/08/2022 20:32:57 by Worxspace
-
-Parent module containing all Azure Native modules required to create YAML/JSON definitions for pulumi
-
-__Downloads__: 4 | __Repository__: 
-
-*Updated: Sunday, 19 June 2022 02:39:55 UTC*
+*Updated: Sunday, 19 June 2022 09:52:19 UTC*

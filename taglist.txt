@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 19 June 2022 02:40:05 UTC
+Updated: Sunday, 19 June 2022 09:52:29 UTC
 
 ?:
 ??
@@ -487,6 +487,7 @@ avepoint
 avro
 avs
 avset
+await
 awesome
 awp
 awpagent
@@ -2641,6 +2642,7 @@ humanizer
 humanly
 humor
 humorous
+hunter
 hybrid
 hybridrunbookworker
 hybris
@@ -5309,6 +5311,7 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
+skytap
 slack
 sln
 sm
@@ -6147,6 +6150,7 @@ usps
 utc
 utf-8
 utf-sig
+utf7
 utf8
 utf8-sig
 utf8bom
@@ -6511,6 +6515,7 @@ wingetbridge
 winrar
 winrm
 winrs
+winrt
 wins
 winsat
 winscp
