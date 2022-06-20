@@ -5,9 +5,41 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Piecemeal](https://www.powershellgallery.com/Packages/Piecemeal/0.2.9) | 0.2.9
+## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.2.1.4) | 2.2.1.4
 
-### Published: 06/20/2022 02:27:47 by James Brundage
+### Published: 06/20/2022 09:31:05 by Elmar Niederkofler
+
+DesktopControl
+
+__Downloads__: 226 | __Repository__: 
+
+## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.6.73) | 0.6.73
+
+### Published: 06/20/2022 08:47:34 by Mötz Jensen & Rasmus Andersen
+
+A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
+
+__Downloads__: 74,773 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+
+## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.33) | 6.0.33
+
+### Published: 06/20/2022 07:27:02 by Beckhoff
+
+Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
+
+__Downloads__: 7,151 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+
+## [DynatracePS](https://www.powershellgallery.com/Packages/DynatracePS/0.1.15) | 0.1.15
+
+### Published: 06/20/2022 03:24:03 by joey.was@gmail.com
+
+PowerShell module to interact with Dynatrace SaaS API
+
+__Downloads__: 69 | __Repository__: https://github.com/joeywas/DynatracePS
+
+## [Piecemeal](https://www.powershellgallery.com/Packages/Piecemeal/0.2.9.1) | 0.2.9.1
+
+### Published: 06/20/2022 02:47:54 by James Brundage
 
 Easy Extensible Plugins for PowerShell
 
@@ -95,7 +127,7 @@ __Downloads__: 848 | __Repository__: https://github.com/nightroman/Ldbc
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 626,872 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 626,837 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [SnsMsSqlPsModule](https://www.powershellgallery.com/Packages/SnsMsSqlPsModule/0.0.0.3) | 0.0.0.3
 
@@ -218,14 +250,6 @@ __Downloads__: 76,083 | __Repository__: https://github.com/EvotecIT/Transferetto
 PowerShell module to reshape data (produce a "pivot" table) based on column values. Supports aggregations. Plus, other useful functions
 
 __Downloads__: 72 | __Repository__: https://github.com/dfinke/PowerShellPivot
-
-## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.2.1.0) | 2.2.1.0
-
-### Published: 06/17/2022 09:47:32 by Elmar Niederkofler
-
-DesktopControl
-
-__Downloads__: 226 | __Repository__: 
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.17.1) | 22.6.17.1
 
@@ -461,14 +485,6 @@ Colorizing Get-Help output.
 
 __Downloads__: 56 | __Repository__: https://github.com/digitalguy99/pwsh-man-highlighting
 
-## [DynatracePS](https://www.powershellgallery.com/Packages/DynatracePS/0.1.14) | 0.1.14
-
-### Published: 06/16/2022 03:28:07 by joey.was@gmail.com
-
-PowerShell module to interact with Dynatrace SaaS API
-
-__Downloads__: 69 | __Repository__: https://github.com/joeywas/DynatracePS
-
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.0.72) | 5.0.72
 
 ### Published: 06/15/2022 21:29:09 by David Becher
@@ -529,7 +545,7 @@ __Downloads__: 1,879 | __Repository__: https://github.com/stefanland/D365FOLBDAd
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 2,001,463 | __Repository__: http://psframework.org/
+__Downloads__: 2,001,458 | __Repository__: http://psframework.org/
 
 ## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.121) | 1.0.121
 
@@ -1720,7 +1736,7 @@ __Downloads__: 247 | __Repository__:
 
 PowerShell module for P2000 emergency services notifications
 
-__Downloads__: 1,303 | __Repository__: 
+__Downloads__: 1,302 | __Repository__: 
 
 ## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.7) | 0.2.7
 
@@ -1826,7 +1842,7 @@ __Downloads__: 20 | __Repository__: https://github.com/sangafabrice/download-inf
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 113,394 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 113,395 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.0.3) | 1.0.3
 
@@ -1858,7 +1874,7 @@ __Downloads__: 1,266 | __Repository__:
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 3,815 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 3,814 | __Repository__: https://aka.ms/AzAPICall
 
 ## [msp360](https://www.powershellgallery.com/Packages/msp360/2.24.161) | 2.24.161
 
@@ -1938,7 +1954,7 @@ __Downloads__: 5 | __Repository__:
 
 A set of tools that can simplify handle Wi-Fi profiles, connection. Also additional tools that closely related to networking and Wi-Fi.
 
-__Downloads__: 2,499,756 | __Repository__: https://github.com/buscseik/WifiTools/
+__Downloads__: 2,499,732 | __Repository__: https://github.com/buscseik/WifiTools/
 
 ## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/16.0.0.0) | 16.0.0.0
 
@@ -2048,20 +2064,4 @@ Display important information of a computer. This function supports both SSH and
 
 __Downloads__: 6 | __Repository__: 
 
-## [MilitaryModule](https://www.powershellgallery.com/Packages/MilitaryModule/1.0.0.1) | 1.0.0.1
-
-### Published: 06/09/2022 08:18:46 by Mikkel R Nicklas M-J Nicolai E.P Jonas H.Aa.J
-
-This module includes functions to gather information from remote devices
-
-__Downloads__: 15 | __Repository__: 
-
-## [rmmapi](https://www.powershellgallery.com/Packages/rmmapi/0.0.1) | 0.0.1
-
-### Published: 06/09/2022 07:50:59 by JunboYang
-
-WatchGuard RMMAPI module
-
-__Downloads__: 3 | __Repository__: 
-
-*Updated: Monday, 20 June 2022 02:31:23 UTC*
+*Updated: Monday, 20 June 2022 09:52:27 UTC*

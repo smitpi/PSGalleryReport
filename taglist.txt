@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 20 June 2022 02:31:32 UTC
+Updated: Monday, 20 June 2022 09:52:37 UTC
 
 ?:
 ??
@@ -14,7 +14,6 @@ Updated: Monday, 20 June 2022 02:31:32 UTC
 'files
 'provider'
 "interactive
-🍄
 🍣
 💩
 1.1.1.1
@@ -199,7 +198,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-agenda
 agent
 aggregates
 aggregation
@@ -1154,7 +1152,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1506,8 +1503,6 @@ defaultroutes
 defaults
 defence
 defender
-defender-atp
-defender-for-endpoint
 defenderast
 defenderforendpoint
 defense
@@ -2365,7 +2360,6 @@ ggplot
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -3219,10 +3213,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 lol
 lolcat
@@ -4319,7 +4311,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -4400,9 +4391,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4582,7 +4570,6 @@ purestorage
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -5083,7 +5070,6 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
-secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5192,7 +5178,6 @@ servicing
 servicingstack
 ses
 session
-sessionize
 sessions
 set
 set_bios
@@ -5415,7 +5400,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 specification
 specify
 spectre
@@ -6678,7 +6662,6 @@ youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 z
 zabbix
 zabbixps
@@ -6704,4 +6687,3 @@ zvm
 全角半角変換
 寿司
 日本語
-湯婆婆
