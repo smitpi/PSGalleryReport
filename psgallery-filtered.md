@@ -5,13 +5,89 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.2.1.4) | 2.2.1.4
+## [PSBicepApiManagement](https://www.powershellgallery.com/Packages/PSBicepApiManagement/0.0.1) | 0.0.1
 
-### Published: 06/20/2022 09:31:05 by Elmar Niederkofler
+### Published: 06/20/2022 17:01:56 by Daniele Francioni
+
+Powershell module to export/import a single api from Azure Api Management using Azure Bicep.
+
+__Downloads__: 0 | __Repository__: https://github.com/sincronicatech/PSBicepApiManagement
+
+## [CPolydorou.Network](https://www.powershellgallery.com/Packages/CPolydorou.Network/1.7.0) | 1.7.0
+
+### Published: 06/20/2022 16:16:55 by Christos Polydorou
+
+This module contains functions about network tasks.
+
+__Downloads__: 1,443 | __Repository__: 
+
+## [PS-SyncHr](https://www.powershellgallery.com/Packages/PS-SyncHr/1.0.13) | 1.0.13
+
+### Published: 06/20/2022 15:18:58 by sqone2
+
+SyncHr Functions
+
+__Downloads__: 18 | __Repository__: 
+
+## [SwissMentor](https://www.powershellgallery.com/Packages/SwissMentor/13.0.1) | 13.0.1
+
+### Published: 06/20/2022 14:34:09 by François Zbinden
+
+SwissMentor cli module to login to a SwissMentor server, retreive and mutate data. Check the documentation at http://docs.swissmentor.com/docs/powershell-getting-started.
+
+__Downloads__: 0 | __Repository__: http://docs.swissmentor.com/docs/powershell-getting-started
+
+## [PSAdvantage](https://www.powershellgallery.com/Packages/PSAdvantage/0.9.4) | 0.9.4
+
+### Published: 06/20/2022 13:30:27 by Douglas Finke
+
+GitHub Actions at your Fingertips! ✨ - via PowerShell
+
+__Downloads__: 243 | __Repository__: https://github.com/dfinke/PSAdvantage
+
+## [MHA-IT.CommonFunctions](https://www.powershellgallery.com/Packages/MHA-IT.CommonFunctions/1.1) | 1.1
+
+### Published: 06/20/2022 13:26:00 by Ewan McLean (ewan.scot)
+
+For internal use by Maryhill Housing Association
+
+__Downloads__: 1 | __Repository__: 
+
+## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.2.1.5) | 2.2.1.5
+
+### Published: 06/20/2022 12:01:16 by Elmar Niederkofler
 
 DesktopControl
 
 __Downloads__: 226 | __Repository__: 
+
+## [StepAutomation](https://www.powershellgallery.com/Packages/StepAutomation/1.1.3) | 1.1.3
+
+### Published: 06/20/2022 11:30:47 by Ogtay Garayev
+
+This module allows administrators, testers to automate sequential steps (configuration based).
+
+The module provides classes for automating operations. You can also easily extend the module with adding your own custom operations.
+
+The Module also provides classes for automating Web Page actions over Chrome Web Browser (e.g. navigating, clicking, text adding) and some default methods for this.
+
+__Downloads__: 42 | __Repository__: https://github.com/okaraev/StepAutomation
+
+## [VirtualEngine.EvergreenDsc](https://www.powershellgallery.com/Packages/VirtualEngine.EvergreenDsc/1.2.2) | 1.2.2
+
+### Published: 06/20/2022 11:13:39 by Iain Brighton
+
+The VirtualEngine.EvergreenDsc module provides cmdlets and DSC resources for interacting with Virtual Engine Evergreen packages.
+
+__Downloads__: 24,963 | __Repository__: https://dev.azure.com/virtual-engine/PSRepository/_git/VirtualEngine.EvergreenDsc
+
+## [PSBicepParser.Powershell](https://www.powershellgallery.com/Packages/PSBicepParser.Powershell/0.0.1) | 0.0.1
+
+### Published: 06/20/2022 10:09:00 by Daniele Francioni
+
+Powershell parser for Azure Bicep files. It makes easier parsing Bicep files. To be used in CI/CD pipeline that needs to manipulate an Azure Bicep file before deploying.
+
+__Downloads__: 0 | __Repository__: https://github.com/sincronicatech/PSBicepParser.Powershell
 
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.6.73) | 0.6.73
 
@@ -55,15 +131,6 @@ Examples include mounting a database, creating a new VM or running a workflow.
 More information about this module can be found here:   https://github.com/Actifio/AGMPowerLib
 
 __Downloads__: 1,419 | __Repository__: https://github.com/Actifio/AGMPowerLib
-
-## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.6.19) | 22.6.19
-
-### Published: 06/19/2022 22:29:29 by David Eberhardt
-
-Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
-For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
-
-__Downloads__: 2,323 | __Repository__: 
 
 ## [FailoverClusterDsc](https://www.powershellgallery.com/Packages/FailoverClusterDsc/2.1.0) | 2.1.0
 
@@ -127,7 +194,7 @@ __Downloads__: 848 | __Repository__: https://github.com/nightroman/Ldbc
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 626,837 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 626,861 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [SnsMsSqlPsModule](https://www.powershellgallery.com/Packages/SnsMsSqlPsModule/0.0.0.3) | 0.0.0.3
 
@@ -153,14 +220,6 @@ __Downloads__: 14 | __Repository__: https://github.com/svesavov/SnsMsSqlPsModule
 Gets service description for service name
 
 __Downloads__: 7 | __Repository__: https://www.powershellgallery.com/packages/ProductivityTools.GetServiceDescription
-
-## [PS-SyncHr](https://www.powershellgallery.com/Packages/PS-SyncHr/1.0.10) | 1.0.10
-
-### Published: 06/17/2022 21:46:06 by sqone2
-
-SyncHr Functions
-
-__Downloads__: 18 | __Repository__: 
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.5.0) | 2.1.5.0
 
@@ -200,7 +259,7 @@ __Downloads__: 1,897 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 136,946 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 136,945 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.6.0) | 7.6.0
 
@@ -427,14 +486,6 @@ A PowerShell module to generate an as built report on the configuration of Veeam
 
 __Downloads__: 631 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
 
-## [VirtualEngine.EvergreenDsc](https://www.powershellgallery.com/Packages/VirtualEngine.EvergreenDsc/1.2.1) | 1.2.1
-
-### Published: 06/16/2022 16:22:24 by Iain Brighton
-
-The VirtualEngine.EvergreenDsc module provides cmdlets and DSC resources for interacting with Virtual Engine Evergreen packages.
-
-__Downloads__: 24,963 | __Repository__: https://dev.azure.com/virtual-engine/PSRepository/_git/VirtualEngine.EvergreenDsc
-
 ## [LXCOPSTool](https://www.powershellgallery.com/Packages/LXCOPSTool/1.6.0.18) | 1.6.0.18
 
 ### Published: 06/16/2022 11:45:48 by Lenovo Corporation
@@ -545,7 +596,7 @@ __Downloads__: 1,879 | __Repository__: https://github.com/stefanland/D365FOLBDAd
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 2,001,458 | __Repository__: http://psframework.org/
+__Downloads__: 2,001,462 | __Repository__: http://psframework.org/
 
 ## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.121) | 1.0.121
 
@@ -1652,14 +1703,6 @@ ReportRunner
 
 __Downloads__: 79 | __Repository__: https://github.com/archmachina/ps-reportrunner/
 
-## [posh-Brawl](https://www.powershellgallery.com/Packages/posh-Brawl/0.3.0) | 0.3.0
-
-### Published: 06/14/2022 04:53:53 by dotnVO
-
-posh-Brawl
-
-__Downloads__: 5 | __Repository__: 
-
 ## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.11.2) | 0.11.2
 
 ### Published: 06/13/2022 22:25:13 by Ove Lartelius
@@ -1683,17 +1726,6 @@ __Downloads__: 2,933,031 | __Repository__: https://www.red-gate.com/sca/productp
 Returns episode information from the Learn PowerShell series. Learn PowerShell in an operationally focused blog and video series. This module contains information about each episode.
 
 __Downloads__: 3 | __Repository__: https://github.com/techthoughts2/Learn-PowerShell-Code-Examples
-
-## [MOVEit.MIA](https://www.powershellgallery.com/Packages/MOVEit.MIA/0.3.2) | 0.3.2
-
-### Published: 06/13/2022 16:11:45 by Tony Perri
-
-PowerShell Module for accessing the MOVEit Automation REST API
-
-For more information on the MOVEit Automation REST API, please visit the following:
-https://docs.ipswitch.com/MOVEit/Automation2020/API/REST-API/index.html
-
-__Downloads__: 204 | __Repository__: https://github.com/Tony-Perri/MOVEit.MIA
 
 ## [MOVEit.MIT](https://www.powershellgallery.com/Packages/MOVEit.MIT/0.4.4) | 0.4.4
 
@@ -1736,7 +1768,7 @@ __Downloads__: 247 | __Repository__:
 
 PowerShell module for P2000 emergency services notifications
 
-__Downloads__: 1,302 | __Repository__: 
+__Downloads__: 1,303 | __Repository__: 
 
 ## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.7) | 0.2.7
 
@@ -1842,7 +1874,7 @@ __Downloads__: 20 | __Repository__: https://github.com/sangafabrice/download-inf
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 113,395 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 113,394 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.0.3) | 1.0.3
 
@@ -1954,7 +1986,7 @@ __Downloads__: 5 | __Repository__:
 
 A set of tools that can simplify handle Wi-Fi profiles, connection. Also additional tools that closely related to networking and Wi-Fi.
 
-__Downloads__: 2,499,732 | __Repository__: https://github.com/buscseik/WifiTools/
+__Downloads__: 2,499,750 | __Repository__: https://github.com/buscseik/WifiTools/
 
 ## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/16.0.0.0) | 16.0.0.0
 
@@ -1971,18 +2003,6 @@ __Downloads__: 268 | __Repository__:
 Cmdlet using iDRAC with Redfish OEM extension to import server configuration profile (SCP) file locally. Filename can either be in supported JSON or XML format. If SCP file is needed, execute SCP export cmdlet.
 
 __Downloads__: 200 | __Repository__: 
-
-## [StepAutomation](https://www.powershellgallery.com/Packages/StepAutomation/1.1.2) | 1.1.2
-
-### Published: 06/09/2022 20:33:56 by Ogtay Garayev
-
-This module allows administrators, testers to automate sequential steps (configuration based).
-
-The module provides classes for automating operations. You can also easily extend the module with adding your own custom operations.
-
-The Module also provides classes for automating Web Page actions over Chrome Web Browser (e.g. navigating, clicking, text adding) and some default methods for this.
-
-__Downloads__: 42 | __Repository__: https://github.com/okaraev/StepAutomation
 
 ## [LogicMonitor](https://www.powershellgallery.com/Packages/LogicMonitor/1.0.2.2) | 1.0.2.2
 
@@ -2040,28 +2060,4 @@ Advanced CLI for CouchDB server
 
 __Downloads__: 1,472 | __Repository__: https://matteoguadrini.github.io/PSCouchDB
 
-## [get-PCInfo](https://www.powershellgallery.com/Packages/get-PCInfo/2.0) | 2.0
-
-### Published: 06/09/2022 10:10:49 by Joachim Marcus og Mikkel
-
-Velkommen til vores get-pcinfo funktion, der er lavet i forbindelse med serverautomatisering 2.
-
-__Downloads__: 12 | __Repository__: 
-
-## [Sampler](https://www.powershellgallery.com/Packages/Sampler/0.115.0) | 0.115.0
-
-### Published: 06/09/2022 09:27:04 by Gael Colas
-
-Sample Module with Pipeline scripts and its Plaster template to create a module following some of the community accepted practices.
-
-__Downloads__: 40,259 | __Repository__: https://github.com/gaelcolas/Sampler
-
-## [Get-JJInfo](https://www.powershellgallery.com/Packages/Get-JJInfo/1.0) | 1.0
-
-### Published: 06/09/2022 08:20:29 by Jonas Haudrup Aamann Jessen
-
-Display important information of a computer. This function supports both SSH and WinRM. This can also show information about the local computer.
-
-__Downloads__: 6 | __Repository__: 
-
-*Updated: Monday, 20 June 2022 09:52:27 UTC*
+*Updated: Monday, 20 June 2022 17:53:17 UTC*

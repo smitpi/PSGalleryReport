@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 20 June 2022 09:52:37 UTC
+Updated: Monday, 20 June 2022 17:53:29 UTC
 
 ?:
 ??
@@ -14,6 +14,7 @@ Updated: Monday, 20 June 2022 09:52:37 UTC
 'files
 'provider'
 "interactive
+🍄
 🍣
 💩
 1.1.1.1
@@ -198,6 +199,7 @@ afd
 affinity
 affinity-co
 affinity-crm
+agenda
 agent
 aggregates
 aggregation
@@ -735,8 +737,6 @@ bpmn
 brainy
 branch
 brave
-brawlapi
-brawlstars
 bre
 breach
 break
@@ -1018,7 +1018,6 @@ cloudant
 cloudbees
 cloudberry
 cloudblue
-cloudbolt
 cloudendure
 cloudevents
 cloudflare
@@ -1152,6 +1151,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1503,6 +1503,8 @@ defaultroutes
 defaults
 defence
 defender
+defender-atp
+defender-for-endpoint
 defenderast
 defenderforendpoint
 defense
@@ -2032,7 +2034,6 @@ expired
 expiring
 expiry
 exploit
-exploration
 explorer
 exponentiation
 export
@@ -2360,6 +2361,7 @@ ggplot
 gh-actions
 ghactions
 ghc
+ghibli
 ghost
 gif
 gifs
@@ -3213,8 +3215,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 lol
 lolcat
@@ -4311,6 +4315,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -4391,6 +4396,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4570,6 +4578,7 @@ purestorage
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -4602,7 +4611,6 @@ qlogicfastlinqpowerkit
 qlogicfcpowerkit
 qlogicfcprovider
 qna
-qol
 qq
 qr
 qrcode
@@ -5070,6 +5078,7 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
+secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5138,7 +5147,6 @@ sentinelone
 sep
 seppmail
 seppmail.cloud
-seq
 sequence
 serialization
 serialize
@@ -5178,6 +5186,7 @@ servicing
 servicingstack
 ses
 session
+sessionize
 sessions
 set
 set_bios
@@ -5400,6 +5409,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 specification
 specify
 spectre
@@ -5506,7 +5516,6 @@ start-jobthread
 start-threadjob
 startmen
 starwars
-stash
 stat
 state
 static
@@ -5601,7 +5610,6 @@ suitecrm
 sullivan
 summary
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -5972,7 +5980,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -6662,6 +6669,7 @@ youtube
 youtube-dl
 youtubeextractor
 yq
+yubaba
 z
 zabbix
 zabbixps
@@ -6687,3 +6695,4 @@ zvm
 全角半角変換
 寿司
 日本語
+湯婆婆
