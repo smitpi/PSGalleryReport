@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 20 June 2022 17:53:29 UTC
+Updated: Tuesday, 21 June 2022 02:34:42 UTC
 
 ?:
 ??
@@ -737,6 +737,8 @@ bpmn
 brainy
 branch
 brave
+brawlapi
+brawlstars
 bre
 breach
 break
@@ -1018,6 +1020,7 @@ cloudant
 cloudbees
 cloudberry
 cloudblue
+cloudbolt
 cloudendure
 cloudevents
 cloudflare
@@ -2034,6 +2037,7 @@ expired
 expiring
 expiry
 exploit
+exploration
 explorer
 exponentiation
 export
@@ -2425,7 +2429,6 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
-gpt3
 gpx
 grafana
 grafanaapi
@@ -2977,7 +2980,6 @@ katakana
 kb
 kbarticle
 kdbx
-keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3883,7 +3885,6 @@ opc
 open
 open-ai
 open-ssh
-openai
 openapi
 opendata
 openedge
@@ -4244,7 +4245,6 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
-powermax
 powerplan
 powerplateform
 powerplatform
@@ -4611,6 +4611,7 @@ qlogicfastlinqpowerkit
 qlogicfcpowerkit
 qlogicfcprovider
 qna
+qol
 qq
 qr
 qrcode
@@ -5026,9 +5027,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -5067,7 +5065,6 @@ sdk
 sdn
 search
 search-adminauditlog
-searchengine
 searching
 searchplace
 searchquery
@@ -5147,6 +5144,7 @@ sentinelone
 sep
 seppmail
 seppmail.cloud
+seq
 sequence
 serialization
 serialize
@@ -5516,6 +5514,7 @@ start-jobthread
 start-threadjob
 startmen
 starwars
+stash
 stat
 state
 static
@@ -5610,6 +5609,7 @@ suitecrm
 sullivan
 summary
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -5718,7 +5718,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -5980,6 +5979,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -6010,7 +6010,6 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
-ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
