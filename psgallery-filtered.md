@@ -5,6 +5,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AnaforaShell](https://www.powershellgallery.com/Packages/AnaforaShell/1.9.0) | 1.9.0
+
+### Published: 06/21/2022 09:02:47 by Wiktoryn Żerebecki
+
+Anafora Shell for "The Last Case of Benedict Fox" project
+
+__Downloads__: 49 | __Repository__: 
+
+## [0install](https://www.powershellgallery.com/Packages/0install/2.23.6) | 2.23.6
+
+### Published: 06/21/2022 08:12:19 by Bastian Eicher
+
+Zero Install is a decentralized cross-platform software-installation system.
+
+__Downloads__: 921,989 | __Repository__: https://0install.net/
+
+## [EasyLife365](https://www.powershellgallery.com/Packages/EasyLife365/0.2.0) | 0.2.0
+
+### Published: 06/21/2022 06:56:59 by tto@easylife365.cloud
+
+EasyLife 365
+
+__Downloads__: 10 | __Repository__: https://easylife365.cloud/
+
+## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.6.3.0) | 1.6.3.0
+
+### Published: 06/21/2022 06:08:36 by glueckkanja-gab
+
+Adds the required configuration to SCEPman (https://scepman.com/) right after installing or updating to a 2.x version.
+
+__Downloads__: 808 | __Repository__: https://scepman.com/
+
+## [syntax-highlighting](https://www.powershellgallery.com/Packages/syntax-highlighting/1.1.6) | 1.1.6
+
+### Published: 06/21/2022 05:42:31 by Brian Tannert & Rajeswar Khan
+
+Syntax highlighting for PowerShell
+
+__Downloads__: 81 | __Repository__: https://github.com/digitalguy99/pwsh-syntax-highlighting
+
+## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.1) | 0.0.1
+
+### Published: 06/21/2022 05:20:17 by James Brundage
+
+An Extensible Transpiler for PowerShell (and anything else)
+
+__Downloads__: 0 | __Repository__: https://github.com/StartAutomating/PipeScript
+
+## [man-highlighting](https://www.powershellgallery.com/Packages/man-highlighting/1.8.4) | 1.8.4
+
+### Published: 06/21/2022 04:29:46 by Brian Tannert & zett42
+
+Colorizing Get-Help output.
+
+__Downloads__: 58 | __Repository__: https://github.com/digitalguy99/pwsh-man-highlighting
+
 ## [AGMPowerCLI](https://www.powershellgallery.com/Packages/AGMPowerCLI/0.0.0.37) | 0.0.0.37
 
 ### Published: 06/21/2022 00:45:00 by Anthony Vandewerdt
@@ -46,7 +102,7 @@ __Downloads__: 269 | __Repository__:
 
 A handful of useful tools for System Center Operations Manager (SCOM) activities.
 
-__Downloads__: 82,198 | __Repository__: 
+__Downloads__: 82,197 | __Repository__: 
 
 ## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.0.0) | 2022.2.0.0
 
@@ -71,7 +127,7 @@ __Downloads__: 2,327 | __Repository__:
 
 Manipulate the entries in the hosts file.
 
-__Downloads__: 2,570 | __Repository__: 
+__Downloads__: 2,573 | __Repository__: 
 
 ## [CPolydorou.Network](https://www.powershellgallery.com/Packages/CPolydorou.Network/2.0.0) | 2.0.0
 
@@ -79,7 +135,7 @@ __Downloads__: 2,570 | __Repository__:
 
 This module contains functions about network tasks.
 
-__Downloads__: 1,461 | __Repository__: 
+__Downloads__: 1,459 | __Repository__: 
 
 ## [CPolydorou.FileSystem](https://www.powershellgallery.com/Packages/CPolydorou.FileSystem/5.0.0) | 5.0.0
 
@@ -87,7 +143,7 @@ __Downloads__: 1,461 | __Repository__:
 
 This module contains functions relative to filesystem.
 
-__Downloads__: 2,098 | __Repository__: 
+__Downloads__: 2,100 | __Repository__: 
 
 ## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.9) | 0.1.9
 
@@ -188,7 +244,7 @@ __Downloads__: 1 | __Repository__: https://github.com/sincronicatech/PSBicepPars
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 74,992 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 74,987 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.33) | 6.0.33
 
@@ -196,7 +252,7 @@ __Downloads__: 74,992 | __Repository__: https://github.com/d365collaborative/d36
 
 Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
 
-__Downloads__: 7,164 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+__Downloads__: 7,165 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
 ## [DynatracePS](https://www.powershellgallery.com/Packages/DynatracePS/0.1.15) | 0.1.15
 
@@ -232,14 +288,6 @@ __Downloads__: 1,421 | __Repository__: https://github.com/Actifio/AGMPowerLib
 Module containing DSC resources for deployment and configuration of Windows Server Failover Cluster.
 
 __Downloads__: 2,418 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
-
-## [0install](https://www.powershellgallery.com/Packages/0install/2.23.5) | 2.23.5
-
-### Published: 06/19/2022 15:34:01 by Bastian Eicher
-
-Zero Install is a decentralized cross-platform software-installation system.
-
-__Downloads__: 921,989 | __Repository__: https://0install.net/
 
 ## [PSparklines](https://www.powershellgallery.com/Packages/PSparklines/1.0.2) | 1.0.2
 
@@ -361,7 +409,7 @@ __Downloads__: 137,044 | __Repository__: https://github.com/EvotecIT/PSSharedGoo
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,642,453 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,642,428 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.0.3) | 3.0.3
 
@@ -393,7 +441,7 @@ __Downloads__: 1,822 | __Repository__:
 
 Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
 
-__Downloads__: 76,734 | __Repository__: https://github.com/EvotecIT/Transferetto
+__Downloads__: 76,725 | __Repository__: https://github.com/EvotecIT/Transferetto
 
 ## [PowerShellPivot](https://www.powershellgallery.com/Packages/PowerShellPivot/0.8.1) | 0.8.1
 
@@ -545,7 +593,7 @@ __Downloads__: 534 | __Repository__:
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 509,873,313 | __Repository__: 
+__Downloads__: 509,873,334 | __Repository__: 
 
 ## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.23.1) | 3.23.1
 
@@ -621,14 +669,6 @@ A set of PowerShell cmdlets for administering Quantum DMS.
 
 __Downloads__: 5 | __Repository__: 
 
-## [man-highlighting](https://www.powershellgallery.com/Packages/man-highlighting/1.7.3) | 1.7.3
-
-### Published: 06/16/2022 05:50:37 by Brian Tannert & zett42
-
-Colorizing Get-Help output.
-
-__Downloads__: 58 | __Repository__: https://github.com/digitalguy99/pwsh-man-highlighting
-
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.0.72) | 5.0.72
 
 ### Published: 06/15/2022 21:29:09 by David Becher
@@ -643,7 +683,7 @@ __Downloads__: 4,166 | __Repository__: https://github.com/Azure/Microsoft.AVS.Ma
 
 Tools for managing and automating your Unity installs and projects.
 
-__Downloads__: 103,731 | __Repository__: https://github.com/Microsoft/unitysetup.powershell
+__Downloads__: 103,730 | __Repository__: https://github.com/Microsoft/unitysetup.powershell
 
 ## [AppianPS](https://www.powershellgallery.com/Packages/AppianPS/1.0.3) | 1.0.3
 
@@ -665,7 +705,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 265,531 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 265,529 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.3.1) | 1.3.1
 
@@ -689,7 +729,7 @@ __Downloads__: 1,879 | __Repository__: https://github.com/stefanland/D365FOLBDAd
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 2,007,748 | __Repository__: http://psframework.org/
+__Downloads__: 2,007,740 | __Repository__: http://psframework.org/
 
 ## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.121) | 1.0.121
 
@@ -705,7 +745,7 @@ __Downloads__: 5,723 | __Repository__: https://github.com/sqone2/PSFive9Admin
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,676,867 | __Repository__: https://dbatools.io/
+__Downloads__: 1,676,847 | __Repository__: https://dbatools.io/
 
 ## [PoshVsts](https://www.powershellgallery.com/Packages/PoshVsts/1.17) | 1.17
 
@@ -1764,14 +1804,6 @@ PowerShell script packaging, console-based editor, profiling, installer creation
 
 __Downloads__: 18,394 | __Repository__: 
 
-## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.6.0.0) | 1.6.0.0
-
-### Published: 06/14/2022 13:00:18 by glueckkanja-gab
-
-Adds the required configuration to SCEPman (https://scepman.com/) right after installing or updating to a 2.x version.
-
-__Downloads__: 808 | __Repository__: https://scepman.com/
-
 ## [ipmgmt](https://www.powershellgallery.com/Packages/ipmgmt/0.1.18) | 0.1.18
 
 ### Published: 06/14/2022 07:21:08 by Andrey Vernigora
@@ -1818,7 +1850,7 @@ __Downloads__: 370 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,935,595 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,935,582 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [LearnPowerShell](https://www.powershellgallery.com/Packages/LearnPowerShell/0.7.0) | 0.7.0
 
@@ -1880,7 +1912,7 @@ __Downloads__: 248 | __Repository__:
 
 PowerShell module for P2000 emergency services notifications
 
-__Downloads__: 1,437 | __Repository__: 
+__Downloads__: 1,438 | __Repository__: 
 
 ## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.7) | 0.2.7
 
@@ -2026,7 +2058,7 @@ __Downloads__: 3,929 | __Repository__: https://aka.ms/AzAPICall
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,382,887 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,382,847 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.66.0) | 1.66.0
 
@@ -2044,36 +2076,4 @@ Infrastructure as Code tool for Microsoft Hyper-V
 
 __Downloads__: 39 | __Repository__: https://github.com/tomaustin700/HyperDeploy
 
-## [Send-SMS](https://www.powershellgallery.com/Packages/Send-SMS/1.0) | 1.0
-
-### Published: 06/10/2022 14:30:59 by Costinel Ghita
-
-Sending SMS via Skebby or Moby API
-
-__Downloads__: 7 | __Repository__: 
-
-## [PentaWork.Xrm.PowerShell](https://www.powershellgallery.com/Packages/PentaWork.Xrm.PowerShell/1.5.0) | 1.5.0
-
-### Published: 06/10/2022 13:58:17 by Gerrit Gazic
-
-PowerShell module for running tasks on Dynamics365/PowerApp/XRM
-
-__Downloads__: 201 | __Repository__: https://github.com/pentawork-solutions/PentaWork.Xrm.PowerShell
-
-## [UcLobbyTeams](https://www.powershellgallery.com/Packages/UcLobbyTeams/0.1.3) | 0.1.3
-
-### Published: 06/10/2022 13:33:26 by David Paulino
-
-UC Lobby Teams PowerShell Module
-
-__Downloads__: 31 | __Repository__: 
-
-## [RunningServices](https://www.powershellgallery.com/Packages/RunningServices/0.0.1) | 0.0.1
-
-### Published: 06/10/2022 11:09:56 by Nicolai Ekkelund Pedersen
-
-Made this for School project
-
-__Downloads__: 3 | __Repository__: 
-
-*Updated: Tuesday, 21 June 2022 02:34:31 UTC*
+*Updated: Tuesday, 21 June 2022 09:58:14 UTC*

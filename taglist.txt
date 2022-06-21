@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 21 June 2022 02:34:42 UTC
+Updated: Tuesday, 21 June 2022 09:58:24 UTC
 
 ?:
 ??
@@ -900,7 +900,6 @@ charts
 chat
 chatbot
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1810,7 +1809,6 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
-dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2429,6 +2427,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gpt3
 gpx
 grafana
 grafanaapi
@@ -2980,6 +2979,7 @@ katakana
 kb
 kbarticle
 kdbx
+keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3885,6 +3885,7 @@ opc
 open
 open-ai
 open-ssh
+openai
 openapi
 opendata
 openedge
@@ -4131,6 +4132,7 @@ pip
 pipe
 pipeline
 pipelines
+pipescript
 piraeus
 pivot
 pivotal
@@ -4245,6 +4247,7 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
+powermax
 powerplan
 powerplateform
 powerplatform
@@ -5027,6 +5030,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -5050,7 +5056,6 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
-scriptlogging
 scriptrunner
 scripts
 scriptsmonitoring
@@ -5065,6 +5070,7 @@ sdk
 sdn
 search
 search-adminauditlog
+searchengine
 searching
 searchplace
 searchquery
@@ -5098,7 +5104,6 @@ securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
 securitygroup
-securitygroups
 securityinsights
 securityoptions
 securitypolicydsc
@@ -5211,7 +5216,6 @@ sha256
 shadow
 shadowcopy
 shadowcopybackups
-shadowgroups
 shanghaitech
 shard
 share
@@ -5718,6 +5722,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
@@ -5907,6 +5912,7 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
 trec
 tree
@@ -6010,6 +6016,7 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
+ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
