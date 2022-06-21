@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 21 June 2022 09:58:24 UTC
+Updated: Tuesday, 21 June 2022 17:55:15 UTC
 
 ?:
 ??
@@ -37,7 +37,6 @@ Updated: Tuesday, 21 June 2022 09:58:24 UTC
 2019
 24-bit
 2fa
-300
 365
 36867
 3d
@@ -755,7 +754,6 @@ broot
 browser
 browserextension
 browserhistory
-brs
 bruteforce
 bson
 btdf
@@ -900,6 +898,7 @@ charts
 chat
 chatbot
 chatops
+chatroom
 chatter
 cheat
 check
@@ -939,9 +938,7 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimi
-ciminstance
 cims
 cimsession
 cinegy
@@ -1617,7 +1614,6 @@ dirsync
 disa
 disable-psremoting
 disablefilesyncngsc
-disasm
 disconnect
 discord
 discordrpc
@@ -1789,7 +1785,6 @@ dummy
 dummyusers
 dump
 duplicate
-duplicate-files
 duplicatioin
 duplication
 dust
@@ -1809,6 +1804,7 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
+dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -1947,7 +1943,6 @@ esp32
 esp32s2
 espressif
 esri
-estimate
 esx
 esxi
 eternalblue
@@ -1982,7 +1977,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2455,7 +2449,6 @@ group-policy
 groupmembership
 grouppolicy
 groups
-grouvee
 grr
 gsuite
 gtx1080ti
@@ -3722,8 +3715,6 @@ nntp
 node
 nodejs
 non-volatile
-none
-noneimages
 nord
 nordtools
 normal
@@ -4251,8 +4242,6 @@ powermax
 powerplan
 powerplateform
 powerplatform
-powerprotect
-powerprotect_datamanager
 powersaving
 powerscheme
 powershell
@@ -4299,7 +4288,6 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
-ppdm
 ppk
 pposh
 pps
@@ -5056,6 +5044,7 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
+scriptlogging
 scriptrunner
 scripts
 scriptsmonitoring
@@ -5104,6 +5093,7 @@ securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
 securitygroup
+securitygroups
 securityinsights
 securityoptions
 securitypolicydsc
@@ -5216,6 +5206,7 @@ sha256
 shadow
 shadowcopy
 shadowcopybackups
+shadowgroups
 shanghaitech
 shard
 share
@@ -6027,7 +6018,6 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
-ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -6068,8 +6058,6 @@ unifiedlabeling
 uninstall
 uninstaller
 union
-unique
-unique-files
 unit
 unit_testing
 unit-testing

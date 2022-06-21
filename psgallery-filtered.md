@@ -5,6 +5,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [BrazenCloud.ADK](https://www.powershellgallery.com/Packages/BrazenCloud.ADK/0.0.1) | 0.0.1
+
+### Published: 06/21/2022 16:31:57 by ThePoShWolf
+
+BrazenCloud's PowerShell Action Development Toolkit
+
+__Downloads__: 0 | __Repository__: 
+
+## [PS-SyncHr](https://www.powershellgallery.com/Packages/PS-SyncHr/1.0.15) | 1.0.15
+
+### Published: 06/21/2022 16:17:39 by sqone2
+
+SyncHr Functions
+
+__Downloads__: 21 | __Repository__: 
+
+## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.9.1) | 1.9.1
+
+### Published: 06/21/2022 15:34:47 by Mikey O'Toole / Luke Whitelock
+
+This module provides an interface to the Halo API.
+
+__Downloads__: 5,243 | __Repository__: https://github.com/homotechsual/HaloAPI
+
+## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.6.0) | 2.1.6.0
+
+### Published: 06/21/2022 13:56:48 by Bentley Systems Incorporated
+
+ProjectWise PowerShell Cmdlets from System Architecture Group
+
+__Downloads__: 61,423 | __Repository__: 
+
 ## [AnaforaShell](https://www.powershellgallery.com/Packages/AnaforaShell/1.9.0) | 1.9.0
 
 ### Published: 06/21/2022 09:02:47 by Wiktoryn Żerebecki
@@ -102,7 +134,7 @@ __Downloads__: 269 | __Repository__:
 
 A handful of useful tools for System Center Operations Manager (SCOM) activities.
 
-__Downloads__: 82,197 | __Repository__: 
+__Downloads__: 82,198 | __Repository__: 
 
 ## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.0.0) | 2022.2.0.0
 
@@ -127,7 +159,7 @@ __Downloads__: 2,327 | __Repository__:
 
 Manipulate the entries in the hosts file.
 
-__Downloads__: 2,573 | __Repository__: 
+__Downloads__: 2,570 | __Repository__: 
 
 ## [CPolydorou.Network](https://www.powershellgallery.com/Packages/CPolydorou.Network/2.0.0) | 2.0.0
 
@@ -135,7 +167,7 @@ __Downloads__: 2,573 | __Repository__:
 
 This module contains functions about network tasks.
 
-__Downloads__: 1,459 | __Repository__: 
+__Downloads__: 1,461 | __Repository__: 
 
 ## [CPolydorou.FileSystem](https://www.powershellgallery.com/Packages/CPolydorou.FileSystem/5.0.0) | 5.0.0
 
@@ -143,7 +175,7 @@ __Downloads__: 1,459 | __Repository__:
 
 This module contains functions relative to filesystem.
 
-__Downloads__: 2,100 | __Repository__: 
+__Downloads__: 2,098 | __Repository__: 
 
 ## [PSMenu](https://www.powershellgallery.com/Packages/PSMenu/0.1.9) | 0.1.9
 
@@ -169,14 +201,6 @@ __Downloads__: 1,665 | __Repository__: https://github.com/Sebazzz/PSMenu
 Powershell module to export/import a single api from Azure Api Management using Azure Bicep.
 
 __Downloads__: 0 | __Repository__: https://github.com/sincronicatech/PSBicepApiManagement
-
-## [PS-SyncHr](https://www.powershellgallery.com/Packages/PS-SyncHr/1.0.13) | 1.0.13
-
-### Published: 06/20/2022 15:18:58 by sqone2
-
-SyncHr Functions
-
-__Downloads__: 21 | __Repository__: 
 
 ## [SwissMentor](https://www.powershellgallery.com/Packages/SwissMentor/13.0.1) | 13.0.1
 
@@ -244,7 +268,7 @@ __Downloads__: 1 | __Repository__: https://github.com/sincronicatech/PSBicepPars
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 74,987 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 74,992 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.33) | 6.0.33
 
@@ -335,7 +359,7 @@ __Downloads__: 851 | __Repository__: https://github.com/nightroman/Ldbc
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 633,379 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 633,388 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [SnsMsSqlPsModule](https://www.powershellgallery.com/Packages/SnsMsSqlPsModule/0.0.0.3) | 0.0.0.3
 
@@ -361,14 +385,6 @@ __Downloads__: 14 | __Repository__: https://github.com/svesavov/SnsMsSqlPsModule
 Gets service description for service name
 
 __Downloads__: 7 | __Repository__: https://www.powershellgallery.com/packages/ProductivityTools.GetServiceDescription
-
-## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.5.0) | 2.1.5.0
-
-### Published: 06/17/2022 20:06:18 by Bentley Systems Incorporated
-
-ProjectWise PowerShell Cmdlets from System Architecture Group
-
-__Downloads__: 61,423 | __Repository__: 
 
 ## [gispad](https://www.powershellgallery.com/Packages/gispad/0.0.5) | 0.0.5
 
@@ -409,7 +425,7 @@ __Downloads__: 137,044 | __Repository__: https://github.com/EvotecIT/PSSharedGoo
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,642,428 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,642,444 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.0.3) | 3.0.3
 
@@ -441,7 +457,7 @@ __Downloads__: 1,822 | __Repository__:
 
 Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
 
-__Downloads__: 76,725 | __Repository__: https://github.com/EvotecIT/Transferetto
+__Downloads__: 76,730 | __Repository__: https://github.com/EvotecIT/Transferetto
 
 ## [PowerShellPivot](https://www.powershellgallery.com/Packages/PowerShellPivot/0.8.1) | 0.8.1
 
@@ -593,7 +609,7 @@ __Downloads__: 534 | __Repository__:
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 509,873,334 | __Repository__: 
+__Downloads__: 509,873,313 | __Repository__: 
 
 ## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.23.1) | 3.23.1
 
@@ -705,7 +721,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 265,529 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 265,531 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.3.1) | 1.3.1
 
@@ -729,7 +745,7 @@ __Downloads__: 1,879 | __Repository__: https://github.com/stefanland/D365FOLBDAd
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 2,007,740 | __Repository__: http://psframework.org/
+__Downloads__: 2,007,748 | __Repository__: http://psframework.org/
 
 ## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.121) | 1.0.121
 
@@ -745,7 +761,7 @@ __Downloads__: 5,723 | __Repository__: https://github.com/sqone2/PSFive9Admin
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,676,847 | __Repository__: https://dbatools.io/
+__Downloads__: 1,676,859 | __Repository__: https://dbatools.io/
 
 ## [PoshVsts](https://www.powershellgallery.com/Packages/PoshVsts/1.17) | 1.17
 
@@ -1850,7 +1866,7 @@ __Downloads__: 370 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,935,582 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,935,595 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [LearnPowerShell](https://www.powershellgallery.com/Packages/LearnPowerShell/0.7.0) | 0.7.0
 
@@ -2058,22 +2074,6 @@ __Downloads__: 3,929 | __Repository__: https://aka.ms/AzAPICall
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 1,382,847 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 1,382,874 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.66.0) | 1.66.0
-
-### Published: 06/10/2022 16:36:58 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 3,023 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
-## [HyperDeploy](https://www.powershellgallery.com/Packages/HyperDeploy/0.2) | 0.2
-
-### Published: 06/10/2022 14:40:30 by Tom Austin
-
-Infrastructure as Code tool for Microsoft Hyper-V
-
-__Downloads__: 39 | __Repository__: https://github.com/tomaustin700/HyperDeploy
-
-*Updated: Tuesday, 21 June 2022 09:58:14 UTC*
+*Updated: Tuesday, 21 June 2022 17:55:05 UTC*
