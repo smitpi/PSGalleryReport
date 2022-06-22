@@ -5,6 +5,102 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.22.2) | 22.6.22.2
+
+### Published: 06/22/2022 17:12:11 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+Gary Blok MVP Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 235,213 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Az.Adm](https://www.powershellgallery.com/Packages/Az.Adm/1.0.5) | 1.0.5
+
+### Published: 06/22/2022 16:54:26 by Diogo De Santana Jacome
+
+Function to help in the everyday to manage Microsoft Azure. This module supports PowerShell 7.2.2 For more information about the Az.Adm module, visit the following: https://github.com/Didjacome/Modules.Azure
+
+__Downloads__: 21 | __Repository__: https://github.com/Didjacome/Modules.Azure
+
+## [HoNTools](https://www.powershellgallery.com/Packages/HoNTools/0.0.1) | 0.0.1
+
+### Published: 06/22/2022 16:38:55 by Semptra
+
+Various PowerShell tools created for HoN private servers.
+
+__Downloads__: 1 | __Repository__: https://github.com/Semptra/HoNTools
+
+## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.7.1513) | 20.12.7.1513
+
+### Published: 06/22/2022 16:36:50 by BinaryTreePackagePublisher
+
+PowerShell Management cmdlets for Binary Tree Power365
+
+__Downloads__: 535 | __Repository__: 
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22172.30715) | 4.4.22172.30715
+
+### Published: 06/22/2022 15:31:03 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 2,938,827 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [windows-screenfetch-fast](https://www.powershellgallery.com/Packages/windows-screenfetch-fast/1.0) | 1.0
+
+### Published: 06/22/2022 15:23:01 by Piotr Placzek
+
+Windows-screenFetch but faster
+
+__Downloads__: 0 | __Repository__: https://github.com/piotrpdev/Windows-screenFetch-fast
+
+## [DeploymentFramework](https://www.powershellgallery.com/Packages/DeploymentFramework/1.32.177) | 1.32.177
+
+### Published: 06/22/2022 15:07:02 by vscode
+
+Deployment framework to deploy SDV services (22.06.22 14:45)
+
+__Downloads__: 0 | __Repository__: 
+
+## [vsadmin](https://www.powershellgallery.com/Packages/vsadmin/3.4) | 3.4
+
+### Published: 06/22/2022 14:36:57 by Vikas Sukhija
+
+System Admin Plus Office365 Connect: https://techwizard.cloud/2020/07/20/powershell-system-admin-module/
+
+__Downloads__: 492 | __Repository__: 
+
+## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.17) | 1.1.17
+
+### Published: 06/22/2022 14:19:27 by Julian Hayward Kai Schulz
+
+Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
+
+__Downloads__: 4,054 | __Repository__: https://aka.ms/AzAPICall
+
+## [SysInternals](https://www.powershellgallery.com/Packages/SysInternals/1.0.2) | 1.0.2
+
+### Published: 06/22/2022 11:10:47 by Adam Driscoll
+
+PowerShell cmdlets for SysInternal tools
+
+__Downloads__: 0 | __Repository__: https://github.com/adamdriscoll/sysinternals
+
+## [MHA-IT.CommonFunctions](https://www.powershellgallery.com/Packages/MHA-IT.CommonFunctions/1.8) | 1.8
+
+### Published: 06/22/2022 10:48:15 by Ewan McLean (ewan.scot)
+
+For internal use by Maryhill Housing Association
+
+__Downloads__: 7 | __Repository__: 
+
+## [PS-Populi](https://www.powershellgallery.com/Packages/PS-Populi/0.0.2) | 0.0.2
+
+### Published: 06/22/2022 10:44:57 by sqone2
+
+PowerShell + Populi
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/0.2.0) | 0.2.0
 
 ### Published: 06/22/2022 07:32:26 by Endjineers
@@ -12,14 +108,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Provides automated build features using on the InvokeBuild module
 
 __Downloads__: 1,461 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
-
-## [SysInternals](https://www.powershellgallery.com/Packages/SysInternals/1.0.0) | 1.0.0
-
-### Published: 06/22/2022 07:10:12 by Adam Driscoll
-
-PowerShell cmdlets for SysInternal tools
-
-__Downloads__: 0 | __Repository__: https://github.com/adamdriscoll/sysinternals
 
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.107) | 1.1.107
 
@@ -972,7 +1060,7 @@ __Downloads__: 1 | __Repository__:
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 254,413 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 254,419 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.30) | 0.0.30
 
@@ -980,7 +1068,7 @@ __Downloads__: 254,413 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 253,824 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 253,830 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.18) | 0.0.18
 
@@ -1203,14 +1291,6 @@ GitHub Actions at your Fingertips! ✨ - via PowerShell
 
 __Downloads__: 245 | __Repository__: https://github.com/dfinke/PSAdvantage
 
-## [MHA-IT.CommonFunctions](https://www.powershellgallery.com/Packages/MHA-IT.CommonFunctions/1.1) | 1.1
-
-### Published: 06/20/2022 13:26:00 by Ewan McLean (ewan.scot)
-
-For internal use by Maryhill Housing Association
-
-__Downloads__: 7 | __Repository__: 
-
 ## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.2.1.5) | 2.2.1.5
 
 ### Published: 06/20/2022 12:01:16 by Elmar Niederkofler
@@ -1253,7 +1333,7 @@ __Downloads__: 4 | __Repository__: https://github.com/sincronicatech/PSBicepPars
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 75,257 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 75,252 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.33) | 6.0.33
 
@@ -1322,14 +1402,6 @@ Use powershell to detect changes in monorepo directories and dynamically generat
 
 __Downloads__: 2 | __Repository__: https://github.com/Tyson-Skiba/Publish-GitlabPipelines
 
-## [Az.Adm](https://www.powershellgallery.com/Packages/Az.Adm/1.0.4) | 1.0.4
-
-### Published: 06/19/2022 07:18:28 by Diogo De Santana Jacome
-
-Function to help in the everyday to manage Microsoft Azure. This module supports PowerShell 7.2.2 For more information about the Az.Adm module, visit the following: https://github.com/Didjacome/Modules.Azure
-
-__Downloads__: 21 | __Repository__: https://github.com/Didjacome/Modules.Azure
-
 ## [Ldbc](https://www.powershellgallery.com/Packages/Ldbc/0.8.1) | 0.8.1
 
 ### Published: 06/19/2022 06:13:24 by Roman Kuzmin
@@ -1354,14 +1426,6 @@ __Downloads__: 855 | __Repository__: https://github.com/nightroman/Ldbc
 ****************************************************************************************************
 
 __Downloads__: 15 | __Repository__: https://github.com/svesavov/SnsMsSqlPsModule
-
-## [ProductivityTools.GetServiceDescription](https://www.powershellgallery.com/Packages/ProductivityTools.GetServiceDescription/0.0.5) | 0.0.5
-
-### Published: 06/18/2022 13:52:37 by Pawel Wujczyk
-
-Gets service description for service name
-
-__Downloads__: 9 | __Repository__: https://www.powershellgallery.com/packages/ProductivityTools.GetServiceDescription
 
 ## [gispad](https://www.powershellgallery.com/Packages/gispad/0.0.5) | 0.0.5
 
@@ -1443,14 +1507,6 @@ __Downloads__: 77,428 | __Repository__: https://github.com/EvotecIT/Transferetto
 PowerShell module to reshape data (produce a "pivot" table) based on column values. Supports aggregations. Plus, other useful functions
 
 __Downloads__: 75 | __Repository__: https://github.com/dfinke/PowerShellPivot
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.17.1) | 22.6.17.1
-
-### Published: 06/17/2022 08:33:13 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-OSDCloud Azure Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 235,213 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [GetClrCallStack](https://www.powershellgallery.com/Packages/GetClrCallStack/1.0.0) | 1.0.0
 
@@ -1556,21 +1612,13 @@ Functions for Active Directory
 
 __Downloads__: 13,077 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.7.915) | 20.12.7.915
-
-### Published: 06/17/2022 00:48:07 by BinaryTreePackagePublisher
-
-PowerShell Management cmdlets for Binary Tree Power365
-
-__Downloads__: 535 | __Repository__: 
-
 ## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.16) | 1.0.16
 
 ### Published: 06/16/2022 21:20:58 by Matt Miller Security Engineer
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 509,885,591 | __Repository__: 
+__Downloads__: 509,885,599 | __Repository__: 
 
 ## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.23.1) | 3.23.1
 
@@ -1706,7 +1754,7 @@ __Downloads__: 1,880 | __Repository__: https://github.com/stefanland/D365FOLBDAd
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 2,014,161 | __Repository__: http://psframework.org/
+__Downloads__: 2,014,133 | __Repository__: http://psframework.org/
 
 ## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.121) | 1.0.121
 
@@ -1940,14 +1988,6 @@ Module contain help functions for the Azure Portal.
 
 __Downloads__: 372 | __Repository__: 
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22162.30627) | 4.4.22162.30627
-
-### Published: 06/13/2022 20:17:46 by Red Gate Software Ltd.
-
-Automation tools for production quality database deployment
-
-__Downloads__: 2,938,839 | __Repository__: https://www.red-gate.com/sca/productpage
-
 ## [LearnPowerShell](https://www.powershellgallery.com/Packages/LearnPowerShell/0.7.0) | 0.7.0
 
 ### Published: 06/13/2022 16:46:38 by Jake Morrison
@@ -2034,46 +2074,4 @@ Various helpful cmdlets and functions
 
 __Downloads__: 549 | __Repository__: 
 
-## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/1.0.28) | 1.0.28
-
-### Published: 06/13/2022 06:58:03 by Daniel Chronlund
-
-A PowerShell toolbox for Microsoft 365 security fans.
-
-__Downloads__: 5,605 | __Repository__: https://github.com/DanielChronlund/DCToolbox
-
-## [cbsch-ssh](https://www.powershellgallery.com/Packages/cbsch-ssh/1.0.2) | 1.0.2
-
-### Published: 06/13/2022 06:46:33 by Christopher Berg Schwanstrøm
-
-Argument completer for ssh
-
-__Downloads__: 6 | __Repository__: 
-
-## [PSSPI](https://www.powershellgallery.com/Packages/PSSPI/0.1.0) | 0.1.0
-
-### Published: 06/13/2022 04:37:42 by Jordan Borean
-
-Module for interacting with SSIS on Windows.
-See https://github.com/jborean93/PSSPI for more info
-
-__Downloads__: 3 | __Repository__: https://github.com/jborean93/PSSPI
-
-## [ThirdPartyLibraries](https://www.powershellgallery.com/Packages/ThirdPartyLibraries/3.1.2) | 3.1.2
-
-### Published: 06/12/2022 12:12:45 by Max Ieremenko
-
-This module helps to manage third party libraries and their licenses in .net applications.
-PowerShell versions: core 7.0+.
-
-__Downloads__: 142 | __Repository__: https://github.com/max-ieremenko/ThirdPartyLibraries
-
-## [PSReadLineVIExtension](https://www.powershellgallery.com/Packages/PSReadLineVIExtension/1.0.7) | 1.0.7
-
-### Published: 06/12/2022 10:04:12 by Karrakis
-
-Extend PSREadline VI Binding with some text object manipulation
-
-__Downloads__: 62 | __Repository__: https://github.com/belotn/PsReadLineVIExtension
-
-*Updated: Wednesday, 22 June 2022 09:52:59 UTC*
+*Updated: Wednesday, 22 June 2022 17:54:08 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 22 June 2022 09:53:10 UTC
+Updated: Wednesday, 22 June 2022 17:54:18 UTC
 
 ?:
 ??
@@ -218,7 +218,6 @@ aircall
 airtable
 aispeech
 aivision
-ajustee
 aks
 alac
 alarm
@@ -296,6 +295,7 @@ api
 api-client
 api-gateway
 apichecks
+apiclient
 apigateway
 apigee
 apigeeedge
@@ -361,7 +361,7 @@ archivial-cloud-backup
 archlinux
 arcus
 area
-argumentcompleter
+argument
 arguments
 arm
 arm-json
@@ -402,6 +402,7 @@ assembleenationale
 assemblymeta
 assert
 assertion
+assessment
 asset
 assetintelligencepoint
 assets
@@ -798,7 +799,6 @@ caching
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -890,7 +890,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
@@ -938,9 +937,7 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimi
-ciminstance
 cims
 cimsession
 cinegy
@@ -1070,7 +1067,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1159,13 +1155,11 @@ config
 configapi
 configascode
 configdata
-configkey
 configmgr
 configmgrcbdsc
 configuration
 configurationapi
 configurationdata
-configurationkey
 configurationmanagement
 configurationmanager
 configure
@@ -1179,6 +1173,7 @@ connect-mstsc
 connect-rdp
 connect-remotedesktop
 connect-samcmsite
+connected
 connectedkubernetes
 connectedmachine
 connectednetwork
@@ -1488,7 +1483,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -1604,6 +1598,7 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -1980,7 +1975,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2582,6 +2576,7 @@ holiday
 home_automation
 homelandsecurity
 homeschooling
+hon
 horizontal
 hornbill
 host
@@ -2903,6 +2898,7 @@ iterate
 iteration
 itg
 itglue
+itop
 itsm
 itstore
 ivanti
@@ -2916,9 +2912,7 @@ japanese
 jar
 jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jdedwards
@@ -3135,6 +3129,7 @@ liquit
 liquit.com
 list
 list_files
+list-directory
 list-item
 listener
 litecoin
@@ -3763,7 +3758,6 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
-number
 numlock
 nunit
 nupkg
@@ -4015,7 +4009,6 @@ parameter
 parameterinfo
 parameters
 parclient
-pardot
 parititions
 parool
 parquet
@@ -4632,6 +4625,7 @@ quota
 quote
 quotes
 quoting
+quser
 r
 r53
 rabbit
@@ -4898,6 +4892,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -5012,7 +5007,6 @@ schedules-execution
 scheduling
 schema
 schemaextensions
-scheme
 school-information-system
 schulung
 schulverwaltung
@@ -5355,7 +5349,6 @@ soap
 soc
 soccer
 social
-social-media
 socialmedia
 socketlabs
 sockets
@@ -5425,6 +5418,7 @@ speedtester
 spf
 spi
 spinnaker
+splash
 splat
 splatting
 split
@@ -5689,7 +5683,6 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
@@ -5956,8 +5949,6 @@ twincat
 twinkly
 twitch
 twitter
-twitter-api
-twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
@@ -6213,8 +6204,6 @@ verbose psmodule
 version
 versioncontrol
 versioning
-versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -6227,7 +6216,6 @@ vie
 viewer
 viewgroup
 vigenere
-vim
 vimode
 virole
 virsh

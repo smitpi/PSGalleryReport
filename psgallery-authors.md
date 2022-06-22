@@ -7,13 +7,13 @@ This report does not include pre-release modules and be aware that not every mod
 Internal navigation links may not work in the PDF version of this report.
 
 
-+ [Worxspace](#Worxspace) (137)
-+ [psdevuk](#psdevuk) (90)
-+ [Texas Roemer](#Texas-Roemer) (62)
++ [Worxspace](#Worxspace) (166)
++ [psdevuk](#psdevuk) (89)
 + [Przemyslaw Klys](#Przemyslaw-Klys) (60)
++ [Texas Roemer](#Texas-Roemer) (60)
 + [Adam Driscoll](#Adam-Driscoll) (53)
 + [Friedrich Weinmann](#Friedrich-Weinmann) (50)
-+ [Pawel Wujczyk](#Pawel-Wujczyk) (49)
++ [Pawel Wujczyk](#Pawel-Wujczyk) (48)
 + [Marius Storhaug](#Marius-Storhaug) (42)
 + [John.Leyva](#JohnLeyva) (39)
 + [Jan Hoek](#Jan-Hoek) (33)
@@ -25,27 +25,30 @@ Internal navigation links may not work in the PDF version of this report.
 + [mkht](#mkht) (22)
 + [Christos Polydorou](#Christos-Polydorou) (21)
 + [Warren Frame](#Warren-Frame) (21)
-+ [Brandon Olin](#Brandon-Olin) (20)
 + [Joel Bennett](#Joel-Bennett) (20)
++ [Brandon Olin](#Brandon-Olin) (20)
 + [jakub.pawlowski](#jakubpawlowski) (19)
 + [Michal Gajda](#Michal-Gajda) (18)
 + [EPRSBuildTeam](#EPRSBuildTeam) (18)
-+ [Roy Ashbrook](#Roy-Ashbrook) (17)
++ [WebMD Health Services](#WebMD-Health-Services) (17)
 + [Shannon Graybrook](#Shannon-Graybrook) (17)
 
 ## Worxspace
 
++ **pspulumiyaml.azurenative 0.0.2**  - Parent module containing all Azure Native modules required to create YAML/JSON definitions for pulumi [*06/08/2022 20:32:57*]
 + **pspulumiyaml.azurenative.workloads 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:14:15*]
 + **pspulumiyaml.azurenative.windowsiot 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:14:09*]
 + **pspulumiyaml.azurenative.windowsesu 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:14:03*]
 + **pspulumiyaml.azurenative.webpubsub 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:13:56*]
-+ **pspulumiyaml.azurenative.web 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:13:48*]
 + **pspulumiyaml.azurenative.vmwarecloudsimple 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:13:40*]
 + **pspulumiyaml.azurenative.visualstudio 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:13:32*]
 + **pspulumiyaml.azurenative.virtualmachineimages 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:13:23*]
 + **pspulumiyaml.azurenative.videoindexer 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:13:15*]
 + **pspulumiyaml.azurenative.timeseriesinsights 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:13:02*]
++ **pspulumiyaml.azurenative.testbase 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:12:56*]
 + **pspulumiyaml.azurenative.synapse 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:12:49*]
++ **pspulumiyaml.azurenative.subscription 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:12:42*]
++ **pspulumiyaml.azurenative.streamanalytics 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:12:36*]
 + **pspulumiyaml.azurenative.storagesync 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:12:23*]
 + **pspulumiyaml.azurenative.storagepool 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:12:17*]
 + **pspulumiyaml.azurenative.storagecache 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:12:11*]
@@ -57,12 +60,14 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.signalrservice 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:11:31*]
 + **pspulumiyaml.azurenative.servicelinker 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:11:24*]
 + **pspulumiyaml.azurenative.servicefabricmesh 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:11:18*]
++ **pspulumiyaml.azurenative.servicefabric 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:11:11*]
 + **pspulumiyaml.azurenative.servicebus 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:11:05*]
 + **pspulumiyaml.azurenative.serialconsole 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:10:58*]
 + **pspulumiyaml.azurenative.securityinsights 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:10:52*]
 + **pspulumiyaml.azurenative.securityandcompliance 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:10:44*]
 + **pspulumiyaml.azurenative.security 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:10:38*]
 + **pspulumiyaml.azurenative.search 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:10:32*]
++ **pspulumiyaml.azurenative.scvmm 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:10:26*]
 + **pspulumiyaml.azurenative.scheduler 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:10:19*]
 + **pspulumiyaml.azurenative.saas 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:10:13*]
 + **pspulumiyaml.azurenative.resources 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:10:06*]
@@ -76,6 +81,10 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.purview 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:09:14*]
 + **pspulumiyaml.azurenative.providerhub 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:09:08*]
 + **pspulumiyaml.azurenative.powerplatform 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:09:02*]
++ **pspulumiyaml.azurenative.powerbidedicated 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:08:54*]
++ **pspulumiyaml.azurenative.powerbi 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:08:46*]
++ **pspulumiyaml.azurenative.portal 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:08:40*]
++ **pspulumiyaml.azurenative.policyinsights 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:08:33*]
 + **pspulumiyaml.azurenative.orbital 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:08:20*]
 + **pspulumiyaml.azurenative.operationsmanagement 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:08:14*]
 + **pspulumiyaml.azurenative.operationalinsights 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:08:08*]
@@ -86,7 +95,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.network 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:07:34*]
 + **pspulumiyaml.azurenative.netapp 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:07:23*]
 + **pspulumiyaml.azurenative.mobilenetwork 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:07:15*]
-+ **pspulumiyaml.azurenative.mixedreality 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:07:08*]
 + **pspulumiyaml.azurenative.migrate 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:07:01*]
 + **pspulumiyaml.azurenative.media 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:06:55*]
 + **pspulumiyaml.azurenative.marketplace 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:06:48*]
@@ -94,8 +102,9 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.managementpartner 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:06:35*]
 + **pspulumiyaml.azurenative.management 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:06:29*]
 + **pspulumiyaml.azurenative.managedservices 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:06:22*]
++ **pspulumiyaml.azurenative.managednetwork 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:06:15*]
++ **pspulumiyaml.azurenative.managedidentity 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:06:08*]
 + **pspulumiyaml.azurenative.maintenance 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:05:59*]
-+ **pspulumiyaml.azurenative.machinelearningservices 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:05:53*]
 + **pspulumiyaml.azurenative.machinelearningexperimentation 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:05:46*]
 + **pspulumiyaml.azurenative.machinelearningcompute 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:05:39*]
 + **pspulumiyaml.azurenative.machinelearning 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:05:33*]
@@ -104,69 +113,89 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.logic 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:05:16*]
 + **pspulumiyaml.azurenative.loadtestservice 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:05:09*]
 + **pspulumiyaml.azurenative.labservices 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:05:03*]
-+ **pspulumiyaml.azurenative.kusto 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:57*]
 + **pspulumiyaml.azurenative.kubernetesconfiguration 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:51*]
 + **pspulumiyaml.azurenative.kubernetes 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:45*]
++ **pspulumiyaml.azurenative.keyvault 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:39*]
 + **pspulumiyaml.azurenative.iotsecurity 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:33*]
 + **pspulumiyaml.azurenative.iotcentral 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:27*]
 + **pspulumiyaml.azurenative.intune 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:21*]
 + **pspulumiyaml.azurenative.insights 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:15*]
++ **pspulumiyaml.azurenative.importexport 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:09*]
++ **pspulumiyaml.azurenative.hybridnetwork 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:04:03*]
++ **pspulumiyaml.azurenative.hybriddata 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:03:57*]
++ **pspulumiyaml.azurenative.hybridconnectivity 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:03:51*]
 + **pspulumiyaml.azurenative.healthcareapis 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:03:38*]
 + **pspulumiyaml.azurenative.healthbot 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:03:32*]
 + **pspulumiyaml.azurenative.hdinsight 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:03:26*]
 + **pspulumiyaml.azurenative.hardwaresecuritymodules 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:03:20*]
-+ **pspulumiyaml.azurenative.hanaonazure 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:03:14*]
 + **pspulumiyaml.azurenative.guestconfiguration 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:03:08*]
 + **pspulumiyaml.azurenative.fluidrelay 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:03:02*]
 + **pspulumiyaml.azurenative.features 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:56*]
 + **pspulumiyaml.azurenative.extendedlocation 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:51*]
 + **pspulumiyaml.azurenative.eventhub 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:44*]
-+ **pspulumiyaml.azurenative.eventgrid 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:39*]
 + **pspulumiyaml.azurenative.enterpriseknowledgegraph 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:33*]
++ **pspulumiyaml.azurenative.engagementfabric 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:27*]
++ **pspulumiyaml.azurenative.elasticsan 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:21*]
++ **pspulumiyaml.azurenative.elastic 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:15*]
 + **pspulumiyaml.azurenative.education 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:09*]
 + **pspulumiyaml.azurenative.edgeorder 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:02:02*]
 + **pspulumiyaml.azurenative.dynamics365fraudprotection 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:57*]
 + **pspulumiyaml.azurenative.domainregistration 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:51*]
-+ **pspulumiyaml.azurenative.documentdb 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:45*]
++ **pspulumiyaml.azurenative.digitaltwins 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:39*]
++ **pspulumiyaml.azurenative.devtestlab 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:32*]
++ **pspulumiyaml.azurenative.devspaces 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:26*]
 + **pspulumiyaml.azurenative.devops 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:20*]
 + **pspulumiyaml.azurenative.deviceupdate 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:13*]
-+ **pspulumiyaml.azurenative.devices 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:07*]
 + **pspulumiyaml.azurenative.desktopvirtualization 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:01:00*]
 + **pspulumiyaml.azurenative.deploymentmanager 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:00:54*]
 + **pspulumiyaml.azurenative.delegatednetwork 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:00:48*]
 + **pspulumiyaml.azurenative.dbforpostgresql 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:00:41*]
 + **pspulumiyaml.azurenative.dbformysql 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:00:35*]
 + **pspulumiyaml.azurenative.dbformariadb 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:00:30*]
++ **pspulumiyaml.azurenative.datashare 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:00:24*]
 + **pspulumiyaml.azurenative.dataprotection 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:00:18*]
 + **pspulumiyaml.azurenative.datamigration 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:00:12*]
++ **pspulumiyaml.azurenative.datalakestore 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 20:00:04*]
++ **pspulumiyaml.azurenative.datalakeanalytics 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:58*]
++ **pspulumiyaml.azurenative.datafactory 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:52*]
 + **pspulumiyaml.azurenative.datadog 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:46*]
 + **pspulumiyaml.azurenative.datacatalog 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:40*]
-+ **pspulumiyaml.azurenative.databoxedge 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:29*]
-+ **pspulumiyaml.azurenative.databox 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:23*]
++ **pspulumiyaml.azurenative.databricks 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:35*]
++ **pspulumiyaml.azurenative.dashboard 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:17*]
++ **pspulumiyaml.azurenative.customproviders 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:11*]
++ **pspulumiyaml.azurenative.customerinsights 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:06*]
++ **pspulumiyaml.azurenative.costmanagement 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:59:00*]
 + **pspulumiyaml.azurenative.containerregistry 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:58:44*]
 + **pspulumiyaml.azurenative.containerinstance 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:58:38*]
 + **pspulumiyaml.azurenative.consumption 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:58:32*]
 + **pspulumiyaml.azurenative.confluent 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:58:20*]
 + **pspulumiyaml.azurenative.confidentialledger 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:58:15*]
++ **pspulumiyaml.azurenative.compute 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:58:09*]
 + **pspulumiyaml.azurenative.communication 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:58:03*]
 + **pspulumiyaml.azurenative.cognitiveservices 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:57*]
 + **pspulumiyaml.azurenative.chaos 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:51*]
 + **pspulumiyaml.azurenative.changeanalysis 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:44*]
++ **pspulumiyaml.azurenative.certificateregistration 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:38*]
++ **pspulumiyaml.azurenative.cdn 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:32*]
 + **pspulumiyaml.azurenative.cache 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:26*]
 + **pspulumiyaml.azurenative.botservice 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:21*]
-+ **pspulumiyaml.azurenative.blueprint 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:14*]
 + **pspulumiyaml.azurenative.blockchain 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:09*]
 + **pspulumiyaml.azurenative.billing 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:57:03*]
 + **pspulumiyaml.azurenative.batch 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:57*]
++ **pspulumiyaml.azurenative.azurestackhci 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:50*]
 + **pspulumiyaml.azurenative.azurestack 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:44*]
++ **pspulumiyaml.azurenative.azuredata 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:38*]
++ **pspulumiyaml.azurenative.azurearcdata 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:33*]
 + **pspulumiyaml.azurenative.azureactivedirectory 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:25*]
-+ **pspulumiyaml.azurenative.autonomousdevelopmentplatform 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:14*]
-+ **pspulumiyaml.azurenative.automation 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:08*]
++ **pspulumiyaml.azurenative.avs 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:20*]
 + **pspulumiyaml.azurenative.automanage 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:56:01*]
 + **pspulumiyaml.azurenative.authorization 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:55:54*]
 + **pspulumiyaml.azurenative.attestation 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:55:48*]
 + **pspulumiyaml.azurenative.appplatform 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:55:42*]
-+ **pspulumiyaml.azurenative.appconfiguration 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:55:36*]
++ **pspulumiyaml.azurenative.app 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:55:30*]
++ **pspulumiyaml.azurenative.apimanagement 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:55:24*]
++ **pspulumiyaml.azurenative.analysisservices 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:55:18*]
++ **pspulumiyaml.azurenative.agfoodplatform 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:55:06*]
 + **pspulumiyaml.azurenative.advisor 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:54:59*]
 + **pspulumiyaml.azurenative.addons 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:54:53*]
 + **pspulumiyaml.azurenative.aadiam 0.0.2**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/08/2022 19:54:47*]
@@ -259,77 +288,11 @@ Internal navigation links may not work in the PDF version of this report.
 + **[UniversalDashboard.UDEmoji 1.0.0](https://github.com/psDevUK/UDEmoji)**  - Bringing the world of emoji icons to UD [*09/26/2019 09:53:58*]
 + **[UniversalDashboard.UDParallax 1.0.0](https://github.com/psDevUK/UDParallax)**  - Bring the Bling with this module, show your images in parallax format [*09/21/2019 19:51:00*]
 + **[UniversalDashboard.UDFile 1.0.1](https://github.com/psDevUK/UDFile)**  - adds an svg file to your dashboard [*09/21/2019 18:39:38*]
-+ **[UniversalDashboard.UDBrowser 1.0.1](https://github.com/psDevUK/UDBrowser)**  - Adding a react kawaii svg browser [*09/21/2019 16:31:44*]
 + **[UniversalDashboard.UDBackPack 1.0.1](https://github.com/psDevUK/UDBackPack)**  - Adding a react svg backpack to your dashboard [*09/21/2019 16:24:34*]
 + **[UniversalDashboard.UDCreditCard 1.0.1](https://github.com/psDevUK/UDCreditCard)**  - Adds a kawaii creditcard svg onto your dashboard [*09/21/2019 16:15:36*]
 + **[UniversalDashboard.UDPlanet 1.0.3](https://github.com/psDevUK/UDPlanet)**  - Adding the power and cuteness of kawaii react svg to your dashboard [*09/20/2019 18:31:29*]
 + **[UniversalDashboard.UDCat 1.0.1](https://github.com/psDevUK/UDcat)**  - Adds a kawaii svg cat to your dashboard [*09/20/2019 15:41:15*]
 + **[UniversalDashboard.UDMarquee 1.0.2](https://github.com/psDevUK/UDMarquee)**  - Adds a marquee effect to your text [*09/20/2019 15:23:12*]
-
-## Texas Roemer
-
-+ **Get-StorageInventoryREDFISH 6.0.0**  - iDRAC cmdlet used to get storage inventory using Redfish API. It will return storage information for controllers, disks or backplanes. [*06/20/2022 23:20:26*]
-+ **Invoke-CreateVirtualDiskREDFISH 7.0.0**  - Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks, get physical disks or create virtual disk. [*06/20/2022 23:20:00*]
-+ **IdracRedfishSupport 17.0.0.0**  - Main module used to import all individual iDRAC Redfish modules listed in the Powershell gallery. For more details and examples for each module, execute get-help on the specific module. [*06/20/2022 23:19:29*]
-+ **Set-ImportServerConfigurationProfileLocalFilenameREDFISH 9.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to import server configuration profile (SCP) file locally. Filename can either be in supported JSON or XML format. If SCP file is needed, execute SCP export cmdlet. [*06/09/2022 21:35:49*]
-+ **Get-ServerHardwareInventoryREDFISH 1.0.0**  - Cmdlet using iDRAC with Redfish API to get server hardware information which includes system information, memory, cpu, power supplies, fans, pcie devices, pci functions or network devices [*05/10/2022 00:45:07*]
-+ **Invoke-ChangeIdracUserPasswordREDFISH 7.0.0**  - iDRAC cmdlet using Redfish API to change iDRAC user password. Once the iDRAC user password has changed, cmdlet will execute GET command to validate the new password was set. If using dash or single quote in your current or new password, make sure to surround the password value with double quotes. [*04/12/2022 02:37:40*]
-+ **Invoke-ExportImportSslCertificateREDFISH 7.0.0**  - iDRAC cmdlet using Redfish with OEM extension to either export or import SSL certificate locally. [*03/31/2022 20:04:57*]
-+ **Invoke-CreateXauthTokenSessionREDFISH 7.0.0.0**  - iDRAC cmdlet using Redfish API to either view, create or delete iDRAC X-auth token session. [*03/10/2022 01:47:45*]
-+ **Set-PowerControlREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API to get either server current power state or change the server power state. If changing the server power state, make sure you pass in the exact string value since the values are case sensitive. [*01/06/2022 01:13:38*]
-+ **Set-OneBIOSAttributeREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API to either set one BIOS attribute or get current value of BIOS attributes. When setting BIOS attribute, make sure you pass in exact name of the attribute and value since these are case sensitive. Example: For attribute MemTest, you must pass in "MemTest". Passing in "memtest" will fail. [*01/06/2022 01:12:30*]
-+ **Set-OemNetworkPropertiesREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to either get current network card settings, get specific network card attribute current value, get network card attribute registry or set mulitple network card attributes. This cmdlet will allow you to set network card attributes which are not supported by DMTF. [*01/06/2022 01:10:31*]
-+ **Set-NextOneTimeBootVirtualMediaDeviceOemREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to set next onetime boot device to either virtual optical or virtual floppy. DMTF does not support setting virtual CD or virtual floppy as next one time boot. This cmdlet uses OEM extension to solve this issue. [*01/06/2022 01:09:06*]
-+ **Set-NextOneTimeBootDeviceREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current next boot onetime boot device value / supported possible values or set next onetime boot device with reboot now or no reboot but still set next onetime boot device. [*01/06/2022 01:07:46*]
-+ **Set-NetworkPropertiesREDFISH 5.0.0**  - iDRAC cmdlet using Redfish API to either get network device IDs, get network port IDs, get network port properties or set network properties. [*01/06/2022 01:06:10*]
-+ **Set-MultipleBIOSAttributesREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current BIOS attribute settings, get specific BIOS attribute current value, get BIOS attribute registry or set mulitple BIOS attributes. [*01/06/2022 01:03:59*]
-+ **Set-IdracLcSystemAttributesREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to either get iDRAC, Lifecycle Controller(LC) or System attributes or set one or multiple iDRAC, LC or System attributes. [*01/06/2022 00:58:39*]
-+ **Set-IdracDefaultSettingsREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to reset iDRAC to default settings. Once the action is invoked, iDRAC will reset to defaults and restart the iDRAC. iDRAC should be back up within a couple of minutes. [*01/06/2022 00:57:36*]
-+ **Set-ExportServerConfigurationProfileLocalREDFISH 6.0.0**  - iDRAC cmdlet used to export server configuration profile locally using Redfish API. It will display the attributes locally to the screen along with copying them to a file. For more details on SCP feature, refer to document "https://downloads.dell.com/Manuals/Common/dellemc-server-config-profile-refguide.pdf" [*01/06/2022 00:56:36*]
-+ **Set-ExportImportServerConfigurationProfileNetworkShareREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to export or import server configuration profile or SCP. It will call either ExportSystemConfiguration or ImportSystemConfiguration method. For more details on SCP feature, refer to document "https://downloads.dell.com/Manuals/Common/dellemc-server-config-profile-refguide.pdf" [*01/06/2022 00:55:31*]
-+ **Set-DeviceFirmwareSimpleUpdateTransferProtocolREDFISH 6.0.0**  - iDRAC cmdlet used to update fimrware for one device iDRAC supports using a supported network share which contains the firmware image. Supported image types are Dell Windows Update Packages (DUP) with .EXE extension. [*01/06/2022 00:54:33*]
-+ **Set-DeviceFirmwareSimpleUpdateREDFISH 6.0.0**  - iDRAC cmdlet used to update firmware for one supported server device which uses a local image file. For updating devices, you will be using Dell Windows Update Packages (DUP) with .EXE extension. NOTE: If executing cmdlet on iDRAC 7/8, to download the firmware image, curl command will be used. If using iDRAC 9 or newer, Invoke-WebRequest command will be used. NOTE: Curl command is natively installed in newer versions of Windows (Examples: Windows 10 or Windows Server 2019). If using older version of Windows with iDRAC 7/8, please install curl command before executing the cmdlet. [*01/06/2022 00:53:33*]
-+ **Set-DeviceFirmwareRollbackREDFISH 6.0.0**  - iDRAC cmdlet using Redfish DMTF to perform firmware rollback for supported devices. [*01/06/2022 00:52:16*]
-+ **Set-BiosDefaultSettingsREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to set BIOS default settings on the next server reboot. You can execute the cmdlet and reset the BIOS to default settings now or set the flag to reset BIOS to default and on the next reboot, reset to BIOS default will be applied. [*01/06/2022 00:50:42*]
-+ **Set-BiosChangePasswordREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to set, change or delete BIOS passwords (system or setup). [*01/06/2022 00:49:38*]
-+ **Set-BiosBootOrderREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current BIOS boot mode/boot order or change the boot order. [*01/06/2022 00:48:35*]
-+ **Invoke-UnpackAndAttachOsdREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API OEM extension to either get driver pack information, unpack and attach driver pack or detach driver pack. For performing OS installation, recommended to unpack and attach driver pack cmdlet first, then execute cmdlet to perform boot to network ISO. [*01/06/2022 00:47:36*]
-+ **Invoke-SystemEraseREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to perform iDRAC System Erase feature. System Erase feature allows you to reset BIOS or iDRAC to default settings, erase ISE drives, HDD drives, diags, driver pack, Lifecycle controller data, NVDIMMs, PERC NV cache or vFlash. WARNING, this feature is desctructive and the main purpose for using this feature is to repurpose or retire server hardware. For erasing hard drives, there is no option to select a specific drive. Once you pass in either CryptographicErasePD or OverwritePD component value to erase drives, iDRAC is going to erase any supported drive it detects for that value. For more details on each supported component, refer to iDRAC Lifecycle Controller User Guide. [*01/06/2022 00:46:36*]
-+ **Invoke-SupportAssistCollectionLocalREDFISH 6.0.0**  - iDRAC cmdlet using Redfish with OEM extension to either get Support Assist (SA) license agreement info, accept end user license agreement (EULA), register SA or perform SA collection locally. NOTE: Before you perform SA local collection, the EULA must be accepted. [*01/06/2022 00:45:37*]
-+ **Invoke-StorageResetConfigREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get virtual disks, get physical disks or reset the storage controller. [*01/06/2022 00:42:41*]
-+ **Invoke-StorageRemoveControllerKeyREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get controller encryption mode settings or remove the storage controller key. [*01/06/2022 00:41:42*]
-+ **Invoke-StorageRekeyControllerKeyREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get controller encryption mode settings or rekey the storage controller key, either Local key Management (LKM) or Secure Enterprise key Manager (SEKM). [*01/06/2022 00:40:41*]
-+ **Invoke-SecureEraseDeviceREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get storage controllers, get supported secure erase devices or secure erase devices using iDRAC Redfish API. [*01/06/2022 00:39:39*]
-+ **Invoke-ResetIdracREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to reset(reboot) iDRAC. [*01/06/2022 00:38:37*]
-+ **Invoke-ReplaceCertificateREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current iDRAC certs or replace certificate for iDRAC. [*01/06/2022 00:37:36*]
-+ **Invoke-InstallFromRepositoryOemREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to perform a repository update from a supported network share. Recommended to use HTTPS share "downloads.dell.com" repository for updates or you can create and use a custom repository using Dell Repository Manager (DRM) utility. [*01/06/2022 00:36:35*]
-+ **Invoke-InsertEjectVirtualMediaREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get virtual media information, attach or eject virtual media located on supported network share. Supported network shares are NFS, CIFS, HTTP and HTTPS. [*01/06/2022 00:35:35*]
-+ **Invoke-InitializeVirtualDiskREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks or initialize virtual disk. [*01/06/2022 00:34:34*]
-+ **Invoke-IdracRemoteKvmHtmlSessionREDFISH 6.0.0**  - iDRAC Cmdlet using Redfish API with OEM extension to to launch iDRAC HTML KVM session using your default browser. [*01/06/2022 00:33:36*]
-+ **Invoke-IdracLicenseManagementREDFISH 2.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to manage iDRAC licenses. Get current licenses, export/import/delete licenses supported. [*01/06/2022 00:32:34*]
-+ **Invoke-IdracJobQueueManagementREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to manage iDRAC job queue. Supported operations are get current job queue, delete single job ID, clear complete job queue or clear complete job queue/restart Lifecycle Controller services. [*01/06/2022 00:31:33*]
-+ **Invoke-GenerateCsrREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current iDRAC certs or generate CSR for iDRAC. [*01/06/2022 00:29:38*]
-+ **Invoke-ExportVideoLogREDFISH 6.0.0**  - iDRAC Cmdlet using Redfish API with OEM extension to export either boot capture videos or crash capture video locally. NOTE: iDRAC copies boot capture videos to a zip file and prompts you to download using your default browser. If needed to watch the video capture files (dvc format), download the video player from the iDRAC GUI/Maintenance/Troubleshooting page. [*01/06/2022 00:28:37*]
-+ **Invoke-ExportServerScreenShotREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to export either last crash screen or server screen shot. NOTE: This image will be exported in base64 format to a file. You will need to take this content and use an utility which can convert base64 to PNG. [*01/06/2022 00:27:33*]
-+ **Invoke-ExportLcLogsLocalREDFISH 6.0.0**  - Cmdlet using Redfish API with OEM extension to export all iDRAC Lifecycle Logs(LC) to a file locally. You will be prompted to download the exported iDRAC LC logs using your default browser session. If you select yes, it will automatically launch a browser session and download the file. You may be prompted to enter iDRAC credentials if this is the first time you are using browser to access the iDRAC. [*01/06/2022 00:26:31*]
-+ **Invoke-ExportHwInventoryLocalREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to export all server hardware information to a file locally. You will be prompted to download the exported HW inventory using your default browser session. If you select yes, it will automatically launch a browser session and download the file. You may be prompted to enter iDRAC credentials if this is the first time you are using browser to access the iDRAC. [*01/06/2022 00:24:29*]
-+ **Invoke-EnableDisableBiosBootOrderDevicesREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current BIOS boot mode/boot order, enable or disable boot order devices. [*01/06/2022 00:23:28*]
-+ **Invoke-CreateIdracUserPasswordREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either create or delete iDRAC user. [*01/06/2022 00:19:32*]
-+ **Invoke-ConnectNetworkIsoImageREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API OEM extension to connect or detach network ISO image. Connecting the network ISO image will expose the ISO to the server. Note: This action will not automatically reboot the server compared to action BootToNetworkISO. [*01/06/2022 00:18:33*]
-+ **Invoke-CheckConsistencyVirtualDiskREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks or check consistency virtual disk. [*01/06/2022 00:17:34*]
-+ **Invoke-BootToNetworkIsoOsdREDFISH 6.0.0**  - Cmdlet using Redfish API with OEM extension to either get network ISO attach status, boot to network ISO or detach network ISO. For performing OS installation, recommended to unpack and attach driver pack first, then execute cmdlet to perform boot to network ISO. [*01/06/2022 00:15:37*]
-+ **Invoke-AssignUnassignHotspareREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API OEM extension to either assign global or dedicated hotspare, unassign hotspare. [*01/06/2022 00:14:36*]
-+ **Get-ImportServerConfigurationProfilePreviewREDFISH 6.0.0**  - iDRAC cmdlet using Redfish OEM extension to preview Server Configuration Profile (SCP) file located on supported network share. Recommended to use this action before attempting to import the SCP file. This preview action will validate the SCP file format is correct and attribute values are valid. [*01/06/2022 00:11:15*]
-+ **Get-IdracRemoteServiceApiStatusREDFISH 6.0.0**  - Cmdlet using Redfish API with OEM extension to get iDRAC remote service status. The output will return LC (Lifecycle controller) status, RT (real time monitoring) status, server status (examples, in POST or in in BIOS boot manager) and overall status. [*01/06/2022 00:09:03*]
-+ **Get-IdracLifecycleLogsREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to get iDRAC Lifecycle Controller (LC) logs. [*01/06/2022 00:07:56*]
-+ **Invoke-StorageSetControllerKeyREDFISH 5.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get controller encryption mode settings or set the storage controller key(enable encryption) for LKM(Local Key Management). [*11/18/2021 03:20:07*]
-+ **Invoke-GetIdracServerPowerInformationREDFISH 5.0.0**  - iDRAC cmdlet using Redfish API to get iDRAC power information for the server. Cmdlet will support getting either all iDRAC server power information or selective information based off argument value passed in. [*11/18/2021 03:08:48*]
-+ **Get-IdracServerSlotInformationREDFISH 5.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to get server slot information for all devices and will be echo output to the screen. If large amount of data is returned, recommended to redirect output to a file. [*11/18/2021 02:50:07*]
-+ **[Set-UpdateOneDeviceREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to update fimrware for one device iDRAC supports or upload a PM file using OEM extension. Supported file types are .exe, .pm (personal module) and .d9 (iDRAC only image). For updating iDRAC devices, you will be using Dell Windows Update Packages (DUP) with .exe extension. [*12/18/2020 20:38:48*]
-+ **[Set-ImportServerConfigurationProfileLocalREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to import server configuration profile(SCP) locally using Redfish API with OEM extension. Before executing the cmdlet, first edit $share_info hashtable with the attributes you want to set. Make sure to follow the correct format as it shows in current hashtable. [*12/18/2020 20:31:57*]
-+ **[Set-IdracUserPasswordREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to change iDRAC user password using Redfish API. Once the iDRAC user password has changed, cmdlet will execute GET command to validate the new password was set. If using dash(-) or single quote in your current or new password, make sure to surround the password value with double quotes. [*12/18/2020 19:42:00*]
-+ **[Set-BiosBootOrderBootSourceStateREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to either enable / disable boot device source state for one boot device or get current boot order and their current boot source state. [*12/18/2020 18:53:37*]
-+ **[Invoke-SetExternalEnclosureAssetTagREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to either get storage controllers, get external enclosusres, get enclosure asset tag or set enclosure asset tag using iDRAC Redfish API. [*12/18/2020 18:48:23*]
 
 ## Przemyslaw Klys
 
@@ -396,9 +359,72 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[PSPulsewayManager 0.6](https://github.com/EvotecIT/PSPulsewayManager)**  - This powershell module allows easy management and configuration of Pulseway Manager. [*06/20/2018 20:36:11*]
 + **[PSManageService 0.6](https://github.com/EvotecIT/PSManageService)**  - Simple project [*06/20/2018 20:35:26*]
 
+## Texas Roemer
+
++ **Get-StorageInventoryREDFISH 6.0.0**  - iDRAC cmdlet used to get storage inventory using Redfish API. It will return storage information for controllers, disks or backplanes. [*06/20/2022 23:20:26*]
++ **Invoke-CreateVirtualDiskREDFISH 7.0.0**  - Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks, get physical disks or create virtual disk. [*06/20/2022 23:20:00*]
++ **IdracRedfishSupport 17.0.0.0**  - Main module used to import all individual iDRAC Redfish modules listed in the Powershell gallery. For more details and examples for each module, execute get-help on the specific module. [*06/20/2022 23:19:29*]
++ **Get-ServerHardwareInventoryREDFISH 1.0.0**  - Cmdlet using iDRAC with Redfish API to get server hardware information which includes system information, memory, cpu, power supplies, fans, pcie devices, pci functions or network devices [*05/10/2022 00:45:07*]
++ **Invoke-ChangeIdracUserPasswordREDFISH 7.0.0**  - iDRAC cmdlet using Redfish API to change iDRAC user password. Once the iDRAC user password has changed, cmdlet will execute GET command to validate the new password was set. If using dash or single quote in your current or new password, make sure to surround the password value with double quotes. [*04/12/2022 02:37:40*]
++ **Invoke-ExportImportSslCertificateREDFISH 7.0.0**  - iDRAC cmdlet using Redfish with OEM extension to either export or import SSL certificate locally. [*03/31/2022 20:04:57*]
++ **Invoke-CreateXauthTokenSessionREDFISH 7.0.0.0**  - iDRAC cmdlet using Redfish API to either view, create or delete iDRAC X-auth token session. [*03/10/2022 01:47:45*]
++ **Set-PowerControlREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API to get either server current power state or change the server power state. If changing the server power state, make sure you pass in the exact string value since the values are case sensitive. [*01/06/2022 01:13:38*]
++ **Set-OneBIOSAttributeREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API to either set one BIOS attribute or get current value of BIOS attributes. When setting BIOS attribute, make sure you pass in exact name of the attribute and value since these are case sensitive. Example: For attribute MemTest, you must pass in "MemTest". Passing in "memtest" will fail. [*01/06/2022 01:12:30*]
++ **Set-OemNetworkPropertiesREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to either get current network card settings, get specific network card attribute current value, get network card attribute registry or set mulitple network card attributes. This cmdlet will allow you to set network card attributes which are not supported by DMTF. [*01/06/2022 01:10:31*]
++ **Set-NextOneTimeBootVirtualMediaDeviceOemREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to set next onetime boot device to either virtual optical or virtual floppy. DMTF does not support setting virtual CD or virtual floppy as next one time boot. This cmdlet uses OEM extension to solve this issue. [*01/06/2022 01:09:06*]
++ **Set-NextOneTimeBootDeviceREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current next boot onetime boot device value / supported possible values or set next onetime boot device with reboot now or no reboot but still set next onetime boot device. [*01/06/2022 01:07:46*]
++ **Set-NetworkPropertiesREDFISH 5.0.0**  - iDRAC cmdlet using Redfish API to either get network device IDs, get network port IDs, get network port properties or set network properties. [*01/06/2022 01:06:10*]
++ **Set-MultipleBIOSAttributesREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current BIOS attribute settings, get specific BIOS attribute current value, get BIOS attribute registry or set mulitple BIOS attributes. [*01/06/2022 01:03:59*]
++ **Set-IdracLcSystemAttributesREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to either get iDRAC, Lifecycle Controller(LC) or System attributes or set one or multiple iDRAC, LC or System attributes. [*01/06/2022 00:58:39*]
++ **Set-IdracDefaultSettingsREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to reset iDRAC to default settings. Once the action is invoked, iDRAC will reset to defaults and restart the iDRAC. iDRAC should be back up within a couple of minutes. [*01/06/2022 00:57:36*]
++ **Set-ExportServerConfigurationProfileLocalREDFISH 6.0.0**  - iDRAC cmdlet used to export server configuration profile locally using Redfish API. It will display the attributes locally to the screen along with copying them to a file. For more details on SCP feature, refer to document "https://downloads.dell.com/Manuals/Common/dellemc-server-config-profile-refguide.pdf" [*01/06/2022 00:56:36*]
++ **Set-ExportImportServerConfigurationProfileNetworkShareREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to export or import server configuration profile or SCP. It will call either ExportSystemConfiguration or ImportSystemConfiguration method. For more details on SCP feature, refer to document "https://downloads.dell.com/Manuals/Common/dellemc-server-config-profile-refguide.pdf" [*01/06/2022 00:55:31*]
++ **Set-DeviceFirmwareSimpleUpdateTransferProtocolREDFISH 6.0.0**  - iDRAC cmdlet used to update fimrware for one device iDRAC supports using a supported network share which contains the firmware image. Supported image types are Dell Windows Update Packages (DUP) with .EXE extension. [*01/06/2022 00:54:33*]
++ **Set-DeviceFirmwareSimpleUpdateREDFISH 6.0.0**  - iDRAC cmdlet used to update firmware for one supported server device which uses a local image file. For updating devices, you will be using Dell Windows Update Packages (DUP) with .EXE extension. NOTE: If executing cmdlet on iDRAC 7/8, to download the firmware image, curl command will be used. If using iDRAC 9 or newer, Invoke-WebRequest command will be used. NOTE: Curl command is natively installed in newer versions of Windows (Examples: Windows 10 or Windows Server 2019). If using older version of Windows with iDRAC 7/8, please install curl command before executing the cmdlet. [*01/06/2022 00:53:33*]
++ **Set-DeviceFirmwareRollbackREDFISH 6.0.0**  - iDRAC cmdlet using Redfish DMTF to perform firmware rollback for supported devices. [*01/06/2022 00:52:16*]
++ **Set-BiosDefaultSettingsREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to set BIOS default settings on the next server reboot. You can execute the cmdlet and reset the BIOS to default settings now or set the flag to reset BIOS to default and on the next reboot, reset to BIOS default will be applied. [*01/06/2022 00:50:42*]
++ **Set-BiosChangePasswordREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to set, change or delete BIOS passwords (system or setup). [*01/06/2022 00:49:38*]
++ **Set-BiosBootOrderREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current BIOS boot mode/boot order or change the boot order. [*01/06/2022 00:48:35*]
++ **Invoke-UnpackAndAttachOsdREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API OEM extension to either get driver pack information, unpack and attach driver pack or detach driver pack. For performing OS installation, recommended to unpack and attach driver pack cmdlet first, then execute cmdlet to perform boot to network ISO. [*01/06/2022 00:47:36*]
++ **Invoke-SystemEraseREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to perform iDRAC System Erase feature. System Erase feature allows you to reset BIOS or iDRAC to default settings, erase ISE drives, HDD drives, diags, driver pack, Lifecycle controller data, NVDIMMs, PERC NV cache or vFlash. WARNING, this feature is desctructive and the main purpose for using this feature is to repurpose or retire server hardware. For erasing hard drives, there is no option to select a specific drive. Once you pass in either CryptographicErasePD or OverwritePD component value to erase drives, iDRAC is going to erase any supported drive it detects for that value. For more details on each supported component, refer to iDRAC Lifecycle Controller User Guide. [*01/06/2022 00:46:36*]
++ **Invoke-SupportAssistCollectionLocalREDFISH 6.0.0**  - iDRAC cmdlet using Redfish with OEM extension to either get Support Assist (SA) license agreement info, accept end user license agreement (EULA), register SA or perform SA collection locally. NOTE: Before you perform SA local collection, the EULA must be accepted. [*01/06/2022 00:45:37*]
++ **Invoke-StorageResetConfigREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get virtual disks, get physical disks or reset the storage controller. [*01/06/2022 00:42:41*]
++ **Invoke-StorageRemoveControllerKeyREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get controller encryption mode settings or remove the storage controller key. [*01/06/2022 00:41:42*]
++ **Invoke-StorageRekeyControllerKeyREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get controller encryption mode settings or rekey the storage controller key, either Local key Management (LKM) or Secure Enterprise key Manager (SEKM). [*01/06/2022 00:40:41*]
++ **Invoke-SecureEraseDeviceREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get storage controllers, get supported secure erase devices or secure erase devices using iDRAC Redfish API. [*01/06/2022 00:39:39*]
++ **Invoke-ResetIdracREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to reset(reboot) iDRAC. [*01/06/2022 00:38:37*]
++ **Invoke-ReplaceCertificateREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current iDRAC certs or replace certificate for iDRAC. [*01/06/2022 00:37:36*]
++ **Invoke-InstallFromRepositoryOemREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to perform a repository update from a supported network share. Recommended to use HTTPS share "downloads.dell.com" repository for updates or you can create and use a custom repository using Dell Repository Manager (DRM) utility. [*01/06/2022 00:36:35*]
++ **Invoke-InsertEjectVirtualMediaREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get virtual media information, attach or eject virtual media located on supported network share. Supported network shares are NFS, CIFS, HTTP and HTTPS. [*01/06/2022 00:35:35*]
++ **Invoke-InitializeVirtualDiskREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks or initialize virtual disk. [*01/06/2022 00:34:34*]
++ **Invoke-IdracRemoteKvmHtmlSessionREDFISH 6.0.0**  - iDRAC Cmdlet using Redfish API with OEM extension to to launch iDRAC HTML KVM session using your default browser. [*01/06/2022 00:33:36*]
++ **Invoke-IdracLicenseManagementREDFISH 2.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to manage iDRAC licenses. Get current licenses, export/import/delete licenses supported. [*01/06/2022 00:32:34*]
++ **Invoke-IdracJobQueueManagementREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to manage iDRAC job queue. Supported operations are get current job queue, delete single job ID, clear complete job queue or clear complete job queue/restart Lifecycle Controller services. [*01/06/2022 00:31:33*]
++ **Invoke-ExportVideoLogREDFISH 6.0.0**  - iDRAC Cmdlet using Redfish API with OEM extension to export either boot capture videos or crash capture video locally. NOTE: iDRAC copies boot capture videos to a zip file and prompts you to download using your default browser. If needed to watch the video capture files (dvc format), download the video player from the iDRAC GUI/Maintenance/Troubleshooting page. [*01/06/2022 00:28:37*]
++ **Invoke-ExportServerScreenShotREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to export either last crash screen or server screen shot. NOTE: This image will be exported in base64 format to a file. You will need to take this content and use an utility which can convert base64 to PNG. [*01/06/2022 00:27:33*]
++ **Invoke-ExportLcLogsLocalREDFISH 6.0.0**  - Cmdlet using Redfish API with OEM extension to export all iDRAC Lifecycle Logs(LC) to a file locally. You will be prompted to download the exported iDRAC LC logs using your default browser session. If you select yes, it will automatically launch a browser session and download the file. You may be prompted to enter iDRAC credentials if this is the first time you are using browser to access the iDRAC. [*01/06/2022 00:26:31*]
++ **Invoke-ExportHwInventoryLocalREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to export all server hardware information to a file locally. You will be prompted to download the exported HW inventory using your default browser session. If you select yes, it will automatically launch a browser session and download the file. You may be prompted to enter iDRAC credentials if this is the first time you are using browser to access the iDRAC. [*01/06/2022 00:24:29*]
++ **Invoke-EnableDisableBiosBootOrderDevicesREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either get current BIOS boot mode/boot order, enable or disable boot order devices. [*01/06/2022 00:23:28*]
++ **Invoke-CreateIdracUserPasswordREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API to either create or delete iDRAC user. [*01/06/2022 00:19:32*]
++ **Invoke-ConnectNetworkIsoImageREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API OEM extension to connect or detach network ISO image. Connecting the network ISO image will expose the ISO to the server. Note: This action will not automatically reboot the server compared to action BootToNetworkISO. [*01/06/2022 00:18:33*]
++ **Invoke-CheckConsistencyVirtualDiskREDFISH 6.0.0**  - Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks or check consistency virtual disk. [*01/06/2022 00:17:34*]
++ **Invoke-BootToNetworkIsoOsdREDFISH 6.0.0**  - Cmdlet using Redfish API with OEM extension to either get network ISO attach status, boot to network ISO or detach network ISO. For performing OS installation, recommended to unpack and attach driver pack first, then execute cmdlet to perform boot to network ISO. [*01/06/2022 00:15:37*]
++ **Invoke-AssignUnassignHotspareREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API OEM extension to either assign global or dedicated hotspare, unassign hotspare. [*01/06/2022 00:14:36*]
++ **Get-ImportServerConfigurationProfilePreviewREDFISH 6.0.0**  - iDRAC cmdlet using Redfish OEM extension to preview Server Configuration Profile (SCP) file located on supported network share. Recommended to use this action before attempting to import the SCP file. This preview action will validate the SCP file format is correct and attribute values are valid. [*01/06/2022 00:11:15*]
++ **Get-IdracRemoteServiceApiStatusREDFISH 6.0.0**  - Cmdlet using Redfish API with OEM extension to get iDRAC remote service status. The output will return LC (Lifecycle controller) status, RT (real time monitoring) status, server status (examples, in POST or in in BIOS boot manager) and overall status. [*01/06/2022 00:09:03*]
++ **Get-IdracLifecycleLogsREDFISH 6.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to get iDRAC Lifecycle Controller (LC) logs. [*01/06/2022 00:07:56*]
++ **Invoke-StorageSetControllerKeyREDFISH 5.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get controller encryption mode settings or set the storage controller key(enable encryption) for LKM(Local Key Management). [*11/18/2021 03:20:07*]
++ **Invoke-GetIdracServerPowerInformationREDFISH 5.0.0**  - iDRAC cmdlet using Redfish API to get iDRAC power information for the server. Cmdlet will support getting either all iDRAC server power information or selective information based off argument value passed in. [*11/18/2021 03:08:48*]
++ **Get-IdracServerSlotInformationREDFISH 5.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to get server slot information for all devices and will be echo output to the screen. If large amount of data is returned, recommended to redirect output to a file. [*11/18/2021 02:50:07*]
++ **[Set-UpdateOneDeviceREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to update fimrware for one device iDRAC supports or upload a PM file using OEM extension. Supported file types are .exe, .pm (personal module) and .d9 (iDRAC only image). For updating iDRAC devices, you will be using Dell Windows Update Packages (DUP) with .exe extension. [*12/18/2020 20:38:48*]
++ **[Set-ImportServerConfigurationProfileLocalREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to import server configuration profile(SCP) locally using Redfish API with OEM extension. Before executing the cmdlet, first edit $share_info hashtable with the attributes you want to set. Make sure to follow the correct format as it shows in current hashtable. [*12/18/2020 20:31:57*]
++ **[Set-IdracUserPasswordREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to change iDRAC user password using Redfish API. Once the iDRAC user password has changed, cmdlet will execute GET command to validate the new password was set. If using dash(-) or single quote in your current or new password, make sure to surround the password value with double quotes. [*12/18/2020 19:42:00*]
++ **[Set-BiosBootOrderBootSourceStateREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to either enable / disable boot device source state for one boot device or get current boot order and their current boot source state. [*12/18/2020 18:53:37*]
++ **[Invoke-SetExternalEnclosureAssetTagREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to either get storage controllers, get external enclosusres, get enclosure asset tag or set enclosure asset tag using iDRAC Redfish API. [*12/18/2020 18:48:23*]
+
 ## Adam Driscoll
 
-+ **[SysInternals 1.0.0](https://github.com/adamdriscoll/sysinternals)**  - PowerShell cmdlets for SysInternal tools [*06/22/2022 07:10:12*]
++ **[SysInternals 1.0.2](https://github.com/adamdriscoll/sysinternals)**  - PowerShell cmdlets for SysInternal tools [*06/22/2022 11:10:47*]
 + **[AnimatedLamp 0.0.2](https://github.com/adamdriscoll/animated-lamp)**  - Show an animated lamp. [*05/30/2022 17:52:02*]
 + **[PSPolly 0.0.1](https://github.com/adamdriscoll/pspolly)**  - Retry, rate limit, circuit breaker and caching cmdlets [*05/24/2022 19:02:29*]
 + **Pinvoke 2.1.0**  - P\Invoke library for PowerShell [*04/27/2022 23:49:57*]
@@ -507,7 +533,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 
 ## Pawel Wujczyk
 
-+ **[ProductivityTools.GetServiceDescription 0.0.5](https://www.powershellgallery.com/packages/ProductivityTools.GetServiceDescription)**  - Gets service description for service name [*06/18/2022 13:52:37*]
 + **ProductivityTools.PublishReadmeToWordpress 0.0.2**  - It publishes Readme file to the wordpress [*05/28/2022 17:44:52*]
 + **[ProductivityTools.SQLServerColumnDescription 0.0.5](http://productivitytools.tech/sql-server-column-description/)**  - Module allows to display description from column in SQL server. It also allows to generate md files [*04/23/2022 20:35:32*]
 + **[ProductivityTools.NewTemporaryDirectory 0.0.2](http://productivitytools.tech/new-temporarydirectory/)**  - Creates random directory in the temporary folder [*04/03/2022 18:59:32*]
@@ -561,32 +586,32 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 
 + **[GitHub 0.0.17](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub [*05/30/2022 20:14:11*]
 + **[GitHub.Interactions 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Interactions [*05/30/2022 20:14:08*]
-+ **[GitHub.Projects 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Projects [*05/30/2022 20:14:03*]
 + **[Github.Dependabot 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Dependabot [*05/30/2022 20:14:03*]
++ **[GitHub.Projects 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Projects [*05/30/2022 20:14:03*]
 + **[GitHub.Markdown 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Markdown [*05/30/2022 20:14:00*]
 + **[GitHub.CodeScanning 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.CodeScanning [*05/30/2022 20:13:59*]
 + **[GitHub.Gists 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Gists [*05/30/2022 20:13:59*]
++ **[GitHub.Packages 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Packages [*05/30/2022 20:13:58*]
++ **[GitHub.Codespaces 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Codespaces [*05/30/2022 20:13:58*]
 + **[GitHub.SecretScanning 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.SecretScanning [*05/30/2022 20:13:58*]
 + **[GitHub.EnterpriseAdmin 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.EnterpriseAdmin [*05/30/2022 20:13:58*]
-+ **[GitHub.Packages 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Packages [*05/30/2022 20:13:58*]
 + **[GitHub.Activity 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Activity [*05/30/2022 20:13:58*]
-+ **[GitHub.Codespaces 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Codespaces [*05/30/2022 20:13:58*]
++ **[GitHub.Git 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Git [*05/30/2022 20:13:57*]
 + **[GitHub.Users 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Users [*05/30/2022 20:13:57*]
 + **[GitHub.Commits 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Commits [*05/30/2022 20:13:57*]
-+ **[GitHub.Git 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Git [*05/30/2022 20:13:57*]
 + **[GitHub.Reactions 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Reactions [*05/30/2022 20:13:56*]
-+ **[GitHub.OAuthAuthorizations 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.OAuthAuthorizations [*05/30/2022 20:13:55*]
 + **[GitHub.Actions 0.0.9](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Actions [*05/30/2022 20:13:55*]
-+ **[GitHub.SCIM 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.SCIM [*05/30/2022 20:13:55*]
 + **GitHub.CodesOfConduct 0.0.8**  - PowerShell Module for GitHub.CodesOfConduct [*05/30/2022 20:13:55*]
-+ **[GitHub.Issues 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Issues [*05/30/2022 20:13:54*]
++ **[GitHub.OAuthAuthorizations 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.OAuthAuthorizations [*05/30/2022 20:13:55*]
++ **[GitHub.SCIM 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.SCIM [*05/30/2022 20:13:55*]
 + **[GitHub.Repos 0.0.9](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Repos [*05/30/2022 20:13:54*]
 + **[GitHub.Migrations 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Migrations [*05/30/2022 20:13:54*]
++ **[GitHub.Issues 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Issues [*05/30/2022 20:13:54*]
 + **[GitHub.Billing 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Billing [*05/30/2022 20:13:53*]
 + **[GitHub.Checks 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Checks [*05/30/2022 20:13:53*]
++ **[GitHub.GitIgnore 0.0.9](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Search [*05/30/2022 20:13:52*]
 + **[GitHub.Collaborators 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Collaborators [*05/30/2022 20:13:52*]
 + **[GitHub.Apps 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Apps [*05/30/2022 20:13:52*]
-+ **[GitHub.GitIgnore 0.0.9](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Search [*05/30/2022 20:13:52*]
 + **[GitHub.Teams 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Teams [*05/30/2022 20:13:51*]
 + **[GitHub.Search 0.0.9](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.GitIgnore [*05/30/2022 20:13:51*]
 + **[GitHub.Branches 0.0.6](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Branches [*05/30/2022 20:13:50*]
@@ -597,8 +622,8 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[GitHub.Deployments 0.0.5](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Deployments [*05/30/2022 19:45:36*]
 + **[GitHub.Orgs 0.0.8](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Orgs [*05/30/2022 19:45:32*]
 + **[GitHub.Pulls 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Pulls [*05/30/2022 19:45:30*]
-+ **[GitHub.Webhooks 0.0.5](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Webhooks [*05/30/2022 19:45:27*]
 + **[GitHub.Meta 0.0.7](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Meta [*05/30/2022 19:45:27*]
++ **[GitHub.Webhooks 0.0.5](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Webhooks [*05/30/2022 19:45:27*]
 + **[GitHub.Core 0.0.18](https://github.com/MariusStorhaug/GitHub)**  - PowerShell Module for GitHub.Orgs [*05/30/2022 19:45:25*]
 + **PublicIP 0.0.2**  - PowerShell Module for Public IP [*01/21/2022 22:49:19*]
 
@@ -919,6 +944,29 @@ provide a standard interface to treat software installers of all types exactly t
 + **[PSDiskPart 1.0](https://github.com/RamblingCookieMonster/PSDiskPart)**  - Work with DiskPart [*07/08/2015 02:13:18*]
 + **[SecretServer 1.0](https://github.com/RamblingCookieMonster/SecretServer)**  - Work with Secret Server Web Services and SQL Database [*07/08/2015 01:23:19*]
 
+## Joel Bennett
+
++ **[PowerLine 3.4.1](https://github.com/Jaykul/PowerLine)**  - Classes for richer output and prompts [*05/01/2022 14:36:19*]
++ **[Metadata 1.5.3](https://github.com/PoshCode/Metadata)**  - A module for PowerShell data serialization [*12/17/2021 03:38:56*]
++ **[ChoVersion 1.0.6](https://github.com/Jaykul/ChoVersion)**  - A module for switching between multiple versions of command-line tools [*12/11/2021 23:22:28*]
++ **[Pansies 2.3.1](https://github.com/PoshCode/Pansies)**  - A PowerShell module for handling color and cursor positioning via ANSI escape sequences [*08/28/2021 20:30:04*]
++ **[Configuration 1.5.0](https://github.com/PoshCode/Configuration)**  - A module for storing and reading configuration values, with full PS Data serialization, automatic configuration for modules and scripts, etc. [*07/03/2021 05:30:59*]
++ **[ModuleBuilder 2.0.0](https://github.com/PoshCode/ModuleBuilder)**  - A module for authoring and building PowerShell modules [*09/28/2020 05:03:23*]
++ **[ErrorView 0.0.2](https://github.com/poshcode/errorview)**  - Enhances formatting ability for Errors [*08/21/2019 17:35:40*]
++ **Wasp 2.5.0.0**  - A Windows Automation Script module for Powershell [*08/06/2019 20:33:33*]
++ **Math 1.1.0**  - Provides a calculator command (Invoke-MathEvaluator) [*07/16/2019 20:40:09*]
++ **[WindowsConsoleFonts 1.1.0](https://github.com/Jaykul/WindowsConsoleFonts)**  - A module for setting the console font in Windows [*03/12/2019 04:01:17*]
++ **[Environment 1.1.0](https://github.com/Jaykul/Environment)**  - Provides Trace-Message, and functions for working with Environment and Path variables [*05/30/2018 03:19:03*]
++ **[BetterCredentials 4.5](https://github.com/Jaykul/BetterCredentials)**  - A (compatible) major upgrade for Get-Credential, including support for storing credentials in Windows Credential Manager, and for specifying the full prompts when asking for credentials, etc. [*05/19/2018 04:16:54*]
++ **[DefaultParameter 1.7](https://github.com/Jaykul/DefaultParameter)**  - Functions to set DefaultParameters and store and reload them [*09/07/2017 05:38:15*]
++ **[Authenticode 2.6](https://github.com/Jaykul/Authenticode)**  - Function wrappers for Authenticode Signing cmdlets [*05/05/2015 15:33:59*]
++ **[Reflection 4.8](https://github.com/Jaykul/Reflection)**  - A .Net Framework Interaction Module for PowerShell [*05/05/2015 15:06:19*]
++ **[Autoload 4.1](https://github.com/Jaykul/Autoload)**  - Autoload function like the Korn shell, and can inject functions into Modules [*05/05/2015 15:05:58*]
++ **PoshNet 1.0**  - Get-DNS is "dig" for PowerShell [*05/30/2014 05:24:06*]
++ **Bing 5.0**  - A few functions for working with the new Bing APIs [*05/22/2014 06:34:46*]
++ **ResolveAlias 2.4**  - A function for cleaning up scripts by replacing all aliases with full command names and specifying full parameters, etc. [*05/15/2014 06:45:57*]
++ **PowerBot 3.6**  - PowerBot: the PowerShell IRC Bot [*05/15/2014 06:45:22*]
+
 ## Brandon Olin
 
 + **[Terminal-Icons 0.9.0](https://github.com/devblackops/Terminal-Icons)**  - PowerShell module to add file icons to terminal based on file extension [*01/28/2022 06:41:14*]
@@ -944,29 +992,6 @@ provide a standard interface to treat software installers of all types exactly t
         Active Directory DNS objects via DSC. These resources are designed to be used with POSHOrigin
         as a Infrastructure as Code framework, but can be used natively by standard DSC configurations as well.
         Integration with POSHOrigin is accomplished via a separate Invoke.ps1 script included in the module. [*05/31/2016 19:32:48*]
-
-## Joel Bennett
-
-+ **[PowerLine 3.4.1](https://github.com/Jaykul/PowerLine)**  - Classes for richer output and prompts [*05/01/2022 14:36:19*]
-+ **[Metadata 1.5.3](https://github.com/PoshCode/Metadata)**  - A module for PowerShell data serialization [*12/17/2021 03:38:56*]
-+ **[ChoVersion 1.0.6](https://github.com/Jaykul/ChoVersion)**  - A module for switching between multiple versions of command-line tools [*12/11/2021 23:22:28*]
-+ **[Pansies 2.3.1](https://github.com/PoshCode/Pansies)**  - A PowerShell module for handling color and cursor positioning via ANSI escape sequences [*08/28/2021 20:30:04*]
-+ **[Configuration 1.5.0](https://github.com/PoshCode/Configuration)**  - A module for storing and reading configuration values, with full PS Data serialization, automatic configuration for modules and scripts, etc. [*07/03/2021 05:30:59*]
-+ **[ModuleBuilder 2.0.0](https://github.com/PoshCode/ModuleBuilder)**  - A module for authoring and building PowerShell modules [*09/28/2020 05:03:23*]
-+ **[ErrorView 0.0.2](https://github.com/poshcode/errorview)**  - Enhances formatting ability for Errors [*08/21/2019 17:35:40*]
-+ **Wasp 2.5.0.0**  - A Windows Automation Script module for Powershell [*08/06/2019 20:33:33*]
-+ **Math 1.1.0**  - Provides a calculator command (Invoke-MathEvaluator) [*07/16/2019 20:40:09*]
-+ **[WindowsConsoleFonts 1.1.0](https://github.com/Jaykul/WindowsConsoleFonts)**  - A module for setting the console font in Windows [*03/12/2019 04:01:17*]
-+ **[Environment 1.1.0](https://github.com/Jaykul/Environment)**  - Provides Trace-Message, and functions for working with Environment and Path variables [*05/30/2018 03:19:03*]
-+ **[BetterCredentials 4.5](https://github.com/Jaykul/BetterCredentials)**  - A (compatible) major upgrade for Get-Credential, including support for storing credentials in Windows Credential Manager, and for specifying the full prompts when asking for credentials, etc. [*05/19/2018 04:16:54*]
-+ **[DefaultParameter 1.7](https://github.com/Jaykul/DefaultParameter)**  - Functions to set DefaultParameters and store and reload them [*09/07/2017 05:38:15*]
-+ **[Authenticode 2.6](https://github.com/Jaykul/Authenticode)**  - Function wrappers for Authenticode Signing cmdlets [*05/05/2015 15:33:59*]
-+ **[Reflection 4.8](https://github.com/Jaykul/Reflection)**  - A .Net Framework Interaction Module for PowerShell [*05/05/2015 15:06:19*]
-+ **[Autoload 4.1](https://github.com/Jaykul/Autoload)**  - Autoload function like the Korn shell, and can inject functions into Modules [*05/05/2015 15:05:58*]
-+ **PoshNet 1.0**  - Get-DNS is "dig" for PowerShell [*05/30/2014 05:24:06*]
-+ **Bing 5.0**  - A few functions for working with the new Bing APIs [*05/22/2014 06:34:46*]
-+ **ResolveAlias 2.4**  - A function for cleaning up scripts by replacing all aliases with full command names and specifying full parameters, etc. [*05/15/2014 06:45:57*]
-+ **PowerBot 3.6**  - PowerBot: the PowerShell IRC Bot [*05/15/2014 06:45:22*]
 
 ## jakub.pawlowski
 
@@ -1032,25 +1057,56 @@ provide a standard interface to treat software installers of all types exactly t
 + **cEPRSAddAslogOnSvc 1.0**  - cEPRSAddAslogOnSvc Module helps in providing the logon permissions to a Service accountaccount [*11/24/2015 14:37:15*]
 + **cEPRSWebProperties 1.0**  - cEPRSWebProperties Module helps in managing the website property resources like: cEPRSISAPIRestrictions- Resource helps in adding the API restrictions, cEPRSAutoStart- Resource helps in enabling Auto start and cEPRSExtendedProtection- Resource helps in providing the Extended Protection [*11/24/2015 13:30:48*]
 
-## Roy Ashbrook
+## WebMD Health Services
 
-+ **Get-FilesForMCTF 1.1.0**  - Get files used for Motor Carrier Tax Filing. [*11/22/2021 20:30:26*]
-+ **Set-ItemContent 1.0.1**  - Common module for updating item content via Microsoft Graph [*11/17/2021 15:02:30*]
-+ **New-LocalCopy 1.0.0.0**  - Uses PSCredential to copy a file to the current directory [*11/01/2021 23:57:18*]
-+ **Read-OleDbData 1.0.0.0**  - Common module for reading oledb data using dotnet libs [*11/01/2021 22:57:03*]
-+ **wcftp 1.0.0.0**  - Basic FTP operations using dotnet webclient class. [*08/11/2021 18:03:02*]
-+ **Send-FileViaEmail 1.1.0.0**  - Sends a file via email. Pass in file path and mail config. [*06/22/2021 19:46:09*]
-+ **Get-OneFileFromZip 1.1.1.0**  - Returns one file from a zip. Uses Streamreader ReadToEnd method to return results. [*06/01/2021 14:52:03*]
-+ **New-ItemContent 1.0.0.2**  - Common module for generating item content for Microsoft Graph [*05/05/2021 21:37:38*]
-+ **Get-DataSetFromSQL 1.0.0.0**  - Returns a DataSet from MSSQL server when given SQL and connection string. [*05/05/2021 17:08:25*]
-+ **ConvertTo-XLSX 1.0.0.0**  - Converts a datatable to an xlsx file using epplus.dll. [*05/03/2021 20:32:58*]
-+ **Clear-Files 1.0.0.0**  - Clears files from the current directory based on config. [*05/03/2021 20:14:44*]
-+ **Get-DataTableFromSQL 1.0.0.0**  - Returns a Datatable from MSSQL server when given SQL and connection string. [*04/22/2021 20:43:23*]
-+ **Test-IsLocalAdmin 1.0.0.1**  - Returns if user is a local administrator. [*04/18/2021 05:37:20*]
-+ **Split-FreightItemsGBForMCTF 1.0.0.0**  - Returns an array with Good and Bad FreightItems to be used for Motor Carrier Tax Filing. [*04/16/2021 22:13:37*]
-+ **Get-TestResultsForMCTF 1.0.0.1**  - Returns a list of Test Results for Motor Carrier Tax Filings. [*04/16/2021 22:04:28*]
-+ **Get-FreightItemsForMCTF 1.0.0.1**  - Returns a list of Freight Items for Motor Carrier Tax Filings. [*04/16/2021 21:45:26*]
-+ **Add-PrefixForLogging 1.0.0.2**  - Adds a prefix for logging to a string. [*04/16/2021 19:25:09*]
++ **[Whiskey 0.51.1](https://github.com/webmd-health-services/Whiskey)**  - Continuous Integration/Continuous Delivery module. [*06/10/2022 22:38:09*]
++ **[Carbon.FileSystem 1.0.1](https://github.com/webmd-health-services/Carbon.FileSystem)**  - The Carbon.FileSystem module currently only has one function, Get-FileHardLink, which is used to
+    retrieve hard link targets. This fixes a breaking change from Windows PowerShell where the Target property is
+    not populated in PowerShell Core when using Get-Item to retrieve a previously linked file. [*05/05/2022 20:19:04*]
++ **[Prism 0.3.0](https://github.com/webmd-health-services/Prism)**  - Prism is a PowerShell module manager inspired by NuGet. Run `prism install` in a source code repository, and Prism will
+save private modules into a "PSModules" directory in that repository. Prism let's you:
+
+* Package and deploy modules side-by-side with the app or tool that uses them without needing to install
+modules globally ahead of time.
+* Not worry about what modules are or aren't installed. Scripts can import and use modules from the "PSModules"
+directory in the script's source code repository.
+* Avoid comitting modules to the source code repository. Team members and build processes run `prism install` to
+get modules installed. [*03/17/2022 01:22:46*]
++ **[PxGet 0.1.2](https://github.com/webmd-health-services/PxGet)**  - A tool that is used to install required PowerShell modules into a targeted repository. [*01/25/2022 17:48:26*]
++ **[Carbon.Windows.Installer 1.0.0](https://github.com/webmd-health-services/Carbon.Windows.Installer)**  - The Carbon.Windows.Installer module is a Windows-only module that has functions for reading and installing Windows MSI
+files/packages, and for replicating Windows' "Programs and Features"/"Apps and Features"
+graphical user interface as objects and text.
+
+Functions include:
+
+* `Get-CInstalledProgram`: reads the registry to determine all the programs installed on the local computer. Returns
+an object for each program. Is an object-based and text-based version of Windows' "Programs and Features"/"Apps and
+Features" GUI.
+* `Get-CMsi`: reads an MSI file and returns an object exposing the MSI's internal tables, like product name, product
+code, product version, etc. Let's you inspect an MSI for its metadata without installing it. Can also download the MSI
+file first. This function requires Windows PowerShell or PowerShell 7.1+ on Windows.
+* `Install-CMsi`: installs a program from an MSI file, or other file that can be installed by Windows. Can also download
+the MSI file to install. This function requires Windows PowerShell or PowerShell 7.1+ on Windows.
+
+System Requirements:
+
+* Windows PowerShell 5.1 on .NET 4.5.2+
+* PowerShell 6.2, 7.1, or 7.2
+* Windows Server 2012 R2+ or Windows 8.1+ [*12/22/2021 22:36:31*]
++ **[NoOp 1.0.0](https://github.com/webmd-health-services/NoOp)**  - A module that does no work that we can use in automated tests that interact with the PowerShell Gallery. [*11/22/2021 20:24:00*]
++ **[BuildMasterAutomation 1.0.1](https://github.com/webmd-health-services/BuildMasterAutomation)**  - The BuildMasterAutomation module is a PowerShell module for working with BuildMaster web APIs. BuildMaster is an application deployment automation tool by Inedo software. This module wraps its web APIs in a PowerShell interface. It allows you to read and create applications, releases, packages, etc. If this module doesn't have a function for a specific API endpoint, it has generic `Invoke-BMRestMethod` and `Invoke-BMNativeApimethod` functions that take the pain out of creating the proper web requests. [*08/03/2021 19:05:24*]
++ **[ProGetAutomation 1.0.0](https://github.com/webmd-health-services/ProGetAutomation)**  - The ProGetAutomation module is used to automate Inedo's ProGet, a universal package manager. It can host your own NuGet, Docker, PowerShell, Ruby Gems, Visual Studio Extensions, Maven, NPM, Bower, and Chocolatey repositories. It has its own proprietary universal package repositories. [*06/29/2021 20:02:21*]
++ **[PagerDutyAutomation 0.1.1](https://whsbitbucket.webmd.net/projects/POWERSHELL/repos/PagerDutyAutomation/browse)**  - Functions for working with the PagerDuty APIs. [*05/04/2021 20:38:05*]
++ **[Carbon.Core 1.0.0](https://whsbitbucket.webmd.net/projects/POWERSHELL/repos/Carbon.Core/browse)**  - Functions that make doing things in PowerShell a little easier. We think these should be part of PowerShell itself. Core functions that are used by other Carbon modules. [*01/29/2021 20:42:40*]
++ **[BitbucketServerAutomation 1.0.0](https://github.com/webmd-health-services/BitbucketServerAutomation)**  - The Bitbucket Server Automation module is used to interact with Bitbucket Server. [*01/15/2021 22:08:06*]
++ **[Zip 0.3.2](https://github.com/webmd-health-services/Zip)**  - PowerShell module for creating ZIP archives. [*09/03/2020 19:16:59*]
++ **[Rivet 0.12.0](http://get-rivet.org/)**  - Rivet is a database migration/change management/versioning tool inspired by Ruby on Rails' Migrations. It creates and applies migration scripts for SQL Server databases. Migration scripts describe changes to make to your database, e.g. add a table, add a column, remove an index, etc. Migrations scripts should get added to your version control system so they can be packaged and deployed with your application's code. [*05/05/2020 18:44:36*]
++ **[Yodel 1.0.0](https://github.com/webmd-health-services/Yodel)**  - A PowerShell module for querying SQL (and other) data sources using .NET's native ADO.NET data access framework. [*03/18/2020 23:00:08*]
++ **Glob 0.1.1**  - A collection of functions that let's you find files/directories using advanced glob syntax. Uses Microsoft's [File System Globbing library](https://www.nuget.org/packages/Microsoft.Extensions.FileSystemGlobbing). [*12/11/2019 18:28:04*]
++ **[GitAutomation 0.14.0](https://github.com/webmd-health-services/GitAutomation)**  - GitAutomation is a PowerShell module for working with Git repositories. You can use it to create, clone, query, push to, pull from, and commit to Git repositories.
+    
+    This module uses [LibGit2Sharp](https://github.com/libgit2/libgit2sharp), the .NET wrapper of [libgit2](https://libgit2.github.com/), "a portable, pure C implementation of... Git", which allows you to call Git via API instead using the Git command line interface. [*09/30/2019 19:01:37*]
++ **[CloudBoltAutomation 0.0.1](https://github.com/webmd-health-services/CloudBoltAutomation)**  - A PowerShell module for using the CloudBolt API. [*06/21/2019 22:34:44*]
 
 ## Shannon Graybrook
 
@@ -1072,4 +1128,4 @@ provide a standard interface to treat software installers of all types exactly t
 + **[ScreenConnectUtils 20.1.23.1319](https://github.com/realslacker/ScreenConnectUtils)**  - Helper functions for managing ScreenConnect [*01/23/2020 19:20:19*]
 + **PSmRemoteNG 20.1.23.1059**  - A module to create mRemoteNG connection files from PowerShell. [*01/23/2020 17:00:12*]
 
-*Updated: Wednesday, 22 June 2022 09:53:10 UTC*
+*Updated: Wednesday, 22 June 2022 17:54:18 UTC*
