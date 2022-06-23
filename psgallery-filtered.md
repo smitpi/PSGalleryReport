@@ -5,13 +5,69 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.22.2) | 22.6.22.2
+## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.3) | 0.0.3
 
-### Published: 06/22/2022 17:12:11 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+### Published: 06/22/2022 23:48:53 by James Brundage
+
+An Extensible Transpiler for PowerShell (and anything else)
+
+__Downloads__: 1 | __Repository__: https://github.com/StartAutomating/PipeScript
+
+## [ewsgui](https://www.powershellgallery.com/Packages/ewsgui/2.0.17) | 2.0.17
+
+### Published: 06/22/2022 23:05:35 by Agustin Gallegos [MSFT]
+
+Exchange Web Services (EWS) tool to perform different operations
+
+__Downloads__: 7,397 | __Repository__: https://github.com/agallego-css/ewsgui/
+
+## [Pode](https://www.powershellgallery.com/Packages/Pode/2.7.0) | 2.7.0
+
+### Published: 06/22/2022 21:20:20 by Matthew Kelly (Badgerati)
+
+A Cross-Platform PowerShell framework for creating web servers to host REST APIs and Websites. Pode also has support for being used in Azure Functions and AWS Lambda.
+
+__Downloads__: 81,381 | __Repository__: https://github.com/Badgerati/Pode
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.22.3) | 22.6.22.3
+
+### Published: 06/22/2022 20:52:49 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
 
 Gary Blok MVP Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
 __Downloads__: 235,213 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [SimplyXD](https://www.powershellgallery.com/Packages/SimplyXD/1.1.2022.38) | 1.1.2022.38
+
+### Published: 06/22/2022 20:27:05 by Mithrandyr
+
+Alpha project for Xpertdoc Api
+
+__Downloads__: 75 | __Repository__: https://github.com/mithrandyr/SimplyXD
+
+## [windows-screenfetch-fast](https://www.powershellgallery.com/Packages/windows-screenfetch-fast/1.0.1) | 1.0.1
+
+### Published: 06/22/2022 20:15:32 by Piotr Placzek
+
+Windows-screenFetch but faster
+
+__Downloads__: 0 | __Repository__: https://github.com/piotrpdev/Windows-screenFetch-fast
+
+## [Ab](https://www.powershellgallery.com/Packages/Ab/1.0) | 1.0
+
+### Published: 06/22/2022 17:51:22 by Isaiah Williams
+
+Provides cmdlets that are helpful for automating different aspects of testing.
+
+__Downloads__: 0 | __Repository__: 
+
+## [OneDrive](https://www.powershellgallery.com/Packages/OneDrive/2.2.8) | 2.2.8
+
+### Published: 06/22/2022 17:51:06 by Marcel.Meurer@sepago.de
+
+Provides function to access OneDrive personal and 4 business with PowerShell. You can list directories, get metadata of files and folder, create folders, delete folders and file and for sure: Upload and download files. This module uses an authentication describes here: https://github.com/MarcelMeurer/PowerShellGallery-OneDrive At this time there are some functions missing, like rename files. Please write me a mail if you find some errors or if you have a request.
+
+__Downloads__: 29,369 | __Repository__: 
 
 ## [Az.Adm](https://www.powershellgallery.com/Packages/Az.Adm/1.0.5) | 1.0.5
 
@@ -44,14 +100,6 @@ __Downloads__: 535 | __Repository__:
 Automation tools for production quality database deployment
 
 __Downloads__: 2,938,827 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [windows-screenfetch-fast](https://www.powershellgallery.com/Packages/windows-screenfetch-fast/1.0) | 1.0
-
-### Published: 06/22/2022 15:23:01 by Piotr Placzek
-
-Windows-screenFetch but faster
-
-__Downloads__: 0 | __Repository__: https://github.com/piotrpdev/Windows-screenFetch-fast
 
 ## [DeploymentFramework](https://www.powershellgallery.com/Packages/DeploymentFramework/1.32.177) | 1.32.177
 
@@ -139,7 +187,7 @@ __Downloads__: 74 | __Repository__:
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 639,241 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 639,247 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/2.2206.342.11029) | 2.2206.342.11029
 
@@ -148,14 +196,6 @@ __Downloads__: 639,241 | __Repository__: https://stealthpuppy.com/evergreen/
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
 __Downloads__: 631 | __Repository__: https://github.com/microsoft/SdnDiagnostics
-
-## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.2) | 0.0.2
-
-### Published: 06/21/2022 22:33:50 by James Brundage
-
-An Extensible Transpiler for PowerShell (and anything else)
-
-__Downloads__: 1 | __Repository__: https://github.com/StartAutomating/PipeScript
 
 ## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.2.6) | 0.2.6
 
@@ -181,14 +221,6 @@ __Downloads__: 837 | __Repository__: https://github.com/oracle/oci-powershell-mo
 This modules provides Cmdlets for OCI Workrequests Service
 
 __Downloads__: 1,380 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Waf](https://www.powershellgallery.com/Packages/OCI.PSModules.Waf/35.1.0) | 35.1.0
-
-### Published: 06/21/2022 19:41:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Waf Service
-
-__Downloads__: 590 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Waas](https://www.powershellgallery.com/Packages/OCI.PSModules.Waas/35.1.0) | 35.1.0
 
@@ -1084,7 +1116,7 @@ __Downloads__: 282,717 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 Automate against ServiceNow service and asset management.  This module can be used standalone or with Azure Automation.
 
-__Downloads__: 187,948 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
+__Downloads__: 187,956 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
 ## [PSGPPreferences](https://www.powershellgallery.com/Packages/PSGPPreferences/0.3.2) | 0.3.2
 
@@ -1108,7 +1140,7 @@ __Downloads__: 27 | __Repository__:
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 5,370 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 5,372 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.6.0) | 2.1.6.0
 
@@ -1274,14 +1306,6 @@ __Downloads__: 1,679 | __Repository__: https://github.com/Sebazzz/PSMenu
 Powershell module to export/import a single api from Azure Api Management using Azure Bicep.
 
 __Downloads__: 2 | __Repository__: https://github.com/sincronicatech/PSBicepApiManagement
-
-## [SwissMentor](https://www.powershellgallery.com/Packages/SwissMentor/13.0.1) | 13.0.1
-
-### Published: 06/20/2022 14:34:09 by François Zbinden
-
-SwissMentor cli module to login to a SwissMentor server, retreive and mutate data. Check the documentation at http://docs.swissmentor.com/docs/powershell-getting-started.
-
-__Downloads__: 5 | __Repository__: http://docs.swissmentor.com/docs/powershell-getting-started
 
 ## [PSAdvantage](https://www.powershellgallery.com/Packages/PSAdvantage/0.9.4) | 0.9.4
 
@@ -1618,7 +1642,7 @@ __Downloads__: 13,077 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 509,885,599 | __Repository__: 
+__Downloads__: 509,885,591 | __Repository__: 
 
 ## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.23.1) | 3.23.1
 
@@ -1988,14 +2012,6 @@ Module contain help functions for the Azure Portal.
 
 __Downloads__: 372 | __Repository__: 
 
-## [LearnPowerShell](https://www.powershellgallery.com/Packages/LearnPowerShell/0.7.0) | 0.7.0
-
-### Published: 06/13/2022 16:46:38 by Jake Morrison
-
-Returns episode information from the Learn PowerShell series. Learn PowerShell in an operationally focused blog and video series. This module contains information about each episode.
-
-__Downloads__: 4 | __Repository__: https://github.com/techthoughts2/Learn-PowerShell-Code-Examples
-
 ## [MOVEit.MIA](https://www.powershellgallery.com/Packages/MOVEit.MIA/0.3.2) | 0.3.2
 
 ### Published: 06/13/2022 16:11:45 by Tony Perri
@@ -2025,14 +2041,6 @@ __Downloads__: 224 | __Repository__: https://github.com/Tony-Perri/MOVEit.MIT
 A PowerShell module to configure EnvVar
 
 __Downloads__: 28 | __Repository__: https://github.com/ncavare/powershell-setenv
-
-## [SimplyXD](https://www.powershellgallery.com/Packages/SimplyXD/1.1.2022.36) | 1.1.2022.36
-
-### Published: 06/13/2022 14:27:44 by Mithrandyr
-
-Alpha project for Xpertdoc Api
-
-__Downloads__: 75 | __Repository__: https://github.com/mithrandyr/SimplyXD
 
 ## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.2.5) | 1.2.5
 
@@ -2066,12 +2074,4 @@ BrightCom Solutions AB powershell helper.
 
 __Downloads__: 2,182 | __Repository__: 
 
-## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.15) | 1.0.15
-
-### Published: 06/13/2022 07:02:40 by Christopher Berg Schwanstrøm
-
-Various helpful cmdlets and functions
-
-__Downloads__: 549 | __Repository__: 
-
-*Updated: Wednesday, 22 June 2022 17:54:08 UTC*
+*Updated: Thursday, 23 June 2022 02:35:51 UTC*

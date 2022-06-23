@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 22 June 2022 17:54:18 UTC
+Updated: Thursday, 23 June 2022 02:36:02 UTC
 
 ?:
 ??
@@ -218,6 +218,7 @@ aircall
 airtable
 aispeech
 aivision
+ajustee
 aks
 alac
 alarm
@@ -362,6 +363,7 @@ archlinux
 arcus
 area
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -494,7 +496,6 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
-aws-vault
 awscli
 awspricelist
 axapta
@@ -799,6 +800,7 @@ caching
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -890,6 +892,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1067,6 +1070,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codepoint
 codereview
 codes
 codesign
@@ -1155,11 +1159,13 @@ config
 configapi
 configascode
 configdata
+configkey
 configmgr
 configmgrcbdsc
 configuration
 configurationapi
 configurationdata
+configurationkey
 configurationmanagement
 configurationmanager
 configure
@@ -1483,6 +1489,7 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
@@ -1984,7 +1991,6 @@ evtx
 ews
 exact
 example
-examples
 excel
 exception
 exceptionless
@@ -2391,7 +2397,6 @@ gobright
 godaddy
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2912,7 +2917,9 @@ japanese
 jar
 jav
 java
+javamanager
 javascript
+javaversion
 jboss
 jdbc
 jdedwards
@@ -3068,12 +3075,8 @@ ldap
 league
 lean
 learn
-learn-powershell
-learn-powershell-series
 learning
-learning-powershell
 learningpowershell
-learnpowershell
 lease
 leetabit
 leftjoin
@@ -3721,11 +3724,9 @@ nordtools
 normal
 norskale
 nosql
-note
 notebook
 notepad
 noteproperty
-notes
 notification
 notificationhubs
 notifications
@@ -3758,6 +3759,7 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
+number
 numlock
 nunit
 nupkg
@@ -4009,6 +4011,7 @@ parameter
 parameterinfo
 parameters
 parclient
+pardot
 parititions
 parool
 parquet
@@ -4250,10 +4253,8 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
-powershell-course
 powershell-credentials
 powershell-dsc
-powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4264,13 +4265,10 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
-powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
-powershellcourse
-powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4281,7 +4279,6 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
-powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
@@ -4659,7 +4656,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdb
@@ -4892,7 +4888,6 @@ routeconfig
 router
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -5007,6 +5002,7 @@ schedules-execution
 scheduling
 schema
 schemaextensions
+scheme
 school-information-system
 schulung
 schulverwaltung
@@ -5061,7 +5057,6 @@ sdn
 search
 search-adminauditlog
 searchengine
-searching
 searchplace
 searchquery
 searchstring
@@ -5160,7 +5155,6 @@ servicebus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
-servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5349,6 +5343,7 @@ soap
 soc
 soccer
 social
+social-media
 socialmedia
 socketlabs
 sockets
@@ -5381,14 +5376,12 @@ soonragent
 sophos
 sort
 source
-source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 space
 spaces
 spacex
@@ -5530,7 +5523,6 @@ staytus
 stderr
 stdout
 steam
-steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5683,6 +5675,7 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
@@ -5885,7 +5878,6 @@ trafficmanager
 trafficmarking
 train
 training
-training-course
 tram
 transact
 transaction
@@ -5949,6 +5941,8 @@ twincat
 twinkly
 twitch
 twitter
+twitter-api
+twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
@@ -6134,7 +6128,6 @@ userworkstations
 usg
 usps
 utc
-utf-8
 utf-sig
 utf7
 utf8
@@ -6204,6 +6197,8 @@ verbose psmodule
 version
 versioncontrol
 versioning
+versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -6216,6 +6211,7 @@ vie
 viewer
 viewgroup
 vigenere
+vim
 vimode
 virole
 virsh
@@ -6377,7 +6373,6 @@ webdav
 webdeploy
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6413,7 +6408,6 @@ wem
 wemsdk
 what3words
 whatismyip
-whd
 where
 whfb
 whiteboard
