@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 23 June 2022 02:36:02 UTC
+Updated: Thursday, 23 June 2022 09:52:48 UTC
 
 ?:
 ??
@@ -203,7 +203,6 @@ agenda
 agent
 aggregates
 aggregation
-agile
 agility
 agm
 agnoster
@@ -496,6 +495,7 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
+aws-vault
 awscli
 awspricelist
 axapta
@@ -1007,7 +1007,6 @@ clixml
 clock
 clojure
 clone
-close-openfile
 cloud
 cloud_data_management
 cloud-backup
@@ -1710,7 +1709,6 @@ domain
 domains
 donothing
 dos
-dot
 dotenv
 dotfile
 dotfiles
@@ -1925,7 +1923,6 @@ epplus
 eprosima
 equality
 erb
-erp
 error
 error-log
 errorcode
@@ -1954,7 +1951,6 @@ eternalblue
 ether
 ethereum
 ethr
-ethz
 etl
 etl2pcapng
 etrade
@@ -1991,6 +1987,7 @@ evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -2340,7 +2337,6 @@ get-firmwaretype
 get-help
 get-history
 get-iislog
-get-openfile
 get-openfiles
 get-pass
 get-passivetrippoint
@@ -2397,6 +2393,7 @@ gobright
 godaddy
 goldengate
 goldsource
+goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2629,9 +2626,6 @@ hub
 hubot
 hubsite
 hubspot
-hubspotapi
-hubspotcrm
-hubspotps
 hudson
 hue
 humanizer
@@ -3075,8 +3069,12 @@ ldap
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leetabit
 leftjoin
@@ -3724,9 +3722,11 @@ nordtools
 normal
 norskale
 nosql
+note
 notebook
 notepad
 noteproperty
+notes
 notification
 notificationhubs
 notifications
@@ -4253,8 +4253,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4265,10 +4267,13 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4279,6 +4284,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
@@ -4586,7 +4592,6 @@ pwshfw
 pxedistributionpoint
 pyranja
 python
-python-for-dotnet
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -4656,6 +4661,7 @@ razzle
 rbac
 rbacmodel
 rbsu
+rcon
 rcs
 rcu
 rdb
@@ -4888,6 +4894,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -5057,6 +5064,7 @@ sdn
 search
 search-adminauditlog
 searchengine
+searching
 searchplace
 searchquery
 searchstring
@@ -5376,12 +5384,14 @@ soonragent
 sophos
 sort
 source
+source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 space
 spaces
 spacex
@@ -5523,6 +5533,7 @@ staytus
 stderr
 stdout
 steam
+steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5878,6 +5889,7 @@ trafficmanager
 trafficmarking
 train
 training
+training-course
 tram
 transact
 transaction
@@ -5903,7 +5915,6 @@ treesize
 treffynnon
 trein
 trello
-trellops
 trendmicro
 trevor
 trevorsullivan
@@ -5999,7 +6010,6 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
-ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -6011,7 +6021,6 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
-ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
@@ -6036,7 +6045,6 @@ ulid
 ulm
 um
 uml
-umn
 ums
 unattend
 unattendedfile
@@ -6128,6 +6136,7 @@ userworkstations
 usg
 usps
 utc
+utf-8
 utf-sig
 utf7
 utf8
@@ -6578,7 +6587,6 @@ wsapi
 wsl
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wtsapi32
