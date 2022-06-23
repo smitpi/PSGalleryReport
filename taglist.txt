@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 23 June 2022 09:52:48 UTC
+Updated: Thursday, 23 June 2022 17:52:33 UTC
 
 ?:
 ??
@@ -37,7 +37,6 @@ Updated: Thursday, 23 June 2022 09:52:48 UTC
 2019
 24-bit
 2fa
-300
 365
 36867
 3d
@@ -203,6 +202,7 @@ agenda
 agent
 aggregates
 aggregation
+agile
 agility
 agm
 agnoster
@@ -737,8 +737,6 @@ bpmn
 brainy
 branch
 brave
-brawlapi
-brawlstars
 bre
 breach
 break
@@ -878,7 +876,6 @@ certes
 certificate
 certificateauthority
 certificatechain
-certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -940,7 +937,9 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimi
+ciminstance
 cims
 cimsession
 cinegy
@@ -1007,6 +1006,7 @@ clixml
 clock
 clojure
 clone
+close-openfile
 cloud
 cloud_data_management
 cloud-backup
@@ -1709,6 +1709,7 @@ domain
 domains
 donothing
 dos
+dot
 dotenv
 dotfile
 dotfiles
@@ -1923,6 +1924,7 @@ epplus
 eprosima
 equality
 erb
+erp
 error
 error-log
 errorcode
@@ -1951,6 +1953,7 @@ eternalblue
 ether
 ethereum
 ethr
+ethz
 etl
 etl2pcapng
 etrade
@@ -1978,6 +1981,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2038,7 +2042,6 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
-exportcertificates
 exporter
 exportexcel
 exportteams
@@ -2337,6 +2340,7 @@ get-firmwaretype
 get-help
 get-history
 get-iislog
+get-openfile
 get-openfiles
 get-pass
 get-passivetrippoint
@@ -2471,7 +2475,6 @@ gzip
 ha
 haarlemsdagblad
 hack
-hacktoberfest
 hadoop
 hafr
 hailstone
@@ -2538,7 +2541,6 @@ helloworld
 helmet
 help
 helper
-helperfunctions
 helpers
 helpfile
 heml
@@ -2626,6 +2628,9 @@ hub
 hubot
 hubsite
 hubspot
+hubspotapi
+hubspotcrm
+hubspotps
 hudson
 hue
 humanizer
@@ -3297,7 +3302,6 @@ manifest
 manual
 map
 mapapi
-mappeddrives
 mapper24
 mapping
 maps
@@ -3663,7 +3667,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 networkdiscovery
-networkdrives
 networkfirewall
 networking
 networkinterfaces
@@ -3672,7 +3675,6 @@ networkpolicyserver
 networkscan
 networksecurity
 networksecuritygroup
-networkshares
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -3817,7 +3819,6 @@ office2016
 office2019
 office365
 officedev
-officegraph
 officemessageencryption
 offline
 offlinewimservicing
@@ -4239,7 +4240,6 @@ powercli
 powercligoodies
 powerdex
 powerforensics
-powergraph
 powermax
 powerplan
 powerplateform
@@ -4501,7 +4501,6 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
-pspath
 pspowerhour
 psprofiler
 psproject
@@ -4587,11 +4586,11 @@ pwned
 pwpush
 pwsh
 pwsh.fw
-pwshake
 pwshfw
 pxedistributionpoint
 pyranja
 python
+python-for-dotnet
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -5163,6 +5162,7 @@ servicebus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
+servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5205,7 +5205,6 @@ sfb
 sftp
 sfx
 sgw
-sha256
 shadow
 shadowcopy
 shadowcopybackups
@@ -5583,7 +5582,6 @@ sub
 sub-directory
 sub-menu
 subatomix
-subjectname
 sublimetext
 submission
 subnet
@@ -5608,7 +5606,6 @@ suitecrm
 sullivan
 summary
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -5915,6 +5912,7 @@ treesize
 treffynnon
 trein
 trello
+trellops
 trendmicro
 trevor
 trevorsullivan
@@ -6010,6 +6008,7 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
+ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -6021,6 +6020,7 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
+ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
@@ -6045,6 +6045,7 @@ ulid
 ulm
 um
 uml
+umn
 ums
 unattend
 unattendedfile
@@ -6271,7 +6272,6 @@ vms
 vmtovmhostrule
 vmtovmrule
 vmware
-vmware.vsphere
 vmwaredrs
 vmwcluster
 vmwdatacenter
@@ -6382,6 +6382,7 @@ webdav
 webdeploy
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6417,6 +6418,7 @@ wem
 wemsdk
 what3words
 whatismyip
+whd
 where
 whfb
 whiteboard
@@ -6564,7 +6566,6 @@ wpf
 wrap
 wrap-text
 wrapper
-wrapperfunctions
 wrc
 wrike
 write
@@ -6587,6 +6588,7 @@ wsapi
 wsl
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32

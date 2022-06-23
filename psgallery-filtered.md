@@ -5,13 +5,77 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [MfxDscResources](https://www.powershellgallery.com/Packages/MfxDscResources/1.0.1) | 1.0.1
+## [Rivet](https://www.powershellgallery.com/Packages/Rivet/0.13.0) | 0.13.0
 
-### Published: 06/23/2022 09:24:47 by stop
+### Published: 06/23/2022 16:41:43 by WebMD Health Services
+
+Rivet is a database migration/change management/versioning tool inspired by Ruby on Rails' Migrations. It creates and applies migration scripts for SQL Server databases. Migration scripts describe changes to make to your database, e.g. add a table, add a column, remove an index, etc. Migrations scripts should get added to your version control system so they can be packaged and deployed with your application's code.
+
+__Downloads__: 755 | __Repository__: http://get-rivet.org/
+
+## [PSparklines](https://www.powershellgallery.com/Packages/PSparklines/1.0.3) | 1.0.3
+
+### Published: 06/23/2022 16:17:28 by endowdly
+
+A very simple way to show text sparklines in the console
+
+__Downloads__: 21 | __Repository__: https://github.com/endowdly/PSparklines
+
+## [RemoteArchiveDSC](https://www.powershellgallery.com/Packages/RemoteArchiveDSC/1.0.2) | 1.0.2
+
+### Published: 06/23/2022 15:12:49 by stop
+
+DSC Resource allowing to expand a remote archive
+
+__Downloads__: 0 | __Repository__: 
+
+## [Devolutions.Hub](https://www.powershellgallery.com/Packages/Devolutions.Hub/2022.6.23) | 2022.6.23
+
+### Published: 06/23/2022 14:30:37 by Devolutions
+
+Devolutions Password Hub PowerShell Module
+
+__Downloads__: 459 | __Repository__: https://password.devolutions.net/
+
+## [MfxDscResources](https://www.powershellgallery.com/Packages/MfxDscResources/1.0.2) | 1.0.2
+
+### Published: 06/23/2022 14:12:32 by stop
 
 MfxDscResources contains resources used inside our company. We use psgallery because it is a pain to deploy the module using Azure automation (ie not working)
 
 __Downloads__: 0 | __Repository__: 
+
+## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.60.7) | 0.60.7
+
+### Published: 06/23/2022 14:03:04 by Thycotic Professional Services
+
+Interact with the Secret Server REST API
+
+__Downloads__: 14,383 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+
+## [EguibarIT](https://www.powershellgallery.com/Packages/EguibarIT/1.51.61) | 1.51.61
+
+### Published: 06/23/2022 13:52:26 by Vicente Rodriguez Eguibar
+
+Functions used to implement the Delegation Model with Tiers on the given Active Directory
+
+__Downloads__: 122 | __Repository__: https://github.com/vreguibar/EguibarIT
+
+## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/0.2.0) | 0.2.0
+
+### Published: 06/23/2022 13:08:33 by Radi Atanassov
+
+A set of PowerShell cmdlets for administering Quantum DMS.
+
+__Downloads__: 11 | __Repository__: 
+
+## [Juriba.Dashworks](https://www.powershellgallery.com/Packages/Juriba.Dashworks/0.0.28.0) | 0.0.28.0
+
+### Published: 06/23/2022 10:29:00 by Juriba
+
+This module is currently under active development and is not intended for public use.
+
+__Downloads__: 171 | __Repository__: https://github.com/juribalimited/powershell-module-dashworks
 
 ## [ARAH](https://www.powershellgallery.com/Packages/ARAH/1.3.3) | 1.3.3
 
@@ -99,7 +163,7 @@ __Downloads__: 1 | __Repository__:
 
 Provides function to access OneDrive personal and 4 business with PowerShell. You can list directories, get metadata of files and folder, create folders, delete folders and file and for sure: Upload and download files. This module uses an authentication describes here: https://github.com/MarcelMeurer/PowerShellGallery-OneDrive At this time there are some functions missing, like rename files. Please write me a mail if you find some errors or if you have a request.
 
-__Downloads__: 29,399 | __Repository__: 
+__Downloads__: 29,400 | __Repository__: 
 
 ## [Az.Adm](https://www.powershellgallery.com/Packages/Az.Adm/1.0.5) | 1.0.5
 
@@ -1450,14 +1514,6 @@ Module containing DSC resources for deployment and configuration of Windows Serv
 
 __Downloads__: 2,433 | __Repository__: https://github.com/dsccommunity/xFailOverCluster
 
-## [PSparklines](https://www.powershellgallery.com/Packages/PSparklines/1.0.2) | 1.0.2
-
-### Published: 06/19/2022 15:33:27 by endowdly
-
-A very simple way to show text sparklines in the console
-
-__Downloads__: 21 | __Repository__: 
-
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.13.0) | 2.13.0
 
 ### Published: 06/19/2022 15:04:25 by Reuben Miller
@@ -1766,14 +1822,6 @@ Azure Virtual Desktop Management Framework
 
 __Downloads__: 353 | __Repository__: 
 
-## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/0.1.1) | 0.1.1
-
-### Published: 06/16/2022 10:18:27 by Radi Atanassov
-
-A set of PowerShell cmdlets for administering Quantum DMS.
-
-__Downloads__: 11 | __Repository__: 
-
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.0.72) | 5.0.72
 
 ### Published: 06/15/2022 21:29:09 by David Becher
@@ -1996,6 +2044,14 @@ Devolutions Gateway PowerShell Module
 
 __Downloads__: 634 | __Repository__: https://github.com/Devolutions/DevolutionsGateway-ps
 
+## [UMN-AutoPackager](https://www.powershellgallery.com/Packages/UMN-AutoPackager/1.0.45) | 1.0.45
+
+### Published: 06/14/2022 20:45:05 by Jeff Bolduan Matt Thoen Greg Slavik
+
+Auto packager to detect newer version and build applications in MEMCM and Intune.
+
+__Downloads__: 108 | __Repository__: https://github.com/umn-microsoft-automation/UMN-AutoPackager/
+
 ## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.11) | 1.2.11
 
 ### Published: 06/14/2022 20:23:54 by FastTrack In-Product Experiences Team
@@ -2012,60 +2068,4 @@ Collection of Cmdlets that run Azure Dev Ops Rest API calls. Provides access to 
 
 __Downloads__: 171 | __Repository__: 
 
-## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2022.6.0) | 2022.6.0
-
-### Published: 06/14/2022 13:26:54 by Ironman Software LLC
-
-PowerShell script packaging, console-based editor, profiling, installer creation, WPF, TUI and Windows Forms design, and desktop automation.
-
-__Downloads__: 18,415 | __Repository__: 
-
-## [ipmgmt](https://www.powershellgallery.com/Packages/ipmgmt/0.1.18) | 0.1.18
-
-### Published: 06/14/2022 07:21:08 by Andrey Vernigora
-
-Powershell module to perform IP Range calculations
-
-__Downloads__: 424 | __Repository__: 
-
-## [RestConnect](https://www.powershellgallery.com/Packages/RestConnect/1.0.10) | 1.0.10
-
-### Published: 06/14/2022 06:43:08 by Friedrich Weinmann
-
-Authentication and request execution for API clients generated from AutoRest
-
-__Downloads__: 122 | __Repository__: https://github.com/FriedrichWeinmann/RestConnect
-
-## [ReportRunner](https://www.powershellgallery.com/Packages/ReportRunner/0.7.0) | 0.7.0
-
-### Published: 06/14/2022 05:44:38 by Jesse Reichman
-
-ReportRunner
-
-__Downloads__: 81 | __Repository__: https://github.com/archmachina/ps-reportrunner/
-
-## [posh-Brawl](https://www.powershellgallery.com/Packages/posh-Brawl/0.3.0) | 0.3.0
-
-### Published: 06/14/2022 04:53:53 by dotnVO
-
-posh-Brawl
-
-__Downloads__: 6 | __Repository__: 
-
-## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.11.2) | 0.11.2
-
-### Published: 06/13/2022 22:25:13 by Ove Lartelius
-
-Module contain help functions for the Azure Portal.
-
-__Downloads__: 372 | __Repository__: 
-
-## [LearnPowerShell](https://www.powershellgallery.com/Packages/LearnPowerShell/0.7.0) | 0.7.0
-
-### Published: 06/13/2022 16:46:38 by Jake Morrison
-
-Returns episode information from the Learn PowerShell series. Learn PowerShell in an operationally focused blog and video series. This module contains information about each episode.
-
-__Downloads__: 4 | __Repository__: https://github.com/techthoughts2/Learn-PowerShell-Code-Examples
-
-*Updated: Thursday, 23 June 2022 09:52:37 UTC*
+*Updated: Thursday, 23 June 2022 17:52:23 UTC*
