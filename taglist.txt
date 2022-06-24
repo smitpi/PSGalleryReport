@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 24 June 2022 02:36:31 UTC
+Updated: Friday, 24 June 2022 09:52:34 UTC
 
 ?:
 ??
@@ -65,6 +65,7 @@ aadsc
 aadsecurity
 aadsts
 aam
+aas
 abc
 abc_testing
 abe
@@ -262,6 +263,7 @@ anaconda
 analysis
 analysisservices
 analyst
+analyth
 analytics
 analyze
 analyzer
@@ -806,6 +808,7 @@ callqueue
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 canonical
@@ -938,7 +941,6 @@ cifv3
 cil
 cim
 cim_computersystem
-cimi
 ciminstance
 cims
 cimsession
@@ -967,6 +969,7 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
+cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1005,6 +1008,7 @@ clixml
 clock
 clojure
 clone
+close-openfile
 cloud
 cloud_data_management
 cloud-backup
@@ -1975,6 +1979,7 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
+eventviewer
 eventwatch
 evergreen
 evernote
@@ -2338,6 +2343,7 @@ get-firmwaretype
 get-help
 get-history
 get-iislog
+get-openfile
 get-openfiles
 get-pass
 get-passivetrippoint
@@ -2379,7 +2385,6 @@ gitignore
 gitlab
 gitops
 glob
-globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2472,6 +2477,7 @@ gzip
 ha
 haarlemsdagblad
 hack
+hacktoberfest
 hadoop
 hafr
 hailstone
@@ -2713,22 +2719,12 @@ ilocmdlets
 im
 image
 image-converter
-image-creation
-image-generation
-image-process
-image-validation
 imagebuilder
-imagecreate
-imagecreation
-imagegeneration
 imageoftheday
-imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
-imagevalidate
-imagevalidation
 imagga
 imaging
 imap
@@ -2773,7 +2769,6 @@ initialization
 initials-avatar
 initiator
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -3302,6 +3297,7 @@ map
 mapapi
 mappeddrives
 mapper24
+mapping
 maps
 mapsapi
 mariadb
@@ -3441,6 +3437,7 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
+microsoftstore
 microsoftteams
 microsoftword
 middleware
@@ -3607,7 +3604,6 @@ mysql-database
 mytest
 n-central
 nac
-nagios
 name
 name-of-dogs
 namedpipe
@@ -3638,6 +3634,7 @@ nerdymishka
 nessus
 nested
 net
+net4.8
 netadapter
 netapi32
 netapp
@@ -3829,6 +3826,7 @@ oidc
 ok
 okta
 old
+ole
 oledb
 omaha
 ome
@@ -3957,7 +3955,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 output
@@ -4011,6 +4008,7 @@ parameterinfo
 parameters
 parclient
 pardot
+parititions
 parool
 parquet
 parse
@@ -4291,7 +4289,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -4670,7 +4667,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -5162,6 +5158,7 @@ servicebus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
+servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5613,7 +5610,6 @@ supermarket
 support
 suppress
 supress-reboot
-surround
 survey
 surveymonkey
 sushi
@@ -5738,6 +5734,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+techsmith
 tel
 telegram
 telegram-bot
@@ -5907,11 +5904,13 @@ transmission
 transparency
 transpilation
 trap
+trec
 tree
 treesize
 treffynnon
 trein
 trello
+trellops
 trendmicro
 trevor
 trevorsullivan
@@ -6220,12 +6219,12 @@ viewer
 viewgroup
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
 virtualappliance
 virtualbox
+virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
