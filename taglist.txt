@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 24 June 2022 09:52:34 UTC
+Updated: Friday, 24 June 2022 17:53:45 UTC
 
 ?:
 ??
@@ -43,6 +43,7 @@ Updated: Friday, 24 June 2022 09:52:34 UTC
 3d
 3dprinting
 3par
+50
 64
 650
 650flb
@@ -941,6 +942,7 @@ cifv3
 cil
 cim
 cim_computersystem
+cimi
 ciminstance
 cims
 cimsession
@@ -1249,7 +1251,6 @@ core
 coreposh
 corona
 corporate
-cortex
 cos
 cosmos
 cosmosdb
@@ -1889,7 +1890,6 @@ endpoint
 endpoints
 energy
 engine
-engineevent
 english
 enhancement
 enrichers
@@ -2144,7 +2144,6 @@ filesystementry-matching
 filesystementrymatcher
 filesystemrights
 filesystemsecurity
-filesystemwatcher
 filetransfer
 filetype
 filewrite
@@ -2385,6 +2384,7 @@ gitignore
 gitlab
 gitops
 glob
+globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2477,7 +2477,6 @@ gzip
 ha
 haarlemsdagblad
 hack
-hacktoberfest
 hadoop
 hafr
 hailstone
@@ -2719,12 +2718,22 @@ ilocmdlets
 im
 image
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
+imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imaging
 imap
@@ -2769,6 +2778,7 @@ initialization
 initials-avatar
 initiator
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3103,8 +3113,6 @@ licenses
 licensing
 light
 lights
-lime
-limesurvey
 limit-job
 limits
 lina
@@ -3604,6 +3612,7 @@ mysql-database
 mytest
 n-central
 nac
+nagios
 name
 name-of-dogs
 namedpipe
@@ -3955,6 +3964,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -4289,6 +4299,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -4667,6 +4678,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -4873,7 +4885,6 @@ robust
 roca
 rock
 rocket
-rocketcyber
 role
 roles
 rollingfile
@@ -5283,8 +5294,6 @@ size
 skatterbrainz
 skattertools
 skeleton-loader
-skia
-skiasharp
 skolnilogin
 sktools
 sku
@@ -5610,7 +5619,7 @@ supermarket
 support
 suppress
 supress-reboot
-survey
+surround
 surveymonkey
 sushi
 suspensive
@@ -6037,6 +6046,7 @@ uefi
 ui
 ui/ux
 ui7
+uk
 ul
 ulid
 ulm
@@ -6219,6 +6229,7 @@ viewer
 viewgroup
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -6532,7 +6543,6 @@ woolworths
 woolworthsrewards
 word
 word-wrap
-wordcloud
 wordlist
 wordpress
 wordwrap
@@ -6614,7 +6624,6 @@ xaf
 xbase
 xbox
 xclarity
-xdr
 xdschelper
 xdscresources
 xdt
