@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 24 June 2022 17:53:45 UTC
+Updated: Saturday, 25 June 2022 02:38:42 UTC
 
 ?:
 ??
@@ -388,7 +388,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asdatabase
 asigra
 asm
 asn
@@ -538,7 +537,6 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
-azure-ssis
 azureactivedirectory
 azuread
 azureadconnect
@@ -713,7 +711,6 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -788,7 +785,6 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
-bydesign
 byexample
 bynarypsmodule
 byte
@@ -1251,6 +1247,7 @@ core
 coreposh
 corona
 corporate
+cortex
 cos
 cosmos
 cosmosdb
@@ -1890,6 +1887,7 @@ endpoint
 endpoints
 energy
 engine
+engineevent
 english
 enhancement
 enrichers
@@ -1993,7 +1991,6 @@ evtx
 ews
 exact
 example
-examples
 excel
 exception
 exceptionless
@@ -2144,6 +2141,7 @@ filesystementry-matching
 filesystementrymatcher
 filesystemrights
 filesystemsecurity
+filesystemwatcher
 filetransfer
 filetype
 filewrite
@@ -2838,7 +2836,6 @@ investment
 investments
 invocation
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -2895,7 +2892,6 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
-ispac
 isprime
 issues
 isvalidemail
@@ -3077,12 +3073,8 @@ ldap
 league
 lean
 learn
-learn-powershell
-learn-powershell-series
 learning
-learning-powershell
 learningpowershell
-learnpowershell
 lease
 leetabit
 leftjoin
@@ -3113,6 +3105,8 @@ licenses
 licensing
 light
 lights
+lime
+limesurvey
 limit-job
 limits
 lina
@@ -3493,7 +3487,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 money
@@ -3700,7 +3693,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-ngen
 ngfw
 nhl
 nic
@@ -3741,7 +3733,6 @@ notify-send
 nova
 npgsql
 npm
-npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4259,10 +4250,8 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
-powershell-course
 powershell-credentials
 powershell-dsc
-powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4273,13 +4262,10 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
-powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
-powershellcourse
-powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4290,7 +4276,6 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
-powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
@@ -4505,7 +4490,6 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
-psngenposh
 psobject
 pspath
 pspowerhour
@@ -4885,6 +4869,7 @@ robust
 roca
 rock
 rocket
+rocketcyber
 role
 roles
 rollingfile
@@ -5169,7 +5154,6 @@ servicebus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
-servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5294,6 +5278,8 @@ size
 skatterbrainz
 skattertools
 skeleton-loader
+skia
+skiasharp
 skolnilogin
 sktools
 sku
@@ -5620,6 +5606,7 @@ support
 suppress
 supress-reboot
 surround
+survey
 surveymonkey
 sushi
 suspensive
@@ -5802,7 +5789,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textwrapping
 tfe
@@ -5893,7 +5879,6 @@ trafficmanager
 trafficmarking
 train
 training
-training-course
 tram
 transact
 transaction
@@ -6543,6 +6528,7 @@ woolworths
 woolworthsrewards
 word
 word-wrap
+wordcloud
 wordlist
 wordpress
 wordwrap
@@ -6624,6 +6610,7 @@ xaf
 xbase
 xbox
 xclarity
+xdr
 xdschelper
 xdscresources
 xdt
@@ -6654,7 +6641,6 @@ xpertdoc
 xpo
 xprotect
 xrm
-xsa
 xtremio
 xtrude
 xunit
