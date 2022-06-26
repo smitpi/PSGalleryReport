@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 26 June 2022 02:40:37 UTC
+Updated: Sunday, 26 June 2022 09:52:29 UTC
 
 ?:
 ??
@@ -174,7 +174,6 @@ ado.net
 adobe
 adobeflash
 adoxio
-adp
 adr
 ads
 adsi
@@ -227,7 +226,6 @@ albums
 alero
 alert
 alerting
-alertmail
 alertmanagement
 alerts
 alertsmanagement
@@ -442,6 +440,7 @@ auditpolicy
 audits
 aumid
 aut
+auth0
 authenticate
 authentication
 authenticationcertificate
@@ -938,6 +937,7 @@ cicd
 cidr
 cif
 cifv3
+cil
 cim
 cim_computersystem
 cimi
@@ -1277,6 +1277,7 @@ cqd
 cqdpowershell
 cqhttp
 crack psmodule
+crash
 crayon
 crc
 crc32
@@ -1293,6 +1294,7 @@ credential
 credential-file
 credential-files
 credential-manager
+credentiallocker
 credentialmanagement
 credentialmanager
 credentialprovider
@@ -1356,7 +1358,6 @@ current
 custom
 customchecks
 customer
-customerengagement
 customers
 customevents
 custominformationservices
@@ -1383,7 +1384,6 @@ cylance
 cypher
 cyrillic
 d365
-d365ce
 d365f&o
 d365fo
 d365lbd
@@ -1604,6 +1604,7 @@ director
 directories
 directory
 directory psedition_core psedition_desktop
+directory-transform
 directorymarks
 directoryname
 directorysearcher
@@ -1802,9 +1803,7 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
-dynamics365ce
 dynamics365fo
-dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2096,6 +2095,7 @@ feed
 fetch
 ffmpeg
 fhirservice
+fiche
 fiddler
 fido
 fieldglass
@@ -2116,6 +2116,7 @@ file-name-extension-association
 file-server
 file-share
 file-system
+file-transform
 file-type
 file-type-association
 fileencryption
@@ -2161,7 +2162,6 @@ find
 find-path
 findlocation
 findplace
-findproxyforurl
 firebird
 firefox
 firewall
@@ -2571,6 +2571,7 @@ history
 hitrust
 hive
 hivehome
+hjson
 hl7
 hlds
 hls
@@ -2707,9 +2708,9 @@ iis10
 iis8
 iisadministration
 ikev2
+il
 illinois
 ilo
-ilo5
 ilocmdlets
 im
 image
@@ -2921,6 +2922,7 @@ javaversion
 jboss
 jdbc
 jdedwards
+jdt
 jea
 jenkins
 jetbrains
@@ -2943,6 +2945,7 @@ js7
 jsm
 jsm.insight
 json
+json-transform
 json+
 jsonplus
 jsonwebkey
@@ -2974,7 +2977,6 @@ kb
 kbarticle
 kdbx
 keenetic
-keepachangelog
 keepass
 keepasslib
 keeper
@@ -3547,6 +3549,7 @@ msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
+msil
 msix
 mslab
 msmq
@@ -3976,10 +3979,10 @@ p2000
 p2s
 pa1reg
 paas
-pac
 pack
 package
 package-management
+package-transform
 packagemanagement
 packagemanager
 packages
@@ -4388,7 +4391,6 @@ protocol
 provance
 provider
 providerhub
-provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -5300,7 +5302,6 @@ sky
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -5329,7 +5330,6 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
-smtpsecure
 snap
 snapchat
 snapping
@@ -5764,6 +5764,7 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
+termbin
 terminal
 terminal-services
 terminal.gui
@@ -5900,6 +5901,7 @@ transcode
 transcript
 transcripts
 transform
+transformation
 transforms
 transitionmanager
 translate
@@ -5913,7 +5915,6 @@ trap
 trec
 tree
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -6009,7 +6010,6 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
-ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -6420,6 +6420,7 @@ weixin
 well-known
 wem
 wemsdk
+wer
 what3words
 whatismyip
 whd
@@ -6624,6 +6625,7 @@ xclarity
 xdr
 xdschelper
 xdscresources
+xdt
 xel
 xenapp
 xendeskop
@@ -6639,6 +6641,7 @@ xliff
 xmc
 xml
 xml-rpc
+xml-transform
 xmla
 xmlrpc
 xmlutils
@@ -6678,6 +6681,7 @@ zendesk
 zerto
 zigbee
 zip
+zipfile-transform
 zoho
 zone
 zoom
