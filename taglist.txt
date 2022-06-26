@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 25 June 2022 17:52:41 UTC
+Updated: Sunday, 26 June 2022 02:40:37 UTC
 
 ?:
 ??
@@ -203,6 +203,7 @@ agenda
 agent
 aggregates
 aggregation
+agile
 agility
 agm
 agnoster
@@ -363,6 +364,7 @@ arcus
 area
 argument
 argumentcompleter
+arguments
 arm
 arm-json
 arm-templates
@@ -386,6 +388,7 @@ asbuiltreport
 asc
 ascii
 ascii85
+asdatabase
 asigra
 asm
 asn
@@ -439,7 +442,6 @@ auditpolicy
 audits
 aumid
 aut
-auth0
 authenticate
 authentication
 authenticationcertificate
@@ -535,6 +537,7 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
+azure-ssis
 azureactivedirectory
 azuread
 azureadconnect
@@ -935,7 +938,6 @@ cicd
 cidr
 cif
 cifv3
-cil
 cim
 cim_computersystem
 cimi
@@ -1291,7 +1293,6 @@ credential
 credential-file
 credential-files
 credential-manager
-credentiallocker
 credentialmanagement
 credentialmanager
 credentialprovider
@@ -1365,6 +1366,7 @@ customization
 customlocation
 customproviders
 cvad
+cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1602,7 +1604,6 @@ director
 directories
 directory
 directory psedition_core psedition_desktop
-directory-transform
 directorymarks
 directoryname
 directorysearcher
@@ -2032,6 +2033,7 @@ experiments
 expired
 expiring
 expiry
+exploit
 exploration
 explorer
 exponentiation
@@ -2094,7 +2096,6 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fieldglass
@@ -2115,7 +2116,6 @@ file-name-extension-association
 file-server
 file-share
 file-system
-file-transform
 file-type
 file-type-association
 fileencryption
@@ -2205,6 +2205,7 @@ fonts
 foo
 football
 for
+force
 forcedelete
 foreach
 forensic
@@ -2231,6 +2232,7 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
+foudil
 fox
 foxpro
 fqdn
@@ -2256,6 +2258,7 @@ ftps
 fudge
 fudgepop
 fujitsu
+full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2538,6 +2541,7 @@ helloworld
 helmet
 help
 helper
+helperfunctions
 helpers
 helpfile
 heml
@@ -2567,7 +2571,6 @@ history
 hitrust
 hive
 hivehome
-hjson
 hl7
 hlds
 hls
@@ -2704,7 +2707,6 @@ iis10
 iis8
 iisadministration
 ikev2
-il
 illinois
 ilo
 ilo5
@@ -2775,6 +2777,7 @@ innerjoin
 innertext
 input
 inputbox
+inputobject
 insert
 insiderthreat
 insight
@@ -2888,6 +2891,7 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
+ispac
 isprime
 issues
 isvalidemail
@@ -2897,6 +2901,7 @@ iterate
 iteration
 itg
 itglue
+itop
 itsm
 itstore
 ivanti
@@ -2916,7 +2921,6 @@ javaversion
 jboss
 jdbc
 jdedwards
-jdt
 jea
 jenkins
 jetbrains
@@ -2939,7 +2943,6 @@ js7
 jsm
 jsm.insight
 json
-json-transform
 json+
 jsonplus
 jsonwebkey
@@ -3086,6 +3089,7 @@ leiningnen
 lenel
 length
 lenovo
+lesspass
 letsencrypt
 lf
 lgpo
@@ -3460,6 +3464,7 @@ mipsdk
 miration-step
 mirror
 miscellaneous
+mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -3542,7 +3547,6 @@ msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
-msil
 msix
 mslab
 msmq
@@ -3643,6 +3647,7 @@ netapp.ontap
 netapp.ontap_9.10.1
 netappfiles
 netbox
+netcease
 netcore
 netfirewallrule
 netherlands
@@ -3694,6 +3699,7 @@ ngen
 ngfw
 nhl
 nic
+nightmare
 ninite
 ninja
 ninjaone
@@ -3974,7 +3980,6 @@ pac
 pack
 package
 package-management
-package-transform
 packagemanagement
 packagemanager
 packages
@@ -4324,6 +4329,7 @@ print
 printer
 printershare
 printing
+printnightmare
 printserver
 prism
 prism_element
@@ -4732,6 +4738,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register
 register-argumentcompleter
 registration
 registry
@@ -4920,6 +4927,7 @@ runas
 runbook
 runbooks
 runbookstudio
+rundeck
 runner
 runspace
 runspacepool
@@ -5085,6 +5093,8 @@ securesphere
 securestring
 security
 security-policy
+security-txt
+security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -5095,6 +5105,7 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
+securitytxt
 seek
 seekatar
 seeshell
@@ -5419,6 +5430,7 @@ splatting
 split
 splunk
 spo
+spooler
 sport
 sports
 sports-tracker
@@ -5623,6 +5635,7 @@ swis
 switch
 sxs
 sybase
+sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5751,7 +5764,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-services
 terminal.gui
@@ -5888,7 +5900,6 @@ transcode
 transcript
 transcripts
 transform
-transformation
 transforms
 transitionmanager
 translate
@@ -5982,8 +5993,10 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
+ud-datepicker
 ud-field
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -6323,7 +6336,6 @@ vxrail
 w32time
 w3svc
 w3w
-waa
 waas
 wac
 waf
@@ -6558,6 +6570,7 @@ wpf
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
@@ -6611,7 +6624,6 @@ xclarity
 xdr
 xdschelper
 xdscresources
-xdt
 xel
 xenapp
 xendeskop
@@ -6627,7 +6639,6 @@ xliff
 xmc
 xml
 xml-rpc
-xml-transform
 xmla
 xmlrpc
 xmlutils
@@ -6667,7 +6678,6 @@ zendesk
 zerto
 zigbee
 zip
-zipfile-transform
 zoho
 zone
 zoom
