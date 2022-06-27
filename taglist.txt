@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 26 June 2022 17:52:45 UTC
+Updated: Monday, 27 June 2022 02:38:02 UTC
 
 ?:
 ??
@@ -174,6 +174,7 @@ ado.net
 adobe
 adobeflash
 adoxio
+adp
 adr
 ads
 adsi
@@ -230,6 +231,7 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -552,6 +554,7 @@ azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
 azuredataexplorer
+azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
@@ -741,6 +744,7 @@ bre
 breach
 break
 breakpoint
+brew
 brickset
 bridge
 brightbooking
@@ -2583,6 +2587,7 @@ hockey
 hol
 holiday
 home_automation
+homebrew
 homelandsecurity
 homeschooling
 hon
@@ -2672,10 +2677,12 @@ ibmc
 ibmhttpserver
 icinga
 icinga2
+icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
+icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -2877,6 +2884,7 @@ ipp
 iprange
 ipv4
 ipv6
+ipynb
 ir
 irc
 irkit
@@ -2961,6 +2969,7 @@ jumpcloud
 jumpstart
 junction
 junctions
+jupyter
 jupytor
 justenoughadministration
 jwk
@@ -2978,6 +2987,7 @@ kb
 kbarticle
 kdbx
 keenetic
+keepachangelog
 keepass
 keepasslib
 keeper
@@ -3292,7 +3302,6 @@ managedserviceproviders
 managedservices
 manageengine
 management
-managementagent
 managementdashboard
 managementgroups
 managementpoint
@@ -3568,6 +3577,7 @@ mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
+mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -3966,6 +3976,7 @@ outertext
 outline
 outlook
 output
+output-to-image
 outsystems
 ovf
 ovgd
@@ -4649,6 +4660,7 @@ random
 random-date
 randompassword
 randomuser
+randomusers
 ras
 raspberry-pi
 raspberrypi
@@ -5046,6 +5058,7 @@ script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
+scriptbook
 scriptcop
 scriptcreation
 scriptcs
@@ -5785,6 +5798,7 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
+testaccount
 testautomation
 testing
 testlab
@@ -5796,6 +5810,7 @@ testtag2
 testtool
 testusers
 text
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -6025,6 +6040,7 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
+ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
