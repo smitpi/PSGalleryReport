@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 27 June 2022 09:52:31 UTC
+Updated: Monday, 27 June 2022 17:52:45 UTC
 
 ?:
 ??
@@ -33,7 +33,6 @@ Updated: Monday, 27 June 2022 09:52:31 UTC
 2010
 2013
 2016
-2018
 2019
 24-bit
 2fa
@@ -1620,6 +1619,7 @@ dirkjan
 dirsync
 disa
 disable-psremoting
+disablefilesyncngsc
 disasm
 disconnect
 discord
@@ -2064,6 +2064,7 @@ external
 externalip
 extract
 extractor
+extreme-networks
 eztheme
 f
 f#
@@ -2100,11 +2101,9 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fieldglass
-fifa
 figlet
 file
 file-association
@@ -2209,7 +2208,6 @@ folders
 font
 fonts
 foo
-football
 for
 force
 forcedelete
@@ -2482,7 +2480,6 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -2601,6 +2598,8 @@ hosts
 hosts-file
 hostsfile
 hot-water
+hotkey
+hotkeys
 howto
 hp
 hpc
@@ -2632,6 +2631,7 @@ huawei
 huawei-ibmc-cmdlets
 hub
 hubot
+hubsite
 hubspot
 hubspotapi
 hubspotcrm
@@ -3358,7 +3358,6 @@ md5_v2-b25d7fe7f5fab57d22955e7caf428037
 md5sum
 mdatp
 mdb
-mdbc
 mde
 mdm
 mdop
@@ -3704,6 +3703,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+ngen
 ngfw
 nhl
 nic
@@ -3829,6 +3829,7 @@ officegraph
 officemessageencryption
 offline
 offlinewimservicing
+ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -3907,7 +3908,6 @@ operationalinsights
 operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
-operationvalidation
 operatoraccesscontrol
 operators
 opml
@@ -3969,6 +3969,7 @@ outertext
 outline
 outlook
 output
+output-to-image
 outsystems
 ovf
 ovgd
@@ -4255,7 +4256,6 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
-powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
@@ -4505,6 +4505,7 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
+psngenposh
 psobject
 pspath
 pspowerhour
@@ -4940,7 +4941,6 @@ runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
-russia
 rust
 rust-lang
 ryanairps
@@ -5226,6 +5226,7 @@ share-stat
 shared
 sharefile
 sharepoint
+sharepoint_online
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -5280,6 +5281,7 @@ sinks
 sintez
 sintez.module.rds
 site
+site_navigation
 sitecollection
 siteconfiguration
 sitecore
@@ -5355,7 +5357,6 @@ sntp
 snugglepup
 soap
 soc
-soccer
 social
 social-media
 socialmedia
@@ -5373,6 +5374,7 @@ solarigate
 solarized
 solarwinds
 solr
+soltra
 solution
 solutions
 sonarcloud
@@ -5766,7 +5768,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-services
 terminal.gui
@@ -5798,10 +5799,12 @@ testtag2
 testtool
 testusers
 text
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textwrapping
 tfe
@@ -6566,7 +6569,6 @@ workspaceone
 workspaces
 workstation
 world
-worldcup
 worryfreebusinesssecurity
 wow
 wpad
@@ -6641,6 +6643,7 @@ xi
 xiaomi
 xkcd
 xliff
+xmc
 xml
 xml-rpc
 xml-transform
