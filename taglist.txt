@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 27 June 2022 02:38:02 UTC
+Updated: Monday, 27 June 2022 09:52:31 UTC
 
 ?:
 ??
@@ -1620,7 +1620,6 @@ dirkjan
 dirsync
 disa
 disable-psremoting
-disablefilesyncngsc
 disasm
 disconnect
 discord
@@ -2065,7 +2064,6 @@ external
 externalip
 extract
 extractor
-extreme-networks
 eztheme
 f
 f#
@@ -2603,8 +2601,6 @@ hosts
 hosts-file
 hostsfile
 hot-water
-hotkey
-hotkeys
 howto
 hp
 hpc
@@ -2636,7 +2632,6 @@ huawei
 huawei-ibmc-cmdlets
 hub
 hubot
-hubsite
 hubspot
 hubspotapi
 hubspotcrm
@@ -3302,6 +3297,7 @@ managedserviceproviders
 managedservices
 manageengine
 management
+managementagent
 managementdashboard
 managementgroups
 managementpoint
@@ -3708,7 +3704,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-ngen
 ngfw
 nhl
 nic
@@ -3771,7 +3766,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 null-coalescing
 number
 numlock
@@ -3835,7 +3829,6 @@ officegraph
 officemessageencryption
 offline
 offlinewimservicing
-ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -3976,7 +3969,6 @@ outertext
 outline
 outlook
 output
-output-to-image
 outsystems
 ovf
 ovgd
@@ -4513,7 +4505,6 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
-psngenposh
 psobject
 pspath
 pspowerhour
@@ -5235,7 +5226,6 @@ share-stat
 shared
 sharefile
 sharepoint
-sharepoint_online
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -5290,7 +5280,6 @@ sinks
 sintez
 sintez.module.rds
 site
-site_navigation
 sitecollection
 siteconfiguration
 sitecore
@@ -5384,7 +5373,6 @@ solarigate
 solarized
 solarwinds
 solr
-soltra
 solution
 solutions
 sonarcloud
@@ -5810,12 +5798,10 @@ testtag2
 testtool
 testusers
 text
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textwrapping
 tfe
@@ -6655,7 +6641,6 @@ xi
 xiaomi
 xkcd
 xliff
-xmc
 xml
 xml-rpc
 xml-transform
