@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 28 June 2022 02:38:01 UTC
+Updated: Tuesday, 28 June 2022 09:52:43 UTC
 
 ?:
 ??
@@ -364,7 +364,6 @@ arcus
 area
 argument
 argumentcompleter
-arguments
 arm
 arm-json
 arm-templates
@@ -675,7 +674,6 @@ bingmap
 bingmaps
 binomial
 bios
-bios_settings
 bios-settings
 bit
 bitbucket
@@ -1257,6 +1255,7 @@ cos
 cosmos
 cosmosdb
 cost
+costoptimization
 couchbase
 couchdb
 couchpotato
@@ -1714,7 +1713,6 @@ domain
 domains
 donothing
 dos
-dot
 dotenv
 dotfile
 dotfiles
@@ -2064,7 +2062,6 @@ external
 externalip
 extract
 extractor
-extreme-networks
 eztheme
 f
 f#
@@ -2212,7 +2209,6 @@ fonts
 foo
 football
 for
-force
 forcedelete
 foreach
 forensic
@@ -2265,7 +2261,6 @@ ftps
 fudge
 fudgepop
 fujitsu
-full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2787,7 +2782,6 @@ innerjoin
 innertext
 input
 inputbox
-inputobject
 insert
 insiderthreat
 insight
@@ -2801,7 +2795,6 @@ install-module
 install-windowsimage
 installation
 installationmanager
-installedapplications
 installer
 installers
 installwindows
@@ -2896,7 +2889,6 @@ iselevated
 isesteroids
 ish
 ishexstring
-ism
 isnumeric
 iso
 iso-3166-1
@@ -2915,7 +2907,6 @@ itop
 itsm
 itstore
 ivanti
-ivantips
 ivb
 ivdc
 iwi
@@ -3386,6 +3377,7 @@ megabyte
 meltdown
 mem
 member
+members
 membership
 memcm
 memory
@@ -3770,7 +3762,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 null-coalescing
 number
 numlock
@@ -4094,6 +4085,7 @@ pentia
 perforce
 performance
 performance-counters
+performancemonitoring
 permission
 permissions
 permutations
@@ -4163,6 +4155,7 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plugin
 plugins
@@ -4289,6 +4282,7 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4871,6 +4865,7 @@ ribbon
 ribcl
 rightjoin
 rights
+rightsizing
 ripe
 risk
 riskiq
@@ -4982,7 +4977,6 @@ sapstartstopazure
 sarcasm
 sarif
 sasdatasets
-sasxpt
 satirical
 save
 savedcreds
@@ -5198,7 +5192,6 @@ session
 sessionize
 sessions
 set
-set_bios
 set-alias
 set-githubsecrets
 set-location
@@ -5208,7 +5201,6 @@ set-psbreakpoint
 set-psenv
 set-randompass
 set-type
-setbios
 setting
 settings
 setup
@@ -5433,7 +5425,6 @@ speedtest
 speedtester
 spf
 spi
-spinnaker
 splash
 splat
 splatting
@@ -5723,6 +5714,7 @@ tanzu
 tar
 target
 task
+task-runner
 taskbar
 tasker
 taskgroup
@@ -5971,7 +5963,6 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
-twitter-timeline
 twitter-tweet
 txt
 type
@@ -6020,7 +6011,6 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
-ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -6036,7 +6026,6 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -6152,7 +6141,6 @@ userworkstations
 usg
 usps
 utc
-utf-8
 utf-sig
 utf7
 utf8
@@ -6253,6 +6241,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6315,7 +6304,6 @@ vps
 vra
 vrealize
 vro
-vrops
 vrtu
 vs
 vs-shell
@@ -6397,7 +6385,6 @@ webdav
 webdeploy
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6434,7 +6421,6 @@ wemsdk
 wer
 what3words
 whatismyip
-whd
 where
 whfb
 whiteboard
@@ -6456,7 +6442,6 @@ win-ps2exe
 win10
 win2k8
 win32
-win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32shutdown
@@ -6649,7 +6634,6 @@ xi
 xiaomi
 xkcd
 xliff
-xmc
 xml
 xml-rpc
 xml-transform
