@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 28 June 2022 09:52:43 UTC
+Updated: Tuesday, 28 June 2022 17:54:08 UTC
 
 ?:
 ??
@@ -237,7 +237,6 @@ algorithms
 alias
 aliases
 aliens
-all
 alletra
 alm
 almrangers
@@ -286,7 +285,6 @@ ansible
 antimalwarescaninterface
 antispam
 antivirus
-any
 anyconnect
 anypoint
 anywhere
@@ -364,6 +362,7 @@ arcus
 area
 argument
 argumentcompleter
+arguments
 arm
 arm-json
 arm-templates
@@ -674,6 +673,7 @@ bingmap
 bingmaps
 binomial
 bios
+bios_settings
 bios-settings
 bit
 bitbucket
@@ -722,7 +722,6 @@ book
 bookmark
 bookmarks
 books
-bool
 bootloader
 bootstrap
 bootstrapping
@@ -1151,7 +1150,6 @@ computersite
 concur
 concurrent
 conda
-condition
 conditionalaccess
 conduit
 conference
@@ -1255,7 +1253,6 @@ cos
 cosmos
 cosmosdb
 cost
-costoptimization
 couchbase
 couchdb
 couchpotato
@@ -1554,7 +1551,6 @@ deutschland
 dev
 dev-tools
 devart
-devdeer
 developer
 developer_command_prompt
 developercommandprompt
@@ -1713,6 +1709,7 @@ domain
 domains
 donothing
 dos
+dot
 dotenv
 dotfile
 dotfiles
@@ -1906,7 +1903,6 @@ entity
 entityframework
 entropy
 enum
-enumerable
 env
 environment
 environment-variables
@@ -2062,6 +2058,7 @@ external
 externalip
 extract
 extractor
+extreme-networks
 eztheme
 f
 f#
@@ -2209,6 +2206,7 @@ fonts
 foo
 football
 for
+force
 forcedelete
 foreach
 forensic
@@ -2247,8 +2245,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-front
-frontapp
 frontdoor
 frontrange
 fs
@@ -2261,6 +2257,7 @@ ftps
 fudge
 fudgepop
 fujitsu
+full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2506,7 +2503,6 @@ harvestforecast
 hash
 hashcat
 hashicorp
-hashset
 hashtable
 hasicorp
 haskell
@@ -2782,6 +2778,7 @@ innerjoin
 innertext
 input
 inputbox
+inputobject
 insert
 insiderthreat
 insight
@@ -2795,6 +2792,7 @@ install-module
 install-windowsimage
 installation
 installationmanager
+installedapplications
 installer
 installers
 installwindows
@@ -2889,6 +2887,7 @@ iselevated
 isesteroids
 ish
 ishexstring
+ism
 isnumeric
 iso
 iso-3166-1
@@ -2907,6 +2906,7 @@ itop
 itsm
 itstore
 ivanti
+ivantips
 ivb
 ivdc
 iwi
@@ -3481,7 +3481,6 @@ mobile
 mobilitycontroller
 mock
 mocking
-modify
 module
 modulebuild
 modulecreation
@@ -3493,7 +3492,6 @@ moduleupdater
 moduleversion
 mof
 moldova
-moment
 monaco
 money
 moneyforward
@@ -3762,6 +3760,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 null-coalescing
 number
 numlock
@@ -3877,7 +3876,6 @@ onyphe
 onyphe.io
 oob
 oop
-op
 opc
 open
 open-ai
@@ -3968,6 +3966,7 @@ outlook
 output
 output-to-image
 outsystems
+overbite
 ovf
 ovgd
 owasp
@@ -4015,7 +4014,6 @@ parameter
 parameterinfo
 parameters
 parclient
-pardot
 parititions
 parool
 parquet
@@ -4085,7 +4083,6 @@ pentia
 perforce
 performance
 performance-counters
-performancemonitoring
 permission
 permissions
 permutations
@@ -4193,6 +4190,7 @@ popd
 population
 popup
 port
+port70
 portal
 ports
 portscan
@@ -4304,7 +4302,6 @@ ppt
 pptp
 pptx
 pranks
-predicate
 prediction
 predictor
 preferences
@@ -4461,7 +4458,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psenv
 pses
 psexcel
@@ -4853,6 +4849,7 @@ reword
 rewrite
 rexec
 rfc1305
+rfc1436
 rfc2030
 rfc3986
 rfc4007
@@ -4865,7 +4862,6 @@ ribbon
 ribcl
 rightjoin
 rights
-rightsizing
 ripe
 risk
 riskiq
@@ -4977,6 +4973,7 @@ sapstartstopazure
 sarcasm
 sarif
 sasdatasets
+sasxpt
 satirical
 save
 savedcreds
@@ -5090,6 +5087,7 @@ secur32
 secure
 secureapplicationmodel
 securechannel
+securegopher
 securemfa
 securerdp
 securescore
@@ -5192,6 +5190,7 @@ session
 sessionize
 sessions
 set
+set_bios
 set-alias
 set-githubsecrets
 set-location
@@ -5201,6 +5200,7 @@ set-psbreakpoint
 set-psenv
 set-randompass
 set-type
+setbios
 setting
 settings
 setup
@@ -5302,7 +5302,6 @@ sky
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -5311,6 +5310,7 @@ slack
 sln
 sm
 sma
+small_web
 smart_home
 smartarray
 smartarraycmdlets
@@ -5372,7 +5372,6 @@ solarigate
 solarized
 solarwinds
 solr
-soltra
 solution
 solutions
 sonarcloud
@@ -5425,6 +5424,7 @@ speedtest
 speedtester
 spf
 spi
+spinnaker
 splash
 splat
 splatting
@@ -5963,6 +5963,7 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
+twitter-timeline
 twitter-tweet
 txt
 type
@@ -6011,6 +6012,7 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
+ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -6026,6 +6028,7 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -6141,6 +6144,7 @@ userworkstations
 usg
 usps
 utc
+utf-8
 utf-sig
 utf7
 utf8
@@ -6241,7 +6245,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6304,6 +6307,7 @@ vps
 vra
 vrealize
 vro
+vrops
 vrtu
 vs
 vs-shell
@@ -6361,11 +6365,7 @@ watchmen
 watery
 wave
 wayk
-waykagent
 waykbastion
-waykclient
-waykden
-wayknow
 wbem
 wcf
 wcry
@@ -6385,6 +6385,7 @@ webdav
 webdeploy
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6414,14 +6415,13 @@ wec
 wecutil
 weekday
 wef
-weixin
 well-known
 wem
 wemsdk
 wer
 what3words
 whatismyip
-where
+whd
 whfb
 whiteboard
 whitespace
@@ -6442,6 +6442,7 @@ win-ps2exe
 win10
 win2k8
 win32
+win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32shutdown
@@ -6490,7 +6491,6 @@ windowsserver2016
 windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
-windowsservice
 windowsstore
 windowsterminal
 windowstimezone
@@ -6634,6 +6634,7 @@ xi
 xiaomi
 xkcd
 xliff
+xmc
 xml
 xml-rpc
 xml-transform
