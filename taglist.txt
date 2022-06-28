@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 27 June 2022 17:52:45 UTC
+Updated: Tuesday, 28 June 2022 02:38:01 UTC
 
 ?:
 ??
@@ -33,6 +33,7 @@ Updated: Monday, 27 June 2022 17:52:45 UTC
 2010
 2013
 2016
+2018
 2019
 24-bit
 2fa
@@ -1256,7 +1257,6 @@ cos
 cosmos
 cosmosdb
 cost
-costoptimization
 couchbase
 couchdb
 couchpotato
@@ -2101,9 +2101,11 @@ feed
 fetch
 ffmpeg
 fhirservice
+fiche
 fiddler
 fido
 fieldglass
+fifa
 figlet
 file
 file-association
@@ -2208,6 +2210,7 @@ folders
 font
 fonts
 foo
+football
 for
 force
 forcedelete
@@ -2480,6 +2483,7 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -3358,6 +3362,7 @@ md5_v2-b25d7fe7f5fab57d22955e7caf428037
 md5sum
 mdatp
 mdb
+mdbc
 mde
 mdm
 mdop
@@ -3381,7 +3386,6 @@ megabyte
 meltdown
 mem
 member
-members
 membership
 memcm
 memory
@@ -3766,6 +3770,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 null-coalescing
 number
 numlock
@@ -3908,6 +3913,7 @@ operationalinsights
 operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
+operationvalidation
 operatoraccesscontrol
 operators
 opml
@@ -4088,7 +4094,6 @@ pentia
 perforce
 performance
 performance-counters
-performancemonitoring
 permission
 permissions
 permutations
@@ -4158,7 +4163,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plugin
 plugins
@@ -4256,6 +4260,7 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
+powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
@@ -4284,7 +4289,6 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
-powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4740,6 +4744,7 @@ refresh
 refreshtoken
 reg
 regardscitoyen
+regcli
 regex
 region
 regions
@@ -4866,7 +4871,6 @@ ribbon
 ribcl
 rightjoin
 rights
-rightsizing
 ripe
 risk
 riskiq
@@ -4941,6 +4945,7 @@ runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
+russia
 rust
 rust-lang
 ryanairps
@@ -5357,6 +5362,7 @@ sntp
 snugglepup
 soap
 soc
+soccer
 social
 social-media
 socialmedia
@@ -5717,7 +5723,6 @@ tanzu
 tar
 target
 task
-task-runner
 taskbar
 tasker
 taskgroup
@@ -5768,6 +5773,7 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
+termbin
 terminal
 terminal-services
 terminal.gui
@@ -6247,7 +6253,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6569,6 +6574,7 @@ workspaceone
 workspaces
 workstation
 world
+worldcup
 worryfreebusinesssecurity
 wow
 wpad
