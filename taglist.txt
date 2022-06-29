@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 29 June 2022 09:53:36 UTC
+Updated: Wednesday, 29 June 2022 18:01:18 UTC
 
 ?:
 ??
@@ -207,6 +207,7 @@ agile
 agility
 agm
 agnoster
+ah
 ai
 aianomalydetection
 ailanguage
@@ -221,6 +222,7 @@ ajustee
 aks
 alac
 alarm
+albertheijn
 albums
 alero
 alert
@@ -291,7 +293,6 @@ anywhere
 aovpn psmodule
 apache
 api
-api-client
 api-gateway
 apichecks
 apiclient
@@ -316,7 +317,6 @@ appconfiguration
 appdynamics
 appearance
 appender
-appian
 appinsights
 applayering
 apple
@@ -702,7 +702,6 @@ block
 block-kit
 blockchain
 blocks
-blog
 blogs
 bls
 bluedolhin
@@ -736,8 +735,6 @@ bpmn
 brainy
 branch
 brave
-brawlapi
-brawlstars
 bre
 breach
 break
@@ -1042,6 +1039,7 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1155,6 +1153,7 @@ conditionalaccess
 conduit
 conference
 confidentialclient
+confidentialledger
 config
 configapi
 configascode
@@ -1424,7 +1423,6 @@ datacatalog
 datacenter
 dataclassification
 dataconduit
-dataconnectivity
 datadog
 dataexchange
 datafactory
@@ -1997,6 +1995,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2566,7 +2565,6 @@ hierarchical
 high-availability
 highlight
 highlighting
-highrise
 hipaa
 hipchat
 hiragana
@@ -2893,6 +2891,7 @@ iselevated
 isesteroids
 ish
 ishexstring
+ism
 isnumeric
 iso
 iso-3166-1
@@ -2911,6 +2910,7 @@ itop
 itsm
 itstore
 ivanti
+ivantips
 ivb
 ivdc
 iwi
@@ -3569,9 +3569,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -3613,6 +3610,7 @@ myob
 mysql
 mysql-database
 mytest
+n-able
 n-central
 nac
 nagios
@@ -3766,6 +3764,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 null-coalescing
 number
 numlock
@@ -3970,6 +3969,7 @@ outertext
 outline
 outlook
 output
+output-to-image
 outsystems
 overbite
 ovf
@@ -4211,7 +4211,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshdyndnsapi
@@ -4504,12 +4503,8 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
-psnexosisclient
 psngenposh
 psobject
 pspath
@@ -4539,9 +4534,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5360,7 +5352,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -5482,9 +5473,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -5626,7 +5614,6 @@ suitecrm
 sullivan
 summary
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -5811,6 +5798,7 @@ testtag2
 testtool
 testusers
 text
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -6430,6 +6418,7 @@ wec
 wecutil
 weekday
 wef
+weixin
 well-known
 wem
 wemsdk
@@ -6445,7 +6434,6 @@ whoami
 whois
 whormi
 wi-fi
-wid
 wif
 wifi
 wiki
@@ -6491,7 +6479,6 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
-windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsmanagementframework
@@ -6507,6 +6494,7 @@ windowsserver2016
 windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
+windowsservice
 windowsstore
 windowsterminal
 windowstimezone
