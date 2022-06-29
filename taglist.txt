@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 28 June 2022 17:54:08 UTC
+Updated: Wednesday, 29 June 2022 02:39:51 UTC
 
 ?:
 ??
@@ -237,6 +237,7 @@ algorithms
 alias
 aliases
 aliens
+all
 alletra
 alm
 almrangers
@@ -285,6 +286,7 @@ ansible
 antimalwarescaninterface
 antispam
 antivirus
+any
 anyconnect
 anypoint
 anywhere
@@ -722,6 +724,7 @@ book
 bookmark
 bookmarks
 books
+bool
 bootloader
 bootstrap
 bootstrapping
@@ -1150,6 +1153,7 @@ computersite
 concur
 concurrent
 conda
+condition
 conditionalaccess
 conduit
 conference
@@ -1253,6 +1257,7 @@ cos
 cosmos
 cosmosdb
 cost
+costoptimization
 couchbase
 couchdb
 couchpotato
@@ -1551,6 +1556,7 @@ deutschland
 dev
 dev-tools
 devart
+devdeer
 developer
 developer_command_prompt
 developercommandprompt
@@ -1871,6 +1877,7 @@ emoji
 emotion
 empire
 empty
+emwarehouse
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -1903,6 +1910,7 @@ entity
 entityframework
 entropy
 enum
+enumerable
 env
 environment
 environment-variables
@@ -2245,6 +2253,8 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
+front
+frontapp
 frontdoor
 frontrange
 fs
@@ -2503,6 +2513,7 @@ harvestforecast
 hash
 hashcat
 hashicorp
+hashset
 hashtable
 hasicorp
 haskell
@@ -3481,6 +3492,7 @@ mobile
 mobilitycontroller
 mock
 mocking
+modify
 module
 modulebuild
 modulecreation
@@ -3492,6 +3504,7 @@ moduleupdater
 moduleversion
 mof
 moldova
+moment
 monaco
 money
 moneyforward
@@ -3876,6 +3889,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opc
 open
 open-ai
@@ -4014,6 +4028,7 @@ parameter
 parameterinfo
 parameters
 parclient
+pardot
 parititions
 parool
 parquet
@@ -4083,6 +4098,7 @@ pentia
 perforce
 performance
 performance-counters
+performancemonitoring
 permission
 permissions
 permutations
@@ -4302,6 +4318,7 @@ ppt
 pptp
 pptx
 pranks
+predicate
 prediction
 predictor
 preferences
@@ -4458,6 +4475,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -4490,6 +4508,8 @@ psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
+psmodulepath
+psmodules
 psmp
 psmsgraph
 psmsgraphapi
@@ -4862,6 +4882,7 @@ ribbon
 ribcl
 rightjoin
 rights
+rightsizing
 ripe
 risk
 riskiq
@@ -5302,6 +5323,7 @@ sky
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -5372,6 +5394,7 @@ solarigate
 solarized
 solarwinds
 solr
+soltra
 solution
 solutions
 sonarcloud
@@ -6245,6 +6268,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6285,6 +6309,7 @@ vmwdatacenter
 vmwfolder
 vmwvmhost
 vnet
+vnmonitoring
 vnugglets
 vnugglets.com
 vocabularies
@@ -6415,6 +6440,7 @@ wec
 wecutil
 weekday
 wef
+weixin
 well-known
 wem
 wemsdk
@@ -6422,6 +6448,7 @@ wer
 what3words
 whatismyip
 whd
+where
 whfb
 whiteboard
 whitespace
@@ -6491,6 +6518,7 @@ windowsserver2016
 windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
+windowsservice
 windowsstore
 windowsterminal
 windowstimezone
