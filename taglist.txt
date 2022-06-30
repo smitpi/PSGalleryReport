@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 30 June 2022 02:39:04 UTC
+Updated: Thursday, 30 June 2022 09:52:45 UTC
 
 ?:
 ??
@@ -318,6 +318,7 @@ appconfiguration
 appdynamics
 appearance
 appender
+appian
 appinsights
 applayering
 apple
@@ -382,6 +383,7 @@ aruba
 as
 asa
 asa.unittest
+asana
 asbuiltreport
 asc
 ascii
@@ -417,6 +419,7 @@ asynchronous
 atempo
 atera
 athena
+atlas
 atlassian
 atlassiancli
 atlassianps
@@ -508,16 +511,13 @@ azautomation
 azcli
 azcompute
 azd
-azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
-aznetworkinterface
 aznicdetails
 azops
-azpublicipaddress
 azresources
 azsdk
 azsk
@@ -541,6 +541,7 @@ azuread
 azureadconnect
 azureadgraph
 azureadtoolkit
+azureappconfiguration
 azurearc
 azureas
 azureautomation
@@ -654,7 +655,6 @@ bicep
 bicepnet
 big-ip
 big-iq
-bigcommerce
 bigeval
 bigfix
 bigquery
@@ -864,6 +864,8 @@ central
 central-management
 centralcredentialprovider
 centrastage
+centreon
+centreon.com
 centurylink
 centurylinkcloud
 cer
@@ -1038,7 +1040,6 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1909,7 +1910,6 @@ env
 environment
 environment-variables
 environmentmanagent
-environmentmodules
 environments
 environmentvariable
 environmentvariables
@@ -2110,6 +2110,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2125,6 +2127,7 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filereplication
 files
@@ -2136,6 +2139,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -3033,7 +3039,9 @@ label
 labels
 lability
 labnotifications
+labrecipe
 labservices
+labsnippet
 labtech
 labtest
 labworker
@@ -3284,7 +3292,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3395,7 +3402,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -3564,6 +3570,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -3739,6 +3748,7 @@ npgsql
 npm
 npm-upgrade
 nprinting
+nprintingapi
 nps
 npslog
 npslogfile
@@ -4222,7 +4232,6 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
-position
 postgre
 postgres
 postgresql
@@ -4426,6 +4435,7 @@ psadt
 psake
 psappdeploytoolkit
 psazd
+psbackup
 psbbix
 psbicep
 psclient
@@ -4498,6 +4508,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -4530,6 +4543,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5158,7 +5174,6 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
-serverless
 servermanagement
 servers
 service
@@ -5348,6 +5363,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -5469,6 +5485,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -6225,6 +6244,7 @@ videos
 vie
 viewer
 viewgroup
+vigenere
 vim
 vimode
 virole
@@ -6428,12 +6448,12 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wid
 wif
 wifi
 wiki
+wildcard
 wildfly
 wim
 wim2vhd
@@ -6457,7 +6477,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-registry
