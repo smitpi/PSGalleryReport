@@ -5,13 +5,94 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.228) | 0.0.228
+## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.11.3) | 2.11.3
 
-### Published: 06/30/2022 09:24:10 by Przemyslaw Klys
+### Published: 06/30/2022 17:41:48 by Aaron Jensen
+
+Carbon is a PowerShell module for automating the configuration Windows 7, 8, 2008, and 2012 and automation the installation and configuration of Windows applications, websites, and services. It can configure and manage:
+
+ * Local users and groups
+ * IIS websites, virtual directories, and applications
+ * File system, registry, and certificate permissions
+ * Certificates
+ * Privileges
+ * Services
+ * Encryption
+ * Junctions
+ * Hosts file
+ * INI files
+ * Performance counters
+ * Shares
+ * .NET connection strings and app settings
+ * And much more!
+
+All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
+
+__Downloads__: 50,179,761 | __Repository__: http://get-carbon.org/
+
+## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.79) | 0.0.79
+
+### Published: 06/30/2022 17:27:59 by Przemyslaw Klys
+
+Testimo is Powershell module that tests Active Directory against specific set of tests.
+
+__Downloads__: 49,914 | __Repository__: https://github.com/EvotecIT/Testimo
+
+## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.229) | 0.0.229
+
+### Published: 06/30/2022 17:27:12 by Przemyslaw Klys
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 137,858 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 137,855 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
+## [BinaryTree.Power365](https://www.powershellgallery.com/Packages/BinaryTree.Power365/20.12.7.1513) | 20.12.7.1513
+
+### Published: 06/30/2022 17:16:39 by BinaryTreePackagePublisher
+
+PowerShell Management cmdlets for Binary Tree Power365
+
+__Downloads__: 3,075 | __Repository__: 
+
+## [EguibarIT](https://www.powershellgallery.com/Packages/EguibarIT/1.51.62) | 1.51.62
+
+### Published: 06/30/2022 17:14:01 by Vicente Rodriguez Eguibar
+
+Functions used to implement the Delegation Model with Tiers on the given Active Directory.
+
+__Downloads__: 126 | __Repository__: https://github.com/vreguibar/EguibarIT
+
+## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.121) | 0.0.121
+
+### Published: 06/30/2022 17:02:01 by BitTitan
+
+Module for BitTitanPowerShell.
+
+__Downloads__: 7,977 | __Repository__: 
+
+## [AutomatedLab.Common](https://www.powershellgallery.com/Packages/AutomatedLab.Common/2.2.234) | 2.2.234
+
+### Published: 06/30/2022 15:27:51 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+The module collects all helper functions used in but not limited to AutomatedLab
+
+__Downloads__: 31,720 | __Repository__: https://github.com/AutomatedLab/AutomatedLab.Common/
+
+## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/3.0.337) | 3.0.337
+
+### Published: 06/30/2022 13:46:18 by Aaron Parker
+
+A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
+
+__Downloads__: 1,967,174 | __Repository__: https://vcredist.com/
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.110) | 1.1.110
+
+### Published: 06/30/2022 12:19:25 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,701,087 | __Repository__: https://dbatools.io/
 
 ## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.43.0) | 5.43.0
 
@@ -115,7 +196,7 @@ __Downloads__: 23,867 | __Repository__: https://ironmansoftware.com/powershell-u
 
 Gary Blok New Stuff Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 241,813 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 241,802 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSGopher](https://www.powershellgallery.com/Packages/PSGopher/1.1.1) | 1.1.1
 
@@ -131,7 +212,7 @@ __Downloads__: 33 | __Repository__: https://github.com/rhymeswithmogul/PSGopher
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 61,715 | __Repository__: 
+__Downloads__: 61,714 | __Repository__: 
 
 ## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.24.0) | 3.24.0
 
@@ -155,7 +236,15 @@ __Downloads__: 1,982 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Some description.  This is required by the PowerShell Gallery
 
-__Downloads__: 1 | __Repository__: https://github.com/___/
+__Downloads__: 0 | __Repository__: https://github.com/___/
+
+## [Spieker](https://www.powershellgallery.com/Packages/Spieker/1.8) | 1.8
+
+### Published: 06/29/2022 20:20:17 by Mimi
+
+Small test module
+
+__Downloads__: 1 | __Repository__: 
 
 ## [Logonme.Management.PowerShell](https://www.powershellgallery.com/Packages/Logonme.Management.PowerShell/5.1.34) | 5.1.34
 
@@ -163,7 +252,7 @@ __Downloads__: 1 | __Repository__: https://github.com/___/
 
 Logon.me PowerShell Management Client
 
-__Downloads__: 0 | __Repository__: https://logon.me/developer
+__Downloads__: 1 | __Repository__: https://logon.me/developer
 
 ## [Devolutions.Server](https://www.powershellgallery.com/Packages/Devolutions.Server/2022.1.10.2) | 2022.1.10.2
 
@@ -211,7 +300,7 @@ __Downloads__: 25 | __Repository__: https://github.com/aliuq/Register-Completion
 
 Test Module by Me
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
 
 ## [Scriptbook](https://www.powershellgallery.com/Packages/Scriptbook/0.6.3) | 0.6.3
 
@@ -227,7 +316,7 @@ __Downloads__: 423 | __Repository__: https://github.com/ehagen/Scriptbook
 
 PowerShell module addon for working with SPFX
 
-__Downloads__: 2 | __Repository__: https://github.com/mschauer5/MSchauer.SPFX.PowerShell
+__Downloads__: 0 | __Repository__: https://github.com/mschauer5/MSchauer.SPFX.PowerShell
 
 ## [MSchauer.Gulp.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.Gulp.PowerShell/1.0.0) | 1.0.0
 
@@ -235,7 +324,7 @@ __Downloads__: 2 | __Repository__: https://github.com/mschauer5/MSchauer.SPFX.Po
 
 PowerShell module addon for working with Gulp
 
-__Downloads__: 1 | __Repository__: https://github.com/mschauer5/MSchauer.Gulp.PowerShell
+__Downloads__: 0 | __Repository__: https://github.com/mschauer5/MSchauer.Gulp.PowerShell
 
 ## [MSchauer.SharePoint.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.SharePoint.PowerShell/1.0.0) | 1.0.0
 
@@ -251,7 +340,7 @@ __Downloads__: 0 | __Repository__:
 
 PowerShell module that adds additional functionality to common PnP.PowerShell commands
 
-__Downloads__: 2 | __Repository__: https://github.com/mschauer5/PnP.PowerShell-Addons
+__Downloads__: 0 | __Repository__: https://github.com/mschauer5/PnP.PowerShell-Addons
 
 ## [PS-NCentral](https://www.powershellgallery.com/Packages/PS-NCentral/1.5) | 1.5
 
@@ -259,15 +348,7 @@ __Downloads__: 2 | __Repository__: https://github.com/mschauer5/PnP.PowerShell-A
 
 PowerShell integration for N-Central(c) by N-Able(R)
 
-__Downloads__: 17,869 | __Repository__: https://github.com/ToschAutomatisering/PS-NCentral
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.109) | 1.1.109
-
-### Published: 06/29/2022 10:41:35 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,701,162 | __Repository__: https://dbatools.io/
+__Downloads__: 17,867 | __Repository__: https://github.com/ToschAutomatisering/PS-NCentral
 
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/1.1.0) | 1.1.0
 
@@ -357,22 +438,6 @@ PowerShell Module for GitHub.Collaborators
 
 __Downloads__: 122 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.EnterpriseAdmin](https://www.powershellgallery.com/Packages/GitHub.EnterpriseAdmin/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:42 by Marius Storhaug
-
-PowerShell Module for GitHub.EnterpriseAdmin
-
-__Downloads__: 138 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:42 by Marius Storhaug
-
-PowerShell Module for GitHub.Emojis
-
-__Downloads__: 136 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.8) | 0.0.8
 
 ### Published: 06/29/2022 06:39:42 by Marius Storhaug
@@ -388,6 +453,22 @@ __Downloads__: 143 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Migrations
 
 __Downloads__: 121 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.EnterpriseAdmin](https://www.powershellgallery.com/Packages/GitHub.EnterpriseAdmin/0.0.9) | 0.0.9
+
+### Published: 06/29/2022 06:39:42 by Marius Storhaug
+
+PowerShell Module for GitHub.EnterpriseAdmin
+
+__Downloads__: 138 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.9) | 0.0.9
+
+### Published: 06/29/2022 06:39:42 by Marius Storhaug
+
+PowerShell Module for GitHub.Emojis
+
+__Downloads__: 136 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Gists](https://www.powershellgallery.com/Packages/GitHub.Gists/0.0.9) | 0.0.9
 
@@ -469,14 +550,6 @@ PowerShell Module for GitHub.Pulls
 
 __Downloads__: 127 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:36 by Marius Storhaug
-
-PowerShell Module for GitHub.Teams
-
-__Downloads__: 123 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Checks](https://www.powershellgallery.com/Packages/GitHub.Checks/0.0.9) | 0.0.9
 
 ### Published: 06/29/2022 06:39:36 by Marius Storhaug
@@ -485,13 +558,13 @@ PowerShell Module for GitHub.Checks
 
 __Downloads__: 125 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.CodeScanning](https://www.powershellgallery.com/Packages/GitHub.CodeScanning/0.0.9) | 0.0.9
+## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.9) | 0.0.9
 
-### Published: 06/29/2022 06:39:35 by Marius Storhaug
+### Published: 06/29/2022 06:39:36 by Marius Storhaug
 
-PowerShell Module for GitHub.CodeScanning
+PowerShell Module for GitHub.Teams
 
-__Downloads__: 127 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 123 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Commits](https://www.powershellgallery.com/Packages/GitHub.Commits/0.0.7) | 0.0.7
 
@@ -500,6 +573,14 @@ __Downloads__: 127 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Commits
 
 __Downloads__: 115 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.CodeScanning](https://www.powershellgallery.com/Packages/GitHub.CodeScanning/0.0.9) | 0.0.9
+
+### Published: 06/29/2022 06:39:35 by Marius Storhaug
+
+PowerShell Module for GitHub.CodeScanning
+
+__Downloads__: 127 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.9) | 0.0.9
 
@@ -541,14 +622,6 @@ PowerShell Module for GitHub.Search
 
 __Downloads__: 124 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.ServerStatistics](https://www.powershellgallery.com/Packages/GitHub.ServerStatistics/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:29 by Marius Storhaug
-
-PowerShell Module for GitHub.ServerStatistics
-
-__Downloads__: 122 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Search](https://www.powershellgallery.com/Packages/GitHub.Search/0.0.10) | 0.0.10
 
 ### Published: 06/29/2022 06:39:29 by Marius Storhaug
@@ -556,6 +629,14 @@ __Downloads__: 122 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.GitIgnore
 
 __Downloads__: 145 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.ServerStatistics](https://www.powershellgallery.com/Packages/GitHub.ServerStatistics/0.0.9) | 0.0.9
+
+### Published: 06/29/2022 06:39:29 by Marius Storhaug
+
+PowerShell Module for GitHub.ServerStatistics
+
+__Downloads__: 122 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Git](https://www.powershellgallery.com/Packages/GitHub.Git/0.0.9) | 0.0.9
 
@@ -853,14 +934,6 @@ __Downloads__: 194 | __Repository__: https://github.com/oracle/oci-powershell-mo
 This modules provides Cmdlets for OCI Servicemesh Service
 
 __Downloads__: 210 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Servicemanagerproxy](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemanagerproxy/35.2.0) | 35.2.0
-
-### Published: 06/28/2022 20:34:11 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Servicemanagerproxy Service
-
-__Downloads__: 729 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Servicecatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicecatalog/35.2.0) | 35.2.0
 
@@ -1171,7 +1244,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 390,498 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 390,491 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [OCI.PSModules.Keymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Keymanagement/35.2.0) | 35.2.0
 
@@ -1651,7 +1724,7 @@ __Downloads__: 43,288 | __Repository__: https://github.com/oracle/oci-powershell
 
 Pipeline helper functions for deployments of sql server
 
-__Downloads__: 638 | __Repository__: 
+__Downloads__: 637 | __Repository__: 
 
 ## [EventLogTools](https://www.powershellgallery.com/Packages/EventLogTools/3.2) | 3.2
 
@@ -1675,7 +1748,7 @@ __Downloads__: 178 | __Repository__:
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 13,738,241 | __Repository__: 
+__Downloads__: 13,738,312 | __Repository__: 
 
 ## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.6.28) | 22.6.28
 
@@ -1708,7 +1781,7 @@ __Downloads__: 2,228 | __Repository__:
 
 A utility to help convert curl commands to Invoke-RestMethod syntax
 
-__Downloads__: 1,538 | __Repository__: 
+__Downloads__: 1,537 | __Repository__: 
 
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.3.4) | 1.3.4
 
@@ -1724,7 +1797,15 @@ __Downloads__: 53 | __Repository__: https://github.com/Callidus2000/FortiManager
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,957,233 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,957,133 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [Invoke-ChangeVirtualDiskAttributesREDFISH](https://www.powershellgallery.com/Packages/Invoke-ChangeVirtualDiskAttributesREDFISH/1.0.0) | 1.0.0
+
+### Published: 06/27/2022 22:31:32 by Texas Roemer
+
+Cmdlet using iDRAC with Redfish API to either get controllers, get virtual disks or change virtual disk read, write or disk cache policy settings.
+
+__Downloads__: 1 | __Repository__: 
 
 ## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/18.0.0.0) | 18.0.0.0
 
@@ -1832,7 +1913,7 @@ __Downloads__: 67 | __Repository__: https://github.com/Diagg/EndPoint-CloudKit
 
 The easiest way to develop apps for Windows.
 
-__Downloads__: 23,001 | __Repository__: https://github.com/fresh2dev/AnyBox
+__Downloads__: 23,000 | __Repository__: https://github.com/fresh2dev/AnyBox
 
 ## [Croze](https://www.powershellgallery.com/Packages/Croze/0.0.3) | 0.0.3
 
@@ -1864,7 +1945,7 @@ __Downloads__: 8,379 | __Repository__: https://github.com/dylanhaskins/Microsoft
 
 This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
 
-__Downloads__: 7,600 | __Repository__: https://github.com/DanGough/Nevergreen
+__Downloads__: 7,598 | __Repository__: https://github.com/DanGough/Nevergreen
 
 ## [Az.Adm](https://www.powershellgallery.com/Packages/Az.Adm/1.0.7) | 1.0.7
 
@@ -1942,14 +2023,6 @@ Parent module containing all Azure Native modules required to create YAML/JSON d
 
 __Downloads__: 6 | __Repository__: https://github.com/worxspace/PSPulumiYaml
 
-## [pspulumiyaml.azurenative.digitaltwins](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.digitaltwins/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 06:25:32 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 8 | __Repository__: 
-
 ## [Get-WERConfig](https://www.powershellgallery.com/Packages/Get-WERConfig/2022.6.20) | 2022.6.20
 
 ### Published: 06/26/2022 02:51:25 by Will Aftring
@@ -1957,22 +2030,6 @@ __Downloads__: 8 | __Repository__:
 A PowerShell wrapper for the Windows Error Reporting (WER) registry settings.
 
 __Downloads__: 2 | __Repository__: https://github.com/WAftring/Get-WERConfig
-
-## [pspulumiyaml.azurenative.webpubsub](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.webpubsub/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:10:01 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 8 | __Repository__: 
-
-## [pspulumiyaml.azurenative.vmwarecloudsimple](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.vmwarecloudsimple/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:10:00 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 14 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.sql](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.sql/0.0.4) | 0.0.4
 
@@ -1982,21 +2039,13 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 7 | __Repository__: 
 
-## [pspulumiyaml.azurenative.virtualmachineimages](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.virtualmachineimages/0.0.4) | 0.0.4
+## [pspulumiyaml.azurenative.vmwarecloudsimple](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.vmwarecloudsimple/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:10:00 by Worxspace
 
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
-__Downloads__: 8 | __Repository__: 
-
-## [pspulumiyaml.azurenative.windowsiot](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.windowsiot/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:09:59 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 7 | __Repository__: 
+__Downloads__: 14 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.videoanalyzer](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.videoanalyzer/0.0.4) | 0.0.4
 
@@ -2005,6 +2054,14 @@ __Downloads__: 7 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 9 | __Repository__: 
+
+## [pspulumiyaml.azurenative.windowsiot](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.windowsiot/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:09:59 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 7 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.testbase](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.testbase/0.0.4) | 0.0.4
 
@@ -2030,44 +2087,4 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 8 | __Repository__: 
 
-## [pspulumiyaml.azurenative.videoindexer](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.videoindexer/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:09:55 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 11 | __Repository__: 
-
-## [pspulumiyaml.azurenative.timeseriesinsights](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.timeseriesinsights/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:09:54 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 8 | __Repository__: 
-
-## [pspulumiyaml.azurenative.workloads](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.workloads/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:09:53 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 7 | __Repository__: 
-
-## [pspulumiyaml.azurenative.solutions](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.solutions/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:09:50 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 7 | __Repository__: 
-
-## [pspulumiyaml.azurenative.synapse](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.synapse/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:09:49 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 8 | __Repository__: 
-
-*Updated: Thursday, 30 June 2022 09:52:36 UTC*
+*Updated: Thursday, 30 June 2022 17:57:59 UTC*

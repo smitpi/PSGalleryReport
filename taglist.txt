@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 30 June 2022 09:52:45 UTC
+Updated: Thursday, 30 June 2022 17:58:08 UTC
 
 ?:
 ??
@@ -511,13 +511,16 @@ azautomation
 azcli
 azcompute
 azd
+azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
+aznetworkinterface
 aznicdetails
 azops
+azpublicipaddress
 azresources
 azsdk
 azsk
@@ -655,6 +658,7 @@ bicep
 bicepnet
 big-ip
 big-iq
+bigcommerce
 bigeval
 bigfix
 bigquery
@@ -1040,6 +1044,7 @@ clusterplugins
 cmaccounts
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1910,6 +1915,7 @@ env
 environment
 environment-variables
 environmentmanagent
+environmentmodules
 environments
 environmentvariable
 environmentvariables
@@ -2018,7 +2024,6 @@ exec
 executable
 executables
 execute
-exexml
 exif
 exiftool
 exists
@@ -2480,7 +2485,6 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -2566,7 +2570,6 @@ hierarchical
 high-availability
 highlight
 highlighting
-highrise
 hipaa
 hipchat
 hiragana
@@ -2774,6 +2777,7 @@ infosec
 infrastructure
 infrastructureascode
 ingestion
+inheritance
 ini
 inifile
 initialization
@@ -3292,6 +3296,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3402,6 +3407,7 @@ messaging
 messenger
 met
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -4024,7 +4030,6 @@ parameter
 parameterinfo
 parameters
 parclient
-pardot
 parititions
 parool
 parquet
@@ -4232,6 +4237,7 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
+position
 postgre
 postgres
 postgresql
@@ -5174,6 +5180,7 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
+serverless
 servermanagement
 servers
 service
@@ -5189,7 +5196,6 @@ servicefabric
 servicelinker
 servicemanagementautomation
 servicemanager
-servicemanagerproxy
 servicemesh
 servicenow
 serviceplan
@@ -5671,7 +5677,6 @@ synergy
 syntax
 syntax-highlighting
 syntaxhighlighter
-synthesis
 synthetics
 sysadmin
 sysctr
@@ -5876,7 +5881,6 @@ tobias
 toc
 todo
 todo.txt
-toggl
 toggle
 token
 tokenlifetime
@@ -6448,6 +6452,7 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wid
 wif
@@ -6477,6 +6482,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-registry
