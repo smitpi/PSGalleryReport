@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 29 June 2022 18:01:18 UTC
+Updated: Thursday, 30 June 2022 02:39:04 UTC
 
 ?:
 ??
@@ -293,6 +293,7 @@ anywhere
 aovpn psmodule
 apache
 api
+api-client
 api-gateway
 apichecks
 apiclient
@@ -381,7 +382,6 @@ aruba
 as
 asa
 asa.unittest
-asana
 asbuiltreport
 asc
 ascii
@@ -417,7 +417,6 @@ asynchronous
 atempo
 atera
 athena
-atlas
 atlassian
 atlassiancli
 atlassianps
@@ -542,7 +541,6 @@ azuread
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureappconfiguration
 azurearc
 azureas
 azureautomation
@@ -702,6 +700,7 @@ block
 block-kit
 blockchain
 blocks
+blog
 blogs
 bls
 bluedolhin
@@ -735,6 +734,8 @@ bpmn
 brainy
 branch
 brave
+brawlapi
+brawlstars
 bre
 breach
 break
@@ -863,8 +864,6 @@ central
 central-management
 centralcredentialprovider
 centrastage
-centreon
-centreon.com
 centurylink
 centurylinkcloud
 cer
@@ -1423,6 +1422,7 @@ datacatalog
 datacenter
 dataclassification
 dataconduit
+dataconnectivity
 datadog
 dataexchange
 datafactory
@@ -2100,6 +2100,7 @@ fhirservice
 fiche
 fiddler
 fido
+fido2
 fieldglass
 fifa
 figlet
@@ -2109,8 +2110,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2126,7 +2125,6 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filereplication
 files
@@ -2138,9 +2136,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2565,6 +2560,7 @@ hierarchical
 high-availability
 highlight
 highlighting
+highrise
 hipaa
 hipchat
 hiragana
@@ -2772,7 +2768,6 @@ infosec
 infrastructure
 infrastructureascode
 ingestion
-inheritance
 ini
 inifile
 initialization
@@ -3744,7 +3739,6 @@ npgsql
 npm
 npm-upgrade
 nprinting
-nprintingapi
 nps
 npslog
 npslogfile
@@ -3891,6 +3885,7 @@ opendata
 openedge
 openfiles
 openhere
+openid
 openidconnect
 openinghours
 openport
@@ -4211,6 +4206,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 poshbot
 poshcommence
 poshdyndnsapi
@@ -4430,7 +4426,6 @@ psadt
 psake
 psappdeploytoolkit
 psazd
-psbackup
 psbbix
 psbicep
 psclient
@@ -4505,6 +4500,7 @@ psmsgraph
 psmsgraphapi
 psmvp
 psnavigation
+psnexosisclient
 psngenposh
 psobject
 pspath
@@ -5614,6 +5610,7 @@ suitecrm
 sullivan
 summary
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -6228,7 +6225,6 @@ videos
 vie
 viewer
 viewgroup
-vigenere
 vim
 vimode
 virole
@@ -6434,10 +6430,10 @@ whoami
 whois
 whormi
 wi-fi
+wid
 wif
 wifi
 wiki
-wildcard
 wildfly
 wim
 wim2vhd
@@ -6479,6 +6475,7 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
+windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsmanagementframework
