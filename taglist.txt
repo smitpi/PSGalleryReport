@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 01 July 2022 02:43:36 UTC
+Updated: Friday, 01 July 2022 09:52:40 UTC
 
 ?:
 ??
@@ -1022,6 +1022,7 @@ cloudberry
 cloudblue
 cloudbolt
 cloudendure
+cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -2020,11 +2021,9 @@ exec
 executable
 executables
 execute
-exexml
 exif
 exiftool
 exists
-exitcode
 exo
 exov2
 exp
@@ -2112,6 +2111,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2127,6 +2128,7 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filereplication
 files
@@ -2138,6 +2140,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2410,6 +2415,7 @@ googlemaps
 gopher
 gopher+
 gopherplus
+gophers
 governance
 governancerulescontrolplane
 gp
@@ -2774,7 +2780,6 @@ inheritance
 ini
 inifile
 initialization
-initials-avatar
 initiator
 innerjoin
 innertext
@@ -3023,7 +3028,6 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
-kurukuru
 kusto
 kvm
 kvp
@@ -3202,6 +3206,7 @@ logicmonitor
 login
 login-azurermaccount
 login-rdp
+loginscreen
 loginsight
 logistic
 logitech
@@ -3392,6 +3397,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messages
 messaging
 messenger
@@ -3595,6 +3601,7 @@ musiccast
 mustache
 mutation
 mute
+mutex
 mva
 mvn
 mvp
@@ -3707,7 +3714,6 @@ nic
 nightmare
 ninite
 ninja
-ninjaone
 ninjarmm
 nios
 nitrox
@@ -4132,7 +4138,6 @@ pip
 pipe
 pipeline
 pipelines
-pipescript
 piraeus
 pivot
 pivotal
@@ -4458,8 +4463,10 @@ psedition_5.1
 psedition_core
 psedition_desk
 psedition_desktop
+psedition_linux
 psedition_macos
 psedition_management
+psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
@@ -4749,6 +4756,7 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
+registration
 registry
 regression
 regularexpressions
@@ -5096,6 +5104,7 @@ secure
 secureapplicationmodel
 securechannel
 securegopher
+securegopher+
 securemfa
 securerdp
 securescore
@@ -5560,6 +5569,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stop
 storablecolortheme
 storage
 storageaccount
@@ -5920,7 +5930,6 @@ translit
 transliteration
 transmission
 transparency
-transpilation
 trap
 trec
 tree
@@ -6008,7 +6017,6 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
-ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -6445,6 +6453,7 @@ wid
 wif
 wifi
 wiki
+wildcard
 wildfly
 wim
 wim2vhd
@@ -6476,6 +6485,7 @@ windows-remoting
 windows-server-2016
 windows10
 windows10mui
+windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
@@ -6508,6 +6518,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
