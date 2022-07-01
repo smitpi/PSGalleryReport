@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 30 June 2022 17:58:08 UTC
+Updated: Friday, 01 July 2022 02:43:36 UTC
 
 ?:
 ??
@@ -652,8 +652,6 @@ ber
 bestpractice
 bestpractices
 bi
-bibliography
-bibtex
 bicep
 bicepnet
 big-ip
@@ -1024,7 +1022,6 @@ cloudberry
 cloudblue
 cloudbolt
 cloudendure
-cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1280,7 +1277,6 @@ cqd
 cqdpowershell
 cqhttp
 crack psmodule
-crash
 crayon
 crc
 crc32
@@ -2024,6 +2020,7 @@ exec
 executable
 executables
 execute
+exexml
 exif
 exiftool
 exists
@@ -2115,8 +2112,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2132,7 +2127,6 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filereplication
 files
@@ -2144,9 +2138,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2485,6 +2476,7 @@ haarlemsdagblad
 hack
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -2570,6 +2562,7 @@ hierarchical
 high-availability
 highlight
 highlighting
+highrise
 hipaa
 hipchat
 hiragana
@@ -3151,7 +3144,6 @@ list-item
 listener
 litecoin
 litedb
-literature
 live
 lldp
 lmhost
@@ -3210,7 +3202,6 @@ logicmonitor
 login
 login-azurermaccount
 login-rdp
-loginscreen
 loginsight
 logistic
 logitech
@@ -3401,7 +3392,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messages
 messaging
 messenger
@@ -3605,7 +3595,6 @@ musiccast
 mustache
 mutation
 mute
-mutex
 mva
 mvn
 mvp
@@ -4023,13 +4012,13 @@ panther
 panzerbjrn
 pap
 paper
-papis
 paradox
 parallel
 parameter
 parameterinfo
 parameters
 parclient
+pardot
 parititions
 parool
 parquet
@@ -4469,10 +4458,8 @@ psedition_5.1
 psedition_core
 psedition_desk
 psedition_desktop
-psedition_linux
 psedition_macos
 psedition_management
-psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
@@ -4762,7 +4749,6 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
-registration
 registry
 regression
 regularexpressions
@@ -5196,6 +5182,7 @@ servicefabric
 servicelinker
 servicemanagementautomation
 servicemanager
+servicemanagerproxy
 servicemesh
 servicenow
 serviceplan
@@ -5573,7 +5560,6 @@ stockcharts
 stocks
 stoicism
 stoics
-stop
 storablecolortheme
 storage
 storageaccount
@@ -5677,6 +5663,7 @@ synergy
 syntax
 syntax-highlighting
 syntaxhighlighter
+synthesis
 synthetics
 sysadmin
 sysctr
@@ -5881,6 +5868,7 @@ tobias
 toc
 todo
 todo.txt
+toggl
 toggle
 token
 tokenlifetime
@@ -6442,7 +6430,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 what3words
 whatismyip
 whd
@@ -6458,7 +6445,6 @@ wid
 wif
 wifi
 wiki
-wildcard
 wildfly
 wim
 wim2vhd
@@ -6490,7 +6476,6 @@ windows-remoting
 windows-server-2016
 windows10
 windows10mui
-windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
@@ -6523,7 +6508,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
