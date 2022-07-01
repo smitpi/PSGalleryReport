@@ -1,10 +1,9 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 01 July 2022 09:52:40 UTC
+Updated: Friday, 01 July 2022 17:52:29 UTC
 
 ?:
 ??
-.bat
 .env
 .net
 .ps1xml
@@ -243,7 +242,6 @@ alm
 almrangers
 alpha
 alphafs
-alpine
 alpr
 alt3
 alter
@@ -259,7 +257,6 @@ ami
 amp
 amqp
 amsi
-amxmodx
 anaconda
 analysis
 analysisservices
@@ -652,6 +649,8 @@ ber
 bestpractice
 bestpractices
 bi
+bibliography
+bibtex
 bicep
 bicepnet
 big-ip
@@ -686,8 +685,6 @@ bitwarden
 bitwig
 bitwise
 biztalk
-biztalkalm
-biztalkdeploymentframework
 bks
 black
 blackbaud
@@ -758,7 +755,6 @@ browserhistory
 brs
 bruteforce
 bson
-btdf
 btm
 budget
 bugzilla
@@ -1278,6 +1274,7 @@ cqd
 cqdpowershell
 cqhttp
 crack psmodule
+crash
 crayon
 crc
 crc32
@@ -1712,7 +1709,6 @@ domain
 domains
 donothing
 dos
-dot
 dotenv
 dotfile
 dotfiles
@@ -2021,9 +2017,11 @@ exec
 executable
 executables
 execute
+exexml
 exif
 exiftool
 exists
+exitcode
 exo
 exov2
 exp
@@ -2287,7 +2285,6 @@ gallery
 game
 gamecategory:cards
 games
-gameserver
 garage
 gas
 gat
@@ -2357,7 +2354,6 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
-get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
@@ -2388,7 +2384,6 @@ gitops
 glob
 globalclipboard
 globaldashboard
-globalentry
 globbing
 glpi
 gmail
@@ -2586,7 +2581,6 @@ hol
 holiday
 home_automation
 homebrew
-homelandsecurity
 homeschooling
 hon
 horizontal
@@ -2780,6 +2774,7 @@ inheritance
 ini
 inifile
 initialization
+initials-avatar
 initiator
 innerjoin
 innertext
@@ -3028,6 +3023,7 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
+kurukuru
 kusto
 kvm
 kvp
@@ -3148,6 +3144,7 @@ list-item
 listener
 litecoin
 litedb
+literature
 live
 lldp
 lmhost
@@ -3591,7 +3588,6 @@ multidimenstional
 multimedia
 multipass
 multiple
-multiserver
 multithread
 multithreaded
 multithreaded-helpers
@@ -3714,6 +3710,7 @@ nic
 nightmare
 ninite
 ninja
+ninjaone
 ninjarmm
 nios
 nitrox
@@ -4018,6 +4015,7 @@ panther
 panzerbjrn
 pap
 paper
+papis
 paradox
 parallel
 parameter
@@ -4138,6 +4136,7 @@ pip
 pipe
 pipeline
 pipelines
+pipescript
 piraeus
 pivot
 pivotal
@@ -4749,7 +4748,6 @@ refresh
 refreshtoken
 reg
 regardscitoyen
-regcli
 regex
 region
 regions
@@ -4872,7 +4870,6 @@ rfc4291
 rfc5952
 rfc826
 rg
-rhapsody
 ribbon
 ribcl
 rightjoin
@@ -5411,9 +5408,7 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
-sourcemod
 sourceone
-sourcepawn
 sourcequery
 space
 spaces
@@ -5930,6 +5925,7 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
 trec
 tree
@@ -5958,7 +5954,6 @@ trustedrootcertificate
 trustprotectionplatform
 trx
 ts
-tsa
 tsd
 tsheets
 tsqlbestpractice
@@ -6017,6 +6012,7 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -6438,6 +6434,7 @@ weixin
 well-known
 wem
 wemsdk
+wer
 what3words
 whatismyip
 whd
