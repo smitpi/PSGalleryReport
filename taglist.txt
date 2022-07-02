@@ -1,10 +1,9 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 02 July 2022 02:38:45 UTC
+Updated: Saturday, 02 July 2022 09:52:49 UTC
 
 ?:
 ??
-.bat
 .env
 .net
 .ps1xml
@@ -44,6 +43,7 @@ Updated: Saturday, 02 July 2022 02:38:45 UTC
 3dprinting
 3par
 50
+64
 650
 650flb
 7
@@ -242,7 +242,6 @@ alm
 almrangers
 alpha
 alphafs
-alpine
 alpr
 alt3
 alter
@@ -441,6 +440,7 @@ auditpolicy
 audits
 aumid
 aut
+auth0
 authenticate
 authentication
 authenticationcertificate
@@ -740,7 +740,6 @@ brawlapi
 brawlstars
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -750,6 +749,7 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
+broadcast
 broot
 browser
 browserextension
@@ -882,7 +882,6 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
-certutil
 cf
 cfn
 ch9
@@ -1183,6 +1182,7 @@ connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
+connectednetwork
 connectexchange
 connection
 connections
@@ -1218,6 +1218,7 @@ continuousintegration
 control
 controller
 controlroom
+convereter
 converged_data_management
 conversational
 conversion
@@ -1305,6 +1306,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+crestron
 crlf
 crm
 crm2016
@@ -1348,6 +1350,9 @@ cumulocity
 curl
 curlie
 currency
+currency-convereter
+currency-exchange
+currencyconverterapi
 current
 custom
 customchecks
@@ -1463,6 +1468,7 @@ db
 db2
 dba
 dbaas
+dbase
 dbcommand
 dbfs
 dbnull
@@ -1628,7 +1634,6 @@ dism
 dismal
 display
 displayresolution
-distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1711,6 +1716,7 @@ dotfile
 dotfiles
 dotnet
 dotnet-cli
+dotnettool
 dotps1
 dots
 dotteddecimalip
@@ -1741,7 +1747,6 @@ drivertool.powercli
 driverupdates
 drm
 drop
-dropbox
 dropdatabase
 droplet
 droptable
@@ -1834,6 +1839,7 @@ educational
 effectiveroutes
 efi
 eigencontroles
+einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsearch
@@ -1975,6 +1981,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+evernote
 everydaypowershell
 everydayrewards
 everything
@@ -1991,6 +1998,7 @@ exception
 exceptionless
 exchange
 exchange_online
+exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2010,7 +2018,6 @@ exec
 executable
 executables
 execute
-exexml
 exif
 exiftool
 exists
@@ -2039,6 +2046,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+extend
 extended
 extendedevents
 extendedproperty
@@ -2113,7 +2121,6 @@ file-system
 file-transform
 file-type
 file-type-association
-fileencryption
 filelist
 filelog
 filelogger
@@ -2126,6 +2133,7 @@ filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
+filesharing
 filestorage
 filestream
 filesystem
@@ -2169,14 +2177,16 @@ fitbit
 fits
 five
 five9
+fix-log
+fix-protocol
 fixlet
 fixpack
 flac
 flash
 flasharray
-flashblade
 flatfile
 flatten
+flex
 flex-query
 flexdesk
 flickr
@@ -2225,10 +2235,12 @@ forwardcompatibility
 forwardedevents
 foudil
 fox
+foxpro
 fqdn
 framework
 france
 freeipa
+freenas
 freesoftwarefoundation
 freshbooks
 freshdesk
@@ -2327,6 +2339,7 @@ get-externalip
 get-firmwaretype
 get-help
 get-history
+get-iislog
 get-openfile
 get-openfiles
 get-pass
@@ -2345,6 +2358,8 @@ getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
 ggplot
+gh-actions
+ghactions
 ghc
 ghibli
 ghost
@@ -2743,6 +2758,7 @@ incidentresponse
 incontact
 indents
 index
+indexdb
 inedo
 inetfwrule
 influx
@@ -2904,7 +2920,9 @@ japanese
 jar
 jav
 java
+javamanager
 javascript
+javaversion
 jboss
 jdbc
 jdedwards
@@ -2925,6 +2943,7 @@ join-object
 jojoba
 joke
 jotform
+journal
 jpg
 js7
 jsm
@@ -2976,7 +2995,6 @@ key-vault
 key2wocas
 keybase
 keyboard
-keycipher
 keylight
 keymanagement
 keypair
@@ -3020,6 +3038,7 @@ labels
 lability
 labnotifications
 labrecipe
+labservices
 labsnippet
 labtech
 labtest
@@ -3055,6 +3074,7 @@ lbd
 lbi
 lbs
 lcm
+lcminternals
 ldap
 league
 lean
@@ -3109,7 +3129,6 @@ linkedin
 linkedinads
 linkid
 linq
-linqpad
 lint
 linting
 linux
@@ -3140,6 +3159,7 @@ local
 local-caching
 local-policy
 localadmin
+localconfigurationmanager
 localdb
 locale
 localgroup
@@ -3269,6 +3289,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3308,7 +3329,7 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
-mass
+masstransit
 masterconfiguration
 matcharray
 matchhashtable
@@ -3337,9 +3358,11 @@ mdatp
 mdb
 mdbc
 mde
+mdm
 mdop
 mdt
 mdx
+me4024
 mean
 measure
 measure-process
@@ -3376,6 +3399,7 @@ messaging
 messenger
 met
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -3458,6 +3482,7 @@ mlflow
 mmdc
 mobile
 mobilitycontroller
+mock
 mocking
 modify
 module
@@ -3509,7 +3534,6 @@ msal
 msband
 msbi
 msbuild
-mschart
 msdeploy
 msdn
 msdtc
@@ -3547,6 +3571,7 @@ mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
 mssqlplugins
+mssqlserver
 msteams
 mstest
 mstsc
@@ -3571,7 +3596,9 @@ musiccast
 mustache
 mutation
 mute
+mutex
 mva
+mvn
 mvp
 mx
 mxlookup
@@ -3631,6 +3658,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmask
 nets
 netsapiens
 netscaler
@@ -4019,7 +4047,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4279,14 +4306,13 @@ ppdm
 ppk
 pposh
 pps
-ppt
 pptp
-pptx
 pranks
 predicate
 prediction
 predictor
 preferences
+prefix
 preparead
 preparealldomains
 prepareschema
@@ -4672,6 +4698,7 @@ readthedocs
 realschule
 rebase
 reboot
+rebootnodeifneeded
 reckon
 recommendation
 reconcile
@@ -4945,6 +4972,7 @@ saml psmodule
 saml2
 sample
 sampler
+san
 sandbox
 sanitization
 sanitizer
@@ -5154,6 +5182,7 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5230,6 +5259,7 @@ show
 show-command
 show-on-command
 showoncommand
+shred
 shutdown
 sid
 sidecar
@@ -5408,6 +5438,7 @@ speedtester
 spf
 spi
 spinnaker
+splash
 splat
 splatting
 split
@@ -5420,7 +5451,6 @@ sports-tracker
 spotify
 spotify-api
 spotlight
-spotlightimages
 spp
 spread
 spreadsheet
@@ -5435,6 +5465,7 @@ sqlchangeautomation
 sqlclient
 sqlcmd
 sqlcodeguard
+sqldbatools
 sqldiagapi
 sqlexport
 sqlite
@@ -5547,7 +5578,6 @@ streak
 stream
 streamanalytics
 streaming
-stretch
 strictmode
 string
 string-template
@@ -5705,6 +5735,7 @@ taskscheduler
 taxjar
 taxonomy
 tcp
+tcp/ip
 tcpip
 tcpport
 tcpserver
@@ -5816,7 +5847,6 @@ thumbprint
 thunderbird
 thycotic
 tic-tac-toe
-tickle
 ticks
 tictactoe
 tiermodel
@@ -6052,7 +6082,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
@@ -6194,6 +6223,7 @@ verbose psmodule
 version
 versioncontrol
 versioning
+versionmanager
 versionnumber
 vertical
 vester
@@ -6246,6 +6276,7 @@ vlookup
 vlsm
 vm
 vmc
+vmfs
 vmgroup
 vmhost
 vmhostgroup
@@ -6409,6 +6440,7 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wid
 wif
@@ -6450,6 +6482,7 @@ windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
+windowsdesktopsearch
 windowseventlog
 windowsform
 windowsforms
@@ -6512,6 +6545,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
@@ -6604,6 +6638,7 @@ xdscresources
 xdt
 xel
 xenapp
+xendeskop
 xendesktop
 xero
 xevent
