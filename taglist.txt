@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 03 July 2022 09:52:51 UTC
+Updated: Sunday, 03 July 2022 17:53:37 UTC
 
 ?:
 ??
@@ -801,7 +801,6 @@ cache
 caching
 caf
 cal
-calc
 calculate
 calculator
 calendar
@@ -885,7 +884,6 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
-certutil
 cf
 cfn
 ch9
@@ -1126,6 +1124,7 @@ common
 common-data-service
 commonareaphone
 commondataservice
+commonmark
 communication
 community
 compare
@@ -2073,8 +2072,6 @@ f
 f#
 f5
 facebook
-factoryorchestrator
-factoryorchestratorclient
 facts
 faf
 failedlogin
@@ -2129,7 +2126,6 @@ file-system
 file-transform
 file-type
 file-type-association
-fileencryption
 filelist
 filelog
 filelogger
@@ -2195,6 +2191,7 @@ flash
 flasharray
 flashblade
 flatfile
+flatten
 flex
 flex-query
 flexdesk
@@ -2641,9 +2638,6 @@ hub
 hubot
 hubsite
 hubspot
-hubspotapi
-hubspotcrm
-hubspotps
 hudson
 hue
 humanizer
@@ -2874,7 +2868,6 @@ ipa
 ipaddress
 ipam
 ipbroadcast
-ipc
 ipcalc
 ipcalculator
 iperf
@@ -2983,6 +2976,8 @@ k8s
 kafka
 kaminario
 karma
+kaseya
+kaseyavsa
 katakana
 kb
 kbarticle
@@ -3002,7 +2997,6 @@ key-vault
 key2wocas
 keybase
 keyboard
-keycipher
 keylight
 keymanagement
 keypair
@@ -3196,7 +3190,6 @@ log4net
 loganalytics
 logbook
 logcat
-logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3330,7 +3323,6 @@ marketo
 marketplace
 marketplaceordering
 marking
-marklogic
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3674,7 +3666,6 @@ nets
 netsapiens
 netscaler
 netscape
-netsec
 netsh
 netstat
 netsuite
@@ -4058,7 +4049,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4173,7 +4163,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plugin
 plugins
@@ -4301,7 +4290,6 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
-powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4704,6 +4692,7 @@ rdpsession
 rdpsign
 rds
 rdsgw
+react-stockcharts
 read-slog
 readable
 readiness
@@ -4891,7 +4880,6 @@ ripe
 risk
 riskiq
 riskpro
-risksense
 rlan
 rmcp
 rmm
@@ -5195,6 +5183,7 @@ servicecatalog
 serviceconnectionpoint
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -5573,6 +5562,7 @@ stig
 stigrepo
 stingar
 stock
+stockcharts
 stocks
 stoicism
 stoics
@@ -5599,6 +5589,7 @@ string-template
 stringmanager
 stringmanagertool
 strings
+stringutilities
 strip-ansi
 stripe
 strongname
@@ -5609,6 +5600,7 @@ studio
 style
 su
 sub
+sub-directory
 sub-menu
 subatomix
 subjectname
@@ -5983,7 +5975,6 @@ twitch
 twitter
 twitter-api
 twitter-client
-twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -6017,6 +6008,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6336,6 +6328,7 @@ vrops
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vscode
 vsdevcmd
