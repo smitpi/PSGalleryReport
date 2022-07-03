@@ -1,9 +1,10 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 03 July 2022 02:38:09 UTC
+Updated: Sunday, 03 July 2022 09:52:51 UTC
 
 ?:
 ??
+.bat
 .env
 .net
 .ps1xml
@@ -194,6 +195,7 @@ aem
 aeries
 aeriessis
 aes
+afd
 affinity
 affinity-co
 affinity-crm
@@ -1040,6 +1042,8 @@ cluster
 clusterminimumvalues
 clusterplugins
 cmaccounts
+cmake
+cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1122,7 +1126,6 @@ common
 common-data-service
 commonareaphone
 commondataservice
-commonmark
 communication
 community
 compare
@@ -1428,6 +1431,7 @@ dataclassification
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 datafactory
 dataflow
 datagateway
@@ -2101,6 +2105,7 @@ fetch
 ffmpeg
 fhirservice
 fiche
+fiddler
 fido
 fido2
 fieldglass
@@ -2190,7 +2195,6 @@ flash
 flasharray
 flashblade
 flatfile
-flatten
 flex
 flex-query
 flexdesk
@@ -2466,6 +2470,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 gui
 gui.cs
@@ -2497,6 +2502,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+har
 hard
 hardblock
 harden
@@ -2977,8 +2983,6 @@ k8s
 kafka
 kaminario
 karma
-kaseya
-kaseyavsa
 katakana
 kb
 kbarticle
@@ -3031,6 +3035,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -4229,6 +4234,7 @@ poshgraph
 poshgraph-sdk
 poshgrouppolicy
 poshkeepass
+poshlog
 poshorigin
 poshproject
 poshprtg
@@ -4688,6 +4694,7 @@ rdb
 rdbms
 rdc
 rdcman
+rdcmanager
 rdfe
 rdg
 rdl
@@ -4697,7 +4704,6 @@ rdpsession
 rdpsign
 rds
 rdsgw
-react-stockcharts
 read-slog
 readable
 readiness
@@ -4826,6 +4832,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reset
 resharper
@@ -5177,6 +5184,7 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
+serverless
 servermanagement
 servers
 service
@@ -5187,7 +5195,6 @@ servicecatalog
 serviceconnectionpoint
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -5305,6 +5312,7 @@ sitemap
 siterecovery
 sites
 sitesystemserver
+sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5565,7 +5573,6 @@ stig
 stigrepo
 stingar
 stock
-stockcharts
 stocks
 stoicism
 stoics
@@ -5592,7 +5599,6 @@ string-template
 stringmanager
 stringmanagertool
 strings
-stringutilities
 strip-ansi
 stripe
 strongname
@@ -5603,7 +5609,6 @@ studio
 style
 su
 sub
-sub-directory
 sub-menu
 subatomix
 subjectname
@@ -6012,7 +6017,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6136,6 +6140,7 @@ url-encode
 url-shortener
 urlencode
 urlhaus
+urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6331,7 +6336,6 @@ vrops
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vscode
 vsdevcmd
@@ -6536,6 +6540,7 @@ winterminal
 winui
 wireless
 wirelessnetwork
+wireshark
 wisc
 wiscmail
 wisco365
