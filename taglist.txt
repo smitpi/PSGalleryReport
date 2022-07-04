@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 04 July 2022 09:52:34 UTC
+Updated: Monday, 04 July 2022 17:52:29 UTC
 
 ?:
 ??
@@ -264,6 +264,7 @@ anaconda
 analysis
 analysisservices
 analyst
+analyth
 analytics
 analyze
 analyzer
@@ -520,7 +521,6 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
 azstate
@@ -573,7 +573,6 @@ azurepack
 azurepipelines
 azurepolicy
 azureresourcemanager
-azureresources
 azurerm
 azurerms
 azurerunasconnection
@@ -664,7 +663,6 @@ bigquery
 bikeshed
 billing
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -734,6 +732,7 @@ boundaries
 boundarygroups
 box
 bpmn
+brainy
 branch
 brave
 brawlapi
@@ -834,6 +833,7 @@ catalyst
 catapult
 catesta
 cats
+catty
 cavium
 cb
 cblueshell
@@ -969,6 +969,7 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
+cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1103,6 +1104,7 @@ com
 combinations
 combine
 comic
+comical
 comics
 command
 command_line
@@ -1221,6 +1223,7 @@ controller
 controlroom
 convereter
 converged_data_management
+conversational
 conversion
 convert
 convert-dtexceptiontomessage
@@ -1407,9 +1410,12 @@ data_protection
 data-archive
 data-backup
 data-tier
+data-uri
+data-uri-converter
 database
 database-migrations
 databaseautomation
+databasemanagement
 databasemigration
 databases
 databasetools
@@ -1478,7 +1484,6 @@ dcim_b324
 deathface
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1888,6 +1893,7 @@ endpoints
 energy
 engine
 engineevent
+english
 enhancement
 enrichers
 enrichment
@@ -1976,6 +1982,7 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
+eventviewer
 eventwatch
 evergreen
 evernote
@@ -2047,7 +2054,6 @@ exportteams
 extend
 extended
 extendedevents
-extendedproperty
 extensibility
 extension
 extensionmethods
@@ -2107,6 +2113,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2122,6 +2130,7 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filereplication
 files
@@ -2133,6 +2142,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2185,6 +2197,7 @@ flex-query
 flexdesk
 flickr
 flowchart
+flowy
 flyway
 fmg
 focus
@@ -2625,10 +2638,15 @@ hub
 hubot
 hubsite
 hubspot
+hubspotapi
+hubspotcrm
+hubspotps
 hudson
 hue
 humanizer
+humanly
 humor
+humorous
 hunter
 hybrid
 hybridrunbookworker
@@ -2706,6 +2724,7 @@ ilo5
 ilocmdlets
 im
 image
+image-converter
 image-creation
 image-generation
 image-process
@@ -2817,6 +2836,7 @@ interval-timer
 intigua
 intranet
 intrusion
+intuitive
 intune
 intuneappwinutil
 inventory
@@ -3054,6 +3074,7 @@ latin
 latitude
 launcher
 layer
+layman
 layout
 lazywinadmin
 lbd
@@ -3288,7 +3309,6 @@ managementdashboard
 managementgroups
 managementpoint
 manager
-mangement
 manifest
 manual
 map
@@ -3435,6 +3455,7 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
+microsoftstore
 microsoftteams
 microsoftword
 middleware
@@ -3592,10 +3613,8 @@ mx
 mxlookup
 mycloudrevolution
 myhub
-myitprocess
 myjson
 myjson.com
-myob
 mysql
 mysql-database
 mytest
@@ -4011,6 +4030,7 @@ parclient
 pardot
 parititions
 parool
+parquet
 parse
 parser
 parsing
@@ -4094,6 +4114,7 @@ pfx
 pgp
 phabricator
 philips
+philosophical
 philpritchett
 phishing
 phoenix
@@ -4677,7 +4698,6 @@ rdp
 rdpsession
 rdpsign
 rds
-rdsgw
 react-stockcharts
 read-slog
 readable
@@ -4691,7 +4711,6 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
-record
 recording
 recovery
 recoveryservices
@@ -4765,7 +4784,6 @@ remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
-remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
@@ -4823,7 +4841,6 @@ resource_watcher
 resourceaccount
 resourcecontroller
 resourcegroup
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -4974,6 +4991,7 @@ sarcasm
 sarif
 sasdatasets
 sasxpt
+satirical
 save
 savedcreds
 savefile
@@ -5169,6 +5187,7 @@ servicecatalog
 serviceconnectionpoint
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -5204,6 +5223,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -5289,6 +5309,7 @@ sitethumbprint
 size
 skatterbrainz
 skattertools
+skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -5357,6 +5378,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -5559,6 +5581,7 @@ store
 storefront
 storeonce
 storeserv
+strava
 streak
 stream
 streamanalytics
@@ -5619,6 +5642,7 @@ surround
 survey
 surveymonkey
 sushi
+suspensive
 svesavov
 svetoslav
 svg
@@ -5797,6 +5821,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 texting
 textwrapping
@@ -5937,7 +5962,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tts
 tui
@@ -5986,7 +6010,6 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
-ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -6230,6 +6253,7 @@ virsh
 virtual
 virtualappliance
 virtualbox
+virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -6248,7 +6272,6 @@ virtualrtu
 virtualterminal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
@@ -6358,6 +6381,7 @@ wasabi
 watch
 watchguard
 watchmen
+watery
 wave
 wayk
 waykbastion
@@ -6430,6 +6454,7 @@ wid
 wif
 wifi
 wiki
+wildcard
 wildfly
 wim
 wim2vhd
@@ -6528,7 +6553,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
