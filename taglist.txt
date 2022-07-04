@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 04 July 2022 02:41:09 UTC
+Updated: Monday, 04 July 2022 09:52:34 UTC
 
 ?:
 ??
@@ -61,6 +61,7 @@ aad-graph
 aadc
 aadconnect
 aadgraph
+aadrm
 aadsc
 aadsecurity
 aadsts
@@ -118,6 +119,7 @@ activity
 activitycount
 actor-model
 actors
+acumatica
 ad
 ad_monitoring
 ad-ds
@@ -262,7 +264,6 @@ anaconda
 analysis
 analysisservices
 analyst
-analyth
 analytics
 analyze
 analyzer
@@ -733,7 +734,6 @@ boundaries
 boundarygroups
 box
 bpmn
-brainy
 branch
 brave
 brawlapi
@@ -799,6 +799,7 @@ cache
 caching
 caf
 cal
+calc
 calculate
 calculator
 calendar
@@ -833,7 +834,6 @@ catalyst
 catapult
 catesta
 cats
-catty
 cavium
 cb
 cblueshell
@@ -963,12 +963,12 @@ cix
 class
 classes
 classic
+classification
 classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
-cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1103,10 +1103,10 @@ com
 combinations
 combine
 comic
-comical
 comics
 command
 command_line
+command-validation
 commandcoverage
 commandlets
 commandline
@@ -1221,7 +1221,6 @@ controller
 controlroom
 convereter
 converged_data_management
-conversational
 conversion
 convert
 convert-dtexceptiontomessage
@@ -1408,12 +1407,9 @@ data_protection
 data-archive
 data-backup
 data-tier
-data-uri
-data-uri-converter
 database
 database-migrations
 databaseautomation
-databasemanagement
 databasemigration
 databases
 databasetools
@@ -1892,7 +1888,6 @@ endpoints
 energy
 engine
 engineevent
-english
 enhancement
 enrichers
 enrichment
@@ -1981,7 +1976,6 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
-eventviewer
 eventwatch
 evergreen
 evernote
@@ -2017,7 +2011,9 @@ exchangewebservices
 exclusion
 excuse
 exe
+exec
 executable
+executables
 execute
 exexml
 exif
@@ -2111,8 +2107,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2128,20 +2122,17 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filereplication
 files
 filesecurity
+fileserver
 fileserverresourcemanager
 fileshare
 filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2194,7 +2185,6 @@ flex-query
 flexdesk
 flickr
 flowchart
-flowy
 flyway
 fmg
 focus
@@ -2230,6 +2220,7 @@ fortigate
 fortigi
 fortimanager
 fortinet
+fortinetmanager
 fortios
 fortune
 forum
@@ -2293,6 +2284,7 @@ gateway
 gauge
 gavin
 gavineke
+gc
 gce
 gci
 gcloud
@@ -2342,6 +2334,7 @@ get-help
 get-history
 get-iislog
 get-openfile
+get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2632,15 +2625,10 @@ hub
 hubot
 hubsite
 hubspot
-hubspotapi
-hubspotcrm
-hubspotps
 hudson
 hue
 humanizer
-humanly
 humor
-humorous
 hunter
 hybrid
 hybridrunbookworker
@@ -2718,7 +2706,6 @@ ilo5
 ilocmdlets
 im
 image
-image-converter
 image-creation
 image-generation
 image-process
@@ -2830,7 +2817,6 @@ interval-timer
 intigua
 intranet
 intrusion
-intuitive
 intune
 intuneappwinutil
 inventory
@@ -2974,6 +2960,8 @@ k8s
 kafka
 kaminario
 karma
+kaseya
+kaseyavsa
 katakana
 kb
 kbarticle
@@ -3066,7 +3054,6 @@ latin
 latitude
 launcher
 layer
-layman
 layout
 lazywinadmin
 lbd
@@ -3128,6 +3115,7 @@ linkedin
 linkedinads
 linkid
 linq
+linqpad
 lint
 linting
 linux
@@ -3447,7 +3435,6 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
-microsoftstore
 microsoftteams
 microsoftword
 middleware
@@ -3465,6 +3452,7 @@ mindmeister
 minifier
 minimal
 minimum
+mip
 mipsdk
 miration-step
 mirror
@@ -3567,6 +3555,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -3660,6 +3651,7 @@ nets
 netsapiens
 netscaler
 netscape
+netsec
 netsh
 netstat
 netsuite
@@ -3876,7 +3868,6 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
-oop
 op
 opc
 open
@@ -3886,6 +3877,7 @@ openai
 openapi
 opendata
 openedge
+openfiles
 openhere
 openid
 openidconnect
@@ -4019,7 +4011,6 @@ parclient
 pardot
 parititions
 parool
-parquet
 parse
 parser
 parsing
@@ -4103,8 +4094,8 @@ pfx
 pgp
 phabricator
 philips
-philosophical
 philpritchett
+phishing
 phoenix
 phoneautomation
 photo
@@ -4130,6 +4121,7 @@ pip
 pipe
 pipeline
 pipelines
+pipescript
 piraeus
 pivot
 pivotal
@@ -4151,6 +4143,7 @@ playback
 playbook
 player
 playlists
+pleasant
 pleasantpasswordserver
 plex
 plist
@@ -4299,7 +4292,10 @@ powertooldsc
 ppdm
 ppk
 pposh
+pps
+ppt
 pptp
+pptx
 pranks
 predicate
 prediction
@@ -4496,6 +4492,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -4528,6 +4527,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -4807,6 +4809,7 @@ res
 rescan
 rescuetime
 reservation
+reset
 resharper
 resize
 resolution
@@ -4863,10 +4866,12 @@ ripe
 risk
 riskiq
 riskpro
+risksense
 rlan
 rmcp
 rmm
 rmmapi
+rms
 rng
 roarwrecker
 robbyrussel
@@ -4969,7 +4974,6 @@ sarcasm
 sarif
 sasdatasets
 sasxpt
-satirical
 save
 savedcreds
 savefile
@@ -5134,6 +5138,7 @@ sendgrid
 sendmail
 sense
 sensitive
+sensitivity
 sensor
 sensors
 sensu
@@ -5164,7 +5169,6 @@ servicecatalog
 serviceconnectionpoint
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -5189,6 +5193,7 @@ set_bios
 set-alias
 set-githubsecrets
 set-location
+set-openfiles
 set-pass
 set-psbreakpoint
 set-psenv
@@ -5199,7 +5204,6 @@ setting
 settings
 setup
 sevenzip
-sf
 sfb
 sftp
 sfx
@@ -5250,6 +5254,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -5284,7 +5289,6 @@ sitethumbprint
 size
 skatterbrainz
 skattertools
-skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -5341,6 +5345,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -5352,7 +5357,6 @@ social
 social-media
 socialmedia
 socketlabs
-sockets
 sodium
 software
 softwarecenter
@@ -5368,6 +5372,7 @@ solr
 soltra
 solution
 solutions
+sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -5461,6 +5466,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -5551,7 +5559,6 @@ store
 storefront
 storeonce
 storeserv
-strava
 streak
 stream
 streamanalytics
@@ -5612,7 +5619,6 @@ surround
 survey
 surveymonkey
 sushi
-suspensive
 svesavov
 svetoslav
 svg
@@ -5706,6 +5712,7 @@ target
 task
 task-runner
 taskbar
+tasker
 taskgroup
 taskmanagement
 tasks
@@ -5899,6 +5906,7 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
 trec
 tree
@@ -5971,6 +5979,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -6033,6 +6042,7 @@ ui
 ui/ux
 ui7
 uk
+ul
 ulid
 ulm
 um
@@ -6046,6 +6056,7 @@ unc
 unicode
 unidesk
 unifi
+unified
 unifiedauditlog
 unifiedlabeling
 uninstall
@@ -6219,7 +6230,6 @@ virsh
 virtual
 virtualappliance
 virtualbox
-virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -6297,6 +6307,7 @@ vrops
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vscode
 vsdevcmd
@@ -6347,7 +6358,6 @@ wasabi
 watch
 watchguard
 watchmen
-watery
 wave
 wayk
 waykbastion
@@ -6370,6 +6380,7 @@ webdav
 webdeploy
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6406,6 +6417,7 @@ wemsdk
 wer
 what3words
 whatismyip
+whd
 where
 whfb
 whiteboard
@@ -6418,7 +6430,6 @@ wid
 wif
 wifi
 wiki
-wildcard
 wildfly
 wim
 wim2vhd
