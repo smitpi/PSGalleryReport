@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 03 July 2022 17:53:37 UTC
+Updated: Monday, 04 July 2022 02:41:09 UTC
 
 ?:
 ??
@@ -61,7 +61,6 @@ aad-graph
 aadc
 aadconnect
 aadgraph
-aadrm
 aadsc
 aadsecurity
 aadsts
@@ -119,7 +118,6 @@ activity
 activitycount
 actor-model
 actors
-acumatica
 ad
 ad_monitoring
 ad-ds
@@ -884,6 +882,7 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
+certutil
 cf
 cfn
 ch9
@@ -964,7 +963,6 @@ cix
 class
 classes
 classic
-classification
 classified
 clccontrol
 clccontrolapiv1
@@ -1109,7 +1107,6 @@ comical
 comics
 command
 command_line
-command-validation
 commandcoverage
 commandlets
 commandline
@@ -2020,9 +2017,7 @@ exchangewebservices
 exclusion
 excuse
 exe
-exec
 executable
-executables
 execute
 exexml
 exif
@@ -2072,6 +2067,8 @@ f
 f#
 f5
 facebook
+factoryorchestrator
+factoryorchestratorclient
 facts
 faf
 failedlogin
@@ -2126,6 +2123,7 @@ file-system
 file-transform
 file-type
 file-type-association
+fileencryption
 filelist
 filelog
 filelogger
@@ -2135,7 +2133,6 @@ filename
 filereplication
 files
 filesecurity
-fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2233,7 +2230,6 @@ fortigate
 fortigi
 fortimanager
 fortinet
-fortinetmanager
 fortios
 fortune
 forum
@@ -2297,7 +2293,6 @@ gateway
 gauge
 gavin
 gavineke
-gc
 gce
 gci
 gcloud
@@ -2347,7 +2342,6 @@ get-help
 get-history
 get-iislog
 get-openfile
-get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2638,6 +2632,9 @@ hub
 hubot
 hubsite
 hubspot
+hubspotapi
+hubspotcrm
+hubspotps
 hudson
 hue
 humanizer
@@ -2868,6 +2865,7 @@ ipa
 ipaddress
 ipam
 ipbroadcast
+ipc
 ipcalc
 ipcalculator
 iperf
@@ -2976,8 +2974,6 @@ k8s
 kafka
 kaminario
 karma
-kaseya
-kaseyavsa
 katakana
 kb
 kbarticle
@@ -2997,6 +2993,7 @@ key-vault
 key2wocas
 keybase
 keyboard
+keycipher
 keylight
 keymanagement
 keypair
@@ -3131,7 +3128,6 @@ linkedin
 linkedinads
 linkid
 linq
-linqpad
 lint
 linting
 linux
@@ -3190,6 +3186,7 @@ log4net
 loganalytics
 logbook
 logcat
+logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3323,6 +3320,7 @@ marketo
 marketplace
 marketplaceordering
 marking
+marklogic
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3467,7 +3465,6 @@ mindmeister
 minifier
 minimal
 minimum
-mip
 mipsdk
 miration-step
 mirror
@@ -3570,9 +3567,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -3892,7 +3886,6 @@ openai
 openapi
 opendata
 openedge
-openfiles
 openhere
 openid
 openidconnect
@@ -4049,6 +4042,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4111,7 +4105,6 @@ phabricator
 philips
 philosophical
 philpritchett
-phishing
 phoenix
 phoneautomation
 photo
@@ -4137,7 +4130,6 @@ pip
 pipe
 pipeline
 pipelines
-pipescript
 piraeus
 pivot
 pivotal
@@ -4159,10 +4151,10 @@ playback
 playbook
 player
 playlists
-pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plugin
 plugins
@@ -4290,6 +4282,7 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4306,10 +4299,7 @@ powertooldsc
 ppdm
 ppk
 pposh
-pps
-ppt
 pptp
-pptx
 pranks
 predicate
 prediction
@@ -4506,9 +4496,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -4541,9 +4528,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -4823,7 +4807,6 @@ res
 rescan
 rescuetime
 reservation
-reset
 resharper
 resize
 resolution
@@ -4884,7 +4867,6 @@ rlan
 rmcp
 rmm
 rmmapi
-rms
 rng
 roarwrecker
 robbyrussel
@@ -5152,7 +5134,6 @@ sendgrid
 sendmail
 sense
 sensitive
-sensitivity
 sensor
 sensors
 sensu
@@ -5208,7 +5189,6 @@ set_bios
 set-alias
 set-githubsecrets
 set-location
-set-openfiles
 set-pass
 set-psbreakpoint
 set-psenv
@@ -5270,7 +5250,6 @@ siem
 sif
 sigma
 sign
-signalfx
 signalr
 signature
 signed
@@ -5362,7 +5341,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -5390,7 +5368,6 @@ solr
 soltra
 solution
 solutions
-sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -5484,9 +5461,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -5732,7 +5706,6 @@ target
 task
 task-runner
 taskbar
-tasker
 taskgroup
 taskmanagement
 tasks
@@ -5817,7 +5790,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 texting
 textwrapping
@@ -5927,7 +5899,6 @@ translit
 transliteration
 transmission
 transparency
-transpilation
 trap
 trec
 tree
@@ -5975,6 +5946,7 @@ twitch
 twitter
 twitter-api
 twitter-client
+twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -5999,7 +5971,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -6062,7 +6033,6 @@ ui
 ui/ux
 ui7
 uk
-ul
 ulid
 ulm
 um
@@ -6076,7 +6046,6 @@ unc
 unicode
 unidesk
 unifi
-unified
 unifiedauditlog
 unifiedlabeling
 uninstall
@@ -6328,7 +6297,6 @@ vrops
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vscode
 vsdevcmd
@@ -6402,7 +6370,6 @@ webdav
 webdeploy
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6439,7 +6406,6 @@ wemsdk
 wer
 what3words
 whatismyip
-whd
 where
 whfb
 whiteboard
