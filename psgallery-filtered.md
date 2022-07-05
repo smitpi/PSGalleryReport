@@ -5,6 +5,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [CertCheck](https://www.powershellgallery.com/Packages/CertCheck/0.6.7) | 0.6.7
+
+### Published: 07/05/2022 01:02:28 by Jesse Reichman
+
+Certificate Checker
+
+__Downloads__: 80 | __Repository__: https://github.com/archmachina/ps-certcheck/
+
+## [firstvoucher.Client](https://www.powershellgallery.com/Packages/firstvoucher.Client/2.3.18) | 2.3.18
+
+### Published: 07/04/2022 22:10:41 by firstvoucher.com
+
+firstvoucher.com PowerShell Module
+
+__Downloads__: 312 | __Repository__: 
+
+## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.7) | 0.0.7
+
+### Published: 07/04/2022 22:04:30 by James Brundage
+
+An Extensible Transpiler for PowerShell (and anything else)
+
+__Downloads__: 15 | __Repository__: https://github.com/StartAutomating/PipeScript
+
+## [BioNameGenerator](https://www.powershellgallery.com/Packages/BioNameGenerator/0.1.1) | 0.1.1
+
+### Published: 07/04/2022 21:38:13 by Davi Marcon
+
+A name generator for projects, versions and other stuff written in powershell
+
+__Downloads__: 0 | __Repository__: https://github.com/Mxrcon/BioNameGenerator
+
+## [AzExpression](https://www.powershellgallery.com/Packages/AzExpression/0.1.0) | 0.1.0
+
+### Published: 07/04/2022 20:47:51 by SimonWahlin
+
+Small module with functions that let you run Azure ARM template functions from PowerShell
+
+__Downloads__: 0 | __Repository__: https://github.com/SimonWahlin/AzExpression
+
+## [TShark](https://www.powershellgallery.com/Packages/TShark/1.0.0) | 1.0.0
+
+### Published: 07/04/2022 20:30:10 by Adam Bacon
+
+PowerShell cmdlet for tshark.exe
+
+__Downloads__: 0 | __Repository__: 
+
+## [Devolutions.Hub](https://www.powershellgallery.com/Packages/Devolutions.Hub/2022.7.4) | 2022.7.4
+
+### Published: 07/04/2022 20:06:40 by Devolutions
+
+Devolutions Password Hub PowerShell Module
+
+__Downloads__: 476 | __Repository__: https://password.devolutions.net/
+
+## [PSServU](https://www.powershellgallery.com/Packages/PSServU/1.9) | 1.9
+
+### Published: 07/04/2022 19:33:51 by Mark.Raming
+
+Automation command to script interaction with SOLARWINDs ServU File Transfer Server, such as up and download files
+
+__Downloads__: 456 | __Repository__: https://github.com/mraming/PSServ-U
+
+## [UniversalDashboard.TinyMCE](https://www.powershellgallery.com/Packages/UniversalDashboard.TinyMCE/1.0.1) | 1.0.1
+
+### Published: 07/04/2022 18:37:53 by Adam Driscoll
+
+TinyMCE Editor for Universal Dashboard.
+
+__Downloads__: 3 | __Repository__: https://github.com/adamdriscoll/ud-tinymce
+
 ## [LARSINUS](https://www.powershellgallery.com/Packages/LARSINUS/1.2207.4.1903) | 1.2207.4.1903
 
 ### Published: 07/04/2022 17:08:35 by Lars Halvorsen
@@ -29,14 +101,6 @@ Exchange Web Services (EWS) tool to perform different operations
 
 __Downloads__: 7,465 | __Repository__: https://github.com/agallego-css/ewsgui/
 
-## [BioNameGenerator](https://www.powershellgallery.com/Packages/BioNameGenerator/0.0.1) | 0.0.1
-
-### Published: 07/04/2022 15:21:25 by Davi Marcon (@mxrcon)
-
-A name generator for projects, versions and other stuff written in powershell
-
-__Downloads__: 0 | __Repository__: https://github.com/Mxrcon/name_generator
-
 ## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.7.0) | 7.7.0
 
 ### Published: 07/04/2022 15:15:53 by Douglas Finke
@@ -44,7 +108,7 @@ __Downloads__: 0 | __Repository__: https://github.com/Mxrcon/name_generator
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,676,707 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,676,678 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.98) | 1.0.98
 
@@ -78,14 +142,6 @@ Easy to register tab completions with data structures. Easy to customize.
 
 __Downloads__: 36 | __Repository__: https://github.com/aliuq/Register-Completion
 
-## [DesktopControl](https://www.powershellgallery.com/Packages/DesktopControl/2.2.1.8) | 2.2.1.8
-
-### Published: 07/04/2022 12:36:42 by Elmar Niederkofler
-
-DesktopControl
-
-__Downloads__: 470 | __Repository__: 
-
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/2.0.2) | 2.0.2
 
 ### Published: 07/04/2022 11:50:16 by Fabrice Sanga
@@ -108,7 +164,7 @@ __Downloads__: 382 | __Repository__: https://github.com/hugoalh-studio/ghactions
 
 Productivity tools for RelateIT Business Central.
 
-__Downloads__: 3,103 | __Repository__: 
+__Downloads__: 3,100 | __Repository__: 
 
 ## [Exo.RoomsManagement](https://www.powershellgallery.com/Packages/Exo.RoomsManagement/1.0.3.4) | 1.0.3.4
 
@@ -125,14 +181,6 @@ __Downloads__: 33 | __Repository__: https://github.com/CoreySchneider-MSFT/Exo.R
 PowerShell DSC Resource to expand an archive file to a specific path.
 
 __Downloads__: 6,196 | __Repository__: https://github.com/mkht/7ZipArchiveDsc
-
-## [UniversalDashboard.TinyMCE](https://www.powershellgallery.com/Packages/UniversalDashboard.TinyMCE/1.0.0) | 1.0.0
-
-### Published: 07/04/2022 00:50:14 by Adam Driscoll
-
-TinyMCE Editor for Universal Dashboard.
-
-__Downloads__: 3 | __Repository__: https://github.com/ironmansoftware/ud-tinymce
 
 ## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.2) | 0.0.0.2
 
@@ -174,7 +222,7 @@ Some of the authentication-related functions:
 - New-AzureDevOpsAuthHeader
 - New-GraphAPIAuthHeader
 
-__Downloads__: 91 | __Repository__: https://doitpsway.com/series/azure
+__Downloads__: 90 | __Repository__: https://doitpsway.com/series/azure
 
 ## [TrainingUtils.IEVM](https://www.powershellgallery.com/Packages/TrainingUtils.IEVM/1.0.2) | 1.0.2
 
@@ -198,7 +246,7 @@ __Downloads__: 4 | __Repository__: https://github.com/kevinholtkamp/pshelpertool
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,714,073 | __Repository__: https://dbatools.io/
+__Downloads__: 1,714,035 | __Repository__: https://dbatools.io/
 
 ## [PSCMake](https://www.powershellgallery.com/Packages/PSCMake/0.6.0) | 0.6.0
 
@@ -207,14 +255,6 @@ __Downloads__: 1,714,073 | __Repository__: https://dbatools.io/
 PSCMake provides cmdlets for working with CMakePreset-based CMake builds.
 
 __Downloads__: 7 | __Repository__: https://github.com/MarkSchofield/PSCMake
-
-## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.6) | 0.0.6
-
-### Published: 07/02/2022 21:22:50 by James Brundage
-
-An Extensible Transpiler for PowerShell (and anything else)
-
-__Downloads__: 15 | __Repository__: https://github.com/StartAutomating/PipeScript
 
 ## [Homebrew](https://www.powershellgallery.com/Packages/Homebrew/0.0.1) | 0.0.1
 
@@ -320,14 +360,6 @@ SdnDiagnostics is a tool used to simplify the data collection and diagnostics of
 
 __Downloads__: 2,355 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
-## [CertCheck](https://www.powershellgallery.com/Packages/CertCheck/0.6.6) | 0.6.6
-
-### Published: 07/01/2022 12:57:26 by Jesse Reichman
-
-Certificate Checker
-
-__Downloads__: 80 | __Repository__: https://github.com/archmachina/ps-certcheck/
-
 ## [Alt3.Docusaurus.Powershell](https://www.powershellgallery.com/Packages/Alt3.Docusaurus.Powershell/1.0.30) | 1.0.30
 
 ### Published: 07/01/2022 11:49:40 by R. van Erkel
@@ -344,7 +376,7 @@ __Downloads__: 1,025 | __Repository__: https://www.github.com/alt3/Docusaurus.Po
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 709,799 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 709,797 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PentaWork.Xrm.PowerShell](https://www.powershellgallery.com/Packages/PentaWork.Xrm.PowerShell/1.5.3) | 1.5.3
 
@@ -457,7 +489,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 50,351,030 | __Repository__: http://get-carbon.org/
+__Downloads__: 50,350,750 | __Repository__: http://get-carbon.org/
 
 ## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.79) | 0.0.79
 
@@ -473,7 +505,7 @@ __Downloads__: 49,969 | __Repository__: https://github.com/EvotecIT/Testimo
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 138,225 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 138,227 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [BinaryTree.Power365](https://www.powershellgallery.com/Packages/BinaryTree.Power365/20.12.7.1513) | 20.12.7.1513
 
@@ -513,7 +545,7 @@ __Downloads__: 32,215 | __Repository__: https://github.com/AutomatedLab/Automate
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 1,971,841 | __Repository__: https://vcredist.com/
+__Downloads__: 1,971,826 | __Repository__: https://vcredist.com/
 
 ## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.43.0) | 5.43.0
 
@@ -609,7 +641,7 @@ __Downloads__: 266 | __Repository__: https://github.com/jhoek/UncommonSense.Xlif
 
 Module for PowerShell Universal.
 
-__Downloads__: 24,066 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 24,065 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.6.30.1) | 22.6.30.1
 
@@ -617,7 +649,7 @@ __Downloads__: 24,066 | __Repository__: https://ironmansoftware.com/powershell-u
 
 Gary Blok New Stuff Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 245,509 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 245,522 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.7.0) | 2.1.7.0
 
@@ -689,7 +721,7 @@ __Downloads__: 15 | __Repository__:
 
 Tedon Scriptbook Module
 
-__Downloads__: 457 | __Repository__: https://github.com/ehagen/Scriptbook
+__Downloads__: 454 | __Repository__: https://github.com/ehagen/Scriptbook
 
 ## [MSchauer.SPFX.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.SPFX.PowerShell/1.0.0) | 1.0.0
 
@@ -811,22 +843,6 @@ PowerShell Module for GitHub.Collaborators
 
 __Downloads__: 128 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.8) | 0.0.8
-
-### Published: 06/29/2022 06:39:42 by Marius Storhaug
-
-PowerShell Module for GitHub.Meta
-
-__Downloads__: 157 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.EnterpriseAdmin](https://www.powershellgallery.com/Packages/GitHub.EnterpriseAdmin/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:42 by Marius Storhaug
-
-PowerShell Module for GitHub.EnterpriseAdmin
-
-__Downloads__: 144 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.9) | 0.0.9
 
 ### Published: 06/29/2022 06:39:42 by Marius Storhaug
@@ -842,6 +858,22 @@ __Downloads__: 142 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Migrations
 
 __Downloads__: 127 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.EnterpriseAdmin](https://www.powershellgallery.com/Packages/GitHub.EnterpriseAdmin/0.0.9) | 0.0.9
+
+### Published: 06/29/2022 06:39:42 by Marius Storhaug
+
+PowerShell Module for GitHub.EnterpriseAdmin
+
+__Downloads__: 144 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.8) | 0.0.8
+
+### Published: 06/29/2022 06:39:42 by Marius Storhaug
+
+PowerShell Module for GitHub.Meta
+
+__Downloads__: 157 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Gists](https://www.powershellgallery.com/Packages/GitHub.Gists/0.0.9) | 0.0.9
 
@@ -859,6 +891,14 @@ PowerShell Module for GitHub.Webhooks
 
 __Downloads__: 122 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
+## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.6) | 0.0.6
+
+### Published: 06/29/2022 06:39:39 by Marius Storhaug
+
+PowerShell Module for GitHub.Deployments
+
+__Downloads__: 125 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
 ## [GitHub.Branches](https://www.powershellgallery.com/Packages/GitHub.Branches/0.0.7) | 0.0.7
 
 ### Published: 06/29/2022 06:39:39 by Marius Storhaug
@@ -875,6 +915,14 @@ PowerShell Module for GitHub.Dependabot
 
 __Downloads__: 137 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
+## [GitHub.Licenses](https://www.powershellgallery.com/Packages/GitHub.Licenses/0.0.9) | 0.0.9
+
+### Published: 06/29/2022 06:39:38 by Marius Storhaug
+
+PowerShell Module for GitHub.Licenses
+
+__Downloads__: 127 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
 ## [GitHub.Packages](https://www.powershellgallery.com/Packages/GitHub.Packages/0.0.9) | 0.0.9
 
 ### Published: 06/29/2022 06:39:38 by Marius Storhaug
@@ -883,13 +931,13 @@ PowerShell Module for GitHub.Packages
 
 __Downloads__: 135 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Licenses](https://www.powershellgallery.com/Packages/GitHub.Licenses/0.0.9) | 0.0.9
+## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.9) | 0.0.9
 
-### Published: 06/29/2022 06:39:38 by Marius Storhaug
+### Published: 06/29/2022 06:39:37 by Marius Storhaug
 
-PowerShell Module for GitHub.Licenses
+PowerShell Module for GitHub.OAuthAuthorizations
 
-__Downloads__: 127 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 165 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Projects](https://www.powershellgallery.com/Packages/GitHub.Projects/0.0.9) | 0.0.9
 
@@ -899,13 +947,13 @@ PowerShell Module for GitHub.Projects
 
 __Downloads__: 126 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.9) | 0.0.9
+## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.8) | 0.0.8
 
-### Published: 06/29/2022 06:39:37 by Marius Storhaug
+### Published: 06/29/2022 06:39:36 by Marius Storhaug
 
-PowerShell Module for GitHub.OAuthAuthorizations
+PowerShell Module for GitHub.Pulls
 
-__Downloads__: 165 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 133 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Checks](https://www.powershellgallery.com/Packages/GitHub.Checks/0.0.9) | 0.0.9
 
@@ -922,14 +970,6 @@ __Downloads__: 131 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Teams
 
 __Downloads__: 129 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.8) | 0.0.8
-
-### Published: 06/29/2022 06:39:36 by Marius Storhaug
-
-PowerShell Module for GitHub.Pulls
-
-__Downloads__: 133 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.CodeScanning](https://www.powershellgallery.com/Packages/GitHub.CodeScanning/0.0.9) | 0.0.9
 
@@ -955,14 +995,6 @@ PowerShell Module for GitHub.RateLimit
 
 __Downloads__: 138 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:32 by Marius Storhaug
-
-PowerShell Module for GitHub.Billing
-
-__Downloads__: 156 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Users](https://www.powershellgallery.com/Packages/GitHub.Users/0.0.9) | 0.0.9
 
 ### Published: 06/29/2022 06:39:32 by Marius Storhaug
@@ -970,6 +1002,14 @@ __Downloads__: 156 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Users
 
 __Downloads__: 128 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.9) | 0.0.9
+
+### Published: 06/29/2022 06:39:32 by Marius Storhaug
+
+PowerShell Module for GitHub.Billing
+
+__Downloads__: 156 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.9) | 0.0.9
 
@@ -1034,6 +1074,14 @@ __Downloads__: 148 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Repos
 
 __Downloads__: 126 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Reactions](https://www.powershellgallery.com/Packages/GitHub.Reactions/0.0.9) | 0.0.9
+
+### Published: 06/29/2022 06:39:18 by Marius Storhaug
+
+PowerShell Module for GitHub.Reactions
+
+__Downloads__: 125 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [SetLocationWSLOverride](https://www.powershellgallery.com/Packages/SetLocationWSLOverride/1.1.1) | 1.1.1
 
@@ -1601,7 +1649,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 400,038 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 400,036 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [OCI.PSModules.Keymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Keymanagement/35.2.0) | 35.2.0
 
@@ -2027,52 +2075,4 @@ This modules provides Cmdlets for OCI Analytics Service
 
 __Downloads__: 1,448 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/35.2.0) | 35.2.0
-
-### Published: 06/28/2022 20:23:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aivision Service
-
-__Downloads__: 405 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/35.2.0) | 35.2.0
-
-### Published: 06/28/2022 20:23:04 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aispeech Service
-
-__Downloads__: 493 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/35.2.0) | 35.2.0
-
-### Published: 06/28/2022 20:22:58 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 1,833 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aianomalydetection](https://www.powershellgallery.com/Packages/OCI.PSModules.Aianomalydetection/35.2.0) | 35.2.0
-
-### Published: 06/28/2022 20:22:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aianomalydetection Service
-
-__Downloads__: 950 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/35.2.0) | 35.2.0
-
-### Published: 06/28/2022 20:22:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 169 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/35.2.0) | 35.2.0
-
-### Published: 06/28/2022 20:19:20 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 43,569 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 04 July 2022 17:52:19 UTC*
+*Updated: Tuesday, 05 July 2022 02:39:27 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 04 July 2022 17:52:29 UTC
+Updated: Tuesday, 05 July 2022 02:39:37 UTC
 
 ?:
 ??
@@ -521,6 +521,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azstate
@@ -573,6 +574,7 @@ azurepack
 azurepipelines
 azurepolicy
 azureresourcemanager
+azureresources
 azurerm
 azurerms
 azurerunasconnection
@@ -663,6 +665,7 @@ bigquery
 bikeshed
 billing
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -1484,6 +1487,7 @@ dcim_b324
 deathface
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -2054,6 +2058,7 @@ exportteams
 extend
 extended
 extendedevents
+extendedproperty
 extensibility
 extension
 extensionmethods
@@ -2163,7 +2168,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialforce
 find
 find-path
 findlocation
@@ -2482,7 +2486,6 @@ gzip
 ha
 haarlemsdagblad
 hack
-hacktoberfest
 hadoop
 hafr
 hailstone
@@ -3309,6 +3312,7 @@ managementdashboard
 managementgroups
 managementpoint
 manager
+mangement
 manifest
 manual
 map
@@ -3613,8 +3617,10 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myitprocess
 myjson
 myjson.com
+myob
 mysql
 mysql-database
 mytest
@@ -3887,6 +3893,7 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
+oop
 op
 opc
 open
@@ -4331,7 +4338,6 @@ preprocessing
 preprocessor
 presentation
 presenter
-presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4698,6 +4704,7 @@ rdp
 rdpsession
 rdpsign
 rds
+rdsgw
 react-stockcharts
 read-slog
 readable
@@ -4784,6 +4791,7 @@ remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
+remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
@@ -4841,6 +4849,7 @@ resource_watcher
 resourceaccount
 resourcecontroller
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -5036,7 +5045,6 @@ schulverwaltung
 science
 scissors
 scm
-scmanager
 scom
 sconfig
 scoop
@@ -5264,8 +5272,6 @@ shortpath
 shotgun
 show
 show-command
-show-on-command
-showoncommand
 shred
 shutdown
 sid
@@ -5779,7 +5785,6 @@ template
 template-engine
 templates
 templating
-temporary
 tenable
 tenable.sc
 tenant
@@ -5962,6 +5967,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tts
 tui
@@ -6010,6 +6016,7 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
+ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -6272,6 +6279,7 @@ virtualrtu
 virtualterminal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualization
@@ -6553,6 +6561,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
