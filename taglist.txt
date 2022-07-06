@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 06 July 2022 02:42:50 UTC
+Updated: Wednesday, 06 July 2022 09:59:45 UTC
 
 ?:
 ??
@@ -400,7 +400,6 @@ asp.net
 aspnet
 aspnet_regiis
 asr
-assembleenationale
 assemblymeta
 assert
 assertion
@@ -524,6 +523,7 @@ azresources
 azsdk
 azsk
 azstate
+azsubnet
 azuead
 azure
 azure_ad
@@ -663,7 +663,6 @@ bigquery
 bikeshed
 billing
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -1016,6 +1015,7 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
+cloudant
 cloudbees
 cloudberry
 cloudblue
@@ -1062,7 +1062,6 @@ cmtrace
 cmwt
 cns
 coa
-cockroachdb
 codaamok
 code
 code-page
@@ -1317,7 +1316,6 @@ cron
 crontab
 cropping
 cross-platform
-cross-reference
 crossjoin
 crossover
 crossplatform
@@ -1404,6 +1402,7 @@ dash
 dashboard
 dashboardapi
 dashboardservice
+dast
 data
 data_protection
 data-archive
@@ -1483,7 +1482,6 @@ dcim_b324
 deathface
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1523,7 +1521,6 @@ dellemc
 delta
 demand
 demo
-democratie
 demonstration
 demultiplex
 demultiplexing
@@ -1534,7 +1531,6 @@ deployment
 deploymentconfig
 deploymentmanager
 deploymentresourceprovider
-depute
 der
 description
 deserialize
@@ -1995,6 +1991,7 @@ evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -2052,7 +2049,6 @@ exportteams
 extend
 extended
 extendedevents
-extendedproperty
 extensibility
 extension
 extensionmethods
@@ -2244,7 +2240,6 @@ fox
 foxpro
 fqdn
 framework
-france
 freeipa
 freenas
 freesoftwarefoundation
@@ -2405,6 +2400,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2603,6 +2599,7 @@ hostsfile
 hot-water
 hotkey
 hotkeys
+howto
 hp
 hpc
 hpcc
@@ -3083,8 +3080,12 @@ ldap
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leetabit
 leftjoin
@@ -3315,7 +3316,6 @@ maps
 mapsapi
 mariadb
 mark
-markdig
 markdown
 markdownrender
 marketing
@@ -3608,7 +3608,6 @@ mx
 mxlookup
 mycloudrevolution
 myhub
-myitprocess
 myjson
 myjson.com
 myob
@@ -3748,6 +3747,7 @@ notify-send
 nova
 npgsql
 npm
+npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -3892,7 +3892,6 @@ open-ai
 open-ssh
 openai
 openapi
-opendata
 openedge
 openfiles
 openhere
@@ -4155,6 +4154,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -4267,8 +4267,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4279,10 +4281,13 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4293,6 +4298,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
@@ -4400,6 +4406,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4581,6 +4590,7 @@ purestorage
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -4644,6 +4654,7 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
+raisers
 raj
 ram
 ram-it
@@ -4732,13 +4743,11 @@ refactor
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
 refreshtoken
 reg
-regardscitoyen
 regcli
 regex
 region
@@ -5135,8 +5144,6 @@ selfsigned
 semantic
 semantic-versioning
 semver
-senat
-senateur
 send
 send-logtologanalytics
 send-mailmessage
@@ -5212,6 +5219,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -5278,6 +5286,7 @@ simplivity
 simplysql
 sin
 single
+singlestore
 singleton
 sinks
 sintez
@@ -5461,7 +5470,6 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldbatools
-sqldiagapi
 sqlexport
 sqlite
 sqlitebynarymodule
@@ -5599,6 +5607,7 @@ sublimetext
 submission
 subnet
 subnet-calculator
+subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -5898,6 +5907,7 @@ trafficmanager
 trafficmarking
 train
 training
+training-course
 tram
 transact
 transaction
@@ -5946,6 +5956,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tts
 tui
@@ -6257,7 +6268,6 @@ virtualrtu
 virtualterminal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
@@ -6288,6 +6298,7 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
+vnet
 vnmonitoring
 vnugglets
 vnugglets.com
@@ -6392,6 +6403,7 @@ webhdfs
 webhelpdesk
 webhistory
 webhook
+webinspect
 webjea
 webmanagement
 webmanagementservice
@@ -6511,7 +6523,6 @@ winrar
 winrm
 winrs
 winrt
-wins
 winsat
 winscp
 wintellect
@@ -6537,6 +6548,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
@@ -6608,8 +6620,6 @@ wvd
 www
 x-cart
 x.509
-x1
-x2
 x509
 x509cerificate
 x509cerificate2
@@ -6655,7 +6665,6 @@ xpo
 xprotect
 xrm
 xsa
-xtremio
 xtrude
 xunit
 xwiki
