@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 05 July 2022 17:53:16 UTC
+Updated: Wednesday, 06 July 2022 02:42:50 UTC
 
 ?:
 ??
@@ -524,7 +524,6 @@ azresources
 azsdk
 azsk
 azstate
-azsubnet
 azuead
 azure
 azure_ad
@@ -641,6 +640,7 @@ beam3d
 bearded-avenger
 bearer
 beautifier
+beautify
 beckhoff
 beep
 benchmark
@@ -1016,7 +1016,6 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
-cloudant
 cloudbees
 cloudberry
 cloudblue
@@ -1318,6 +1317,7 @@ cron
 crontab
 cropping
 cross-platform
+cross-reference
 crossjoin
 crossover
 crossplatform
@@ -1404,7 +1404,6 @@ dash
 dashboard
 dashboardapi
 dashboardservice
-dast
 data
 data_protection
 data-archive
@@ -1902,7 +1901,6 @@ enteo
 enter
 enterprise
 enterprise-scale
-enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -1997,7 +1995,6 @@ evtx
 ews
 exact
 example
-examples
 excel
 exception
 exceptionless
@@ -2281,7 +2278,6 @@ functions
 funds
 funny
 fuzzy
-fyi
 fzf
 gac
 gainz
@@ -2409,7 +2405,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2608,7 +2603,6 @@ hostsfile
 hot-water
 hotkey
 hotkeys
-howto
 hp
 hpc
 hpcc
@@ -3089,12 +3083,8 @@ ldap
 league
 lean
 learn
-learn-powershell
-learn-powershell-series
 learning
-learning-powershell
 learningpowershell
-learnpowershell
 lease
 leetabit
 leftjoin
@@ -3197,6 +3187,7 @@ log-rotation
 log4net
 loganalytics
 logbook
+logcat
 logentry
 logfile
 logfilearchivearchive
@@ -3463,6 +3454,7 @@ microsoftstore
 microsoftteams
 microsoftword
 middleware
+midserver
 migrate
 migration
 migration-tool
@@ -3756,7 +3748,6 @@ notify-send
 nova
 npgsql
 npm
-npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -3908,7 +3899,6 @@ openhere
 openid
 openidconnect
 openinghours
-openport
 openscad
 opensourceinitiative
 openssh
@@ -4165,7 +4155,6 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
@@ -4278,10 +4267,8 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
-powershell-course
 powershell-credentials
 powershell-dsc
-powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4292,13 +4279,10 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
-powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
-powershellcourse
-powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4309,7 +4293,6 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
-powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
@@ -4428,6 +4411,7 @@ prtg_network_monitor
 prtgnetworkmonitor
 ps
 ps-ncentral
+ps.credentialmanager
 ps1
 ps1xml
 ps1xmlgen
@@ -4660,7 +4644,6 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
-raisers
 raj
 ram
 ram-it
@@ -4749,6 +4732,7 @@ refactor
 refeds
 refeds-mfa
 refedsmfa
+reference
 reflect
 reflection
 refresh
@@ -5146,6 +5130,7 @@ self
 self-hosted
 self-service
 self-signed
+selfdispatch
 selfsigned
 semantic
 semantic-versioning
@@ -5227,7 +5212,6 @@ setting
 settings
 setup
 sevenzip
-sf
 sfb
 sftp
 sfx
@@ -5287,13 +5271,13 @@ signtool
 silk
 sim
 simple
+simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
 simplysql
 sin
 single
-singlestore
 singleton
 sinks
 sintez
@@ -5615,7 +5599,6 @@ sublimetext
 submission
 subnet
 subnet-calculator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -5643,6 +5626,7 @@ suppress
 supress-reboot
 surround
 survey
+surveymonkey
 sushi
 suspensive
 svesavov
@@ -5715,7 +5699,6 @@ tabexpansion
 tabexpansion2
 tablacus
 table
-tableau
 tables
 tablestorage
 tabs
@@ -5748,7 +5731,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcpserver
 tcptest
 tcx
@@ -5762,6 +5744,7 @@ teams
 teamservices
 teamspolicy
 teamviewer
+techdirect
 techedna2014
 techlog
 techsmith
@@ -5915,7 +5898,6 @@ trafficmanager
 trafficmarking
 train
 training
-training-course
 tram
 transact
 transaction
@@ -5964,7 +5946,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tts
 tui
@@ -6262,7 +6243,9 @@ virtualdesktop
 virtualdesktopdevops
 virtualengine
 virtualenv
+virtualenv-manager
 virtualenvironment
+virtualenvwrapper
 virtualization
 virtualmachine
 virtualmachines
@@ -6305,7 +6288,6 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
-vnet
 vnmonitoring
 vnugglets
 vnugglets.com
@@ -6391,6 +6373,7 @@ waykbastion
 wbem
 wcf
 wcry
+wdapi
 wds
 weather
 web
@@ -6409,7 +6392,6 @@ webhdfs
 webhelpdesk
 webhistory
 webhook
-webinspect
 webjea
 webmanagement
 webmanagementservice
@@ -6490,6 +6472,7 @@ windows10
 windows10mui
 windows365
 windowsadmincenter
+windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
 windowseventlog
@@ -6554,7 +6537,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
