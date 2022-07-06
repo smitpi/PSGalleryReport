@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 06 July 2022 09:59:45 UTC
+Updated: Wednesday, 06 July 2022 17:53:30 UTC
 
 ?:
 ??
@@ -400,6 +400,7 @@ asp.net
 aspnet
 aspnet_regiis
 asr
+assembleenationale
 assemblymeta
 assert
 assertion
@@ -663,6 +664,7 @@ bigquery
 bikeshed
 billing
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -1062,6 +1064,7 @@ cmtrace
 cmwt
 cns
 coa
+cockroachdb
 codaamok
 code
 code-page
@@ -1316,6 +1319,7 @@ cron
 crontab
 cropping
 cross-platform
+cross-reference
 crossjoin
 crossover
 crossplatform
@@ -1427,7 +1431,6 @@ dataclassification
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 datafactory
 dataflow
 datagateway
@@ -1482,6 +1485,7 @@ dcim_b324
 deathface
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1521,6 +1525,7 @@ dellemc
 delta
 demand
 demo
+democratie
 demonstration
 demultiplex
 demultiplexing
@@ -1531,6 +1536,7 @@ deployment
 deploymentconfig
 deploymentmanager
 deploymentresourceprovider
+depute
 der
 description
 deserialize
@@ -1897,6 +1903,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2049,6 +2056,7 @@ exportteams
 extend
 extended
 extendedevents
+extendedproperty
 extensibility
 extension
 extensionmethods
@@ -2240,6 +2248,7 @@ fox
 foxpro
 fqdn
 framework
+france
 freeipa
 freenas
 freesoftwarefoundation
@@ -2273,6 +2282,7 @@ functions
 funds
 funny
 fuzzy
+fyi
 fzf
 gac
 gainz
@@ -2400,7 +2410,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2461,7 +2470,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 gui
 gui.cs
@@ -3028,7 +3036,6 @@ kudu
 kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -3316,6 +3323,7 @@ maps
 mapsapi
 mariadb
 mark
+markdig
 markdown
 markdownrender
 marketing
@@ -3608,6 +3616,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myitprocess
 myjson
 myjson.com
 myob
@@ -3892,12 +3901,14 @@ open-ai
 open-ssh
 openai
 openapi
+opendata
 openedge
 openfiles
 openhere
 openid
 openidconnect
 openinghours
+openport
 openscad
 opensourceinitiative
 openssh
@@ -4034,7 +4045,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pass
 passcode
 passivetotal
@@ -4561,7 +4571,6 @@ psword
 pswriteword
 psyaml
 pszabbix
-pubg
 public
 public-key
 public-transport
@@ -4654,7 +4663,6 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
-raisers
 raj
 ram
 ram-it
@@ -4743,11 +4751,13 @@ refactor
 refeds
 refeds-mfa
 refedsmfa
+reference
 reflect
 reflection
 refresh
 refreshtoken
 reg
+regardscitoyen
 regcli
 regex
 region
@@ -5144,6 +5154,8 @@ selfsigned
 semantic
 semantic-versioning
 semver
+senat
+senateur
 send
 send-logtologanalytics
 send-mailmessage
@@ -5470,6 +5482,7 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldbatools
+sqldiagapi
 sqlexport
 sqlite
 sqlitebynarymodule
@@ -5619,7 +5632,6 @@ subscriptiondefinition
 subsystem
 subtitle
 subversion
-successfactors
 sudo
 sugar
 sugarcrm
@@ -5708,6 +5720,7 @@ tabexpansion
 tabexpansion2
 tablacus
 table
+tableau
 tables
 tablestorage
 tabs
@@ -5740,6 +5753,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
+tcpport
 tcpserver
 tcptest
 tcx
@@ -6156,7 +6170,6 @@ userrightsassignment
 users
 userworkstations
 usg
-usps
 utc
 utf-8
 utf-sig
@@ -6268,6 +6281,7 @@ virtualrtu
 virtualterminal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualization
@@ -6620,6 +6634,8 @@ wvd
 www
 x-cart
 x.509
+x1
+x2
 x509
 x509cerificate
 x509cerificate2
@@ -6665,6 +6681,7 @@ xpo
 xprotect
 xrm
 xsa
+xtremio
 xtrude
 xunit
 xwiki
