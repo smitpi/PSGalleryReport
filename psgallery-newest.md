@@ -5,6 +5,138 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.0.1) | 1.0.1
+
+### Published: 07/07/2022 17:45:55 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 0 | __Repository__: https://github.com/cpp-swift/PowerRvB
+
+## [pokemonascii](https://www.powershellgallery.com/Packages/pokemonascii/0.0.13) | 0.0.13
+
+### Published: 07/07/2022 17:17:33 by Richie Lee
+
+PowerShell module to getPokemon Artwork as ASCII Art
+
+__Downloads__: 2 | __Repository__: 
+
+## [Exo.RoomsManagement](https://www.powershellgallery.com/Packages/Exo.RoomsManagement/1.0.3.9) | 1.0.3.9
+
+### Published: 07/07/2022 16:49:59 by Corey Schneider
+
+Assists with mangement of Room resources in Exchange Online
+
+__Downloads__: 41 | __Repository__: https://github.com/CoreySchneider-MSFT/Exo.RoomsManagement
+
+## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/0.2.1) | 0.2.1
+
+### Published: 07/07/2022 16:41:20 by Endjineers
+
+Provides automated build features using on the InvokeBuild module
+
+__Downloads__: 1,603 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
+
+## [PsPowerBi](https://www.powershellgallery.com/Packages/PsPowerBi/1.0.1) | 1.0.1
+
+### Published: 07/07/2022 16:26:50 by Steffen Kampmann
+
+PsPowerBi connects Power Bi and PowerShell. It gives you PowerShell Cmdlets with the power of Microsoft.PowerBI.Api.
+
+__Downloads__: 81 | __Repository__: https://github.com/abbgrade/PsPowerBi
+
+## [PsSqlLegacy](https://www.powershellgallery.com/Packages/PsSqlLegacy/0.3.0) | 0.3.0
+
+### Published: 07/07/2022 15:45:24 by Steffen Kampmann
+
+PowerShell Wrapper for Legacy Tools SqlCmd and SqlPackage.
+
+__Downloads__: 30 | __Repository__: https://github.com/abbgrade/PsSqlLegacy
+
+## [LARSINUS](https://www.powershellgallery.com/Packages/LARSINUS/1.2207.7.1623) | 1.2207.7.1623
+
+### Published: 07/07/2022 14:27:56 by Lars Halvorsen
+
+Collection of scripts that I have found useful. There is no dependency on any other modules to use the scripts in this module.
+
+__Downloads__: 241 | __Repository__: 
+
+## [Devolutions.Hub](https://www.powershellgallery.com/Packages/Devolutions.Hub/2022.7.7) | 2022.7.7
+
+### Published: 07/07/2022 14:20:08 by Devolutions
+
+Devolutions Password Hub PowerShell Module
+
+__Downloads__: 482 | __Repository__: https://password.devolutions.net/
+
+## [UnifiedLabelingSupportTool](https://www.powershellgallery.com/Packages/UnifiedLabelingSupportTool/3.0.4) | 3.0.4
+
+### Published: 07/07/2022 13:03:25 by Claus Schiroky
+
+Have you ever used the Sensitivity button in a Microsoft 365 App? If so, you've either used the Azure Information Protection client or Office's built-in labeling solution. In case something doesn't work as expected or you don't see any labeling at all, the 'Unified Labeling Support Tool' will help you.
+
+The 'Unified Labeling Support Tool' provides the functionality to reset all corresponding client services (UL, AIP, MIP, etc.). Its main purpose is to delete the currently downloaded sensitivity label policies and thus reset all settings, and it can also be used to collect data for failure analysis and problem solving.
+
+Before using the 'Unified Labeling Support Tool', please ensure to read its manual: https://aka.ms/UnifiedLabelingSupportTool
+
+__Downloads__: 1,324 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
+
+## [TDDSeams](https://www.powershellgallery.com/Packages/TDDSeams/1.0.0) | 1.0.0
+
+### Published: 07/07/2022 13:02:16 by Hans-Eric Grönlund
+
+Wrapper functions that allows mocking when using the Pester test framework.
+
+__Downloads__: 2 | __Repository__: 
+
+## [AzBobbyTables](https://www.powershellgallery.com/Packages/AzBobbyTables/2.0.1) | 2.0.1
+
+### Published: 07/07/2022 12:12:04 by Emanuel Palm
+
+A module that wraps the Azure Data Tables SDK.
+
+__Downloads__: 100 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTables
+
+## [Logonme.Management.PowerShell](https://www.powershellgallery.com/Packages/Logonme.Management.PowerShell/5.1.41) | 5.1.41
+
+### Published: 07/07/2022 11:58:54 by Intelligenca AB
+
+Logon.me PowerShell Management Client
+
+__Downloads__: 24 | __Repository__: https://logon.me/developer
+
+## [TDDUtils](https://www.powershellgallery.com/Packages/TDDUtils/1.0.1) | 1.0.1
+
+### Published: 07/07/2022 11:50:03 by Hans-Eric Grönlund
+
+Small utility functions that makes it easier to TDD PowerShell code, e.g. when using the Pester testing framework.
+
+__Downloads__: 2 | __Repository__: 
+
+## [MSCloudLoginAssistant](https://www.powershellgallery.com/Packages/MSCloudLoginAssistant/1.0.87) | 1.0.87
+
+### Published: 07/07/2022 11:26:06 by Microsoft Corporation
+
+Checks the current status of connections to (and as required, prompts for login to) various Microsoft Cloud platforms.
+
+__Downloads__: 1,615,716 | __Repository__: https://github.com/Microsoft/MSCloudLoginAssistant
+
+## [AsBuiltReport.Nutanix.PrismElement](https://www.powershellgallery.com/Packages/AsBuiltReport.Nutanix.PrismElement/1.2.1) | 1.2.1
+
+### Published: 07/07/2022 11:21:06 by Tim Carman
+
+A PowerShell module to generate an as built report on the configuration of Nutanix Prism Element.
+
+__Downloads__: 5,342 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Nutanix.PrismElement
+
+## [notifier.run](https://www.powershellgallery.com/Packages/notifier.run/0.0.1) | 0.0.1
+
+### Published: 07/07/2022 10:28:25 by notifier.run
+
+Placedholder for notifier.run.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [CPC.DeployInfra](https://www.powershellgallery.com/Packages/CPC.DeployInfra/1.1.23) | 1.1.23
 
 ### Published: 07/07/2022 09:36:56 by Microsoft Corporation
@@ -61,7 +193,7 @@ __Downloads__: 106 | __Repository__: https://github.com/StartAutomating/ugit
 
 TrainingUtils TJR
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
 
 ## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/2.0.1) | 2.0.1
 
@@ -299,7 +431,7 @@ The SSOAdmin module of AWS Tools for PowerShell lets developers and administrato
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 63,728 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 63,727 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.SSO](https://www.powershellgallery.com/Packages/AWS.Tools.SSO/4.1.120) | 4.1.120
 
@@ -369,7 +501,7 @@ The SimpleSystemsManagement module of AWS Tools for PowerShell lets developers a
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 549,326 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 549,331 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.SimpleEmailV2](https://www.powershellgallery.com/Packages/AWS.Tools.SimpleEmailV2/4.1.120) | 4.1.120
 
@@ -469,7 +601,7 @@ The SecretsManager module of AWS Tools for PowerShell lets developers and admini
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 893,919 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 893,935 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.Schemas](https://www.powershellgallery.com/Packages/AWS.Tools.Schemas/4.1.120) | 4.1.120
 
@@ -559,7 +691,7 @@ The S3 module of AWS Tools for PowerShell lets developers and administrators man
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 1,458,814 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 1,458,724 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.Route53Resolver](https://www.powershellgallery.com/Packages/AWS.Tools.Route53Resolver/4.1.120) | 4.1.120
 
@@ -729,7 +861,7 @@ The RDS module of AWS Tools for PowerShell lets developers and administrators ma
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 89,375 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 89,384 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.RAM](https://www.powershellgallery.com/Packages/AWS.Tools.RAM/4.1.120) | 4.1.120
 
@@ -909,7 +1041,7 @@ The Organizations module of AWS Tools for PowerShell lets developers and adminis
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 363,769 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 363,780 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.OpsWorksCM](https://www.powershellgallery.com/Packages/AWS.Tools.OpsWorksCM/4.1.120) | 4.1.120
 
@@ -1439,7 +1571,7 @@ The KeyManagementService module of AWS Tools for PowerShell lets developers and 
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 50,143 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 50,145 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.Kendra](https://www.powershellgallery.com/Packages/AWS.Tools.Kendra/4.1.120) | 4.1.120
 
@@ -1649,7 +1781,7 @@ The IdentityStore module of AWS Tools for PowerShell lets developers and adminis
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 62,892 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 62,891 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.IdentityManagement](https://www.powershellgallery.com/Packages/AWS.Tools.IdentityManagement/4.1.120) | 4.1.120
 
@@ -1659,7 +1791,7 @@ The IdentityManagement module of AWS Tools for PowerShell lets developers and ad
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 336,442 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 336,453 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.IAMRolesAnywhere](https://www.powershellgallery.com/Packages/AWS.Tools.IAMRolesAnywhere/4.1.120) | 4.1.120
 
@@ -1989,7 +2121,7 @@ The ElasticFileSystem module of AWS Tools for PowerShell lets developers and adm
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 5,779 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 5,777 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.ElasticBeanstalk](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticBeanstalk/4.1.120) | 4.1.120
 
@@ -2069,7 +2201,7 @@ The EC2 module of AWS Tools for PowerShell lets developers and administrators ma
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 843,718 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 843,725 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.EBS](https://www.powershellgallery.com/Packages/AWS.Tools.EBS/4.1.120) | 4.1.120
 
@@ -2189,7 +2321,7 @@ The DataSync module of AWS Tools for PowerShell lets developers and administrato
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 4,112 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 4,114 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.DataPipeline](https://www.powershellgallery.com/Packages/AWS.Tools.DataPipeline/4.1.120) | 4.1.120
 
@@ -2331,164 +2463,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 6,413 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.Comprehend](https://www.powershellgallery.com/Packages/AWS.Tools.Comprehend/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:38:49 by Amazon.com Inc
-
-The Comprehend module of AWS Tools for PowerShell lets developers and administrators manage Amazon Comprehend from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 3,145 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CognitoSync](https://www.powershellgallery.com/Packages/AWS.Tools.CognitoSync/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:38:43 by Amazon.com Inc
-
-The CognitoSync module of AWS Tools for PowerShell lets developers and administrators manage Amazon Cognito Sync from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 3,127 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CognitoIdentityProvider](https://www.powershellgallery.com/Packages/AWS.Tools.CognitoIdentityProvider/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:38:37 by Amazon.com Inc
-
-The CognitoIdentityProvider module of AWS Tools for PowerShell lets developers and administrators manage Amazon Cognito Identity Provider from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 21,111 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CognitoIdentity](https://www.powershellgallery.com/Packages/AWS.Tools.CognitoIdentity/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:38:31 by Amazon.com Inc
-
-The CognitoIdentity module of AWS Tools for PowerShell lets developers and administrators manage Amazon Cognito Identity from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 20,511 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.SecurityToken](https://www.powershellgallery.com/Packages/AWS.Tools.SecurityToken/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:38:24 by Amazon.com Inc
-
-The SecurityToken module of AWS Tools for PowerShell lets developers and administrators manage AWS Security Token Service (STS) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 617,711 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodeStarNotifications](https://www.powershellgallery.com/Packages/AWS.Tools.CodeStarNotifications/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:38:19 by Amazon.com Inc
-
-The CodeStarNotifications module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeStar Notifications from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 7,944 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodeStarconnections](https://www.powershellgallery.com/Packages/AWS.Tools.CodeStarconnections/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:38:13 by Amazon.com Inc
-
-The CodeStarconnections module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeStar Connections from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 2,703 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodeStar](https://www.powershellgallery.com/Packages/AWS.Tools.CodeStar/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:38:08 by Amazon.com Inc
-
-The CodeStar module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeStar from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 3,324 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodePipeline](https://www.powershellgallery.com/Packages/AWS.Tools.CodePipeline/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:38:02 by Amazon.com Inc
-
-The CodePipeline module of AWS Tools for PowerShell lets developers and administrators manage AWS CodePipeline from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 7,422 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodeGuruReviewer](https://www.powershellgallery.com/Packages/AWS.Tools.CodeGuruReviewer/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:37:56 by Amazon.com Inc
-
-The CodeGuruReviewer module of AWS Tools for PowerShell lets developers and administrators manage Amazon CodeGuru Reviewer from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 2,680 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodeGuruProfiler](https://www.powershellgallery.com/Packages/AWS.Tools.CodeGuruProfiler/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:37:50 by Amazon.com Inc
-
-The CodeGuruProfiler module of AWS Tools for PowerShell lets developers and administrators manage Amazon CodeGuru Profiler from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 2,540 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodeDeploy](https://www.powershellgallery.com/Packages/AWS.Tools.CodeDeploy/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:37:44 by Amazon.com Inc
-
-The CodeDeploy module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeDeploy from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 682,415 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodeCommit](https://www.powershellgallery.com/Packages/AWS.Tools.CodeCommit/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:37:34 by Amazon.com Inc
-
-The CodeCommit module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeCommit from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 6,609 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodeBuild](https://www.powershellgallery.com/Packages/AWS.Tools.CodeBuild/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:37:28 by Amazon.com Inc
-
-The CodeBuild module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeBuild from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 23,463 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CodeArtifact](https://www.powershellgallery.com/Packages/AWS.Tools.CodeArtifact/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:37:22 by Amazon.com Inc
-
-The CodeArtifact module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeArtifact from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 10,818 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.CloudWatchRUM](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatchRUM/4.1.120) | 4.1.120
-
-### Published: 07/06/2022 21:37:17 by Amazon.com Inc
-
-The CloudWatchRUM module of AWS Tools for PowerShell lets developers and administrators manage CloudWatch RUM from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 874 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Thursday, 07 July 2022 09:52:27 UTC*
+*Updated: Thursday, 07 July 2022 17:54:13 UTC*
