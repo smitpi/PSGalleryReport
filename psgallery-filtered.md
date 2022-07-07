@@ -5,6 +5,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/0.9.5) | 0.9.5
+
+### Published: 07/07/2022 08:45:15 by SEPPmail Dev-Team
+
+Integrate and maintain Exchange Online with SEPPmail.Cloud
+
+__Downloads__: 127 | __Repository__: https://github.com/SEPPmail/SEPPmail365cloud
+
+## [Terminal-Icons](https://www.powershellgallery.com/Packages/Terminal-Icons/0.10.0) | 0.10.0
+
+### Published: 07/07/2022 06:46:53 by Brandon Olin
+
+PowerShell module to add file icons to terminal based on file extension
+
+__Downloads__: 119,869 | __Repository__: https://github.com/devblackops/Terminal-Icons
+
+## [GPODoc](https://www.powershellgallery.com/Packages/GPODoc/1.2.0) | 1.2.0
+
+### Published: 07/07/2022 04:23:32 by David Stein
+
+Group Policy Comment Extraction and Reporting
+
+__Downloads__: 857 | __Repository__: https://github.com/Skatterbrainz/GPODoc
+
+## [PSLauncher](https://www.powershellgallery.com/Packages/PSLauncher/0.1.19) | 0.1.19
+
+### Published: 07/07/2022 03:56:46 by Pierre Smit
+
+A GUI to launch any PowerShell script, function, or any other executables. You have the option to run any of these options as a normal user or as an Admin. Everything is saved in a json config file. Also created menu items that assists in creating the buttons, panels, and colour schemes. There is no need to manually edit the config file.
+
+__Downloads__: 233 | __Repository__: https://github.com/smitpi/PSLauncher
+
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.3) | 0.2.3
 
 ### Published: 07/07/2022 02:22:29 by James Brundage
@@ -190,15 +222,7 @@ __Downloads__: 2 | __Repository__:
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 138,586 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
-
-## [PSLauncher](https://www.powershellgallery.com/Packages/PSLauncher/0.1.18) | 0.1.18
-
-### Published: 07/06/2022 04:20:14 by Pierre Smit
-
-A GUI to launch any PowerShell script, function, or any other executables. You have the option to run any of these options as a normal user or as an Admin. Everything is saved in a json config file. Also created menu items that assists in creating the buttons, panels, and colour schemes. There is no need to manually edit the config file.
-
-__Downloads__: 233 | __Repository__: https://github.com/smitpi/PSLauncher
+__Downloads__: 138,588 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.2.7) | 0.2.7
 
@@ -230,7 +254,7 @@ __Downloads__: 5,036 | __Repository__: https://github.com/webmd-health-services/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 675,489 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 675,517 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.243.102) | 1.243.102
 
@@ -1231,7 +1255,7 @@ __Downloads__: 440,860 | __Repository__:
 
 PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
-__Downloads__: 52,648 | __Repository__: https://github.com/crowdstrike/psfalcon
+__Downloads__: 52,651 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 ## [FarGit](https://www.powershellgallery.com/Packages/FarGit/0.4.3) | 0.4.3
 
@@ -1311,7 +1335,15 @@ __Downloads__: 6 | __Repository__: https://github.com/cbsch/cbsch-pgsql
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,971,953 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,972,044 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.6) | 1.0.6
+
+### Published: 07/05/2022 10:13:21 by Jos Lieben
+
+Automatically right sizes any Azure Windows VM based on configurable telemetry data to the optimal size based on cpu/mem, performance rating and cost. Use Get-Help set-vmRightSize or Get-Help set-rsgRightSize for more information on specific commands.
+
+__Downloads__: 46 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/automatic-modular-rightsizing-of-azure-vms-with-special-focus-on-azure-virtual-desktop/
 
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.97) | 1.0.0.97
 
@@ -1416,7 +1448,7 @@ __Downloads__: 8 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,682,715 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,682,800 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [BinaryPasswordGenerator](https://www.powershellgallery.com/Packages/BinaryPasswordGenerator/1.0.1) | 1.0.1
 
@@ -1448,7 +1480,7 @@ __Downloads__: 383 | __Repository__: https://github.com/hugoalh-studio/ghactions
 
 Productivity tools for RelateIT Business Central.
 
-__Downloads__: 3,144 | __Repository__: 
+__Downloads__: 3,149 | __Repository__: 
 
 ## [7ZipArchiveDsc](https://www.powershellgallery.com/Packages/7ZipArchiveDsc/1.8.1) | 1.8.1
 
@@ -1522,7 +1554,7 @@ __Downloads__: 5 | __Repository__: https://github.com/kevinholtkamp/pshelpertool
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,720,822 | __Repository__: https://dbatools.io/
+__Downloads__: 1,720,928 | __Repository__: https://dbatools.io/
 
 ## [PSCMake](https://www.powershellgallery.com/Packages/PSCMake/0.6.0) | 0.6.0
 
@@ -1570,7 +1602,7 @@ __Downloads__: 11 | __Repository__: https://gitee.com/wangyan1003/powershell-fla
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 8,251 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 8,261 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [JsonUtils](https://www.powershellgallery.com/Packages/JsonUtils/0.3.1) | 0.3.1
 
@@ -1644,7 +1676,7 @@ __Downloads__: 247 | __Repository__: https://github.com/pentawork-solutions/Pent
 
 cmdlets for DevOps for Business Central
 
-__Downloads__: 13,506 | __Repository__: https://www.github.com/kine/NVRAppDevOps
+__Downloads__: 13,507 | __Repository__: https://www.github.com/kine/NVRAppDevOps
 
 ## [PSGopher](https://www.powershellgallery.com/Packages/PSGopher/1.2.0) | 1.2.0
 
@@ -1725,7 +1757,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 50,436,277 | __Repository__: http://get-carbon.org/
+__Downloads__: 50,436,833 | __Repository__: http://get-carbon.org/
 
 ## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.79) | 0.0.79
 
@@ -1773,7 +1805,7 @@ __Downloads__: 32,691 | __Repository__: https://github.com/AutomatedLab/Automate
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 1,975,099 | __Repository__: https://vcredist.com/
+__Downloads__: 1,975,121 | __Repository__: https://vcredist.com/
 
 ## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.43.0) | 5.43.0
 
@@ -1877,7 +1909,7 @@ __Downloads__: 24,292 | __Repository__: https://ironmansoftware.com/powershell-u
 
 Gary Blok New Stuff Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 247,826 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 247,846 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.7.0) | 2.1.7.0
 
@@ -1885,7 +1917,7 @@ __Downloads__: 247,826 | __Repository__: https://github.com/OSDeploy/OSD
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 61,917 | __Repository__: 
+__Downloads__: 61,918 | __Repository__: 
 
 ## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.24.0) | 3.24.0
 
@@ -2013,7 +2045,7 @@ __Downloads__: 163 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Markdown
 
-__Downloads__: 130 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 139 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Interactions](https://www.powershellgallery.com/Packages/GitHub.Interactions/0.0.9) | 0.0.9
 
@@ -2023,36 +2055,4 @@ PowerShell Module for GitHub.Interactions
 
 __Downloads__: 128 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:49 by Marius Storhaug
-
-PowerShell Module for GitHub.SecretScanning
-
-__Downloads__: 129 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:47 by Marius Storhaug
-
-PowerShell Module for GitHub.Activity
-
-__Downloads__: 164 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:47 by Marius Storhaug
-
-PowerShell Module for GitHub.Issues
-
-__Downloads__: 136 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.CodesOfConduct](https://www.powershellgallery.com/Packages/GitHub.CodesOfConduct/0.0.9) | 0.0.9
-
-### Published: 06/29/2022 06:39:45 by Marius Storhaug
-
-PowerShell Module for GitHub.CodesOfConduct
-
-__Downloads__: 144 | __Repository__: 
-
-*Updated: Thursday, 07 July 2022 02:41:13 UTC*
+*Updated: Thursday, 07 July 2022 09:52:29 UTC*

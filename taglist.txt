@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 July 2022 02:41:25 UTC
+Updated: Thursday, 07 July 2022 09:52:39 UTC
 
 ?:
 ??
@@ -151,6 +151,7 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
+adgroupmemberobjects
 adgroups
 adif
 adm
@@ -212,6 +213,7 @@ aianomalydetection
 ailanguage
 aim
 aip
+aipscanner
 aircall
 airtable
 aispeech
@@ -929,6 +931,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1104,6 +1107,7 @@ combinations
 combine
 comic
 comical
+comics
 command
 command_line
 command-validation
@@ -1254,6 +1258,7 @@ cos
 cosmos
 cosmosdb
 cost
+costoptimization
 couchbase
 couchdb
 couchpotato
@@ -1462,7 +1467,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days-week
 db
 db2
@@ -1969,6 +1973,7 @@ event_id
 event_list
 event-timeline
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2408,6 +2413,7 @@ google-chrome
 google-histogram
 google-sankey
 google-table
+googleadsv2
 googlecloudplatform
 googledrive
 googlemap
@@ -2451,6 +2457,7 @@ gremlin
 grep
 greynoise
 grid
+gridfs
 grok
 group
 group-policy
@@ -2828,8 +2835,6 @@ internet-explorer
 internetexplorer
 intersight
 intersightcmdlets
-interval
-interval-timer
 intigua
 intranet
 intrusion
@@ -3139,8 +3144,6 @@ linux
 linux-command
 linuxssh
 liquid
-liquit
-liquit.com
 list
 list_files
 list-directory
@@ -3326,6 +3329,7 @@ marketplace
 marketplaceordering
 marking
 marklogic
+marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -3349,6 +3353,7 @@ max_path
 maximum
 maxoffice
 mb
+mbc
 mbs
 mc
 mcafee
@@ -3448,7 +3453,6 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4096,6 +4100,7 @@ pentia
 perforce
 performance
 performance-counters
+performancemonitoring
 permission
 permissions
 permutations
@@ -4193,7 +4198,6 @@ policystate
 poll
 polly
 polycom
-pomodoro
 ponduit
 pool
 poop
@@ -4880,6 +4884,7 @@ ribbon
 ribcl
 rightjoin
 rights
+rightsizing
 ripe
 risk
 riskiq
@@ -5446,7 +5451,6 @@ speedtester
 spf
 spi
 spinnaker
-splash
 splat
 splatting
 split
@@ -5634,6 +5638,7 @@ sullivan
 summary
 sumologic
 supercell
+superheros
 supermarket
 support
 suppress
@@ -6002,7 +6007,6 @@ ubnt
 ubuntu
 ucs
 ucspowertool
-ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -6266,6 +6270,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6407,7 +6412,6 @@ webdav
 webdeploy
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6444,7 +6448,6 @@ wemsdk
 wer
 what3words
 whatismyip
-whd
 where
 whfb
 whiteboard
