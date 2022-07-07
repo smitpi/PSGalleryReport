@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 06 July 2022 17:53:30 UTC
+Updated: Thursday, 07 July 2022 02:41:25 UTC
 
 ?:
 ??
@@ -151,7 +151,6 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
-adgroupmemberobjects
 adgroups
 adif
 adm
@@ -213,7 +212,6 @@ aianomalydetection
 ailanguage
 aim
 aip
-aipscanner
 aircall
 airtable
 aispeech
@@ -931,7 +929,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1107,7 +1104,6 @@ combinations
 combine
 comic
 comical
-comics
 command
 command_line
 command-validation
@@ -1258,7 +1254,6 @@ cos
 cosmos
 cosmosdb
 cost
-costoptimization
 couchbase
 couchdb
 couchpotato
@@ -1431,6 +1426,7 @@ dataclassification
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 datafactory
 dataflow
 datagateway
@@ -1973,7 +1969,6 @@ event_id
 event_list
 event-timeline
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -2410,9 +2405,9 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
-googleadsv2
 googlecloudplatform
 googledrive
 googlemap
@@ -2456,7 +2451,6 @@ gremlin
 grep
 greynoise
 grid
-gridfs
 grok
 group
 group-policy
@@ -2470,6 +2464,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 gui
 gui.cs
@@ -3036,6 +3031,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -3062,7 +3058,6 @@ languageexperiencepack
 languagepack
 lansweeper
 laps
-laragon
 laserbeams
 last
 last.fm
@@ -3169,7 +3164,6 @@ local-caching
 local-policy
 localadmin
 localconfigurationmanager
-localdb
 locale
 localgroup
 localization
@@ -3332,7 +3326,6 @@ marketplace
 marketplaceordering
 marking
 marklogic
-marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -3356,7 +3349,6 @@ max_path
 maximum
 maxoffice
 mb
-mbc
 mbs
 mc
 mcafee
@@ -4045,6 +4037,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pass
 passcode
 passivetotal
@@ -4103,7 +4096,6 @@ pentia
 perforce
 performance
 performance-counters
-performancemonitoring
 permission
 permissions
 permutations
@@ -4571,6 +4563,7 @@ psword
 pswriteword
 psyaml
 pszabbix
+pubg
 public
 public-key
 public-transport
@@ -4663,6 +4656,7 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
+raisers
 raj
 ram
 ram-it
@@ -4886,7 +4880,6 @@ ribbon
 ribcl
 rightjoin
 rights
-rightsizing
 ripe
 risk
 riskiq
@@ -5632,6 +5625,7 @@ subscriptiondefinition
 subsystem
 subtitle
 subversion
+successfactors
 sudo
 sugar
 sugarcrm
@@ -5640,7 +5634,6 @@ sullivan
 summary
 sumologic
 supercell
-superheros
 supermarket
 support
 suppress
@@ -6170,6 +6163,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -6272,7 +6266,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -6537,6 +6530,7 @@ winrar
 winrm
 winrs
 winrt
+wins
 winsat
 winscp
 wintellect
