@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 08 July 2022 02:39:27 UTC
+Updated: Friday, 08 July 2022 09:52:45 UTC
 
 ?:
 ??
@@ -26,7 +26,6 @@ Updated: Friday, 08 July 2022 02:39:27 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -37,7 +36,6 @@ Updated: Friday, 08 July 2022 02:39:27 UTC
 2019
 24-bit
 2fa
-300
 365
 36867
 3d
@@ -111,7 +109,6 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
-activeefficiency
 activeresponse
 activesession
 activiti
@@ -247,6 +244,7 @@ alpine
 alpr
 alt3
 alter
+alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -480,7 +478,6 @@ autotaskpsa
 autoyast
 availability
 availabilityset
-avalara
 avalonia
 ave
 avepoint
@@ -524,6 +521,7 @@ azsdk
 azsk
 azstate
 azsubnet
+azts
 azuead
 azure
 azure_ad
@@ -631,6 +629,7 @@ bb
 bbp
 bcd
 bcdedit
+bd
 bdd
 bds
 be.stateless
@@ -683,7 +682,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -704,6 +702,7 @@ blocks
 blog
 blogs
 bls
+bluedolhin
 blueprint
 blueprints
 blueteam
@@ -734,8 +733,6 @@ bpmn
 brainy
 branch
 brave
-brawlapi
-brawlstars
 bre
 breach
 break
@@ -752,6 +749,7 @@ broadcast
 broot
 browser
 browserextension
+browserhistory
 brs
 bruteforce
 bson
@@ -773,7 +771,6 @@ buildtool
 bulk
 bullhorn
 bundle
-bup
 burpsuite
 bus
 business
@@ -783,7 +780,6 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -927,7 +923,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1152,6 +1147,7 @@ concurrent
 conda
 condition
 conditionalaccess
+conduit
 conference
 confidentialclient
 confidentialledger
@@ -2125,6 +2121,7 @@ file-transform
 file-type
 file-type-association
 fileencryption
+filelist
 filelog
 filelogger
 filemanagement
@@ -2426,6 +2423,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2616,7 +2615,6 @@ hpemigrationadvisorytool
 hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
-hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
@@ -3061,6 +3059,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -3225,6 +3225,7 @@ logrotation
 logs
 logstash
 logtools
+logz
 lol
 lolcat
 longfile
@@ -3262,6 +3263,7 @@ macmon
 macos
 macosx
 macros
+madlib
 magazine
 magento
 magic8ball
@@ -3351,7 +3353,6 @@ mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mchapv2
 md5
@@ -3465,6 +3466,7 @@ mim
 mimekit
 min
 mindmeister
+minecraft
 minifier
 minimal
 minimum
@@ -3608,6 +3610,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myitprocess
 myjson
 myjson.com
 myob
@@ -3634,7 +3637,6 @@ natural-language-to-code
 natural-selection
 nav
 navigation
-nbi
 ncal
 ndes
 nebulon
@@ -3718,8 +3720,6 @@ ninjarmm
 nios
 nitrox
 nl
-nla
-nlm
 nlog
 nmap
 nmbell
@@ -3914,7 +3914,6 @@ operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
-operatoraccesscontrol
 operators
 opml
 ops
@@ -3952,10 +3951,7 @@ osdsus
 osdupdate
 osi
 osmanagement
-osp
 ospgateway
-osprovision
-osprovisioning
 oss
 ossec
 osubbillingschedule
@@ -4110,6 +4106,7 @@ pfe
 pfsense
 pfx
 pgp
+phabricator
 philips
 philosophical
 philpritchett
@@ -4133,7 +4130,6 @@ ping
 ping-async
 pingsweep
 pinneditem
-pinterest
 pinvoke
 pip
 pipe
@@ -4193,6 +4189,7 @@ poll
 polly
 polycom
 pomodoro
+ponduit
 pool
 poop
 pop
@@ -4631,7 +4628,6 @@ qrp
 quality
 qualys
 quandl
-quarantine
 query
 queue
 queues
@@ -4968,6 +4964,7 @@ sacl
 safari
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -5631,11 +5628,9 @@ suitecrm
 sullivan
 summary
 sumologic
-supercell
 superheros
 supermarket
 support
-suppress
 supress-reboot
 surround
 survey
@@ -5718,6 +5713,7 @@ tablestorage
 tabs
 tabular
 tag
+tag-requiredmodule1-1.0
 tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
@@ -5809,7 +5805,6 @@ testing
 testlab
 testplans
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -6053,6 +6048,7 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 udcm
 udfeedback
 udp
@@ -6383,7 +6379,6 @@ watch
 watchguard
 watchmen
 watery
-wave
 wayk
 waykbastion
 wbem
@@ -6585,7 +6580,6 @@ world
 worldcup
 worryfreebusinesssecurity
 wow
-wpad
 wpf
 wrap
 wrap-text
@@ -6665,7 +6659,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
