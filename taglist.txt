@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 July 2022 17:54:28 UTC
+Updated: Friday, 08 July 2022 02:39:27 UTC
 
 ?:
 ??
@@ -202,6 +202,7 @@ affinity-crm
 agenda
 agent
 aggregates
+aggregation
 agile
 agility
 agm
@@ -246,7 +247,6 @@ alpine
 alpr
 alt3
 alter
-alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -345,6 +345,8 @@ appxmanifest
 aprs
 apt-get
 apt-get-update
+aql
+arangodb
 arc
 arcade
 arcgis
@@ -629,7 +631,6 @@ bb
 bbp
 bcd
 bcdedit
-bd
 bdd
 bds
 be.stateless
@@ -703,7 +704,6 @@ blocks
 blog
 blogs
 bls
-bluedolhin
 blueprint
 blueprints
 blueteam
@@ -738,6 +738,7 @@ brawlapi
 brawlstars
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -751,7 +752,6 @@ broadcast
 broot
 browser
 browserextension
-browserhistory
 brs
 bruteforce
 bson
@@ -1152,7 +1152,6 @@ concurrent
 conda
 condition
 conditionalaccess
-conduit
 conference
 confidentialclient
 confidentialledger
@@ -1874,6 +1873,7 @@ emoji
 emotion
 empire
 empty
+emwarehouse
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2125,7 +2125,6 @@ file-transform
 file-type
 file-type-association
 fileencryption
-filelist
 filelog
 filelogger
 filemanagement
@@ -2427,8 +2426,6 @@ gping
 gpio
 gplink
 gpo
-gpo-maintenance
-gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -3064,8 +3061,6 @@ laps
 laragon
 laserbeams
 last
-last.fm
-lastfm
 lastlogon
 lastpass
 latency
@@ -3230,7 +3225,6 @@ logrotation
 logs
 logstash
 logtools
-logz
 lol
 lolcat
 longfile
@@ -3268,7 +3262,6 @@ macmon
 macos
 macosx
 macros
-madlib
 magazine
 magento
 magic8ball
@@ -3615,7 +3608,6 @@ mx
 mxlookup
 mycloudrevolution
 myhub
-myitprocess
 myjson
 myjson.com
 myob
@@ -4118,7 +4110,6 @@ pfe
 pfsense
 pfx
 pgp
-phabricator
 philips
 philosophical
 philpritchett
@@ -4202,7 +4193,6 @@ poll
 polly
 polycom
 pomodoro
-ponduit
 pool
 poop
 pop
@@ -4235,6 +4225,7 @@ poshgraph
 poshgraph-sdk
 poshgrouppolicy
 poshkeepass
+poshlog
 poshorigin
 poshproject
 poshprtg
@@ -4977,7 +4968,6 @@ sacl
 safari
 safeguard
 sage
-saggiehaim
 sailpoint
 sale
 sales
@@ -5595,6 +5585,7 @@ streak
 stream
 streamanalytics
 streaming
+stretch
 strictmode
 string
 string-template
@@ -5727,7 +5718,6 @@ tablestorage
 tabs
 tabular
 tag
-tag-requiredmodule1-1.0
 tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
@@ -5991,6 +5981,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
