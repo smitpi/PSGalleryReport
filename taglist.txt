@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 08 July 2022 17:54:27 UTC
+Updated: Saturday, 09 July 2022 02:31:55 UTC
 
 ?:
 ??
@@ -552,7 +552,6 @@ azureautomationnotsupported
 azurecli
 azurecognitiveservices
 azureconnectedmachine
-azuredatabricks
 azuredataexplorer
 azuredatastudio
 azuredevops
@@ -2502,6 +2501,7 @@ hamradiodeluxe
 hana
 hanaon
 handle
+handler
 hangouts
 hannelstoolbox
 har
@@ -2602,6 +2602,7 @@ host
 host-based
 hostentry
 hostfile
+hostinstance
 hostname
 hosts
 hosts-file
@@ -3266,7 +3267,6 @@ macaddress
 machine
 machinelearning
 machinelearningcompute
-machinelearningservices
 macmon
 macos
 macosx
@@ -3425,7 +3425,6 @@ mga
 mi
 micro-orm
 microfocus
-microk8s
 microservices
 microsoft
 microsoft_365
@@ -4177,7 +4176,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plugin
 plugins
@@ -4305,7 +4303,6 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
-powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4454,7 +4451,6 @@ psbbix
 psbicep
 psclient
 pscmdlet
-pscommander
 psconfasia
 psconfeu
 pscore
@@ -4818,7 +4814,6 @@ repeat
 repl
 replace
 replaygain
-replication
 repoo
 report
 reporting
@@ -5475,6 +5470,7 @@ spotlightimages
 spp
 spread
 spreadsheet
+springcloud
 sql
 sql-database
 sql-script
@@ -6329,7 +6325,6 @@ voidtools
 volkskrant
 volume
 volumeshadowcopy
-volumio
 vorbis
 vovin
 vpasmodule

@@ -5,6 +5,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.0.4) | 1.0.4
+
+### Published: 07/09/2022 01:20:46 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 2 | __Repository__: https://github.com/cpp-swift/PowerRvB
+
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.175) | 0.0.175
+
+### Published: 07/08/2022 20:54:16 by Przemyslaw Klys
+
+PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
+
+__Downloads__: 712,181 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+
+## [MSchauer.PnP.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.PnP.PowerShell/1.0.2) | 1.0.2
+
+### Published: 07/08/2022 20:40:35 by Matt Schauer
+
+PowerShell module that adds additional functionality to common PnP.PowerShell commands
+
+__Downloads__: 10 | __Repository__: https://github.com/mschauer5/MSchauer.PnP.PowerShell
+
+## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.4.9) | 2.4.9
+
+### Published: 07/08/2022 20:22:49 by Michael Kelley
+
+A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
+
+__Downloads__: 26,480 | __Repository__: 
+
 ## [PSJsonWebToken](https://www.powershellgallery.com/Packages/PSJsonWebToken/1.7.13) | 1.7.13
 
 ### Published: 07/08/2022 17:16:34 by Tony Guimelli
@@ -91,7 +123,7 @@ __Downloads__: 1,618 | __Repository__: https://github.com/endjin/Endjin.Recommen
 
 The AzTS is a logical progression of DevOps Kit which helps us move closer to an implementation of cloud security compliance solution using native security capabilities in Azure platform that are available today.
 
-__Downloads__: 0 | __Repository__: https://github.com/azsk/AzTS-docs
+__Downloads__: 1 | __Repository__: https://github.com/azsk/AzTS-docs
 
 ## [AsBuiltReport.DellEMC.VxRail](https://www.powershellgallery.com/Packages/AsBuiltReport.DellEMC.VxRail/0.3.1.1) | 0.3.1.1
 
@@ -108,14 +140,6 @@ __Downloads__: 241 | __Repository__: https://github.com/AsBuiltReport/AsBuiltRep
 The community module that enables SQL Server Pros to automate database development and server administration
 
 __Downloads__: 1,724,352 | __Repository__: https://dbatools.io/
-
-## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.0.2) | 1.0.2
-
-### Published: 07/08/2022 06:44:23 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 2 | __Repository__: https://github.com/cpp-swift/PowerRvB
 
 ## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/0.9.6) | 0.9.6
 
@@ -203,7 +227,7 @@ __Downloads__: 1,924 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 2,437,580 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 2,437,439 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [BinaryTree.Internal.Power365.QA](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.QA/20.12.8.2823) | 20.12.8.2823
 
@@ -327,7 +351,7 @@ __Downloads__: 0 | __Repository__:
 
 PowerShell module to add file icons to terminal based on file extension
 
-__Downloads__: 120,467 | __Repository__: https://github.com/devblackops/Terminal-Icons
+__Downloads__: 120,455 | __Repository__: https://github.com/devblackops/Terminal-Icons
 
 ## [GPODoc](https://www.powershellgallery.com/Packages/GPODoc/1.2.0) | 1.2.0
 
@@ -530,7 +554,7 @@ __Downloads__: 5,038 | __Repository__: https://github.com/webmd-health-services/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 678,009 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 677,958 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.243.102) | 1.243.102
 
@@ -1475,7 +1499,7 @@ __Downloads__: 182 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 43,861 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 43,860 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [ewsgui](https://www.powershellgallery.com/Packages/ewsgui/2.0.20) | 2.0.20
 
@@ -1501,21 +1525,13 @@ Terraform Version switcher for powershell
 
 __Downloads__: 5 | __Repository__: 
 
-## [Cinegy.CAMS](https://www.powershellgallery.com/Packages/Cinegy.CAMS/22.7.25.35254) | 22.7.25.35254
-
-### Published: 07/05/2022 16:51:20 by Cinegy GmbH
-
-The Cinegy Archive CAMS Module allows users to access and interoperate with an instance of the Cinegy Archive Management system via the CAMS web services interfaces.
-
-__Downloads__: 13 | __Repository__: https://open.cinegy.com/
-
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.4) | 1.5.4
 
 ### Published: 07/05/2022 16:51:18 by Chrissy LeMaire
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 443,603 | __Repository__: 
+__Downloads__: 443,602 | __Repository__: 
 
 ## [PSFalcon](https://www.powershellgallery.com/Packages/PSFalcon/2.2.1) | 2.2.1
 
@@ -1523,7 +1539,7 @@ __Downloads__: 443,603 | __Repository__:
 
 PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
-__Downloads__: 52,946 | __Repository__: https://github.com/crowdstrike/psfalcon
+__Downloads__: 52,945 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 ## [FarGit](https://www.powershellgallery.com/Packages/FarGit/0.4.3) | 0.4.3
 
@@ -1563,7 +1579,7 @@ __Downloads__: 13 | __Repository__: https://github.com/Mxrcon/BioNameGenerator
 
 Database for KB Viewer and Saver
 
-__Downloads__: 457,412 | __Repository__: 
+__Downloads__: 457,411 | __Repository__: 
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.16) | 1.0.16
 
@@ -1579,7 +1595,7 @@ __Downloads__: 635 | __Repository__:
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 2,782 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 2,777 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [cbsch-pgsql](https://www.powershellgallery.com/Packages/cbsch-pgsql/1.0.6) | 1.0.6
 
@@ -1595,7 +1611,7 @@ __Downloads__: 6 | __Repository__: https://github.com/cbsch/cbsch-pgsql
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,975,043 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,974,992 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.6) | 1.0.6
 
@@ -1740,7 +1756,7 @@ __Downloads__: 3,189 | __Repository__:
 
 PowerShell DSC Resource to expand an archive file to a specific path.
 
-__Downloads__: 6,378 | __Repository__: https://github.com/mkht/7ZipArchiveDsc
+__Downloads__: 6,364 | __Repository__: https://github.com/mkht/7ZipArchiveDsc
 
 ## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.2) | 0.0.0.2
 
@@ -1846,7 +1862,7 @@ __Downloads__: 12 | __Repository__: https://gitee.com/wangyan1003/powershell-fla
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 8,524 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 8,521 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [EnvironmentModuleCore](https://www.powershellgallery.com/Packages/EnvironmentModuleCore/3.6.1) | 3.6.1
 
@@ -1888,7 +1904,7 @@ __Downloads__: 1,050 | __Repository__: https://www.github.com/alt3/Docusaurus.Po
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 716,378 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 716,250 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PentaWork.Xrm.PowerShell](https://www.powershellgallery.com/Packages/PentaWork.Xrm.PowerShell/1.5.3) | 1.5.3
 
@@ -1985,7 +2001,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 50,478,707 | __Repository__: http://get-carbon.org/
+__Downloads__: 50,478,489 | __Repository__: http://get-carbon.org/
 
 ## [BinaryTree.Power365](https://www.powershellgallery.com/Packages/BinaryTree.Power365/20.12.7.1513) | 20.12.7.1513
 
@@ -2025,7 +2041,7 @@ __Downloads__: 33,084 | __Repository__: https://github.com/AutomatedLab/Automate
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 1,976,632 | __Repository__: https://vcredist.com/
+__Downloads__: 1,976,622 | __Repository__: https://vcredist.com/
 
 ## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.43.0) | 5.43.0
 
@@ -2043,20 +2059,4 @@ This module packages functions created by Lee Holmes for transfering files over 
 
 __Downloads__: 25,387 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
-## [HostsFile](https://www.powershellgallery.com/Packages/HostsFile/5.43.0) | 5.43.0
-
-### Published: 06/30/2022 09:16:48 by Raimund Andree Per Pedersen
-
-This module provides management of hosts file content
-
-__Downloads__: 18,666 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
-
-## [AutomatedLabWorker](https://www.powershellgallery.com/Packages/AutomatedLabWorker/5.43.0) | 5.43.0
-
-### Published: 06/30/2022 09:16:29 by Raimund Andree Per Pedersen Jan-Hendrik Peters
-
-This module encapsulates all the work activities to prepare the lab
-
-__Downloads__: 19,526 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
-
-*Updated: Friday, 08 July 2022 17:54:15 UTC*
+*Updated: Saturday, 09 July 2022 02:31:45 UTC*
