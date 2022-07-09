@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 July 2022 09:52:36 UTC
+Updated: Saturday, 09 July 2022 17:53:24 UTC
 
 ?:
 ??
@@ -64,7 +64,6 @@ aadgraph
 aadrm
 aadsc
 aadsecurity
-aadsts
 aam
 aas
 abc
@@ -808,6 +807,7 @@ calendar
 callingcode
 callqueue
 cam
+camera
 campaign
 camtasia
 canarie
@@ -947,7 +947,6 @@ ciminstance
 cims
 cimsession
 cinegy
-cinema
 cinst
 cipher
 circuit-breaker
@@ -1243,8 +1242,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1286,11 +1283,7 @@ crayon
 crc
 crc32
 create
-createcolumn
-createdatabase
 createprocessasuser
-createschema
-createtable
 creationworkflowsimplification
 creator
 cred
@@ -1754,9 +1747,7 @@ driverupdates
 drm
 drop
 dropbox
-dropdatabase
 droplet
-droptable
 drs
 drsrule
 drupal
@@ -1856,7 +1847,6 @@ elevated
 elevatedconsole
 elevatedmode
 elgato
-elk
 elm
 elonmusk
 eloqua
@@ -1935,7 +1925,6 @@ erb
 erp
 error
 error-log
-errorcode
 errorfile
 errors
 errorview
@@ -2086,6 +2075,7 @@ farmanager
 fast
 fast-dds
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2155,7 +2145,6 @@ filetransfer
 filetype
 filewrite
 fill
-film
 filter
 filter-item
 filtering
@@ -2410,6 +2399,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2725,7 +2715,6 @@ illinois
 ilo
 ilo5
 ilocmdlets
-im
 image
 image-converter
 image-creation
@@ -3009,7 +2998,6 @@ keylight
 keymanagement
 keypair
 keyvault
-kibana
 kickstart
 kidrsa
 kill
@@ -3156,7 +3144,6 @@ listener
 litecoin
 litedb
 literature
-live
 lldp
 lmhost
 lmhosts
@@ -3688,6 +3675,7 @@ network-credentials
 networkdiscovery
 networkdrives
 networkfirewall
+networkfunction
 networking
 networkinterfaces
 networkloadbalancer
@@ -3729,10 +3717,11 @@ ninjarmm
 nios
 nitrox
 nl
+nla
+nlm
 nlog
 nmap
 nmbell
-nntp
 node
 nodejs
 non-volatile
@@ -3956,6 +3945,7 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
+osdprogress
 osdsus
 osdupdate
 osi
@@ -4126,6 +4116,7 @@ phishing
 phoenix
 phoneautomation
 photo
+photograph
 photos
 php
 phpapam
@@ -4204,7 +4195,6 @@ pomodoro
 ponduit
 pool
 poop
-pop
 pop-location
 pop3
 popd
@@ -4672,7 +4662,6 @@ random-date
 randompassword
 randomuser
 randomusers
-ras
 raspberry-pi
 raspberrypi
 raspbian
@@ -4872,7 +4861,6 @@ reversedsc
 revision
 reword
 rewrite
-rexec
 rfc1305
 rfc1436
 rfc2030
@@ -4937,7 +4925,6 @@ rrd
 rs
 rsa
 rsat
-rshell
 rsjob
 rsop
 rss
@@ -5077,6 +5064,7 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
+scriptlogging
 scriptrunner
 scripts
 scriptsmonitoring
@@ -5230,7 +5218,6 @@ setbios
 setting
 settings
 setup
-sevenzip
 sf
 sfb
 sftp
@@ -5349,13 +5336,9 @@ smb
 smb1
 smb2
 smbios
-smimeemail
-smimeimap
-smimepop
 smlets
 smo
 smorgasbord
-sms
 smtp
 smtpaddressupdate psmodule
 smtpsecure
@@ -5663,7 +5646,6 @@ swimlane
 swis
 switch
 sxs
-sybase
 sybaseiq
 symantec
 symbolic
@@ -5735,6 +5717,7 @@ tag2
 tagging
 tags
 tak
+taken
 tally
 talxis
 tanzu
@@ -5779,7 +5762,6 @@ telegram-sticker
 telegramx
 telemetry
 telligent
-telnet
 temp
 temperature
 template
@@ -5837,7 +5819,6 @@ tfs
 tfscmdlets
 tfswitch
 tftd
-tftp
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -5940,7 +5921,6 @@ transliteration
 transmission
 transparency
 transpilation
-trap
 trec
 tree
 treesize
@@ -6254,7 +6234,6 @@ video
 videos
 vie
 viewer
-viewgroup
 vigenere
 vim
 vimode
@@ -6292,6 +6271,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsm
 vm
 vmc
 vmfs
@@ -6410,7 +6390,6 @@ webapplicationproxy
 webapps
 webcamera
 webcmdlets
-webdav
 webdeploy
 webfrequest
 webhdfs
@@ -6594,6 +6573,7 @@ world
 worldcup
 worryfreebusinesssecurity
 wow
+wpad
 wpf
 wrap
 wrap-text

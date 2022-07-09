@@ -5,9 +5,52 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.0.7) | 1.0.7
+## [BioNameGenerator](https://www.powershellgallery.com/Packages/BioNameGenerator/0.2.0) | 0.2.0
 
-### Published: 07/09/2022 09:42:54 by Evan Deters
+### Published: 07/09/2022 14:33:51 by Davi Marcon
+
+A name generator for projects, versions and other stuff written in powershell
+
+__Downloads__: 13 | __Repository__: https://github.com/Mxrcon/BioNameGenerator
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/1.0.204) | 1.0.204
+
+### Published: 07/09/2022 14:10:46 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 135 | __Repository__: 
+
+## [ScriptUtils](https://www.powershellgallery.com/Packages/ScriptUtils/1.0.1) | 1.0.1
+
+### Published: 07/09/2022 12:32:25 by Uzair
+
+This Module is a collection of wrapper functions that makes your scripting experience fast and easy.
+As a scripter you might have come across this situation several times when you have to perform checks before proceeding with a specific task.
+These functions helps you eliminate the need to perform checks and just use a single command to get the work done. Thereby, enabling you to focus on the
+main section of your script rather than spending time to write code to perform checks
+
+__Downloads__: 16 | __Repository__: https://github.com/uzi3/ScriptUtils
+
+## [PSCoreApplicationInsights](https://www.powershellgallery.com/Packages/PSCoreApplicationInsights/0.0.3) | 0.0.3
+
+### Published: 07/09/2022 12:24:03 by leonboers@gmail.com
+
+A module to simplify working with the Powershell Core 7 Application Insights implementation.
+
+__Downloads__: 14 | __Repository__: https://github.com/LeonB87/PSCoreApplicationInsights
+
+## [SkunkLabAzure](https://www.powershellgallery.com/Packages/SkunkLabAzure/3.1.8.1) | 3.1.8.1
+
+### Published: 07/09/2022 12:04:34 by malong
+
+Powershell commands used by other modules for Azure.
+
+__Downloads__: 474 | __Repository__: https://github.com/skunklab/piraeus
+
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.1.1) | 1.1.1
+
+### Published: 07/09/2022 10:04:22 by Evan Deters
 
 This module includes several commands that help with the deployment of virtual environments on vSphere.
 
@@ -19,7 +62,7 @@ __Downloads__: 8 | __Repository__: https://github.com/cpp-swift/PowerRvB
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 15,344 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 15,348 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/2.1.0) | 2.1.0
 
@@ -35,15 +78,7 @@ __Downloads__: 14 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 JSON Utilities module
 
-__Downloads__: 412 | __Repository__: https://github.com/choovick/ps-jsonutils
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/1.0.203) | 1.0.203
-
-### Published: 07/09/2022 04:42:24 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 135 | __Repository__: 
+__Downloads__: 411 | __Repository__: https://github.com/choovick/ps-jsonutils
 
 ## [PSOpenAD](https://www.powershellgallery.com/Packages/PSOpenAD/0.1.0) | 0.1.0
 
@@ -60,14 +95,6 @@ __Downloads__: 229 | __Repository__: https://github.com/jborean93/PSOpenAD
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
 __Downloads__: 713,634 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
-
-## [MSchauer.PnP.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.PnP.PowerShell/1.0.2) | 1.0.2
-
-### Published: 07/08/2022 20:40:35 by Matt Schauer
-
-PowerShell module that adds additional functionality to common PnP.PowerShell commands
-
-__Downloads__: 12 | __Repository__: https://github.com/mschauer5/MSchauer.PnP.PowerShell
 
 ## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.4.9) | 2.4.9
 
@@ -171,7 +198,7 @@ __Downloads__: 5 | __Repository__: https://github.com/azsk/AzTS-docs
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,728,320 | __Repository__: https://dbatools.io/
+__Downloads__: 1,728,308 | __Repository__: https://dbatools.io/
 
 ## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/0.9.6) | 0.9.6
 
@@ -235,7 +262,7 @@ __Downloads__: 163 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,303,562 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,303,552 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.8.2918) | 20.12.8.2918
 
@@ -251,7 +278,7 @@ __Downloads__: 1,927 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 2,443,337 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 2,443,312 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [BinaryTree.Internal.Power365.QA](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.QA/20.12.8.2823) | 20.12.8.2823
 
@@ -484,14 +511,6 @@ Some simple functions that can be used for build automation
 
 __Downloads__: 39,287 | __Repository__: https://github.com/AlkampferOpenSource/powershell-build-utils
 
-## [SkunkLabAzure](https://www.powershellgallery.com/Packages/SkunkLabAzure/3.1.8.0) | 3.1.8.0
-
-### Published: 07/06/2022 14:37:05 by malong
-
-Powershell commands used by other modules for Azure.
-
-__Downloads__: 474 | __Repository__: https://github.com/skunklab/piraeus
-
 ## [SkunkLabAks](https://www.powershellgallery.com/Packages/SkunkLabAks/3.1.9.0) | 3.1.9.0
 
 ### Published: 07/06/2022 14:36:45 by malong
@@ -570,7 +589,7 @@ __Downloads__: 5,038 | __Repository__: https://github.com/webmd-health-services/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 680,638 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 680,632 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.243.102) | 1.243.102
 
@@ -594,7 +613,7 @@ __Downloads__: 205 | __Repository__: https://github.com/keithflannery/KFTeamsToo
 
 Module for working with NewRelic
 
-__Downloads__: 3,984 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
+__Downloads__: 3,981 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
 
 ## [SpeedTestCLI](https://www.powershellgallery.com/Packages/SpeedTestCLI/1.0.0) | 1.0.0
 
@@ -1579,7 +1598,7 @@ __Downloads__: 226 | __Repository__: https://github.com/nightroman/FarGit
 
 Deletes the file or folder as if it had been done via File Explorer, or restores a deleted file from the recycle bin.
 
-__Downloads__: 35,608 | __Repository__: https://github.com/bdukes/PowerShellModules
+__Downloads__: 35,607 | __Repository__: https://github.com/bdukes/PowerShellModules
 
 ## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.7.2713) | 20.12.7.2713
 
@@ -1588,14 +1607,6 @@ __Downloads__: 35,608 | __Repository__: https://github.com/bdukes/PowerShellModu
 PowerShell Management cmdlets for Binary Tree Power365
 
 __Downloads__: 542 | __Repository__: 
-
-## [BioNameGenerator](https://www.powershellgallery.com/Packages/BioNameGenerator/0.1.5) | 0.1.5
-
-### Published: 07/05/2022 14:05:08 by Davi Marcon
-
-A name generator for projects, versions and other stuff written in powershell
-
-__Downloads__: 13 | __Repository__: https://github.com/Mxrcon/BioNameGenerator
 
 ## [kbupdate-library](https://www.powershellgallery.com/Packages/kbupdate-library/1.1.3) | 1.1.3
 
@@ -1635,7 +1646,7 @@ __Downloads__: 10 | __Repository__: https://github.com/cbsch/cbsch-pgsql
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,978,442 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,978,431 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.6) | 1.0.6
 
@@ -1724,7 +1735,7 @@ __Downloads__: 10 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,688,025 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,688,018 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [BinaryPasswordGenerator](https://www.powershellgallery.com/Packages/BinaryPasswordGenerator/1.0.1) | 1.0.1
 
@@ -1870,7 +1881,7 @@ __Downloads__: 12 | __Repository__: https://gitee.com/wangyan1003/powershell-fla
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 9,047 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 9,044 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [EnvironmentModuleCore](https://www.powershellgallery.com/Packages/EnvironmentModuleCore/3.6.1) | 3.6.1
 
@@ -2009,7 +2020,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 50,518,538 | __Repository__: http://get-carbon.org/
+__Downloads__: 50,518,106 | __Repository__: http://get-carbon.org/
 
 ## [BinaryTree.Power365](https://www.powershellgallery.com/Packages/BinaryTree.Power365/20.12.7.1513) | 20.12.7.1513
 
@@ -2041,7 +2052,7 @@ __Downloads__: 7,983 | __Repository__:
 
 The module collects all helper functions used in but not limited to AutomatedLab
 
-__Downloads__: 33,346 | __Repository__: https://github.com/AutomatedLab/AutomatedLab.Common/
+__Downloads__: 33,306 | __Repository__: https://github.com/AutomatedLab/AutomatedLab.Common/
 
 ## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/3.0.337) | 3.0.337
 
@@ -2049,14 +2060,6 @@ __Downloads__: 33,346 | __Repository__: https://github.com/AutomatedLab/Automate
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 1,977,729 | __Repository__: https://vcredist.com/
+__Downloads__: 1,977,727 | __Repository__: https://vcredist.com/
 
-## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.43.0) | 5.43.0
-
-### Published: 06/30/2022 09:17:26 by Raimund Andree Per Pedersen
-
-Redirects stanard Write-* cmdlets to a log and offers some basic tracing functions
-
-__Downloads__: 23,563 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
-
-*Updated: Saturday, 09 July 2022 09:52:25 UTC*
+*Updated: Saturday, 09 July 2022 17:53:12 UTC*
