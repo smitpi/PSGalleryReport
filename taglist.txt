@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 July 2022 02:31:55 UTC
+Updated: Saturday, 09 July 2022 09:52:36 UTC
 
 ?:
 ??
@@ -552,6 +552,7 @@ azureautomationnotsupported
 azurecli
 azurecognitiveservices
 azureconnectedmachine
+azuredatabricks
 azuredataexplorer
 azuredatastudio
 azuredevops
@@ -807,7 +808,6 @@ calendar
 callingcode
 callqueue
 cam
-camera
 campaign
 camtasia
 canarie
@@ -2086,7 +2086,6 @@ farmanager
 fast
 fast-dds
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2411,7 +2410,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2882,6 +2880,7 @@ ipcalculator
 iperf
 ipfy.org
 iphone
+ipilot
 iplookup
 ipmaths
 ipp
@@ -3267,6 +3266,7 @@ macaddress
 machine
 machinelearning
 machinelearningcompute
+machinelearningservices
 macmon
 macos
 macosx
@@ -3425,6 +3425,7 @@ mga
 mi
 micro-orm
 microfocus
+microk8s
 microservices
 microsoft
 microsoft_365
@@ -3687,7 +3688,6 @@ network-credentials
 networkdiscovery
 networkdrives
 networkfirewall
-networkfunction
 networking
 networkinterfaces
 networkloadbalancer
@@ -3729,8 +3729,6 @@ ninjarmm
 nios
 nitrox
 nl
-nla
-nlm
 nlog
 nmap
 nmbell
@@ -3788,6 +3786,7 @@ nunit
 nupkg
 nuspec
 nutanix
+nuwave
 nva
 nvdimm
 nvdimm-n
@@ -3957,7 +3956,6 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
-osdprogress
 osdsus
 osdupdate
 osi
@@ -4128,7 +4126,6 @@ phishing
 phoenix
 phoneautomation
 photo
-photograph
 photos
 php
 phpapam
@@ -4176,6 +4173,7 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plugin
 plugins
@@ -4303,6 +4301,7 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4451,6 +4450,7 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommander
 psconfasia
 psconfeu
 pscore
@@ -4814,6 +4814,7 @@ repeat
 repl
 replace
 replaygain
+replication
 repoo
 report
 reporting
@@ -5076,7 +5077,6 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
-scriptlogging
 scriptrunner
 scripts
 scriptsmonitoring
@@ -5735,7 +5735,6 @@ tag2
 tagging
 tags
 tak
-taken
 tally
 talxis
 tanzu
@@ -6293,7 +6292,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsm
 vm
 vmc
 vmfs
@@ -6325,6 +6323,7 @@ voidtools
 volkskrant
 volume
 volumeshadowcopy
+volumio
 vorbis
 vovin
 vpasmodule
@@ -6595,7 +6594,6 @@ world
 worldcup
 worryfreebusinesssecurity
 wow
-wpad
 wpf
 wrap
 wrap-text
