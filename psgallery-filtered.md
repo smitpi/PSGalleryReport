@@ -5,13 +5,53 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [BioNameGenerator](https://www.powershellgallery.com/Packages/BioNameGenerator/0.2.0) | 0.2.0
+## [SimplePrtg](https://www.powershellgallery.com/Packages/SimplePrtg/1.0.10) | 1.0.10
 
-### Published: 07/09/2022 14:33:51 by Davi Marcon
+### Published: 07/10/2022 02:37:09 by Jeremy La Camera
+
+Use Paessler PRTG Network Monitor
+
+__Downloads__: 0 | __Repository__: 
+
+## [BioNameGenerator](https://www.powershellgallery.com/Packages/BioNameGenerator/1.0.0) | 1.0.0
+
+### Published: 07/10/2022 02:16:48 by Davi Marcon
 
 A name generator for projects, versions and other stuff written in powershell
 
 __Downloads__: 13 | __Repository__: https://github.com/Mxrcon/BioNameGenerator
+
+## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.8) | 0.0.8
+
+### Published: 07/10/2022 02:08:51 by James Brundage
+
+An Extensible Transpiler for PowerShell (and anything else)
+
+__Downloads__: 22 | __Repository__: https://github.com/StartAutomating/PipeScript
+
+## [Search-Log](https://www.powershellgallery.com/Packages/Search-Log/1.0.4) | 1.0.4
+
+### Published: 07/10/2022 01:13:28 by Ross Hight II
+
+This cmdlet searches through all folders within the provided log path and returns any log files that include the string provided.
+
+__Downloads__: 4 | __Repository__: 
+
+## [camtasia-trec](https://www.powershellgallery.com/Packages/camtasia-trec/0.0.6) | 0.0.6
+
+### Published: 07/09/2022 21:08:20 by he852100
+
+这是一个对techsmith公司camtasia软件生成的trec格式录像文件中的光标文件进行替换的脚本
+
+__Downloads__: 52 | __Repository__: https://github.com/he852100/camtasia-trec
+
+## [PSComData](https://www.powershellgallery.com/Packages/PSComData/0.2.0) | 0.2.0
+
+### Published: 07/09/2022 18:38:44 by FingerhutAsCode
+
+PowerShell Module to connect to BP Fuel Card system via iConnectData ComData System
+
+__Downloads__: 0 | __Repository__: 
 
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/1.0.204) | 1.0.204
 
@@ -62,7 +102,7 @@ __Downloads__: 8 | __Repository__: https://github.com/cpp-swift/PowerRvB
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 15,348 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 15,344 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/2.1.0) | 2.1.0
 
@@ -78,7 +118,7 @@ __Downloads__: 14 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 JSON Utilities module
 
-__Downloads__: 411 | __Repository__: https://github.com/choovick/ps-jsonutils
+__Downloads__: 410 | __Repository__: https://github.com/choovick/ps-jsonutils
 
 ## [PSOpenAD](https://www.powershellgallery.com/Packages/PSOpenAD/0.1.0) | 0.1.0
 
@@ -94,7 +134,15 @@ __Downloads__: 229 | __Repository__: https://github.com/jborean93/PSOpenAD
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 713,634 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 713,621 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+
+## [MSchauer.PnP.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.PnP.PowerShell/1.0.2) | 1.0.2
+
+### Published: 07/08/2022 20:40:35 by Matt Schauer
+
+PowerShell module that adds additional functionality to common PnP.PowerShell commands
+
+__Downloads__: 12 | __Repository__: https://github.com/mschauer5/MSchauer.PnP.PowerShell
 
 ## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.4.9) | 2.4.9
 
@@ -198,7 +246,7 @@ __Downloads__: 5 | __Repository__: https://github.com/azsk/AzTS-docs
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,728,308 | __Repository__: https://dbatools.io/
+__Downloads__: 1,728,273 | __Repository__: https://dbatools.io/
 
 ## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/0.9.6) | 0.9.6
 
@@ -262,7 +310,7 @@ __Downloads__: 163 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,303,552 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,303,536 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.8.2918) | 20.12.8.2918
 
@@ -278,7 +326,7 @@ __Downloads__: 1,927 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 2,443,312 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 2,443,251 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [BinaryTree.Internal.Power365.QA](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.QA/20.12.8.2823) | 20.12.8.2823
 
@@ -402,7 +450,7 @@ __Downloads__: 1 | __Repository__:
 
 PowerShell module to add file icons to terminal based on file extension
 
-__Downloads__: 120,902 | __Repository__: https://github.com/devblackops/Terminal-Icons
+__Downloads__: 120,898 | __Repository__: https://github.com/devblackops/Terminal-Icons
 
 ## [GPODoc](https://www.powershellgallery.com/Packages/GPODoc/1.2.0) | 1.2.0
 
@@ -589,7 +637,7 @@ __Downloads__: 5,038 | __Repository__: https://github.com/webmd-health-services/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 680,632 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 680,616 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.243.102) | 1.243.102
 
@@ -597,7 +645,7 @@ __Downloads__: 680,632 | __Repository__: https://stealthpuppy.com/evergreen/
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 17,663 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 17,661 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [KFTeamsTools](https://www.powershellgallery.com/Packages/KFTeamsTools/0.0.22) | 0.0.22
 
@@ -1542,7 +1590,7 @@ __Downloads__: 43,870 | __Repository__: https://github.com/oracle/oci-powershell
 
 Exchange Web Services (EWS) tool to perform different operations
 
-__Downloads__: 7,506 | __Repository__: https://github.com/agallego-css/ewsgui/
+__Downloads__: 7,505 | __Repository__: https://github.com/agallego-css/ewsgui/
 
 ## [Mortar.Templates](https://www.powershellgallery.com/Packages/Mortar.Templates/0.0.0) | 0.0.0
 
@@ -1574,7 +1622,7 @@ __Downloads__: 14 | __Repository__: https://open.cinegy.com/
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 445,833 | __Repository__: 
+__Downloads__: 445,832 | __Repository__: 
 
 ## [PSFalcon](https://www.powershellgallery.com/Packages/PSFalcon/2.2.1) | 2.2.1
 
@@ -1614,7 +1662,7 @@ __Downloads__: 542 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 459,652 | __Repository__: 
+__Downloads__: 459,651 | __Repository__: 
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.16) | 1.0.16
 
@@ -1646,7 +1694,7 @@ __Downloads__: 10 | __Repository__: https://github.com/cbsch/cbsch-pgsql
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,978,431 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,978,410 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.6) | 1.0.6
 
@@ -1688,14 +1736,6 @@ firstvoucher.com PowerShell Module
 
 __Downloads__: 325 | __Repository__: 
 
-## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.7) | 0.0.7
-
-### Published: 07/04/2022 22:04:30 by James Brundage
-
-An Extensible Transpiler for PowerShell (and anything else)
-
-__Downloads__: 22 | __Repository__: https://github.com/StartAutomating/PipeScript
-
 ## [AzExpression](https://www.powershellgallery.com/Packages/AzExpression/0.1.0) | 0.1.0
 
 ### Published: 07/04/2022 20:47:51 by SimonWahlin
@@ -1735,7 +1775,7 @@ __Downloads__: 10 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,688,018 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,688,005 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [BinaryPasswordGenerator](https://www.powershellgallery.com/Packages/BinaryPasswordGenerator/1.0.1) | 1.0.1
 
@@ -1881,7 +1921,7 @@ __Downloads__: 12 | __Repository__: https://gitee.com/wangyan1003/powershell-fla
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 9,044 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 9,035 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [EnvironmentModuleCore](https://www.powershellgallery.com/Packages/EnvironmentModuleCore/3.6.1) | 3.6.1
 
@@ -1923,7 +1963,7 @@ __Downloads__: 1,050 | __Repository__: https://www.github.com/alt3/Docusaurus.Po
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 718,421 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 718,485 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PentaWork.Xrm.PowerShell](https://www.powershellgallery.com/Packages/PentaWork.Xrm.PowerShell/1.5.3) | 1.5.3
 
@@ -2020,46 +2060,6 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 50,518,106 | __Repository__: http://get-carbon.org/
+__Downloads__: 50,517,608 | __Repository__: http://get-carbon.org/
 
-## [BinaryTree.Power365](https://www.powershellgallery.com/Packages/BinaryTree.Power365/20.12.7.1513) | 20.12.7.1513
-
-### Published: 06/30/2022 17:16:39 by BinaryTreePackagePublisher
-
-PowerShell Management cmdlets for Binary Tree Power365
-
-__Downloads__: 3,209 | __Repository__: 
-
-## [EguibarIT](https://www.powershellgallery.com/Packages/EguibarIT/1.51.62) | 1.51.62
-
-### Published: 06/30/2022 17:14:01 by Vicente Rodriguez Eguibar
-
-Functions used to implement the Delegation Model with Tiers on the given Active Directory.
-
-__Downloads__: 136 | __Repository__: https://github.com/vreguibar/EguibarIT
-
-## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.121) | 0.0.121
-
-### Published: 06/30/2022 17:02:01 by BitTitan
-
-Module for BitTitanPowerShell.
-
-__Downloads__: 7,983 | __Repository__: 
-
-## [AutomatedLab.Common](https://www.powershellgallery.com/Packages/AutomatedLab.Common/2.2.234) | 2.2.234
-
-### Published: 06/30/2022 15:27:51 by Raimund Andree Per Pedersen Jan-Hendrik Peters
-
-The module collects all helper functions used in but not limited to AutomatedLab
-
-__Downloads__: 33,306 | __Repository__: https://github.com/AutomatedLab/AutomatedLab.Common/
-
-## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/3.0.337) | 3.0.337
-
-### Published: 06/30/2022 13:46:18 by Aaron Parker
-
-A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads the supported (and unsupported) Redistributables, for local install, main image deployment or importing as applications into the Microsoft Deployment Toolkit or Microsoft Endpoint Configuration Manager. Supports passive and silent installs and uninstalls of the Visual C++ Redistributables.
-
-__Downloads__: 1,977,727 | __Repository__: https://vcredist.com/
-
-*Updated: Saturday, 09 July 2022 17:53:12 UTC*
+*Updated: Sunday, 10 July 2022 02:40:16 UTC*

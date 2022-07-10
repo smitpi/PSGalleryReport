@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 July 2022 17:53:24 UTC
+Updated: Sunday, 10 July 2022 02:40:26 UTC
 
 ?:
 ??
@@ -44,7 +44,6 @@ Updated: Saturday, 09 July 2022 17:53:24 UTC
 3dprinting
 3par
 50
-64
 650
 650flb
 7
@@ -64,6 +63,7 @@ aadgraph
 aadrm
 aadsc
 aadsecurity
+aadsts
 aam
 aas
 abc
@@ -947,6 +947,7 @@ ciminstance
 cims
 cimsession
 cinegy
+cinema
 cinst
 cipher
 circuit-breaker
@@ -1242,6 +1243,8 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1283,7 +1286,11 @@ crayon
 crc
 crc32
 create
+createcolumn
+createdatabase
 createprocessasuser
+createschema
+createtable
 creationworkflowsimplification
 creator
 cred
@@ -1747,7 +1754,9 @@ driverupdates
 drm
 drop
 dropbox
+dropdatabase
 droplet
+droptable
 drs
 drsrule
 drupal
@@ -1847,6 +1856,7 @@ elevated
 elevatedconsole
 elevatedmode
 elgato
+elk
 elm
 elonmusk
 eloqua
@@ -1925,6 +1935,7 @@ erb
 erp
 error
 error-log
+errorcode
 errorfile
 errors
 errorview
@@ -2145,6 +2156,7 @@ filetransfer
 filetype
 filewrite
 fill
+film
 filter
 filter-item
 filtering
@@ -2715,6 +2727,7 @@ illinois
 ilo
 ilo5
 ilocmdlets
+im
 image
 image-converter
 image-creation
@@ -2889,7 +2902,6 @@ iselevated
 isesteroids
 ish
 ishexstring
-ism
 isnumeric
 iso
 iso-3166-1
@@ -2908,7 +2920,6 @@ itop
 itsm
 itstore
 ivanti
-ivantips
 ivb
 ivdc
 iwi
@@ -2998,6 +3009,7 @@ keylight
 keymanagement
 keypair
 keyvault
+kibana
 kickstart
 kidrsa
 kill
@@ -3144,6 +3156,7 @@ listener
 litecoin
 litedb
 literature
+live
 lldp
 lmhost
 lmhosts
@@ -3722,6 +3735,7 @@ nlm
 nlog
 nmap
 nmbell
+nntp
 node
 nodejs
 non-volatile
@@ -3839,7 +3853,6 @@ oidc
 ok
 okta
 old
-ole
 oledb
 omaha
 ome
@@ -4195,6 +4208,7 @@ pomodoro
 ponduit
 pool
 poop
+pop
 pop-location
 pop3
 popd
@@ -4644,7 +4658,6 @@ quote
 quotes
 quoting
 quser
-r
 r53
 rabbit
 rabbitmq
@@ -4662,6 +4675,7 @@ random-date
 randompassword
 randomuser
 randomusers
+ras
 raspberry-pi
 raspberrypi
 raspbian
@@ -4829,7 +4843,6 @@ resharper
 resize
 resolution
 resolve
-resolve-stache
 resolve-template
 resolver
 resource
@@ -4861,6 +4874,7 @@ reversedsc
 revision
 reword
 rewrite
+rexec
 rfc1305
 rfc1436
 rfc2030
@@ -4925,6 +4939,7 @@ rrd
 rs
 rsa
 rsat
+rshell
 rsjob
 rsop
 rss
@@ -5218,6 +5233,7 @@ setbios
 setting
 settings
 setup
+sevenzip
 sf
 sfb
 sftp
@@ -5336,9 +5352,13 @@ smb
 smb1
 smb2
 smbios
+smimeemail
+smimeimap
+smimepop
 smlets
 smo
 smorgasbord
+sms
 smtp
 smtpaddressupdate psmodule
 smtpsecure
@@ -5385,7 +5405,6 @@ solr
 soltra
 solution
 solutions
-sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -5509,7 +5528,6 @@ sspr
 ssrs
 ssst
 sstp
-stache
 stackedge
 stackexchange
 stackhci
@@ -5580,7 +5598,6 @@ streaming
 stretch
 strictmode
 string
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -5646,6 +5663,7 @@ swimlane
 swis
 switch
 sxs
+sybase
 sybaseiq
 symantec
 symbolic
@@ -5762,6 +5780,7 @@ telegram-sticker
 telegramx
 telemetry
 telligent
+telnet
 temp
 temperature
 template
@@ -5792,7 +5811,6 @@ test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
-test-xml
 test123
 testaccount
 testautomation
@@ -5819,6 +5837,7 @@ tfs
 tfscmdlets
 tfswitch
 tftd
+tftp
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -5830,7 +5849,6 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
-thousandeyes
 thread
 threading
 threadjob
@@ -5921,6 +5939,7 @@ transliteration
 transmission
 transparency
 transpilation
+trap
 trec
 tree
 treesize
@@ -6234,6 +6253,7 @@ video
 videos
 vie
 viewer
+viewgroup
 vigenere
 vim
 vimode
@@ -6354,7 +6374,6 @@ waf
 waitforobject
 wakeonlan
 wakeup
-walk
 wallet
 wallpaper
 wallpapers
@@ -6390,6 +6409,7 @@ webapplicationproxy
 webapps
 webcamera
 webcmdlets
+webdav
 webdeploy
 webfrequest
 webhdfs
@@ -6579,12 +6599,10 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
-wrc
 wrike
 write
 write-ascii
 write-color
-write-colour
 write-debug
 write-host
 write-information
@@ -6651,7 +6669,6 @@ xml-rpc
 xml-transform
 xmla
 xmlrpc
-xmlutils
 xoauth2
 xor
 xpath
