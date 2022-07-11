@@ -5,6 +5,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSGC](https://www.powershellgallery.com/Packages/PSGC/1.1.0) | 1.1.0
+
+### Published: 07/11/2022 09:41:36 by Sascha Spiekermann
+
+Powershell Geocaching Helper
+
+__Downloads__: 0 | __Repository__: https://github.com/Callidus2000/PSGC
+
+## [powershell-flash](https://www.powershellgallery.com/Packages/powershell-flash/2.3) | 2.3
+
+### Published: 07/11/2022 08:27:39 by Wang Yan
+
+Powershell downloads the firmware of silabs' EFM32PG12 chip
+
+__Downloads__: 12 | __Repository__: https://gitee.com/wangyan1003/powershell-flash
+
+## [VRisingServerManager](https://www.powershellgallery.com/Packages/VRisingServerManager/0.1.0) | 0.1.0
+
+### Published: 07/11/2022 07:51:08 by github.com/edgetools
+
+Manages running multiple V Rising servers and their settings.
+
+__Downloads__: 1 | __Repository__: https://github.com/edgetools/vrising-server-manager
+
+## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.101) | 1.0.101
+
+### Published: 07/11/2022 06:59:20 by Mathias Stjernfelt
+
+BrightCom Solutions AB powershell helper.
+
+__Downloads__: 2,207 | __Repository__: 
+
+## [ISEPester](https://www.powershellgallery.com/Packages/ISEPester/1.0.1) | 1.0.1
+
+### Published: 07/11/2022 06:36:31 by Bartek Bielawski
+
+Module with ISE tools for Pester v5+
+
+__Downloads__: 1 | __Repository__: https://github.com/bielawb/ISEPester
+
+## [FineFormat](https://www.powershellgallery.com/Packages/FineFormat/0.2) | 0.2
+
+### Published: 07/11/2022 06:12:49 by Sergey Vasin
+
+Fine Formatting
+
+__Downloads__: 0 | __Repository__: https://github.com/sethworks/FineFormat
+
+## [RegCli](https://www.powershellgallery.com/Packages/RegCli/2.3.0) | 2.3.0
+
+### Published: 07/11/2022 05:16:34 by Fabrice Sanga
+
+Set of helper functions for updating applications.
+
+__Downloads__: 15 | __Repository__: https://github.com/sangafabrice/reg-cli
+
+## [CertCheckStor](https://www.powershellgallery.com/Packages/CertCheckStor/0.1.9) | 0.1.9
+
+### Published: 07/11/2022 05:11:37 by Jesse Reichman
+
+Certificate Checker Storage
+
+__Downloads__: 19 | __Repository__: https://github.com/archmachina/ps-CertCheckStor/
+
+## [DiskSmartInfo](https://www.powershellgallery.com/Packages/DiskSmartInfo/1.0.3) | 1.0.3
+
+### Published: 07/11/2022 03:24:49 by Sergey Vasin
+
+Get HDD and SSD SMART (Self-Monitoring, Analysis and Reporting Technology) information
+
+__Downloads__: 106 | __Repository__: https://github.com/sethworks/DiskSmartInfo
+
 ## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.74) | 0.0.0.74
 
 ### Published: 07/10/2022 21:02:42 by Naitwatch
@@ -28,14 +100,6 @@ __Downloads__: 0 | __Repository__:
 Interact with GitLab via PowerShell
 
 __Downloads__: 3,294 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
-## [ISEPester](https://www.powershellgallery.com/Packages/ISEPester/1.0) | 1.0
-
-### Published: 07/10/2022 16:57:10 by Bartek Bielawski
-
-Module with ISE tools for Pester v5+
-
-__Downloads__: 1 | __Repository__: https://github.com/bielawb/ISEPester
 
 ## [PsBootstrapCss](https://www.powershellgallery.com/Packages/PsBootstrapCss/1.0.3) | 1.0.3
 
@@ -85,14 +149,6 @@ A Powershell module that integrates with the Transmission RPC API.
 
 __Downloads__: 523 | __Repository__: https://github.com/trossr32/ps-transmission
 
-## [PSGC](https://www.powershellgallery.com/Packages/PSGC/1.0.0) | 1.0.0
-
-### Published: 07/10/2022 13:52:03 by Sascha Spiekermann
-
-Powershell Geocaching Helper
-
-__Downloads__: 0 | __Repository__: https://github.com/Callidus2000/PSGC
-
 ## [FarDescription](https://www.powershellgallery.com/Packages/FarDescription/1.1.0) | 1.1.0
 
 ### Published: 07/10/2022 12:05:08 by Roman Kuzmin
@@ -116,22 +172,6 @@ __Downloads__: 7,921 | __Repository__: https://oriflame.visualstudio.com/Oriflam
 PowerShell + Populi
 
 __Downloads__: 9 | __Repository__: 
-
-## [RegCli](https://www.powershellgallery.com/Packages/RegCli/2.2.0) | 2.2.0
-
-### Published: 07/10/2022 10:36:43 by Fabrice Sanga
-
-Set of helper functions for updating applications.
-
-__Downloads__: 15 | __Repository__: https://github.com/sangafabrice/reg-cli
-
-## [VRisingServerManager](https://www.powershellgallery.com/Packages/VRisingServerManager/0.0.1) | 0.0.1
-
-### Published: 07/10/2022 05:06:28 by github.com/edgetools
-
-Manages running multiple V Rising servers and their settings.
-
-__Downloads__: 1 | __Repository__: https://github.com/edgetools/vrising-server-manager
 
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/1.0.25) | 1.0.25
 
@@ -270,7 +310,7 @@ __Downloads__: 232 | __Repository__: https://github.com/jborean93/PSOpenAD
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 714,677 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 714,675 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [MSchauer.PnP.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.PnP.PowerShell/1.0.2) | 1.0.2
 
@@ -382,7 +422,7 @@ __Downloads__: 6 | __Repository__: https://github.com/azsk/AzTS-docs
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,730,649 | __Repository__: https://dbatools.io/
+__Downloads__: 1,730,641 | __Repository__: https://dbatools.io/
 
 ## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/0.9.6) | 0.9.6
 
@@ -462,7 +502,7 @@ __Downloads__: 2,027 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 2,451,064 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 2,451,013 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [BinaryTree.Internal.Power365.QA](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.QA/20.12.8.2823) | 20.12.8.2823
 
@@ -530,7 +570,7 @@ The 'Unified Labeling Support Tool' provides the functionality to reset all corr
 
 Before using the 'Unified Labeling Support Tool', please ensure to read its manual: https://aka.ms/UnifiedLabelingSupportTool
 
-__Downloads__: 1,351 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
+__Downloads__: 1,352 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
 
 ## [TDDSeams](https://www.powershellgallery.com/Packages/TDDSeams/1.0.0) | 1.0.0
 
@@ -586,7 +626,7 @@ __Downloads__: 1 | __Repository__:
 
 PowerShell module to add file icons to terminal based on file extension
 
-__Downloads__: 121,240 | __Repository__: https://github.com/devblackops/Terminal-Icons
+__Downloads__: 121,228 | __Repository__: https://github.com/devblackops/Terminal-Icons
 
 ## [GPODoc](https://www.powershellgallery.com/Packages/GPODoc/1.2.0) | 1.2.0
 
@@ -671,14 +711,6 @@ Provides access to the Security Management System as part of the AMAG access con
 
 __Downloads__: 719 | __Repository__: 
 
-## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.99) | 1.0.99
-
-### Published: 07/06/2022 17:23:04 by Mathias Stjernfelt
-
-BrightCom Solutions AB powershell helper.
-
-__Downloads__: 2,207 | __Repository__: 
-
 ## [safeguard-ps](https://www.powershellgallery.com/Packages/safeguard-ps/6.13.62645) | 6.13.62645
 
 ### Published: 07/06/2022 16:43:30 by petrsnd
@@ -741,7 +773,7 @@ __Downloads__: 148 | __Repository__:
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 138,898 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 138,897 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.2.7) | 0.2.7
 
@@ -750,14 +782,6 @@ __Downloads__: 138,898 | __Repository__: https://github.com/EvotecIT/PSSharedGoo
 A Helpful Toolkit for Managing PowerShell Help
 
 __Downloads__: 406 | __Repository__: https://github.com/StartAutomating/HelpOut
-
-## [CertCheckStor](https://www.powershellgallery.com/Packages/CertCheckStor/0.1.8) | 0.1.8
-
-### Published: 07/06/2022 02:36:10 by Jesse Reichman
-
-Certificate Checker Storage
-
-__Downloads__: 19 | __Repository__: https://github.com/archmachina/ps-CertCheckStor/
 
 ## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.52.0) | 0.52.0
 
@@ -773,7 +797,7 @@ __Downloads__: 5,038 | __Repository__: https://github.com/webmd-health-services/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 682,049 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 682,043 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.243.102) | 1.243.102
 
@@ -1766,7 +1790,7 @@ __Downloads__: 448,532 | __Repository__:
 
 PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
-__Downloads__: 53,296 | __Repository__: https://github.com/crowdstrike/psfalcon
+__Downloads__: 53,297 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 ## [FarGit](https://www.powershellgallery.com/Packages/FarGit/0.4.3) | 0.4.3
 
@@ -1782,7 +1806,7 @@ __Downloads__: 226 | __Repository__: https://github.com/nightroman/FarGit
 
 Deletes the file or folder as if it had been done via File Explorer, or restores a deleted file from the recycle bin.
 
-__Downloads__: 35,667 | __Repository__: https://github.com/bdukes/PowerShellModules
+__Downloads__: 35,670 | __Repository__: https://github.com/bdukes/PowerShellModules
 
 ## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.7.2713) | 20.12.7.2713
 
@@ -1830,7 +1854,7 @@ __Downloads__: 10 | __Repository__: https://github.com/cbsch/cbsch-pgsql
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,979,744 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,979,737 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.6) | 1.0.6
 
@@ -1911,7 +1935,7 @@ __Downloads__: 10 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,688,896 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,688,891 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [BinaryPasswordGenerator](https://www.powershellgallery.com/Packages/BinaryPasswordGenerator/1.0.1) | 1.0.1
 
@@ -2019,28 +2043,4 @@ Package Management (OneGet) provider that facilitates installing Homebrew packag
 
 __Downloads__: 57 | __Repository__: https://github.com/ethanbergstrom/Homebrew
 
-## [Croze](https://www.powershellgallery.com/Packages/Croze/0.0.4) | 0.0.4
-
-### Published: 07/02/2022 14:58:20 by Ethan Bergstrom
-
-A PowerShell Crescendo wrapper for Homebrew
-
-__Downloads__: 103 | __Repository__: https://github.com/ethanbergstrom/Croze
-
-## [DownloadInfo](https://www.powershellgallery.com/Packages/DownloadInfo/3.2.0) | 3.2.0
-
-### Published: 07/02/2022 13:29:30 by Fabrice Sanga
-
-Download information relative to updating an application hosted on GitHub, Omaha and SourceForge.
-
-__Downloads__: 29 | __Repository__: https://github.com/sangafabrice/download-info
-
-## [powershell-flash](https://www.powershellgallery.com/Packages/powershell-flash/2.1) | 2.1
-
-### Published: 07/02/2022 10:05:41 by Wang Yan
-
-Powershell downloads the firmware of silabs' EFM32PG12 chip
-
-__Downloads__: 12 | __Repository__: https://gitee.com/wangyan1003/powershell-flash
-
-*Updated: Monday, 11 July 2022 02:37:17 UTC*
+*Updated: Monday, 11 July 2022 09:54:18 UTC*

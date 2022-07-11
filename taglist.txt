@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 11 July 2022 02:37:29 UTC
+Updated: Monday, 11 July 2022 09:54:27 UTC
 
 ?:
 ??
@@ -26,7 +26,6 @@ Updated: Monday, 11 July 2022 02:37:29 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -95,6 +94,7 @@ acl
 acme
 acmesharp
 acmesharp_ext
+act-on
 act!
 actifio
 actifiogo
@@ -110,7 +110,6 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
-activeefficiency
 activeresponse
 activesession
 activiti
@@ -754,7 +753,6 @@ brk4452
 broadcast
 broot
 browser
-browserextension
 browserhistory
 brs
 bruteforce
@@ -1243,8 +1241,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1660,6 +1656,7 @@ dl
 dll
 dlmautomation
 dlmigration
+dlp
 dmarc
 dmgr
 dmi
@@ -2060,7 +2057,6 @@ extendedproperty
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
@@ -2402,6 +2398,7 @@ glpi
 gmail
 gmap
 gmaps
+gmsa
 gnucash
 gnuwin32
 gobright
@@ -2512,6 +2509,7 @@ harden
 hardening
 hardlink
 hardware
+harperdb
 harvest
 harvestforecast
 hash
@@ -2633,7 +2631,6 @@ hris
 hsdp
 html
 http
-httpclient
 httplistener
 https
 httpserver
@@ -2665,13 +2662,14 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
+hysolate
+hysolatemangementconsole
 i-doit
 i2c
 ia
 iaas
 iac
 iam
-iana
 iap
 ias
 ib
@@ -2915,7 +2913,6 @@ iterate
 iteration
 itg
 itglue
-itop
 itsm
 itstore
 ivanti
@@ -3270,7 +3267,6 @@ machinelearningservices
 macmon
 macos
 macosx
-macros
 madlib
 magazine
 magento
@@ -3356,7 +3352,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mb
 mbc
 mbs
@@ -3607,6 +3602,7 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
+musiccast
 mustache
 mutation
 mute
@@ -4444,7 +4440,6 @@ ps5
 ps6
 ps7
 psa
-psadbscreencap
 psadt
 psake
 psappdeploytoolkit
@@ -4454,6 +4449,7 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommander
 psconfasia
 psconfeu
 pscore
@@ -4647,7 +4643,6 @@ quarantine
 query
 queue
 queues
-queuing
 quickaccess
 quickbase
 quickbooks
@@ -4773,7 +4768,6 @@ registration
 registry
 regression
 regularexpressions
-reinstall
 relational
 relay
 release
@@ -5062,7 +5056,6 @@ scrap
 scrape
 scraper
 screen
-screencap
 screencapture
 screenconnect
 screenfetch
@@ -5537,7 +5530,6 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
-staging
 stale
 stan
 stanc
@@ -5648,6 +5640,7 @@ supercell
 superheros
 supermarket
 support
+suppress
 supress-reboot
 surround
 survey
@@ -5739,7 +5732,6 @@ tagging
 tags
 tak
 taken
-tally
 talxis
 tanzu
 tar
@@ -6531,7 +6523,6 @@ windowsserverguisecurity
 windowsservice
 windowsstore
 windowsterminal
-windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
@@ -6606,10 +6597,12 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
+wrc
 wrike
 write
 write-ascii
 write-color
+write-colour
 write-debug
 write-host
 write-information
@@ -6693,6 +6686,7 @@ xwiki
 xwindowsupdate
 yahoo
 yahw
+yamaha
 yaml
 yandex
 yarn
