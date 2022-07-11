@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 11 July 2022 09:54:27 UTC
+Updated: Monday, 11 July 2022 17:54:19 UTC
 
 ?:
 ??
@@ -26,6 +26,7 @@ Updated: Monday, 11 July 2022 09:54:27 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -110,6 +111,7 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
+activeefficiency
 activeresponse
 activesession
 activiti
@@ -753,6 +755,7 @@ brk4452
 broadcast
 broot
 browser
+browserextension
 browserhistory
 brs
 bruteforce
@@ -1241,6 +1244,8 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -2057,6 +2062,7 @@ extendedproperty
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2081,7 +2087,6 @@ farmanager
 fast
 fast-dds
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2631,6 +2636,7 @@ hris
 hsdp
 html
 http
+httpclient
 httplistener
 https
 httpserver
@@ -2670,6 +2676,7 @@ ia
 iaas
 iac
 iam
+iana
 iap
 ias
 ib
@@ -2913,6 +2920,7 @@ iterate
 iteration
 itg
 itglue
+itop
 itsm
 itstore
 ivanti
@@ -3267,6 +3275,7 @@ machinelearningservices
 macmon
 macos
 macosx
+macros
 madlib
 magazine
 magento
@@ -3352,6 +3361,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mb
 mbc
 mbs
@@ -4440,6 +4450,7 @@ ps5
 ps6
 ps7
 psa
+psadbscreencap
 psadt
 psake
 psappdeploytoolkit
@@ -4631,7 +4642,6 @@ qlogicfastlinqpowerkit
 qlogicfcpowerkit
 qlogicfcprovider
 qna
-qol
 qq
 qr
 qrcode
@@ -4643,6 +4653,7 @@ quarantine
 query
 queue
 queues
+queuing
 quickaccess
 quickbase
 quickbooks
@@ -4768,6 +4779,7 @@ registration
 registry
 regression
 regularexpressions
+reinstall
 relational
 relay
 release
@@ -4893,7 +4905,6 @@ risksense
 rlan
 rmcp
 rmm
-rmmapi
 rms
 rng
 roarwrecker
@@ -5056,6 +5067,7 @@ scrap
 scrape
 scraper
 screen
+screencap
 screencapture
 screenconnect
 screenfetch
@@ -5530,6 +5542,7 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
+staging
 stale
 stan
 stanc
@@ -5541,7 +5554,6 @@ start-jobthread
 start-threadjob
 startmen
 starwars
-stash
 stat
 state
 static
@@ -5732,6 +5744,7 @@ tagging
 tags
 tak
 taken
+tally
 talxis
 tanzu
 tar
@@ -5862,7 +5875,6 @@ thycotic
 tic-tac-toe
 tickle
 ticks
-tictactoe
 tiermodel
 time
 timeout
@@ -6157,7 +6169,6 @@ user-environment
 userdiscovery
 usergroup
 userinterface
-usermanagement
 username
 userprofile
 userright
@@ -6387,7 +6398,6 @@ warranty
 warrenty
 wasabi
 watch
-watchguard
 watchmen
 watery
 wave
@@ -6523,6 +6533,7 @@ windowsserverguisecurity
 windowsservice
 windowsstore
 windowsterminal
+windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
