@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 10 July 2022 17:52:50 UTC
+Updated: Monday, 11 July 2022 02:37:29 UTC
 
 ?:
 ??
@@ -95,7 +95,6 @@ acl
 acme
 acmesharp
 acmesharp_ext
-act-on
 act!
 actifio
 actifiogo
@@ -1661,7 +1660,6 @@ dl
 dll
 dlmautomation
 dlmigration
-dlp
 dmarc
 dmgr
 dmi
@@ -2404,7 +2402,6 @@ glpi
 gmail
 gmap
 gmaps
-gmsa
 gnucash
 gnuwin32
 gobright
@@ -2515,7 +2512,6 @@ harden
 hardening
 hardlink
 hardware
-harperdb
 harvest
 harvestforecast
 hash
@@ -2669,8 +2665,6 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
-hysolate
-hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3613,7 +3607,6 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
-musiccast
 mustache
 mutation
 mute
@@ -4461,7 +4454,6 @@ psbbix
 psbicep
 psclient
 pscmdlet
-pscommander
 psconfasia
 psconfeu
 pscore
@@ -5656,7 +5648,6 @@ supercell
 superheros
 supermarket
 support
-suppress
 supress-reboot
 surround
 survey
@@ -6615,12 +6606,10 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
-wrc
 wrike
 write
 write-ascii
 write-color
-write-colour
 write-debug
 write-host
 write-information
@@ -6704,7 +6693,6 @@ xwiki
 xwindowsupdate
 yahoo
 yahw
-yamaha
 yaml
 yandex
 yarn

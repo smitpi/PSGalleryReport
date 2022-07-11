@@ -5,13 +5,21 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.32) | 0.0.0.32
+## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.74) | 0.0.0.74
 
-### Published: 07/10/2022 17:34:06 by Naitwatch
+### Published: 07/10/2022 21:02:42 by Naitwatch
 
 Powershell module for basic windows os configuration, maintenance
 
 __Downloads__: 47 | __Repository__: https://github.com/NaitWatch/SetUpBasic
+
+## [ReadPDF](https://www.powershellgallery.com/Packages/ReadPDF/0.0.1) | 0.0.1
+
+### Published: 07/10/2022 20:23:12 by Adam Bacon
+
+Allows you to read an entire pdf
+
+__Downloads__: 0 | __Repository__: 
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.67.0) | 1.67.0
 
@@ -99,7 +107,7 @@ __Downloads__: 213 | __Repository__: https://github.com/nightroman/FarDescriptio
 
 Connect to Oriflame.Ps.Gallery
 
-__Downloads__: 7,922 | __Repository__: https://oriflame.visualstudio.com/Oriflame.PS.Gallery/
+__Downloads__: 7,921 | __Repository__: https://oriflame.visualstudio.com/Oriflame.PS.Gallery/
 
 ## [PS-Populi](https://www.powershellgallery.com/Packages/PS-Populi/0.0.4) | 0.0.4
 
@@ -262,7 +270,7 @@ __Downloads__: 232 | __Repository__: https://github.com/jborean93/PSOpenAD
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 714,880 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 714,677 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [MSchauer.PnP.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.PnP.PowerShell/1.0.2) | 1.0.2
 
@@ -374,7 +382,7 @@ __Downloads__: 6 | __Repository__: https://github.com/azsk/AzTS-docs
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,730,658 | __Repository__: https://dbatools.io/
+__Downloads__: 1,730,649 | __Repository__: https://dbatools.io/
 
 ## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/0.9.6) | 0.9.6
 
@@ -438,7 +446,7 @@ __Downloads__: 163 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,304,646 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,304,639 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.8.2918) | 20.12.8.2918
 
@@ -454,7 +462,7 @@ __Downloads__: 2,027 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 2,451,013 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 2,451,064 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [BinaryTree.Internal.Power365.QA](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.QA/20.12.8.2823) | 20.12.8.2823
 
@@ -578,7 +586,7 @@ __Downloads__: 1 | __Repository__:
 
 PowerShell module to add file icons to terminal based on file extension
 
-__Downloads__: 121,233 | __Repository__: https://github.com/devblackops/Terminal-Icons
+__Downloads__: 121,240 | __Repository__: https://github.com/devblackops/Terminal-Icons
 
 ## [GPODoc](https://www.powershellgallery.com/Packages/GPODoc/1.2.0) | 1.2.0
 
@@ -1118,7 +1126,7 @@ __Downloads__: 1,484 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Objectstorage Service
 
-__Downloads__: 5,753 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 5,752 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/35.3.0) | 35.3.0
 
@@ -1750,7 +1758,7 @@ __Downloads__: 14 | __Repository__: https://open.cinegy.com/
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 448,557 | __Repository__: 
+__Downloads__: 448,532 | __Repository__: 
 
 ## [PSFalcon](https://www.powershellgallery.com/Packages/PSFalcon/2.2.1) | 2.2.1
 
@@ -1774,7 +1782,7 @@ __Downloads__: 226 | __Repository__: https://github.com/nightroman/FarGit
 
 Deletes the file or folder as if it had been done via File Explorer, or restores a deleted file from the recycle bin.
 
-__Downloads__: 35,670 | __Repository__: https://github.com/bdukes/PowerShellModules
+__Downloads__: 35,667 | __Repository__: https://github.com/bdukes/PowerShellModules
 
 ## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.7.2713) | 20.12.7.2713
 
@@ -1790,7 +1798,7 @@ __Downloads__: 542 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 462,370 | __Repository__: 
+__Downloads__: 462,345 | __Repository__: 
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.16) | 1.0.16
 
@@ -1822,7 +1830,7 @@ __Downloads__: 10 | __Repository__: https://github.com/cbsch/cbsch-pgsql
 
 Automation tools for production quality database deployment
 
-__Downloads__: 2,979,737 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 2,979,744 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.6) | 1.0.6
 
@@ -1903,7 +1911,7 @@ __Downloads__: 10 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,688,904 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,688,896 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [BinaryPasswordGenerator](https://www.powershellgallery.com/Packages/BinaryPasswordGenerator/1.0.1) | 1.0.1
 
@@ -2035,12 +2043,4 @@ Powershell downloads the firmware of silabs' EFM32PG12 chip
 
 __Downloads__: 12 | __Repository__: https://gitee.com/wangyan1003/powershell-flash
 
-## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.10.1) | 1.10.1
-
-### Published: 07/02/2022 07:21:55 by Mikey O'Toole / Luke Whitelock
-
-This module provides an interface to the Halo API.
-
-__Downloads__: 9,416 | __Repository__: https://github.com/homotechsual/HaloAPI
-
-*Updated: Sunday, 10 July 2022 17:52:39 UTC*
+*Updated: Monday, 11 July 2022 02:37:17 UTC*
