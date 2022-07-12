@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 July 2022 09:53:20 UTC
+Updated: Tuesday, 12 July 2022 17:52:27 UTC
 
 ?:
 ??
@@ -26,6 +26,7 @@ Updated: Tuesday, 12 July 2022 09:53:20 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -110,6 +111,7 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
+activeefficiency
 activeresponse
 activesession
 activiti
@@ -252,6 +254,7 @@ amateur-radio
 amateurradio
 amazon
 amazonwebservices
+amend
 ami
 amp
 amqp
@@ -838,6 +841,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -860,7 +864,6 @@ celcat
 celerium
 censor
 center
-centra
 central
 central-management
 centralcredentialprovider
@@ -899,6 +902,7 @@ charts
 chat
 chatbot
 chatops
+chatroom
 chatter
 cheat
 check
@@ -922,6 +926,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+chooser
 christaylorcodes
 christmas
 chrome
@@ -937,9 +942,7 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimi
-ciminstance
 cims
 cimsession
 cinegy
@@ -1339,6 +1342,7 @@ csv
 csv2adx
 csvhelper
 ctf
+ctglobal
 ctl
 ctx
 ctype
@@ -1606,6 +1610,7 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -1983,7 +1988,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2327,6 +2331,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-childitem
 get-cmhealthcheck
 get-command
@@ -2466,7 +2471,6 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
-guardicore
 gubbins
 guest
 guestconfiguration
@@ -2665,6 +2669,7 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
+ia
 iaas
 iac
 iam
@@ -2792,6 +2797,7 @@ inputobject
 insert
 insiderthreat
 insight
+insightanalytics
 insights
 inspect
 inspur
@@ -3146,6 +3152,7 @@ liquit
 liquit.com
 list
 list_files
+list-directory
 list-item
 listener
 litecoin
@@ -3653,7 +3660,6 @@ neptune
 nerdfonts
 nerdymishka
 nessus
-nested
 net
 net4.8
 netadapter
@@ -3744,7 +3750,6 @@ nosql
 note
 notebook
 notepad
-noteproperty
 notes
 notification
 notificationhubs
@@ -4050,6 +4055,7 @@ passivetotal
 passphrase
 passphraser passphrase password generator entropy
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -4710,6 +4716,7 @@ readiness
 readme
 readthedocs
 realschule
+rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -4868,6 +4875,8 @@ reverse-engineer
 reverse-string
 reversedsc
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -5074,6 +5083,7 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
+scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
@@ -5526,6 +5536,7 @@ stache
 stackedge
 stackexchange
 stackhci
+stackmonitoring
 stackoverflow
 staffhub
 staging
@@ -5970,6 +5981,7 @@ tsheets
 tsqlbestpractice
 tts
 tui
+tulpep
 tuner
 tutorial
 tv
@@ -6249,7 +6261,6 @@ video
 videos
 vie
 viewer
-viewgroup
 vigenere
 vim
 vimode
