@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 11 July 2022 17:54:19 UTC
+Updated: Tuesday, 12 July 2022 02:42:20 UTC
 
 ?:
 ??
@@ -96,7 +96,6 @@ acme
 acmesharp
 acmesharp_ext
 act-on
-act!
 actifio
 actifiogo
 action
@@ -808,7 +807,6 @@ calendar
 callingcode
 callqueue
 cam
-camera
 campaign
 camtasia
 canarie
@@ -865,7 +863,6 @@ censor
 center
 centra
 central
-central-management
 centralcredentialprovider
 centrastage
 centreon
@@ -1344,7 +1341,6 @@ csv
 csv2adx
 csvhelper
 ctf
-ctglobal
 ctl
 ctx
 ctype
@@ -2087,6 +2083,7 @@ farmanager
 fast
 fast-dds
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2302,7 +2299,6 @@ gateway
 gauge
 gavin
 gavineke
-gc
 gce
 gci
 gcloud
@@ -2672,7 +2668,6 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
-ia
 iaas
 iac
 iam
@@ -2800,7 +2795,6 @@ inputobject
 insert
 insiderthreat
 insight
-insightanalytics
 insights
 inspect
 inspur
@@ -3166,7 +3160,6 @@ lldp
 lmhost
 lmhosts
 lms
-load
 loadbalancer
 loadbalancer.org
 loanddepot
@@ -3591,7 +3584,6 @@ mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
 mssqlplugins
-mssqlserver
 msteams
 mstest
 mstsc
@@ -4135,7 +4127,6 @@ phishing
 phoenix
 phoneautomation
 photo
-photograph
 photos
 php
 phpapam
@@ -4642,6 +4633,7 @@ qlogicfastlinqpowerkit
 qlogicfcpowerkit
 qlogicfcprovider
 qna
+qol
 qq
 qr
 qrcode
@@ -4905,6 +4897,7 @@ risksense
 rlan
 rmcp
 rmm
+rmmapi
 rms
 rng
 roarwrecker
@@ -5490,7 +5483,6 @@ sqlchangeautomation
 sqlclient
 sqlcmd
 sqlcodeguard
-sqldbatools
 sqldiagapi
 sqlexport
 sqlite
@@ -5554,6 +5546,7 @@ start-jobthread
 start-threadjob
 startmen
 starwars
+stash
 stat
 state
 static
@@ -5718,7 +5711,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -5743,7 +5735,6 @@ tag2
 tagging
 tags
 tak
-taken
 tally
 talxis
 tanzu
@@ -5837,7 +5828,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 texting
 textwrapping
@@ -5875,6 +5865,7 @@ thycotic
 tic-tac-toe
 tickle
 ticks
+tictactoe
 tiermodel
 time
 timeout
@@ -6169,6 +6160,7 @@ user-environment
 userdiscovery
 usergroup
 userinterface
+usermanagement
 username
 userprofile
 userright
@@ -6398,6 +6390,7 @@ warranty
 warrenty
 wasabi
 watch
+watchguard
 watchmen
 watery
 wave
