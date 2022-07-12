@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 July 2022 02:42:20 UTC
+Updated: Tuesday, 12 July 2022 09:53:20 UTC
 
 ?:
 ??
@@ -26,7 +26,6 @@ Updated: Tuesday, 12 July 2022 02:42:20 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -96,6 +95,7 @@ acme
 acmesharp
 acmesharp_ext
 act-on
+act!
 actifio
 actifiogo
 action
@@ -110,7 +110,6 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
-activeefficiency
 activeresponse
 activesession
 activiti
@@ -253,7 +252,6 @@ amateur-radio
 amateurradio
 amazon
 amazonwebservices
-amend
 ami
 amp
 amqp
@@ -807,6 +805,7 @@ calendar
 callingcode
 callqueue
 cam
+camera
 campaign
 camtasia
 canarie
@@ -863,6 +862,7 @@ censor
 center
 centra
 central
+central-management
 centralcredentialprovider
 centrastage
 centreon
@@ -899,7 +899,6 @@ charts
 chat
 chatbot
 chatops
-chatroom
 chatter
 cheat
 check
@@ -923,7 +922,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-chooser
 christaylorcodes
 christmas
 chrome
@@ -1608,7 +1606,6 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
-directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -2299,6 +2296,7 @@ gateway
 gauge
 gavin
 gavineke
+gc
 gce
 gci
 gcloud
@@ -2329,7 +2327,6 @@ geolocation
 geosearching
 geotagging
 get
-get_random_password
 get-childitem
 get-cmhealthcheck
 get-command
@@ -3149,7 +3146,6 @@ liquit
 liquit.com
 list
 list_files
-list-directory
 list-item
 listener
 litecoin
@@ -3160,6 +3156,7 @@ lldp
 lmhost
 lmhosts
 lms
+load
 loadbalancer
 loadbalancer.org
 loanddepot
@@ -3584,6 +3581,7 @@ mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
 mssqlplugins
+mssqlserver
 msteams
 mstest
 mstsc
@@ -4052,7 +4050,6 @@ passivetotal
 passphrase
 passphraser passphrase password generator entropy
 password
-password_generation
 password-generator
 password-less
 password-manager
@@ -4127,6 +4124,7 @@ phishing
 phoenix
 phoneautomation
 photo
+photograph
 photos
 php
 phpapam
@@ -4712,7 +4710,6 @@ readiness
 readme
 readthedocs
 realschule
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -4871,8 +4868,6 @@ reverse-engineer
 reverse-string
 reversedsc
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -5079,7 +5074,6 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
-scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
@@ -5483,6 +5477,7 @@ sqlchangeautomation
 sqlclient
 sqlcmd
 sqlcodeguard
+sqldbatools
 sqldiagapi
 sqlexport
 sqlite
@@ -5531,7 +5526,6 @@ stache
 stackedge
 stackexchange
 stackhci
-stackmonitoring
 stackoverflow
 staffhub
 staging
@@ -5711,6 +5705,7 @@ systeminformation
 systemlocale
 systems
 systemsplash
+systray
 t
 t-sql
 tab
@@ -5735,6 +5730,7 @@ tag2
 tagging
 tags
 tak
+taken
 tally
 talxis
 tanzu
@@ -5828,6 +5824,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 texting
 textwrapping
@@ -5973,7 +5970,6 @@ tsheets
 tsqlbestpractice
 tts
 tui
-tulpep
 tuner
 tutorial
 tv
