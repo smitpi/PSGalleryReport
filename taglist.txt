@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 July 2022 09:53:19 UTC
+Updated: Wednesday, 13 July 2022 17:53:12 UTC
 
 ?:
 ??
@@ -73,6 +73,7 @@ abe
 about
 abstractsyntaxtree
 abuse
+acas
 accelerator
 access
 access-control
@@ -807,7 +808,6 @@ calendar
 callingcode
 callqueue
 cam
-camera
 campaign
 camtasia
 canarie
@@ -1184,6 +1184,7 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
+connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1381,6 +1382,7 @@ cyberark
 cyberdrain
 cybereason
 cybersecurity
+cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -1651,6 +1653,7 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
+division
 divoom
 dkim
 dkschrutebeets
@@ -1661,6 +1664,7 @@ dlmigration
 dlp
 dmarc
 dmgr
+dmi
 dmx
 dnd
 dns
@@ -1701,6 +1705,7 @@ documents
 docusaurus
 docusign
 docx
+dod
 dog
 dog-names
 dogs
@@ -2356,6 +2361,8 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
+get-samcmassignedsite
+get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
@@ -2718,6 +2725,7 @@ iis
 iis10
 iis8
 iisadministration
+ikev2
 il
 illinois
 ilo
@@ -2755,6 +2763,7 @@ import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
+import-sampackagedefinitionsms
 importexport
 importteams
 inactive
@@ -3036,6 +3045,7 @@ kusto
 kvm
 kvp
 l1tf
+l2tp
 lab
 labautomation
 labdefinition
@@ -3359,6 +3369,7 @@ mbs
 mc
 mcafee
 mcas
+mchapv2
 md5
 md5_v2-5f7283722ad802c5bb623f4e99a95187
 md5sum
@@ -3700,6 +3711,8 @@ new-dynamicparameter
 new-githubrelease
 new-pinneditem
 new-rdpsession
+new-samcmapplicationfrompackagedefinitionsms
+new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 newpassword
@@ -3904,6 +3917,7 @@ openid
 openidconnect
 openinghours
 openport
+openscad
 opensourceinitiative
 openssh
 openssl
@@ -4019,6 +4033,7 @@ panels
 pansies
 panther
 panzerbjrn
+pap
 paper
 papis
 paradox
@@ -4120,7 +4135,6 @@ phishing
 phoenix
 phoneautomation
 photo
-photograph
 photos
 php
 phpapam
@@ -4315,6 +4329,7 @@ ppk
 pposh
 pps
 ppt
+pptp
 pptx
 pranks
 predicate
@@ -4753,7 +4768,6 @@ refresh
 refreshtoken
 reg
 regardscitoyen
-regcli
 regex
 region
 regions
@@ -4915,6 +4929,7 @@ route
 route53
 routeconfig
 router
+routes
 routetable
 routine
 rover
@@ -5011,7 +5026,10 @@ scb
 scc
 sccm
 sccm-hwi
+sccmam
+sccmapplication
 sccminstall
+sccmpackage
 sccmprereqs
 scep
 sch
@@ -5175,6 +5193,7 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
+serverless
 servermanagement
 servers
 service
@@ -5418,6 +5437,7 @@ space
 spaces
 spacex
 spam
+spanner
 spark
 sparklines
 spdockit
@@ -5514,6 +5534,7 @@ sso
 sspr
 ssrs
 ssst
+sstp
 stache
 stackedge
 stackexchange
@@ -5723,7 +5744,6 @@ tag2
 tagging
 tags
 tak
-taken
 tally
 talxis
 tanzu
@@ -5777,6 +5797,7 @@ templates
 templating
 temporary
 tenable
+tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
@@ -5795,6 +5816,8 @@ test-dscconfiguration
 test-modulepath
 test-osplatform
 test-psremoting
+test-samcmapplicationexists
+test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -5815,6 +5838,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textwrapping
 tfe
@@ -6311,7 +6335,6 @@ volumeshadowcopy
 volumio
 vorbis
 vovin
-vpasmodule
 vpc
 vpg
 vplex
@@ -6360,6 +6383,7 @@ waf
 waitforobject
 wakeonlan
 wakeup
+walk
 wallet
 wallpaper
 wallpapers
