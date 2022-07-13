@@ -5,9 +5,42 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.116) | 2.0.116
+## [VRisingServerManager](https://www.powershellgallery.com/Packages/VRisingServerManager/0.3.0) | 0.3.0
 
-### Published: 07/13/2022 02:03:00 by Dylan Haskins and Eugene Van Staden
+### Published: 07/13/2022 09:39:29 by github.com/edgetools
+
+Manages running multiple V Rising servers and their settings.
+
+__Downloads__: 6 | __Repository__: https://github.com/edgetools/vrising-server-manager
+
+## [FineFormat](https://www.powershellgallery.com/Packages/FineFormat/1.0.2) | 1.0.2
+
+### Published: 07/13/2022 08:47:54 by Sergey Vasin
+
+Format and filter objects properties by types and values
+
+__Downloads__: 6 | __Repository__: https://github.com/sethworks/FineFormat
+
+## [ConvertToSimnra](https://www.powershellgallery.com/Packages/ConvertToSimnra/0.0.3) | 0.0.3
+
+### Published: 07/13/2022 07:18:45 by Yosuke Isoda
+
+イオンビーム測定で得られた生データファイルをSIMNRAで読み込み可能なAscii形式（2列）に変換します。
+Converts the file obtained from ion beam measurents to the ascii data format (two columns) SIMNRA can read.
+
+__Downloads__: 6 | __Repository__: https://github.com/YIsoda/IonBeamDataProcessTools
+
+## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.6.1) | 4.6.1
+
+### Published: 07/13/2022 03:42:25 by Venafi
+
+Automate your Venafi Trust Protection Platform and Venafi as a Service platforms!
+
+__Downloads__: 2,054 | __Repository__: https://github.com/Venafi/VenafiPS
+
+## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.117) | 2.0.117
+
+### Published: 07/13/2022 03:22:48 by Dylan Haskins and Eugene Van Staden
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
@@ -51,7 +84,7 @@ __Downloads__: 12 | __Repository__: https://github.com/bielawb/ISEPester
 
 Modulo 3
 
-__Downloads__: 18 | __Repository__: 
+__Downloads__: 15 | __Repository__: 
 
 ## [TrainingUtils.NFTP](https://www.powershellgallery.com/Packages/TrainingUtils.NFTP/1.15) | 1.15
 
@@ -108,7 +141,7 @@ __Downloads__: 879 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 Gary Blok New Stuff Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 251,878 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 251,867 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.7.12.1) | 22.7.12.1
 
@@ -122,7 +155,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 269,076 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 269,068 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [gispad](https://www.powershellgallery.com/Packages/gispad/1.0.1) | 1.0.1
 
@@ -1028,14 +1061,6 @@ Comic book conversion cmdlets. Allows you to convert a comic pdf to cbz. Allows 
 
 __Downloads__: 0 | __Repository__: https://github.com/psDevUK/ComicConverter
 
-## [FineFormat](https://www.powershellgallery.com/Packages/FineFormat/1.0.1) | 1.0.1
-
-### Published: 07/12/2022 16:05:35 by Sergey Vasin
-
-Format and filter objects properties by types and values
-
-__Downloads__: 6 | __Repository__: https://github.com/sethworks/FineFormat
-
 ## [ds-utils](https://www.powershellgallery.com/Packages/ds-utils/1.3.4) | 1.3.4
 
 ### Published: 07/12/2022 15:56:04 by David Stein
@@ -1124,14 +1149,6 @@ __Downloads__: 21 | __Repository__: https://github.com/sangafabrice/reg-cli
 Converts the file obtained from ion beam measurents to the ascii data format (two columns) SIMNRA can read.
 
 __Downloads__: 2 | __Repository__: https://github.com/YIsoda/IonBeamDataProcessTools
-
-## [VRisingServerManager](https://www.powershellgallery.com/Packages/VRisingServerManager/0.2.0) | 0.2.0
-
-### Published: 07/12/2022 06:31:32 by github.com/edgetools
-
-Manages running multiple V Rising servers and their settings.
-
-__Downloads__: 6 | __Repository__: https://github.com/edgetools/vrising-server-manager
 
 ## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.1.0) | 4.1.0
 
@@ -1315,7 +1332,7 @@ __Downloads__: 3 | __Repository__:
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 6,274 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 6,272 | __Repository__: https://aka.ms/AzAPICall
 
 ## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.18) | 1.0.18
 
@@ -1424,14 +1441,6 @@ main section of your script rather than spending time to write code to perform c
 
 __Downloads__: 18 | __Repository__: https://github.com/uzi3/ScriptUtils
 
-## [PSCoreApplicationInsights](https://www.powershellgallery.com/Packages/PSCoreApplicationInsights/0.0.3) | 0.0.3
-
-### Published: 07/09/2022 12:24:03 by leonboers@gmail.com
-
-A module to simplify working with the Powershell Core 7 Application Insights implementation.
-
-__Downloads__: 16 | __Repository__: https://github.com/LeonB87/PSCoreApplicationInsights
-
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.99) | 1.0.0.99
 
 ### Published: 07/09/2022 08:27:13 by Aymeric Mouillé
@@ -1462,7 +1471,7 @@ __Downloads__: 241 | __Repository__: https://github.com/jborean93/PSOpenAD
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 718,126 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 718,130 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [MSchauer.PnP.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.PnP.PowerShell/1.0.2) | 1.0.2
 
@@ -1478,7 +1487,7 @@ __Downloads__: 15 | __Repository__: https://github.com/mschauer5/MSchauer.PnP.Po
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 26,756 | __Repository__: 
+__Downloads__: 26,755 | __Repository__: 
 
 ## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.34) | 1.1.34
 
@@ -1486,7 +1495,7 @@ __Downloads__: 26,756 | __Repository__:
 
 AKS HCI Module
 
-__Downloads__: 36,690 | __Repository__: 
+__Downloads__: 36,686 | __Repository__: 
 
 ## [PSJsonWebToken](https://www.powershellgallery.com/Packages/PSJsonWebToken/1.7.13) | 1.7.13
 
@@ -1592,14 +1601,6 @@ PowerShell module with custom helper functions.
 
 __Downloads__: 2 | __Repository__: https://github.com/Skaldhor/Skaldhor.HelperFunctions
 
-## [Run-Query](https://www.powershellgallery.com/Packages/Run-Query/1.2.3) | 1.2.3
-
-### Published: 07/07/2022 19:55:41 by BEAH - Hugo Beaulieu
-
-function for run a sccm query in powershell and return a powershell object contain the data of query formated to users frindly format
-
-__Downloads__: 11 | __Repository__: 
-
 ## [pokemonascii](https://www.powershellgallery.com/Packages/pokemonascii/0.0.14) | 0.0.14
 
 ### Published: 07/07/2022 19:52:44 by Richie Lee
@@ -1630,7 +1631,7 @@ __Downloads__: 2,027 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 2,467,262 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 2,467,174 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [BinaryTree.Internal.Power365.QA](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.QA/20.12.8.2823) | 20.12.8.2823
 
@@ -1679,14 +1680,6 @@ __Downloads__: 31 | __Repository__: https://github.com/abbgrade/PsSqlLegacy
 Collection of scripts that I have found useful. There is no dependency on any other modules to use the scripts in this module.
 
 __Downloads__: 248 | __Repository__: 
-
-## [Devolutions.Hub](https://www.powershellgallery.com/Packages/Devolutions.Hub/2022.7.7) | 2022.7.7
-
-### Published: 07/07/2022 14:20:08 by Devolutions
-
-Devolutions Password Hub PowerShell Module
-
-__Downloads__: 493 | __Repository__: https://password.devolutions.net/
 
 ## [UnifiedLabelingSupportTool](https://www.powershellgallery.com/Packages/UnifiedLabelingSupportTool/3.0.4) | 3.0.4
 
@@ -1754,7 +1747,7 @@ __Downloads__: 1 | __Repository__:
 
 PowerShell module to add file icons to terminal based on file extension
 
-__Downloads__: 122,148 | __Repository__: https://github.com/devblackops/Terminal-Icons
+__Downloads__: 122,141 | __Repository__: https://github.com/devblackops/Terminal-Icons
 
 ## [GPODoc](https://www.powershellgallery.com/Packages/GPODoc/1.2.0) | 1.2.0
 
@@ -1917,7 +1910,7 @@ __Downloads__: 5,039 | __Repository__: https://github.com/webmd-health-services/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 686,660 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 686,681 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.243.102) | 1.243.102
 
@@ -1997,7 +1990,7 @@ __Downloads__: 455,761 | __Repository__:
 
 PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
-__Downloads__: 53,751 | __Repository__: https://github.com/crowdstrike/psfalcon
+__Downloads__: 53,744 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 ## [FarGit](https://www.powershellgallery.com/Packages/FarGit/0.4.3) | 0.4.3
 
@@ -2031,4 +2024,12 @@ Database for KB Viewer and Saver
 
 __Downloads__: 469,587 | __Repository__: 
 
-*Updated: Wednesday, 13 July 2022 02:39:21 UTC*
+## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.0.16) | 1.0.16
+
+### Published: 07/05/2022 13:34:50 by Christopher Berg Schwanstrøm
+
+Various helpful cmdlets and functions
+
+__Downloads__: 652 | __Repository__: 
+
+*Updated: Wednesday, 13 July 2022 09:53:09 UTC*
