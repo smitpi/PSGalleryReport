@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 July 2022 17:52:27 UTC
+Updated: Wednesday, 13 July 2022 02:39:33 UTC
 
 ?:
 ??
@@ -505,7 +505,6 @@ axium
 az
 az-cli
 az.automation
-aza
 azautomation
 azcli
 azcompute
@@ -808,7 +807,6 @@ calendar
 callingcode
 callqueue
 cam
-camera
 campaign
 camtasia
 canarie
@@ -864,6 +862,7 @@ celcat
 celerium
 censor
 center
+centra
 central
 central-management
 centralcredentialprovider
@@ -942,7 +941,9 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimi
+ciminstance
 cims
 cimsession
 cinegy
@@ -1988,6 +1989,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2440,7 +2442,6 @@ gpp
 gpt3
 gpx
 grafana
-grafanaapi
 granttype
 graph
 graph-api
@@ -2471,6 +2472,7 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
+guardicore
 gubbins
 guest
 guestconfiguration
@@ -3660,6 +3662,7 @@ neptune
 nerdfonts
 nerdymishka
 nessus
+nested
 net
 net4.8
 netadapter
@@ -3750,6 +3753,7 @@ nosql
 note
 notebook
 notepad
+noteproperty
 notes
 notification
 notificationhubs
@@ -4084,7 +4088,6 @@ patternmatching
 pause
 pax8
 paylocity
-paypal
 pays
 pbench
 pc
@@ -4130,7 +4133,6 @@ phishing
 phoenix
 phoneautomation
 photo
-photograph
 photos
 php
 phpapam
@@ -5173,7 +5175,6 @@ sensitive
 sensitivity
 sensor
 sensors
-sensu
 sentinel
 sentinelone
 sep
@@ -5741,7 +5742,6 @@ tag2
 tagging
 tags
 tak
-taken
 tally
 talxis
 tanzu
@@ -5842,7 +5842,6 @@ textwrapping
 tfe
 tfs
 tfscmdlets
-tfswitch
 tftd
 tftp
 tfvc
@@ -6042,7 +6041,6 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
-ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
@@ -6261,6 +6259,7 @@ video
 videos
 vie
 viewer
+viewgroup
 vigenere
 vim
 vimode
