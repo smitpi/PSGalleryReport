@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 14 July 2022 02:41:23 UTC
+Updated: Thursday, 14 July 2022 09:53:30 UTC
 
 ?:
 ??
@@ -96,6 +96,7 @@ acme
 acmesharp
 acmesharp_ext
 act-on
+act!
 actifio
 actifiogo
 action
@@ -253,7 +254,6 @@ amateur-radio
 amateurradio
 amazon
 amazonwebservices
-amend
 ami
 amp
 amqp
@@ -863,6 +863,7 @@ celcat
 celerium
 censor
 center
+centra
 central
 central-management
 centralcredentialprovider
@@ -1178,7 +1179,6 @@ confluence
 confluent
 conjecture
 connect
-connect-dtcmsite
 connect-exchangeonprem
 connect-mstsc
 connect-rdp
@@ -1228,7 +1228,6 @@ converged_data_management
 conversational
 conversion
 convert
-convert-dtexceptiontomessage
 convert-movietogif
 convert-windowsimage
 converter
@@ -1243,8 +1242,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1387,7 +1384,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365f&o
@@ -1729,6 +1725,7 @@ dotteddecimalip
 doubleclick
 download
 downloader
+downloadinfo
 downloading
 downloads
 dpa
@@ -1745,11 +1742,7 @@ driftmonitor
 drive
 drive letter
 driver
-driverpacks
 drivers
-drivertool
-drivertool.powercli
-driverupdates
 drm
 drop
 dropbox
@@ -1799,7 +1792,6 @@ duplication
 dust
 dutch
 dvls
-dxexpeditions
 dynamic
 dynamicdistributiongroups
 dynamicparam
@@ -2314,7 +2306,9 @@ gemlog
 gemtext
 general
 generate
+generateaddress
 generates
+generatewif
 generation
 generator
 generic
@@ -2339,11 +2333,6 @@ get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
 get-directorycontents
-get-dtcmdevicemodel
-get-dtdriverpack
-get-dtdriverupdates
-get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
-get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
@@ -2470,6 +2459,7 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
+guardicore
 gubbins
 guest
 guestconfiguration
@@ -2755,7 +2745,6 @@ impersonation
 imperva
 import
 import-csv
-import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -2854,9 +2843,6 @@ invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
-invoke-dtdownloaddriverpack
-invoke-dtdownloaddriverupdates
-invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
 invoke-vsbuild
@@ -2983,7 +2969,6 @@ jwttoken
 k8s
 kafka
 kaminario
-karma
 kaseya
 kaseyavsa
 katakana
@@ -3074,7 +3059,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3179,6 +3163,7 @@ localization
 location
 locationbasedservices
 lock
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3423,6 +3408,7 @@ metrolink
 mfa
 mga
 mi
+micro-orm
 microfocus
 microk8s
 microservices
@@ -3507,6 +3493,7 @@ moduleupdate
 moduleupdateinfo
 moduleupdater
 moduleversion
+mof
 moldova
 moment
 monaco
@@ -3697,8 +3684,6 @@ networksecuritygroup
 networkshares
 new
 new-completionresult
-new-dtcmpackagefromdriverpackpackagedefinitionsms
-new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
@@ -3853,6 +3838,7 @@ okta
 old
 ole
 oledb
+omaha
 ome
 omnisphere
 omnistack
@@ -4714,7 +4700,6 @@ readme
 readpdf
 readthedocs
 realschule
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -4738,7 +4723,10 @@ redfish
 redforest
 redgate
 redirect
+redirecting
 redirects
+redirectstandarderror
+redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -4802,7 +4790,6 @@ remotemanagement
 remotesession
 remoting
 remove
-remove-githubsecrets
 remove-pass
 remove-path
 remove-pinneditem
@@ -4870,8 +4857,6 @@ reverse-engineer
 reverse-string
 reversedsc
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -5195,7 +5180,6 @@ servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicedesk
-servicedeskplus
 serviceendpoints
 servicefabric
 servicelinker
@@ -5219,7 +5203,6 @@ sessions
 set
 set_bios
 set-alias
-set-githubsecrets
 set-location
 set-openfiles
 set-pass
@@ -5419,6 +5402,7 @@ sort
 source
 source-dedicated-server
 sourcecontrol
+sourceforge
 sourcegraph
 sourcemod
 sourceone
@@ -5562,6 +5546,7 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
+stderr
 stdout
 steam
 steam-games
@@ -5933,8 +5918,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -5957,7 +5940,6 @@ troubleshoot
 troubleshooting
 trouw
 truecrypt
-truenas
 truportal
 trusted
 trusted-host
@@ -6016,7 +5998,6 @@ ud-burger
 ud-button
 ud-buttonloader
 ud-buttonparticle
-ud-calendar
 ud-circle
 ud-component
 ud-confetti
@@ -6033,7 +6014,6 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
-ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
@@ -6224,7 +6204,6 @@ vdp
 vdportgroup
 vdswitch
 vduplink
-ve7cc
 vector
 veeam
 veeampn
@@ -6374,6 +6353,7 @@ waf
 waitforobject
 wakeonlan
 wakeup
+walk
 wallet
 wallpaper
 wallpapers
@@ -6460,6 +6440,7 @@ whois
 whormi
 wi-fi
 wid
+wif
 wifi
 wiki
 wildcard
