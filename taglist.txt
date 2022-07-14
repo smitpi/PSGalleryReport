@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 July 2022 17:53:12 UTC
+Updated: Thursday, 14 July 2022 02:41:23 UTC
 
 ?:
 ??
@@ -96,7 +96,6 @@ acme
 acmesharp
 acmesharp_ext
 act-on
-act!
 actifio
 actifiogo
 action
@@ -808,6 +807,7 @@ calendar
 callingcode
 callqueue
 cam
+camera
 campaign
 camtasia
 canarie
@@ -863,7 +863,6 @@ celcat
 celerium
 censor
 center
-centra
 central
 central-management
 centralcredentialprovider
@@ -1730,7 +1729,6 @@ dotteddecimalip
 doubleclick
 download
 downloader
-downloadinfo
 downloading
 downloads
 dpa
@@ -2316,9 +2314,7 @@ gemlog
 gemtext
 general
 generate
-generateaddress
 generates
-generatewif
 generation
 generator
 generic
@@ -2474,7 +2470,6 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
-guardicore
 gubbins
 guest
 guestconfiguration
@@ -3184,7 +3179,6 @@ localization
 location
 locationbasedservices
 lock
-lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3429,7 +3423,6 @@ metrolink
 mfa
 mga
 mi
-micro-orm
 microfocus
 microk8s
 microservices
@@ -3860,7 +3853,6 @@ okta
 old
 ole
 oledb
-omaha
 ome
 omnisphere
 omnistack
@@ -4135,6 +4127,7 @@ phishing
 phoenix
 phoneautomation
 photo
+photograph
 photos
 php
 phpapam
@@ -4718,6 +4711,7 @@ read-slog
 readable
 readiness
 readme
+readpdf
 readthedocs
 realschule
 rebase
@@ -4744,10 +4738,7 @@ redfish
 redforest
 redgate
 redirect
-redirecting
 redirects
-redirectstandarderror
-redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -4768,6 +4759,7 @@ refresh
 refreshtoken
 reg
 regardscitoyen
+regcli
 regex
 region
 regions
@@ -5427,7 +5419,6 @@ sort
 source
 source-dedicated-server
 sourcecontrol
-sourceforge
 sourcegraph
 sourcemod
 sourceone
@@ -5571,7 +5562,6 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
-stderr
 stdout
 steam
 steam-games
@@ -5744,6 +5734,7 @@ tag2
 tagging
 tags
 tak
+taken
 tally
 talxis
 tanzu
@@ -5838,7 +5829,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textwrapping
 tfe
@@ -6335,6 +6325,7 @@ volumeshadowcopy
 volumio
 vorbis
 vovin
+vpasmodule
 vpc
 vpg
 vplex
@@ -6383,7 +6374,6 @@ waf
 waitforobject
 wakeonlan
 wakeup
-walk
 wallet
 wallpaper
 wallpapers
@@ -6470,7 +6460,6 @@ whois
 whormi
 wi-fi
 wid
-wif
 wifi
 wiki
 wildcard
