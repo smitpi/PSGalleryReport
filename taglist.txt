@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 14 July 2022 17:55:03 UTC
+Updated: Friday, 15 July 2022 02:43:46 UTC
 
 ?:
 ??
@@ -188,6 +188,7 @@ adv220002
 advanced
 advapi32
 advisor
+adwords
 adx
 adxingestion
 aem
@@ -754,6 +755,7 @@ brk4452
 broadcast
 broot
 browser
+browserextension
 browserhistory
 brs
 bruteforce
@@ -1041,6 +1043,8 @@ cluster
 clusterminimumvalues
 clusterplugins
 cmaccounts
+cmake
+cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1798,6 +1802,7 @@ duplication
 dust
 dutch
 dvls
+dxexpeditions
 dynamic
 dynamicdistributiongroups
 dynamicparam
@@ -2058,6 +2063,7 @@ extendedproperty
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -4810,6 +4816,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-pass
 remove-path
 remove-pinneditem
@@ -4872,6 +4879,7 @@ restore
 resume
 retention
 retry
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -5226,6 +5234,7 @@ sessions
 set
 set_bios
 set-alias
+set-githubsecrets
 set-location
 set-openfiles
 set-pass
@@ -5474,6 +5483,7 @@ spotify
 spotify-api
 spotlight
 spotlightimages
+spp
 spread
 spreadsheet
 springcloud
@@ -6009,6 +6019,7 @@ types.ps1xml
 typescript
 tzutil
 uac
+uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -6032,11 +6043,13 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6207,6 +6220,7 @@ variable
 variables
 variance
 variants
+vastlimits
 vault
 vaultextension
 vaultstore
@@ -6228,6 +6242,7 @@ vdp
 vdportgroup
 vdswitch
 vduplink
+ve7cc
 vector
 veeam
 veeampn
