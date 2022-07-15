@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 15 July 2022 09:53:22 UTC
+Updated: Friday, 15 July 2022 17:53:40 UTC
 
 ?:
 ??
@@ -62,7 +62,6 @@ aadc
 aadconnect
 aadgraph
 aadrm
-aadsc
 aadsecurity
 aadsts
 aam
@@ -174,6 +173,7 @@ ado.net
 adobe
 adobeflash
 adoxio
+adp
 adr
 ads
 adsi
@@ -230,7 +230,6 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
-alfresco
 algorithm
 algorithms
 alias
@@ -242,6 +241,7 @@ alm
 almrangers
 alpha
 alphafs
+alpine
 alpr
 alt3
 alter
@@ -357,7 +357,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcus
 area
 argument
@@ -397,7 +396,6 @@ asp
 asp.net
 aspnet
 aspnet_regiis
-asr
 assembleenationale
 assemblymeta
 assert
@@ -502,7 +500,6 @@ axinom
 axium
 az
 az-cli
-az.automation
 aza
 azautomation
 azcli
@@ -659,7 +656,6 @@ big-iq
 bigcommerce
 bigeval
 bigfix
-bigquery
 bikeshed
 billing
 bin
@@ -799,7 +795,7 @@ cache
 caching
 caf
 cal
-calculate
+calc
 calculator
 calendar
 callingcode
@@ -949,6 +945,7 @@ cinegy
 cinema
 cinst
 cipher
+circuit-breaker
 circumlunar
 cireson
 ciresonassetmanagement
@@ -1200,6 +1197,7 @@ consumption
 contact
 contacts
 container
+containerengine
 containergroup
 containerinstance
 containerregistry
@@ -1251,7 +1249,6 @@ core
 coreposh
 corona
 corporate
-cortex
 cos
 cosmos
 cosmosdb
@@ -1423,7 +1420,6 @@ databooster
 databox
 databoxedge
 databricks
-datacatalog
 datacenter
 dataclassification
 dataconduit
@@ -1714,7 +1710,6 @@ domain
 domains
 donothing
 dos
-dot
 dotenv
 dotfile
 dotfiles
@@ -1726,7 +1721,6 @@ dots
 dotteddecimalip
 doubleclick
 download
-downloader
 downloadinfo
 downloading
 downloads
@@ -1997,7 +1991,6 @@ evtx
 ews
 exact
 example
-examples
 excel
 exception
 exceptionless
@@ -2064,7 +2057,6 @@ extensions
 external
 externalip
 extract
-extractor
 extreme-networks
 eztheme
 f
@@ -2489,7 +2481,6 @@ ha
 haarlemsdagblad
 hack
 hacktoberfest
-hadoop
 hafr
 hailstone
 haipa
@@ -3092,12 +3083,8 @@ ldap
 league
 lean
 learn
-learn-powershell
-learn-powershell-series
 learning
-learning-powershell
 learningpowershell
-learnpowershell
 lease
 leetabit
 leftjoin
@@ -3122,6 +3109,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanager
 licensereport
 licenses
 licensing
@@ -3139,7 +3127,6 @@ linearalgebra
 link
 linkedin
 linkedinads
-linkid
 linq
 linqpad
 lint
@@ -3189,10 +3176,13 @@ lockstep
 lod
 lodasoft
 log
+log-administration
 log-file
 log-files
 log-mail
 log-mails
+log-management
+log-rotation
 log4net
 loganalytics
 logbook
@@ -3602,7 +3592,6 @@ multimedia
 multipass
 multiple
 multiserver
-multithread
 multithreaded
 multithreaded-helpers
 multithreading
@@ -3783,7 +3772,6 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
-number
 numlock
 nunit
 nupkg
@@ -4127,7 +4115,6 @@ philips
 philosophical
 philpritchett
 phishing
-phoenix
 phoneautomation
 photo
 photograph
@@ -4203,6 +4190,7 @@ policyinsights
 policymetadata
 policystate
 poll
+polly
 polycom
 pomodoro
 ponduit
@@ -4280,10 +4268,8 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
-powershell-course
 powershell-credentials
 powershell-dsc
-powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4294,13 +4280,10 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
-powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
-powershellcourse
-powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4311,7 +4294,6 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
-powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
@@ -4381,7 +4363,6 @@ product
 productid
 productivity
 productmedia
-products
 productstate
 profile
 profiler
@@ -4513,7 +4494,6 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
-psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
@@ -4526,7 +4506,6 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
-psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -4681,6 +4660,7 @@ raspberry-pi
 raspberrypi
 raspbian
 rate
+rate-limit
 rate-limiting
 rates
 rating
@@ -4874,6 +4854,7 @@ reuse
 reverse-engineer
 reverse-string
 reversedsc
+revision
 reword
 rewrite
 rexec
@@ -4969,7 +4950,6 @@ runway
 russia
 rust
 rust-lang
-ryanairps
 ryver
 s.ds.p
 s3
@@ -5054,9 +5034,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -5668,7 +5645,6 @@ swis
 switch
 sxs
 sybase
-sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5685,7 +5661,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -5836,7 +5811,6 @@ text2image
 textanalysis
 textbuffer
 texting
-textwrapping
 tfe
 tfs
 tfscmdlets
@@ -5925,7 +5899,6 @@ trafficmanager
 trafficmarking
 train
 training
-training-course
 tram
 transact
 transaction
@@ -5994,7 +5967,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -6247,7 +6219,6 @@ version
 versioncontrol
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -6373,6 +6344,7 @@ vxrail
 w32time
 w3svc
 w3w
+waa
 waas
 wac
 waf
@@ -6418,7 +6390,7 @@ webcmdlets
 webdav
 webdeploy
 webfrequest
-webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6455,6 +6427,7 @@ wemsdk
 wer
 what3words
 whatismyip
+whd
 where
 whfb
 whiteboard
@@ -6611,8 +6584,8 @@ write-color
 write-colour
 write-debug
 write-host
+write-information
 write-log
-write-loganalytics
 write-message
 write-progress
 write-slog
@@ -6653,7 +6626,6 @@ xaf
 xbase
 xbox
 xclarity
-xdr
 xdschelper
 xdscresources
 xdt
