@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 15 July 2022 02:43:46 UTC
+Updated: Friday, 15 July 2022 09:53:22 UTC
 
 ?:
 ??
@@ -174,7 +174,6 @@ ado.net
 adobe
 adobeflash
 adoxio
-adp
 adr
 ads
 adsi
@@ -243,7 +242,6 @@ alm
 almrangers
 alpha
 alphafs
-alpine
 alpr
 alt3
 alter
@@ -801,7 +799,6 @@ cache
 caching
 caf
 cal
-calc
 calculate
 calculator
 calendar
@@ -952,7 +949,6 @@ cinegy
 cinema
 cinst
 cipher
-circuit-breaker
 circumlunar
 cireson
 ciresonassetmanagement
@@ -1107,6 +1103,7 @@ columns
 com
 combinations
 combine
+comdata
 comic
 comical
 comics
@@ -1203,7 +1200,6 @@ consumption
 contact
 contacts
 container
-containerengine
 containergroup
 containerinstance
 containerregistry
@@ -3126,7 +3122,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanager
 licensereport
 licenses
 licensing
@@ -3194,13 +3189,10 @@ lockstep
 lod
 lodasoft
 log
-log-administration
 log-file
 log-files
 log-mail
 log-mails
-log-management
-log-rotation
 log4net
 loganalytics
 logbook
@@ -4211,7 +4203,6 @@ policyinsights
 policymetadata
 policystate
 poll
-polly
 polycom
 pomodoro
 ponduit
@@ -4690,7 +4681,6 @@ raspberry-pi
 raspberrypi
 raspbian
 rate
-rate-limit
 rate-limiting
 rates
 rating
@@ -4884,7 +4874,6 @@ reuse
 reverse-engineer
 reverse-string
 reversedsc
-revision
 reword
 rewrite
 rexec
@@ -5013,7 +5002,6 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
-sasdatasets
 sasxpt
 satirical
 save
@@ -6385,7 +6373,6 @@ vxrail
 w32time
 w3svc
 w3w
-waa
 waas
 wac
 waf
@@ -6432,7 +6419,6 @@ webdav
 webdeploy
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6469,7 +6455,6 @@ wemsdk
 wer
 what3words
 whatismyip
-whd
 where
 whfb
 whiteboard
@@ -6626,9 +6611,9 @@ write-color
 write-colour
 write-debug
 write-host
-write-information
 write-log
 write-loganalytics
+write-message
 write-progress
 write-slog
 write-wansi
