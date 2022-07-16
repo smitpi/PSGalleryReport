@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 16 July 2022 09:52:39 UTC
+Updated: Saturday, 16 July 2022 17:52:39 UTC
 
 ?:
 ??
@@ -152,6 +152,7 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
+adgroups
 adif
 adm
 admf
@@ -178,6 +179,7 @@ adr
 ads
 adsi
 adsync
+aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -229,7 +231,6 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
-alfresco
 algorithm
 algorithms
 alias
@@ -469,7 +470,6 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 autopilot
 autoscaling
 autostart
@@ -604,6 +604,7 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
+bank
 banking
 banner
 bar
@@ -665,6 +666,7 @@ bin
 bin-obj
 binary
 binaryip
+bind
 binding
 bing
 bingmap
@@ -1039,6 +1041,8 @@ cluster
 clusterminimumvalues
 clusterplugins
 cmaccounts
+cmake
+cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1219,7 +1223,6 @@ continuousdeployment
 continuousintegration
 control
 controller
-controlroom
 convereter
 converged_data_management
 conversational
@@ -1401,6 +1404,7 @@ dapr
 dark
 dash
 dashboard
+dashboardapi
 dashboardservice
 dast
 data
@@ -1519,6 +1523,7 @@ delete-orphan-branches
 delivery
 dell
 dellemc
+delme325236
 delta
 demand
 demo
@@ -1764,6 +1769,7 @@ ds-utils
 dsa
 dsacls
 dsc
+dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
@@ -1909,6 +1915,7 @@ enum
 enumerable
 env
 environment
+environment-variables
 environmentmanagent
 environmentmodules
 environments
@@ -2248,7 +2255,6 @@ freeipa
 freenas
 freesoftwarefoundation
 freshbooks
-freshdesk
 freshservice
 front
 frontapp
@@ -2820,6 +2826,7 @@ integrationaccount
 integrationservicescatalog
 integrity
 intel
+inteligo
 intelligence"
 intellisearch
 intellisense
@@ -2952,7 +2959,6 @@ joke
 jotform
 journal
 jpg
-js7
 jsm
 jsm.insight
 json
@@ -3117,6 +3123,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanager
 licensereport
 licenses
 licensing
@@ -3227,10 +3234,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 lol
 lolcat
@@ -3286,6 +3291,7 @@ mails
 main
 main-menu
 maintenance
+maintenance-window
 maintenancewindows
 make
 maker
@@ -3398,6 +3404,7 @@ memorystream
 menu
 menus
 meraki
+merakiapi
 mercurial
 merge
 mermaid
@@ -3471,6 +3478,7 @@ mim
 mimekit
 min
 mindmeister
+minecraft
 minifier
 minimal
 minimum
@@ -3840,6 +3848,7 @@ officegraph
 officemessageencryption
 offline
 offlinewimservicing
+ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4178,6 +4187,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 pni
 pnp
@@ -4507,6 +4517,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
@@ -4585,7 +4596,6 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
-pulseway
 pulumi
 puppet
 puppetdb
@@ -4712,7 +4722,6 @@ realschule
 rebase
 reboot
 rebootnodeifneeded
-reckon
 recommendation
 reconcile
 record
@@ -4845,6 +4854,7 @@ resource
 resource_monitor
 resource_watcher
 resourceaccount
+resourcecontroller
 resourcegroup
 resourceid
 resourcekit
@@ -4928,7 +4938,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -5032,6 +5041,7 @@ scheduled-tasks
 scheduledjob
 scheduledtasks
 scheduler
+schedules-execution
 scheduling
 schema
 schemaextensions
@@ -5452,6 +5462,7 @@ spf
 spi
 spinnaker
 splash
+splat
 splatting
 split
 splunk
@@ -5642,6 +5653,7 @@ superheros
 supermarket
 support
 suppress
+supress-reboot
 surround
 survey
 surveymonkey
@@ -5740,7 +5752,6 @@ target
 task
 task-runner
 taskbar
-tasker
 taskgroup
 taskmanagement
 tasks
@@ -6153,6 +6164,7 @@ usap
 usb
 useful
 user
+user-environment
 userdiscovery
 usergroup
 userinterface
@@ -6225,7 +6237,6 @@ ve7cc
 vector
 veeam
 veeampn
-veeva
 venafi
 vendor
 venue
@@ -6364,6 +6375,7 @@ vxrail
 w32time
 w3svc
 w3w
+waa
 waas
 wac
 waf
@@ -6483,6 +6495,7 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
+windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -6605,6 +6618,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-message
 write-progress
 write-slog
