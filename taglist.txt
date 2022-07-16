@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 15 July 2022 17:53:40 UTC
+Updated: Saturday, 16 July 2022 02:35:21 UTC
 
 ?:
 ??
@@ -66,7 +66,6 @@ aadsecurity
 aadsts
 aam
 aas
-abc
 abc_testing
 abe
 about
@@ -230,6 +229,7 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -251,7 +251,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonwebservices
 amend
 ami
 amp
@@ -357,6 +356,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcus
 area
 argument
@@ -396,6 +396,7 @@ asp
 asp.net
 aspnet
 aspnet_regiis
+asr
 assembleenationale
 assemblymeta
 assert
@@ -656,6 +657,7 @@ big-iq
 bigcommerce
 bigeval
 bigfix
+bigquery
 bikeshed
 billing
 bin
@@ -1036,8 +1038,6 @@ cluster
 clusterminimumvalues
 clusterplugins
 cmaccounts
-cmake
-cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1249,6 +1249,7 @@ core
 coreposh
 corona
 corporate
+cortex
 cos
 cosmos
 cosmosdb
@@ -1497,7 +1498,6 @@ dedicatedhsm
 deduplication
 deep
 deepvisibility
-def
 default
 defaultparameter
 defaultroutes
@@ -1604,7 +1604,6 @@ director
 directories
 directory
 directory psedition_core psedition_desktop
-directory-transform
 directorymarks
 directoryname
 directorysearcher
@@ -1649,7 +1648,6 @@ diving
 division
 divoom
 dkim
-dkschrutebeets
 dl
 dll
 dlmautomation
@@ -1710,6 +1708,7 @@ domain
 domains
 donothing
 dos
+dot
 dotenv
 dotfile
 dotfiles
@@ -1873,7 +1872,6 @@ empty
 emwarehouse
 enable-psremoting
 enable-psremotingremote
-enbrea
 enclosure
 encode
 encode64
@@ -1991,6 +1989,7 @@ evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -2116,7 +2115,6 @@ file-name-extension-association
 file-server
 file-share
 file-system
-file-transform
 file-type
 file-type-association
 fileencryption
@@ -2481,6 +2479,7 @@ ha
 haarlemsdagblad
 hack
 hacktoberfest
+hadoop
 hafr
 hailstone
 haipa
@@ -2842,7 +2841,6 @@ investment
 investments
 invocation
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -2929,7 +2927,6 @@ javaversion
 jboss
 jdbc
 jdedwards
-jdt
 jea
 jenkins
 jetbrains
@@ -2952,7 +2949,6 @@ js7
 jsm
 jsm.insight
 json
-json-transform
 json+
 jsonplus
 jsonwebkey
@@ -3083,8 +3079,12 @@ ldap
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leetabit
 leftjoin
@@ -3109,7 +3109,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanager
 licensereport
 licenses
 licensing
@@ -3310,7 +3309,6 @@ map
 mapapi
 mappeddrives
 mapper24
-mapping
 maps
 mapsapi
 mariadb
@@ -3592,6 +3590,7 @@ multimedia
 multipass
 multiple
 multiserver
+multithread
 multithreaded
 multithreaded-helpers
 multithreading
@@ -3640,7 +3639,6 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
-nederland
 nedyalkov
 neo4j
 neptune
@@ -3757,7 +3755,6 @@ npslogfile
 nrc
 nrql
 ns
-ns.nl
 nsg
 nslookup
 nsx
@@ -3993,7 +3990,6 @@ pac
 pack
 package
 package-management
-package-transform
 packagemanagement
 packagemanager
 packages
@@ -4027,7 +4023,6 @@ parameters
 parclient
 pardot
 parititions
-parool
 parquet
 parse
 parser
@@ -4070,7 +4065,6 @@ path
 pathfinder
 patternmatching
 pause
-pax8
 paylocity
 paypal
 pays
@@ -4115,6 +4109,7 @@ philips
 philosophical
 philpritchett
 phishing
+phoenix
 phoneautomation
 photo
 photograph
@@ -4268,8 +4263,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4280,10 +4277,13 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.one
 powershell7
 powershellazuresql
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4294,6 +4294,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershellv5
 powerstig
@@ -4494,6 +4495,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
@@ -4506,10 +4508,10 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
+psnavigation
 psnexosisclient
 psngenposh
 psobject
-pspath
 pspowerhour
 psprofiler
 psproject
@@ -4548,7 +4550,6 @@ pstwitter
 pswa
 pswindocumentation
 pswinreporting
-pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -4950,6 +4951,7 @@ runway
 russia
 rust
 rust-lang
+ryanairps
 ryver
 s.ds.p
 s3
@@ -4982,6 +4984,7 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
+sasdatasets
 sasxpt
 satirical
 save
@@ -5034,6 +5037,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -5217,7 +5223,6 @@ sfb
 sftp
 sfx
 sgw
-sha256
 shadow
 shadowcopy
 shadowcopybackups
@@ -5511,7 +5516,6 @@ stache
 stackedge
 stackexchange
 stackhci
-stackmonitoring
 stackoverflow
 staffhub
 staging
@@ -5645,6 +5649,7 @@ swis
 switch
 sxs
 sybase
+sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5661,6 +5666,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -5811,6 +5817,7 @@ text2image
 textanalysis
 textbuffer
 texting
+textwrapping
 tfe
 tfs
 tfscmdlets
@@ -5897,8 +5904,8 @@ tracking
 trafficfiltering
 trafficmanager
 trafficmarking
-train
 training
+training-course
 tram
 transact
 transaction
@@ -5907,7 +5914,6 @@ transcode
 transcript
 transcripts
 transform
-transformation
 transforms
 transitionmanager
 translate
@@ -5922,7 +5928,6 @@ trec
 tree
 treesize
 treffynnon
-trein
 trello
 trellops
 trendmicro
@@ -5967,6 +5972,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -6123,7 +6129,6 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
-urlscan
 urlupdate
 uru
 usage
@@ -6390,6 +6395,7 @@ webcmdlets
 webdav
 webdeploy
 webfrequest
+webhdfs
 webhelpdesk
 webhistory
 webhook
@@ -6419,7 +6425,6 @@ webtime
 wec
 wecutil
 weekday
-wef
 weixin
 well-known
 wem
@@ -6577,7 +6582,6 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
-wrike
 write
 write-ascii
 write-color
@@ -6586,6 +6590,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-message
 write-progress
 write-slog
@@ -6626,9 +6631,9 @@ xaf
 xbase
 xbox
 xclarity
+xdr
 xdschelper
 xdscresources
-xdt
 xel
 xenapp
 xendeskop
@@ -6644,7 +6649,6 @@ xliff
 xmc
 xml
 xml-rpc
-xml-transform
 xmla
 xmlrpc
 xmlutils
@@ -6684,7 +6688,6 @@ zendesk
 zerto
 zigbee
 zip
-zipfile-transform
 zoho
 zone
 zoom
