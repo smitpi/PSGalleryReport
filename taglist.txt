@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 17 July 2022 02:41:34 UTC
+Updated: Sunday, 17 July 2022 09:52:56 UTC
 
 ?:
 ??
@@ -610,6 +610,7 @@ bank
 banking
 banner
 bar
+baremetal
 base
 base16
 base26
@@ -925,6 +926,7 @@ choco
 choco-bear
 chocobear
 chocolatey
+choice
 chooser
 christaylorcodes
 christmas
@@ -1691,6 +1693,7 @@ docker
 docker-compose
 docker-image
 docker-machine
+docker-volumes
 dockerfile
 dockerswarm
 docking
@@ -1726,6 +1729,7 @@ dotnettool
 dotps1
 dots
 dotteddecimalip
+dottest.test
 doubleclick
 download
 downloader
@@ -1914,6 +1918,7 @@ enum
 enumerable
 env
 environment
+environment-variables
 environmentmanagent
 environmentmodules
 environments
@@ -3079,6 +3084,7 @@ latency
 latestupdate
 latin
 latitude
+launcher
 layer
 layman
 layout
@@ -3233,8 +3239,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 lol
 lolcat
@@ -3622,8 +3630,6 @@ mxlookup
 mycloudrevolution
 myhub
 myitprocess
-myjson
-myjson.com
 myob
 mysql
 mysql-database
@@ -3779,6 +3785,7 @@ nsxt
 ntdll
 ntfs
 ntp
+ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -4136,6 +4143,7 @@ photos
 php
 phpapam
 pi
+picker
 picture
 pictures
 pid
@@ -4195,7 +4203,6 @@ point-to-site
 pokeapi
 pokedex
 pokemon
-poker
 policies
 policy
 policyevent
@@ -4502,6 +4509,7 @@ psget
 psgitlab
 psgraph
 psgraylog
+pshot
 pshtml
 psini
 psinsight
@@ -4592,6 +4600,7 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
+pulseway
 pulumi
 puppet
 puppetdb
@@ -4637,7 +4646,6 @@ qlogicfcprovider
 qna
 qol
 qq
-qr
 qrcode
 qrp
 quality
@@ -5003,6 +5011,7 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
+sasdatasets
 sasxpt
 satirical
 save
@@ -6044,7 +6053,6 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
-ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
@@ -6162,6 +6170,7 @@ usap
 usb
 useful
 user
+user-environment
 userdiscovery
 usergroup
 userinterface
@@ -6420,6 +6429,7 @@ webdav
 webdeploy
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6456,6 +6466,7 @@ wemsdk
 wer
 what3words
 whatismyip
+whd
 where
 whfb
 whiteboard
@@ -6491,6 +6502,7 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
+windows-environment
 windows-explorer
 windows-features
 windows-firewall
