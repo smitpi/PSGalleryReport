@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 16 July 2022 17:52:39 UTC
+Updated: Sunday, 17 July 2022 02:41:34 UTC
 
 ?:
 ??
@@ -231,6 +231,7 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -470,6 +471,7 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 autopilot
 autoscaling
 autostart
@@ -608,7 +610,6 @@ bank
 banking
 banner
 bar
-baremetal
 base
 base16
 base26
@@ -924,7 +925,6 @@ choco
 choco-bear
 chocobear
 chocolatey
-choice
 chooser
 christaylorcodes
 christmas
@@ -1223,6 +1223,7 @@ continuousdeployment
 continuousintegration
 control
 controller
+controlroom
 convereter
 converged_data_management
 conversational
@@ -1523,7 +1524,6 @@ delete-orphan-branches
 delivery
 dell
 dellemc
-delme325236
 delta
 demand
 demo
@@ -1691,7 +1691,6 @@ docker
 docker-compose
 docker-image
 docker-machine
-docker-volumes
 dockerfile
 dockerswarm
 docking
@@ -1915,7 +1914,6 @@ enum
 enumerable
 env
 environment
-environment-variables
 environmentmanagent
 environmentmodules
 environments
@@ -2255,6 +2253,7 @@ freeipa
 freenas
 freesoftwarefoundation
 freshbooks
+freshdesk
 freshservice
 front
 frontapp
@@ -2959,6 +2958,7 @@ joke
 jotform
 journal
 jpg
+js7
 jsm
 jsm.insight
 json
@@ -3079,7 +3079,6 @@ latency
 latestupdate
 latin
 latitude
-launcher
 layer
 layman
 layout
@@ -3780,7 +3779,6 @@ nsxt
 ntdll
 ntfs
 ntp
-ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -4138,7 +4136,6 @@ photos
 php
 phpapam
 pi
-picker
 picture
 pictures
 pid
@@ -4505,7 +4502,6 @@ psget
 psgitlab
 psgraph
 psgraylog
-pshot
 pshtml
 psini
 psinsight
@@ -4722,6 +4718,7 @@ realschule
 rebase
 reboot
 rebootnodeifneeded
+reckon
 recommendation
 reconcile
 record
@@ -4938,6 +4935,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -5005,7 +5003,6 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
-sasdatasets
 sasxpt
 satirical
 save
@@ -5752,6 +5749,7 @@ target
 task
 task-runner
 taskbar
+tasker
 taskgroup
 taskmanagement
 tasks
@@ -6164,7 +6162,6 @@ usap
 usb
 useful
 user
-user-environment
 userdiscovery
 usergroup
 userinterface
@@ -6237,6 +6234,7 @@ ve7cc
 vector
 veeam
 veeampn
+veeva
 venafi
 vendor
 venue
@@ -6422,7 +6420,6 @@ webdav
 webdeploy
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -6459,7 +6456,6 @@ wemsdk
 wer
 what3words
 whatismyip
-whd
 where
 whfb
 whiteboard
@@ -6495,7 +6491,6 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
-windows-environment
 windows-explorer
 windows-features
 windows-firewall
