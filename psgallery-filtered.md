@@ -5,13 +5,97 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.4.0.18) | 0.4.0.18
+## [SetUpBasic.TemplateGenerator](https://www.powershellgallery.com/Packages/SetUpBasic.TemplateGenerator/0.0.0.4) | 0.0.0.4
 
-### Published: 07/18/2022 09:04:14 by Petru Cervac
+### Published: 07/18/2022 17:19:15 by Naitwatch
+
+Powershell module SetUpBasic.TemplateGenerator. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 1 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TemplateGenerator
+
+## [PSGraphQL](https://www.powershellgallery.com/Packages/PSGraphQL/1.5.6) | 1.5.6
+
+### Published: 07/18/2022 15:57:53 by Tony Guimelli
+
+This PowerShell module contains functions that facilitate querying and create, update, and delete (mutations) operations for GraphQL endpoints.
+
+__Downloads__: 2,086 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
+
+## [PSGitUtils](https://www.powershellgallery.com/Packages/PSGitUtils/1.13.0) | 1.13.0
+
+### Published: 07/18/2022 15:34:26 by Cpadiem Chao
+
+Providers emoji supports for Git commit and Git log.
+
+__Downloads__: 456 | __Repository__: https://github.com/capdiem/PSGitUtils
+
+## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.4.0.19) | 0.4.0.19
+
+### Published: 07/18/2022 15:07:38 by Petru Cervac
 
 Some description here and there
 
 __Downloads__: 9 | __Repository__: https://github.com/BusHero/pester.extenssions
+
+## [AppInsights](https://www.powershellgallery.com/Packages/AppInsights/1.0.1024) | 1.0.1024
+
+### Published: 07/18/2022 15:01:44 by Sven Grav
+
+AppInsights is a PowerShell module that provides Cmdlets to send logs and traces to Azure Application Insights.
+    It comes with many helpful features to simplify the usage of Application Insights in PowerShell.
+    
+    Checkout the GitHub repository for documentation and samples => 
+    https://github.com/svengrav/appinsights-powershell
+
+__Downloads__: 3,859 | __Repository__: https://github.com/svengrav/appinsights-powershell
+
+## [PSProjectStatus](https://www.powershellgallery.com/Packages/PSProjectStatus/0.8.1) | 0.8.1
+
+### Published: 07/18/2022 14:53:09 by Jeff Hicks
+
+A set of PowerShell tools for tracking module development status. The module uses a JSON file to create a custom object with information about your module. You can use this internally to track the status of your module including a simple to-do tracker. This module was first described at https://jdhitsolutions.com/blog/powershell/8960/introducing-psprojectstatus/
+
+__Downloads__: 70 | __Repository__: https://github.com/jdhitsolutions/PSProjectStatus
+
+## [ADReportingTools](https://www.powershellgallery.com/Packages/ADReportingTools/1.4.0) | 1.4.0
+
+### Published: 07/18/2022 14:27:45 by Jeff Hicks
+
+A set of PowerShell commands to gather information and create reports from Active Directory.
+
+__Downloads__: 1,827 | __Repository__: https://github.com/jdhitsolutions/ADReportingTools
+
+## [ServiceNow](https://www.powershellgallery.com/Packages/ServiceNow/3.4.0) | 3.4.0
+
+### Published: 07/18/2022 14:01:46 by Sam Martin Rick Arroues Greg Brownstein
+
+Automate against ServiceNow service and asset management.  This module can be used standalone or with Azure Automation.
+
+__Downloads__: 199,300 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
+
+## [Configuration](https://www.powershellgallery.com/Packages/Configuration/1.5.1) | 1.5.1
+
+### Published: 07/18/2022 13:52:18 by Joel Bennett
+
+A module for storing and reading configuration values, with full PS Data serialization, automatic configuration for modules and scripts, etc.
+
+__Downloads__: 241,911 | __Repository__: https://github.com/PoshCode/Configuration
+
+## [NetworkScan](https://www.powershellgallery.com/Packages/NetworkScan/0.0.2) | 0.0.2
+
+### Published: 07/18/2022 13:12:26 by Jeremy Jackson
+
+Collection of Network Scanning Tools
+
+__Downloads__: 3 | __Repository__: 
+
+## [VRisingServerManager](https://www.powershellgallery.com/Packages/VRisingServerManager/0.5.0) | 0.5.0
+
+### Published: 07/18/2022 10:56:47 by github.com/edgetools
+
+Manages running multiple V Rising servers and their settings.
+
+__Downloads__: 17 | __Repository__: https://github.com/edgetools/vrising-server-manager
 
 ## [pspda](https://www.powershellgallery.com/Packages/pspda/1.0) | 1.0
 
@@ -100,7 +184,7 @@ __Downloads__: 59 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 698,995 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 699,025 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [BeneathTheCanals](https://www.powershellgallery.com/Packages/BeneathTheCanals/0.1.3) | 0.1.3
 
@@ -109,14 +193,6 @@ __Downloads__: 698,995 | __Repository__: https://stealthpuppy.com/evergreen/
 Generate all the horrors needed for your game! Catacombs, encounters, and items.
 
 __Downloads__: 47 | __Repository__: https://github.com/HeyItsGilbert/BeneathTheCanals
-
-## [NetworkScan](https://www.powershellgallery.com/Packages/NetworkScan/0.0.1) | 0.0.1
-
-### Published: 07/16/2022 22:41:55 by Jeremy Jackson
-
-Collection of Network Scanning Tools
-
-__Downloads__: 3 | __Repository__: 
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.4) | 0.2.4
 
@@ -134,7 +210,7 @@ __Downloads__: 131 | __Repository__: https://github.com/StartAutomating/ugit
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 139,462 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 139,461 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [dotnet-project-scaffolding](https://www.powershellgallery.com/Packages/dotnet-project-scaffolding/0.3.6) | 0.3.6
 
@@ -151,7 +227,7 @@ __Downloads__: 475 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,704,603 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,704,637 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [PSWinRAR](https://www.powershellgallery.com/Packages/PSWinRAR/0.2.11) | 0.2.11
 
@@ -215,7 +291,7 @@ __Downloads__: 16,108 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 57 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 59 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [InboxAccountingDatabaseManagement](https://www.powershellgallery.com/Packages/InboxAccountingDatabaseManagement/1.2.3) | 1.2.3
 
@@ -232,14 +308,6 @@ __Downloads__: 138 | __Repository__:
 Active Directory tools
 
 __Downloads__: 44 | __Repository__: https://github.com/gisp497/gispad
-
-## [AppInsights](https://www.powershellgallery.com/Packages/AppInsights/1.0.1020) | 1.0.1020
-
-### Published: 07/15/2022 16:17:48 by Sven Grav
-
-PowerShell module that encapsulates the Application Insights Telemetry Client. https://github.com/svengrav/appinsights-powershell
-
-__Downloads__: 3,859 | __Repository__: https://github.com/svengrav/appinsights-powershell
 
 ## [Retype](https://www.powershellgallery.com/Packages/Retype/1.0.1) | 1.0.1
 
@@ -287,7 +355,7 @@ __Downloads__: 337 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 25,006 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 25,008 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.6.2) | 4.6.2
 
@@ -322,14 +390,6 @@ PPSLogModule
 
 __Downloads__: 1 | __Repository__: 
 
-## [VRisingServerManager](https://www.powershellgallery.com/Packages/VRisingServerManager/0.4.0) | 0.4.0
-
-### Published: 07/15/2022 06:15:00 by github.com/edgetools
-
-Manages running multiple V Rising servers and their settings.
-
-__Downloads__: 17 | __Repository__: https://github.com/edgetools/vrising-server-manager
-
 ## [PSComData](https://www.powershellgallery.com/Packages/PSComData/0.2.1) | 0.2.1
 
 ### Published: 07/15/2022 04:32:47 by FingerhutAsCode
@@ -344,7 +404,7 @@ __Downloads__: 6 | __Repository__: https://github.com/FingerhutAsCode/PSComData
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 11,551 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,549 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [ConvertToSimnra](https://www.powershellgallery.com/Packages/ConvertToSimnra/0.5.0) | 0.5.0
 
@@ -425,7 +485,7 @@ __Downloads__: 7,192 | __Repository__: https://github.com/wetling23/logicmonitor
 
 Module for installing basic programs. You can use functions here to download the installer from a download link; Use that installer to install the program; Verify the program/service that was installed, then; clean up the installer.
 
-__Downloads__: 2,798 | __Repository__: 
+__Downloads__: 2,797 | __Repository__: 
 
 ## [PowerShellNotebook](https://www.powershellgallery.com/Packages/PowerShellNotebook/2.9.4) | 2.9.4
 
@@ -450,7 +510,7 @@ __Downloads__: 28 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 Provides automated build features using on the InvokeBuild module
 
-__Downloads__: 1,760 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
+__Downloads__: 1,761 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
 
 ## [AutotaskRestAPI](https://www.powershellgallery.com/Packages/AutotaskRestAPI/0.1) | 0.1
 
@@ -506,7 +566,7 @@ __Downloads__: 18 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,748,536 | __Repository__: https://dbatools.io/
+__Downloads__: 1,748,566 | __Repository__: https://dbatools.io/
 
 ## [ScriptLog](https://www.powershellgallery.com/Packages/ScriptLog/0.3.1) | 0.3.1
 
@@ -554,15 +614,7 @@ directory in the script's source code repository.
 * Avoid comitting modules to the source code repository. Team members and build processes run `prism install` to
 get modules installed.
 
-__Downloads__: 2,240 | __Repository__: https://github.com/webmd-health-services/Prism
-
-## [DeleteBinObjFolders](https://www.powershellgallery.com/Packages/DeleteBinObjFolders/2.1.0) | 2.1.0
-
-### Published: 07/13/2022 22:35:03 by Prateek Mahendrakar
-
-Delete bin, obj folders recursively.
-
-__Downloads__: 199 | __Repository__: https://github.com/pmahend1/PowershellScripts
+__Downloads__: 2,234 | __Repository__: https://github.com/webmd-health-services/Prism
 
 ## [TrainingUtils.RGC](https://www.powershellgallery.com/Packages/TrainingUtils.RGC/2.0.5) | 2.0.5
 
@@ -594,7 +646,7 @@ __Downloads__: 198 | __Repository__:
 
 Miscellaneous utilities by a miscellaneous human
 
-__Downloads__: 382 | __Repository__: https://github.com/Skatterbrainz/ds-utils
+__Downloads__: 381 | __Repository__: https://github.com/Skatterbrainz/ds-utils
 
 ## [Exchange_AddIn](https://www.powershellgallery.com/Packages/Exchange_AddIn/2.0.4) | 2.0.4
 
@@ -634,7 +686,7 @@ __Downloads__: 76 | __Repository__: https://github.com/saidbrandon/PureStorage.F
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,312,435 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,312,433 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [SkunkLabAzure](https://www.powershellgallery.com/Packages/SkunkLabAzure/3.1.8.12) | 3.1.8.12
 
@@ -658,7 +710,7 @@ __Downloads__: 21 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,000,087 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,000,090 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [PSTeams](https://www.powershellgallery.com/Packages/PSTeams/2.1.2) | 2.1.2
 
@@ -666,7 +718,7 @@ __Downloads__: 3,000,087 | __Repository__: https://www.red-gate.com/sca/productp
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 225,883 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 225,885 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.102) | 1.0.0.102
 
@@ -674,7 +726,7 @@ __Downloads__: 225,883 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 15,639 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 15,641 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [FineFormat](https://www.powershellgallery.com/Packages/FineFormat/1.0.2) | 1.0.2
 
@@ -1657,7 +1709,7 @@ __Downloads__: 58 | __Repository__:
 
 This Windows PowerShell module contains VMware.PowerCLI
 
-__Downloads__: 4,886,623 | __Repository__: 
+__Downloads__: 4,886,610 | __Repository__: 
 
 ## [VMware.VumAutomation](https://www.powershellgallery.com/Packages/VMware.VumAutomation/12.7.0.20091294) | 12.7.0.20091294
 
@@ -1665,7 +1717,7 @@ __Downloads__: 4,886,623 | __Repository__:
 
 This Windows PowerShell module contains PowerCLI VUM cmdlets.
 
-__Downloads__: 4,743,804 | __Repository__: 
+__Downloads__: 4,743,794 | __Repository__: 
 
 ## [VMware.Sdk.Nsx.Policy](https://www.powershellgallery.com/Packages/VMware.Sdk.Nsx.Policy/4.0.0.20042351) | 4.0.0.20042351
 
@@ -1673,7 +1725,7 @@ __Downloads__: 4,743,804 | __Repository__:
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Nsx.Policy API.
 
-__Downloads__: 333,214 | __Repository__: 
+__Downloads__: 333,240 | __Repository__: 
 
 ## [VMware.VimAutomation.Hcx](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Hcx/12.7.0.20091291) | 12.7.0.20091291
 
@@ -1681,7 +1733,7 @@ __Downloads__: 333,214 | __Repository__:
 
 This Windows PowerShell module contains PowerCLI HCX cmdlets.
 
-__Downloads__: 4,306,712 | __Repository__: 
+__Downloads__: 4,306,701 | __Repository__: 
 
 ## [VMware.VimAutomation.HorizonView](https://www.powershellgallery.com/Packages/VMware.VimAutomation.HorizonView/12.7.0.20029144) | 12.7.0.20029144
 
@@ -1689,7 +1741,7 @@ __Downloads__: 4,306,712 | __Repository__:
 
 This Windows PowerShell module contains Connect/Disconnect cmdlets for View API service.
 
-__Downloads__: 4,990,106 | __Repository__: 
+__Downloads__: 4,990,095 | __Repository__: 
 
 ## [VMware.VimAutomation.Srm](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Srm/12.7.0.20091290) | 12.7.0.20091290
 
@@ -1697,7 +1749,7 @@ __Downloads__: 4,990,106 | __Repository__:
 
 This Windows PowerShell module contains PowerCLI SRM cmdlets.
 
-__Downloads__: 5,198,734 | __Repository__: 
+__Downloads__: 5,198,721 | __Repository__: 
 
 ## [VMware.VimAutomation.Vmc](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vmc/12.7.0.20068400) | 12.7.0.20068400
 
@@ -1705,7 +1757,7 @@ __Downloads__: 5,198,734 | __Repository__:
 
 This Windows PowerShell module contains PowerCLI VMC cmdlets.
 
-__Downloads__: 4,922,629 | __Repository__: 
+__Downloads__: 4,922,618 | __Repository__: 
 
 ## [VMware.VimAutomation.Vds](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vds/12.7.0.20091295) | 12.7.0.20091295
 
@@ -1713,7 +1765,7 @@ __Downloads__: 4,922,629 | __Repository__:
 
 This Windows PowerShell module contains PowerCLI VDS cmdlets.
 
-__Downloads__: 6,735,584 | __Repository__: 
+__Downloads__: 6,735,563 | __Repository__: 
 
 ## [VMware.VimAutomation.Storage](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Storage/12.7.0.20091292) | 12.7.0.20091292
 
@@ -1721,7 +1773,7 @@ __Downloads__: 6,735,584 | __Repository__:
 
 This Windows PowerShell module contains PowerCLI storage management cmdlets.
 
-__Downloads__: 5,818,851 | __Repository__: 
+__Downloads__: 5,818,828 | __Repository__: 
 
 ## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/12.7.0.20091293) | 12.7.0.20091293
 
@@ -1729,7 +1781,7 @@ __Downloads__: 5,818,851 | __Repository__:
 
 This Windows PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
 
-__Downloads__: 7,653,448 | __Repository__: 
+__Downloads__: 7,653,423 | __Repository__: 
 
 ## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/12.7.0.20067789) | 12.7.0.20067789
 
@@ -1737,7 +1789,7 @@ __Downloads__: 7,653,448 | __Repository__:
 
 This Windows PowerShell module contains functionality required by multiple PowerCLI modules.
 
-__Downloads__: 8,254,510 | __Repository__: 
+__Downloads__: 8,254,480 | __Repository__: 
 
 ## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/12.7.0.20067606) | 12.7.0.20067606
 
@@ -1770,6 +1822,14 @@ __Downloads__: 619 | __Repository__: https://github.com/skunklab/piraeus
 Audit and block PowerShell scripts on Windows machines.
 
 __Downloads__: 967 | __Repository__: https://docs.poshtools.com/powershell-pro-tools-documentation/powershell-protect
+
+## [PSGC](https://www.powershellgallery.com/Packages/PSGC/1.2.1) | 1.2.1
+
+### Published: 07/12/2022 11:52:45 by Sascha Spiekermann
+
+Powershell Geocaching Helper
+
+__Downloads__: 13 | __Repository__: https://github.com/Callidus2000/PSGC
 
 ## [CustomPSTools](https://www.powershellgallery.com/Packages/CustomPSTools/0.1.4) | 0.1.4
 
@@ -1810,7 +1870,7 @@ __Downloads__: 4 | __Repository__: https://github.com/YIsoda/IonBeamDataProcessT
 
 Universal Dashbord v3 framework for Powershell Universal
 
-__Downloads__: 82,807 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+__Downloads__: 82,809 | __Repository__: https://www.ironmansoftware.com/powershell-universal
 
 ## [CertCheckStor](https://www.powershellgallery.com/Packages/CertCheckStor/0.1.10) | 0.1.10
 
@@ -1820,13 +1880,21 @@ Certificate Checker Storage
 
 __Downloads__: 53 | __Repository__: https://github.com/archmachina/ps-CertCheckStor/
 
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.1.2) | 1.1.2
+
+### Published: 07/11/2022 23:11:12 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 46 | __Repository__: https://github.com/cpp-swift/PowerRvB
+
 ## [SecretManagement.LAPS](https://www.powershellgallery.com/Packages/SecretManagement.LAPS/0.0.1) | 0.0.1
 
 ### Published: 07/11/2022 20:00:09 by blue
 
 SecretManagement extension for Microsoft's Local Administrator Password Solution
 
-__Downloads__: 8 | __Repository__: https://github.com/theaquamarine/SecretManagement.LAPS
+__Downloads__: 7 | __Repository__: https://github.com/theaquamarine/SecretManagement.LAPS
 
 ## [Benchpress](https://www.powershellgallery.com/Packages/Benchpress/1.3.2) | 1.3.2
 
@@ -1930,7 +1998,7 @@ __Downloads__: 8 | __Repository__:
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 6,902 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 6,904 | __Repository__: https://aka.ms/AzAPICall
 
 ## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.18) | 1.0.18
 
@@ -1980,71 +2048,4 @@ Work with the contents of NTFS volumes
 
 __Downloads__: 6 | __Repository__: 
 
-## [SimplePrtg](https://www.powershellgallery.com/Packages/SimplePrtg/1.0.11) | 1.0.11
-
-### Published: 07/10/2022 03:07:32 by Jeremy La Camera
-
-Use Paessler PRTG Network Monitor
-
-__Downloads__: 10 | __Repository__: 
-
-## [camtasia-trec](https://www.powershellgallery.com/Packages/camtasia-trec/0.0.6) | 0.0.6
-
-### Published: 07/09/2022 21:08:20 by he852100
-
-这是一个对techsmith公司camtasia软件生成的trec格式录像文件中的光标文件进行替换的脚本
-
-__Downloads__: 56 | __Repository__: https://github.com/he852100/camtasia-trec
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/1.0.204) | 1.0.204
-
-### Published: 07/09/2022 14:10:46 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 144 | __Repository__: 
-
-## [ScriptUtils](https://www.powershellgallery.com/Packages/ScriptUtils/1.0.1) | 1.0.1
-
-### Published: 07/09/2022 12:32:25 by Uzair
-
-This Module is a collection of wrapper functions that makes your scripting experience fast and easy.
-As a scripter you might have come across this situation several times when you have to perform checks before proceeding with a specific task.
-These functions helps you eliminate the need to perform checks and just use a single command to get the work done. Thereby, enabling you to focus on the
-main section of your script rather than spending time to write code to perform checks
-
-__Downloads__: 21 | __Repository__: https://github.com/uzi3/ScriptUtils
-
-## [PSCoreApplicationInsights](https://www.powershellgallery.com/Packages/PSCoreApplicationInsights/0.0.3) | 0.0.3
-
-### Published: 07/09/2022 12:24:03 by leonboers@gmail.com
-
-A module to simplify working with the Powershell Core 7 Application Insights implementation.
-
-__Downloads__: 18 | __Repository__: https://github.com/LeonB87/PSCoreApplicationInsights
-
-## [JsonUtils](https://www.powershellgallery.com/Packages/JsonUtils/0.3.4) | 0.3.4
-
-### Published: 07/09/2022 05:56:12 by choovick@gmail.com
-
-JSON Utilities module
-
-__Downloads__: 433 | __Repository__: https://github.com/choovick/ps-jsonutils
-
-## [PSOpenAD](https://www.powershellgallery.com/Packages/PSOpenAD/0.1.0) | 0.1.0
-
-### Published: 07/09/2022 04:17:37 by Jordan Borean
-
-Cross platform module that can get/set information in Active Directory.`nSee https://github.com/jborean93/PSOpenAD for more info
-
-__Downloads__: 244 | __Repository__: https://github.com/jborean93/PSOpenAD
-
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.175) | 0.0.175
-
-### Published: 07/08/2022 20:54:16 by Przemyslaw Klys
-
-PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-
-__Downloads__: 724,049 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
-
-*Updated: Monday, 18 July 2022 09:52:36 UTC*
+*Updated: Monday, 18 July 2022 17:53:14 UTC*
