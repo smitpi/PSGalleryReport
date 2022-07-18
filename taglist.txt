@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 17 July 2022 17:52:36 UTC
+Updated: Monday, 18 July 2022 02:40:06 UTC
 
 ?:
 ??
@@ -73,6 +73,7 @@ abe
 about
 abstractsyntaxtree
 abuse
+acas
 accelerator
 access
 access-control
@@ -243,6 +244,7 @@ almrangers
 alpha
 alphafs
 alpine
+alpr
 alt3
 alter
 alteryx
@@ -262,7 +264,6 @@ anaconda
 analysis
 analysisservices
 analyst
-analyth
 analytics
 analyze
 analyzer
@@ -469,7 +470,6 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 autopilot
 autoscaling
 autostart
@@ -492,6 +492,7 @@ awp
 awpagent
 aws
 aws_profile
+aws-codebuild
 aws-lambda
 aws-vault
 awscli
@@ -531,6 +532,7 @@ azure-adx
 azure-backup
 azure-cli
 azure-data-explorer
+azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
@@ -661,6 +663,7 @@ bigquery
 bikeshed
 billing
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -747,6 +750,7 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
+broadcast
 broot
 browser
 browserextension
@@ -854,6 +858,7 @@ cdrom
 cds
 cdx
 ce
+celcat
 celerium
 censor
 center
@@ -875,6 +880,7 @@ certificate
 certificateauthority
 certificatechain
 certificatemanager
+certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -918,7 +924,6 @@ choco
 choco-bear
 chocobear
 chocolatey
-choice
 chooser
 christaylorcodes
 christmas
@@ -965,7 +970,6 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
-cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1061,6 +1065,7 @@ codaamok
 code
 code-page
 code365
+codebuild
 codecov
 codecoverage
 codegen
@@ -1214,7 +1219,6 @@ continuousdeployment
 continuousintegration
 control
 controller
-controlroom
 convereter
 converged_data_management
 conversational
@@ -1272,6 +1276,7 @@ cq
 cqd
 cqdpowershell
 cqhttp
+crack psmodule
 crash
 crayon
 crc
@@ -1477,6 +1482,7 @@ dcim_b324
 deathface
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1502,6 +1508,7 @@ defence
 defender
 defender-atp
 defender-for-endpoint
+defenderast
 defenderforendpoint
 defense
 deflate
@@ -1531,7 +1538,6 @@ der
 description
 deserialize
 desired
-desiredstate
 desiredstateconfiguration
 desk
 desktop
@@ -1649,6 +1655,7 @@ dl
 dll
 dlmautomation
 dlmigration
+dlp
 dmarc
 dmgr
 dmi
@@ -1692,6 +1699,7 @@ documents
 docusaurus
 docusign
 docx
+dod
 dog
 dog-names
 dogs
@@ -1902,6 +1910,7 @@ enum
 enumerable
 env
 environment
+environment-variables
 environmentmanagent
 environmentmodules
 environments
@@ -1972,7 +1981,6 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
-eventviewer
 eventwatch
 evergreen
 evernote
@@ -2091,7 +2099,6 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fido2
@@ -2525,7 +2532,6 @@ header
 headhunter
 health
 health_checks
-healthbot
 healthcare
 healthcareapis
 healthcheck
@@ -3226,6 +3232,7 @@ logrotation
 logs
 logstash
 logtools
+logz
 lol
 lolcat
 longfile
@@ -3234,6 +3241,7 @@ longitude
 look
 lookup
 loopback
+lpr
 lpsiamol
 ls
 lsa
@@ -3351,7 +3359,6 @@ maxoffice
 mb
 mbc
 mbs
-mc
 mcafee
 mcas
 mchapv2
@@ -3413,6 +3420,7 @@ metrics
 metrolink
 mfa
 mga
+mi
 micro-orm
 microfocus
 microk8s
@@ -3450,7 +3458,6 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
-microsoftstore
 microsoftteams
 microsoftword
 middleware
@@ -3484,7 +3491,6 @@ mkdocs
 mlflow
 mmdc
 mobile
-mobilitycontroller
 mock
 mocking
 modify
@@ -3585,6 +3591,7 @@ mule
 mulesoft
 multi-factor
 multi-zone
+multicloud
 multidimenstional
 multimedia
 multipass
@@ -3639,6 +3646,7 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
+nederland
 nedyalkov
 neo4j
 neptune
@@ -3660,6 +3668,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmask
 nets
 netsapiens
 netscaler
@@ -3754,6 +3763,7 @@ npslogfile
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -3880,6 +3890,7 @@ ontap_pstk_9.10.1
 ontap_pstk_9.8.0
 onyphe
 onyphe.io
+oob
 oop
 op
 opc
@@ -4037,6 +4048,7 @@ pass
 passcode
 passivetotal
 passphrase
+passphraser passphrase password generator entropy
 password
 password_generation
 password-generator
@@ -4074,6 +4086,7 @@ pc
 pcapng
 pci-dss
 pcsetup
+pcsv
 pdf
 peek
 peer
@@ -4117,7 +4130,6 @@ photos
 php
 phpapam
 pi
-picker
 picture
 pictures
 pid
@@ -4174,10 +4186,6 @@ pode
 poe
 point
 point-to-site
-pokeapi
-pokedex
-pokemon
-poker
 policies
 policy
 policyevent
@@ -4247,7 +4255,6 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
-powerdex
 powerforensics
 powergraph
 powermax
@@ -4314,6 +4321,7 @@ predicate
 prediction
 predictor
 preferences
+prefix
 preparead
 preparealldomains
 prepareschema
@@ -4380,6 +4388,7 @@ projectmanagement
 projectreunion
 projects
 projecttemplate
+projectwise
 proliant
 prometheus
 prompt
@@ -4396,7 +4405,6 @@ protocol
 provance
 provider
 providerhub
-provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -4881,6 +4889,7 @@ riskiq
 riskpro
 risksense
 rlan
+rmcp
 rmm
 rmmapi
 rms
@@ -4916,11 +4925,9 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
-rs
 rsa
 rsat
 rshell
@@ -5132,10 +5139,12 @@ select-string
 selection
 selectxmlinfo
 selenium
+self
 self-hosted
 self-service
 self-signed
 selfdispatch
+selfsigned
 semantic
 semantic-versioning
 semver
@@ -5158,6 +5167,7 @@ sentinelone
 sep
 seppmail
 seppmail.cloud
+seq
 sequence
 serialization
 serialize
@@ -5167,6 +5177,7 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
+servercertificatevalidationcallback
 serverless
 servermanagement
 servers
@@ -5180,6 +5191,7 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5267,6 +5279,7 @@ sign
 signalfx
 signalr
 signature
+signed
 signing
 signtool
 silk
@@ -5322,8 +5335,10 @@ small_web
 smart_home
 smartarray
 smartarraycmdlets
+smarthome
 smartsheet
 smartwatch
+smash
 smb
 smb1
 smb2
@@ -5445,7 +5460,6 @@ sports-tracker
 spotify
 spotify-api
 spotlight
-spotlightimages
 spp
 spread
 spreadsheet
@@ -5487,7 +5501,6 @@ srcds
 srcsrv
 srm
 ssas
-ssc
 ssdt
 ssh
 ssh-keygen
@@ -5688,7 +5701,6 @@ systeminfo
 systeminformation
 systemlocale
 systems
-systemsplash
 systray
 t
 t-sql
@@ -5723,7 +5735,6 @@ target
 task
 task-runner
 taskbar
-tasker
 taskgroup
 taskmanagement
 tasks
@@ -5731,6 +5742,7 @@ taskscheduler
 taxjar
 taxonomy
 tcp
+tcp/ip
 tcpip
 tcpport
 tcpserver
@@ -5767,10 +5779,10 @@ templates
 templating
 temporary
 tenable
+tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-services
 terminal.gui
@@ -5896,6 +5908,7 @@ tracking
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 training
 training-course
 tram
@@ -5921,6 +5934,7 @@ trec
 tree
 treesize
 treffynnon
+trein
 trello
 trellops
 trendmicro
@@ -6002,6 +6016,7 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -6131,6 +6146,7 @@ usap
 usb
 useful
 user
+user-environment
 userdiscovery
 usergroup
 userinterface
@@ -6236,7 +6252,6 @@ virsh
 virtual
 virtualappliance
 virtualbox
-virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -6255,6 +6270,7 @@ virtualrtu
 virtualterminal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualization
@@ -6461,11 +6477,10 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
+windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-registry
-windows-remoting
 windows-server-2016
 windows10
 windows10mui
@@ -6637,6 +6652,7 @@ xevent
 xevents
 xh
 xi
+xiaomi
 xkcd
 xliff
 xmc
@@ -6680,6 +6696,7 @@ zap
 zcat
 zendesk
 zerto
+zigbee
 zip
 zipfile-transform
 zoho
