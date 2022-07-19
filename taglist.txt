@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 19 July 2022 09:53:55 UTC
+Updated: Tuesday, 19 July 2022 17:54:37 UTC
 
 ?:
 ??
@@ -325,7 +325,6 @@ apple
 application
 application-transformer
 applicationgateway
-applicationgrid
 applicationinsights
 applicationmigration
 applicationmonitor
@@ -589,6 +588,7 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
+azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -692,7 +692,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackbox
 blacklist
 blade
 bladeserver
@@ -782,8 +781,11 @@ burpsuite
 bus
 business
 businesscentral
+businessdays
+businesshours
 businessobjects
 businessrulesengine
+businesstime
 bxor
 bydesign
 byexample
@@ -806,6 +808,7 @@ callqueue
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 canonical
@@ -1058,6 +1061,7 @@ cms
 cmsiteconfig
 cmsmessage
 cmtrace
+cmwt
 cns
 coa
 cockroachdb
@@ -1499,6 +1503,7 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deepvisibility
 def
 default
 defaultparameter
@@ -1698,7 +1703,6 @@ documentencryption
 documenting
 documents
 docusaurus
-docusign
 docx
 dod
 dog
@@ -1754,8 +1758,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2250,8 +2252,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-front
-frontapp
 frontdoor
 frontrange
 fs
@@ -2276,6 +2276,7 @@ functionalprogramming
 functions
 funds
 funny
+fusionapps
 fuzzy
 fyi
 fzf
@@ -2398,6 +2399,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnucash
 gnuwin32
 gobright
 godaddy
@@ -2592,7 +2594,6 @@ homebrew
 homelandsecurity
 homeschooling
 hon
-horizontal
 hornbill
 host
 host-based
@@ -2826,6 +2827,7 @@ intellisense
 interactive
 interactive-brokers
 interface
+interlogix
 internet
 internet-explorer
 internetexplorer
@@ -3075,7 +3077,6 @@ latitude
 launcher
 layer
 layman
-layout
 lazywinadmin
 lbd
 lbi
@@ -3175,6 +3176,7 @@ localization
 location
 locationbasedservices
 lock
+lockbox
 lockdisplaytimeout
 lockdown
 locking
@@ -3325,6 +3327,7 @@ mariadb
 mark
 markdig
 markdown
+markdownrender
 marketing
 marketo
 marketplace
@@ -3522,7 +3525,6 @@ monitoringsolutions
 monthlyupdate
 moodle
 moonshot
-mosaic
 motd
 mount
 mouse
@@ -3692,6 +3694,7 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
+networksecuritygroup
 networkshares
 new
 new-completionresult
@@ -3718,6 +3721,7 @@ ngen
 ngfw
 nhl
 nic
+nic.ru
 nightmare
 ninite
 ninja
@@ -3894,6 +3898,7 @@ onyphe.io
 oob
 oop
 op
+opa
 opc
 open
 open-ai
@@ -4148,6 +4153,7 @@ pip
 pipe
 pipeline
 pipelines
+pipescript
 piraeus
 pivot
 pivotal
@@ -4170,6 +4176,7 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
 plex
 plist
 plog
@@ -4335,6 +4342,7 @@ preprocessing
 preprocessor
 presentation
 presenter
+presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4413,6 +4421,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4510,6 +4521,7 @@ psmodule
 psmodule psedition_desktop
 psmodulepath
 psmodules
+psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -4593,6 +4605,7 @@ purestorage
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -4835,6 +4848,7 @@ resize
 resolution
 resolve
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -5041,6 +5055,7 @@ scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 score
@@ -5053,7 +5068,6 @@ scrape
 scraper
 screen
 screencap
-screencapture
 screenconnect
 screenfetch
 screenresolution
@@ -5163,6 +5177,7 @@ sensor
 sensors
 sensu
 sentinel
+sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5233,6 +5248,8 @@ sfx
 sgw
 sha256
 shadow
+shadowcopy
+shadowcopybackups
 shadowgroups
 shanghaitech
 shard
@@ -5594,7 +5611,6 @@ string-template
 stringmanager
 stringmanagertool
 strings
-stringutilities
 strip-ansi
 stripe
 strongname
@@ -5764,6 +5780,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+techsmith
 tel
 telegram
 telegram-bot
@@ -5931,7 +5948,9 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
+trec
 tree
 treesize
 treffynnon
@@ -5950,6 +5969,7 @@ troubleshooting
 trouw
 truecrypt
 truenas
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -6233,7 +6253,6 @@ versioncontrol
 versioning
 versionmanager
 versionnumber
-vertical
 vester
 vhd
 vhdx
@@ -6312,6 +6331,7 @@ voiceconfig
 voidtools
 volkskrant
 volume
+volumeshadowcopy
 volumio
 vorbis
 vovin
@@ -6342,7 +6362,6 @@ vss
 vssetup
 vsshell
 vst
-vsteambuilder
 vsteams
 vstest
 vsts
@@ -6365,6 +6384,7 @@ waitforobject
 wakeonlan
 wakeup
 walk
+wallet
 wallpaper
 wallpapers
 wannacry
@@ -6526,6 +6546,7 @@ winrar
 winrm
 winrs
 winrt
+wins
 winsat
 winscp
 wintellect
@@ -6566,6 +6587,9 @@ worker
 workflow
 workflowmax
 workflows
+workingdays
+workinghours
+workingtime
 workload-automation
 workpoint
 workrequests
