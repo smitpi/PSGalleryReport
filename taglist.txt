@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 18 July 2022 17:53:24 UTC
+Updated: Tuesday, 19 July 2022 02:44:05 UTC
 
 ?:
 ??
@@ -119,6 +119,7 @@ activity
 activitycount
 actor-model
 actors
+acumatica
 ad
 ad_monitoring
 ad-ds
@@ -263,6 +264,7 @@ anaconda
 analysis
 analysisservices
 analyst
+analyth
 analytics
 analyze
 analyzer
@@ -323,7 +325,6 @@ apple
 application
 application-transformer
 applicationgateway
-applicationgrid
 applicationinsights
 applicationmigration
 applicationmonitor
@@ -663,6 +664,7 @@ bigquery
 bikeshed
 billing
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -807,7 +809,6 @@ callqueue
 cam
 camera
 campaign
-camtasia
 canarie
 cancel
 canonical
@@ -825,11 +826,14 @@ carousel
 cartoon
 case
 cassandra
+cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
+cats
 catty
 cavium
 cb
@@ -921,6 +925,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+chooser
 christaylorcodes
 christmas
 chrome
@@ -966,6 +971,7 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
+cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1080,7 +1086,6 @@ cognitiveservices
 cohesity
 coinmarketcap
 collatordso
-collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1171,7 +1176,6 @@ configurationmanager
 configure
 confluence
 confluent
-conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1186,6 +1190,7 @@ connectednetwork
 connectexchange
 connection
 connections
+connectionsmanager
 connectionstring
 connectwise
 console
@@ -1480,6 +1485,7 @@ dcim_b324
 deathface
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1719,7 +1725,6 @@ dotnettool
 dotps1
 dots
 dotteddecimalip
-dottest.test
 doubleclick
 download
 downloader
@@ -1979,6 +1984,7 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
+eventviewer
 eventwatch
 evergreen
 evernote
@@ -2379,6 +2385,7 @@ git-clone
 gitcmdline
 gitdesktop
 gitflow
+gitforwindows
 github
 github-actions
 githubactions
@@ -2485,7 +2492,6 @@ hack
 hacktoberfest
 hadoop
 hafr
-hailstone
 haipa
 halo
 haloitsm
@@ -2591,7 +2597,6 @@ homebrew
 homelandsecurity
 homeschooling
 hon
-horizontal
 hornbill
 host
 host-based
@@ -3075,7 +3080,6 @@ latitude
 launcher
 layer
 layman
-layout
 lazywinadmin
 lbd
 lbi
@@ -3104,6 +3108,7 @@ leiningnen
 lenel
 length
 lenovo
+lesspass
 letsencrypt
 lf
 lgpo
@@ -3457,6 +3462,7 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftstaffhub
+microsoftstore
 microsoftteams
 microsoftword
 middleware
@@ -3509,7 +3515,6 @@ moldova
 moment
 monaco
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -3521,7 +3526,6 @@ monitoringsolutions
 monthlyupdate
 moodle
 moonshot
-mosaic
 motd
 mount
 mouse
@@ -4171,7 +4175,6 @@ playbook
 player
 playlists
 pleasant
-pleasantpasswordserver
 plex
 plist
 plog
@@ -4221,6 +4224,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -4432,6 +4436,7 @@ ps-ncentral
 ps.credentialmanager
 ps1
 ps1xml
+ps1xmlgen
 ps2exe
 ps3
 ps4
@@ -4496,6 +4501,7 @@ psget
 psgitlab
 psgraph
 psgraylog
+pshot
 pshtml
 psini
 psinsight
@@ -4785,6 +4791,8 @@ remote
 remote-desktop
 remote'
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -4830,7 +4838,6 @@ requiredmodules
 requirements
 res
 rescan
-rescuetime
 reservation
 reset
 resharper
@@ -4907,7 +4914,6 @@ rock
 rocket
 rocketcyber
 role
-roles
 rollingfile
 romaji
 rot13
@@ -5229,7 +5235,8 @@ setbios
 setting
 settings
 setup
-setupbasic.templategenerator
+setupbasic.publish
+setupbasic.template
 sevenzip
 sf
 sfb
@@ -5667,9 +5674,11 @@ sybase
 sybaseiq
 symantec
 symbolic
+symbolic_link
 symboliclink
 symbols
 symbolservers
+symlink
 symmetric
 synapse
 sync
@@ -5707,6 +5716,7 @@ systeminfo
 systeminformation
 systemlocale
 systems
+systemsplash
 systray
 t
 t-sql
@@ -5768,7 +5778,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-techsmith
 tel
 telegram
 telegram-bot
@@ -5922,7 +5931,6 @@ training-course
 tram
 transact
 transaction
-transactions
 transcode
 transcript
 transcripts
@@ -5938,10 +5946,8 @@ transmission
 transparency
 transpilation
 trap
-trec
 tree
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -5954,6 +5960,7 @@ triodos
 tripunkt
 troubleshoot
 troubleshooting
+trouw
 truecrypt
 truenas
 truportal
@@ -5970,6 +5977,7 @@ tsheets
 tsqlbestpractice
 tts
 tui
+tulpep
 tuner
 tutorial
 tv
@@ -5986,7 +5994,6 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
-twitter-timeline
 twitter-tweet
 txt
 type
@@ -5994,6 +6001,7 @@ typeaccelerators
 typedata
 typeextension
 types
+types.ps1xml
 typescript
 tzutil
 uac
@@ -6200,7 +6208,6 @@ variance
 variants
 vastlimits
 vault
-vaultextension
 vaultstore
 vba
 vbproj
@@ -6238,7 +6245,6 @@ versioncontrol
 versioning
 versionmanager
 versionnumber
-vertical
 vester
 vhd
 vhdx
@@ -6257,6 +6263,7 @@ virsh
 virtual
 virtualappliance
 virtualbox
+virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -6275,6 +6282,7 @@ virtualrtu
 virtualterminal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualization
@@ -6557,7 +6565,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
@@ -6614,6 +6621,7 @@ writelog
 writemanager
 ws-federation
 wsapi
+wsb
 wsl
 wsman
 wsmanlistener
@@ -6623,7 +6631,6 @@ wt
 wtsapi32
 wttr
 wttr.in
-wtx
 wu
 wunderlist
 wvd
