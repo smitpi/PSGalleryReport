@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 19 July 2022 02:44:05 UTC
+Updated: Tuesday, 19 July 2022 09:53:55 UTC
 
 ?:
 ??
@@ -325,6 +325,7 @@ apple
 application
 application-transformer
 applicationgateway
+applicationgrid
 applicationinsights
 applicationmigration
 applicationmonitor
@@ -588,7 +589,6 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
-azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -782,11 +782,8 @@ burpsuite
 bus
 business
 businesscentral
-businessdays
-businesshours
 businessobjects
 businessrulesengine
-businesstime
 bxor
 bydesign
 byexample
@@ -1061,7 +1058,6 @@ cms
 cmsiteconfig
 cmsmessage
 cmtrace
-cmwt
 cns
 coa
 cockroachdb
@@ -1086,6 +1082,7 @@ cognitiveservices
 cohesity
 coinmarketcap
 collatordso
+collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1176,6 +1173,7 @@ configurationmanager
 configure
 confluence
 confluent
+conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1501,7 +1499,6 @@ decryption
 dedicatedhsm
 deduplication
 deep
-deepvisibility
 def
 default
 defaultparameter
@@ -1723,7 +1720,6 @@ dotnet
 dotnet-cli
 dotnettool
 dotps1
-dots
 dotteddecimalip
 doubleclick
 download
@@ -2199,7 +2195,6 @@ flex
 flex-query
 flexdesk
 flickr
-flowchart
 flowy
 fluidrelay
 flyway
@@ -2403,7 +2398,6 @@ gmail
 gmap
 gmaps
 gmsa
-gnucash
 gnuwin32
 gobright
 godaddy
@@ -2492,6 +2486,7 @@ hack
 hacktoberfest
 hadoop
 hafr
+hailstone
 haipa
 halo
 haloitsm
@@ -2597,6 +2592,7 @@ homebrew
 homelandsecurity
 homeschooling
 hon
+horizontal
 hornbill
 host
 host-based
@@ -2830,7 +2826,6 @@ intellisense
 interactive
 interactive-brokers
 interface
-interlogix
 internet
 internet-explorer
 internetexplorer
@@ -3080,6 +3075,7 @@ latitude
 launcher
 layer
 layman
+layout
 lazywinadmin
 lbd
 lbi
@@ -3329,7 +3325,6 @@ mariadb
 mark
 markdig
 markdown
-markdownrender
 marketing
 marketo
 marketplace
@@ -3515,6 +3510,7 @@ moldova
 moment
 monaco
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -3526,6 +3522,7 @@ monitoringsolutions
 monthlyupdate
 moodle
 moonshot
+mosaic
 motd
 mount
 mouse
@@ -3695,7 +3692,6 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 new
 new-completionresult
@@ -4152,7 +4148,6 @@ pip
 pipe
 pipeline
 pipelines
-pipescript
 piraeus
 pivot
 pivotal
@@ -4340,7 +4335,6 @@ preprocessing
 preprocessor
 presentation
 presenter
-presto
 preston-k-parsard
 pretty
 prettyprinter
@@ -4419,9 +4413,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4519,7 +4510,6 @@ psmodule
 psmodule psedition_desktop
 psmodulepath
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -4603,7 +4593,6 @@ purestorage
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -4838,6 +4827,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reset
 resharper
@@ -4845,7 +4835,6 @@ resize
 resolution
 resolve
 resolve-stache
-resolve-template
 resolver
 resource
 resource_monitor
@@ -4914,6 +4903,7 @@ rock
 rocket
 rocketcyber
 role
+roles
 rollingfile
 romaji
 rot13
@@ -5051,7 +5041,6 @@ scissors
 scm
 scmanager
 scom
-sconfig
 scoop
 scope
 score
@@ -5174,7 +5163,6 @@ sensor
 sensors
 sensu
 sentinel
-sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5245,8 +5233,6 @@ sfx
 sgw
 sha256
 shadow
-shadowcopy
-shadowcopybackups
 shadowgroups
 shanghaitech
 shard
@@ -5931,6 +5917,7 @@ training-course
 tram
 transact
 transaction
+transactions
 transcode
 transcript
 transcripts
@@ -5944,10 +5931,10 @@ translit
 transliteration
 transmission
 transparency
-transpilation
 trap
 tree
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -5963,7 +5950,6 @@ troubleshooting
 trouw
 truecrypt
 truenas
-truportal
 trusted
 trusted-host
 trustedhosts
@@ -5994,6 +5980,7 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
+twitter-timeline
 twitter-tweet
 txt
 type
@@ -6208,6 +6195,7 @@ variance
 variants
 vastlimits
 vault
+vaultextension
 vaultstore
 vba
 vbproj
@@ -6245,6 +6233,7 @@ versioncontrol
 versioning
 versionmanager
 versionnumber
+vertical
 vester
 vhd
 vhdx
@@ -6323,7 +6312,6 @@ voiceconfig
 voidtools
 volkskrant
 volume
-volumeshadowcopy
 volumio
 vorbis
 vovin
@@ -6377,7 +6365,6 @@ waitforobject
 wakeonlan
 wakeup
 walk
-wallet
 wallpaper
 wallpapers
 wannacry
@@ -6539,7 +6526,6 @@ winrar
 winrm
 winrs
 winrt
-wins
 winsat
 winscp
 wintellect
@@ -6565,6 +6551,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
@@ -6579,9 +6566,6 @@ worker
 workflow
 workflowmax
 workflows
-workingdays
-workinghours
-workingtime
 workload-automation
 workpoint
 workrequests
@@ -6631,6 +6615,7 @@ wt
 wtsapi32
 wttr
 wttr.in
+wtx
 wu
 wunderlist
 wvd
