@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 20 July 2022 09:52:47 UTC
+Updated: Wednesday, 20 July 2022 17:53:49 UTC
 
 ?:
 ??
@@ -199,6 +199,7 @@ afd
 affinity
 affinity-co
 affinity-crm
+agenda
 agent
 aggregates
 aggregation
@@ -460,7 +461,6 @@ auto-completion
 autoattendant
 autocloudarc
 autocomplete
-autocompletion
 autoenv
 autograph
 autoload
@@ -1042,8 +1042,6 @@ cluster
 clusterminimumvalues
 clusterplugins
 cmaccounts
-cmake
-cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1057,7 +1055,6 @@ cmgroupdiscovery
 cmhealth
 cmhealthcheck
 cminifile
-cmnetworkports
 cms
 cmsiteconfig
 cmsmessage
@@ -1159,6 +1156,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1513,7 +1511,6 @@ defence
 defender
 defender-atp
 defender-for-endpoint
-defenderast
 defenderforendpoint
 defense
 deflate
@@ -1611,7 +1608,6 @@ director
 directories
 directory
 directory psedition_core psedition_desktop
-directory-transform
 directorymarks
 directoryname
 directorysearcher
@@ -1651,6 +1647,7 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
+dividends
 diving
 division
 divoom
@@ -2086,6 +2083,7 @@ farmanager
 fast
 fast-dds
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2106,7 +2104,6 @@ fhirservice
 fiche
 fiddler
 fido
-fido2
 fieldglass
 fifa
 figlet
@@ -2116,6 +2113,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2123,14 +2122,13 @@ file-name-extension-association
 file-server
 file-share
 file-system
-file-transform
 file-type
 file-type-association
 fileencryption
-filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filereplication
 files
@@ -2142,6 +2140,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2319,8 +2320,6 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
-geocache
-geocaching
 geoencode
 geoencoding
 geolocation
@@ -2422,6 +2421,7 @@ gophers
 governance
 governancerulescontrolplane
 gp
+gpedit
 gpg
 gping
 gpio
@@ -2453,8 +2453,8 @@ gremlin
 grep
 greynoise
 grid
+gridfs
 grok
-groundspeak
 group
 group-policy
 groupmembership
@@ -2932,7 +2932,6 @@ javaversion
 jboss
 jdbc
 jdedwards
-jdt
 jea
 jenkins
 jetbrains
@@ -2948,14 +2947,12 @@ join
 join-object
 jojoba
 joke
-jotform
 journal
 jpg
 js7
 jsm
 jsm.insight
 json
-json-transform
 json+
 jsonplus
 jsonwebkey
@@ -3107,6 +3104,7 @@ lenovo
 lesspass
 letsencrypt
 lf
+lgpo
 libgit2
 libraries
 library
@@ -3164,6 +3162,7 @@ loanddepot
 loandepot
 local
 local-caching
+local-policy
 localadmin
 localconfigurationmanager
 localdb
@@ -3355,6 +3354,7 @@ max_path
 maximum
 maxoffice
 mb
+mbc
 mbs
 mc
 mcafee
@@ -3532,7 +3532,6 @@ mp3
 mp4
 mpc
 mpeg
-mpn
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -3828,6 +3827,7 @@ odbc
 odfb
 odin
 odoo
+offboarding
 offence
 office
 office_365
@@ -3862,6 +3862,7 @@ on-demand
 on-premise
 onboard
 onboardadministrator
+onboarding
 oncommand-insight
 ondemand
 one
@@ -3904,7 +3905,6 @@ opendata
 openedge
 openfiles
 openhere
-openid
 openidconnect
 openinghours
 openport
@@ -4001,7 +4001,6 @@ pac
 pack
 package
 package-management
-package-transform
 packagemanagement
 packagemanager
 packages
@@ -4039,7 +4038,6 @@ parool
 parquet
 parse
 parser
-parsing
 partition
 partitions
 partner
@@ -4132,7 +4130,6 @@ php
 phpapam
 pi
 picker
-picture
 pictures
 pid
 pie
@@ -4214,7 +4211,6 @@ popup
 port
 port70
 portal
-ports
 portscan
 porttest
 pos
@@ -4335,6 +4331,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -4589,7 +4586,6 @@ pulldistributionpoint
 pullrequest
 pullserver
 pulseway
-pulumi
 puppet
 puppetdb
 puppy
@@ -4941,6 +4937,7 @@ rsa
 rsat
 rshell
 rsjob
+rsop
 rss
 rt
 rtu
@@ -5122,6 +5119,7 @@ securescore
 securesphere
 securestring
 security
+security-policy
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -5214,9 +5212,11 @@ servicing
 servicingstack
 ses
 session
+sessionize
 sessions
 set
 set_bios
+set-alias
 set-githubsecrets
 set-location
 set-openfiles
@@ -5438,6 +5438,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 specification
 specify
 spectre
@@ -5575,6 +5576,7 @@ stigrepo
 stingar
 stock
 stockcharts
+stocks
 stoicism
 stoics
 stop
@@ -5929,7 +5931,6 @@ transcode
 transcript
 transcripts
 transform
-transformation
 transforms
 transitionmanager
 translate
@@ -6465,6 +6466,7 @@ wid
 wif
 wifi
 wiki
+wildcard
 wildfly
 wim
 wim2vhd
@@ -6655,7 +6657,6 @@ xclarity
 xdr
 xdschelper
 xdscresources
-xdt
 xel
 xenapp
 xendeskop
@@ -6671,7 +6672,6 @@ xliff
 xmc
 xml
 xml-rpc
-xml-transform
 xmla
 xmlrpc
 xmlutils
@@ -6711,7 +6711,6 @@ zendesk
 zerto
 zigbee
 zip
-zipfile-transform
 zoho
 zone
 zoom
