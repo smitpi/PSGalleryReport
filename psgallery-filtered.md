@@ -5,13 +5,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [NetworkScan](https://www.powershellgallery.com/Packages/NetworkScan/0.0.3) | 0.0.3
+
+### Published: 07/20/2022 00:48:59 by Jeremy Jackson
+
+Collection of Network Scanning Tools
+
+__Downloads__: 6 | __Repository__: 
+
+## [VRisingServerManager](https://www.powershellgallery.com/Packages/VRisingServerManager/0.7.0) | 0.7.0
+
+### Published: 07/19/2022 22:07:38 by github.com/edgetools
+
+Manages running multiple V Rising servers and their settings.
+
+__Downloads__: 17 | __Repository__: https://github.com/edgetools/vrising-server-manager
+
+## [ProtectStrings](https://www.powershellgallery.com/Packages/ProtectStrings/1.23.6) | 1.23.6
+
+### Published: 07/19/2022 22:00:38 by Courtney Bodett
+
+Protect string text with DPAPI or AES encryption
+
+__Downloads__: 0 | __Repository__: https://github.com/grey0ut/ProtectStrings
+
+## [Dz.Write-Message](https://www.powershellgallery.com/Packages/Dz.Write-Message/1.0.3) | 1.0.3
+
+### Published: 07/19/2022 19:28:15 by DecimalZero
+
+Write-Message is a wrapper around Write-Host allowing to display multiple colors of text on one line, and will write the same message to an audit log file. Additional formatting includes line message indentation, adding a blank line before the message, and adding a blank line after the message.
+
+__Downloads__: 4 | __Repository__: https://github.com/DecimalZero/Dz.Write-Message
+
+## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.7.20) | 22.7.20
+
+### Published: 07/19/2022 18:47:19 by David Eberhardt
+
+Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
+For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
+
+__Downloads__: 2,444 | __Repository__: 
+
+## [PS-Populi](https://www.powershellgallery.com/Packages/PS-Populi/0.0.32) | 0.0.32
+
+### Published: 07/19/2022 18:04:32 by sqone2
+
+PowerShell + Populi
+
+__Downloads__: 69 | __Repository__: 
+
+## [UniversalDashboard.Windows](https://www.powershellgallery.com/Packages/UniversalDashboard.Windows/0.0.4) | 0.0.4
+
+### Published: 07/19/2022 17:54:16 by Adam Driscoll
+
+Universal Dashboard components for Windows
+
+__Downloads__: 414 | __Repository__: https://github.com/ironmansoftware/powershell-universal
+
 ## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.36) | 1.1.36
 
 ### Published: 07/19/2022 17:35:53 by nwood
 
 AKS HCI Module
 
-__Downloads__: 37,304 | __Repository__: 
+__Downloads__: 37,320 | __Repository__: 
 
 ## [Moc](https://www.powershellgallery.com/Packages/Moc/1.0.28) | 1.0.28
 
@@ -27,7 +84,7 @@ __Downloads__: 57,497 | __Repository__:
 
 KVA Module
 
-__Downloads__: 37,388 | __Repository__: 
+__Downloads__: 37,402 | __Repository__: 
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.1.4) | 3.1.4
 
@@ -51,7 +108,7 @@ __Downloads__: 15,684 | __Repository__: https://github.com/AymericM78/PowerDataO
 
 nic.ru dns api
 
-__Downloads__: 0 | __Repository__: https://github.com/MVKozlov/GMNicRuDnsApi
+__Downloads__: 6 | __Repository__: https://github.com/MVKozlov/GMNicRuDnsApi
 
 ## [Skaldhor.HelperFunctions](https://www.powershellgallery.com/Packages/Skaldhor.HelperFunctions/0.0.3) | 0.0.3
 
@@ -548,7 +605,7 @@ __Downloads__: 583 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Identity Service
 
-__Downloads__: 2,685 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,684 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/36.1.0) | 36.1.0
 
@@ -748,7 +805,7 @@ __Downloads__: 1,313 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Database Service
 
-__Downloads__: 1,810 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,809 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/36.1.0) | 36.1.0
 
@@ -764,7 +821,7 @@ __Downloads__: 795 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Core Service
 
-__Downloads__: 6,817 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 6,816 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Containerengine](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerengine/36.1.0) | 36.1.0
 
@@ -988,15 +1045,7 @@ __Downloads__: 237 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 44,581 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [PS-Populi](https://www.powershellgallery.com/Packages/PS-Populi/0.0.31) | 0.0.31
-
-### Published: 07/19/2022 13:18:46 by sqone2
-
-PowerShell + Populi
-
-__Downloads__: 69 | __Repository__: 
+__Downloads__: 44,585 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22200.31053) | 4.4.22200.31053
 
@@ -1004,7 +1053,7 @@ __Downloads__: 69 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,003,038 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,003,077 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.4.0.23) | 0.4.0.23
 
@@ -1126,14 +1175,6 @@ A Helpful Toolkit for Managing PowerShell Help
 
 __Downloads__: 410 | __Repository__: https://github.com/StartAutomating/HelpOut
 
-## [VRisingServerManager](https://www.powershellgallery.com/Packages/VRisingServerManager/0.6.0) | 0.6.0
-
-### Published: 07/18/2022 22:10:12 by github.com/edgetools
-
-Manages running multiple V Rising servers and their settings.
-
-__Downloads__: 17 | __Repository__: https://github.com/edgetools/vrising-server-manager
-
 ## [HPEOneView.630](https://www.powershellgallery.com/Packages/HPEOneView.630/6.30.3188.1900) | 6.30.3188.1900
 
 ### Published: 07/18/2022 22:08:44 by Hewlett-Packard Enterprise
@@ -1222,15 +1263,6 @@ ProjectWise PowerShell Cmdlets from System Architecture Group
 
 __Downloads__: 62,191 | __Repository__: 
 
-## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.7.19) | 22.7.19
-
-### Published: 07/18/2022 18:50:14 by David Eberhardt
-
-Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
-For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
-
-__Downloads__: 2,444 | __Repository__: 
-
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.5) | 0.2.5
 
 ### Published: 07/18/2022 18:48:08 by James Brundage
@@ -1240,14 +1272,6 @@ ugit:  Updated Git.
 A powerful PowerShell wrapper for git that lets you extend git, automate multiple repos, and use the object pipeline.
 
 __Downloads__: 133 | __Repository__: https://github.com/StartAutomating/ugit
-
-## [QADHealthcheck](https://www.powershellgallery.com/Packages/QADHealthcheck/0.18.1807.1511) | 0.18.1807.1511
-
-### Published: 07/18/2022 18:19:42 by Gary Cook
-
-Quest AD HealthCheck Module
-
-__Downloads__: 378 | __Repository__: 
 
 ## [PSGraphQL](https://www.powershellgallery.com/Packages/PSGraphQL/1.5.6) | 1.5.6
 
@@ -1307,15 +1331,7 @@ __Downloads__: 199,839 | __Repository__: https://github.com/Snow-Shell/serviceno
 
 A module for storing and reading configuration values, with full PS Data serialization, automatic configuration for modules and scripts, etc.
 
-__Downloads__: 242,208 | __Repository__: https://github.com/PoshCode/Configuration
-
-## [NetworkScan](https://www.powershellgallery.com/Packages/NetworkScan/0.0.2) | 0.0.2
-
-### Published: 07/18/2022 13:12:26 by Jeremy Jackson
-
-Collection of Network Scanning Tools
-
-__Downloads__: 6 | __Repository__: 
+__Downloads__: 242,471 | __Repository__: https://github.com/PoshCode/Configuration
 
 ## [pspda](https://www.powershellgallery.com/Packages/pspda/1.0) | 1.0
 
@@ -1371,7 +1387,7 @@ __Downloads__: 59 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 702,898 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 705,641 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [BeneathTheCanals](https://www.powershellgallery.com/Packages/BeneathTheCanals/0.1.3) | 0.1.3
 
@@ -1404,7 +1420,7 @@ __Downloads__: 489 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,708,438 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,708,493 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [PSWinRAR](https://www.powershellgallery.com/Packages/PSWinRAR/0.2.11) | 0.2.11
 
@@ -1436,7 +1452,7 @@ __Downloads__: 1 | __Repository__:
 
 An Extensible Transpiler for PowerShell (and anything else)
 
-__Downloads__: 29 | __Repository__: https://github.com/StartAutomating/PipeScript
+__Downloads__: 30 | __Repository__: https://github.com/StartAutomating/PipeScript
 
 ## [TrainingUtils.SASS](https://www.powershellgallery.com/Packages/TrainingUtils.SASS/1.0) | 1.0
 
@@ -1543,14 +1559,6 @@ Module to work the Microsoft Graph API using both AzureAD 'work or school' accou
 
 __Downloads__: 1,052 | __Repository__: https://github.com/jhoneill/MsftGraph
 
-## [PPSLogModule](https://www.powershellgallery.com/Packages/PPSLogModule/0.1.6) | 0.1.6
-
-### Published: 07/15/2022 06:32:47 by kade.hampson
-
-PPSLogModule
-
-__Downloads__: 101 | __Repository__: 
-
 ## [PSComData](https://www.powershellgallery.com/Packages/PSComData/0.2.1) | 0.2.1
 
 ### Published: 07/15/2022 04:32:47 by FingerhutAsCode
@@ -1575,14 +1583,6 @@ __Downloads__: 11,610 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 Converts the file obtained from ion beam measurents to the ascii data format (two columns) SIMNRA can read. PowerShell 7.x is required.
 
 __Downloads__: 33 | __Repository__: https://github.com/YIsoda/IonBeamDataProcessTools
-
-## [Dz.Write-Message](https://www.powershellgallery.com/Packages/Dz.Write-Message/1.0.2) | 1.0.2
-
-### Published: 07/15/2022 04:05:55 by DecimalZero
-
-Write-Message is a wrapper around Write-Host allowing to display multiple colors of text on one line, and will write the same message to an audit log file. Additional formatting includes line message indentation, adding a blank line before the message, and adding a blank line after the message.
-
-__Downloads__: 4 | __Repository__: https://github.com/DecimalZero/Dz.Write-Message
 
 ## [TrainingUtilsAGC2](https://www.powershellgallery.com/Packages/TrainingUtilsAGC2/1.0) | 1.0
 
@@ -1646,7 +1646,7 @@ __Downloads__: 7,200 | __Repository__: https://github.com/wetling23/logicmonitor
 
 Module for installing basic programs. You can use functions here to download the installer from a download link; Use that installer to install the program; Verify the program/service that was installed, then; clean up the installer.
 
-__Downloads__: 3,152 | __Repository__: 
+__Downloads__: 3,151 | __Repository__: 
 
 ## [PowerShellNotebook](https://www.powershellgallery.com/Packages/PowerShellNotebook/2.9.4) | 2.9.4
 
@@ -1711,15 +1711,7 @@ __Downloads__: 19 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,751,688 | __Repository__: https://dbatools.io/
-
-## [ScriptLog](https://www.powershellgallery.com/Packages/ScriptLog/0.3.1) | 0.3.1
-
-### Published: 07/14/2022 09:10:09 by Kaare Overgaard
-
-A module providing consistent and rich logging for your PowerShell scripts.
-
-__Downloads__: 20 | __Repository__: https://github.com/kovergard/ScriptLog
+__Downloads__: 1,751,721 | __Repository__: https://dbatools.io/
 
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.7078) | 1.0.11.7078
 
@@ -1863,7 +1855,7 @@ __Downloads__: 21 | __Repository__:
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 226,268 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 226,679 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [FineFormat](https://www.powershellgallery.com/Packages/FineFormat/1.0.2) | 1.0.2
 
@@ -1903,7 +1895,7 @@ __Downloads__: 15 | __Repository__:
 
 Gary Blok New Stuff Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 256,343 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 257,513 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.7.12.1) | 22.7.12.1
 
@@ -1957,7 +1949,7 @@ __Downloads__: 4,750,511 | __Repository__:
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Nsx.Policy API.
 
-__Downloads__: 337,431 | __Repository__: 
+__Downloads__: 343,039 | __Repository__: 
 
 ## [VMware.VimAutomation.Hcx](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Hcx/12.7.0.20091291) | 12.7.0.20091291
 
@@ -1965,7 +1957,7 @@ __Downloads__: 337,431 | __Repository__:
 
 This Windows PowerShell module contains PowerCLI HCX cmdlets.
 
-__Downloads__: 4,313,309 | __Repository__: 
+__Downloads__: 4,313,447 | __Repository__: 
 
 ## [VMware.VimAutomation.HorizonView](https://www.powershellgallery.com/Packages/VMware.VimAutomation.HorizonView/12.7.0.20029144) | 12.7.0.20029144
 
@@ -2029,7 +2021,7 @@ __Downloads__: 8,267,095 | __Repository__:
 
 This Windows PowerShell module contains PowerCLI Sdk.
 
-__Downloads__: 8,468,205 | __Repository__: 
+__Downloads__: 8,482,318 | __Repository__: 
 
 ## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2022.7.0) | 2022.7.0
 
@@ -2047,4 +2039,12 @@ Azure AKS powershell command for Piraeus.
 
 __Downloads__: 619 | __Repository__: https://github.com/skunklab/piraeus
 
-*Updated: Tuesday, 19 July 2022 17:54:25 UTC*
+## [PowerShellProtect](https://www.powershellgallery.com/Packages/PowerShellProtect/2022.7.0) | 2022.7.0
+
+### Published: 07/12/2022 11:54:35 by Ironman Software
+
+Audit and block PowerShell scripts on Windows machines.
+
+__Downloads__: 968 | __Repository__: https://docs.poshtools.com/powershell-pro-tools-documentation/powershell-protect
+
+*Updated: Wednesday, 20 July 2022 02:38:40 UTC*

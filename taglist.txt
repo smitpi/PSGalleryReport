@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 19 July 2022 17:54:37 UTC
+Updated: Wednesday, 20 July 2022 02:38:50 UTC
 
 ?:
 ??
@@ -294,7 +294,6 @@ aovpn psmodule
 apache
 api
 api-client
-api-gateway
 apichecks
 apiclient
 apigateway
@@ -325,6 +324,7 @@ apple
 application
 application-transformer
 applicationgateway
+applicationgrid
 applicationinsights
 applicationmigration
 applicationmonitor
@@ -424,7 +424,6 @@ atlassiancli
 atlassianps
 atmosphere
 atrium
-att&ck
 attestation
 attila
 attilakrick
@@ -588,7 +587,6 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
-azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -692,6 +690,7 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
+blackbox
 blacklist
 blade
 bladeserver
@@ -947,7 +946,6 @@ ciminstance
 cims
 cimsession
 cinegy
-cinema
 cinst
 cipher
 circuit-breaker
@@ -1689,7 +1687,6 @@ docfx
 dock
 docker
 docker-compose
-docker-image
 docker-machine
 docker-volumes
 dockerfile
@@ -1703,6 +1700,7 @@ documentencryption
 documenting
 documents
 docusaurus
+docusign
 docx
 dod
 dog
@@ -1758,6 +1756,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 ds
 ds-client
@@ -1814,13 +1814,11 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
-dynatrace
 dyndns
 dynmanageddns
 e-mail
 easy
 easy-to-use
-easylife365
 easyvista
 eaton
 ebay
@@ -1834,7 +1832,6 @@ edge
 edgegateway
 edgeorder
 ediscovery
-edit
 editor
 editorservices
 edr
@@ -2153,7 +2150,6 @@ filetransfer
 filetype
 filewrite
 fill
-film
 filter
 filter-item
 filtering
@@ -2252,6 +2248,8 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
+front
+frontapp
 frontdoor
 frontrange
 fs
@@ -2594,6 +2592,7 @@ homebrew
 homelandsecurity
 homeschooling
 hon
+horizontal
 hornbill
 host
 host-based
@@ -2689,7 +2688,6 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
-icloud
 icmp
 icon
 icons
@@ -3077,6 +3075,7 @@ latitude
 launcher
 layer
 layman
+layout
 lazywinadmin
 lbd
 lbi
@@ -3496,7 +3495,6 @@ mlflow
 mmdc
 mobile
 mobilitycontroller
-mock
 mocking
 modify
 module
@@ -3525,6 +3523,7 @@ monitoringsolutions
 monthlyupdate
 moodle
 moonshot
+mosaic
 motd
 mount
 mouse
@@ -4332,7 +4331,6 @@ pranks
 predicate
 prediction
 predictor
-preferences
 prefix
 preparead
 preparealldomains
@@ -4651,7 +4649,6 @@ query
 queue
 queues
 queuing
-quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -4703,7 +4700,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -5055,7 +5051,6 @@ scissors
 scm
 scmanager
 scom
-sconfig
 scoop
 scope
 score
@@ -5068,6 +5063,7 @@ scrape
 scraper
 screen
 screencap
+screencapture
 screenconnect
 screenfetch
 screenresolution
@@ -5308,7 +5304,6 @@ simplivity
 simplysql
 sin
 single
-singlestore
 singleton
 sinks
 sintez
@@ -5611,6 +5606,7 @@ string-template
 stringmanager
 stringmanagertool
 strings
+stringutilities
 strip-ansi
 stripe
 strongname
@@ -5668,7 +5664,6 @@ svt
 swagger
 swamid
 swarm
-swimlane
 swis
 switch
 sxs
@@ -5793,7 +5788,6 @@ telnet
 temp
 temperature
 template
-template-engine
 templates
 templating
 temporary
@@ -5856,7 +5850,6 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
-thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -6119,7 +6112,6 @@ universal-dashboard
 universaldashboard
 university
 unix
-unlinked
 unlock
 unprotect
 unsupported
@@ -6212,7 +6204,6 @@ vao
 variable
 variables
 variance
-variants
 vastlimits
 vault
 vaultextension
@@ -6253,6 +6244,7 @@ versioncontrol
 versioning
 versionmanager
 versionnumber
+vertical
 vester
 vhd
 vhdx
@@ -6362,6 +6354,7 @@ vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
@@ -6546,7 +6539,6 @@ winrar
 winrm
 winrs
 winrt
-wins
 winsat
 winscp
 wintellect
