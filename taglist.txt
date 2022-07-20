@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 20 July 2022 02:38:50 UTC
+Updated: Wednesday, 20 July 2022 09:52:47 UTC
 
 ?:
 ??
@@ -199,7 +199,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-agenda
 agent
 aggregates
 aggregation
@@ -294,6 +293,7 @@ aovpn psmodule
 apache
 api
 api-client
+api-gateway
 apichecks
 apiclient
 apigateway
@@ -424,6 +424,7 @@ atlassiancli
 atlassianps
 atmosphere
 atrium
+att&ck
 attestation
 attila
 attilakrick
@@ -587,6 +588,7 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
+azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -946,6 +948,7 @@ ciminstance
 cims
 cimsession
 cinegy
+cinema
 cinst
 cipher
 circuit-breaker
@@ -1156,7 +1159,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1649,7 +1651,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -1687,6 +1688,7 @@ docfx
 dock
 docker
 docker-compose
+docker-image
 docker-machine
 docker-volumes
 dockerfile
@@ -1722,6 +1724,7 @@ dotnet
 dotnet-cli
 dotnettool
 dotps1
+dots
 dotteddecimalip
 doubleclick
 download
@@ -1814,11 +1817,13 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dyndns
 dynmanageddns
 e-mail
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -1832,6 +1837,7 @@ edge
 edgegateway
 edgeorder
 ediscovery
+edit
 editor
 editorservices
 edr
@@ -2080,7 +2086,6 @@ farmanager
 fast
 fast-dds
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2111,8 +2116,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2128,7 +2131,6 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filereplication
 files
@@ -2140,9 +2142,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2150,6 +2149,7 @@ filetransfer
 filetype
 filewrite
 fill
+film
 filter
 filter-item
 filtering
@@ -2193,6 +2193,7 @@ flex
 flex-query
 flexdesk
 flickr
+flowchart
 flowy
 fluidrelay
 flyway
@@ -2421,7 +2422,6 @@ gophers
 governance
 governancerulescontrolplane
 gp
-gpedit
 gpg
 gping
 gpio
@@ -2453,7 +2453,6 @@ gremlin
 grep
 greynoise
 grid
-gridfs
 grok
 groundspeak
 group
@@ -2688,6 +2687,7 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
+icloud
 icmp
 icon
 icons
@@ -3107,7 +3107,6 @@ lenovo
 lesspass
 letsencrypt
 lf
-lgpo
 libgit2
 libraries
 library
@@ -3165,7 +3164,6 @@ loanddepot
 loandepot
 local
 local-caching
-local-policy
 localadmin
 localconfigurationmanager
 localdb
@@ -3357,14 +3355,13 @@ max_path
 maximum
 maxoffice
 mb
-mbc
 mbs
 mc
 mcafee
 mcas
 mchapv2
 md5
-md5_v2-5f7283722ad802c5bb623f4e99a95187
+md5_v2-cab74de6d46849bb65d13090ba518cda
 md5sum
 mdatp
 mdb
@@ -3495,6 +3492,7 @@ mlflow
 mmdc
 mobile
 mobilitycontroller
+mock
 mocking
 modify
 module
@@ -3830,7 +3828,6 @@ odbc
 odfb
 odin
 odoo
-offboarding
 offence
 office
 office_365
@@ -3865,7 +3862,6 @@ on-demand
 on-premise
 onboard
 onboardadministrator
-onboarding
 oncommand-insight
 ondemand
 one
@@ -4331,6 +4327,7 @@ pranks
 predicate
 prediction
 predictor
+preferences
 prefix
 preparead
 preparealldomains
@@ -4338,7 +4335,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -4649,6 +4645,7 @@ query
 queue
 queues
 queuing
+quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -4700,6 +4697,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -4943,7 +4941,6 @@ rsa
 rsat
 rshell
 rsjob
-rsop
 rss
 rt
 rtu
@@ -5051,6 +5048,7 @@ scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 score
@@ -5124,7 +5122,6 @@ securescore
 securesphere
 securestring
 security
-security-policy
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -5217,11 +5214,9 @@ servicing
 servicingstack
 ses
 session
-sessionize
 sessions
 set
 set_bios
-set-alias
 set-githubsecrets
 set-location
 set-openfiles
@@ -5304,6 +5299,7 @@ simplivity
 simplysql
 sin
 single
+singlestore
 singleton
 sinks
 sintez
@@ -5442,7 +5438,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 specification
 specify
 spectre
@@ -5580,7 +5575,6 @@ stigrepo
 stingar
 stock
 stockcharts
-stocks
 stoicism
 stoics
 stop
@@ -5664,6 +5658,7 @@ svt
 swagger
 swamid
 swarm
+swimlane
 swis
 switch
 sxs
@@ -5788,6 +5783,7 @@ telnet
 temp
 temperature
 template
+template-engine
 templates
 templating
 temporary
@@ -5850,6 +5846,7 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
+thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -6112,6 +6109,7 @@ universal-dashboard
 universaldashboard
 university
 unix
+unlinked
 unlock
 unprotect
 unsupported
@@ -6204,6 +6202,7 @@ vao
 variable
 variables
 variance
+variants
 vastlimits
 vault
 vaultextension
@@ -6466,7 +6465,6 @@ wid
 wif
 wifi
 wiki
-wildcard
 wildfly
 wim
 wim2vhd
@@ -6539,6 +6537,7 @@ winrar
 winrm
 winrs
 winrt
+wins
 winsat
 winscp
 wintellect
