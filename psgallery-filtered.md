@@ -5,6 +5,87 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ADDSAuditTasks](https://www.powershellgallery.com/Packages/ADDSAuditTasks/1.6.0) | 1.6.0
+
+### Published: 07/21/2022 17:23:01 by DrIOSX
+
+Tasks for auditing Active Directory
+
+__Downloads__: 1,460 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADDSAuditTasks
+
+## [firstvoucher.Client](https://www.powershellgallery.com/Packages/firstvoucher.Client/2.3.21) | 2.3.21
+
+### Published: 07/21/2022 17:00:47 by firstvoucher.com
+
+firstvoucher.com PowerShell Module
+
+__Downloads__: 326 | __Repository__: 
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.117) | 1.1.117
+
+### Published: 07/21/2022 16:39:59 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,758,604 | __Repository__: https://dbatools.io/
+
+## [PSConfigFile](https://www.powershellgallery.com/Packages/PSConfigFile/0.1.27) | 0.1.27
+
+### Published: 07/21/2022 16:13:23 by Pierre Smit
+
+Creates a Config file with Commands, Variables, PSDrives, Credentials, Aliases\Shortcuts and a Default Starting location. You can then execute this config file when your profile is loaded, or when a specific module is imported, or you can run it manually. This way you can quickly and easily switch between "environment setups" with these default values
+
+__Downloads__: 182 | __Repository__: https://github.com/smitpi/PSConfigFile
+
+## [NTS-ConfigMgrTools](https://www.powershellgallery.com/Packages/NTS-ConfigMgrTools/1.0.0.1) | 1.0.0.1
+
+### Published: 07/21/2022 14:28:24 by Moritz Wiedmann
+
+NTS-ConfigMgrTools module contains tools for ConfigMgr and cource deployment
+
+__Downloads__: 1 | __Repository__: 
+
+## [mySQLite](https://www.powershellgallery.com/Packages/mySQLite/0.7.0) | 0.7.0
+
+### Published: 07/21/2022 14:19:29 by Jeff Hicks
+
+A set of PowerShell commands for working with SQLite database files. This is a simple alternative to installing any version of SQL Server on your desktop. Note that this module will only work on Windows platforms.
+
+__Downloads__: 3 | __Repository__: https://github.com/jdhitsolutions/MySQLite
+
+## [PSWinGet](https://www.powershellgallery.com/Packages/PSWinGet/1.0.0.2) | 1.0.0.2
+
+### Published: 07/21/2022 12:19:41 by Michal Gajda
+
+This module contain functions to manage WinGet Client.
+
+__Downloads__: 1 | __Repository__: https://github.com/mgajda83/PSWinGet
+
+## [0install](https://www.powershellgallery.com/Packages/0install/2.23.9) | 2.23.9
+
+### Published: 07/21/2022 11:51:21 by Bastian Eicher
+
+Zero Install is a decentralized cross-platform software-installation system.
+
+__Downloads__: 1,398,208 | __Repository__: https://0install.net/
+
+## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.7.21) | 22.7.21
+
+### Published: 07/21/2022 11:38:32 by David Eberhardt
+
+Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
+For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
+
+__Downloads__: 2,459 | __Repository__: 
+
+## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.57) | 6.0.57
+
+### Published: 07/21/2022 10:53:33 by Beckhoff
+
+Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
+
+__Downloads__: 7,486 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+
 ## [AppInsights](https://www.powershellgallery.com/Packages/AppInsights/1.0.1027) | 1.0.1027
 
 ### Published: 07/21/2022 09:43:43 by Sven Grav
@@ -16,14 +97,6 @@ AppInsights is a PowerShell module that provides Cmdlets to send logs and traces
     https://github.com/svengrav/appinsights-powershell
 
 __Downloads__: 4,265 | __Repository__: https://github.com/svengrav/appinsights-powershell
-
-## [NTS-ConfigMgrTools](https://www.powershellgallery.com/Packages/NTS-ConfigMgrTools/1.0.0.0) | 1.0.0.0
-
-### Published: 07/21/2022 09:27:30 by Moritz Wiedmann
-
-NTS-ConfigMgrTools module contains tools for ConfigMgr and cource deployment
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PsLogicAppExtractor](https://www.powershellgallery.com/Packages/PsLogicAppExtractor/0.5.13) | 0.5.13
 
@@ -40,14 +113,6 @@ __Downloads__: 93 | __Repository__: https://github.com/LogicAppCollaborative/PsL
 PowerShell module for listing NRC articles
 
 __Downloads__: 1,442 | __Repository__: https://github.com/jhoek/UncommonSense.Nrc
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.116) | 1.1.116
-
-### Published: 07/21/2022 08:41:03 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,758,650 | __Repository__: https://dbatools.io/
 
 ## [powershell-logging](https://www.powershellgallery.com/Packages/powershell-logging/3.1.0) | 3.1.0
 
@@ -80,14 +145,6 @@ __Downloads__: 97 | __Repository__: https://github.com/bjompen/PSSecretScanner
 Adds tab completion for many commandline tools.
 
 __Downloads__: 1 | __Repository__: https://github.com/artiga033/Pwsh-Complete
-
-## [PSConfigFile](https://www.powershellgallery.com/Packages/PSConfigFile/0.1.26) | 0.1.26
-
-### Published: 07/21/2022 05:37:37 by Pierre Smit
-
-Creates a Config file with Commands, Variables, PSDrives, Credentials, Aliases\Shortcuts and a Default Starting location. You can then execute this config file when your profile is loaded, or when a specific module is imported, or you can run it manually. This way you can quickly and easily switch between "environment setups" with these default values
-
-__Downloads__: 182 | __Repository__: https://github.com/smitpi/PSConfigFile
 
 ## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.186) | 0.0.0.186
 
@@ -183,7 +240,7 @@ __Downloads__: 23 | __Repository__: https://www.powershellgallery.com/packages/S
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 116,038 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 116,037 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.243.103) | 1.243.103
 
@@ -191,7 +248,7 @@ __Downloads__: 116,038 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 17,834 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 17,833 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [LdapTools](https://www.powershellgallery.com/Packages/LdapTools/1.1.6) | 1.1.6
 
@@ -224,14 +281,6 @@ __Downloads__: 34 | __Repository__: https://github.com/sangafabrice/reg-cli
 Some description here and there
 
 __Downloads__: 55 | __Repository__: https://github.com/BusHero/pester.extenssions
-
-## [mySQLite](https://www.powershellgallery.com/Packages/mySQLite/0.6.0) | 0.6.0
-
-### Published: 07/20/2022 17:17:40 by Jeff Hicks
-
-A set of PowerShell commands for working with SQLite database files. This is a simple alternative to installing any version of SQL Server on your desktop.
-
-__Downloads__: 3 | __Repository__: https://github.com/jdhitsolutions/MySQLite
 
 ## [PSBicepApiManagement](https://www.powershellgallery.com/Packages/PSBicepApiManagement/0.2.1) | 0.2.1
 
@@ -347,15 +396,6 @@ Protect string text with DPAPI or AES encryption
 
 __Downloads__: 7 | __Repository__: https://github.com/grey0ut/ProtectStrings
 
-## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.7.20) | 22.7.20
-
-### Published: 07/19/2022 18:47:19 by David Eberhardt
-
-Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
-For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
-
-__Downloads__: 2,459 | __Repository__: 
-
 ## [UniversalDashboard.Windows](https://www.powershellgallery.com/Packages/UniversalDashboard.Windows/0.0.4) | 0.0.4
 
 ### Published: 07/19/2022 17:54:16 by Adam Driscoll
@@ -402,7 +442,7 @@ __Downloads__: 25,473 | __Repository__: https://ironmansoftware.com/powershell-u
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 15,821 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 15,819 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [GMNicRuDnsApi](https://www.powershellgallery.com/Packages/GMNicRuDnsApi/0.0.0.1) | 0.0.0.1
 
@@ -1397,14 +1437,6 @@ This module displays session information of users logged onto a local or remote 
 
 __Downloads__: 4 | __Repository__: 
 
-## [TimeZones](https://www.powershellgallery.com/Packages/TimeZones/1.0.3) | 1.0.3
-
-### Published: 07/19/2022 09:31:32 by Simon Godefroy - Simon.Godefroy@FocusedIT.co.uk
-
-A Module to get the time in a Time Zone or get the Local Time from the time in a Time Zone
-
-__Downloads__: 28 | __Repository__: 
-
 ## [roe.Misc](https://www.powershellgallery.com/Packages/roe.Misc/0.1.2) | 0.1.2
 
 ### Published: 07/19/2022 08:38:09 by Robert Eriksen
@@ -1541,7 +1573,7 @@ __Downloads__: 405 | __Repository__:
 
 This PowerShell module contains functions that facilitate querying and create, update, and delete (mutations) operations for GraphQL endpoints.
 
-__Downloads__: 2,256 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
+__Downloads__: 2,257 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
 
 ## [PSProjectStatus](https://www.powershellgallery.com/Packages/PSProjectStatus/0.8.1) | 0.8.1
 
@@ -1662,7 +1694,7 @@ __Downloads__: 490 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,719,290 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,719,215 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [PSWinRAR](https://www.powershellgallery.com/Packages/PSWinRAR/0.2.11) | 0.2.11
 
@@ -2003,36 +2035,4 @@ Modulo 3
 
 __Downloads__: 75 | __Repository__: 
 
-## [BioNameGenerator](https://www.powershellgallery.com/Packages/BioNameGenerator/1.0.4) | 1.0.4
-
-### Published: 07/13/2022 22:00:30 by Davi Marcon
-
-A name generator for projects, versions and other stuff written in powershell
-
-__Downloads__: 72 | __Repository__: https://github.com/Mxrcon/BioNameGenerator
-
-## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.3.1) | 1.3.1
-
-### Published: 07/13/2022 21:26:07 by Richard M. Hicks
-
-PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
-
-__Downloads__: 221 | __Repository__: 
-
-## [ds-utils](https://www.powershellgallery.com/Packages/ds-utils/1.3.5) | 1.3.5
-
-### Published: 07/13/2022 20:25:35 by David Stein
-
-Miscellaneous utilities by a miscellaneous human
-
-__Downloads__: 393 | __Repository__: https://github.com/Skatterbrainz/ds-utils
-
-## [Exchange_AddIn](https://www.powershellgallery.com/Packages/Exchange_AddIn/2.0.4) | 2.0.4
-
-### Published: 07/13/2022 20:11:08 by mconeill
-
-This is a compilation of Exchange (on premises, online, and hybrid) related scripts and functions packaged into a single module with verb-noun cmdlets for engineers to easily run and rerun as needed.
-
-__Downloads__: 3,379 | __Repository__: 
-
-*Updated: Thursday, 21 July 2022 09:55:34 UTC*
+*Updated: Thursday, 21 July 2022 17:53:46 UTC*

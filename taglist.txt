@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 July 2022 09:55:46 UTC
+Updated: Thursday, 21 July 2022 17:54:00 UTC
 
 ?:
 ??
@@ -26,6 +26,7 @@ Updated: Thursday, 21 July 2022 09:55:46 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -42,7 +43,6 @@ Updated: Thursday, 21 July 2022 09:55:46 UTC
 3d
 3dprinting
 3par
-50
 64
 650
 650flb
@@ -110,6 +110,7 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
+activeefficiency
 activeresponse
 activesession
 activiti
@@ -2131,6 +2132,7 @@ file-transform
 file-type
 file-type-association
 fileencryption
+filelist
 filelog
 filelogger
 filemanagement
@@ -2205,6 +2207,7 @@ flowy
 fluidrelay
 flyway
 fmg
+focus
 fod
 fog
 fogapi
@@ -2905,6 +2908,7 @@ iselevated
 isesteroids
 ish
 ishexstring
+ism
 isnumeric
 iso
 iso-3166-1
@@ -2923,6 +2927,7 @@ itop
 itsm
 itstore
 ivanti
+ivantips
 ivb
 ivdc
 iwi
@@ -3271,6 +3276,7 @@ macaddress
 machine
 machinelearning
 machinelearningcompute
+machinelearningservices
 macmon
 macos
 macosx
@@ -4236,7 +4242,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshdyndnsapi
@@ -4576,7 +4581,6 @@ pstwitter
 pswa
 pswindocumentation
 pswinreporting
-pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -4657,7 +4661,6 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quota
@@ -4720,7 +4723,6 @@ read-slog
 readable
 readiness
 readme
-readpdf
 readthedocs
 realschule
 rebase
@@ -5471,7 +5473,6 @@ speedtester
 spf
 spi
 spinnaker
-splash
 splat
 splatting
 split
@@ -6091,7 +6092,6 @@ uefi
 ui
 ui/ux
 ui7
-uk
 ul
 ulid
 ulm
@@ -6462,7 +6462,6 @@ webtime
 wec
 wecutil
 weekday
-wef
 weixin
 well-known
 wem
