@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 20 July 2022 17:53:49 UTC
+Updated: Thursday, 21 July 2022 02:40:49 UTC
 
 ?:
 ??
@@ -461,6 +461,7 @@ auto-completion
 autoattendant
 autocloudarc
 autocomplete
+autocompletion
 autoenv
 autograph
 autoload
@@ -557,7 +558,6 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
-azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -886,7 +886,6 @@ certificates
 certificateservices
 certificatesmanagement
 certutil
-cf
 cfn
 ch9
 change
@@ -1042,6 +1041,8 @@ cluster
 clusterminimumvalues
 clusterplugins
 cmaccounts
+cmake
+cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1055,6 +1056,7 @@ cmgroupdiscovery
 cmhealth
 cmhealthcheck
 cminifile
+cmnetworkports
 cms
 cmsiteconfig
 cmsmessage
@@ -1161,7 +1163,6 @@ confidentialclient
 confidentialledger
 config
 configapi
-configascode
 configdata
 configkey
 configmgr
@@ -1511,6 +1512,7 @@ defence
 defender
 defender-atp
 defender-for-endpoint
+defenderast
 defenderforendpoint
 defense
 deflate
@@ -1553,7 +1555,6 @@ detectionrule
 deutsch
 deutschland
 dev
-dev-tools
 devart
 devdeer
 developer
@@ -1608,6 +1609,7 @@ director
 directories
 directory
 directory psedition_core psedition_desktop
+directory-transform
 directorymarks
 directoryname
 directorysearcher
@@ -2089,7 +2091,6 @@ fastlookup
 fastping
 favorites
 fb-pro
-fciv
 fd
 feature
 features
@@ -2104,6 +2105,7 @@ fhirservice
 fiche
 fiddler
 fido
+fido2
 fieldglass
 fifa
 figlet
@@ -2122,9 +2124,11 @@ file-name-extension-association
 file-server
 file-share
 file-system
+file-transform
 file-type
 file-type-association
 fileencryption
+filelist
 filelog
 filelogger
 filemanagement
@@ -2320,6 +2324,8 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
+geocache
+geocaching
 geoencode
 geoencoding
 geolocation
@@ -2455,6 +2461,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-policy
 groupmembership
@@ -2932,6 +2939,7 @@ javaversion
 jboss
 jdbc
 jdedwards
+jdt
 jea
 jenkins
 jetbrains
@@ -2947,12 +2955,14 @@ join
 join-object
 jojoba
 joke
+jotform
 journal
 jpg
 js7
 jsm
 jsm.insight
 json
+json-transform
 json+
 jsonplus
 jsonwebkey
@@ -3135,7 +3145,6 @@ linkid
 linq
 linqpad
 lint
-linting
 linux
 linux-command
 linuxssh
@@ -3471,7 +3480,6 @@ mim
 mimekit
 min
 mindmeister
-minecraft
 minifier
 minimal
 minimum
@@ -3532,6 +3540,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -3905,6 +3914,7 @@ opendata
 openedge
 openfiles
 openhere
+openid
 openidconnect
 openinghours
 openport
@@ -3925,7 +3935,6 @@ operationvalidation
 operatoraccesscontrol
 operators
 opml
-ops
 opsi
 opsmgr
 optics
@@ -4001,6 +4010,7 @@ pac
 pack
 package
 package-management
+package-transform
 packagemanagement
 packagemanager
 packages
@@ -4038,6 +4048,7 @@ parool
 parquet
 parse
 parser
+parsing
 partition
 partitions
 partner
@@ -4130,6 +4141,7 @@ php
 phpapam
 pi
 picker
+picture
 pictures
 pid
 pie
@@ -4211,6 +4223,7 @@ popup
 port
 port70
 portal
+ports
 portscan
 porttest
 pos
@@ -4484,7 +4497,6 @@ psexcel
 psexec
 psexec.exe
 psexpandline
-psfciv
 psfitbit
 psfive9
 psfive9admin
@@ -4586,6 +4598,7 @@ pulldistributionpoint
 pullrequest
 pullserver
 pulseway
+pulumi
 puppet
 puppetdb
 puppy
@@ -5089,7 +5102,6 @@ sddl
 sdk
 sdn
 search
-search-adminauditlog
 searchengine
 searching
 searchplace
@@ -5231,6 +5243,7 @@ settings
 setup
 setupbasic.publish
 setupbasic.template
+setupbasic.update
 sevenzip
 sf
 sfb
@@ -5931,6 +5944,7 @@ transcode
 transcript
 transcripts
 transform
+transformation
 transforms
 transitionmanager
 translate
@@ -6045,7 +6059,6 @@ ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
-ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
@@ -6657,6 +6670,7 @@ xclarity
 xdr
 xdschelper
 xdscresources
+xdt
 xel
 xenapp
 xendeskop
@@ -6672,6 +6686,7 @@ xliff
 xmc
 xml
 xml-rpc
+xml-transform
 xmla
 xmlrpc
 xmlutils
@@ -6711,6 +6726,7 @@ zendesk
 zerto
 zigbee
 zip
+zipfile-transform
 zoho
 zone
 zoom

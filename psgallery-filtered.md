@@ -5,6 +5,102 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.11) | 0.0.11
+
+### Published: 07/20/2022 22:37:34 by James Brundage
+
+An Extensible Transpiler for PowerShell (and anything else)
+
+__Downloads__: 30 | __Repository__: https://github.com/StartAutomating/PipeScript
+
+## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.118) | 2.0.118
+
+### Published: 07/20/2022 22:24:02 by Dylan Haskins and Eugene Van Staden
+
+A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
+
+__Downloads__: 9,527 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+
+## [PWSHModule](https://www.powershellgallery.com/Packages/PWSHModule/0.1.15) | 0.1.15
+
+### Published: 07/20/2022 22:23:43 by Pierre Smit
+
+Creates a GitHub Gist (Private or Public) list to install and maintain the installed PowerShell Modules on your systems, you can create more than one list and use it to custom install modules from different repositories or different versions.
+
+__Downloads__: 0 | __Repository__: https://github.com/smitpi/PWSHModule
+
+## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.82) | 0.0.82
+
+### Published: 07/20/2022 20:56:12 by Przemyslaw Klys
+
+Testimo is Powershell module that tests Active Directory against specific set of tests.
+
+__Downloads__: 50,177 | __Repository__: https://github.com/EvotecIT/Testimo
+
+## [PSSmartsheet](https://www.powershellgallery.com/Packages/PSSmartsheet/0.1.5) | 0.1.5
+
+### Published: 07/20/2022 20:50:00 by Skylar Ragan
+
+A Powershell wrapper for the Smartsheet C# SDK
+
+__Downloads__: 360 | __Repository__: https://github.com/skywayskase/PSSmartsheet
+
+## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.9) | 0.0.0.9
+
+### Published: 07/20/2022 20:43:58 by Naitwatch
+
+Powershell module SetUpBasic.Update. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Update
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.142) | 0.0.142
+
+### Published: 07/20/2022 20:34:28 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 115,885 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.184) | 0.0.0.184
+
+### Published: 07/20/2022 20:15:19 by Naitwatch
+
+Powershell module for basic windows os configuration, maintenance
+
+__Downloads__: 661 | __Repository__: https://github.com/NaitWatch/SetUpBasic
+
+## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.15) | 0.0.0.15
+
+### Published: 07/20/2022 20:14:17 by Naitwatch
+
+Powershell module SetUpBasic.Publish. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 17 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Publish
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.115) | 1.1.115
+
+### Published: 07/20/2022 19:05:27 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,755,119 | __Repository__: https://dbatools.io/
+
+## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.243.103) | 1.243.103
+
+### Published: 07/20/2022 18:50:06 by Sam Boutros
+
+PowerShell module containing several Azure tools by Sam Boutros
+
+__Downloads__: 17,811 | __Repository__: https://superwidgets.wordpress.com/
+
+## [LdapTools](https://www.powershellgallery.com/Packages/LdapTools/1.1.6) | 1.1.6
+
+### Published: 07/20/2022 17:59:55 by Friedrich Weinmann
+
+Toolkit for AD queries without requiring ActiveDirectory module
+
+__Downloads__: 443 | __Repository__: https://github.com/FriedrichWeinmann/LdapTools
+
 ## [DownloadInfo](https://www.powershellgallery.com/Packages/DownloadInfo/4.0.0) | 4.0.0
 
 ### Published: 07/20/2022 17:44:20 by Fabrice Sanga
@@ -35,7 +131,7 @@ __Downloads__: 27 | __Repository__: https://github.com/BusHero/pester.extenssion
 
 A set of PowerShell commands for working with SQLite database files. This is a simple alternative to installing any version of SQL Server on your desktop.
 
-__Downloads__: 0 | __Repository__: https://github.com/jdhitsolutions/MySQLite
+__Downloads__: 2 | __Repository__: https://github.com/jdhitsolutions/MySQLite
 
 ## [PSBicepApiManagement](https://www.powershellgallery.com/Packages/PSBicepApiManagement/0.2.1) | 0.2.1
 
@@ -137,7 +233,7 @@ This is a community generated PowerShell Module that can be used to manage Actif
 It provides a method to issue udsinfo, udstask and report commands, and Actifio CDS specific task/info commands.
 More information can be found here:  https://github.com/Actifio/ActPowerCLI
 
-__Downloads__: 2,038 | __Repository__: https://github.com/Actifio/ActPowerCLI
+__Downloads__: 2,040 | __Repository__: https://github.com/Actifio/ActPowerCLI
 
 ## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/0.5.2) | 0.5.2
 
@@ -202,7 +298,7 @@ __Downloads__: 37,446 | __Repository__:
 
 MOC Module
 
-__Downloads__: 57,772 | __Repository__: 
+__Downloads__: 57,773 | __Repository__: 
 
 ## [Kva](https://www.powershellgallery.com/Packages/Kva/1.0.30) | 1.0.30
 
@@ -1179,7 +1275,7 @@ __Downloads__: 44,713 | __Repository__: https://github.com/oracle/oci-powershell
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,006,618 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,006,623 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Devolutions.Server](https://www.powershellgallery.com/Packages/Devolutions.Server/2022.2.6.1) | 2022.2.6.1
 
@@ -1301,22 +1397,6 @@ Provides TransitionManager Functionality
 
 __Downloads__: 480 | __Repository__: 
 
-## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.179) | 0.0.0.179
-
-### Published: 07/18/2022 21:21:13 by Naitwatch
-
-Powershell module for basic windows os configuration, maintenance
-
-__Downloads__: 661 | __Repository__: https://github.com/NaitWatch/SetUpBasic
-
-## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.14) | 0.0.0.14
-
-### Published: 07/18/2022 21:16:49 by Naitwatch
-
-Powershell module SetUpBasic.Publish. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 17 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Publish
-
 ## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.5) | 0.0.0.5
 
 ### Published: 07/18/2022 21:16:41 by Naitwatch
@@ -1363,7 +1443,7 @@ __Downloads__: 460 | __Repository__:
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 62,270 | __Repository__: 
+__Downloads__: 62,266 | __Repository__: 
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.5) | 0.2.5
 
@@ -1381,7 +1461,7 @@ __Downloads__: 144 | __Repository__: https://github.com/StartAutomating/ugit
 
 Quest AD HealthCheck Module
 
-__Downloads__: 383 | __Repository__: 
+__Downloads__: 386 | __Repository__: 
 
 ## [PSGraphQL](https://www.powershellgallery.com/Packages/PSGraphQL/1.5.6) | 1.5.6
 
@@ -1413,7 +1493,7 @@ __Downloads__: 1,854 | __Repository__: https://github.com/jdhitsolutions/ADRepor
 
 Automate against ServiceNow service and asset management.  This module can be used standalone or with Azure Automation.
 
-__Downloads__: 200,372 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
+__Downloads__: 200,375 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
 ## [Configuration](https://www.powershellgallery.com/Packages/Configuration/1.5.1) | 1.5.1
 
@@ -1421,7 +1501,7 @@ __Downloads__: 200,372 | __Repository__: https://github.com/Snow-Shell/serviceno
 
 A module for storing and reading configuration values, with full PS Data serialization, automatic configuration for modules and scripts, etc.
 
-__Downloads__: 242,471 | __Repository__: https://github.com/PoshCode/Configuration
+__Downloads__: 242,476 | __Repository__: https://github.com/PoshCode/Configuration
 
 ## [pspda](https://www.powershellgallery.com/Packages/pspda/1.0) | 1.0
 
@@ -1477,7 +1557,7 @@ __Downloads__: 64 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 705,659 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 705,660 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [BeneathTheCanals](https://www.powershellgallery.com/Packages/BeneathTheCanals/0.1.3) | 0.1.3
 
@@ -1510,7 +1590,7 @@ __Downloads__: 489 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 1,711,612 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 1,711,665 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [PSWinRAR](https://www.powershellgallery.com/Packages/PSWinRAR/0.2.11) | 0.2.11
 
@@ -1535,14 +1615,6 @@ __Downloads__: 79 | __Repository__:
 Wrapper around Azure DevOps RestApi
 
 __Downloads__: 1 | __Repository__: 
-
-## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.9) | 0.0.9
-
-### Published: 07/15/2022 21:03:44 by James Brundage
-
-An Extensible Transpiler for PowerShell (and anything else)
-
-__Downloads__: 30 | __Repository__: https://github.com/StartAutomating/PipeScript
 
 ## [TrainingUtils.SASS](https://www.powershellgallery.com/Packages/TrainingUtils.SASS/1.0) | 1.0
 
@@ -1591,6 +1663,14 @@ __Downloads__: 46 | __Repository__: https://github.com/gisp497/gispad
 Retype is an ultra-high-performance generator that builds a website based on simple text files. Focus on your writing while Retype builds the rest
 
 __Downloads__: 11 | __Repository__: https://github.com/psDevUK/Retype
+
+## [Logonme.Management.PowerShell](https://www.powershellgallery.com/Packages/Logonme.Management.PowerShell/5.1.42) | 5.1.42
+
+### Published: 07/15/2022 15:34:08 by Intelligenca AB
+
+Logon.me PowerShell Management Client
+
+__Downloads__: 39 | __Repository__: https://logon.me/developer
 
 ## [MultiChoice](https://www.powershellgallery.com/Packages/MultiChoice/1.0.4) | 1.0.4
 
@@ -1647,7 +1727,7 @@ __Downloads__: 1,054 | __Repository__: https://github.com/jhoneill/MsftGraph
 
 PPSLogModule
 
-__Downloads__: 324 | __Repository__: 
+__Downloads__: 325 | __Repository__: 
 
 ## [PSComData](https://www.powershellgallery.com/Packages/PSComData/0.2.1) | 0.2.1
 
@@ -1720,7 +1800,7 @@ __Downloads__: 154 | __Repository__: https://github.com/silk-us/silkiscsi
 
 A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
-__Downloads__: 11,282 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+__Downloads__: 11,281 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
 ## [LogicMonitor](https://www.powershellgallery.com/Packages/LogicMonitor/1.0.2.3) | 1.0.2.3
 
@@ -1736,7 +1816,7 @@ __Downloads__: 7,201 | __Repository__: https://github.com/wetling23/logicmonitor
 
 Module for installing basic programs. You can use functions here to download the installer from a download link; Use that installer to install the program; Verify the program/service that was installed, then; clean up the installer.
 
-__Downloads__: 3,455 | __Repository__: 
+__Downloads__: 3,456 | __Repository__: 
 
 ## [PowerShellNotebook](https://www.powershellgallery.com/Packages/PowerShellNotebook/2.9.4) | 2.9.4
 
@@ -1786,14 +1866,6 @@ __Downloads__: 3 | __Repository__:
 Commands to Configure Marvell Fastlinq adapters which can be used right from configuring a freshly installed OS to complex test configurations and verifications.
 
 __Downloads__: 19 | __Repository__: 
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.114) | 1.1.114
-
-### Published: 07/14/2022 10:09:46 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,755,071 | __Repository__: https://dbatools.io/
 
 ## [ScriptLog](https://www.powershellgallery.com/Packages/ScriptLog/0.3.1) | 0.3.1
 
@@ -1921,7 +1993,7 @@ __Downloads__: 77 | __Repository__: https://github.com/saidbrandon/PureStorage.F
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,315,661 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,315,671 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [SkunkLabAzure](https://www.powershellgallery.com/Packages/SkunkLabAzure/3.1.8.12) | 3.1.8.12
 
@@ -1945,7 +2017,7 @@ __Downloads__: 26 | __Repository__:
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 226,679 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 226,681 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [FineFormat](https://www.powershellgallery.com/Packages/FineFormat/1.0.2) | 1.0.2
 
@@ -1954,14 +2026,6 @@ __Downloads__: 226,679 | __Repository__: https://github.com/EvotecIT/PSTeams
 Format and filter objects properties by types and values
 
 __Downloads__: 18 | __Repository__: https://github.com/sethworks/FineFormat
-
-## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.117) | 2.0.117
-
-### Published: 07/13/2022 03:22:48 by Dylan Haskins and Eugene Van Staden
-
-A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
-
-__Downloads__: 9,527 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [TrainingUtils.NFTP](https://www.powershellgallery.com/Packages/TrainingUtils.NFTP/1.15) | 1.15
 
@@ -1979,74 +2043,4 @@ Terraform Version switcher for powershell
 
 __Downloads__: 20 | __Repository__: 
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.7.12.1) | 22.7.12.1
-
-### Published: 07/12/2022 18:18:30 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-Gary Blok New Stuff Edition - The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 257,520 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.7.12.1) | 22.7.12.1
-
-### Published: 07/12/2022 18:16:51 by David Segura @SeguraOSD
-
-https://osdsus.osdeploy.com/
-https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
-
-WSUS Update Catalogs:
-These are contained within this PowerShell Module, so regular Module updating is needed to
-ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
-from Microsoft Update Catalog website due to Preview Releases
-
-__Downloads__: 270,337 | __Repository__: https://github.com/OSDeploy/OSDSUS
-
-## [ComicConverter](https://www.powershellgallery.com/Packages/ComicConverter/1.0) | 1.0
-
-### Published: 07/12/2022 16:25:52 by Adam Bacon
-
-Comic book conversion cmdlets. Allows you to convert a comic pdf to cbz. Allows converting from cbr to pdf, as well as converting an array of images to CBR comic. Finally this also allows you to extract images from cbr comics to a folder
-
-__Downloads__: 3 | __Repository__: https://github.com/psDevUK/ComicConverter
-
-## [PoSh-Gogs](https://www.powershellgallery.com/Packages/PoSh-Gogs/0.0.2) | 0.0.2
-
-### Published: 07/12/2022 14:10:38 by David Phayanouvong
-
-Powershell module for Gogs API
-
-__Downloads__: 58 | __Repository__: 
-
-## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/12.7.0.20091289) | 12.7.0.20091289
-
-### Published: 07/12/2022 13:07:28 by VMware
-
-This Windows PowerShell module contains VMware.PowerCLI
-
-__Downloads__: 4,900,850 | __Repository__: 
-
-## [VMware.VumAutomation](https://www.powershellgallery.com/Packages/VMware.VumAutomation/12.7.0.20091294) | 12.7.0.20091294
-
-### Published: 07/12/2022 13:06:31 by VMware
-
-This Windows PowerShell module contains PowerCLI VUM cmdlets.
-
-__Downloads__: 4,758,408 | __Repository__: 
-
-## [VMware.Sdk.Nsx.Policy](https://www.powershellgallery.com/Packages/VMware.Sdk.Nsx.Policy/4.0.0.20042351) | 4.0.0.20042351
-
-### Published: 07/12/2022 13:06:21 by VMware
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Nsx.Policy API.
-
-__Downloads__: 343,039 | __Repository__: 
-
-## [VMware.VimAutomation.Hcx](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Hcx/12.7.0.20091291) | 12.7.0.20091291
-
-### Published: 07/12/2022 13:06:00 by VMware
-
-This Windows PowerShell module contains PowerCLI HCX cmdlets.
-
-__Downloads__: 4,321,366 | __Repository__: 
-
-*Updated: Wednesday, 20 July 2022 17:53:36 UTC*
+*Updated: Thursday, 21 July 2022 02:40:38 UTC*
