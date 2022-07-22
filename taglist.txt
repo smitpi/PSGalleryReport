@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 22 July 2022 09:53:25 UTC
+Updated: Friday, 22 July 2022 17:54:14 UTC
 
 ?:
 ??
@@ -26,6 +26,7 @@ Updated: Friday, 22 July 2022 09:53:25 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -110,6 +111,7 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
+activeefficiency
 activeresponse
 activesession
 activiti
@@ -656,7 +658,6 @@ bicep
 bicepnet
 big-ip
 big-iq
-bigcommerce
 bigeval
 bigfix
 bigquery
@@ -761,7 +762,6 @@ bson
 btdf
 btm
 budget
-bugzilla
 build
 build-scripts
 builddefinition
@@ -1051,6 +1051,7 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
+cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1372,7 +1373,6 @@ customization
 customlocation
 customproviders
 cvad
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1473,6 +1473,7 @@ db
 db2
 dba
 dbaas
+dbase
 dbcommand
 dbfs
 dbnull
@@ -1621,6 +1622,7 @@ dirsync
 disa
 disable-psremoting
 disablefilesyncngsc
+disasm
 disconnect
 discord
 discordrpc
@@ -1704,6 +1706,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 doh
 dok
@@ -1714,7 +1718,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -1950,6 +1953,7 @@ esp32
 esp32s2
 espressif
 esri
+estimate
 esx
 esxi
 eternalblue
@@ -1960,6 +1964,7 @@ ethz
 etl
 etl2pcapng
 etrade
+ets
 etw
 evaluator
 evc
@@ -2035,7 +2040,6 @@ experiments
 expired
 expiring
 expiry
-exploit
 exploration
 explorer
 exponentiation
@@ -2240,6 +2244,7 @@ forwardcompatibility
 forwardedevents
 foudil
 fox
+foxpro
 fqdn
 framework
 france
@@ -2335,6 +2340,7 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
+get-directorycontents
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
@@ -3301,6 +3307,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3411,6 +3418,8 @@ messaging
 messenger
 met
 metadata
+metadataservice
+metaprogramming
 method
 methodinfo
 methods
@@ -3472,6 +3481,7 @@ mim
 mimekit
 min
 mindmeister
+minecraft
 minifier
 minimal
 minimum
@@ -3480,7 +3490,6 @@ mipsdk
 miration-step
 mirror
 miscellaneous
-mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -3627,6 +3636,7 @@ n-central
 nac
 nagios
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -3718,7 +3728,6 @@ ngfw
 nhl
 nic
 nic.ru
-nightmare
 ninite
 ninja
 ninjaone
@@ -4149,7 +4158,6 @@ pip
 pipe
 pipeline
 pipelines
-pipescript
 piraeus
 pivot
 pivotal
@@ -4354,7 +4362,6 @@ print
 printer
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -4762,7 +4769,6 @@ refresh
 refreshtoken
 reg
 regardscitoyen
-regcli
 regex
 region
 regions
@@ -5243,7 +5249,6 @@ sevenzip
 sf
 sfb
 sftp
-sfx
 sgw
 sha256
 shadow
@@ -5437,7 +5442,6 @@ space
 spaces
 spacex
 spam
-spanner
 spark
 sparklines
 spdockit
@@ -5461,14 +5465,12 @@ speedtest
 speedtester
 spf
 spi
-spinnaker
 splash
 splat
 splatting
 split
 splunk
 spo
-spooler
 sport
 sports
 sports-tracker
@@ -5544,7 +5546,10 @@ stackoverflow
 staffhub
 staging
 stale
+stan
+stanc
 standard
+stansummary
 start
 start-job
 start-jobthread
@@ -5945,7 +5950,6 @@ translit
 transliteration
 transmission
 transparency
-transpilation
 trap
 trec
 tree
@@ -6056,6 +6060,7 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
+ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -6125,6 +6130,7 @@ up
 update
 update-module
 update-moduletests
+update-typedata
 updatemanagement
 updatemgmt
 updater
@@ -6340,7 +6346,6 @@ vpn-certificate
 vps
 vra
 vrealize
-vrising
 vro
 vrops
 vrtu
@@ -6352,6 +6357,7 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
+vsm
 vso
 vsphere
 vss
@@ -6464,6 +6470,7 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wid
 wif
