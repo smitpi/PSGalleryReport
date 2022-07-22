@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 22 July 2022 02:40:47 UTC
+Updated: Friday, 22 July 2022 09:53:25 UTC
 
 ?:
 ??
@@ -26,7 +26,6 @@ Updated: Friday, 22 July 2022 02:40:47 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -111,7 +110,6 @@ activedirectory
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
-activeefficiency
 activeresponse
 activesession
 activiti
@@ -913,6 +911,10 @@ checklists
 checkpoint
 checks
 checksum
+chef
+chef-automate
+chef-compliance
+chef-server
 chefconf2016
 chenxizhang
 cherwell
@@ -939,7 +941,9 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimi
+ciminstance
 cims
 cimsession
 cinegy
@@ -1032,6 +1036,7 @@ cloudiq
 cloudkey
 cloudmarque
 cloudservice
+clueser
 cluster
 clusterminimumvalues
 clusterplugins
@@ -1046,7 +1051,6 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
-cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1437,6 +1441,7 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
+datamodel
 dataplatform
 datapro
 dataprotection
@@ -1468,7 +1473,6 @@ db
 db2
 dba
 dbaas
-dbase
 dbcommand
 dbfs
 dbnull
@@ -1617,7 +1621,6 @@ dirsync
 disa
 disable-psremoting
 disablefilesyncngsc
-disasm
 disconnect
 discord
 discordrpc
@@ -1701,8 +1704,6 @@ docusign
 docx
 dod
 dog
-dog-names
-dogs
 dogstatsd
 doh
 dok
@@ -1949,7 +1950,6 @@ esp32
 esp32s2
 espressif
 esri
-estimate
 esx
 esxi
 eternalblue
@@ -1960,7 +1960,6 @@ ethz
 etl
 etl2pcapng
 etrade
-ets
 etw
 evaluator
 evc
@@ -1984,6 +1983,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2124,6 +2124,7 @@ file-transform
 file-type
 file-type-association
 fileencryption
+filelist
 filelog
 filelogger
 filemanagement
@@ -2239,7 +2240,6 @@ forwardcompatibility
 forwardedevents
 foudil
 fox
-foxpro
 fqdn
 framework
 france
@@ -2335,7 +2335,6 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
-get-directorycontents
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
@@ -3302,7 +3301,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3413,8 +3411,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
-metaprogramming
 method
 methodinfo
 methods
@@ -3631,7 +3627,6 @@ n-central
 nac
 nagios
 name
-name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4041,6 +4036,7 @@ parameters
 parclient
 pardot
 parititions
+parool
 parquet
 parse
 parser
@@ -4424,6 +4420,8 @@ provisonedpackage
 prowl
 prowl-notifications
 prowlapp
+proxmox
+proxmoxve
 proxsys
 proxy
 proxyfunction
@@ -4608,6 +4606,7 @@ pushd
 pushover
 pushoverapi
 putty
+pve
 pvr
 pvs
 pwa
@@ -4649,6 +4648,7 @@ queue
 queues
 queuing
 quickaccess
+quickbase
 quickbooks
 quicksetup
 quota
@@ -5544,10 +5544,7 @@ stackoverflow
 staffhub
 staging
 stale
-stan
-stanc
 standard
-stansummary
 start
 start-job
 start-jobthread
@@ -5678,6 +5675,7 @@ symantec
 symbolic
 symbolic_link
 symboliclink
+symbols
 symbolservers
 symlink
 symmetric
@@ -6058,7 +6056,6 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
-ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -6128,7 +6125,6 @@ up
 update
 update-module
 update-moduletests
-update-typedata
 updatemanagement
 updatemgmt
 updater
@@ -6468,7 +6464,6 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wid
 wif
