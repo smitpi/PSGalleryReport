@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 July 2022 17:54:00 UTC
+Updated: Friday, 22 July 2022 02:40:47 UTC
 
 ?:
 ??
@@ -43,6 +43,7 @@ Updated: Thursday, 21 July 2022 17:54:00 UTC
 3d
 3dprinting
 3par
+50
 64
 650
 650flb
@@ -912,10 +913,6 @@ checklists
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherwell
@@ -942,9 +939,7 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimi
-ciminstance
 cims
 cimsession
 cinegy
@@ -1037,7 +1032,6 @@ cloudiq
 cloudkey
 cloudmarque
 cloudservice
-clueser
 cluster
 clusterminimumvalues
 clusterplugins
@@ -1443,7 +1437,6 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
-datamodel
 dataplatform
 datapro
 dataprotection
@@ -1991,7 +1984,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2132,7 +2124,6 @@ file-transform
 file-type
 file-type-association
 fileencryption
-filelist
 filelog
 filelogger
 filemanagement
@@ -3485,7 +3476,6 @@ mim
 mimekit
 min
 mindmeister
-minecraft
 minifier
 minimal
 minimum
@@ -4051,7 +4041,6 @@ parameters
 parclient
 pardot
 parititions
-parool
 parquet
 parse
 parser
@@ -4242,6 +4231,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 poshbot
 poshcommence
 poshdyndnsapi
@@ -4434,8 +4424,6 @@ provisonedpackage
 prowl
 prowl-notifications
 prowlapp
-proxmox
-proxmoxve
 proxsys
 proxy
 proxyfunction
@@ -4581,6 +4569,7 @@ pstwitter
 pswa
 pswindocumentation
 pswinreporting
+pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -4619,7 +4608,6 @@ pushd
 pushover
 pushoverapi
 putty
-pve
 pvr
 pvs
 pwa
@@ -4723,6 +4711,7 @@ read-slog
 readable
 readiness
 readme
+readpdf
 readthedocs
 realschule
 rebase
@@ -5473,6 +5462,7 @@ speedtester
 spf
 spi
 spinnaker
+splash
 splat
 splatting
 split
@@ -5688,7 +5678,6 @@ symantec
 symbolic
 symbolic_link
 symboliclink
-symbols
 symbolservers
 symlink
 symmetric
@@ -6038,6 +6027,7 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
+ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -6092,6 +6082,7 @@ uefi
 ui
 ui/ux
 ui7
+uk
 ul
 ulid
 ulm
@@ -6462,6 +6453,7 @@ webtime
 wec
 wecutil
 weekday
+wef
 weixin
 well-known
 wem
