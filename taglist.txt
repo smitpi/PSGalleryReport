@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 23 July 2022 09:52:31 UTC
+Updated: Saturday, 23 July 2022 17:52:49 UTC
 
 ?:
 ??
@@ -525,7 +525,6 @@ azsdk
 azsk
 azstate
 azsubnet
-azts
 azuead
 azure
 azure_ad
@@ -701,9 +700,7 @@ blaze
 blob
 blobstorage
 block
-block-kit
 blockchain
-blocks
 blog
 blogs
 bls
@@ -755,7 +752,6 @@ brk4452
 broadcast
 broot
 browser
-browserextension
 browserhistory
 brs
 bruteforce
@@ -1432,6 +1428,7 @@ dataclassification
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 datafactory
 dataflow
 datagateway
@@ -1546,7 +1543,6 @@ desiredstate
 desiredstateconfiguration
 desk
 desktop
-desktopcentral
 desktopvirtualization
 details
 detect
@@ -2061,12 +2057,12 @@ extendedproperty
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
 extract
 extractor
+extreme-networks
 eztheme
 f
 f#
@@ -2193,6 +2189,7 @@ flac
 flash
 flasharray
 flashblade
+flatfile
 flatten
 flex
 flex-query
@@ -2265,6 +2262,8 @@ fslogix
 fsrm
 ftp
 ftps
+fudge
+fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -2338,7 +2337,6 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
-get-directorycontents
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
@@ -2431,8 +2429,6 @@ gping
 gpio
 gplink
 gpo
-gpo-maintenance
-gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2472,6 +2468,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 gui
 gui.cs
@@ -2548,8 +2545,6 @@ heavenbay
 helix
 hello
 helloid
-helloposhgallery
-helloworld
 helmet
 help
 helper
@@ -2966,6 +2961,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -3014,6 +3010,7 @@ kickstart
 kidrsa
 kill
 kindle
+kintone
 klantcontroles
 kms
 knapsack
@@ -3036,6 +3033,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -3187,6 +3185,10 @@ lod
 lodasoft
 log
 log-administration
+log-file
+log-files
+log-mail
+log-mails
 log-management
 log-rotation
 log4net
@@ -3214,6 +3216,8 @@ loginsight
 logiphys
 logistic
 logitech
+logmail
+logmails
 logman
 logoff
 logon
@@ -3276,7 +3280,9 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
+mailing
 mailkit
+mails
 main
 main-menu
 maintenance
@@ -3679,7 +3685,6 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 networkdiscovery
 networkdrives
-networkfirewall
 networkfunction
 networking
 networkinterfaces
@@ -3867,7 +3872,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -4077,7 +4081,6 @@ patternmatching
 pause
 pax8
 paylocity
-paypal
 pays
 pbench
 pc
@@ -4360,6 +4363,7 @@ private-key
 privatedns
 privatekey
 privatemethods
+privateprofilestring
 privilege
 privileged
 privileges
@@ -4431,6 +4435,10 @@ ps1
 ps1xml
 ps1xmlgen
 ps2exe
+ps3
+ps4
+ps5
+ps6
 ps7
 psa
 psadbscreencap
@@ -4971,7 +4979,6 @@ sacl
 safari
 safeguard
 sage
-saggiehaim
 sailpoint
 sale
 sales
@@ -5233,7 +5240,6 @@ sevenzip
 sf
 sfb
 sftp
-sfx
 sgw
 sha256
 shadow
@@ -5427,7 +5433,6 @@ space
 spaces
 spacex
 spam
-spanner
 spark
 sparklines
 spdockit
@@ -5452,6 +5457,7 @@ speedtester
 spf
 spi
 spinnaker
+splash
 splat
 splatting
 split
@@ -6252,7 +6258,6 @@ videos
 vie
 viewer
 viewgroup
-vigenere
 vim
 vimode
 virole
@@ -6333,7 +6338,6 @@ vpn-certificate
 vps
 vra
 vrealize
-vrising
 vro
 vrops
 vrtu
@@ -6343,7 +6347,6 @@ vsa
 vsan
 vscode
 vsdevcmd
-vsdevshell
 vsenvironment
 vsm
 vso
@@ -6366,6 +6369,7 @@ vvx
 vxrail
 w32time
 w3svc
+w3w
 waa
 waas
 wac
@@ -6448,6 +6452,7 @@ well-known
 wem
 wemsdk
 wer
+what3words
 whatismyip
 whd
 where
@@ -6666,6 +6671,7 @@ xi
 xiaomi
 xkcd
 xliff
+xmc
 xml
 xml-rpc
 xml-transform
