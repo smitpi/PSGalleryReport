@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 22 July 2022 17:54:14 UTC
+Updated: Saturday, 23 July 2022 02:37:24 UTC
 
 ?:
 ??
@@ -16,7 +16,6 @@ Updated: Friday, 22 July 2022 17:54:14 UTC
 "interactive
 🍄
 🍣
-💩
 1.1.1.1
 10
 11
@@ -253,7 +252,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonwebservices
 amend
 ami
 amp
@@ -658,6 +656,7 @@ bicep
 bicepnet
 big-ip
 big-iq
+bigcommerce
 bigeval
 bigfix
 bigquery
@@ -716,7 +715,6 @@ bnm
 boards
 bofh
 boilerplate
-boinc
 bolt
 bom
 book
@@ -762,6 +760,7 @@ bson
 btdf
 btm
 budget
+bugzilla
 build
 build-scripts
 builddefinition
@@ -1343,7 +1342,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctx
@@ -1373,6 +1371,7 @@ customization
 customlocation
 customproviders
 cvad
+cve-2021-34527
 cvrf
 cvss
 cwi
@@ -2040,13 +2039,13 @@ experiments
 expired
 expiring
 expiry
+exploit
 exploration
 explorer
 exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2106,7 +2105,6 @@ fiche
 fiddler
 fido
 fido2
-fieldglass
 fifa
 figlet
 file
@@ -2265,8 +2263,6 @@ fslogix
 fsrm
 ftp
 ftps
-fudge
-fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -2354,9 +2350,7 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2760,7 +2754,6 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importexport
 importteams
@@ -2954,7 +2947,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 jpg
@@ -3018,7 +3010,6 @@ kickstart
 kidrsa
 kill
 kindle
-kintone
 klantcontroles
 kms
 knapsack
@@ -3175,7 +3166,6 @@ local-caching
 local-policy
 localadmin
 localconfigurationmanager
-localdb
 locale
 localgroup
 localization
@@ -3193,10 +3183,6 @@ lod
 lodasoft
 log
 log-administration
-log-file
-log-files
-log-mail
-log-mails
 log-management
 log-rotation
 log4net
@@ -3224,8 +3210,6 @@ loginsight
 logiphys
 logistic
 logitech
-logmail
-logmails
 logman
 logoff
 logon
@@ -3288,9 +3272,7 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
-mailing
 mailkit
-mails
 main
 main-menu
 maintenance
@@ -3490,6 +3472,7 @@ mipsdk
 miration-step
 mirror
 miscellaneous
+mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -3728,6 +3711,7 @@ ngfw
 nhl
 nic
 nic.ru
+nightmare
 ninite
 ninja
 ninjaone
@@ -4152,12 +4136,12 @@ ping
 ping-async
 pingsweep
 pinneditem
-pinterest
 pinvoke
 pip
 pipe
 pipeline
 pipelines
+pipescript
 piraeus
 pivot
 pivotal
@@ -4213,7 +4197,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4362,6 +4345,7 @@ print
 printer
 printershare
 printing
+printnightmare
 printserver
 prism
 prism_element
@@ -4443,10 +4427,6 @@ ps1
 ps1xml
 ps1xmlgen
 ps2exe
-ps3
-ps4
-ps5
-ps6
 ps7
 psa
 psadbscreencap
@@ -4679,7 +4659,6 @@ ram-it
 random
 random-date
 randompassword
-randomuser
 randomusers
 ras
 raspberry-pi
@@ -4769,6 +4748,7 @@ refresh
 refreshtoken
 reg
 regardscitoyen
+regcli
 regex
 region
 regions
@@ -4812,7 +4792,6 @@ remotesession
 remoting
 remove
 remove-githubsecrets
-remove-pass
 remove-path
 remove-pinneditem
 removetypeaccelerators
@@ -5232,10 +5211,8 @@ set-alias
 set-githubsecrets
 set-location
 set-openfiles
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
 setting
@@ -5249,6 +5226,7 @@ sevenzip
 sf
 sfb
 sftp
+sfx
 sgw
 sha256
 shadow
@@ -5272,7 +5250,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -5331,7 +5308,6 @@ sitethumbprint
 size
 skatterbrainz
 skattertools
-skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -5442,6 +5418,7 @@ space
 spaces
 spacex
 spam
+spanner
 spark
 sparklines
 spdockit
@@ -5465,12 +5442,14 @@ speedtest
 speedtester
 spf
 spi
+spinnaker
 splash
 splat
 splatting
 split
 splunk
 spo
+spooler
 sport
 sports
 sports-tracker
@@ -5481,7 +5460,6 @@ spotlightimages
 spp
 spread
 spreadsheet
-springcloud
 sql
 sql-database
 sql-script
@@ -5950,6 +5928,7 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
 trec
 tree
@@ -5965,7 +5944,6 @@ triangle
 trigger
 triodos
 tripunkt
-troubleshoot
 troubleshooting
 trouw
 truecrypt
@@ -6027,7 +6005,6 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
-ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -6086,7 +6063,6 @@ ui/ux
 ui7
 uk
 ul
-ulid
 ulm
 um
 uml
@@ -6195,7 +6171,6 @@ utils
 utm
 uudecode
 uuencode
-uuid
 uw
 uwp
 ux
@@ -6240,7 +6215,6 @@ ve7cc
 vector
 veeam
 veeampn
-veeva
 venafi
 vendor
 venue
@@ -6346,6 +6320,7 @@ vpn-certificate
 vps
 vra
 vrealize
+vrising
 vro
 vrops
 vrtu
@@ -6613,7 +6588,6 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
-wrike
 write
 write-ascii
 write-color
