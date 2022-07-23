@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 23 July 2022 02:37:24 UTC
+Updated: Saturday, 23 July 2022 09:52:31 UTC
 
 ?:
 ??
@@ -16,6 +16,7 @@ Updated: Saturday, 23 July 2022 02:37:24 UTC
 "interactive
 🍄
 🍣
+💩
 1.1.1.1
 10
 11
@@ -252,6 +253,7 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonwebservices
 amend
 ami
 amp
@@ -715,6 +717,7 @@ bnm
 boards
 bofh
 boilerplate
+boinc
 bolt
 bom
 book
@@ -799,7 +802,6 @@ caching
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -1319,7 +1321,6 @@ cron
 crontab
 cropping
 cross-platform
-cross-reference
 crossjoin
 crossover
 crossplatform
@@ -1342,6 +1343,7 @@ css
 csv
 csv2adx
 csvhelper
+ctf
 ctglobal
 ctl
 ctx
@@ -1430,7 +1432,6 @@ dataclassification
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 datafactory
 dataflow
 datagateway
@@ -1717,6 +1718,7 @@ donothing
 dos
 dot
 dotenv
+dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2046,6 +2048,7 @@ exponentiation
 export
 export-cmhealthreport
 export-data
+export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2064,7 +2067,6 @@ external
 externalip
 extract
 extractor
-extreme-networks
 eztheme
 f
 f#
@@ -2105,6 +2107,7 @@ fiche
 fiddler
 fido
 fido2
+fieldglass
 fifa
 figlet
 file
@@ -2190,7 +2193,6 @@ flac
 flash
 flasharray
 flashblade
-flatfile
 flatten
 flex
 flex-query
@@ -2350,7 +2352,9 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
+get-pass
 get-passivetrippoint
+get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2468,7 +2472,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 gui
 gui.cs
@@ -2754,6 +2757,7 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
+import-passlist
 import-sampackagedefinitionsms
 importexport
 importteams
@@ -2947,6 +2951,7 @@ johnshopkins
 join
 join-object
 jojoba
+joke
 jotform
 journal
 jpg
@@ -2961,7 +2966,6 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
-jumbo
 jump
 jump-location
 jumpcloud
@@ -3032,7 +3036,6 @@ kudu
 kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -3166,6 +3169,7 @@ local-caching
 local-policy
 localadmin
 localconfigurationmanager
+localdb
 locale
 localgroup
 localization
@@ -3772,7 +3776,6 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
-number
 numlock
 nunit
 nupkg
@@ -4136,6 +4139,7 @@ ping
 ping-async
 pingsweep
 pinneditem
+pinterest
 pinvoke
 pip
 pipe
@@ -4197,6 +4201,7 @@ polycom
 pomodoro
 ponduit
 pool
+poop
 pop
 pop-location
 pop3
@@ -4355,7 +4360,6 @@ private-key
 privatedns
 privatekey
 privatemethods
-privateprofilestring
 privilege
 privileged
 privileges
@@ -4659,6 +4663,7 @@ ram-it
 random
 random-date
 randompassword
+randomuser
 randomusers
 ras
 raspberry-pi
@@ -4741,7 +4746,6 @@ refactor
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -4792,6 +4796,7 @@ remotesession
 remoting
 remove
 remove-githubsecrets
+remove-pass
 remove-path
 remove-pinneditem
 removetypeaccelerators
@@ -5211,8 +5216,10 @@ set-alias
 set-githubsecrets
 set-location
 set-openfiles
+set-pass
 set-psbreakpoint
 set-psenv
+set-randompass
 set-type
 setbios
 setting
@@ -5250,6 +5257,7 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
+shell-art
 shells
 shieldedvm
 ships
@@ -5308,6 +5316,7 @@ sitethumbprint
 size
 skatterbrainz
 skattertools
+skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -5443,7 +5452,6 @@ speedtester
 spf
 spi
 spinnaker
-splash
 splat
 splatting
 split
@@ -5460,6 +5468,7 @@ spotlightimages
 spp
 spread
 spreadsheet
+springcloud
 sql
 sql-database
 sql-script
@@ -5944,6 +5953,7 @@ triangle
 trigger
 triodos
 tripunkt
+troubleshoot
 troubleshooting
 trouw
 truecrypt
@@ -6005,6 +6015,7 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
+ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -6063,6 +6074,7 @@ ui/ux
 ui7
 uk
 ul
+ulid
 ulm
 um
 uml
@@ -6171,6 +6183,7 @@ utils
 utm
 uudecode
 uuencode
+uuid
 uw
 uwp
 ux
@@ -6215,6 +6228,7 @@ ve7cc
 vector
 veeam
 veeampn
+veeva
 venafi
 vendor
 venue
@@ -6227,7 +6241,6 @@ version
 versioncontrol
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -6353,7 +6366,6 @@ vvx
 vxrail
 w32time
 w3svc
-w3w
 waa
 waas
 wac
@@ -6436,7 +6448,6 @@ well-known
 wem
 wemsdk
 wer
-what3words
 whatismyip
 whd
 where
@@ -6588,6 +6599,7 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
+wrike
 write
 write-ascii
 write-color
@@ -6654,7 +6666,6 @@ xi
 xiaomi
 xkcd
 xliff
-xmc
 xml
 xml-rpc
 xml-transform

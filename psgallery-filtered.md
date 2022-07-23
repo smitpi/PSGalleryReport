@@ -5,6 +5,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.187) | 0.0.0.187
+
+### Published: 07/23/2022 09:01:47 by Naitwatch
+
+Powershell module for basic windows os configuration, maintenance
+
+__Downloads__: 686 | __Repository__: https://github.com/NaitWatch/SetUpBasic
+
+## [SetUpBasic.TaskScheduler](https://www.powershellgallery.com/Packages/SetUpBasic.TaskScheduler/0.0.0.15) | 0.0.0.15
+
+### Published: 07/23/2022 08:38:58 by Naitwatch
+
+Powershell module SetUpBasic.TaskScheduler. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 11 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TaskScheduler
+
+## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.11) | 0.0.0.11
+
+### Published: 07/23/2022 08:38:50 by Naitwatch
+
+Powershell module SetUpBasic.Update. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 33 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Update
+
+## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/3.3.0.0) | 3.3.0.0
+
+### Published: 07/23/2022 08:29:44 by Hewlett Packard Enterprise Co.
+
+Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen9, Gen10 or Gen10 Plus servers.
+
+__Downloads__: 750,377 | __Repository__: https://www.hpe.com/servers/powershell
+
+## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.19) | 0.0.0.19
+
+### Published: 07/23/2022 07:15:44 by Naitwatch
+
+Powershell module SetUpBasic.Publish. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 34 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Publish
+
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2207.609) | 2207.609
+
+### Published: 07/23/2022 03:09:44 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 711,044 | __Repository__: https://stealthpuppy.com/evergreen/
+
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.6.3) | 4.6.3
 
 ### Published: 07/23/2022 01:05:31 by Venafi
@@ -19,7 +67,7 @@ __Downloads__: 2,215 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Milestone XProtect VMS configuration and automation powered by the Milestone MIP SDK.
 
-__Downloads__: 88,059 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 88,058 | __Repository__: https://www.milestonepstools.com/
 
 ## [MipSdkRedist](https://www.powershellgallery.com/Packages/MipSdkRedist/22.2.0) | 22.2.0
 
@@ -27,7 +75,7 @@ __Downloads__: 88,059 | __Repository__: https://www.milestonepstools.com/
 
 Used for easy importing of the Milestone Systems MIP SDK components in a PowerShell 5.1 environment.
 
-__Downloads__: 87,838 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 87,837 | __Repository__: https://www.milestonepstools.com/
 
 ## [PSFunctionInfo](https://www.powershellgallery.com/Packages/PSFunctionInfo/1.3.0) | 1.3.0
 
@@ -107,7 +155,7 @@ __Downloads__: 83 | __Repository__:
 
 A utility to help convert curl commands to Invoke-RestMethod syntax
 
-__Downloads__: 1,631 | __Repository__: 
+__Downloads__: 1,632 | __Repository__: 
 
 ## [ScriptUtils](https://www.powershellgallery.com/Packages/ScriptUtils/1.0.2) | 1.0.2
 
@@ -118,7 +166,7 @@ As a scripter you might have come across this situation several times when you h
 These functions helps you eliminate the need to perform checks and just use a single command to get the work done. Thereby, enabling you to focus on the
 main section of your script rather than spending time to write code to perform checks
 
-__Downloads__: 25 | __Repository__: https://github.com/uzi3/ScriptUtils
+__Downloads__: 26 | __Repository__: https://github.com/uzi3/ScriptUtils
 
 ## [vsmTools](https://www.powershellgallery.com/Packages/vsmTools/1.1.2) | 1.1.2
 
@@ -146,7 +194,7 @@ __Downloads__: 4,505 | __Repository__: https://github.com/svengrav/appinsights-p
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 116,507 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 116,508 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/2.3.2) | 2.3.2
 
@@ -170,7 +218,7 @@ __Downloads__: 42 | __Repository__:
 
 Bring Dataverse's Web API to PowerShell.
 
-__Downloads__: 3 | __Repository__: https://github.com/rezanid/PSDataverse
+__Downloads__: 4 | __Repository__: https://github.com/rezanid/PSDataverse
 
 ## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.44.0) | 5.44.0
 
@@ -274,7 +322,7 @@ __Downloads__: 250 | __Repository__: https://github.com/adamdriscoll/sysinternal
 
 Utilities for working with mozconfig files directly in PowerShell
 
-__Downloads__: 1 | __Repository__: https://bitbucket.org/DrGoldfire/mozconfigwrapper-ps/
+__Downloads__: 2 | __Repository__: https://bitbucket.org/DrGoldfire/mozconfigwrapper-ps/
 
 ## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.119) | 2.0.119
 
@@ -290,7 +338,7 @@ __Downloads__: 9,828 | __Repository__: https://github.com/dylanhaskins/Microsoft
 
 Makes encrypting and decrypting strings and other security work easy.
 
-__Downloads__: 1,484 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
+__Downloads__: 1,485 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
 
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.8) | 3.1.8
 
@@ -316,21 +364,13 @@ Web template framework for the Pode PowerShell web server
 
 __Downloads__: 1,816 | __Repository__: https://github.com/Badgerati/Pode.Web
 
-## [SetUpBasic.TaskScheduler](https://www.powershellgallery.com/Packages/SetUpBasic.TaskScheduler/0.0.0.4) | 0.0.0.4
-
-### Published: 07/21/2022 20:36:27 by Naitwatch
-
-Powershell module SetUpBasic.TaskScheduler. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 11 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TaskScheduler
-
 ## [PSWarranty](https://www.powershellgallery.com/Packages/PSWarranty/1.7.1) | 1.7.1
 
 ### Published: 07/21/2022 20:07:18 by Kelvin Tegelaar - Kelvin@limenetworks.nl
 
 This module allows you to collect warranty information from a myriad of sources
 
-__Downloads__: 43,911 | __Repository__: https://github.com/KelvinTegelaar/PowerShellWarrantyReports
+__Downloads__: 43,891 | __Repository__: https://github.com/KelvinTegelaar/PowerShellWarrantyReports
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.3) | 11.0.3
 
@@ -370,7 +410,7 @@ __Downloads__: 73 | __Repository__: https://github.com/BusHero/pester.extenssion
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,319,250 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,319,232 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [ADDSAuditTasks](https://www.powershellgallery.com/Packages/ADDSAuditTasks/1.6.0) | 1.6.0
 
@@ -493,14 +533,6 @@ Adds tab completion for many commandline tools.
 
 __Downloads__: 3 | __Repository__: https://github.com/artiga033/Pwsh-Complete
 
-## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.186) | 0.0.0.186
-
-### Published: 07/21/2022 04:54:37 by Naitwatch
-
-Powershell module for basic windows os configuration, maintenance
-
-__Downloads__: 686 | __Repository__: https://github.com/NaitWatch/SetUpBasic
-
 ## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.7) | 0.0.0.7
 
 ### Published: 07/21/2022 04:54:24 by Naitwatch
@@ -508,14 +540,6 @@ __Downloads__: 686 | __Repository__: https://github.com/NaitWatch/SetUpBasic
 Powershell module SetUpBasic.Template. This module is under construction and just uploaded for testing purposes.
 
 __Downloads__: 42 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Template
-
-## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.16) | 0.0.0.16
-
-### Published: 07/21/2022 04:54:16 by Naitwatch
-
-Powershell module SetUpBasic.Publish. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 34 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Publish
 
 ## [TfsCmdlets](https://www.powershellgallery.com/Packages/TfsCmdlets/2.4.1) | 2.4.1
 
@@ -539,7 +563,7 @@ __Downloads__: 36 | __Repository__: https://github.com/StartAutomating/PipeScrip
 
 Creates a GitHub Gist (Private or Public) list to install and maintain the installed PowerShell Modules on your systems, you can create more than one list and use it to custom install modules from different repositories or different versions.
 
-__Downloads__: 9 | __Repository__: https://github.com/smitpi/PWSHModule
+__Downloads__: 10 | __Repository__: https://github.com/smitpi/PWSHModule
 
 ## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.82) | 0.0.82
 
@@ -556,14 +580,6 @@ __Downloads__: 50,229 | __Repository__: https://github.com/EvotecIT/Testimo
 A Powershell wrapper for the Smartsheet C# SDK
 
 __Downloads__: 373 | __Repository__: https://github.com/skywayskase/PSSmartsheet
-
-## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.9) | 0.0.0.9
-
-### Published: 07/20/2022 20:43:58 by Naitwatch
-
-Powershell module SetUpBasic.Update. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 33 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Update
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.243.103) | 1.243.103
 
@@ -725,7 +741,7 @@ __Downloads__: 425 | __Repository__: https://github.com/ironmansoftware/powershe
 
 AKS HCI Module
 
-__Downloads__: 37,842 | __Repository__: 
+__Downloads__: 37,843 | __Repository__: 
 
 ## [Moc](https://www.powershellgallery.com/Packages/Moc/1.0.28) | 1.0.28
 
@@ -733,7 +749,7 @@ __Downloads__: 37,842 | __Repository__:
 
 MOC Module
 
-__Downloads__: 58,268 | __Repository__: 
+__Downloads__: 58,267 | __Repository__: 
 
 ## [Kva](https://www.powershellgallery.com/Packages/Kva/1.0.30) | 1.0.30
 
@@ -741,7 +757,7 @@ __Downloads__: 58,268 | __Repository__:
 
 KVA Module
 
-__Downloads__: 37,868 | __Repository__: 
+__Downloads__: 37,869 | __Repository__: 
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.1.4) | 3.1.4
 
@@ -749,7 +765,7 @@ __Downloads__: 37,868 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 25,554 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 25,555 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.105) | 1.0.0.105
 
@@ -757,7 +773,7 @@ __Downloads__: 25,554 | __Repository__: https://ironmansoftware.com/powershell-u
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 15,876 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 15,877 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [GMNicRuDnsApi](https://www.powershellgallery.com/Packages/GMNicRuDnsApi/0.0.0.1) | 0.0.0.1
 
@@ -773,7 +789,7 @@ __Downloads__: 11 | __Repository__: https://github.com/MVKozlov/GMNicRuDnsApi
 
 PowerShell module with custom helper functions.
 
-__Downloads__: 20 | __Repository__: https://github.com/Skaldhor/Skaldhor.HelperFunctions
+__Downloads__: 21 | __Repository__: https://github.com/Skaldhor/Skaldhor.HelperFunctions
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/36.1.0) | 36.1.0
 
@@ -894,7 +910,7 @@ __Downloads__: 1,488 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Stackmonitoring Service
 
-__Downloads__: 271 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 272 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Servicemesh](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemesh/36.1.0) | 36.1.0
 
@@ -1414,7 +1430,7 @@ __Downloads__: 1,489 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Dataflow Service
 
-__Downloads__: 2,147 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,188 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Dataconnectivity](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataconnectivity/36.1.0) | 36.1.0
 
@@ -1702,7 +1718,7 @@ __Downloads__: 262 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 44,978 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 44,979 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22200.31053) | 4.4.22200.31053
 
@@ -1870,7 +1886,7 @@ __Downloads__: 463 | __Repository__:
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 62,330 | __Repository__: 
+__Downloads__: 62,329 | __Repository__: 
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.5) | 0.2.5
 
@@ -1912,7 +1928,7 @@ __Downloads__: 77 | __Repository__: https://github.com/jdhitsolutions/PSProjectS
 
 A set of PowerShell commands to gather information and create reports from Active Directory.
 
-__Downloads__: 1,881 | __Repository__: https://github.com/jdhitsolutions/ADReportingTools
+__Downloads__: 1,880 | __Repository__: https://github.com/jdhitsolutions/ADReportingTools
 
 ## [ServiceNow](https://www.powershellgallery.com/Packages/ServiceNow/3.4.0) | 3.4.0
 
@@ -1978,14 +1994,6 @@ Roll dice right from PowerShell!
 
 __Downloads__: 66 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2207.596) | 2207.596
-
-### Published: 07/17/2022 00:06:09 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 710,981 | __Repository__: https://stealthpuppy.com/evergreen/
-
 ## [BeneathTheCanals](https://www.powershellgallery.com/Packages/BeneathTheCanals/0.1.3) | 0.1.3
 
 ### Published: 07/16/2022 23:16:31 by Gilbert Sanchez
@@ -2010,13 +2018,4 @@ Simple PowerShell module used to scaffolding a dotnet core project and add it to
 
 __Downloads__: 502 | __Repository__: 
 
-## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.0) | 7.8.0
-
-### Published: 07/16/2022 17:58:37 by Douglas Finke
-
-PowerShell module to import/export Excel spreadsheets, without Excel.
-Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
-
-__Downloads__: 1,726,167 | __Repository__: https://github.com/dfinke/ImportExcel
-
-*Updated: Saturday, 23 July 2022 02:37:14 UTC*
+*Updated: Saturday, 23 July 2022 09:52:21 UTC*
