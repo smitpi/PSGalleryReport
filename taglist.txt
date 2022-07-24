@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 23 July 2022 17:52:49 UTC
+Updated: Sunday, 24 July 2022 02:40:32 UTC
 
 ?:
 ??
@@ -525,6 +525,7 @@ azsdk
 azsk
 azstate
 azsubnet
+azts
 azuead
 azure
 azure_ad
@@ -700,7 +701,9 @@ blaze
 blob
 blobstorage
 block
+block-kit
 blockchain
+blocks
 blog
 blogs
 bls
@@ -752,6 +755,7 @@ brk4452
 broadcast
 broot
 browser
+browserextension
 browserhistory
 brs
 bruteforce
@@ -798,6 +802,7 @@ caching
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1157,7 +1162,6 @@ conditionalaccess
 conduit
 conference
 confidentialclient
-confidentialledger
 config
 configapi
 configascode
@@ -1543,6 +1547,7 @@ desiredstate
 desiredstateconfiguration
 desk
 desktop
+desktopcentral
 desktopvirtualization
 details
 detect
@@ -2057,6 +2062,7 @@ extendedproperty
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2337,6 +2343,7 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
+get-directorycontents
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
@@ -2429,6 +2436,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2545,6 +2554,8 @@ heavenbay
 helix
 hello
 helloid
+helloposhgallery
+helloworld
 helmet
 help
 helper
@@ -3423,7 +3434,6 @@ mga
 mi
 micro-orm
 microfocus
-microk8s
 microservices
 microsoft
 microsoft_365
@@ -3685,6 +3695,7 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 networkdiscovery
 networkdrives
+networkfirewall
 networkfunction
 networking
 networkinterfaces
@@ -3779,8 +3790,8 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 null-coalescing
+number
 numlock
 nunit
 nupkg
@@ -3872,6 +3883,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -4081,6 +4093,7 @@ patternmatching
 pause
 pax8
 paylocity
+paypal
 pays
 pbench
 pc
@@ -4303,7 +4316,6 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershelllogger
-powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
@@ -4979,6 +4991,7 @@ sacl
 safari
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -5240,6 +5253,7 @@ sevenzip
 sf
 sfb
 sftp
+sfx
 sgw
 sha256
 shadow
@@ -5433,6 +5447,7 @@ space
 spaces
 spacex
 spam
+spanner
 spark
 sparklines
 spdockit
@@ -5736,7 +5751,6 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
-tagging
 tags
 tak
 taken
@@ -6247,6 +6261,7 @@ version
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -6258,6 +6273,7 @@ videos
 vie
 viewer
 viewgroup
+vigenere
 vim
 vimode
 virole
@@ -6338,6 +6354,7 @@ vpn-certificate
 vps
 vra
 vrealize
+vrising
 vro
 vrops
 vrtu
@@ -6347,6 +6364,7 @@ vsa
 vsan
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -6633,7 +6651,6 @@ wt
 wtsapi32
 wttr
 wttr.in
-wtx
 wu
 wunderlist
 wvd
