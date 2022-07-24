@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 24 July 2022 02:40:32 UTC
+Updated: Sunday, 24 July 2022 09:53:07 UTC
 
 ?:
 ??
@@ -359,7 +359,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcus
 area
 argument
@@ -717,7 +716,6 @@ bnm
 boards
 bofh
 boilerplate
-boinc
 bolt
 bom
 book
@@ -814,7 +812,6 @@ camtasia
 canarie
 cancel
 canonical
-cantara
 capability
 capacity
 capgemini
@@ -933,7 +930,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1162,6 +1158,7 @@ conditionalaccess
 conduit
 conference
 confidentialclient
+confidentialledger
 config
 configapi
 configascode
@@ -1283,7 +1280,6 @@ cqd
 cqdpowershell
 cqhttp
 crack psmodule
-crash
 crayon
 crc
 crc32
@@ -1503,7 +1499,6 @@ decryption
 dedicatedhsm
 deduplication
 deep
-deepvisibility
 def
 default
 defaultparameter
@@ -1730,7 +1725,6 @@ dotteddecimalip
 doubleclick
 download
 downloader
-downloadinfo
 downloading
 downloads
 dpa
@@ -1991,7 +1985,6 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
-everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2405,7 +2398,6 @@ glpi
 gmail
 gmap
 gmaps
-gmsa
 gnucash
 gnuwin32
 gobright
@@ -2470,7 +2462,6 @@ group-policy
 groupmembership
 grouppolicy
 groups
-grouvee
 grr
 gsuite
 gtx1080ti
@@ -2936,9 +2927,7 @@ japanese
 jar
 jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jdedwards
@@ -3434,6 +3423,7 @@ mga
 mi
 micro-orm
 microfocus
+microk8s
 microservices
 microsoft
 microsoft_365
@@ -3640,7 +3630,6 @@ nac
 nagios
 name
 name-of-dogs
-namedpipe
 nameit
 nameresolution
 names
@@ -3790,6 +3779,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 null-coalescing
 number
 numlock
@@ -3863,7 +3853,6 @@ okta
 old
 ole
 oledb
-omaha
 ome
 omnisphere
 omnistack
@@ -4316,6 +4305,7 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershelllogger
+powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
@@ -5184,7 +5174,6 @@ sensor
 sensors
 sensu
 sentinel
-sentinelone
 sep
 seppmail
 seppmail.cloud
@@ -5245,6 +5234,7 @@ setbios
 setting
 settings
 setup
+setupbasic.install
 setupbasic.publish
 setupbasic.taskscheduler
 setupbasic.template
@@ -5437,7 +5427,6 @@ sort
 source
 source-dedicated-server
 sourcecontrol
-sourceforge
 sourcegraph
 sourcemod
 sourceone
@@ -5751,6 +5740,7 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
+tagging
 tags
 tak
 taken
@@ -5767,7 +5757,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -6260,7 +6249,6 @@ verbose psmodule
 version
 versioncontrol
 versioning
-versionmanager
 versionnumber
 vertical
 vester
@@ -6469,7 +6457,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 what3words
 whatismyip
 whd
@@ -6585,8 +6572,6 @@ wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -6651,6 +6636,7 @@ wt
 wtsapi32
 wttr
 wttr.in
+wtx
 wu
 wunderlist
 wvd
