@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 25 July 2022 09:53:33 UTC
+Updated: Monday, 25 July 2022 17:54:20 UTC
 
 ?:
 ??
@@ -37,6 +37,7 @@ Updated: Monday, 25 July 2022 09:53:33 UTC
 2019
 24-bit
 2fa
+300
 365
 36867
 3d
@@ -265,7 +266,6 @@ analysisservices
 analyst
 analyth
 analytics
-analyze
 analyzer
 analyzerrules
 anchor
@@ -311,6 +311,7 @@ app
 app-only
 app-v
 app.config
+appattach
 appclusive
 appcmd
 appconfiguration
@@ -439,7 +440,6 @@ auditpol
 auditpolicies
 auditpolicy
 audits
-aumid
 aut
 auth0
 authenticate
@@ -482,6 +482,7 @@ availability
 availabilityset
 avalara
 avalonia
+avd
 ave
 avepoint
 avro
@@ -536,7 +537,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-ssis
 azureactivedirectory
 azuread
@@ -610,7 +610,6 @@ banking
 banner
 bar
 barcodes
-baremetal
 base
 base16
 base26
@@ -943,7 +942,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
+cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinegy
@@ -1016,6 +1018,7 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
+cloud-iq
 cloudant
 cloudbees
 cloudberry
@@ -1031,6 +1034,7 @@ cloudgovernance
 cloudguard
 cloudinairy
 cloudinit
+cloudiq
 cloudkey
 cloudmarque
 cloudservice
@@ -1281,6 +1285,7 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
+crayon
 crc
 crc32
 create
@@ -1512,8 +1517,6 @@ defaultroutes
 defaults
 defence
 defender
-defender-atp
-defender-for-endpoint
 defenderast
 defenderforendpoint
 defense
@@ -1634,6 +1637,7 @@ discovery
 disk
 disk-space
 diskfree
+diskimage
 diskpart
 diskpool
 diskspace
@@ -1720,6 +1724,7 @@ donothing
 dos
 dot
 dotenv
+dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -1995,6 +2000,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2019,7 +2025,6 @@ exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
-exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
@@ -2376,6 +2381,7 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
+ggplot
 gh-actions
 ghactions
 ghc
@@ -2901,6 +2907,7 @@ ipynb
 ir
 irc
 irkit
+irregular
 isadmin
 iscsi
 isdate
@@ -3041,6 +3048,7 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
+kubespray
 kudu
 kurukuru
 kusto
@@ -3360,6 +3368,7 @@ materialdesign
 materialui
 math
 mathematics
+matplotlib
 matrix
 maven
 max
@@ -3629,8 +3638,6 @@ mxlookup
 mycloudrevolution
 myhub
 myitprocess
-myjson
-myjson.com
 myob
 mysql
 mysql-database
@@ -3922,6 +3929,7 @@ openhere
 openid
 openidconnect
 openinghours
+openport
 openscad
 opensourceinitiative
 openssh
@@ -4006,6 +4014,7 @@ owasp
 owls
 owner
 oxygen
+oxyplot
 p2000
 p2s
 pa1reg
@@ -4089,6 +4098,7 @@ patches
 patching
 path
 pathfinder
+patternmatching
 pause
 pax8
 paylocity
@@ -4147,6 +4157,7 @@ picker
 picture
 pictures
 pid
+pie
 pim
 pin
 ping
@@ -4182,7 +4193,6 @@ playbook
 player
 playlists
 pleasant
-pleasantpasswordserver
 plex
 plist
 plog
@@ -4350,7 +4360,6 @@ presentation
 presenter
 presto
 preston-k-parsard
-pretty
 prettyprinter
 preview
 previousversions
@@ -4782,6 +4791,7 @@ register-argumentcompleter
 registration
 registry
 regression
+regularexpressions
 reinstall
 relational
 relay
@@ -5106,6 +5116,7 @@ sdn
 search
 search-adminauditlog
 searchengine
+searching
 searchplace
 searchquery
 searchstring
@@ -5253,7 +5264,6 @@ sf
 sfb
 sftp
 sfx
-sgw
 sha256
 shadow
 shadowcopy
@@ -5596,11 +5606,11 @@ stockcharts
 stocks
 stoicism
 stoics
+stop
 storablecolortheme
 storage
 storageaccount
 storagecache
-storagegrid-webscale
 storagesync
 store
 storefront
@@ -5771,6 +5781,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
+tcpport
 tcpserver
 tcptest
 tcx
@@ -5898,7 +5909,6 @@ tls11
 tls12
 tlsprotocol
 toast
-toasts
 tobias
 toc
 todo
@@ -6005,7 +6015,6 @@ twitter-api
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -6037,6 +6046,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
