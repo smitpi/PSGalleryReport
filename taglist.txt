@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 25 July 2022 02:39:57 UTC
+Updated: Monday, 25 July 2022 09:53:33 UTC
 
 ?:
 ??
@@ -37,7 +37,6 @@ Updated: Monday, 25 July 2022 02:39:57 UTC
 2019
 24-bit
 2fa
-300
 365
 36867
 3d
@@ -653,6 +652,8 @@ ber
 bestpractice
 bestpractices
 bi
+bibliography
+bibtex
 bicep
 bicepnet
 big-ip
@@ -942,9 +943,7 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimi
-ciminstance
 cims
 cimsession
 cinegy
@@ -1017,7 +1016,6 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
-cloud-iq
 cloudant
 cloudbees
 cloudberry
@@ -1033,7 +1031,6 @@ cloudgovernance
 cloudguard
 cloudinairy
 cloudinit
-cloudiq
 cloudkey
 cloudmarque
 cloudservice
@@ -1284,7 +1281,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
-crayon
 crc
 crc32
 create
@@ -1724,7 +1720,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2000,7 +1995,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evidencelock
@@ -2382,7 +2376,6 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
-ggplot
 gh-actions
 ghactions
 ghc
@@ -2628,6 +2621,7 @@ hotkeys
 howto
 hp
 hpc
+hpcc
 hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
@@ -2907,7 +2901,6 @@ ipynb
 ir
 irc
 irkit
-irregular
 isadmin
 iscsi
 isdate
@@ -3048,7 +3041,6 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
-kubespray
 kudu
 kurukuru
 kusto
@@ -3171,6 +3163,7 @@ list-item
 listener
 litecoin
 litedb
+literature
 live
 lldp
 lmhost
@@ -3367,7 +3360,6 @@ materialdesign
 materialui
 math
 mathematics
-matplotlib
 matrix
 maven
 max
@@ -3440,6 +3432,7 @@ metrolink
 mfa
 mga
 mi
+micro-orm
 microfocus
 microk8s
 microservices
@@ -3929,7 +3922,6 @@ openhere
 openid
 openidconnect
 openinghours
-openport
 openscad
 opensourceinitiative
 openssh
@@ -4014,7 +4006,6 @@ owasp
 owls
 owner
 oxygen
-oxyplot
 p2000
 p2s
 pa1reg
@@ -4048,6 +4039,7 @@ panther
 panzerbjrn
 pap
 paper
+papis
 paradox
 parallel
 parameter
@@ -4097,7 +4089,6 @@ patches
 patching
 path
 pathfinder
-patternmatching
 pause
 pax8
 paylocity
@@ -4156,7 +4147,6 @@ picker
 picture
 pictures
 pid
-pie
 pim
 pin
 ping
@@ -4792,7 +4782,6 @@ register-argumentcompleter
 registration
 registry
 regression
-regularexpressions
 reinstall
 relational
 relay
@@ -5117,7 +5106,6 @@ sdn
 search
 search-adminauditlog
 searchengine
-searching
 searchplace
 searchquery
 searchstring
@@ -5608,7 +5596,6 @@ stockcharts
 stocks
 stoicism
 stoics
-stop
 storablecolortheme
 storage
 storageaccount
@@ -5692,6 +5679,7 @@ swarm
 swimlane
 swis
 switch
+sxs
 sybase
 sybaseiq
 symantec
@@ -5783,7 +5771,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcpserver
 tcptest
 tcx
@@ -6050,7 +6037,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker

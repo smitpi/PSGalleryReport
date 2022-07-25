@@ -5,6 +5,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [vsmTools](https://www.powershellgallery.com/Packages/vsmTools/1.2.5) | 1.2.5
+
+### Published: 07/25/2022 09:43:37 by NiXerasse
+
+Test
+
+__Downloads__: 17 | __Repository__: https://github.com/NiXerasse/vsmTools
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.118) | 1.1.118
+
+### Published: 07/25/2022 08:23:06 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,766,871 | __Repository__: https://dbatools.io/
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.145) | 0.0.145
+
+### Published: 07/25/2022 07:16:31 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 116,683 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [SetUpBasic.TaskScheduler](https://www.powershellgallery.com/Packages/SetUpBasic.TaskScheduler/0.0.0.22) | 0.0.0.22
+
+### Published: 07/25/2022 05:35:34 by Naitwatch
+
+Powershell module SetUpBasic.TaskScheduler. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 44 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TaskScheduler
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/2.0.2) | 2.0.2
+
+### Published: 07/25/2022 04:15:30 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 164 | __Repository__: 
+
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.2.0) | 1.2.0
+
+### Published: 07/25/2022 04:09:00 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 51 | __Repository__: https://github.com/cpp-swift/PowerRvB
+
 ## [PPSLogModule](https://www.powershellgallery.com/Packages/PPSLogModule/0.1.7) | 0.1.7
 
 ### Published: 07/25/2022 01:54:49 by kade.hampson
@@ -12,14 +60,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 PPSLogModule
 
 __Downloads__: 351 | __Repository__: 
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/2.0.1) | 2.0.1
-
-### Published: 07/25/2022 01:20:16 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 164 | __Repository__: 
 
 ## [EZOut](https://www.powershellgallery.com/Packages/EZOut/1.8.7) | 1.8.7
 
@@ -76,14 +116,6 @@ __Downloads__: 68 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
 Powershell module SetUpBasic.Install. This module is under construction and just uploaded for testing purposes.
 
 __Downloads__: 13 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
-
-## [SetUpBasic.TaskScheduler](https://www.powershellgallery.com/Packages/SetUpBasic.TaskScheduler/0.0.0.19) | 0.0.0.19
-
-### Published: 07/24/2022 19:47:14 by Naitwatch
-
-Powershell module SetUpBasic.TaskScheduler. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 44 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TaskScheduler
 
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.0) | 2.0.0
 
@@ -148,14 +180,6 @@ Some of the authentication-related functions:
 
 __Downloads__: 123 | __Repository__: https://doitpsway.com/series/azure
 
-## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.144) | 0.0.144
-
-### Published: 07/24/2022 17:48:04 by Przemyslaw Klys
-
-Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
-
-__Downloads__: 116,683 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
 ## [ImagePlayground](https://www.powershellgallery.com/Packages/ImagePlayground/0.0.1) | 0.0.1
 
 ### Published: 07/24/2022 13:02:52 by Przemyslaw Klys
@@ -212,7 +236,7 @@ __Downloads__: 44 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen9, Gen10 or Gen10 Plus servers.
 
-__Downloads__: 752,335 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 752,285 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.19) | 0.0.0.19
 
@@ -228,7 +252,7 @@ __Downloads__: 55 | __Repository__: https://www.powershellgallery.com/packages/S
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 715,933 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 715,906 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.6.3) | 4.6.3
 
@@ -252,7 +276,7 @@ __Downloads__: 88,115 | __Repository__: https://www.milestonepstools.com/
 
 Used for easy importing of the Milestone Systems MIP SDK components in a PowerShell 5.1 environment.
 
-__Downloads__: 87,998 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 87,997 | __Repository__: https://www.milestonepstools.com/
 
 ## [PSFunctionInfo](https://www.powershellgallery.com/Packages/PSFunctionInfo/1.3.0) | 1.3.0
 
@@ -284,7 +308,7 @@ __Downloads__: 4 | __Repository__:
 
 ITGlue REST API-related functions.
 
-__Downloads__: 278,222 | __Repository__: https://github.com/wetling23/Public.ItGlue.PowerShellModule
+__Downloads__: 278,221 | __Repository__: https://github.com/wetling23/Public.ItGlue.PowerShellModule
 
 ## [PureStorage.Pure1](https://www.powershellgallery.com/Packages/PureStorage.Pure1/1.4.4.3) | 1.4.4.3
 
@@ -337,14 +361,6 @@ main section of your script rather than spending time to write code to perform c
 
 __Downloads__: 29 | __Repository__: https://github.com/uzi3/ScriptUtils
 
-## [vsmTools](https://www.powershellgallery.com/Packages/vsmTools/1.1.2) | 1.1.2
-
-### Published: 07/22/2022 11:54:32 by NiXerasse
-
-Test
-
-__Downloads__: 17 | __Repository__: https://github.com/NiXerasse/vsmTools
-
 ## [AppInsights](https://www.powershellgallery.com/Packages/AppInsights/1.0.1028) | 1.0.1028
 
 ### Published: 07/22/2022 11:47:54 by Sven Grav
@@ -355,7 +371,7 @@ AppInsights is a PowerShell module that provides Cmdlets to send logs and traces
     Checkout the GitHub repository for documentation and samples => 
     https://github.com/svengrav/appinsights-powershell
 
-__Downloads__: 4,663 | __Repository__: https://github.com/svengrav/appinsights-powershell
+__Downloads__: 4,650 | __Repository__: https://github.com/svengrav/appinsights-powershell
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/2.3.2) | 2.3.2
 
@@ -531,7 +547,7 @@ __Downloads__: 1,821 | __Repository__: https://github.com/Badgerati/Pode.Web
 
 This module allows you to collect warranty information from a myriad of sources
 
-__Downloads__: 46,095 | __Repository__: https://github.com/KelvinTegelaar/PowerShellWarrantyReports
+__Downloads__: 46,092 | __Repository__: https://github.com/KelvinTegelaar/PowerShellWarrantyReports
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.3) | 11.0.3
 
@@ -571,7 +587,7 @@ __Downloads__: 75 | __Repository__: https://github.com/BusHero/pester.extenssion
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,321,633 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,321,607 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [ADDSAuditTasks](https://www.powershellgallery.com/Packages/ADDSAuditTasks/1.6.0) | 1.6.0
 
@@ -588,14 +604,6 @@ __Downloads__: 1,496 | __Repository__: https://github.com/CriticalSolutionsNetwo
 firstvoucher.com PowerShell Module
 
 __Downloads__: 339 | __Repository__: 
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.117) | 1.1.117
-
-### Published: 07/21/2022 16:39:59 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,766,897 | __Repository__: https://dbatools.io/
 
 ## [PSConfigFile](https://www.powershellgallery.com/Packages/PSConfigFile/0.1.27) | 0.1.27
 
@@ -701,14 +709,6 @@ __Downloads__: 5 | __Repository__: https://github.com/artiga033/Pwsh-Complete
 PowerShell Cmdlets for Azure DevOps and Team Foundation Server
 
 __Downloads__: 7,219 | __Repository__: https://github.com/igoravl/tfscmdlets/
-
-## [PWSHModule](https://www.powershellgallery.com/Packages/PWSHModule/0.1.15) | 0.1.15
-
-### Published: 07/20/2022 22:23:43 by Pierre Smit
-
-Creates a GitHub Gist (Private or Public) list to install and maintain the installed PowerShell Modules on your systems, you can create more than one list and use it to custom install modules from different repositories or different versions.
-
-__Downloads__: 13 | __Repository__: https://github.com/smitpi/PWSHModule
 
 ## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.82) | 0.0.82
 
@@ -910,7 +910,7 @@ __Downloads__: 25,749 | __Repository__: https://ironmansoftware.com/powershell-u
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 15,926 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 15,925 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [GMNicRuDnsApi](https://www.powershellgallery.com/Packages/GMNicRuDnsApi/0.0.0.1) | 0.0.0.1
 
@@ -1863,7 +1863,7 @@ __Downloads__: 45,228 | __Repository__: https://github.com/oracle/oci-powershell
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,015,017 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,015,015 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Devolutions.Server](https://www.powershellgallery.com/Packages/Devolutions.Server/2022.2.6.1) | 2022.2.6.1
 
@@ -2033,4 +2033,4 @@ Quest AD HealthCheck Module
 
 __Downloads__: 408 | __Repository__: 
 
-*Updated: Monday, 25 July 2022 02:39:47 UTC*
+*Updated: Monday, 25 July 2022 09:53:20 UTC*
