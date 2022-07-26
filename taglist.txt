@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 26 July 2022 09:53:46 UTC
+Updated: Tuesday, 26 July 2022 17:52:52 UTC
 
 ?:
 ??
@@ -541,7 +541,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-ssis
 azureactivedirectory
 azuread
@@ -938,7 +937,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1015,7 +1013,6 @@ clipart
 clipasswordsdk
 clipboard
 clixml
-clock
 clojure
 clone
 close-openfile
@@ -2009,7 +2006,6 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
-everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2021,7 +2017,6 @@ example
 examples
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -3434,7 +3429,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messages
 messaging
 messenger
@@ -3541,7 +3535,6 @@ moldova
 moment
 monaco
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -4995,7 +4988,6 @@ rundeck
 runner
 runspace
 runspacepool
-runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -5332,7 +5324,6 @@ signed
 signing
 signtool
 silk
-sim
 simple
 simplecontainers
 simplepassword
@@ -6335,7 +6326,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsm
 vm
 vmc
 vmfs
@@ -6576,7 +6566,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -6611,8 +6600,6 @@ wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
