@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 25 July 2022 17:54:20 UTC
+Updated: Tuesday, 26 July 2022 02:42:33 UTC
 
 ?:
 ??
@@ -158,7 +158,6 @@ adm
 admf
 admin
 admin-tools
-admindirectory
 administration
 administrative
 administrativeunit
@@ -266,9 +265,9 @@ analysisservices
 analyst
 analyth
 analytics
+analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -440,6 +439,7 @@ auditpol
 auditpolicies
 auditpolicy
 audits
+aumid
 aut
 auth0
 authenticate
@@ -537,6 +537,7 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
+azure-pipelines
 azure-ssis
 azureactivedirectory
 azuread
@@ -610,6 +611,7 @@ banking
 banner
 bar
 barcodes
+baremetal
 base
 base16
 base26
@@ -762,7 +764,6 @@ bson
 btdf
 btm
 budget
-bugzilla
 build
 build-scripts
 builddefinition
@@ -800,7 +801,6 @@ cache
 caching
 caf
 cal
-calc
 calculate
 calculator
 calendar
@@ -1232,7 +1232,6 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
-convert-movietogif
 convert-windowsimage
 converter
 convertfrom-yaml
@@ -1388,7 +1387,6 @@ cyberark
 cyberdrain
 cybereason
 cybersecurity
-cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -1517,6 +1515,8 @@ defaultroutes
 defaults
 defence
 defender
+defender-atp
+defender-for-endpoint
 defenderast
 defenderforendpoint
 defense
@@ -2013,7 +2013,6 @@ example
 examples
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2025,6 +2024,7 @@ exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
+exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
@@ -2114,7 +2114,6 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fido2
@@ -2673,7 +2672,6 @@ hybris
 hyper-v
 hyperconverged
 hyperfine
-hyperlink
 hyperthreading
 hyperv
 hypervisor
@@ -3638,6 +3636,8 @@ mxlookup
 mycloudrevolution
 myhub
 myitprocess
+myjson
+myjson.com
 myob
 mysql
 mysql-database
@@ -3857,7 +3857,6 @@ office2013
 office2016
 office2019
 office365
-officedev
 officegraph
 officemessageencryption
 offline
@@ -4193,6 +4192,7 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
 plex
 plist
 plog
@@ -4360,6 +4360,7 @@ presentation
 presenter
 presto
 preston-k-parsard
+pretty
 prettyprinter
 preview
 previousversions
@@ -5127,7 +5128,6 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
-secretscanner
 secretserver
 secretsmanager
 secretvault
@@ -5264,6 +5264,7 @@ sf
 sfb
 sftp
 sfx
+sgw
 sha256
 shadow
 shadowcopy
@@ -5456,7 +5457,6 @@ space
 spaces
 spacex
 spam
-spanner
 spark
 sparklines
 spdockit
@@ -5611,6 +5611,7 @@ storablecolortheme
 storage
 storageaccount
 storagecache
+storagegrid-webscale
 storagesync
 store
 storefront
@@ -5820,7 +5821,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-services
 terminal.gui
@@ -5909,6 +5909,7 @@ tls11
 tls12
 tlsprotocol
 toast
+toasts
 tobias
 toc
 todo
@@ -6015,6 +6016,7 @@ twitter-api
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -6395,7 +6397,6 @@ vxrail
 w32time
 w3svc
 w3w
-waa
 waas
 wac
 waf
