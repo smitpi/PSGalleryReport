@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 26 July 2022 02:42:33 UTC
+Updated: Tuesday, 26 July 2022 09:53:46 UTC
 
 ?:
 ??
@@ -158,6 +158,7 @@ adm
 admf
 admin
 admin-tools
+admindirectory
 administration
 administrative
 administrativeunit
@@ -198,6 +199,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -268,6 +271,7 @@ analytics
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -764,6 +768,7 @@ bson
 btdf
 btm
 budget
+bugzilla
 build
 build-scripts
 builddefinition
@@ -801,6 +806,7 @@ cache
 caching
 caf
 cal
+calc
 calculate
 calculator
 calendar
@@ -1232,6 +1238,7 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-windowsimage
 converter
 convertfrom-yaml
@@ -1387,6 +1394,7 @@ cyberark
 cyberdrain
 cybereason
 cybersecurity
+cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -2013,6 +2021,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2068,6 +2077,7 @@ extend
 extended
 extendedevents
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2114,6 +2124,7 @@ feed
 fetch
 ffmpeg
 fhirservice
+fiche
 fiddler
 fido
 fido2
@@ -2672,6 +2683,7 @@ hybris
 hyper-v
 hyperconverged
 hyperfine
+hyperlink
 hyperthreading
 hyperv
 hypervisor
@@ -3857,6 +3869,7 @@ office2013
 office2016
 office2019
 office365
+officedev
 officegraph
 officemessageencryption
 offline
@@ -5128,6 +5141,7 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
+secretscanner
 secretserver
 secretsmanager
 secretvault
@@ -5457,6 +5471,7 @@ space
 spaces
 spacex
 spam
+spanner
 spark
 sparklines
 spdockit
@@ -5821,6 +5836,7 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
+termbin
 terminal
 terminal-services
 terminal.gui
@@ -6397,6 +6413,7 @@ vxrail
 w32time
 w3svc
 w3w
+waa
 waas
 wac
 waf
