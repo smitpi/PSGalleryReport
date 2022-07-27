@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 27 July 2022 02:43:15 UTC
+Updated: Wednesday, 27 July 2022 09:53:25 UTC
 
 ?:
 ??
@@ -64,6 +64,7 @@ aadgraph
 aadrm
 aadsc
 aadsecurity
+aadsts
 aam
 aas
 abc
@@ -200,7 +201,6 @@ affinity-co
 affinity-crm
 after-effects
 aftereffects
-agenda
 agent
 aggregates
 aggregation
@@ -248,7 +248,6 @@ alpine
 alpr
 alt3
 alter
-alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -516,6 +515,7 @@ azd
 azdisk
 azdo
 azereo
+azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
@@ -537,6 +537,7 @@ azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
+azure-forensics
 azure-functions
 azure-pipelines
 azure-ssis
@@ -580,6 +581,7 @@ azurerm
 azurerms
 azurerunasconnection
 azuresearch
+azuresearcher
 azuresecuritycenter
 azuresentinel
 azureservicebus
@@ -607,7 +609,6 @@ bamboo
 bamboohr
 bandwidth
 bank
-banking
 banner
 bar
 barcodes
@@ -809,6 +810,7 @@ calendar
 callingcode
 callqueue
 cam
+camera
 campaign
 camtasia
 canarie
@@ -1019,7 +1021,6 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
-cloud-iq
 cloudant
 cloudbees
 cloudberry
@@ -1028,13 +1029,13 @@ cloudbolt
 cloudendure
 cloudevents
 cloudflare
+cloudforensics
 cloudformation
 cloudfront
 cloudgovernance
 cloudguard
 cloudinairy
 cloudinit
-cloudiq
 cloudkey
 cloudmarque
 cloudservice
@@ -1160,7 +1161,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1285,7 +1285,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
-crayon
 crc
 crc32
 create
@@ -1605,6 +1604,7 @@ difference
 dig
 digikam
 digital
+digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
@@ -1657,6 +1657,7 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
+dividends
 diving
 division
 divoom
@@ -1941,6 +1942,7 @@ erb
 erp
 error
 error-log
+errorcode
 errorfile
 errors
 errorview
@@ -2086,6 +2088,7 @@ f5
 facebook
 factoryorchestrator
 factoryorchestratorclient
+facts
 faf
 failedlogin
 falcon
@@ -2406,7 +2409,6 @@ gitignore
 gitlab
 gitops
 glob
-globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2804,7 +2806,6 @@ initialization
 initials-avatar
 initiator
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -2833,6 +2834,7 @@ intacct
 integrated
 integratedscriptingeditor
 integration
+integrationaccount
 integrationservicescatalog
 integrity
 intel
@@ -4003,7 +4005,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 output
@@ -4150,6 +4151,7 @@ phishing
 phoenix
 phoneautomation
 photo
+photograph
 photos
 php
 phpapam
@@ -4333,6 +4335,7 @@ powershellscript
 powershelltemplate
 powershelltraining
 powershelltypeaccelerators
+powershellv5
 powerstig
 powerstore
 powertab
@@ -4357,7 +4360,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -4916,7 +4918,6 @@ rightsizing
 ripe
 risk
 riskiq
-riskpro
 risksense
 rlan
 rmcp
@@ -5239,7 +5240,6 @@ servicing
 servicingstack
 ses
 session
-sessionize
 sessions
 set
 set_bios
@@ -5468,7 +5468,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 specification
 specify
 spectre
@@ -5606,6 +5605,7 @@ stigrepo
 stingar
 stock
 stockcharts
+stocks
 stoicism
 stoics
 stop
@@ -5676,7 +5676,6 @@ supermarket
 support
 suppress
 supress-reboot
-surround
 survey
 surveymonkey
 sushi
@@ -5753,7 +5752,6 @@ tablacus
 table
 tableau
 tables
-tablestorage
 tabs
 tabular
 tag
@@ -5765,6 +5763,7 @@ tag2
 tagging
 tags
 tak
+taken
 tally
 talxis
 tanzu
@@ -5885,6 +5884,8 @@ threadjob
 threads
 threadsanitizer
 threat
+threat-hunting
+threathunting
 threatintelligence
 throttle
 thumbprint
@@ -6117,6 +6118,7 @@ unicode
 unidesk
 unifi
 unified
+unifiedauditlog
 unifiedlabeling
 uninstall
 uninstaller
@@ -6167,7 +6169,6 @@ uptobox
 uri
 uri-scheme
 url
-url-encode
 url-shortener
 urlencode
 urlhaus
@@ -6283,7 +6284,6 @@ viewer
 viewgroup
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -6650,7 +6650,6 @@ writelog
 writemanager
 ws-federation
 wsapi
-wsb
 wsl
 wsman
 wsmanlistener
