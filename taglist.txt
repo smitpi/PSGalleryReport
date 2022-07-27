@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 27 July 2022 09:53:25 UTC
+Updated: Wednesday, 27 July 2022 17:55:21 UTC
 
 ?:
 ??
@@ -201,6 +201,7 @@ affinity-co
 affinity-crm
 after-effects
 aftereffects
+agenda
 agent
 aggregates
 aggregation
@@ -248,6 +249,7 @@ alpine
 alpr
 alt3
 alter
+alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -609,6 +611,7 @@ bamboo
 bamboohr
 bandwidth
 bank
+banking
 banner
 bar
 barcodes
@@ -947,7 +950,6 @@ cil
 cim
 cim_computersystem
 cimfs
-cimi
 ciminstance
 cims
 cimsession
@@ -1161,6 +1163,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1657,7 +1660,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -1759,6 +1761,7 @@ drivertool
 drivertool.powercli
 driverupdates
 drm
+drone.io
 drop
 dropbox
 dropdatabase
@@ -2399,6 +2402,7 @@ git-client
 git-clone
 gitcmdline
 gitdesktop
+gitea
 gitflow
 gitforwindows
 github
@@ -2409,6 +2413,7 @@ gitignore
 gitlab
 gitops
 glob
+globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2802,10 +2807,10 @@ ingestion
 inheritance
 ini
 inifile
-initialization
 initials-avatar
 initiator
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -4005,6 +4010,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -4069,7 +4075,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pass
 passcode
 passivetotal
@@ -4360,6 +4365,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -4690,7 +4696,6 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
-raj
 ram
 ram-it
 random
@@ -4918,6 +4923,7 @@ rightsizing
 ripe
 risk
 riskiq
+riskpro
 risksense
 rlan
 rmcp
@@ -5240,6 +5246,7 @@ servicing
 servicingstack
 ses
 session
+sessionize
 sessions
 set
 set_bios
@@ -5468,6 +5475,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 specification
 specify
 spectre
@@ -5605,7 +5613,6 @@ stigrepo
 stingar
 stock
 stockcharts
-stocks
 stoicism
 stoics
 stop
@@ -5676,6 +5683,7 @@ supermarket
 support
 suppress
 supress-reboot
+surround
 survey
 surveymonkey
 sushi
@@ -5739,7 +5747,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -5752,6 +5759,7 @@ tablacus
 table
 tableau
 tables
+tablestorage
 tabs
 tabular
 tag
@@ -6169,6 +6177,7 @@ uptobox
 uri
 uri-scheme
 url
+url-encode
 url-shortener
 urlencode
 urlhaus
@@ -6199,7 +6208,6 @@ userworkstations
 usg
 usps
 utc
-utf-8
 utf-sig
 utf7
 utf8
@@ -6284,6 +6292,7 @@ viewer
 viewgroup
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -6650,6 +6659,7 @@ writelog
 writemanager
 ws-federation
 wsapi
+wsb
 wsl
 wsman
 wsmanlistener
