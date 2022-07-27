@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 26 July 2022 17:52:52 UTC
+Updated: Wednesday, 27 July 2022 02:43:15 UTC
 
 ?:
 ??
@@ -64,7 +64,6 @@ aadgraph
 aadrm
 aadsc
 aadsecurity
-aadsts
 aam
 aas
 abc
@@ -517,7 +516,6 @@ azd
 azdisk
 azdo
 azereo
-azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
@@ -539,8 +537,8 @@ azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
-azure-forensics
 azure-functions
+azure-pipelines
 azure-ssis
 azureactivedirectory
 azuread
@@ -582,7 +580,6 @@ azurerm
 azurerms
 azurerunasconnection
 azuresearch
-azuresearcher
 azuresecuritycenter
 azuresentinel
 azureservicebus
@@ -812,7 +809,6 @@ calendar
 callingcode
 callqueue
 cam
-camera
 campaign
 camtasia
 canarie
@@ -937,6 +933,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1013,6 +1010,7 @@ clipart
 clipasswordsdk
 clipboard
 clixml
+clock
 clojure
 clone
 close-openfile
@@ -1030,7 +1028,6 @@ cloudbolt
 cloudendure
 cloudevents
 cloudflare
-cloudforensics
 cloudformation
 cloudfront
 cloudgovernance
@@ -1608,7 +1605,6 @@ difference
 dig
 digikam
 digital
-digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
@@ -1661,7 +1657,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -1946,7 +1941,6 @@ erb
 erp
 error
 error-log
-errorcode
 errorfile
 errors
 errorview
@@ -2006,6 +2000,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2017,6 +2012,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2090,7 +2086,6 @@ f5
 facebook
 factoryorchestrator
 factoryorchestratorclient
-facts
 faf
 failedlogin
 falcon
@@ -2838,7 +2833,6 @@ intacct
 integrated
 integratedscriptingeditor
 integration
-integrationaccount
 integrationservicescatalog
 integrity
 intel
@@ -3429,6 +3423,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messages
 messaging
 messenger
@@ -3535,6 +3530,7 @@ moldova
 moment
 monaco
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -3941,6 +3937,7 @@ openssh
 openssl
 openstack
 openvpn
+operating
 operating_system
 operating-system
 operation
@@ -4153,7 +4150,6 @@ phishing
 phoenix
 phoneautomation
 photo
-photograph
 photos
 php
 phpapam
@@ -4337,7 +4333,6 @@ powershellscript
 powershelltemplate
 powershelltraining
 powershelltypeaccelerators
-powershellv5
 powerstig
 powerstore
 powertab
@@ -4988,6 +4983,7 @@ rundeck
 runner
 runspace
 runspacepool
+runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -5324,6 +5320,7 @@ signed
 signing
 signtool
 silk
+sim
 simple
 simplecontainers
 simplepassword
@@ -5609,7 +5606,6 @@ stigrepo
 stingar
 stock
 stockcharts
-stocks
 stoicism
 stoics
 stop
@@ -5769,7 +5765,6 @@ tag2
 tagging
 tags
 tak
-taken
 tally
 talxis
 tanzu
@@ -5890,8 +5885,6 @@ threadjob
 threads
 threadsanitizer
 threat
-threat-hunting
-threathunting
 threatintelligence
 throttle
 thumbprint
@@ -6124,7 +6117,6 @@ unicode
 unidesk
 unifi
 unified
-unifiedauditlog
 unifiedlabeling
 uninstall
 uninstaller
@@ -6326,6 +6318,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsm
 vm
 vmc
 vmfs
@@ -6566,6 +6559,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -6600,6 +6594,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
