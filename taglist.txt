@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 28 July 2022 09:52:37 UTC
+Updated: Thursday, 28 July 2022 17:54:34 UTC
 
 ?:
 ??
@@ -376,6 +376,7 @@ armtemplate
 armtemplates
 arp
 array
+arrays
 art
 artefactual
 artifact
@@ -481,6 +482,7 @@ autotask
 autotaskapi
 autotaskpsa
 autoyast
+availability
 availabilityset
 avalara
 avalonia
@@ -498,6 +500,7 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
+aws-vault
 awscli
 awspricelist
 axapta
@@ -511,13 +514,16 @@ azautomation
 azcli
 azcompute
 azd
+azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
+aznetworkinterface
 aznicdetails
 azops
+azpublicipaddress
 azresources
 azsdk
 azsk
@@ -1938,6 +1944,7 @@ ephesoft
 epicorerp
 episode
 epplus
+eprosima
 equality
 erb
 erp
@@ -2098,9 +2105,11 @@ faq
 farm
 farmanager
 fast
+fast-dds
 fastfilepub
 fastgit
 fastlinq
+fastlookup
 fastping
 favorites
 fb-pro
@@ -2281,6 +2290,7 @@ ftp
 ftps
 fudge
 fudgepop
+fujitsu
 full
 full-metal-gnome
 fullclr
@@ -3509,6 +3519,7 @@ miscellaneous
 mitigation
 mitre
 mitre_att&ck
+mitrend
 mittelschule
 mixedreality
 mixer
@@ -3919,6 +3930,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4508,6 +4520,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -5020,6 +5033,7 @@ sampler
 san
 sandbox
 sanitization
+sanitizer
 sap
 sapazure
 saponazure
@@ -5888,6 +5902,7 @@ thread
 threading
 threadjob
 threads
+threadsanitizer
 threat
 threat-hunting
 threathunting
@@ -6232,6 +6247,7 @@ validator
 value
 valve
 vami
+vao
 variable
 variables
 variance
@@ -6380,12 +6396,14 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
+vsm
 vso
 vsphere
 vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
