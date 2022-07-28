@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 27 July 2022 17:55:21 UTC
+Updated: Thursday, 28 July 2022 02:38:11 UTC
 
 ?:
 ??
@@ -950,6 +950,7 @@ cil
 cim
 cim_computersystem
 cimfs
+cimi
 ciminstance
 cims
 cimsession
@@ -1023,6 +1024,7 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
+cloud-iq
 cloudant
 cloudbees
 cloudberry
@@ -1038,6 +1040,7 @@ cloudgovernance
 cloudguard
 cloudinairy
 cloudinit
+cloudiq
 cloudkey
 cloudmarque
 cloudservice
@@ -1288,6 +1291,7 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
+crayon
 crc
 crc32
 create
@@ -1660,6 +1664,7 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
+dividends
 diving
 division
 divoom
@@ -1683,7 +1688,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsdumpster
 dnsentry
 dnsimple
 dnsmadeeasy
@@ -2055,7 +2059,6 @@ expandframework
 experiments
 expired
 expiring
-expiry
 exploit
 exploration
 explorer
@@ -2287,7 +2290,6 @@ fudge
 fudgepop
 fujitsu
 full
-full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
@@ -2574,6 +2576,7 @@ helloposhgallery
 helloworld
 helmet
 help
+helpdesk
 helper
 helperfunctions
 helpers
@@ -2807,7 +2810,6 @@ ingestion
 inheritance
 ini
 inifile
-initials-avatar
 initiator
 innerjoin
 innertext
@@ -2963,6 +2965,7 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
+jitbit
 jms
 joat
 job
@@ -4075,6 +4078,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pass
 passcode
 passivetotal
@@ -4696,6 +4700,7 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
+raj
 ram
 ram-it
 random
@@ -5226,7 +5231,6 @@ servicebus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
-servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5613,6 +5617,7 @@ stigrepo
 stingar
 stock
 stockcharts
+stocks
 stoicism
 stoics
 stop
@@ -5747,6 +5752,7 @@ systeminformation
 systemlocale
 systems
 systemsplash
+systray
 t
 t-sql
 tab
@@ -6208,6 +6214,7 @@ userworkstations
 usg
 usps
 utc
+utf-8
 utf-sig
 utf7
 utf8
