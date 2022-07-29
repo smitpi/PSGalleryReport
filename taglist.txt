@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 28 July 2022 17:54:34 UTC
+Updated: Friday, 29 July 2022 02:42:12 UTC
 
 ?:
 ??
@@ -610,7 +610,6 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
-bank
 banking
 banner
 bar
@@ -621,7 +620,6 @@ base16
 base26
 base32
 base64
-base64string
 base64url
 base85
 basecamp
@@ -1507,7 +1505,6 @@ decimalip
 declarative
 decline
 decode
-decode64
 decoding
 decompiler
 decrypt
@@ -1899,8 +1896,6 @@ enable-psremotingremote
 enbrea
 enclosure
 encode
-encode64
-encodetext
 encoding
 encrypt
 encryption
@@ -2125,7 +2120,6 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fido2
@@ -2850,7 +2844,6 @@ integrationaccount
 integrationservicescatalog
 integrity
 intel
-inteligo
 intelligence"
 intellisearch
 intellisense
@@ -2961,7 +2954,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jdedwards
 jdt
@@ -5431,7 +5423,6 @@ soap
 soc
 soccer
 social
-social-media
 socialmedia
 socketlabs
 sockets
@@ -5841,7 +5832,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-services
 terminal.gui
@@ -6033,8 +6023,6 @@ twincat
 twinkly
 twitch
 twitter
-twitter-api
-twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
@@ -6516,7 +6504,6 @@ wif
 wifi
 wiki
 wildcard
-wildfly
 wim
 wim2vhd
 win
@@ -6608,7 +6595,6 @@ with
 wkhtmltopdf
 wlan
 wmf
-wmf5
 wmi
 wmifilter
 wmipermanentevents
