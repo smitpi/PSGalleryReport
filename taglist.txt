@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 29 July 2022 09:52:44 UTC
+Updated: Friday, 29 July 2022 17:53:44 UTC
 
 ?:
 ??
@@ -44,6 +44,7 @@ Updated: Friday, 29 July 2022 09:52:44 UTC
 3dprinting
 3par
 50
+64
 650
 650flb
 7
@@ -95,6 +96,7 @@ acme
 acmesharp
 acmesharp_ext
 act-on
+act!
 actifio
 actifiogo
 action
@@ -231,7 +233,6 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
-alfresco
 algorithm
 algorithms
 alias
@@ -472,6 +473,7 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 autopilot
 autoscaling
 autostart
@@ -590,6 +592,7 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
+azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -606,6 +609,7 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
+bank
 banking
 banner
 bar
@@ -668,6 +672,7 @@ bin
 bin-obj
 binary
 binaryip
+bind
 binding
 bing
 bingmap
@@ -754,6 +759,7 @@ brk4452
 broadcast
 broot
 browser
+browserextension
 browserhistory
 brs
 bruteforce
@@ -783,6 +789,7 @@ business
 businesscentral
 businessdays
 businesshours
+businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -970,8 +977,10 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1005,6 +1014,7 @@ clipart
 clipasswordsdk
 clipboard
 clixml
+clock
 clojure
 clone
 close-openfile
@@ -1220,6 +1230,7 @@ continuousdeployment
 continuousintegration
 control
 controller
+controlroom
 convereter
 converged_data_management
 conversational
@@ -1234,6 +1245,10 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
+converttodocx
+converttohtml
+converttomarkdown
+converttomd
 cookie
 coolq
 cooltag1
@@ -1243,7 +1258,6 @@ copilot
 copy
 copy-item
 core
-coreposh
 corona
 corporate
 cortex
@@ -1276,6 +1290,8 @@ cqhttp
 crack psmodule
 crash
 crayon
+crc
+crc32
 create
 createcolumn
 createdatabase
@@ -1354,6 +1370,11 @@ customchecks
 customer
 customerengagement
 customers
+customeventchannel
+customeventlog
+customeventlogchannel
+customeventlogfile
+customeventlogfiles
 customevents
 custominformationservices
 customis
@@ -1372,6 +1393,8 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
+cyclic
+cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -1507,6 +1530,7 @@ deflate
 delegated
 delegationmodel
 delete
+delete-orphan-branches
 delivery
 dell
 dellemc
@@ -1870,7 +1894,6 @@ empty
 emwarehouse
 enable-psremoting
 enable-psremotingremote
-enbrea
 enclosure
 encode
 encode64
@@ -1962,6 +1985,8 @@ event
 event_id
 event_list
 event-timeline
+eventchannel
+eventchannels
 eventcollector
 eventful
 eventgrid
@@ -1969,6 +1994,9 @@ eventhub
 eventing
 eventlist
 eventlog
+eventlogchannel
+eventlogchannels
+eventlogmanifest
 eventlogs
 eventmonitoring
 eventprocessor
@@ -2051,6 +2079,7 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2066,6 +2095,7 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
+failedlogin
 falcon
 fallbackstatuspoint
 faq
@@ -2257,6 +2287,7 @@ ftp
 ftps
 fudge
 fudgepop
+fujitsu
 full
 full-metal-gnome
 fullclr
@@ -2359,6 +2390,8 @@ getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
 ggplot
+gh-actions
+ghactions
 ghc
 ghibli
 ghost
@@ -2391,6 +2424,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnucash
 gnuwin32
 gobright
 godaddy
@@ -2698,6 +2732,7 @@ identitydataplane
 identitydirector
 identitynow
 idf
+ids
 ie
 iem
 ifconfig
@@ -2812,6 +2847,7 @@ integrationaccount
 integrationservicescatalog
 integrity
 intel
+inteligo
 intelligence"
 intellisearch
 intellisense
@@ -2928,6 +2964,7 @@ jdedwards
 jdt
 jea
 jenkins
+jetbrains
 jira
 jiraservicemanagement
 jitbit
@@ -3069,6 +3106,7 @@ launcher
 layer
 layman
 layout
+lazywinadmin
 lbd
 lbi
 lbs
@@ -3109,7 +3147,6 @@ license
 license-generator
 licenseautomation
 licensemanager
-licensereport
 licenses
 licensing
 light
@@ -3243,6 +3280,7 @@ ltm
 lucd
 lucene
 lunches
+lwa
 lxca
 lxcapstool
 lxco
@@ -3359,6 +3397,7 @@ md5_v2-cab74de6d46849bb65d13090ba518cda
 md5sum
 mdatp
 mdb
+mdbc
 mde
 mdm
 mdop
@@ -3571,6 +3610,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -3622,6 +3664,7 @@ namedpipe
 nameit
 nameresolution
 names
+namespace
 nana
 nano
 nanoleaf
@@ -3732,11 +3775,9 @@ nordtools
 normal
 norskale
 nosql
-note
 notebook
 notepad
 noteproperty
-notes
 notification
 notificationhubs
 notifications
@@ -3816,6 +3857,7 @@ odata
 odbc
 odfb
 odin
+odoo
 offboarding
 offence
 office
@@ -3860,6 +3902,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -3870,6 +3913,7 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
+onq
 ons
 ontap
 ontap_9.10.1
@@ -4054,6 +4098,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -4063,6 +4108,7 @@ patch
 patches
 patching
 path
+pathfinder
 patternmatching
 pause
 pax8
@@ -4506,6 +4552,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -4538,6 +4587,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -4552,6 +4604,7 @@ psword
 pswriteword
 psyaml
 pszabbix
+pubg
 public
 public-key
 public-transport
@@ -4730,6 +4783,7 @@ redoc
 redseal
 redshift
 redteaming
+redundancy
 refactor
 refeds
 refeds-mfa
@@ -4817,6 +4871,7 @@ rescan
 rescuetime
 reservation
 reset
+resharper
 resize
 resolution
 resolve
@@ -4911,6 +4966,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -5026,6 +5082,7 @@ scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 score
@@ -5049,6 +5106,7 @@ script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
+scriptbook
 scriptcop
 scriptcreation
 scriptcs
@@ -5171,6 +5229,7 @@ servicebus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
+servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5208,7 +5267,9 @@ setting
 settings
 setup
 setupbasic.install
+setupbasic.publish
 setupbasic.taskscheduler
+setupbasic.template
 setupbasic.update
 sevenzip
 sf
@@ -5354,6 +5415,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -5475,6 +5537,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -5602,7 +5667,6 @@ subnetmask
 subnetmaths
 subnets
 subnetting
-subscribedskus
 subscription
 subscriptiondefinition
 subsystem
@@ -5638,7 +5702,6 @@ swarm
 swimlane
 swis
 switch
-sxs
 sybase
 sybaseiq
 symantec
@@ -5820,6 +5883,7 @@ theme
 themes
 thermal
 thermostat
+thinprint
 third-party-libraries
 third-party-notice
 thispc
@@ -5882,6 +5946,7 @@ toshiba
 totp
 touch
 toughswitch
+tphubps
 tpp
 trace
 traceevent
@@ -5928,6 +5993,7 @@ trevorsullivan
 triangle
 trigger
 triodos
+tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -6006,6 +6072,7 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6310,6 +6377,7 @@ vra
 vrealize
 vrising
 vro
+vrops
 vrtu
 vs
 vs-shell
@@ -6339,6 +6407,7 @@ vum
 vvx
 vxrail
 w32time
+w3svc
 w3w
 waa
 waas
@@ -6348,6 +6417,7 @@ waitforobject
 wakeonlan
 wakeup
 walk
+wallet
 wallpaper
 wallpapers
 wannacry
@@ -6356,6 +6426,7 @@ wap
 wapack
 wapi
 warning
+warplaneporn
 warranty
 warrenty
 wasabi
@@ -6462,8 +6533,6 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-registry
-windows-remoting
 windows-server-2016
 windows10
 windows10mui
@@ -6472,6 +6541,7 @@ windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
+windowsevent
 windowseventlog
 windowsform
 windowsforms
@@ -6503,7 +6573,6 @@ windowsvirtualdesktop
 winform
 winforms
 winget
-wingetbridge
 winrar
 winrm
 winrs
@@ -6591,6 +6660,7 @@ writelog
 writemanager
 ws-federation
 wsapi
+wsb
 wsl
 wsman
 wsmanlistener
