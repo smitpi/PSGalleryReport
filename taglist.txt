@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 30 July 2022 02:39:25 UTC
+Updated: Saturday, 30 July 2022 09:53:07 UTC
 
 ?:
 ??
@@ -64,7 +64,6 @@ aadgraph
 aadrm
 aadsc
 aadsecurity
-aadsts
 aam
 aas
 abc
@@ -195,11 +194,10 @@ aem
 aeries
 aeriessis
 aes
+afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -895,6 +893,7 @@ cf
 cfn
 ch9
 change
+changeanalysis
 changelog
 channel
 channel9
@@ -1146,6 +1145,7 @@ completion
 complex
 compliance
 compliant
+component
 composer
 composite
 compress
@@ -1843,6 +1843,7 @@ ebooks
 ebur128
 ec2
 ecommerce
+ecovadis
 edgaronline
 edge
 edgegateway
@@ -1940,12 +1941,12 @@ ephesoft
 epicorerp
 episode
 epplus
+eprosima
 equality
 erb
 erp
 error
 error-log
-errorcode
 errorfile
 errors
 errorview
@@ -2073,7 +2074,6 @@ extend
 extended
 extendedevents
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2100,6 +2100,7 @@ faq
 farm
 farmanager
 fast
+fast-dds
 fastfilepub
 fastgit
 fastlinq
@@ -2120,6 +2121,7 @@ fetch
 ffmpeg
 fhirservice
 fiche
+fiddler
 fido
 fido2
 fieldglass
@@ -2330,9 +2332,7 @@ gemlog
 gemtext
 general
 generate
-generateaddress
 generates
-generatewif
 generation
 generator
 generic
@@ -2496,7 +2496,6 @@ guestconfiguration
 gui
 gui.cs
 guid
-guidtoname
 gumby
 gvim
 gwbasic
@@ -2523,6 +2522,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+har
 hard
 hardblock
 harden
@@ -2682,7 +2682,6 @@ hyperlink
 hyperthreading
 hyperv
 hypervisor
-hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -2796,6 +2795,7 @@ influxdb
 info
 infoblox
 information
+informationbarriers
 informix
 infosec
 infrastructure
@@ -3077,7 +3077,6 @@ labworker
 lake
 lambda
 lame
-lamp
 lan
 language
 languagedsc
@@ -3589,6 +3588,7 @@ msgraphreport
 msgraphtokenlifetimepolicy
 msi
 msi psmodule
+msiexec
 msil
 msix
 mslab
@@ -3641,7 +3641,6 @@ mx
 mxlookup
 mycloudrevolution
 myhub
-myitprocess
 myjson
 myjson.com
 myob
@@ -4180,9 +4179,11 @@ pipelines
 pipescript
 piraeus
 pivot
+pivotal
 pivottable
 pixoo
 pki
+pks
 place
 places
 plain
@@ -4923,7 +4924,6 @@ risk
 riskiq
 riskpro
 risksense
-rlan
 rmcp
 rmm
 rmmapi
@@ -5021,6 +5021,7 @@ sampler
 san
 sandbox
 sanitization
+sanitizer
 sap
 sapazure
 saponazure
@@ -5079,7 +5080,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5225,7 +5225,6 @@ servicecatalog
 serviceconnectionpoint
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -5348,6 +5347,7 @@ sitemap
 siterecovery
 sites
 sitesystemserver
+sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5755,7 +5755,6 @@ tabexpansion
 tabexpansion2
 tablacus
 table
-tableau
 tables
 tablestorage
 tabs
@@ -5826,7 +5825,6 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
-teradata
 termbin
 terminal
 terminal-services
@@ -5888,6 +5886,7 @@ thread
 threading
 threadjob
 threads
+threadsanitizer
 threat
 threat-hunting
 threathunting
@@ -6178,6 +6177,7 @@ url-encode
 url-shortener
 urlencode
 urlhaus
+urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6494,9 +6494,7 @@ whitespace
 whoami
 whois
 whormi
-wi-fi
 wid
-wif
 wifi
 wiki
 wildcard
@@ -6568,7 +6566,6 @@ windowsvirtualdesktop
 winform
 winforms
 winget
-wingetbridge
 winrar
 winrm
 winrs
