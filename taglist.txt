@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 30 July 2022 09:53:07 UTC
+Updated: Saturday, 30 July 2022 17:53:32 UTC
 
 ?:
 ??
@@ -64,6 +64,7 @@ aadgraph
 aadrm
 aadsc
 aadsecurity
+aadsts
 aam
 aas
 abc
@@ -198,6 +199,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -754,7 +757,6 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
-broadcast
 broot
 browser
 browserextension
@@ -804,7 +806,6 @@ caching
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -1829,7 +1830,6 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
-dynatrace
 dyndns
 dynmanageddns
 e-mail
@@ -1944,9 +1944,9 @@ epplus
 eprosima
 equality
 erb
-erp
 error
 error-log
+errorcode
 errorfile
 errors
 errorview
@@ -2074,6 +2074,7 @@ extend
 extended
 extendedevents
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2102,7 +2103,6 @@ farmanager
 fast
 fast-dds
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2332,7 +2332,9 @@ gemlog
 gemtext
 general
 generate
+generateaddress
 generates
+generatewif
 generation
 generator
 generic
@@ -2496,6 +2498,7 @@ guestconfiguration
 gui
 gui.cs
 guid
+guidtoname
 gumby
 gvim
 gwbasic
@@ -2503,7 +2506,6 @@ gymnasium
 gz
 gzip
 ha
-haarlemsdagblad
 hack
 hacktoberfest
 hadoop
@@ -2559,7 +2561,6 @@ healthcareapis
 healthcheck
 healthchecks
 healthservice
-healthz
 heartbeatdiscovery
 heat
 heating
@@ -2589,7 +2590,6 @@ hidden
 hide
 hids
 hiera
-hierarchialdistributionlist
 hierarchical
 high-availability
 highlight
@@ -2682,6 +2682,7 @@ hyperlink
 hyperthreading
 hyperv
 hypervisor
+hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -3077,6 +3078,7 @@ labworker
 lake
 lambda
 lame
+lamp
 lan
 language
 languagedsc
@@ -3641,6 +3643,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myitprocess
 myjson
 myjson.com
 myob
@@ -3694,7 +3697,6 @@ netcease
 netcore
 netfirewallrule
 netherlands
-netmask
 nets
 netsapiens
 netscaler
@@ -3805,7 +3807,6 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
-number
 numlock
 nunit
 nupkg
@@ -4356,7 +4357,6 @@ predicate
 prediction
 predictor
 preferences
-prefix
 preparead
 preparealldomains
 prepareschema
@@ -4924,6 +4924,7 @@ risk
 riskiq
 riskpro
 risksense
+rlan
 rmcp
 rmm
 rmmapi
@@ -4946,7 +4947,6 @@ rot13
 rotate
 rotation
 round
-roundrobindatabase
 route
 route53
 routeconfig
@@ -4963,7 +4963,6 @@ royaltsx
 rpa
 rpc
 rras
-rrd
 rs
 rsa
 rsat
@@ -4996,7 +4995,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s3
 s4b
@@ -5080,6 +5078,7 @@ scom
 sconfig
 scoop
 scope
+score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5225,6 +5224,7 @@ servicecatalog
 serviceconnectionpoint
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -5755,6 +5755,7 @@ tabexpansion
 tabexpansion2
 tablacus
 table
+tableau
 tables
 tablestorage
 tabs
@@ -5785,7 +5786,6 @@ taskscheduler
 taxjar
 taxonomy
 tcp
-tcp/ip
 tcpip
 tcpport
 tcpserver
@@ -5825,6 +5825,7 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
+teradata
 termbin
 terminal
 terminal-services
@@ -6275,7 +6276,6 @@ version
 versioncontrol
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -6494,7 +6494,9 @@ whitespace
 whoami
 whois
 whormi
+wi-fi
 wid
+wif
 wifi
 wiki
 wildcard
@@ -6566,6 +6568,7 @@ windowsvirtualdesktop
 winform
 winforms
 winget
+wingetbridge
 winrar
 winrm
 winrs
