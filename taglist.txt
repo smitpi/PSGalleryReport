@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 29 July 2022 17:53:44 UTC
+Updated: Saturday, 30 July 2022 02:39:25 UTC
 
 ?:
 ??
@@ -195,7 +195,6 @@ aem
 aeries
 aeriessis
 aes
-afd
 affinity
 affinity-co
 affinity-crm
@@ -233,6 +232,7 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -895,7 +895,6 @@ cf
 cfn
 ch9
 change
-changeanalysis
 changelog
 channel
 channel9
@@ -1147,7 +1146,6 @@ completion
 complex
 compliance
 compliant
-component
 composer
 composite
 compress
@@ -1258,6 +1256,7 @@ copilot
 copy
 copy-item
 core
+coreposh
 corona
 corporate
 cortex
@@ -1844,7 +1843,6 @@ ebooks
 ebur128
 ec2
 ecommerce
-ecovadis
 edgaronline
 edge
 edgegateway
@@ -1894,6 +1892,7 @@ empty
 emwarehouse
 enable-psremoting
 enable-psremotingremote
+enbrea
 enclosure
 encode
 encode64
@@ -1941,7 +1940,6 @@ ephesoft
 epicorerp
 episode
 epplus
-eprosima
 equality
 erb
 erp
@@ -2102,7 +2100,6 @@ faq
 farm
 farmanager
 fast
-fast-dds
 fastfilepub
 fastgit
 fastlinq
@@ -2123,7 +2120,6 @@ fetch
 ffmpeg
 fhirservice
 fiche
-fiddler
 fido
 fido2
 fieldglass
@@ -2527,7 +2523,6 @@ handle
 handler
 hangouts
 hannelstoolbox
-har
 hard
 hardblock
 harden
@@ -2801,7 +2796,6 @@ influxdb
 info
 infoblox
 information
-informationbarriers
 informix
 infosec
 infrastructure
@@ -3147,6 +3141,7 @@ license
 license-generator
 licenseautomation
 licensemanager
+licensereport
 licenses
 licensing
 light
@@ -3594,7 +3589,6 @@ msgraphreport
 msgraphtokenlifetimepolicy
 msi
 msi psmodule
-msiexec
 msil
 msix
 mslab
@@ -3775,9 +3769,11 @@ nordtools
 normal
 norskale
 nosql
+note
 notebook
 notepad
 noteproperty
+notes
 notification
 notificationhubs
 notifications
@@ -4184,11 +4180,9 @@ pipelines
 pipescript
 piraeus
 pivot
-pivotal
 pivottable
 pixoo
 pki
-pks
 place
 places
 plain
@@ -4994,6 +4988,7 @@ rundeck
 runner
 runspace
 runspacepool
+runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -5026,7 +5021,6 @@ sampler
 san
 sandbox
 sanitization
-sanitizer
 sap
 sapazure
 saponazure
@@ -5354,7 +5348,6 @@ sitemap
 siterecovery
 sites
 sitesystemserver
-sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5667,6 +5660,7 @@ subnetmask
 subnetmaths
 subnets
 subnetting
+subscribedskus
 subscription
 subscriptiondefinition
 subsystem
@@ -5702,6 +5696,7 @@ swarm
 swimlane
 swis
 switch
+sxs
 sybase
 sybaseiq
 symantec
@@ -5893,7 +5888,6 @@ thread
 threading
 threadjob
 threads
-threadsanitizer
 threat
 threat-hunting
 threathunting
@@ -6184,7 +6178,6 @@ url-encode
 url-shortener
 urlencode
 urlhaus
-urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6533,6 +6526,8 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
+windows-registry
+windows-remoting
 windows-server-2016
 windows10
 windows10mui
@@ -6573,6 +6568,7 @@ windowsvirtualdesktop
 winform
 winforms
 winget
+wingetbridge
 winrar
 winrm
 winrs
