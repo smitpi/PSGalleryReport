@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 30 July 2022 17:53:32 UTC
+Updated: Sunday, 31 July 2022 02:43:16 UTC
 
 ?:
 ??
@@ -806,6 +806,7 @@ caching
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -898,7 +899,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
@@ -1081,7 +1081,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1506,7 +1505,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -1830,6 +1828,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dyndns
 dynmanageddns
 e-mail
@@ -1905,7 +1904,6 @@ end-of-line
 endomondo
 endpoint
 endpoints
-energy
 engine
 engineevent
 english
@@ -2055,7 +2053,6 @@ expand-tab
 expandframework
 experiments
 expired
-expiring
 expiry
 exploit
 exploration
@@ -2103,6 +2100,7 @@ farmanager
 fast
 fast-dds
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2428,7 +2426,6 @@ gobright
 godaddy
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2506,6 +2503,7 @@ gymnasium
 gz
 gzip
 ha
+haarlemsdagblad
 hack
 hacktoberfest
 hadoop
@@ -2548,7 +2546,6 @@ hba
 hbase
 hci
 hcl
-hcx
 hdfs
 hdinsight
 header
@@ -2561,6 +2558,7 @@ healthcareapis
 healthcheck
 healthchecks
 healthservice
+healthz
 heartbeatdiscovery
 heat
 heating
@@ -2590,6 +2588,7 @@ hidden
 hide
 hids
 hiera
+hierarchialdistributionlist
 hierarchical
 high-availability
 highlight
@@ -2796,7 +2795,6 @@ influxdb
 info
 infoblox
 information
-informationbarriers
 informix
 infosec
 infrastructure
@@ -2844,7 +2842,6 @@ integrity
 intel
 inteligo
 intelligence"
-intellisearch
 intellisense
 interactive
 interactive-brokers
@@ -3200,7 +3197,6 @@ localization
 location
 locationbasedservices
 lock
-lockbox
 lockdisplaytimeout
 lockdown
 locking
@@ -3474,7 +3470,6 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
-microsoftexchangeserver
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -3807,6 +3802,7 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
+number
 numlock
 nunit
 nupkg
@@ -3845,7 +3841,6 @@ octopus
 octopus-deploy
 octopus.client
 octopusdeploy
-octopusenergy
 ocvp
 od4b
 oda
@@ -4538,7 +4533,6 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
-psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
@@ -4631,7 +4625,6 @@ push-location
 push-notifications
 pushd
 pushover
-pushoverapi
 putty
 pve
 pvr
@@ -4641,7 +4634,6 @@ pwned
 pwpush
 pwsh
 pwsh.fw
-pwshake
 pwshfw
 pxedistributionpoint
 pyranja
@@ -4717,7 +4709,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdb
@@ -4947,6 +4938,7 @@ rot13
 rotate
 rotation
 round
+roundrobindatabase
 route
 route53
 routeconfig
@@ -4963,6 +4955,7 @@ royaltsx
 rpa
 rpc
 rras
+rrd
 rs
 rsa
 rsat
@@ -4995,6 +4988,7 @@ russia
 rust
 rust-lang
 ryanairps
+ryver
 s.ds.p
 s3
 s4b
@@ -5002,7 +4996,6 @@ saas
 sabnzbd
 sabnzbd+
 sacl
-safari
 safeguard
 sage
 saggiehaim
@@ -5078,7 +5071,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5226,7 +5218,6 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
-servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5450,14 +5441,12 @@ soonragent
 sophos
 sort
 source
-source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 space
 spaces
 spacex
@@ -5599,7 +5588,6 @@ staytus
 stderr
 stdout
 steam
-steam-games
 steamcmd
 sticker
 sticker-pack
@@ -6276,6 +6264,7 @@ version
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -6646,7 +6635,6 @@ write-debug
 write-host
 write-information
 write-log
-write-loganalytics
 write-message
 write-progress
 write-slog

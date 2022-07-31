@@ -5,13 +5,29 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [FixLogModule](https://www.powershellgallery.com/Packages/FixLogModule/2.0.0) | 2.0.0
+## [FixLogModule](https://www.powershellgallery.com/Packages/FixLogModule/2.1.1) | 2.1.1
 
-### Published: 07/30/2022 15:54:07 by Marco Dorantes
+### Published: 07/31/2022 01:48:45 by Marco Dorantes
 
 FixLogModule parses FIX Log files and streams FIX Messages into the PowerShell Pipeline. Also, it displays FIX Tag Numbers, FIX Tag Names and FIX Tag Values based on a dictionary of a supported FIX Protocol version.
 
 __Downloads__: 60 | __Repository__: https://www.gbm.com/
+
+## [PsDac](https://www.powershellgallery.com/Packages/PsDac/1.2.0) | 1.2.0
+
+### Published: 07/30/2022 20:34:09 by Steffen Kampmann
+
+PsDac connects DacFx and PowerShell. It gives you PowerShell Cmdlets with the power of Microsoft.SqlServer.DacFx.
+
+__Downloads__: 167 | __Repository__: https://github.com/abbgrade/PsDac
+
+## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.4.2) | 1.4.2
+
+### Published: 07/30/2022 18:55:45 by jantari
+
+Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
+
+__Downloads__: 5,857,855 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -19,7 +35,7 @@ __Downloads__: 60 | __Repository__: https://www.gbm.com/
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 741,523 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 741,524 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -35,7 +51,7 @@ __Downloads__: 124 | __Repository__: https://github.com/BusHero/pester.extenssio
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,783,191 | __Repository__: https://dbatools.io/
+__Downloads__: 1,783,195 | __Repository__: https://dbatools.io/
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.0.0) | 1.0.0
 
@@ -108,7 +124,7 @@ __Downloads__: 58,961 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,329,647 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,329,650 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.8.5117) | 20.12.8.5117
 
@@ -188,7 +204,7 @@ __Downloads__: 15 | __Repository__:
 
 Scan for secrets in code to prevent accidentaly commited secrets
 
-__Downloads__: 114 | __Repository__: https://github.com/bjompen/PSSecretScanner
+__Downloads__: 113 | __Repository__: https://github.com/bjompen/PSSecretScanner
 
 ## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.83) | 0.0.83
 
@@ -267,7 +283,7 @@ __Downloads__: 14 | __Repository__: https://github.com/jgrutz/JitBitPS
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 8,430 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 8,431 | __Repository__: https://aka.ms/AzAPICall
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/1.1.0) | 1.1.0
 
@@ -363,7 +379,7 @@ __Downloads__: 769 | __Repository__: https://github.com/NaitWatch/SetUpBasic
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,034,971 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,034,973 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [EventLogTools](https://www.powershellgallery.com/Packages/EventLogTools/4.0.0.0) | 4.0.0.0
 
@@ -540,7 +556,7 @@ __Downloads__: 944 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 514,768 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 514,757 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/37.0.0) | 37.0.0
 
@@ -949,14 +965,6 @@ __Downloads__: 1,696 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Loganalytics Service
 
 __Downloads__: 1,498 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Lockbox](https://www.powershellgallery.com/Packages/OCI.PSModules.Lockbox/37.0.0) | 37.0.0
-
-### Published: 07/26/2022 22:17:03 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Lockbox Service
-
-__Downloads__: 41 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Loadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Loadbalancer/37.0.0) | 37.0.0
 
@@ -1539,7 +1547,7 @@ __Downloads__: 9 | __Repository__:
 
 Useful PowerShell functions and commands.
 
-__Downloads__: 732 | __Repository__: https://github.com/icraftsoftware/Be.Stateless.PowerShell.Module.Psx
+__Downloads__: 731 | __Repository__: https://github.com/icraftsoftware/Be.Stateless.PowerShell.Module.Psx
 
 ## [PsDfs](https://www.powershellgallery.com/Packages/PsDfs/1.0.14) | 1.0.14
 
@@ -1735,7 +1743,7 @@ __Downloads__: 293 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTable
 
 Database for KB Viewer and Saver
 
-__Downloads__: 515,317 | __Repository__: 
+__Downloads__: 515,079 | __Repository__: 
 
 ## [SetUpBasic.TaskScheduler](https://www.powershellgallery.com/Packages/SetUpBasic.TaskScheduler/0.0.0.22) | 0.0.0.22
 
@@ -1768,14 +1776,6 @@ __Downloads__: 633 | __Repository__:
 Find-Gif allows you to find a GIF from tenor.com using their API
 
 __Downloads__: 5 | __Repository__: https://github.com/psDevUK/Find-Gif
-
-## [FindFunctionCalls](https://www.powershellgallery.com/Packages/FindFunctionCalls/1.4.4) | 1.4.4
-
-### Published: 07/24/2022 21:40:28 by Freddie Sackur
-
-Build a tree of function calls.
-
-__Downloads__: 41 | __Repository__: https://github.com/fsackur/FindFunctionCalls
 
 ## [WinEventLogCustomization](https://www.powershellgallery.com/Packages/WinEventLogCustomization/1.0.0) | 1.0.0
 
@@ -1878,7 +1878,7 @@ __Downloads__: 65 | __Repository__: https://github.com/StartAutomating/LightScri
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen9, Gen10 or Gen10 Plus servers.
 
-__Downloads__: 757,089 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 757,091 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2207.609) | 2207.609
 
@@ -1886,7 +1886,7 @@ __Downloads__: 757,089 | __Repository__: https://www.hpe.com/servers/powershell
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 730,776 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 730,783 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.6.3) | 4.6.3
 
@@ -2055,4 +2055,4 @@ The module is managing settings inside an unattended.xml file
 
 __Downloads__: 24,441 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
-*Updated: Saturday, 30 July 2022 17:53:19 UTC*
+*Updated: Sunday, 31 July 2022 02:43:04 UTC*
