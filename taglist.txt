@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 31 July 2022 02:43:16 UTC
+Updated: Sunday, 31 July 2022 09:52:42 UTC
 
 ?:
 ??
@@ -136,7 +136,6 @@ add-on.module
 add-one
 add-path
 add-type
-addin
 addlevel
 addomainservices
 addon
@@ -233,7 +232,6 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
-alfresco
 algorithm
 algorithms
 alias
@@ -757,6 +755,7 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
+broadcast
 broot
 browser
 browserextension
@@ -899,6 +898,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1070,7 +1070,6 @@ cmtrace
 cmwt
 cns
 coa
-cockroachdb
 codaamok
 code
 code-page
@@ -1081,6 +1080,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codepoint
 codereview
 codes
 codesign
@@ -1116,7 +1116,6 @@ comical
 comics
 command
 command_line
-command-validation
 commandcoverage
 commandlets
 commandline
@@ -1317,7 +1316,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-crestron
 crlf
 crm
 crm2016
@@ -1348,7 +1346,6 @@ csv
 csv2adx
 csvhelper
 ctf
-ctglobal
 ctl
 ctx
 ctype
@@ -1505,6 +1502,7 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
@@ -1904,6 +1902,7 @@ end-of-line
 endomondo
 endpoint
 endpoints
+energy
 engine
 engineevent
 english
@@ -1942,6 +1941,7 @@ epplus
 eprosima
 equality
 erb
+erp
 error
 error-log
 errorcode
@@ -2070,7 +2070,6 @@ exportteams
 extend
 extended
 extendedevents
-extendedproperty
 extendscript
 extensibility
 extension
@@ -2210,9 +2209,7 @@ flasharray
 flashblade
 flatfile
 flatten
-flex
 flex-query
-flexdesk
 flickr
 flowchart
 flowy
@@ -2546,6 +2543,7 @@ hba
 hbase
 hci
 hcl
+hcx
 hdfs
 hdinsight
 header
@@ -2588,7 +2586,6 @@ hidden
 hide
 hids
 hiera
-hierarchialdistributionlist
 hierarchical
 high-availability
 highlight
@@ -2687,7 +2684,6 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
-ia
 iaas
 iac
 iam
@@ -2795,6 +2791,7 @@ influxdb
 info
 infoblox
 information
+informationbarriers
 informix
 infosec
 infrastructure
@@ -2814,7 +2811,6 @@ inputobject
 insert
 insiderthreat
 insight
-insightanalytics
 insights
 inspect
 inspur
@@ -2842,6 +2838,7 @@ integrity
 intel
 inteligo
 intelligence"
+intellisearch
 intellisense
 interactive
 interactive-brokers
@@ -3106,7 +3103,6 @@ lcm
 lcminternals
 ldap
 league
-lean
 learn
 learn-powershell
 learn-powershell-series
@@ -3136,8 +3132,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanager
 licensereport
 licenses
@@ -3197,6 +3191,7 @@ localization
 location
 locationbasedservices
 lock
+lockbox
 lockdisplaytimeout
 lockdown
 locking
@@ -3470,6 +3465,7 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
+microsoftexchangeserver
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -3496,7 +3492,6 @@ min
 mindmeister
 minecraft
 minifier
-minimal
 minimum
 mip
 mipsdk
@@ -3692,6 +3687,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmask
 nets
 netsapiens
 netscaler
@@ -3841,6 +3837,7 @@ octopus
 octopus-deploy
 octopus.client
 octopusdeploy
+octopusenergy
 ocvp
 od4b
 oda
@@ -3979,7 +3976,6 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
-osdprogress
 osdsus
 osdupdate
 osi
@@ -4352,10 +4348,10 @@ predicate
 prediction
 predictor
 preferences
+prefix
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
@@ -4533,6 +4529,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
@@ -4625,6 +4622,7 @@ push-location
 push-notifications
 pushd
 pushover
+pushoverapi
 putty
 pve
 pvr
@@ -4634,6 +4632,7 @@ pwned
 pwpush
 pwsh
 pwsh.fw
+pwshake
 pwshfw
 pxedistributionpoint
 pyranja
@@ -4988,7 +4987,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s3
 s4b
@@ -4996,6 +4994,7 @@ saas
 sabnzbd
 sabnzbd+
 sacl
+safari
 safeguard
 sage
 saggiehaim
@@ -5071,6 +5070,7 @@ scom
 sconfig
 scoop
 scope
+score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5218,6 +5218,7 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5774,6 +5775,7 @@ taskscheduler
 taxjar
 taxonomy
 tcp
+tcp/ip
 tcpip
 tcpport
 tcpserver
@@ -6635,6 +6637,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-message
 write-progress
 write-slog

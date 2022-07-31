@@ -5,6 +5,94 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.75) | 1.0.75
+
+### Published: 07/31/2022 06:31:51 by Jeremy La Camera
+
+Module for multithreading PowerShell commands using .Net Runspaces
+
+__Downloads__: 16 | __Repository__: 
+
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.9) | 2.0.9
+
+### Published: 07/31/2022 06:22:04 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 32 | __Repository__: 
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.14) | 0.0.14
+
+### Published: 07/31/2022 06:06:17 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 9 | __Repository__: 
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/2.0.7) | 2.0.7
+
+### Published: 07/31/2022 06:04:05 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 193 | __Repository__: 
+
+## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.199) | 0.0.0.199
+
+### Published: 07/31/2022 05:48:40 by Naitwatch
+
+Powershell module for basic windows os configuration, maintenance
+
+__Downloads__: 769 | __Repository__: https://github.com/NaitWatch/SetUpBasic
+
+## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.16) | 0.0.0.16
+
+### Published: 07/31/2022 05:48:19 by Naitwatch
+
+Powershell module SetUpBasic.Update. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 124 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Update
+
+## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.21) | 0.0.0.21
+
+### Published: 07/31/2022 05:48:07 by Naitwatch
+
+Powershell module SetUpBasic.Publish. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 127 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Publish
+
+## [LightScript](https://www.powershellgallery.com/Packages/LightScript/0.2.4.1) | 0.2.4.1
+
+### Published: 07/31/2022 05:12:39 by James Brundage
+
+Smarter Lighting with PowerShell
+
+__Downloads__: 65 | __Repository__: https://github.com/StartAutomating/LightScript
+
+## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.3) | 0.3
+
+### Published: 07/31/2022 05:06:35 by James Brundage
+
+A Helpful Toolkit for Managing PowerShell Help
+
+__Downloads__: 421 | __Repository__: https://github.com/StartAutomating/HelpOut
+
+## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.0.6) | 1.0.0.6
+
+### Published: 07/31/2022 03:37:46 by Powershellcrack
+
+A module designed to help manage devices in Intune
+
+__Downloads__: 19 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
+
+## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.14) | 0.0.14
+
+### Published: 07/31/2022 03:03:20 by James Brundage
+
+An Extensible Transpiler for PowerShell (and anything else)
+
+__Downloads__: 46 | __Repository__: https://github.com/StartAutomating/PipeScript
+
 ## [FixLogModule](https://www.powershellgallery.com/Packages/FixLogModule/2.1.1) | 2.1.1
 
 ### Published: 07/31/2022 01:48:45 by Marco Dorantes
@@ -27,7 +115,7 @@ __Downloads__: 167 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,857,855 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,857,838 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -35,7 +123,7 @@ __Downloads__: 5,857,855 | __Repository__: https://www.github.com/jantari/LSUCli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 741,524 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 741,517 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -51,7 +139,7 @@ __Downloads__: 124 | __Repository__: https://github.com/BusHero/pester.extenssio
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,783,195 | __Repository__: https://dbatools.io/
+__Downloads__: 1,783,151 | __Repository__: https://dbatools.io/
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.0.0) | 1.0.0
 
@@ -124,7 +212,7 @@ __Downloads__: 58,961 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,329,650 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,329,647 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.8.5117) | 20.12.8.5117
 
@@ -283,7 +371,7 @@ __Downloads__: 14 | __Repository__: https://github.com/jgrutz/JitBitPS
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 8,431 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 8,430 | __Repository__: https://aka.ms/AzAPICall
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/1.1.0) | 1.1.0
 
@@ -365,21 +453,13 @@ Integrate and maintain Exchange Online with SEPPmail.Cloud
 
 __Downloads__: 169 | __Repository__: https://github.com/SEPPmail/SEPPmail365cloud
 
-## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.198) | 0.0.0.198
-
-### Published: 07/28/2022 09:44:40 by Naitwatch
-
-Powershell module for basic windows os configuration, maintenance
-
-__Downloads__: 769 | __Repository__: https://github.com/NaitWatch/SetUpBasic
-
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22207.31111) | 4.4.22207.31111
 
 ### Published: 07/28/2022 06:45:09 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,034,973 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,034,947 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [EventLogTools](https://www.powershellgallery.com/Packages/EventLogTools/4.0.0.0) | 4.0.0.0
 
@@ -397,14 +477,6 @@ Puppet Bolt is an open source task runner that executes ad hoc tasks, scripts, a
 
 __Downloads__: 1,030 | __Repository__: https://github.com/puppetlabs/bolt
 
-## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.0.5) | 1.0.0.5
-
-### Published: 07/27/2022 21:39:45 by Powershellcrack
-
-A module designed to help manage devices in Intune
-
-__Downloads__: 19 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
-
 ## [PSOpenAD](https://www.powershellgallery.com/Packages/PSOpenAD/0.1.1) | 0.1.1
 
 ### Published: 07/27/2022 20:52:25 by Jordan Borean
@@ -412,14 +484,6 @@ __Downloads__: 19 | __Repository__: https://github.com/PowerShellCrack/PSIntuneA
 Cross platform module that can get/set information in Active Directory.`nSee https://github.com/jborean93/PSOpenAD for more info
 
 __Downloads__: 252 | __Repository__: https://github.com/jborean93/PSOpenAD
-
-## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.20) | 0.0.0.20
-
-### Published: 07/27/2022 19:26:19 by Naitwatch
-
-Powershell module SetUpBasic.Publish. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 127 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Publish
 
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/0.9.46) | 0.9.46
 
@@ -452,22 +516,6 @@ __Downloads__: 555 | __Repository__: https://password.devolutions.net/
 Test-NetHLK is a module that compares a NICs driver configuration and switch capabilities against the MSFT documented requirements
 
 __Downloads__: 3,612 | __Repository__: https://github.com/microsoft/Test-NetHLK
-
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.4) | 2.0.4
-
-### Published: 07/27/2022 17:16:02 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 32 | __Repository__: 
-
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.12) | 0.0.12
-
-### Published: 07/27/2022 15:51:01 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 9 | __Repository__: 
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.1.6) | 3.1.6
 
@@ -556,7 +604,7 @@ __Downloads__: 944 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 514,757 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 514,764 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/37.0.0) | 37.0.0
 
@@ -965,6 +1013,14 @@ __Downloads__: 1,696 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Loganalytics Service
 
 __Downloads__: 1,498 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Lockbox](https://www.powershellgallery.com/Packages/OCI.PSModules.Lockbox/37.0.0) | 37.0.0
+
+### Published: 07/26/2022 22:17:03 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Lockbox Service
+
+__Downloads__: 41 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Loadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Loadbalancer/37.0.0) | 37.0.0
 
@@ -1547,7 +1603,7 @@ __Downloads__: 9 | __Repository__:
 
 Useful PowerShell functions and commands.
 
-__Downloads__: 731 | __Repository__: https://github.com/icraftsoftware/Be.Stateless.PowerShell.Module.Psx
+__Downloads__: 732 | __Repository__: https://github.com/icraftsoftware/Be.Stateless.PowerShell.Module.Psx
 
 ## [PsDfs](https://www.powershellgallery.com/Packages/PsDfs/1.0.14) | 1.0.14
 
@@ -1597,14 +1653,6 @@ Easily Author Rich Format Files to Customize PowerShell Output
 
 __Downloads__: 3,662 | __Repository__: https://github.com/StartAutomating/EZOut
 
-## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.13) | 0.0.13
-
-### Published: 07/26/2022 04:18:18 by James Brundage
-
-An Extensible Transpiler for PowerShell (and anything else)
-
-__Downloads__: 46 | __Repository__: https://github.com/StartAutomating/PipeScript
-
 ## [Catesta](https://www.powershellgallery.com/Packages/Catesta/1.2.0) | 1.2.0
 
 ### Published: 07/26/2022 03:48:10 by Jake Morrison
@@ -1628,22 +1676,6 @@ __Downloads__: 19 | __Repository__:
 Use Paessler PRTG Network Monitor
 
 __Downloads__: 21 | __Repository__: 
-
-## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.19) | 1.0.19
-
-### Published: 07/26/2022 01:17:33 by Jeremy La Camera
-
-Module for multithreading PowerShell commands using .Net Runspaces
-
-__Downloads__: 16 | __Repository__: 
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/2.0.5) | 2.0.5
-
-### Published: 07/26/2022 01:08:50 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 193 | __Repository__: 
 
 ## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/2.0.2) | 2.0.2
 
@@ -1743,7 +1775,7 @@ __Downloads__: 293 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTable
 
 Database for KB Viewer and Saver
 
-__Downloads__: 515,079 | __Repository__: 
+__Downloads__: 515,305 | __Repository__: 
 
 ## [SetUpBasic.TaskScheduler](https://www.powershellgallery.com/Packages/SetUpBasic.TaskScheduler/0.0.0.22) | 0.0.0.22
 
@@ -1777,6 +1809,14 @@ Find-Gif allows you to find a GIF from tenor.com using their API
 
 __Downloads__: 5 | __Repository__: https://github.com/psDevUK/Find-Gif
 
+## [FindFunctionCalls](https://www.powershellgallery.com/Packages/FindFunctionCalls/1.4.4) | 1.4.4
+
+### Published: 07/24/2022 21:40:28 by Freddie Sackur
+
+Build a tree of function calls.
+
+__Downloads__: 41 | __Repository__: https://github.com/fsackur/FindFunctionCalls
+
 ## [WinEventLogCustomization](https://www.powershellgallery.com/Packages/WinEventLogCustomization/1.0.0) | 1.0.0
 
 ### Published: 07/24/2022 21:34:39 by Andreas Bellstedt
@@ -1808,14 +1848,6 @@ __Downloads__: 82 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
 Powershell module SetUpBasic.Install. This module is under construction and just uploaded for testing purposes.
 
 __Downloads__: 93 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
-
-## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.15) | 0.0.0.15
-
-### Published: 07/24/2022 19:26:53 by Naitwatch
-
-Powershell module SetUpBasic.Update. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 124 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Update
 
 ## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.18) | 0.0.0.18
 
@@ -1864,21 +1896,13 @@ PowerShell module for listing Volkskrant articles
 
 __Downloads__: 815 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
 
-## [LightScript](https://www.powershellgallery.com/Packages/LightScript/0.2.4) | 0.2.4
-
-### Published: 07/24/2022 04:34:41 by James Brundage
-
-Smarter Lighting with PowerShell
-
-__Downloads__: 65 | __Repository__: https://github.com/StartAutomating/LightScript
-
 ## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/3.3.0.0) | 3.3.0.0
 
 ### Published: 07/23/2022 08:29:44 by Hewlett Packard Enterprise Co.
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen9, Gen10 or Gen10 Plus servers.
 
-__Downloads__: 757,091 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 757,083 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2207.609) | 2207.609
 
@@ -1886,7 +1910,7 @@ __Downloads__: 757,091 | __Repository__: https://www.hpe.com/servers/powershell
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 730,783 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 730,776 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.6.3) | 4.6.3
 
@@ -2031,28 +2055,4 @@ This module packages functions created by Lee Holmes for transfering files over 
 
 __Downloads__: 26,239 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
-## [HostsFile](https://www.powershellgallery.com/Packages/HostsFile/5.44.0) | 5.44.0
-
-### Published: 07/22/2022 08:36:50 by Raimund Andree Per Pedersen
-
-This module provides management of hosts file content
-
-__Downloads__: 19,072 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
-
-## [AutomatedLabWorker](https://www.powershellgallery.com/Packages/AutomatedLabWorker/5.44.0) | 5.44.0
-
-### Published: 07/22/2022 08:36:31 by Raimund Andree Per Pedersen Jan-Hendrik Peters
-
-This module encapsulates all the work activities to prepare the lab
-
-__Downloads__: 20,136 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
-
-## [AutomatedLabUnattended](https://www.powershellgallery.com/Packages/AutomatedLabUnattended/5.44.0) | 5.44.0
-
-### Published: 07/22/2022 08:36:11 by Raimund Andree Per Pedersen
-
-The module is managing settings inside an unattended.xml file
-
-__Downloads__: 24,441 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
-
-*Updated: Sunday, 31 July 2022 02:43:04 UTC*
+*Updated: Sunday, 31 July 2022 09:52:31 UTC*
