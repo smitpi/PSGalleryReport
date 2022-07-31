@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 31 July 2022 09:52:42 UTC
+Updated: Sunday, 31 July 2022 17:52:56 UTC
 
 ?:
 ??
@@ -232,6 +232,7 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -390,7 +391,6 @@ asc
 ascii
 ascii85
 asdatabase
-asigra
 asm
 asn
 asn.1
@@ -437,7 +437,6 @@ audio
 audiocodes
 audit
 auditing
-auditpol
 auditpolicies
 auditpolicy
 audits
@@ -755,7 +754,6 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
-broadcast
 broot
 browser
 browserextension
@@ -898,7 +896,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
@@ -1070,6 +1067,7 @@ cmtrace
 cmwt
 cns
 coa
+cockroachdb
 codaamok
 code
 code-page
@@ -1080,7 +1078,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1116,6 +1113,7 @@ comical
 comics
 command
 command_line
+command-validation
 commandcoverage
 commandlets
 commandline
@@ -1316,6 +1314,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+crestron
 crlf
 crm
 crm2016
@@ -1346,6 +1345,7 @@ csv
 csv2adx
 csvhelper
 ctf
+ctglobal
 ctl
 ctx
 ctype
@@ -1502,7 +1502,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -1772,7 +1771,6 @@ drupal
 drush
 dry
 ds
-ds-client
 ds-utils
 dsa
 dsacls
@@ -1782,7 +1780,6 @@ dsc-resources
 dsccertificates
 dscconcepts
 dscdriftmonitor
-dsclient
 dscresource
 dscresourcekit
 dscresources
@@ -2053,6 +2050,7 @@ expand-tab
 expandframework
 experiments
 expired
+expiring
 expiry
 exploit
 exploration
@@ -2070,6 +2068,7 @@ exportteams
 extend
 extended
 extendedevents
+extendedproperty
 extendscript
 extensibility
 extension
@@ -2209,7 +2208,9 @@ flasharray
 flashblade
 flatfile
 flatten
+flex
 flex-query
+flexdesk
 flickr
 flowchart
 flowy
@@ -2255,7 +2256,6 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
-foudil
 fox
 foxpro
 fqdn
@@ -2586,6 +2586,7 @@ hidden
 hide
 hids
 hiera
+hierarchialdistributionlist
 hierarchical
 high-availability
 highlight
@@ -2684,6 +2685,7 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
+ia
 iaas
 iac
 iam
@@ -2800,7 +2802,6 @@ ingestion
 inheritance
 ini
 inifile
-initialization
 initials-avatar
 initiator
 innerjoin
@@ -2811,6 +2812,7 @@ inputobject
 insert
 insiderthreat
 insight
+insightanalytics
 insights
 inspect
 inspur
@@ -3132,6 +3134,8 @@ library
 libvirt
 licence
 license
+license-generator
+licenseautomation
 licensemanager
 licensereport
 licenses
@@ -3372,6 +3376,7 @@ max
 max_path
 maximum
 maxoffice
+mazerat
 mb
 mbc
 mbs
@@ -3383,7 +3388,6 @@ md5
 md5_v2-cab74de6d46849bb65d13090ba518cda
 md5sum
 mdatp
-mdb
 mdbc
 mde
 mdm
@@ -3465,7 +3469,6 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
-microsoftexchangeserver
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -3592,7 +3595,6 @@ msonlineext
 msp
 msp360
 mspbackups
-msproject
 msrc
 msrdc
 mssql
@@ -3687,7 +3689,6 @@ netcease
 netcore
 netfirewallrule
 netherlands
-netmask
 nets
 netsapiens
 netscaler
@@ -3976,6 +3977,7 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
+osdprogress
 osdsus
 osdupdate
 osi
@@ -3984,6 +3986,7 @@ osp
 ospgateway
 osprovision
 osprovisioning
+osr
 oss
 ossec
 osubbillingschedule
@@ -4296,18 +4299,15 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -4348,10 +4348,10 @@ predicate
 prediction
 predictor
 preferences
-prefix
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 presentation
@@ -4431,7 +4431,6 @@ protocol
 provance
 provider
 providerhub
-provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -4987,6 +4986,7 @@ russia
 rust
 rust-lang
 ryanairps
+ryver
 s.ds.p
 s3
 s4b
@@ -5142,8 +5142,6 @@ securesphere
 securestring
 security
 security-policy
-security-txt
-security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -5154,7 +5152,6 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
-securitytxt
 seek
 seekatar
 seeshell
@@ -5775,7 +5772,6 @@ taskscheduler
 taxjar
 taxonomy
 tcp
-tcp/ip
 tcpip
 tcpport
 tcpserver
@@ -5995,6 +5991,7 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+ttrpg
 tts
 tui
 tulpep
@@ -6685,7 +6682,6 @@ xdscresources
 xdt
 xel
 xenapp
-xendeskop
 xendesktop
 xero
 xevent

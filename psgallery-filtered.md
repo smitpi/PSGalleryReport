@@ -5,6 +5,86 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.122) | 0.0.122
+
+### Published: 07/31/2022 17:02:13 by BitTitan
+
+Module for BitTitanPowerShell.
+
+__Downloads__: 8,012 | __Repository__: 
+
+## [PSConfigFile](https://www.powershellgallery.com/Packages/PSConfigFile/0.1.29) | 0.1.29
+
+### Published: 07/31/2022 16:43:29 by Pierre Smit
+
+Creates a Config file with Commands, Variables, PSDrives, Credentials, Aliases\Shortcuts and a Default Starting location. You can then execute this config file when your profile is loaded, or when a specific module is imported, or you can run it manually. This way you can quickly and easily switch between "environment setups" with these default values
+
+__Downloads__: 209 | __Repository__: https://github.com/smitpi/PSConfigFile
+
+## [PWSHModule](https://www.powershellgallery.com/Packages/PWSHModule/0.1.16) | 0.1.16
+
+### Published: 07/31/2022 16:42:42 by Pierre Smit
+
+Creates a GitHub Gist (Private or Public) list to install and maintain the installed PowerShell Modules on your systems, you can create more than one list and use it to custom install modules from different repositories or different versions.
+
+__Downloads__: 22 | __Repository__: https://github.com/smitpi/PWSHModule
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.0) | 3.0.0
+
+### Published: 07/31/2022 16:20:30 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 193 | __Repository__: 
+
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.10) | 2.0.10
+
+### Published: 07/31/2022 16:19:15 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 32 | __Repository__: 
+
+## [MazeRats](https://www.powershellgallery.com/Packages/MazeRats/0.1.2) | 0.1.2
+
+### Published: 07/31/2022 15:53:55 by Gilbert Sanchez
+
+Create PC's, NPC''s, and monsters in PowerShell!
+
+__Downloads__: 7 | __Repository__: https://github.com/HeyItsGilbert/MazeRats/
+
+## [PSGemini](https://www.powershellgallery.com/Packages/PSGemini/1.0.3) | 1.0.3
+
+### Published: 07/31/2022 14:03:32 by Colin Cogle
+
+Fetches resources via the Gemini protocol.
+
+__Downloads__: 33 | __Repository__: https://github.com/rhymeswithmogul/PSGemini/
+
+## [PsBuildTasks](https://www.powershellgallery.com/Packages/PsBuildTasks/1.3.0) | 1.3.0
+
+### Published: 07/31/2022 13:35:54 by Steffen Kampmann
+
+Manage PsBuildTasks
+
+__Downloads__: 10 | __Repository__: https://github.com/abbgrade/PsBuildTasks
+
+## [0install](https://www.powershellgallery.com/Packages/0install/2.23.10) | 2.23.10
+
+### Published: 07/31/2022 13:14:27 by Bastian Eicher
+
+Zero Install is a decentralized cross-platform software-installation system.
+
+__Downloads__: 1,560,679 | __Repository__: https://0install.net/
+
+## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.20.0) | 2.20.0
+
+### Published: 07/31/2022 12:52:57 by Aleksandr Sapozhkov
+
+A module to ease infrastructure as code tasks for Dynamics 365.
+
+__Downloads__: 3,347 | __Repository__: https://github.com/shurick81/Dynamics365Configuration
+
 ## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.75) | 1.0.75
 
 ### Published: 07/31/2022 06:31:51 by Jeremy La Camera
@@ -13,14 +93,6 @@ Module for multithreading PowerShell commands using .Net Runspaces
 
 __Downloads__: 16 | __Repository__: 
 
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.9) | 2.0.9
-
-### Published: 07/31/2022 06:22:04 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 32 | __Repository__: 
-
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.14) | 0.0.14
 
 ### Published: 07/31/2022 06:06:17 by Jeremy La Camera
@@ -28,14 +100,6 @@ __Downloads__: 32 | __Repository__:
 Module for working with Access Control Lists
 
 __Downloads__: 9 | __Repository__: 
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/2.0.7) | 2.0.7
-
-### Published: 07/31/2022 06:04:05 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 193 | __Repository__: 
 
 ## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.199) | 0.0.0.199
 
@@ -115,7 +179,7 @@ __Downloads__: 167 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,857,838 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,857,787 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -123,7 +187,7 @@ __Downloads__: 5,857,838 | __Repository__: https://www.github.com/jantari/LSUCli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 741,517 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 741,512 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -139,7 +203,7 @@ __Downloads__: 124 | __Repository__: https://github.com/BusHero/pester.extenssio
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,783,151 | __Repository__: https://dbatools.io/
+__Downloads__: 1,783,157 | __Repository__: https://dbatools.io/
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.0.0) | 1.0.0
 
@@ -148,14 +212,6 @@ __Downloads__: 1,783,151 | __Repository__: https://dbatools.io/
 Gitlab API v4 helper functions
 
 __Downloads__: 1 | __Repository__: https://gitlab.com/mteodor/gitlab4
-
-## [PsBuildTasks](https://www.powershellgallery.com/Packages/PsBuildTasks/1.2.0) | 1.2.0
-
-### Published: 07/30/2022 08:23:01 by Steffen Kampmann
-
-Manage PsBuildTasks
-
-__Downloads__: 10 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
 ## [VirtualDesktop](https://www.powershellgallery.com/Packages/VirtualDesktop/1.5.1) | 1.5.1
 
@@ -212,7 +268,7 @@ __Downloads__: 58,961 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,329,647 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,329,629 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.8.5117) | 20.12.8.5117
 
@@ -292,7 +348,7 @@ __Downloads__: 15 | __Repository__:
 
 Scan for secrets in code to prevent accidentaly commited secrets
 
-__Downloads__: 113 | __Repository__: https://github.com/bjompen/PSSecretScanner
+__Downloads__: 114 | __Repository__: https://github.com/bjompen/PSSecretScanner
 
 ## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.83) | 0.0.83
 
@@ -389,14 +445,6 @@ Provides AAD authentication factory for easy Public Client, Confidential Client 
 
 __Downloads__: 3,201 | __Repository__: https://github.com/jformacek/CosmosLite/tree/master/Module/AadAuthenticationFactory
 
-## [PSConfigFile](https://www.powershellgallery.com/Packages/PSConfigFile/0.1.28) | 0.1.28
-
-### Published: 07/28/2022 18:05:24 by Pierre Smit
-
-Creates a Config file with Commands, Variables, PSDrives, Credentials, Aliases\Shortcuts and a Default Starting location. You can then execute this config file when your profile is loaded, or when a specific module is imported, or you can run it manually. This way you can quickly and easily switch between "environment setups" with these default values
-
-__Downloads__: 209 | __Repository__: https://github.com/smitpi/PSConfigFile
-
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/4.0.1) | 4.0.1
 
 ### Published: 07/28/2022 18:01:24 by Fabrice Sanga
@@ -459,7 +507,7 @@ __Downloads__: 169 | __Repository__: https://github.com/SEPPmail/SEPPmail365clou
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,034,947 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,034,951 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [EventLogTools](https://www.powershellgallery.com/Packages/EventLogTools/4.0.0.0) | 4.0.0.0
 
@@ -604,7 +652,7 @@ __Downloads__: 944 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 514,764 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 514,757 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/37.0.0) | 37.0.0
 
@@ -1775,7 +1823,7 @@ __Downloads__: 293 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTable
 
 Database for KB Viewer and Saver
 
-__Downloads__: 515,305 | __Repository__: 
+__Downloads__: 515,079 | __Repository__: 
 
 ## [SetUpBasic.TaskScheduler](https://www.powershellgallery.com/Packages/SetUpBasic.TaskScheduler/0.0.0.22) | 0.0.0.22
 
@@ -1902,7 +1950,7 @@ __Downloads__: 815 | __Repository__: https://github.com/jhoek/UncommonSense.Volk
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen9, Gen10 or Gen10 Plus servers.
 
-__Downloads__: 757,083 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 757,076 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2207.609) | 2207.609
 
@@ -1910,7 +1958,7 @@ __Downloads__: 757,083 | __Repository__: https://www.hpe.com/servers/powershell
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 730,776 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 730,768 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.6.3) | 4.6.3
 
@@ -1934,7 +1982,7 @@ __Downloads__: 89,672 | __Repository__: https://www.milestonepstools.com/
 
 Used for easy importing of the Milestone Systems MIP SDK components in a PowerShell 5.1 environment.
 
-__Downloads__: 90,148 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 90,150 | __Repository__: https://www.milestonepstools.com/
 
 ## [PSFunctionInfo](https://www.powershellgallery.com/Packages/PSFunctionInfo/1.3.0) | 1.3.0
 
@@ -2000,59 +2048,4 @@ A utility to help convert curl commands to Invoke-RestMethod syntax
 
 __Downloads__: 1,656 | __Repository__: 
 
-## [ScriptUtils](https://www.powershellgallery.com/Packages/ScriptUtils/1.0.2) | 1.0.2
-
-### Published: 07/22/2022 12:16:18 by Uzair
-
-This Module is a collection of wrapper functions that makes your scripting experience fast and easy.
-As a scripter you might have come across this situation several times when you have to perform checks before proceeding with a specific task.
-These functions helps you eliminate the need to perform checks and just use a single command to get the work done. Thereby, enabling you to focus on the
-main section of your script rather than spending time to write code to perform checks
-
-__Downloads__: 32 | __Repository__: https://github.com/uzi3/ScriptUtils
-
-## [AppInsights](https://www.powershellgallery.com/Packages/AppInsights/1.0.1028) | 1.0.1028
-
-### Published: 07/22/2022 11:47:54 by Sven Grav
-
-AppInsights is a PowerShell module that provides Cmdlets to send logs and traces to Azure Application Insights.
-    It comes with many helpful features to simplify the usage of Application Insights in PowerShell.
-    
-    Checkout the GitHub repository for documentation and samples => 
-    https://github.com/svengrav/appinsights-powershell
-
-__Downloads__: 5,169 | __Repository__: https://github.com/svengrav/appinsights-powershell
-
-## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/2.3.2) | 2.3.2
-
-### Published: 07/22/2022 09:35:59 by Sander Rozemuller
-
-For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
-
-__Downloads__: 2,628 | __Repository__: https://github.com/srozemuller/AzAvd
-
-## [PSDataverse](https://www.powershellgallery.com/Packages/PSDataverse/0.0.1) | 0.0.1
-
-### Published: 07/22/2022 08:47:08 by Reza Niroomand
-
-Bring Dataverse's Web API to PowerShell.
-
-__Downloads__: 11 | __Repository__: https://github.com/rezanid/PSDataverse
-
-## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.44.0) | 5.44.0
-
-### Published: 07/22/2022 08:37:23 by Raimund Andree Per Pedersen
-
-Redirects stanard Write-* cmdlets to a log and offers some basic tracing functions
-
-__Downloads__: 24,006 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
-
-## [PSFileTransfer](https://www.powershellgallery.com/Packages/PSFileTransfer/5.44.0) | 5.44.0
-
-### Published: 07/22/2022 08:37:04 by Raimund Andree Per Pedersen
-
-This module packages functions created by Lee Holmes for transfering files over PowerShell Remoting
-
-__Downloads__: 26,239 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
-
-*Updated: Sunday, 31 July 2022 09:52:31 UTC*
+*Updated: Sunday, 31 July 2022 17:52:46 UTC*
