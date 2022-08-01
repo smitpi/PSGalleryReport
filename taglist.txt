@@ -1,10 +1,9 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 31 July 2022 17:52:56 UTC
+Updated: Monday, 01 August 2022 02:43:51 UTC
 
 ?:
 ??
-.bat
 .env
 .net
 .ps1xml
@@ -136,6 +135,7 @@ add-on.module
 add-one
 add-path
 add-type
+addin
 addlevel
 addomainservices
 addon
@@ -332,7 +332,6 @@ applicationinsights
 applicationmigration
 applicationmonitor
 applications
-applocker
 appmgmtcontrol
 apppool
 appraiser
@@ -391,6 +390,7 @@ asc
 ascii
 ascii85
 asdatabase
+asigra
 asm
 asn
 asn.1
@@ -437,6 +437,7 @@ audio
 audiocodes
 audit
 auditing
+auditpol
 auditpolicies
 auditpolicy
 audits
@@ -896,6 +897,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -903,7 +905,6 @@ charts
 chat
 chatbot
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1078,6 +1079,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codepoint
 codereview
 codes
 codesign
@@ -1502,6 +1504,7 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
@@ -1771,6 +1774,7 @@ drupal
 drush
 dry
 ds
+ds-client
 ds-utils
 dsa
 dsacls
@@ -1780,6 +1784,7 @@ dsc-resources
 dsccertificates
 dscconcepts
 dscdriftmonitor
+dsclient
 dscresource
 dscresourcekit
 dscresources
@@ -2129,8 +2134,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2146,7 +2149,6 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filereplication
 files
@@ -2158,9 +2160,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2295,7 +2294,6 @@ funds
 funny
 fusionapps
 fuzzy
-fyi
 fzf
 gac
 gainz
@@ -2423,6 +2421,7 @@ gobright
 godaddy
 goldengate
 goldsource
+goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2802,6 +2801,7 @@ ingestion
 inheritance
 ini
 inifile
+initialization
 initials-avatar
 initiator
 innerjoin
@@ -2884,7 +2884,6 @@ ios
 iot
 iotcentral
 iothub
-iothubproperties
 ip
 ip-address
 ipa
@@ -2949,7 +2948,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jdedwards
 jdt
@@ -3388,6 +3386,7 @@ md5
 md5_v2-cab74de6d46849bb65d13090ba518cda
 md5sum
 mdatp
+mdb
 mdbc
 mde
 mdm
@@ -3469,6 +3468,7 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
+microsoftexchangeserver
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -3595,6 +3595,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -3733,7 +3734,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-ngen
 ngfw
 nhl
 nic
@@ -3977,7 +3977,6 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
-osdprogress
 osdsus
 osdupdate
 osi
@@ -4299,15 +4298,18 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -4431,6 +4433,7 @@ protocol
 provance
 provider
 providerhub
+provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -4543,7 +4546,6 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
-psngenposh
 psobject
 pspath
 pspowerhour
@@ -4707,6 +4709,7 @@ razzle
 rbac
 rbacmodel
 rbsu
+rcon
 rcs
 rcu
 rdb
@@ -5439,12 +5442,14 @@ soonragent
 sophos
 sort
 source
+source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 space
 spaces
 spacex
@@ -5586,6 +5591,7 @@ staytus
 stderr
 stdout
 steam
+steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5714,6 +5720,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -6487,8 +6494,6 @@ wid
 wif
 wifi
 wiki
-wildcard
-wildfly
 wim
 wim2vhd
 win
@@ -6682,6 +6687,7 @@ xdscresources
 xdt
 xel
 xenapp
+xendeskop
 xendesktop
 xero
 xevent
