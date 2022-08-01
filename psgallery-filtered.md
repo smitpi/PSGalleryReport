@@ -5,6 +5,186 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.19) | 2.0.19
+
+### Published: 08/01/2022 17:46:48 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 37 | __Repository__: 
+
+## [ccicodefetcherDEV](https://www.powershellgallery.com/Packages/ccicodefetcherDEV/0.3.62) | 0.3.62
+
+### Published: 08/01/2022 17:21:07 by clemenscomer
+
+Modules to download CCI PowerShell module from internal galleries.
+
+__Downloads__: 17 | __Repository__: 
+
+## [HPCMSL](https://www.powershellgallery.com/Packages/HPCMSL/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 17:15:56 by HP Development Company L.P.
+
+HP Client Management Script Library
+
+__Downloads__: 20,648,719 | __Repository__: 
+
+## [mySQLite](https://www.powershellgallery.com/Packages/mySQLite/0.9.0) | 0.9.0
+
+### Published: 08/01/2022 17:05:39 by Jeff Hicks
+
+A set of PowerShell commands for working with SQLite database files. This is a simple alternative to installing any version of SQL Server on your desktop. Note that this module will only work on Windows platforms.
+
+__Downloads__: 36 | __Repository__: https://github.com/jdhitsolutions/MySQLite
+
+## [HP.SmartExperiences](https://www.powershellgallery.com/Packages/HP.SmartExperiences/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:58:45 by HP Development Company L.P.
+
+SmartExperiences module
+
+__Downloads__: 143 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.Notifications](https://www.powershellgallery.com/Packages/HP.Notifications/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:57:13 by HP Development Company L.P.
+
+Notifications utility module
+
+__Downloads__: 10,996,290 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.Retail](https://www.powershellgallery.com/Packages/HP.Retail/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:55:39 by HP Development Company L.P.
+
+Retail Point of Sale Module for HP Client Management Script Library
+
+__Downloads__: 20,754,056 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.Consent](https://www.powershellgallery.com/Packages/HP.Consent/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:55:05 by HP Development Company L.P.
+
+Module to manage consent for HP Analytics
+
+__Downloads__: 21,443,088 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.Sinks](https://www.powershellgallery.com/Packages/HP.Sinks/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:53:32 by HP Development Company L.P.
+
+Output sinks module
+
+__Downloads__: 24,241,533 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.Repo](https://www.powershellgallery.com/Packages/HP.Repo/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:52:58 by HP Development Company L.P.
+
+Softpaq repository management modules
+
+__Downloads__: 25,340,347 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.Softpaq](https://www.powershellgallery.com/Packages/HP.Softpaq/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:51:24 by HP Development Company L.P.
+
+Softpaq management module for HP Client Management Script Library
+
+__Downloads__: 23,230,031 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.Firmware](https://www.powershellgallery.com/Packages/HP.Firmware/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:49:47 by HP Development Company L.P.
+
+Firmware access module for HP Client Management Script Library
+
+__Downloads__: 27,098,029 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.ClientManagement](https://www.powershellgallery.com/Packages/HP.ClientManagement/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:49:12 by HP Development Company L.P.
+
+Device and BIOS management module for HP Client Management Script Library
+
+__Downloads__: 27,431,128 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.Utility](https://www.powershellgallery.com/Packages/HP.Utility/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:48:39 by HP Development Company L.P.
+
+Public utility module for HP Client Management Script Library
+
+__Downloads__: 27,422,200 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.Private](https://www.powershellgallery.com/Packages/HP.Private/1.6.7) | 1.6.7
+
+### Published: 08/01/2022 16:46:51 by HP Development Company L.P.
+
+Private utility module for HP Client Management Script Library
+
+__Downloads__: 28,016,252 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [PS-Populi](https://www.powershellgallery.com/Packages/PS-Populi/0.0.36) | 0.0.36
+
+### Published: 08/01/2022 16:26:26 by sqone2
+
+PowerShell + Populi
+
+__Downloads__: 112 | __Repository__: 
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.120) | 1.1.120
+
+### Published: 08/01/2022 15:50:50 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,785,735 | __Repository__: https://dbatools.io/
+
+## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.4) | 0.2.4
+
+### Published: 08/01/2022 15:02:20 by COMMVAULT
+
+COMMVAULT POWERSHELL SDK
+
+__Downloads__: 8 | __Repository__: https://github.com/Commvault/CVPowershellSDKV2/tree/2022E/CommvaultPowerShell
+
+## [marli-Cleoni](https://www.powershellgallery.com/Packages/marli-Cleoni/0.13) | 0.13
+
+### Published: 08/01/2022 14:02:51 by Marco Lippert
+
+A Tool to download and compare the Intune configurations
+
+__Downloads__: 1 | __Repository__: 
+
+## [CimDiskImage](https://www.powershellgallery.com/Packages/CimDiskImage/2208.2) | 2208.2
+
+### Published: 08/01/2022 13:37:05 by Jim Moyle
+
+PowerShell module to Mount, Dismount and discover(Get) CimFS disk images.
+
+Cim files are read only disk images. This module uses the Windows CimFS driver to mount and ummount these Cim image files.
+
+The Cim disk image must be mounted to an existing empty folder or a free drive letter
+
+__Downloads__: 11 | __Repository__: https://github.com/JimMoyle/CimDiskImage-PowerShell
+
+## [AutoMatePS](https://www.powershellgallery.com/Packages/AutoMatePS/5.1.1) | 5.1.1
+
+### Published: 08/01/2022 12:54:55 by AutomatePS
+
+AutomatePS provides PowerShell integration with HelpSystems Automate Enterprise
+
+__Downloads__: 1,430 | __Repository__: https://github.com/AutomatePS/AutomatePS
+
+## [Resource.Manifest](https://www.powershellgallery.com/Packages/Resource.Manifest/2.1.22213.25488) | 2.1.22213.25488
+
+### Published: 08/01/2022 09:56:33 by François Chabot
+
+Commands to define and process resource manifests that can later be used to drive operations, in a declarative way, according to the nature of the resources to operate upon.
+
+__Downloads__: 654 | __Repository__: https://github.com/icraftsoftware/Be.Stateless.PowerShell.Module.Resource.Manifest
+
 ## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.11.0) | 0.11.0
 
 ### Published: 08/01/2022 07:55:53 by DSC Community
@@ -35,7 +215,7 @@ __Downloads__: 47 | __Repository__: https://github.com/StartAutomating/PipeScrip
 
 The basic module to perform arxml automation on powershell
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
 
 ## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.200) | 0.0.0.200
 
@@ -85,22 +265,6 @@ Powershell module SetUpBasic.Install. This module is under construction and just
 
 __Downloads__: 101 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
 
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.18) | 2.0.18
-
-### Published: 08/01/2022 03:51:47 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 37 | __Repository__: 
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.2) | 3.0.2
-
-### Published: 08/01/2022 03:31:20 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 197 | __Repository__: 
-
 ## [PsSysPassAPI](https://www.powershellgallery.com/Packages/PsSysPassAPI/0.1.0) | 0.1.0
 
 ### Published: 07/31/2022 23:48:50 by James Sudbury
@@ -108,14 +272,6 @@ __Downloads__: 197 | __Repository__:
 Powershell wrapper for the sysPass ReST API
 
 __Downloads__: 0 | __Repository__: https://github.com/Sudman1/PsSysPassAPI
-
-## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.0.8) | 1.0.0.8
-
-### Published: 07/31/2022 22:48:51 by Powershellcrack
-
-A module designed to help manage devices in Intune
-
-__Downloads__: 22 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
 
 ## [PSGPPreferences](https://www.powershellgallery.com/Packages/PSGPPreferences/0.3.3) | 0.3.3
 
@@ -147,7 +303,7 @@ __Downloads__: 217 | __Repository__: https://github.com/smitpi/PSConfigFile
 
 Creates a GitHub Gist (Private or Public) list to install and maintain the installed PowerShell Modules on your systems, you can create more than one list and use it to custom install modules from different repositories or different versions.
 
-__Downloads__: 27 | __Repository__: https://github.com/smitpi/PWSHModule
+__Downloads__: 26 | __Repository__: https://github.com/smitpi/PWSHModule
 
 ## [MazeRats](https://www.powershellgallery.com/Packages/MazeRats/0.1.2) | 0.1.2
 
@@ -179,7 +335,7 @@ __Downloads__: 10 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 1,565,124 | __Repository__: https://0install.net/
+__Downloads__: 1,565,075 | __Repository__: https://0install.net/
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.20.0) | 2.20.0
 
@@ -235,7 +391,7 @@ __Downloads__: 176 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,865,152 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,865,076 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -243,7 +399,7 @@ __Downloads__: 5,865,152 | __Repository__: https://www.github.com/jantari/LSUCli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 742,571 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 742,567 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -252,14 +408,6 @@ __Downloads__: 742,571 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 Some description here and there
 
 __Downloads__: 125 | __Repository__: https://github.com/BusHero/pester.extenssions
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.119) | 1.1.119
-
-### Published: 07/30/2022 10:16:05 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,785,766 | __Repository__: https://dbatools.io/
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.0.0) | 1.0.0
 
@@ -324,7 +472,7 @@ __Downloads__: 58,991 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,331,026 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,331,016 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.8.5117) | 20.12.8.5117
 
@@ -357,14 +505,6 @@ __Downloads__: 36,799 | __Repository__: https://github.com/bdukes/PowerShellModu
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
 __Downloads__: 62,527 | __Repository__: 
-
-## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.3) | 0.2.3
-
-### Published: 07/29/2022 16:52:04 by COMMVAULT
-
-COMMVAULT POWERSHELL SDK
-
-__Downloads__: 8 | __Repository__: https://github.com/Commvault/CVPowershellSDKV2/tree/2022E
 
 ## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.2.0) | 1.2.0
 
@@ -451,24 +591,6 @@ Sends a file via email. Pass in file path and mail config.
 
 __Downloads__: 178 | __Repository__: 
 
-## [ccicodefetcherDEV](https://www.powershellgallery.com/Packages/ccicodefetcherDEV/0.2.0) | 0.2.0
-
-### Published: 07/28/2022 22:57:46 by clemenscomer
-
-Modules to download CCI PowerShell module from internal galleries.
-
-__Downloads__: 17 | __Repository__: 
-
-## [ReportHTMLCRB](https://www.powershellgallery.com/Packages/ReportHTMLCRB/1.8.1) | 1.8.1
-
-### Published: 07/28/2022 21:39:56 by Matthew Quickenden
-
-A powerful module for creating HTML reports within PowerShell no HTML coding required.  For more details on what is possible, you can view the help file https://azurefieldnotesblog.blob.core.windows.net/wp-content/2017/06/Help-ReportHTML2.html 
-
-There is a multi-part blog series.  (which is a little out of date but still relevant) http://www.azurefieldnotes.com/2016/08/04/powershellhtmlreportingpart1
-
-__Downloads__: 22 | __Repository__: https://github.com/azurefieldnotes/ReportHTML/
-
 ## [JitBitPS](https://www.powershellgallery.com/Packages/JitBitPS/0.0.8) | 0.0.8
 
 ### Published: 07/28/2022 20:24:26 by Jeremy Gruttner
@@ -483,7 +605,7 @@ __Downloads__: 14 | __Repository__: https://github.com/jgrutz/JitBitPS
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 8,503 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 8,502 | __Repository__: https://aka.ms/AzAPICall
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/1.1.0) | 1.1.0
 
@@ -563,7 +685,7 @@ __Downloads__: 169 | __Repository__: https://github.com/SEPPmail/SEPPmail365clou
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,036,582 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,036,569 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [EventLogTools](https://www.powershellgallery.com/Packages/EventLogTools/4.0.0.0) | 4.0.0.0
 
@@ -708,7 +830,7 @@ __Downloads__: 945 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 516,065 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 516,054 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/37.0.0) | 37.0.0
 
@@ -1683,7 +1805,7 @@ __Downloads__: 1,697 | __Repository__: https://github.com/CriticalSolutionsNetwo
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 117,586 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 117,585 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [AzurePipelinesPS](https://www.powershellgallery.com/Packages/AzurePipelinesPS/4.0.25) | 4.0.25
 
@@ -1740,6 +1862,14 @@ __Downloads__: 45 | __Repository__: https://github.com/mgajda83/PSWinGet
 Test
 
 __Downloads__: 74 | __Repository__: https://github.com/NiXerasse/vsmTools
+
+## [New-AEScript](https://www.powershellgallery.com/Packages/New-AEScript/0.0.1) | 0.0.1
+
+### Published: 07/26/2022 06:40:06 by sdixon
+
+a template for creating scripts in Extendscript for Adobe After Effects
+
+__Downloads__: 10 | __Repository__: https://blob.pureandapplied.com.au/
 
 ## [EZOut](https://www.powershellgallery.com/Packages/EZOut/1.8.8) | 1.8.8
 
@@ -1829,18 +1959,6 @@ Get-FolderSize return the size of folder recursively (1 of depth by default) as 
 
 __Downloads__: 10 | __Repository__: 
 
-## [CimDiskImage](https://www.powershellgallery.com/Packages/CimDiskImage/2207.5) | 2207.5
-
-### Published: 07/25/2022 13:45:01 by Jim Moyle
-
-PowerShell module to Mount, Dismount and discover(Get) CimFS disk images.
-
-Cim files are read only disk images. This module uses the Windows CimFS driver to mount and ummount these Cim image files.
-
-Mounting a Cim file to a drive letter is not currently supported.  The Cim disk image must be mounted to an existing empty folder.
-
-__Downloads__: 11 | __Repository__: https://github.com/JimMoyle/CimDiskImage-PowerShell
-
 ## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/0.2.2) | 0.2.2
 
 ### Published: 07/25/2022 13:30:22 by Radi Atanassov
@@ -1913,139 +2031,4 @@ Module for creating and managing custom Windows EventLog channels
 
 __Downloads__: 7 | __Repository__: https://github.com/AndiBellstedt/WinEventLogCustomization
 
-## [ChartImage](https://www.powershellgallery.com/Packages/ChartImage/1.0.2) | 1.0.2
-
-### Published: 07/24/2022 21:34:00 by Adam Bacon
-
-Allows you to create beautiful charts and save them as images please see image-charts.com as this is the C# library for saving these charts to images
-
-__Downloads__: 14 | __Repository__: 
-
-## [RPGDice](https://www.powershellgallery.com/Packages/RPGDice/0.1.5) | 0.1.5
-
-### Published: 07/24/2022 20:19:13 by Gilbert Sanchez
-
-Roll dice right from PowerShell!
-
-__Downloads__: 112 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
-
-## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.0.12) | 1.0.12
-
-### Published: 07/24/2022 18:11:32 by @AndrewZtrhgf
-
-Various Azure related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the interesting functions:
-- Add-AzureADAppUserConsent - granting permission consent on behalf of another user
-- Get-AzureADAccountOccurrence - for getting all occurrences of specified account in your Azure environment
-- Add-AzureADAppCertificate - add the auth. certificate (existing or create self-signed) to selected Azure application as an secret
-- Get-AzureADAppVerificationStatus
-- Get-AzureADAppConsentRequest - for getting all application admin consent requests
-- Remove-AzureADAccountOccurrence - remove specified account from various Azure environment sections and optionally replace it with other user and inform him. Can be used in conjunction with Get-AzureADAccountOccurrence.
-- Remove-AzureADAppUserConsent - removes user consent
-- Get-AzureDevOpsOrganizationOverview - list of all DevOps organizations
-- ...
-
-Some of the authentication-related functions:
-- New-AzureDevOpsAuthHeader
-- New-GraphAPIAuthHeader
-
-__Downloads__: 131 | __Repository__: https://doitpsway.com/series/azure
-
-## [ImagePlayground](https://www.powershellgallery.com/Packages/ImagePlayground/0.0.1) | 0.0.1
-
-### Published: 07/24/2022 13:02:52 by Przemyslaw Klys
-
-ImagePlayground is a PowerShell module that provides a set of functions for image processing. Among other things it can create QRCodes, BarCodes, Charts, and do image processing that can help with daily tasks.
-
-__Downloads__: 8 | __Repository__: https://github.com/EvotecIT/ImagePlayground
-
-## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.11.0) | 0.0.11.0
-
-### Published: 07/24/2022 09:13:51 by Jan Hoek
-
-PowerShell module for listing Volkskrant articles
-
-__Downloads__: 815 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
-
-## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/3.3.0.0) | 3.3.0.0
-
-### Published: 07/23/2022 08:29:44 by Hewlett Packard Enterprise Co.
-
-Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen9, Gen10 or Gen10 Plus servers.
-
-__Downloads__: 758,017 | __Repository__: https://www.hpe.com/servers/powershell
-
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2207.609) | 2207.609
-
-### Published: 07/23/2022 03:09:44 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 732,331 | __Repository__: https://stealthpuppy.com/evergreen/
-
-## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/4.6.3) | 4.6.3
-
-### Published: 07/23/2022 01:05:31 by Venafi
-
-Automate your Venafi Trust Protection Platform and Venafi as a Service platforms!
-
-__Downloads__: 2,262 | __Repository__: https://github.com/Venafi/VenafiPS
-
-## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/22.2.0) | 22.2.0
-
-### Published: 07/23/2022 01:03:11 by Joshua Hendricks
-
-Milestone XProtect VMS configuration and automation powered by the Milestone MIP SDK.
-
-__Downloads__: 89,683 | __Repository__: https://www.milestonepstools.com/
-
-## [MipSdkRedist](https://www.powershellgallery.com/Packages/MipSdkRedist/22.2.0) | 22.2.0
-
-### Published: 07/22/2022 23:30:51 by Josh Hendricks
-
-Used for easy importing of the Milestone Systems MIP SDK components in a PowerShell 5.1 environment.
-
-__Downloads__: 90,183 | __Repository__: https://www.milestonepstools.com/
-
-## [PSFunctionInfo](https://www.powershellgallery.com/Packages/PSFunctionInfo/1.3.0) | 1.3.0
-
-### Published: 07/22/2022 21:12:40 by Jeff Hicks
-
-A set of PowerShell commands to add metadata to stand-alone functions, i.e. those not published in a module. The commands in this module work in Windows PowerShell and PowerShell 7.
-
-__Downloads__: 371 | __Repository__: https://github.com/jdhitsolutions/PSFunctionInfo
-
-## [Exo.RoomsManagement](https://www.powershellgallery.com/Packages/Exo.RoomsManagement/1.0.4.1) | 1.0.4.1
-
-### Published: 07/22/2022 20:22:45 by Corey Schneider
-
-Assists with mangement of Room resources in Exchange Online
-
-__Downloads__: 82 | __Repository__: https://github.com/CoreySchneider-MSFT/Exo.RoomsManagement
-
-## [Out-Map](https://www.powershellgallery.com/Packages/Out-Map/1.2.1) | 1.2.1
-
-### Published: 07/22/2022 18:44:32 by Hugo Beaulieu
-
-Out-Map allow to Render 40x100 display whit text (texture) and color the module come whit all function to edit the map and display it
-
-__Downloads__: 10 | __Repository__: 
-
-## [ItGlue](https://www.powershellgallery.com/Packages/ItGlue/1.0.0.55) | 1.0.0.55
-
-### Published: 07/22/2022 15:28:27 by Mike Hashemi
-
-ITGlue REST API-related functions.
-
-__Downloads__: 282,352 | __Repository__: https://github.com/wetling23/Public.ItGlue.PowerShellModule
-
-## [PureStorage.Pure1](https://www.powershellgallery.com/Packages/PureStorage.Pure1/1.4.4.3) | 1.4.4.3
-
-### Published: 07/22/2022 15:27:44 by Pure Storage
-
-Pure Storage Pure1 REST API integration with PowerShell.
-
-__Downloads__: 5,293 | __Repository__: 
-
-*Updated: Monday, 01 August 2022 09:52:49 UTC*
+*Updated: Monday, 01 August 2022 17:53:38 UTC*

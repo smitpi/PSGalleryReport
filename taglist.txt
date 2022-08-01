@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 01 August 2022 09:53:01 UTC
+Updated: Monday, 01 August 2022 17:53:49 UTC
 
 ?:
 ??
@@ -199,12 +199,13 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
 aggregation
 agile
-agility
 agm
 agnoster
 ah
@@ -434,7 +435,6 @@ attribute
 attributes
 au
 audio
-audiocodes
 audit
 auditing
 auditpol
@@ -520,7 +520,6 @@ azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
-azops
 azpublicipaddress
 azresources
 azsdk
@@ -668,7 +667,6 @@ bigquery
 bikeshed
 billing
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -879,6 +877,7 @@ centurylinkcloud
 cer
 cert
 certbasedauth
+certera
 certes
 certificate
 certificateauthority
@@ -1050,6 +1049,7 @@ cmake
 cmakepresets.json
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1421,8 +1421,6 @@ data_protection
 data-archive
 data-backup
 data-tier
-data-uri
-data-uri-converter
 database
 database-migrations
 databaseautomation
@@ -1495,7 +1493,6 @@ dcim_b324
 deathface
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1914,7 +1911,6 @@ enrichment
 enteo
 enter
 enterprise
-enterprise-scale
 enterprisedb
 enterprisemanager
 enterprisevoice
@@ -2074,6 +2070,7 @@ extend
 extended
 extendedevents
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2133,6 +2130,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2148,6 +2147,7 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filereplication
 files
@@ -2159,6 +2159,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2555,7 +2558,6 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
-healthservice
 healthz
 heartbeatdiscovery
 heat
@@ -2745,7 +2747,6 @@ ilo5
 ilocmdlets
 im
 image
-image-converter
 image-creation
 image-generation
 image-process
@@ -2885,6 +2886,7 @@ ios
 iot
 iotcentral
 iothub
+iothubproperties
 ip
 ip-address
 ipa
@@ -3008,6 +3010,7 @@ kb
 kbarticle
 kdbx
 keenetic
+keepachangelog
 keepass
 keepasslib
 keeper
@@ -3401,7 +3404,6 @@ measure
 measure-process
 mecm
 media
-mediant
 mediaplayer
 mediaservices
 mediawiki
@@ -3556,7 +3558,6 @@ mp3
 mp4
 mpc
 mpeg
-mpn
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -3998,7 +3999,6 @@ osubbillingschedule
 osuborganizationsubscription
 osubsubscription
 osubusage
-osx
 otp
 ou
 oui-search
@@ -4202,6 +4202,7 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plugin
 plugins
@@ -4250,7 +4251,6 @@ posh
 posh-acme
 posh-cats
 posh-chocobear
-posh-direnv
 posh-git
 posh-ribbon
 posh-ssh
@@ -4329,6 +4329,7 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4542,6 +4543,7 @@ psmodule
 psmodule psedition_desktop
 psmodulepath
 psmodules
+psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -4589,7 +4591,6 @@ psthread
 pstk
 pstwitter
 pswa
-pswindocumentation
 pswinreporting
 pswinreportingv2
 psword
@@ -4849,7 +4850,6 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
-reportrunner
 reports
 repos
 repositories
@@ -6027,7 +6027,6 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
-twitter-timeline
 twitter-tweet
 txt
 type
@@ -6318,7 +6317,6 @@ virtualrtu
 virtualterminal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
@@ -6481,7 +6479,6 @@ webtesting
 webtime
 wec
 wecutil
-weekday
 wef
 weixin
 well-known
@@ -6503,6 +6500,7 @@ wid
 wif
 wifi
 wiki
+wildcard
 wildfly
 wim
 wim2vhd
