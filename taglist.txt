@@ -1,9 +1,10 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 01 August 2022 02:43:51 UTC
+Updated: Monday, 01 August 2022 09:53:01 UTC
 
 ?:
 ??
+.bat
 .env
 .net
 .ps1xml
@@ -198,8 +199,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -332,6 +331,7 @@ applicationinsights
 applicationmigration
 applicationmonitor
 applications
+applocker
 appmgmtcontrol
 apppool
 appraiser
@@ -755,6 +755,7 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
+broadcast
 broot
 browser
 browserextension
@@ -878,7 +879,6 @@ centurylinkcloud
 cer
 cert
 certbasedauth
-certera
 certes
 certificate
 certificateauthority
@@ -905,6 +905,7 @@ charts
 chat
 chatbot
 chatops
+chatroom
 chatter
 cheat
 check
@@ -1049,7 +1050,6 @@ cmake
 cmakepresets.json
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -2074,7 +2074,6 @@ extend
 extended
 extendedevents
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2255,6 +2254,7 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
+foudil
 fox
 foxpro
 fqdn
@@ -2294,6 +2294,7 @@ funds
 funny
 fusionapps
 fuzzy
+fyi
 fzf
 gac
 gainz
@@ -2948,6 +2949,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jdedwards
 jdt
@@ -3006,7 +3008,6 @@ kb
 kbarticle
 kdbx
 keenetic
-keepachangelog
 keepass
 keepasslib
 keeper
@@ -3103,6 +3104,7 @@ lcm
 lcminternals
 ldap
 league
+lean
 learn
 learn-powershell
 learn-powershell-series
@@ -3495,6 +3497,7 @@ min
 mindmeister
 minecraft
 minifier
+minimal
 minimum
 mip
 mipsdk
@@ -3690,6 +3693,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmask
 nets
 netsapiens
 netscaler
@@ -3734,6 +3738,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+ngen
 ngfw
 nhl
 nic
@@ -3977,6 +3982,7 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
+osdprogress
 osdsus
 osdupdate
 osi
@@ -4196,7 +4202,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plugin
 plugins
@@ -4324,7 +4329,6 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
-powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4350,6 +4354,7 @@ predicate
 prediction
 predictor
 preferences
+prefix
 preparead
 preparealldomains
 prepareschema
@@ -4537,7 +4542,6 @@ psmodule
 psmodule psedition_desktop
 psmodulepath
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -4546,6 +4550,7 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
+psngenposh
 psobject
 pspath
 pspowerhour
@@ -5145,6 +5150,8 @@ securesphere
 securestring
 security
 security-policy
+security-txt
+security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -5155,6 +5162,7 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
+securitytxt
 seek
 seekatar
 seeshell
@@ -5779,6 +5787,7 @@ taskscheduler
 taxjar
 taxonomy
 tcp
+tcp/ip
 tcpip
 tcpport
 tcpserver
@@ -6494,6 +6503,7 @@ wid
 wif
 wifi
 wiki
+wildfly
 wim
 wim2vhd
 win

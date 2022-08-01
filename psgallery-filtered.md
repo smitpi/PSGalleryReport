@@ -5,6 +5,102 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.11.0) | 0.11.0
+
+### Published: 08/01/2022 07:55:53 by DSC Community
+
+Common functions used in DSC Resources
+
+__Downloads__: 10,580 | __Repository__: https://github.com/dsccommunity/DscResource.Common
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.16) | 0.0.16
+
+### Published: 08/01/2022 07:53:32 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 12 | __Repository__: 
+
+## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.1) | 0.1
+
+### Published: 08/01/2022 06:17:28 by James Brundage
+
+An Extensible Transpiler for PowerShell (and anything else)
+
+__Downloads__: 47 | __Repository__: https://github.com/StartAutomating/PipeScript
+
+## [ArxmlAutomation-Basic](https://www.powershellgallery.com/Packages/ArxmlAutomation-Basic/0.0.1) | 0.0.1
+
+### Published: 08/01/2022 06:06:26 by LeanMeatFloss
+
+The basic module to perform arxml automation on powershell
+
+__Downloads__: 0 | __Repository__: 
+
+## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.200) | 0.0.0.200
+
+### Published: 08/01/2022 05:22:18 by Naitwatch
+
+Powershell module for basic windows os configuration, maintenance
+
+__Downloads__: 778 | __Repository__: https://github.com/NaitWatch/SetUpBasic
+
+## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.17) | 0.0.0.17
+
+### Published: 08/01/2022 05:22:02 by Naitwatch
+
+Powershell module SetUpBasic.Update. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 134 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Update
+
+## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.22) | 0.0.0.22
+
+### Published: 08/01/2022 05:21:53 by Naitwatch
+
+Powershell module SetUpBasic.Publish. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 136 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Publish
+
+## [SetUpBasic.TaskScheduler](https://www.powershellgallery.com/Packages/SetUpBasic.TaskScheduler/0.0.0.23) | 0.0.0.23
+
+### Published: 08/01/2022 05:21:42 by Naitwatch
+
+Powershell module SetUpBasic.TaskScheduler. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 145 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TaskScheduler
+
+## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.19) | 0.0.0.19
+
+### Published: 08/01/2022 05:21:31 by Naitwatch
+
+Powershell module SetUpBasic.Template. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 164 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Template
+
+## [SetUpBasic.Install](https://www.powershellgallery.com/Packages/SetUpBasic.Install/0.0.0.18) | 0.0.0.18
+
+### Published: 08/01/2022 05:21:20 by Naitwatch
+
+Powershell module SetUpBasic.Install. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 101 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
+
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.18) | 2.0.18
+
+### Published: 08/01/2022 03:51:47 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 37 | __Repository__: 
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.2) | 3.0.2
+
+### Published: 08/01/2022 03:31:20 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 197 | __Repository__: 
+
 ## [PsSysPassAPI](https://www.powershellgallery.com/Packages/PsSysPassAPI/0.1.0) | 0.1.0
 
 ### Published: 07/31/2022 23:48:50 by James Sudbury
@@ -53,22 +149,6 @@ Creates a GitHub Gist (Private or Public) list to install and maintain the insta
 
 __Downloads__: 27 | __Repository__: https://github.com/smitpi/PWSHModule
 
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.0) | 3.0.0
-
-### Published: 07/31/2022 16:20:30 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 197 | __Repository__: 
-
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.10) | 2.0.10
-
-### Published: 07/31/2022 16:19:15 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 37 | __Repository__: 
-
 ## [MazeRats](https://www.powershellgallery.com/Packages/MazeRats/0.1.2) | 0.1.2
 
 ### Published: 07/31/2022 15:53:55 by Gilbert Sanchez
@@ -99,7 +179,7 @@ __Downloads__: 10 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 1,565,222 | __Repository__: https://0install.net/
+__Downloads__: 1,565,124 | __Repository__: https://0install.net/
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.20.0) | 2.20.0
 
@@ -117,38 +197,6 @@ Module for multithreading PowerShell commands using .Net Runspaces
 
 __Downloads__: 21 | __Repository__: 
 
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.14) | 0.0.14
-
-### Published: 07/31/2022 06:06:17 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 12 | __Repository__: 
-
-## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.199) | 0.0.0.199
-
-### Published: 07/31/2022 05:48:40 by Naitwatch
-
-Powershell module for basic windows os configuration, maintenance
-
-__Downloads__: 778 | __Repository__: https://github.com/NaitWatch/SetUpBasic
-
-## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.16) | 0.0.0.16
-
-### Published: 07/31/2022 05:48:19 by Naitwatch
-
-Powershell module SetUpBasic.Update. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 134 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Update
-
-## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.21) | 0.0.0.21
-
-### Published: 07/31/2022 05:48:07 by Naitwatch
-
-Powershell module SetUpBasic.Publish. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 136 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Publish
-
 ## [LightScript](https://www.powershellgallery.com/Packages/LightScript/0.2.4.1) | 0.2.4.1
 
 ### Published: 07/31/2022 05:12:39 by James Brundage
@@ -164,14 +212,6 @@ __Downloads__: 67 | __Repository__: https://github.com/StartAutomating/LightScri
 A Helpful Toolkit for Managing PowerShell Help
 
 __Downloads__: 424 | __Repository__: https://github.com/StartAutomating/HelpOut
-
-## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.0.14) | 0.0.14
-
-### Published: 07/31/2022 03:03:20 by James Brundage
-
-An Extensible Transpiler for PowerShell (and anything else)
-
-__Downloads__: 47 | __Repository__: https://github.com/StartAutomating/PipeScript
 
 ## [FixLogModule](https://www.powershellgallery.com/Packages/FixLogModule/2.1.1) | 2.1.1
 
@@ -195,7 +235,7 @@ __Downloads__: 176 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,865,341 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,865,152 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -219,7 +259,7 @@ __Downloads__: 125 | __Repository__: https://github.com/BusHero/pester.extenssio
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,785,720 | __Repository__: https://dbatools.io/
+__Downloads__: 1,785,766 | __Repository__: https://dbatools.io/
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.0.0) | 1.0.0
 
@@ -284,7 +324,7 @@ __Downloads__: 58,991 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,331,044 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,331,026 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.8.5117) | 20.12.8.5117
 
@@ -443,7 +483,7 @@ __Downloads__: 14 | __Repository__: https://github.com/jgrutz/JitBitPS
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 8,502 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 8,503 | __Repository__: https://aka.ms/AzAPICall
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/1.1.0) | 1.1.0
 
@@ -507,7 +547,7 @@ __Downloads__: 160 | __Repository__:
 
 The module collects all helper functions used in but not limited to AutomatedLab
 
-__Downloads__: 37,665 | __Repository__: https://github.com/AutomatedLab/AutomatedLab.Common/
+__Downloads__: 37,666 | __Repository__: https://github.com/AutomatedLab/AutomatedLab.Common/
 
 ## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/1.0.5) | 1.0.5
 
@@ -523,7 +563,7 @@ __Downloads__: 169 | __Repository__: https://github.com/SEPPmail/SEPPmail365clou
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,036,562 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,036,582 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [EventLogTools](https://www.powershellgallery.com/Packages/EventLogTools/4.0.0.0) | 4.0.0.0
 
@@ -668,7 +708,7 @@ __Downloads__: 945 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 516,061 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 516,065 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/37.0.0) | 37.0.0
 
@@ -1701,14 +1741,6 @@ Test
 
 __Downloads__: 74 | __Repository__: https://github.com/NiXerasse/vsmTools
 
-## [New-AEScript](https://www.powershellgallery.com/Packages/New-AEScript/0.0.1) | 0.0.1
-
-### Published: 07/26/2022 06:40:06 by sdixon
-
-a template for creating scripts in Extendscript for Adobe After Effects
-
-__Downloads__: 8 | __Repository__: https://blob.pureandapplied.com.au/
-
 ## [EZOut](https://www.powershellgallery.com/Packages/EZOut/1.8.8) | 1.8.8
 
 ### Published: 07/26/2022 04:54:19 by James Brundage
@@ -1841,14 +1873,6 @@ Database for KB Viewer and Saver
 
 __Downloads__: 518,082 | __Repository__: 
 
-## [SetUpBasic.TaskScheduler](https://www.powershellgallery.com/Packages/SetUpBasic.TaskScheduler/0.0.0.22) | 0.0.0.22
-
-### Published: 07/25/2022 05:35:34 by Naitwatch
-
-Powershell module SetUpBasic.TaskScheduler. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 145 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TaskScheduler
-
 ## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.2.0) | 1.2.0
 
 ### Published: 07/25/2022 04:09:00 by Evan Deters
@@ -1905,22 +1929,6 @@ Roll dice right from PowerShell!
 
 __Downloads__: 112 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
 
-## [SetUpBasic.Install](https://www.powershellgallery.com/Packages/SetUpBasic.Install/0.0.0.17) | 0.0.0.17
-
-### Published: 07/24/2022 19:52:59 by Naitwatch
-
-Powershell module SetUpBasic.Install. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 101 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
-
-## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.18) | 0.0.0.18
-
-### Published: 07/24/2022 19:14:25 by Naitwatch
-
-Powershell module SetUpBasic.Template. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 164 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Template
-
 ## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.0.12) | 1.0.12
 
 ### Published: 07/24/2022 18:11:32 by @AndrewZtrhgf
@@ -1966,7 +1974,7 @@ __Downloads__: 815 | __Repository__: https://github.com/jhoek/UncommonSense.Volk
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen9, Gen10 or Gen10 Plus servers.
 
-__Downloads__: 758,019 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 758,017 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2207.609) | 2207.609
 
@@ -2040,12 +2048,4 @@ Pure Storage Pure1 REST API integration with PowerShell.
 
 __Downloads__: 5,293 | __Repository__: 
 
-## [Invoke-FormatQuery](https://www.powershellgallery.com/Packages/Invoke-FormatQuery/1.1.0) | 1.1.0
-
-### Published: 07/22/2022 15:13:32 by BEAH
-
-A module run a query and format result to PSCUSTUMOBJECT
-
-__Downloads__: 16 | __Repository__: 
-
-*Updated: Monday, 01 August 2022 02:43:38 UTC*
+*Updated: Monday, 01 August 2022 09:52:49 UTC*
