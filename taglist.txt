@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 02 August 2022 02:44:42 UTC
+Updated: Tuesday, 02 August 2022 09:52:42 UTC
 
 ?:
 ??
@@ -216,7 +216,6 @@ ailanguage
 aim
 aip
 aipscanner
-aircall
 airtable
 aispeech
 aivision
@@ -349,8 +348,6 @@ appxmanifest
 aprs
 apt-get
 apt-get-update
-aql
-arangodb
 arc
 arcade
 arcgis
@@ -747,7 +744,6 @@ brawlapi
 brawlstars
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -757,6 +753,7 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
+broadcast
 broot
 browser
 browserextension
@@ -1126,6 +1123,7 @@ commandsandresource
 commence
 comment
 commerce
+commfort
 commit
 common
 common-data-service
@@ -1928,6 +1926,7 @@ env
 environment
 environment-variables
 environmentmanagent
+environmentmodules
 environments
 environmentvariable
 environmentvariables
@@ -2184,6 +2183,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialforce
 find
 find-path
 findlocation
@@ -3438,6 +3438,7 @@ messagebox
 messages
 messaging
 messenger
+met
 metadata
 metadataservice
 metaprogramming
@@ -3446,6 +3447,7 @@ methodinfo
 methods
 metric
 metrics
+metrolink
 mfa
 mga
 mi
@@ -3699,6 +3701,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmask
 nets
 netsapiens
 netscaler
@@ -3966,6 +3969,7 @@ option
 opus
 oracle
 oraclecloudinfrastructure
+orbital
 orchestration
 orchestrator
 order
@@ -3986,6 +3990,7 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
+osdprogress
 osdsus
 osdupdate
 osi
@@ -4359,6 +4364,7 @@ predicate
 prediction
 predictor
 preferences
+prefix
 preparead
 preparealldomains
 prepareschema
@@ -4604,6 +4610,7 @@ pszabbix
 pubg
 public
 public-key
+public-transport
 publicapi
 publicclient
 publicfolder
@@ -4866,6 +4873,7 @@ res
 rescan
 rescuetime
 reservation
+reservations
 reset
 resharper
 resize
@@ -5266,6 +5274,7 @@ setup
 setupbasic.install
 setupbasic.publish
 setupbasic.taskscheduler
+setupbasic.template
 setupbasic.update
 sevenzip
 sf
@@ -5631,7 +5640,6 @@ streak
 stream
 streamanalytics
 streaming
-stretch
 strictmode
 string
 string-template
@@ -5790,6 +5798,7 @@ taskscheduler
 taxjar
 taxonomy
 tcp
+tcp/ip
 tcpip
 tcpport
 tcpserver
@@ -5959,6 +5968,7 @@ trafficmarking
 train
 training
 training-course
+tram
 transact
 transaction
 transactions
@@ -6405,6 +6415,7 @@ vvx
 vxrail
 w32time
 w3svc
+w3w
 waa
 waas
 wac
@@ -6487,6 +6498,7 @@ well-known
 wem
 wemsdk
 wer
+what3words
 whatismyip
 whd
 where
@@ -6725,7 +6737,6 @@ xsa
 xtremio
 xtrude
 xunit
-xwiki
 xwindowsupdate
 yahoo
 yahw

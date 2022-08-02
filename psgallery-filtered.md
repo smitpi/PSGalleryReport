@@ -5,6 +5,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [marli-Cleoni](https://www.powershellgallery.com/Packages/marli-Cleoni/0.143) | 0.143
+
+### Published: 08/02/2022 09:39:23 by Marco Lippert
+
+A Tool to download and compare the Intune configurations
+
+__Downloads__: 11 | __Repository__: 
+
+## [UtilityModule](https://www.powershellgallery.com/Packages/UtilityModule/0.0.1) | 0.0.1
+
+### Published: 08/02/2022 03:40:01 by Fake Author
+
+Utility Module
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.3) | 3.0.3
 
 ### Published: 08/02/2022 02:25:05 by Jeremy La Camera
@@ -59,7 +75,7 @@ __Downloads__: 15,153 | __Repository__:
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 506,556 | __Repository__: 
+__Downloads__: 506,535 | __Repository__: 
 
 ## [mySQLite](https://www.powershellgallery.com/Packages/mySQLite/0.9.2) | 0.9.2
 
@@ -107,7 +123,7 @@ __Downloads__: 23 | __Repository__:
 
 HP Client Management Script Library
 
-__Downloads__: 20,673,050 | __Repository__: 
+__Downloads__: 20,673,645 | __Repository__: 
 
 ## [PS-Populi](https://www.powershellgallery.com/Packages/PS-Populi/0.0.36) | 0.0.36
 
@@ -123,7 +139,7 @@ __Downloads__: 113 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,788,888 | __Repository__: https://dbatools.io/
+__Downloads__: 1,788,897 | __Repository__: https://dbatools.io/
 
 ## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.4) | 0.2.4
 
@@ -132,14 +148,6 @@ __Downloads__: 1,788,888 | __Repository__: https://dbatools.io/
 COMMVAULT POWERSHELL SDK
 
 __Downloads__: 11 | __Repository__: https://github.com/Commvault/CVPowershellSDKV2/tree/2022E/CommvaultPowerShell
-
-## [marli-Cleoni](https://www.powershellgallery.com/Packages/marli-Cleoni/0.13) | 0.13
-
-### Published: 08/01/2022 14:02:51 by Marco Lippert
-
-A Tool to download and compare the Intune configurations
-
-__Downloads__: 11 | __Repository__: 
 
 ## [CimDiskImage](https://www.powershellgallery.com/Packages/CimDiskImage/2208.2) | 2208.2
 
@@ -233,13 +241,21 @@ Powershell module SetUpBasic.TaskScheduler. This module is under construction an
 
 __Downloads__: 148 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TaskScheduler
 
+## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.19) | 0.0.0.19
+
+### Published: 08/01/2022 05:21:31 by Naitwatch
+
+Powershell module SetUpBasic.Template. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 168 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Template
+
 ## [SetUpBasic.Install](https://www.powershellgallery.com/Packages/SetUpBasic.Install/0.0.0.18) | 0.0.0.18
 
 ### Published: 08/01/2022 05:21:20 by Naitwatch
 
 Powershell module SetUpBasic.Install. This module is under construction and just uploaded for testing purposes.
 
-__Downloads__: 104 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
+__Downloads__: 105 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
 
 ## [PsSysPassAPI](https://www.powershellgallery.com/Packages/PsSysPassAPI/0.1.0) | 0.1.0
 
@@ -375,7 +391,7 @@ __Downloads__: 5,889,417 | __Repository__: https://www.github.com/jantari/LSUCli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 744,138 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 744,124 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -391,7 +407,7 @@ __Downloads__: 126 | __Repository__: https://github.com/BusHero/pester.extenssio
 
 Gitlab API v4 helper functions
 
-__Downloads__: 40 | __Repository__: https://gitlab.com/mteodor/gitlab4
+__Downloads__: 39 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 ## [VirtualDesktop](https://www.powershellgallery.com/Packages/VirtualDesktop/1.5.1) | 1.5.1
 
@@ -440,7 +456,7 @@ __Downloads__: 185 | __Repository__: https://github.com/StartAutomating/ugit
 
 Download SDK Module
 
-__Downloads__: 59,174 | __Repository__: 
+__Downloads__: 59,169 | __Repository__: 
 
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/1.23.4) | 1.23.4
 
@@ -671,7 +687,7 @@ __Downloads__: 171 | __Repository__: https://github.com/SEPPmail/SEPPmail365clou
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,040,998 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,041,002 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [EventLogTools](https://www.powershellgallery.com/Packages/EventLogTools/4.0.0.0) | 4.0.0.0
 
@@ -816,7 +832,7 @@ __Downloads__: 946 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 517,504 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 517,476 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/37.0.0) | 37.0.0
 
@@ -1752,7 +1768,7 @@ __Downloads__: 39,451 | __Repository__: https://pspas.pspete.dev/
 
 Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
 
-__Downloads__: 52,030 | __Repository__: https://github.com/EvotecIT/GPOZaurr
+__Downloads__: 52,031 | __Repository__: https://github.com/EvotecIT/GPOZaurr
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.5) | 1.0.5
 
@@ -1791,7 +1807,7 @@ __Downloads__: 1,725 | __Repository__: https://github.com/CriticalSolutionsNetwo
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 117,844 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 117,845 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [AzurePipelinesPS](https://www.powershellgallery.com/Packages/AzurePipelinesPS/4.0.25) | 4.0.25
 
@@ -1799,7 +1815,7 @@ __Downloads__: 117,844 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
-__Downloads__: 11,513 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+__Downloads__: 11,515 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
 ## [Qumulo](https://www.powershellgallery.com/Packages/Qumulo/5.1.0) | 5.1.0
 
@@ -1975,7 +1991,7 @@ __Downloads__: 318 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTable
 
 Database for KB Viewer and Saver
 
-__Downloads__: 520,635 | __Repository__: 
+__Downloads__: 520,615 | __Repository__: 
 
 ## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.2.0) | 1.2.0
 
@@ -2017,20 +2033,4 @@ Module for creating and managing custom Windows EventLog channels
 
 __Downloads__: 7 | __Repository__: https://github.com/AndiBellstedt/WinEventLogCustomization
 
-## [ChartImage](https://www.powershellgallery.com/Packages/ChartImage/1.0.2) | 1.0.2
-
-### Published: 07/24/2022 21:34:00 by Adam Bacon
-
-Allows you to create beautiful charts and save them as images please see image-charts.com as this is the C# library for saving these charts to images
-
-__Downloads__: 14 | __Repository__: 
-
-## [RPGDice](https://www.powershellgallery.com/Packages/RPGDice/0.1.5) | 0.1.5
-
-### Published: 07/24/2022 20:19:13 by Gilbert Sanchez
-
-Roll dice right from PowerShell!
-
-__Downloads__: 112 | __Repository__: https://github.com/HeyItsGilbert/RPGDice
-
-*Updated: Tuesday, 02 August 2022 02:44:30 UTC*
+*Updated: Tuesday, 02 August 2022 09:52:33 UTC*
