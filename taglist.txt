@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 01 August 2022 17:53:49 UTC
+Updated: Tuesday, 02 August 2022 02:44:42 UTC
 
 ?:
 ??
@@ -206,6 +206,7 @@ agent
 aggregates
 aggregation
 agile
+agility
 agm
 agnoster
 ah
@@ -435,6 +436,7 @@ attribute
 attributes
 au
 audio
+audiocodes
 audit
 auditing
 auditpol
@@ -520,6 +522,7 @@ azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
+azops
 azpublicipaddress
 azresources
 azsdk
@@ -667,6 +670,7 @@ bigquery
 bikeshed
 billing
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -753,7 +757,6 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
-broadcast
 broot
 browser
 browserextension
@@ -803,7 +806,6 @@ caching
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -1124,7 +1126,6 @@ commandsandresource
 commence
 comment
 commerce
-commfort
 commit
 common
 common-data-service
@@ -1421,6 +1422,8 @@ data_protection
 data-archive
 data-backup
 data-tier
+data-uri
+data-uri-converter
 database
 database-migrations
 databaseautomation
@@ -1493,6 +1496,7 @@ dcim_b324
 deathface
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1911,6 +1915,7 @@ enrichment
 enteo
 enter
 enterprise
+enterprise-scale
 enterprisedb
 enterprisemanager
 enterprisevoice
@@ -1923,7 +1928,6 @@ env
 environment
 environment-variables
 environmentmanagent
-environmentmodules
 environments
 environmentvariable
 environmentvariables
@@ -2180,7 +2184,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialforce
 find
 find-path
 findlocation
@@ -2558,6 +2561,7 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
+healthservice
 healthz
 heartbeatdiscovery
 heat
@@ -2747,6 +2751,7 @@ ilo5
 ilocmdlets
 im
 image
+image-converter
 image-creation
 image-generation
 image-process
@@ -3404,6 +3409,7 @@ measure
 measure-process
 mecm
 media
+mediant
 mediaplayer
 mediaservices
 mediawiki
@@ -3432,7 +3438,6 @@ messagebox
 messages
 messaging
 messenger
-met
 metadata
 metadataservice
 metaprogramming
@@ -3441,7 +3446,6 @@ methodinfo
 methods
 metric
 metrics
-metrolink
 mfa
 mga
 mi
@@ -3558,6 +3562,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -3694,7 +3699,6 @@ netcease
 netcore
 netfirewallrule
 netherlands
-netmask
 nets
 netsapiens
 netscaler
@@ -3805,7 +3809,6 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
-number
 numlock
 nunit
 nupkg
@@ -3983,7 +3986,6 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
-osdprogress
 osdsus
 osdupdate
 osi
@@ -3999,6 +4001,7 @@ osubbillingschedule
 osuborganizationsubscription
 osubsubscription
 osubusage
+osx
 otp
 ou
 oui-search
@@ -4251,6 +4254,7 @@ posh
 posh-acme
 posh-cats
 posh-chocobear
+posh-direnv
 posh-git
 posh-ribbon
 posh-ssh
@@ -4355,7 +4359,6 @@ predicate
 prediction
 predictor
 preferences
-prefix
 preparead
 preparealldomains
 prepareschema
@@ -4591,6 +4594,7 @@ psthread
 pstk
 pstwitter
 pswa
+pswindocumentation
 pswinreporting
 pswinreportingv2
 psword
@@ -4600,7 +4604,6 @@ pszabbix
 pubg
 public
 public-key
-public-transport
 publicapi
 publicclient
 publicfolder
@@ -4850,6 +4853,7 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
+reportrunner
 reports
 repos
 repositories
@@ -5262,7 +5266,6 @@ setup
 setupbasic.install
 setupbasic.publish
 setupbasic.taskscheduler
-setupbasic.template
 setupbasic.update
 sevenzip
 sf
@@ -5787,7 +5790,6 @@ taskscheduler
 taxjar
 taxonomy
 tcp
-tcp/ip
 tcpip
 tcpport
 tcpserver
@@ -5957,7 +5959,6 @@ trafficmarking
 train
 training
 training-course
-tram
 transact
 transaction
 transactions
@@ -6027,6 +6028,7 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
+twitter-timeline
 twitter-tweet
 txt
 type
@@ -6278,7 +6280,6 @@ version
 versioncontrol
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -6317,6 +6318,7 @@ virtualrtu
 virtualterminal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualization
@@ -6403,7 +6405,6 @@ vvx
 vxrail
 w32time
 w3svc
-w3w
 waa
 waas
 wac
@@ -6479,13 +6480,13 @@ webtesting
 webtime
 wec
 wecutil
+weekday
 wef
 weixin
 well-known
 wem
 wemsdk
 wer
-what3words
 whatismyip
 whd
 where
