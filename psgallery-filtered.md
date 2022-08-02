@@ -5,17 +5,57 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [marli-Cleoni](https://www.powershellgallery.com/Packages/marli-Cleoni/0.143) | 0.143
+## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.2) | 1.4.2
 
-### Published: 08/02/2022 09:39:23 by Marco Lippert
+### Published: 08/02/2022 17:22:59 by Brian Dukes
+
+A set of functions for managing websites built on the DNN Platform.
+
+__Downloads__: 1,090 | __Repository__: https://github.com/bdukes/PowerShellModules
+
+## [SslWebBinding](https://www.powershellgallery.com/Packages/SslWebBinding/1.3.0) | 1.3.0
+
+### Published: 08/02/2022 17:22:41 by Brian Dukes
+
+Adds (and trusts) and removes self-signed HTTPS bindings to websites in IIS
+
+__Downloads__: 1,459 | __Repository__: https://github.com/bdukes/PowerShellModules
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22214.31130) | 4.4.22214.31130
+
+### Published: 08/02/2022 16:38:44 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 3,040,969 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [marli-Cleoni](https://www.powershellgallery.com/Packages/marli-Cleoni/0.144) | 0.144
+
+### Published: 08/02/2022 16:30:41 by Marco Lippert
 
 A Tool to download and compare the Intune configurations
 
 __Downloads__: 11 | __Repository__: 
 
-## [UtilityModule](https://www.powershellgallery.com/Packages/UtilityModule/0.0.1) | 0.0.1
+## [vsmTools](https://www.powershellgallery.com/Packages/vsmTools/1.3.17) | 1.3.17
 
-### Published: 08/02/2022 03:40:01 by Fake Author
+### Published: 08/02/2022 13:09:45 by NiXerasse
+
+Test
+
+__Downloads__: 75 | __Repository__: https://github.com/NiXerasse/vsmTools
+
+## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.7) | 1.5.7
+
+### Published: 08/02/2022 12:55:34 by Chrissy LeMaire
+
+KB Viewer, Saver, Installer and Uninstaller
+
+__Downloads__: 506,556 | __Repository__: 
+
+## [UtilityModule](https://www.powershellgallery.com/Packages/UtilityModule/1.0) | 1.0
+
+### Published: 08/02/2022 10:03:29 by Anwesh Mohapatra
 
 Utility Module
 
@@ -69,14 +109,6 @@ The test module to verify publishing to PSGallery from AppVeyor.
 
 __Downloads__: 15,153 | __Repository__: 
 
-## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.5) | 1.5.5
-
-### Published: 08/01/2022 20:32:42 by Chrissy LeMaire
-
-KB Viewer, Saver, Installer and Uninstaller
-
-__Downloads__: 506,535 | __Repository__: 
-
 ## [mySQLite](https://www.powershellgallery.com/Packages/mySQLite/0.9.2) | 0.9.2
 
 ### Published: 08/01/2022 20:26:24 by Jeff Hicks
@@ -123,7 +155,7 @@ __Downloads__: 23 | __Repository__:
 
 HP Client Management Script Library
 
-__Downloads__: 20,673,645 | __Repository__: 
+__Downloads__: 20,673,176 | __Repository__: 
 
 ## [PS-Populi](https://www.powershellgallery.com/Packages/PS-Populi/0.0.36) | 0.0.36
 
@@ -139,7 +171,7 @@ __Downloads__: 113 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,788,897 | __Repository__: https://dbatools.io/
+__Downloads__: 1,788,865 | __Repository__: https://dbatools.io/
 
 ## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.4) | 0.2.4
 
@@ -215,7 +247,7 @@ __Downloads__: 2 | __Repository__:
 
 Powershell module for basic windows os configuration, maintenance
 
-__Downloads__: 781 | __Repository__: https://github.com/NaitWatch/SetUpBasic
+__Downloads__: 782 | __Repository__: https://github.com/NaitWatch/SetUpBasic
 
 ## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.17) | 0.0.0.17
 
@@ -239,7 +271,7 @@ __Downloads__: 140 | __Repository__: https://www.powershellgallery.com/packages/
 
 Powershell module SetUpBasic.TaskScheduler. This module is under construction and just uploaded for testing purposes.
 
-__Downloads__: 148 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TaskScheduler
+__Downloads__: 149 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.TaskScheduler
 
 ## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.19) | 0.0.0.19
 
@@ -255,7 +287,7 @@ __Downloads__: 168 | __Repository__: https://www.powershellgallery.com/packages/
 
 Powershell module SetUpBasic.Install. This module is under construction and just uploaded for testing purposes.
 
-__Downloads__: 105 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
+__Downloads__: 104 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
 
 ## [PsSysPassAPI](https://www.powershellgallery.com/Packages/PsSysPassAPI/0.1.0) | 0.1.0
 
@@ -327,7 +359,7 @@ __Downloads__: 12 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 1,593,136 | __Repository__: https://0install.net/
+__Downloads__: 1,592,989 | __Repository__: https://0install.net/
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.20.0) | 2.20.0
 
@@ -383,7 +415,7 @@ __Downloads__: 186 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,889,417 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,889,369 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -391,7 +423,7 @@ __Downloads__: 5,889,417 | __Repository__: https://www.github.com/jantari/LSUCli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 744,124 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 744,137 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -407,7 +439,7 @@ __Downloads__: 126 | __Repository__: https://github.com/BusHero/pester.extenssio
 
 Gitlab API v4 helper functions
 
-__Downloads__: 39 | __Repository__: https://gitlab.com/mteodor/gitlab4
+__Downloads__: 40 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 ## [VirtualDesktop](https://www.powershellgallery.com/Packages/VirtualDesktop/1.5.1) | 1.5.1
 
@@ -456,7 +488,7 @@ __Downloads__: 185 | __Repository__: https://github.com/StartAutomating/ugit
 
 Download SDK Module
 
-__Downloads__: 59,169 | __Repository__: 
+__Downloads__: 59,174 | __Repository__: 
 
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/1.23.4) | 1.23.4
 
@@ -464,7 +496,7 @@ __Downloads__: 59,169 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,332,555 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,332,542 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.8.5117) | 20.12.8.5117
 
@@ -496,7 +528,7 @@ __Downloads__: 36,863 | __Repository__: https://github.com/bdukes/PowerShellModu
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 62,583 | __Repository__: 
+__Downloads__: 62,586 | __Repository__: 
 
 ## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.2.0) | 1.2.0
 
@@ -681,14 +713,6 @@ Integrate and maintain Exchange Online with SEPPmail.Cloud
 
 __Downloads__: 171 | __Repository__: https://github.com/SEPPmail/SEPPmail365cloud
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22207.31111) | 4.4.22207.31111
-
-### Published: 07/28/2022 06:45:09 by Red Gate Software Ltd.
-
-Automation tools for production quality database deployment
-
-__Downloads__: 3,041,002 | __Repository__: https://www.red-gate.com/sca/productpage
-
 ## [EventLogTools](https://www.powershellgallery.com/Packages/EventLogTools/4.0.0.0) | 4.0.0.0
 
 ### Published: 07/28/2022 03:59:37 by Erik Whitesides
@@ -832,7 +856,7 @@ __Downloads__: 946 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 517,476 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 517,504 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/37.0.0) | 37.0.0
 
@@ -841,14 +865,6 @@ __Downloads__: 517,476 | __Repository__: https://github.com/microsoft/Get-NetVie
 This modules provides Cmdlets for OCI Workrequests Service
 
 __Downloads__: 1,506 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Waf](https://www.powershellgallery.com/Packages/OCI.PSModules.Waf/37.0.0) | 37.0.0
-
-### Published: 07/26/2022 22:23:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Waf Service
-
-__Downloads__: 719 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Waas](https://www.powershellgallery.com/Packages/OCI.PSModules.Waas/37.0.0) | 37.0.0
 
@@ -1768,7 +1784,7 @@ __Downloads__: 39,451 | __Repository__: https://pspas.pspete.dev/
 
 Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
 
-__Downloads__: 52,031 | __Repository__: https://github.com/EvotecIT/GPOZaurr
+__Downloads__: 52,029 | __Repository__: https://github.com/EvotecIT/GPOZaurr
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.5) | 1.0.5
 
@@ -1856,14 +1872,6 @@ __Downloads__: 42 | __Repository__:
 This module contain functions to manage WinGet Client.
 
 __Downloads__: 45 | __Repository__: https://github.com/mgajda83/PSWinGet
-
-## [vsmTools](https://www.powershellgallery.com/Packages/vsmTools/1.3.4) | 1.3.4
-
-### Published: 07/26/2022 07:44:10 by NiXerasse
-
-Test
-
-__Downloads__: 75 | __Repository__: https://github.com/NiXerasse/vsmTools
 
 ## [New-AEScript](https://www.powershellgallery.com/Packages/New-AEScript/0.0.1) | 0.0.1
 
@@ -1991,7 +1999,7 @@ __Downloads__: 318 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTable
 
 Database for KB Viewer and Saver
 
-__Downloads__: 520,615 | __Repository__: 
+__Downloads__: 520,635 | __Repository__: 
 
 ## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.2.0) | 1.2.0
 
@@ -2025,12 +2033,4 @@ Build a tree of function calls.
 
 __Downloads__: 41 | __Repository__: https://github.com/fsackur/FindFunctionCalls
 
-## [WinEventLogCustomization](https://www.powershellgallery.com/Packages/WinEventLogCustomization/1.0.0) | 1.0.0
-
-### Published: 07/24/2022 21:34:39 by Andreas Bellstedt
-
-Module for creating and managing custom Windows EventLog channels
-
-__Downloads__: 7 | __Repository__: https://github.com/AndiBellstedt/WinEventLogCustomization
-
-*Updated: Tuesday, 02 August 2022 09:52:33 UTC*
+*Updated: Tuesday, 02 August 2022 17:53:52 UTC*

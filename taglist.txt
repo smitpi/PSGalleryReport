@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 02 August 2022 09:52:42 UTC
+Updated: Tuesday, 02 August 2022 17:54:02 UTC
 
 ?:
 ??
@@ -135,7 +135,6 @@ add-on
 add-on.module
 add-one
 add-path
-add-type
 addin
 addlevel
 addomainservices
@@ -216,6 +215,7 @@ ailanguage
 aim
 aip
 aipscanner
+aircall
 airtable
 aispeech
 aivision
@@ -348,6 +348,8 @@ appxmanifest
 aprs
 apt-get
 apt-get-update
+aql
+arangodb
 arc
 arcade
 arcgis
@@ -744,6 +746,7 @@ brawlapi
 brawlstars
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -803,6 +806,7 @@ caching
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1067,7 +1071,6 @@ cmtrace
 cmwt
 cns
 coa
-cockroachdb
 codaamok
 code
 code-page
@@ -1233,7 +1236,6 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
-convert-movietogif
 convert-windowsimage
 converter
 convertfrom-yaml
@@ -2086,7 +2088,6 @@ extractor
 extreme-networks
 eztheme
 f
-f#
 f5
 facebook
 factoryorchestrator
@@ -2278,7 +2279,6 @@ frontdoor
 frontrange
 fs
 fsf
-fsharp
 fslogix
 fsrm
 ftp
@@ -3183,7 +3183,6 @@ litedb
 literature
 live
 lldp
-lmhost
 lmhosts
 lms
 load
@@ -3812,6 +3811,7 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
+number
 numlock
 nunit
 nupkg
@@ -5038,7 +5038,6 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
-sasdatasets
 sasxpt
 satirical
 save
@@ -5640,6 +5639,7 @@ streak
 stream
 streamanalytics
 streaming
+stretch
 strictmode
 string
 string-template
@@ -6290,6 +6290,7 @@ version
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -6737,6 +6738,7 @@ xsa
 xtremio
 xtrude
 xunit
+xwiki
 xwindowsupdate
 yahoo
 yahw
