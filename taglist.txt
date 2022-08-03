@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 03 August 2022 09:53:51 UTC
+Updated: Wednesday, 03 August 2022 17:53:19 UTC
 
 ?:
 ??
@@ -265,6 +265,7 @@ amxmodx
 anaconda
 analysis
 analysisservices
+analyst
 analyth
 analytics
 analyze
@@ -302,7 +303,6 @@ apigateway
 apigee
 apigeeedge
 apimanagement
-apis
 apm
 apmconfig
 apmcontrolplane
@@ -379,6 +379,7 @@ arrays
 art
 artefactual
 artifact
+artifactory
 artifacts
 aruba
 as
@@ -575,6 +576,7 @@ azurenetworking
 azurepack
 azurepipelines
 azurepolicy
+azurepowershell
 azureresourcemanager
 azureresources
 azurerm
@@ -629,7 +631,6 @@ bash
 bastion
 bat
 batch
-batchclass
 batman
 bayern
 bb
@@ -713,6 +714,7 @@ bls
 bluedolhin
 blueprint
 blueprints
+blueteam
 bluetraitio
 bmc
 bnm
@@ -878,6 +880,7 @@ centurylinkcloud
 cer
 cert
 certbasedauth
+certera
 certes
 certificate
 certificateauthority
@@ -1144,7 +1147,6 @@ completion
 complex
 compliance
 compliant
-component
 composer
 composite
 compress
@@ -1260,6 +1262,7 @@ corona
 corporate
 cortex
 cos
+cosmos
 cosmosdb
 cost
 costoptimization
@@ -1387,6 +1390,7 @@ cwi
 cx
 cyberark
 cyberdrain
+cybereason
 cybersecurity
 cyberwatch
 cyclic
@@ -1419,8 +1423,6 @@ data_protection
 data-archive
 data-backup
 data-tier
-data-uri
-data-uri-converter
 database
 database-migrations
 databaseautomation
@@ -1880,7 +1882,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 emc
 emergency
 emoji
@@ -1934,7 +1935,6 @@ envvars
 eol
 eop
 eperl
-ephesoft
 epicorerp
 episode
 epplus
@@ -1957,11 +1957,6 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
-espressif
 esri
 estimate
 esx
@@ -2127,23 +2122,15 @@ fieldglass
 fifa
 figlet
 file
-file-association
 file-encoding
-file-extension
-file-extension-association
 file-invalidchar
 file-matcher
 file-matching
 file-monitoring
-file-name
-file-name-extension
-file-name-extension-association
 file-server
 file-share
 file-system
 file-transform
-file-type
-file-type-association
 fileencryption
 filelist
 filelog
@@ -2728,7 +2715,6 @@ identity-management
 identitydataplane
 identitydirector
 identitynow
-idf
 ids
 ie
 iem
@@ -2750,7 +2736,6 @@ ilo5
 ilocmdlets
 im
 image
-image-converter
 image-creation
 image-generation
 image-process
@@ -3239,6 +3224,7 @@ logicmonitor
 login
 login-azurermaccount
 login-rdp
+loginscreen
 loginsight
 logiphys
 logistic
@@ -3592,10 +3578,8 @@ msgraphreport
 msgraphtokenlifetimepolicy
 msi
 msi psmodule
-msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -3744,6 +3728,8 @@ nexenta
 nexentastor
 nexthink
 nexus
+ngen
+ngfw
 nhl
 nic
 nic.ru
@@ -3922,6 +3908,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4144,6 +4131,7 @@ persistent
 personal
 personalisation
 personalization
+personalvault
 pester
 pf
 pfe
@@ -4273,6 +4261,7 @@ poshproject
 poshprtg
 poshrsjob
 poshtemplate
+poshwsus
 position
 postgre
 postgres
@@ -4416,7 +4405,6 @@ profiler
 profiles
 proget
 program
-program-association
 programs
 progress
 progressbar
@@ -4512,6 +4500,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -4555,6 +4544,7 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
+psngenposh
 psobject
 pspath
 pspowerhour
@@ -4621,6 +4611,7 @@ pullserver
 pulseway
 pulumi
 puppet
+puppetdb
 puppy
 pure
 pure1
@@ -5138,6 +5129,7 @@ secrets
 secretsanta
 secretscanner
 secretserver
+secretsmanager
 secretvault
 section
 secur32
@@ -5262,12 +5254,14 @@ setbios
 setting
 settings
 setup
+setupbasic.cmdlet
 setupbasic.install
 setupbasic.publish
 setupbasic.taskscheduler
 setupbasic.template
 setupbasic.update
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -5416,6 +5410,7 @@ snssqlitepsmodule
 sntp
 snugglepup
 soap
+soc
 soccer
 social
 social-media
@@ -5960,7 +5955,6 @@ train
 training
 training-course
 tram
-transact
 transaction
 transactions
 transcode
@@ -6063,10 +6057,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -6243,6 +6239,7 @@ variants
 vastlimits
 vault
 vaultextension
+vaultstore
 vba
 vbproj
 vbr
@@ -6425,6 +6422,7 @@ warning
 warplaneporn
 warranty
 warrenty
+wasabi
 watch
 watchguard
 watchmen
