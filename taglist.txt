@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 02 August 2022 17:54:02 UTC
+Updated: Wednesday, 03 August 2022 02:42:49 UTC
 
 ?:
 ??
@@ -135,6 +135,7 @@ add-on
 add-on.module
 add-one
 add-path
+add-type
 addin
 addlevel
 addomainservices
@@ -165,7 +166,6 @@ administrativeuser
 administrator
 admintools
 adml
-admpwd
 admx
 ado
 ado_security
@@ -1071,6 +1071,7 @@ cmtrace
 cmwt
 cns
 coa
+cockroachdb
 codaamok
 code
 code-page
@@ -1198,7 +1199,6 @@ connectednetwork
 connectexchange
 connection
 connections
-connectionsmanager
 connectionstring
 connectwise
 console
@@ -1236,6 +1236,7 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-windowsimage
 converter
 convertfrom-yaml
@@ -2088,6 +2089,7 @@ extractor
 extreme-networks
 eztheme
 f
+f#
 f5
 facebook
 factoryorchestrator
@@ -2279,6 +2281,7 @@ frontdoor
 frontrange
 fs
 fsf
+fsharp
 fslogix
 fsrm
 ftp
@@ -3183,6 +3186,7 @@ litedb
 literature
 live
 lldp
+lmhost
 lmhosts
 lms
 load
@@ -3942,6 +3946,7 @@ openidconnect
 openinghours
 openport
 openscad
+opensearch
 opensourceinitiative
 openssh
 openssl
@@ -4824,8 +4829,6 @@ remote
 remote-desktop
 remote'
 remotecert
-remoteconnection
-remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -5038,6 +5041,7 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
+sasdatasets
 sasxpt
 satirical
 save
@@ -5243,7 +5247,6 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
-serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5927,6 +5930,7 @@ tls
 tls11
 tls12
 tlsprotocol
+to-do
 toast
 toasts
 tobias
@@ -6416,7 +6420,6 @@ vvx
 vxrail
 w32time
 w3svc
-w3w
 waa
 waas
 wac
@@ -6499,7 +6502,6 @@ well-known
 wem
 wemsdk
 wer
-what3words
 whatismyip
 whd
 where
