@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 03 August 2022 02:42:49 UTC
+Updated: Wednesday, 03 August 2022 09:53:51 UTC
 
 ?:
 ??
@@ -166,6 +166,7 @@ administrativeuser
 administrator
 admintools
 adml
+admpwd
 admx
 ado
 ado_security
@@ -264,7 +265,6 @@ amxmodx
 anaconda
 analysis
 analysisservices
-analyst
 analyth
 analytics
 analyze
@@ -379,7 +379,6 @@ arrays
 art
 artefactual
 artifact
-artifactory
 artifacts
 aruba
 as
@@ -714,7 +713,6 @@ bls
 bluedolhin
 blueprint
 blueprints
-blueteam
 bluetraitio
 bmc
 bnm
@@ -880,7 +878,6 @@ centurylinkcloud
 cer
 cert
 certbasedauth
-certera
 certes
 certificate
 certificateauthority
@@ -1199,6 +1196,7 @@ connectednetwork
 connectexchange
 connection
 connections
+connectionsmanager
 connectionstring
 connectwise
 console
@@ -1262,7 +1260,6 @@ corona
 corporate
 cortex
 cos
-cosmos
 cosmosdb
 cost
 costoptimization
@@ -1390,7 +1387,6 @@ cwi
 cx
 cyberark
 cyberdrain
-cybereason
 cybersecurity
 cyberwatch
 cyclic
@@ -3243,7 +3239,6 @@ logicmonitor
 login
 login-azurermaccount
 login-rdp
-loginscreen
 loginsight
 logiphys
 logistic
@@ -3749,8 +3744,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-ngen
-ngfw
 nhl
 nic
 nic.ru
@@ -3929,7 +3922,6 @@ onyphe
 onyphe.io
 oob
 oop
-op
 opa
 opc
 open
@@ -4152,7 +4144,6 @@ persistent
 personal
 personalisation
 personalization
-personalvault
 pester
 pf
 pfe
@@ -4282,7 +4273,6 @@ poshproject
 poshprtg
 poshrsjob
 poshtemplate
-poshwsus
 position
 postgre
 postgres
@@ -4522,7 +4512,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psenv
 pses
 psexcel
@@ -4566,7 +4555,6 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
-psngenposh
 psobject
 pspath
 pspowerhour
@@ -4633,7 +4621,6 @@ pullserver
 pulseway
 pulumi
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -4829,6 +4816,8 @@ remote
 remote-desktop
 remote'
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -5149,7 +5138,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanager
 secretvault
 section
 secur32
@@ -5247,6 +5235,7 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
+serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5279,7 +5268,6 @@ setupbasic.taskscheduler
 setupbasic.template
 setupbasic.update
 sevenzip
-sf
 sfb
 sftp
 sfx
@@ -5428,7 +5416,6 @@ snssqlitepsmodule
 sntp
 snugglepup
 soap
-soc
 soccer
 social
 social-media
@@ -6076,12 +6063,10 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -6258,7 +6243,6 @@ variants
 vastlimits
 vault
 vaultextension
-vaultstore
 vba
 vbproj
 vbr
@@ -6420,6 +6404,7 @@ vvx
 vxrail
 w32time
 w3svc
+w3w
 waa
 waas
 wac
@@ -6440,7 +6425,6 @@ warning
 warplaneporn
 warranty
 warrenty
-wasabi
 watch
 watchguard
 watchmen
@@ -6502,6 +6486,7 @@ well-known
 wem
 wemsdk
 wer
+what3words
 whatismyip
 whd
 where
