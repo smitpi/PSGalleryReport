@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 04 August 2022 02:35:59 UTC
+Updated: Thursday, 04 August 2022 09:52:43 UTC
 
 ?:
 ??
@@ -306,7 +306,6 @@ apimanagement
 apis
 apm
 apmconfig
-apmcontrolplane
 apmsynthetics
 apmtraces
 aportal
@@ -492,6 +491,7 @@ avepoint
 avro
 avs
 avset
+await
 awesome
 awp
 awpagent
@@ -520,6 +520,7 @@ azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
+aznicdetails
 azops
 azpublicipaddress
 azresources
@@ -1785,7 +1786,6 @@ dsc
 dsc-resource
 dsc-resources
 dsccertificates
-dscconcepts
 dscdriftmonitor
 dsclient
 dscresource
@@ -1837,7 +1837,6 @@ dynmanageddns
 e-mail
 easy
 easy-to-use
-easylife365
 easyvista
 eaton
 ebay
@@ -2223,7 +2222,6 @@ flickr
 flowchart
 flowy
 fluidrelay
-flyway
 fmg
 focus
 fod
@@ -2443,6 +2441,10 @@ googlecloudplatform
 googledrive
 googlemap
 googlemaps
+gopher
+gopher+
+gopherplus
+gophers
 governance
 governancerulescontrolplane
 gp
@@ -2574,7 +2576,6 @@ helloposhgallery
 helloworld
 helmet
 help
-helpdesk
 helper
 helperfunctions
 helpers
@@ -2736,6 +2737,7 @@ iem
 ifconfig
 ifttt
 igel
+igr
 ihs
 iiittttt
 iis
@@ -2784,12 +2786,12 @@ import-sampackagedefinitionsms
 importexport
 importteams
 inactive
+inboxrule
 incident-response
 incidentresponse
 incontact
 indents
 index
-indexdb
 inedo
 inetfwrule
 influx
@@ -2963,7 +2965,6 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
-jitbit
 jms
 joat
 job
@@ -3715,6 +3716,7 @@ networkdrives
 networkfirewall
 networkfunction
 networking
+networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
@@ -4019,6 +4021,7 @@ outlook
 output
 output-to-image
 outsystems
+overbite
 ovf
 ovgd
 owasp
@@ -4245,6 +4248,7 @@ popd
 population
 popup
 port
+port70
 portal
 ports
 portscan
@@ -4531,6 +4535,7 @@ psgraph
 psgraylog
 pshot
 pshtml
+psincludes_cmdlet
 psini
 psinsight
 psintune
@@ -4909,6 +4914,7 @@ reword
 rewrite
 rexec
 rfc1305
+rfc1436
 rfc2030
 rfc3986
 rfc4007
@@ -5146,6 +5152,8 @@ secur32
 secure
 secureapplicationmodel
 securechannel
+securegopher
+securegopher+
 securemfa
 securerdp
 securescore
@@ -5336,7 +5344,6 @@ simplivity
 simplysql
 sin
 single
-singlestore
 singleton
 sinks
 sintez
@@ -5375,6 +5382,7 @@ slack
 sln
 sm
 sma
+small_web
 smart_home
 smartarray
 smartarraycmdlets
@@ -6379,7 +6387,6 @@ vrealize
 vrising
 vro
 vrops
-vrtu
 vs
 vs-shell
 vsa
@@ -6430,7 +6437,6 @@ warning
 warplaneporn
 warranty
 warrenty
-wasabi
 watch
 watchguard
 watchmen
@@ -6543,7 +6549,6 @@ windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
-windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
@@ -6580,6 +6585,7 @@ wingetbridge
 winrar
 winrm
 winrs
+winrt
 wins
 winsat
 winscp
