@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 03 August 2022 17:53:19 UTC
+Updated: Thursday, 04 August 2022 02:35:59 UTC
 
 ?:
 ??
@@ -303,6 +303,7 @@ apigateway
 apigee
 apigeeedge
 apimanagement
+apis
 apm
 apmconfig
 apmcontrolplane
@@ -491,7 +492,6 @@ avepoint
 avro
 avs
 avset
-await
 awesome
 awp
 awpagent
@@ -520,7 +520,6 @@ azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
-aznicdetails
 azops
 azpublicipaddress
 azresources
@@ -631,6 +630,7 @@ bash
 bastion
 bat
 batch
+batchclass
 batman
 bayern
 bb
@@ -1147,6 +1147,7 @@ completion
 complex
 compliance
 compliant
+component
 composer
 composite
 compress
@@ -1423,6 +1424,8 @@ data_protection
 data-archive
 data-backup
 data-tier
+data-uri
+data-uri-converter
 database
 database-migrations
 databaseautomation
@@ -1882,6 +1885,7 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
+embedded
 emc
 emergency
 emoji
@@ -1935,6 +1939,7 @@ envvars
 eol
 eop
 eperl
+ephesoft
 epicorerp
 episode
 epplus
@@ -1957,6 +1962,11 @@ escaping
 ese
 esent
 esoteric
+esp
+esp-idf
+esp32
+esp32s2
+espressif
 esri
 estimate
 esx
@@ -2122,15 +2132,23 @@ fieldglass
 fifa
 figlet
 file
+file-association
 file-encoding
+file-extension
+file-extension-association
 file-invalidchar
 file-matcher
 file-matching
 file-monitoring
+file-name
+file-name-extension
+file-name-extension-association
 file-server
 file-share
 file-system
 file-transform
+file-type
+file-type-association
 fileencryption
 filelist
 filelog
@@ -2425,10 +2443,6 @@ googlecloudplatform
 googledrive
 googlemap
 googlemaps
-gopher
-gopher+
-gopherplus
-gophers
 governance
 governancerulescontrolplane
 gp
@@ -2715,13 +2729,13 @@ identity-management
 identitydataplane
 identitydirector
 identitynow
+idf
 ids
 ie
 iem
 ifconfig
 ifttt
 igel
-igr
 ihs
 iiittttt
 iis
@@ -2736,6 +2750,7 @@ ilo5
 ilocmdlets
 im
 image
+image-converter
 image-creation
 image-generation
 image-process
@@ -2769,7 +2784,6 @@ import-sampackagedefinitionsms
 importexport
 importteams
 inactive
-inboxrule
 incident-response
 incidentresponse
 incontact
@@ -3578,8 +3592,10 @@ msgraphreport
 msgraphtokenlifetimepolicy
 msi
 msi psmodule
+msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -3614,7 +3630,6 @@ multiple
 multiserver
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -3700,7 +3715,6 @@ networkdrives
 networkfirewall
 networkfunction
 networking
-networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
@@ -4005,7 +4019,6 @@ outlook
 output
 output-to-image
 outsystems
-overbite
 ovf
 ovgd
 owasp
@@ -4232,7 +4245,6 @@ popd
 population
 popup
 port
-port70
 portal
 ports
 portscan
@@ -4261,7 +4273,6 @@ poshproject
 poshprtg
 poshrsjob
 poshtemplate
-poshwsus
 position
 postgre
 postgres
@@ -4405,6 +4416,7 @@ profiler
 profiles
 proget
 program
+program-association
 programs
 progress
 progressbar
@@ -4897,7 +4909,6 @@ reword
 rewrite
 rexec
 rfc1305
-rfc1436
 rfc2030
 rfc3986
 rfc4007
@@ -4946,7 +4957,6 @@ routeconfig
 router
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -5136,8 +5146,6 @@ secur32
 secure
 secureapplicationmodel
 securechannel
-securegopher
-securegopher+
 securemfa
 securerdp
 securescore
@@ -5367,7 +5375,6 @@ slack
 sln
 sm
 sma
-small_web
 smart_home
 smartarray
 smartarraycmdlets
@@ -5955,6 +5962,7 @@ train
 training
 training-course
 tram
+transact
 transaction
 transactions
 transcode
@@ -6572,7 +6580,6 @@ wingetbridge
 winrar
 winrm
 winrs
-winrt
 wins
 winsat
 winscp

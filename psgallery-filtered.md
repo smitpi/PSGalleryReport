@@ -5,6 +5,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.4.1) | 1.4.1
+
+### Published: 08/04/2022 01:00:41 by Richard M. Hicks
+
+PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
+
+__Downloads__: 266 | __Repository__: 
+
+## [ComicConverter](https://www.powershellgallery.com/Packages/ComicConverter/1.0.1) | 1.0.1
+
+### Published: 08/03/2022 23:19:19 by Adam Bacon
+
+Comic book conversion cmdlets. Allows you to convert a comic pdf to cbz. Allows converting from cbr to pdf, as well as converting an array of images to CBR comic. Finally this also allows you to extract images from cbr comics to a folder
+
+__Downloads__: 9 | __Repository__: https://github.com/psDevUK/ComicConverter
+
+## [JitBitPS](https://www.powershellgallery.com/Packages/JitBitPS/0.0.14) | 0.0.14
+
+### Published: 08/03/2022 21:57:47 by Jeremy Gruttner
+
+PowerShell module to query the JitBit helpdesk api
+
+__Downloads__: 27 | __Repository__: https://github.com/jgrutz/JitBitPS
+
+## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.38) | 1.1.38
+
+### Published: 08/03/2022 18:31:24 by nwood
+
+AKS HCI Module
+
+__Downloads__: 38,823 | __Repository__: 
+
+## [Moc](https://www.powershellgallery.com/Packages/Moc/1.0.30) | 1.0.30
+
+### Published: 08/03/2022 18:30:38 by nwood
+
+MOC Module
+
+__Downloads__: 59,905 | __Repository__: 
+
 ## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/0.5.0) | 0.5.0
 
 ### Published: 08/03/2022 17:33:51 by Jeff Hicks
@@ -43,7 +83,7 @@ __Downloads__: 668 | __Repository__:
 
 Powershell module SetUpBasic.Cmdlet. This module is under construction and just uploaded for testing purposes.
 
-__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
+__Downloads__: 1 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.9) | 1.5.9
 
@@ -60,14 +100,6 @@ __Downloads__: 509,161 | __Repository__:
 Database for KB Viewer and Saver
 
 __Downloads__: 523,290 | __Repository__: 
-
-## [JitBitPS](https://www.powershellgallery.com/Packages/JitBitPS/0.0.11) | 0.0.11
-
-### Published: 08/03/2022 13:23:06 by Jeremy Gruttner
-
-PowerShell module to query the JitBit helpdesk api
-
-__Downloads__: 27 | __Repository__: https://github.com/jgrutz/JitBitPS
 
 ## [ATAPAuditor](https://www.powershellgallery.com/Packages/ATAPAuditor/5.1) | 5.1
 
@@ -147,7 +179,7 @@ __Downloads__: 7,275 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 787,351 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 787,350 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [DDO-PSTemplates](https://www.powershellgallery.com/Packages/DDO-PSTemplates/0.0.1) | 0.0.1
 
@@ -186,7 +218,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 466,528 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 466,537 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/37.1.0) | 37.1.0
 
@@ -1155,7 +1187,7 @@ __Downloads__: 1,461 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,045,487 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,045,519 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [marli-Cleoni](https://www.powershellgallery.com/Packages/marli-Cleoni/0.144) | 0.144
 
@@ -1267,7 +1299,7 @@ __Downloads__: 29 | __Repository__:
 
 HP Client Management Script Library
 
-__Downloads__: 20,703,522 | __Repository__: 
+__Downloads__: 20,703,653 | __Repository__: 
 
 ## [PS-Populi](https://www.powershellgallery.com/Packages/PS-Populi/0.0.36) | 0.0.36
 
@@ -1283,7 +1315,7 @@ __Downloads__: 114 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,792,242 | __Repository__: https://dbatools.io/
+__Downloads__: 1,792,270 | __Repository__: https://dbatools.io/
 
 ## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.4) | 0.2.4
 
@@ -1459,7 +1491,7 @@ __Downloads__: 12 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 1,617,044 | __Repository__: https://0install.net/
+__Downloads__: 1,617,436 | __Repository__: https://0install.net/
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.20.0) | 2.20.0
 
@@ -1515,7 +1547,7 @@ __Downloads__: 186 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,911,191 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,911,092 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -1523,7 +1555,7 @@ __Downloads__: 5,911,191 | __Repository__: https://www.github.com/jantari/LSUCli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 745,670 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 745,706 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -1562,7 +1594,7 @@ __Downloads__: 5,889 | __Repository__: https://github.com/MScholtes/PSVirtualDes
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 579 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 578 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.7.4) | 0.7.4
 
@@ -1582,21 +1614,13 @@ A powerful PowerShell wrapper for git that lets you extend git, automate multipl
 
 __Downloads__: 185 | __Repository__: https://github.com/StartAutomating/ugit
 
-## [DownloadSdk](https://www.powershellgallery.com/Packages/DownloadSdk/1.0.14) | 1.0.14
-
-### Published: 07/29/2022 19:51:44 by nwood
-
-Download SDK Module
-
-__Downloads__: 59,373 | __Repository__: 
-
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/1.23.4) | 1.23.4
 
 ### Published: 07/29/2022 19:03:15 by JumpCloud Solutions Architect Team
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,334,235 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,334,224 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [AppVeyorBYOC](https://www.powershellgallery.com/Packages/AppVeyorBYOC/1.0.182) | 1.0.182
 
@@ -1699,14 +1723,6 @@ You can also use SignPath.io to sign your PowerShell scripts.
 
 __Downloads__: 57,658 | __Repository__: https://signpath.io/
 
-## [Send-FileViaEmail](https://www.powershellgallery.com/Packages/Send-FileViaEmail/2.0.0.0) | 2.0.0.0
-
-### Published: 07/29/2022 01:23:31 by Roy Ashbrook
-
-Sends a file via email. Pass in file path and mail config.
-
-__Downloads__: 181 | __Repository__: 
-
 ## [ReportHTMLCRB](https://www.powershellgallery.com/Packages/ReportHTMLCRB/1.8.1) | 1.8.1
 
 ### Published: 07/28/2022 21:39:56 by Matthew Quickenden
@@ -1723,7 +1739,7 @@ __Downloads__: 22 | __Repository__: https://github.com/azurefieldnotes/ReportHTM
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 8,892 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 8,887 | __Repository__: https://aka.ms/AzAPICall
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/1.1.0) | 1.1.0
 
@@ -1859,7 +1875,7 @@ __Downloads__: 3,624 | __Repository__: https://github.com/microsoft/Test-NetHLK
 
 Module for PowerShell Universal.
 
-__Downloads__: 26,415 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 26,414 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [DroneHelper](https://www.powershellgallery.com/Packages/DroneHelper/0.0.2) | 0.0.2
 
@@ -1931,7 +1947,7 @@ __Downloads__: 3,202 | __Repository__: https://whsbitbucket.webmd.net/projects/P
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 518,968 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 518,999 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [psPAS](https://www.powershellgallery.com/Packages/psPAS/5.3.69) | 5.3.69
 
@@ -1947,7 +1963,7 @@ __Downloads__: 39,555 | __Repository__: https://pspas.pspete.dev/
 
 Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
 
-__Downloads__: 52,075 | __Repository__: https://github.com/EvotecIT/GPOZaurr
+__Downloads__: 52,076 | __Repository__: https://github.com/EvotecIT/GPOZaurr
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.5) | 1.0.5
 
@@ -1996,14 +2012,6 @@ A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
 __Downloads__: 11,543 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
-## [Qumulo](https://www.powershellgallery.com/Packages/Qumulo/5.1.0) | 5.1.0
-
-### Published: 07/26/2022 13:36:18 by Berat Ulualan
-
-Qumulo Powershell Toolkit will help the Qumulo customers who uses Microsoft PowerShell for their daily operations.
-
-__Downloads__: 9 | __Repository__: 
-
 ## [Psx](https://www.powershellgallery.com/Packages/Psx/2.1.22207.25491) | 2.1.22207.25491
 
 ### Published: 07/26/2022 11:04:34 by François Chabot
@@ -2044,12 +2052,4 @@ a template for creating scripts in Extendscript for Adobe After Effects
 
 __Downloads__: 10 | __Repository__: https://blob.pureandapplied.com.au/
 
-## [EZOut](https://www.powershellgallery.com/Packages/EZOut/1.8.8) | 1.8.8
-
-### Published: 07/26/2022 04:54:19 by James Brundage
-
-Easily Author Rich Format Files to Customize PowerShell Output
-
-__Downloads__: 3,668 | __Repository__: https://github.com/StartAutomating/EZOut
-
-*Updated: Wednesday, 03 August 2022 17:53:06 UTC*
+*Updated: Thursday, 04 August 2022 02:35:47 UTC*
