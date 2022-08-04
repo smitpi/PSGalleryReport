@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 04 August 2022 09:52:43 UTC
+Updated: Thursday, 04 August 2022 17:54:41 UTC
 
 ?:
 ??
@@ -265,7 +265,6 @@ amxmodx
 anaconda
 analysis
 analysisservices
-analyst
 analyth
 analytics
 analyze
@@ -306,6 +305,7 @@ apimanagement
 apis
 apm
 apmconfig
+apmcontrolplane
 apmsynthetics
 apmtraces
 aportal
@@ -385,7 +385,6 @@ aruba
 as
 asa
 asa.unittest
-asana
 asbuiltreport
 asc
 ascii
@@ -715,7 +714,6 @@ bls
 bluedolhin
 blueprint
 blueprints
-blueteam
 bluetraitio
 bmc
 bnm
@@ -1392,7 +1390,6 @@ cwi
 cx
 cyberark
 cyberdrain
-cybereason
 cybersecurity
 cyberwatch
 cyclic
@@ -1400,7 +1397,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365f&o
@@ -1555,7 +1551,6 @@ der
 description
 deserialize
 desired
-desiredstate
 desiredstateconfiguration
 desk
 desktop
@@ -1682,19 +1677,16 @@ dmx
 dnd
 dns
 dns-01
-dns-administration
 dns-async
 dns-client
 dns-over-https
 dns-resolver
 dnsbl
 dnsdumpster
-dnsentry
 dnsimple
 dnsmadeeasy
 dnsrecord
 dnsresolver
-dnsserver
 dnssuffix
 dnvm
 doc
@@ -1786,6 +1778,7 @@ dsc
 dsc-resource
 dsc-resources
 dsccertificates
+dscconcepts
 dscdriftmonitor
 dsclient
 dscresource
@@ -1837,7 +1830,7 @@ dynmanageddns
 e-mail
 easy
 easy-to-use
-easyvista
+easylife365
 eaton
 ebay
 ebooks
@@ -2222,6 +2215,7 @@ flickr
 flowchart
 flowy
 fluidrelay
+flyway
 fmg
 focus
 fod
@@ -2446,7 +2440,6 @@ gopher+
 gopherplus
 gophers
 governance
-governancerulescontrolplane
 gp
 gpedit
 gpg
@@ -2576,6 +2569,7 @@ helloposhgallery
 helloworld
 helmet
 help
+helpdesk
 helper
 helperfunctions
 helpers
@@ -2792,6 +2786,7 @@ incidentresponse
 incontact
 indents
 index
+indexdb
 inedo
 inetfwrule
 influx
@@ -2965,6 +2960,7 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
+jitbit
 jms
 joat
 job
@@ -3052,8 +3048,6 @@ krbtgt
 krick
 kubclt
 kubectl
-kubectx
-kubens
 kubernetes
 kubernetesconfiguration
 kubespray
@@ -3097,7 +3091,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3596,7 +3589,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -3631,6 +3623,7 @@ multiple
 multiserver
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -3745,7 +3738,6 @@ nexentastor
 nexthink
 nexus
 ngen
-ngfw
 nhl
 nic
 nic.ru
@@ -4186,7 +4178,6 @@ pipeline
 pipelines
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4277,6 +4268,7 @@ poshproject
 poshprtg
 poshrsjob
 poshtemplate
+poshwsus
 position
 postgre
 postgres
@@ -4904,7 +4896,6 @@ restore
 resume
 retention
 retry
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -4963,6 +4954,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -5089,7 +5081,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5179,15 +5170,12 @@ seekatar
 seeshell
 select
 select-item
-select-kubecontext
-select-kubenamespace
 select-string
 selection
 selectxmlinfo
 selenium
 self
 self-hosted
-self-service
 self-signed
 selfdispatch
 selfsigned
@@ -5344,6 +5332,7 @@ simplivity
 simplysql
 sin
 single
+singlestore
 singleton
 sinks
 sintez
@@ -5425,7 +5414,6 @@ snssqlitepsmodule
 sntp
 snugglepup
 soap
-soc
 soccer
 social
 social-media
@@ -5567,7 +5555,6 @@ ssllabs-scan
 sslprotocol
 ssm
 sso
-sspr
 ssrs
 ssst
 sstp
@@ -5982,8 +5969,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -6387,6 +6372,7 @@ vrealize
 vrising
 vro
 vrops
+vrtu
 vs
 vs-shell
 vsa
@@ -6437,6 +6423,7 @@ warning
 warplaneporn
 warranty
 warrenty
+wasabi
 watch
 watchguard
 watchmen
@@ -6467,7 +6454,6 @@ webhelpdesk
 webhistory
 webhook
 webinspect
-webjea
 webmanagement
 webmanagementservice
 webpage
@@ -6549,6 +6535,7 @@ windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
+windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
