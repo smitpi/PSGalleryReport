@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 05 August 2022 02:39:46 UTC
+Updated: Friday, 05 August 2022 09:52:50 UTC
 
 ?:
 ??
@@ -54,7 +54,6 @@ Updated: Friday, 05 August 2022 02:39:46 UTC
 8.1
 8ball
 9
-aa
 aac
 aad
 aad-graph
@@ -1598,7 +1597,6 @@ dfs
 dfw
 dg
 dhcp
-di
 diagnostic
 diagnostics
 diagram
@@ -2423,7 +2421,6 @@ gitops
 glob
 globalclipboard
 globaldashboard
-globalentry
 globbing
 glpi
 gmail
@@ -2624,7 +2621,6 @@ hol
 holiday
 home_automation
 homebrew
-homelandsecurity
 homeschooling
 hon
 horizontal
@@ -4158,7 +4154,6 @@ permutations
 persistent
 personal
 personalisation
-personalization
 personalvault
 pester
 pf
@@ -5201,7 +5196,6 @@ selectxmlinfo
 selenium
 self
 self-hosted
-self-service
 self-signed
 selfdispatch
 selfsigned
@@ -5582,7 +5576,6 @@ ssllabs-scan
 sslprotocol
 ssm
 sso
-sspr
 ssrs
 ssst
 sstp
@@ -6030,7 +6023,6 @@ trustedrootcertificate
 trustprotectionplatform
 trx
 ts
-tsa
 tsd
 tsheets
 tsqlbestpractice
