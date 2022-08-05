@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 05 August 2022 09:52:50 UTC
+Updated: Friday, 05 August 2022 17:54:04 UTC
 
 ?:
 ??
@@ -54,6 +54,7 @@ Updated: Friday, 05 August 2022 09:52:50 UTC
 8.1
 8ball
 9
+aa
 aac
 aad
 aad-graph
@@ -237,7 +238,6 @@ algorithm
 algorithms
 alias
 aliases
-aliens
 all
 alletra
 alm
@@ -510,7 +510,6 @@ az
 az-cli
 az.automation
 aza
-azautomation
 azcli
 azcompute
 azd
@@ -518,7 +517,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -1263,7 +1261,6 @@ core
 coreposh
 corona
 corporate
-cortex
 cos
 cosmos
 cosmosdb
@@ -1597,6 +1594,7 @@ dfs
 dfw
 dg
 dhcp
+di
 diagnostic
 diagnostics
 diagram
@@ -2421,6 +2419,7 @@ gitops
 glob
 globalclipboard
 globaldashboard
+globalentry
 globbing
 glpi
 gmail
@@ -2621,6 +2620,7 @@ hol
 holiday
 home_automation
 homebrew
+homelandsecurity
 homeschooling
 hon
 horizontal
@@ -3332,7 +3332,6 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
-managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3709,7 +3708,6 @@ netfirewallrule
 netherlands
 netmask
 nets
-netsapiens
 netscaler
 netscape
 netsec
@@ -3737,7 +3735,6 @@ new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
-new-githubrelease
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -3802,7 +3799,6 @@ npslog
 npslogfile
 nrc
 nrql
-ns
 ns.nl
 nsg
 nslookup
@@ -4027,7 +4023,6 @@ outertext
 outline
 outlook
 output
-output-to-image
 outsystems
 overbite
 ovf
@@ -4154,6 +4149,7 @@ permutations
 persistent
 personal
 personalisation
+personalization
 personalvault
 pester
 pf
@@ -4754,7 +4750,6 @@ react-stockcharts
 read-slog
 readable
 readiness
-readme
 readpdf
 readthedocs
 realschule
@@ -4885,7 +4880,6 @@ reservations
 reset
 resharper
 resize
-resolution
 resolve
 resolve-stache
 resolve-template
@@ -5196,6 +5190,7 @@ selectxmlinfo
 selenium
 self
 self-hosted
+self-service
 self-signed
 selfdispatch
 selfsigned
@@ -5576,6 +5571,7 @@ ssllabs-scan
 sslprotocol
 ssm
 sso
+sspr
 ssrs
 ssst
 sstp
@@ -5879,7 +5875,6 @@ testtag2
 testtool
 testusers
 text
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -6023,6 +6018,7 @@ trustedrootcertificate
 trustprotectionplatform
 trx
 ts
+tsa
 tsd
 tsheets
 tsqlbestpractice
@@ -6047,7 +6043,6 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
-twitter-tweet
 txt
 type
 typeaccelerators
@@ -6065,7 +6060,6 @@ ubuntu
 ucs
 ucspowertool
 ud-avataaar
-ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
@@ -6711,7 +6705,6 @@ xaf
 xbase
 xbox
 xclarity
-xdr
 xdschelper
 xdscresources
 xdt
