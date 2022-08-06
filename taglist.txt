@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 05 August 2022 17:54:04 UTC
+Updated: Saturday, 06 August 2022 02:33:12 UTC
 
 ?:
 ??
@@ -230,7 +230,6 @@ alero
 alert
 alerting
 alertmail
-alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -238,6 +237,7 @@ algorithm
 algorithms
 alias
 aliases
+aliens
 all
 alletra
 alm
@@ -1261,6 +1261,7 @@ core
 coreposh
 corona
 corporate
+cortex
 cos
 cosmos
 cosmosdb
@@ -1718,8 +1719,6 @@ docusign
 docx
 dod
 dog
-dog-names
-dogs
 dogstatsd
 doh
 dok
@@ -2218,7 +2217,6 @@ flatfile
 flatten
 flex
 flex-query
-flexdesk
 flickr
 flowchart
 flowy
@@ -2728,7 +2726,6 @@ icws
 id
 id3
 ide
-identifier
 identity
 identity-management
 identitydataplane
@@ -2827,7 +2824,6 @@ insight
 insightanalytics
 insights
 inspect
-inspur
 instagram
 install
 install-module
@@ -2841,7 +2837,6 @@ installwindows
 instance
 instant
 instapush
-instorage
 intacct
 integrated
 integratedscriptingeditor
@@ -3440,6 +3435,7 @@ merge
 mermaid
 message
 messagebox
+messageoftheday
 messages
 messaging
 messenger
@@ -3664,7 +3660,6 @@ n-central
 nac
 nagios
 name
-name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -3708,6 +3703,7 @@ netfirewallrule
 netherlands
 netmask
 nets
+netsapiens
 netscaler
 netscape
 netsec
@@ -3799,6 +3795,7 @@ npslog
 npslogfile
 nrc
 nrql
+ns
 ns.nl
 nsg
 nslookup
@@ -3899,7 +3896,6 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
-ondemand
 one
 onedrive
 onedriveforbusiness
@@ -4023,6 +4019,7 @@ outertext
 outline
 outlook
 output
+output-to-image
 outsystems
 overbite
 ovf
@@ -4059,7 +4056,6 @@ pagerduty
 pages
 paloaltonetworks
 pam
-panels
 pansies
 panther
 panzerbjrn
@@ -4750,6 +4746,7 @@ react-stockcharts
 read-slog
 readable
 readiness
+readme
 readpdf
 readthedocs
 realschule
@@ -4817,6 +4814,7 @@ relay
 release
 releasedefinition
 releasemanagement
+releasenotes
 relevance
 relic
 remediation
@@ -5283,7 +5281,6 @@ sevenzip
 sf
 sfb
 sftp
-sfx
 sgw
 sha256
 shadow
@@ -5875,6 +5872,7 @@ testtag2
 testtool
 testusers
 text
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -6043,6 +6041,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -6060,6 +6059,7 @@ ubuntu
 ucs
 ucspowertool
 ud-avataaar
+ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
@@ -6235,7 +6235,6 @@ utm
 uudecode
 uuencode
 uuid
-uw
 uwp
 ux
 vaas
@@ -6439,7 +6438,6 @@ warning
 warplaneporn
 warranty
 warrenty
-wasabi
 watch
 watchguard
 watchmen
@@ -6503,6 +6501,7 @@ wemsdk
 wer
 what3words
 whatismyip
+whatsnew
 whd
 where
 whfb
@@ -6599,11 +6598,6 @@ winui
 wireless
 wirelessnetwork
 wireshark
-wisc
-wiscmail
-wisco365
-wisconsin-madison
-wisconsin'uw-madison
 wisdom
 with
 wkhtmltopdf
@@ -6705,6 +6699,7 @@ xaf
 xbase
 xbox
 xclarity
+xdr
 xdschelper
 xdscresources
 xdt

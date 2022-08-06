@@ -5,9 +5,25 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.77) | 1.0.77
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.8) | 3.0.8
 
-### Published: 08/05/2022 16:51:32 by Jeremy La Camera
+### Published: 08/05/2022 23:14:50 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 212 | __Repository__: 
+
+## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.11) | 1.5.11
+
+### Published: 08/05/2022 18:29:47 by Chrissy LeMaire
+
+KB Viewer, Saver, Installer and Uninstaller
+
+__Downloads__: 517,227 | __Repository__: 
+
+## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.78) | 1.0.78
+
+### Published: 08/05/2022 18:03:29 by Jeremy La Camera
 
 Module for multithreading PowerShell commands using .Net Runspaces
 
@@ -19,7 +35,7 @@ __Downloads__: 27 | __Repository__:
 
 Allows you to always have an updated copy of a file from a webserver using the Last-Modified header
 
-__Downloads__: 4 | __Repository__: 
+__Downloads__: 5 | __Repository__: 
 
 ## [Qumulo](https://www.powershellgallery.com/Packages/Qumulo/5.2.0) | 5.2.0
 
@@ -37,14 +53,6 @@ Harness for generating fake sensitive information to test Microsoft Purview data
 
 __Downloads__: 163 | __Repository__: 
 
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.4) | 3.0.4
-
-### Published: 08/05/2022 15:02:05 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 212 | __Repository__: 
-
 ## [PSReadExif](https://www.powershellgallery.com/Packages/PSReadExif/1.0.2) | 1.0.2
 
 ### Published: 08/05/2022 14:56:21 by nmbell
@@ -59,7 +67,7 @@ __Downloads__: 39 | __Repository__: https://github.com/nmbell/PSReadExif#readme
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 62,847 | __Repository__: 
+__Downloads__: 62,846 | __Repository__: 
 
 ## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.1.2) | 1.0.1.2
 
@@ -422,14 +430,6 @@ PowerShell Dependency Handler
 
 __Downloads__: 354 | __Repository__: https://github.com/matt2005/PSDepend/
 
-## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.10) | 1.5.10
-
-### Published: 08/04/2022 08:08:45 by Chrissy LeMaire
-
-KB Viewer, Saver, Installer and Uninstaller
-
-__Downloads__: 517,228 | __Repository__: 
-
 ## [CloudAssert.Billing](https://www.powershellgallery.com/Packages/CloudAssert.Billing/2022.8.4.0) | 2022.8.4.0
 
 ### Published: 08/04/2022 07:39:51 by CLOUD ASSERT LLC
@@ -460,7 +460,7 @@ __Downloads__: 3 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,799,377 | __Repository__: https://dbatools.io/
+__Downloads__: 1,799,394 | __Repository__: https://dbatools.io/
 
 ## [AddLexemeModule](https://www.powershellgallery.com/Packages/AddLexemeModule/1.0) | 1.0
 
@@ -492,7 +492,7 @@ __Downloads__: 22 | __Repository__: https://github.com/Commvault/CVPowershellSDK
 
 PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
 
-__Downloads__: 285 | __Repository__: 
+__Downloads__: 286 | __Repository__: 
 
 ## [ComicConverter](https://www.powershellgallery.com/Packages/ComicConverter/1.0.1) | 1.0.1
 
@@ -524,7 +524,7 @@ __Downloads__: 39,028 | __Repository__:
 
 MOC Module
 
-__Downloads__: 60,321 | __Repository__: 
+__Downloads__: 60,325 | __Repository__: 
 
 ## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/0.5.0) | 0.5.0
 
@@ -564,7 +564,7 @@ __Downloads__: 4 | __Repository__: https://www.powershellgallery.com/packages/Se
 
 Database for KB Viewer and Saver
 
-__Downloads__: 531,458 | __Repository__: 
+__Downloads__: 531,456 | __Repository__: 
 
 ## [ATAPAuditor](https://www.powershellgallery.com/Packages/ATAPAuditor/5.1) | 5.1
 
@@ -644,7 +644,7 @@ __Downloads__: 7,283 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 788,086 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 788,083 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [DDO-PSTemplates](https://www.powershellgallery.com/Packages/DDO-PSTemplates/0.0.1) | 0.0.1
 
@@ -1652,7 +1652,7 @@ __Downloads__: 1,484 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,055,145 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,055,183 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [UtilityModule](https://www.powershellgallery.com/Packages/UtilityModule/1.0) | 1.0
 
@@ -1692,7 +1692,7 @@ __Downloads__: 7 | __Repository__:
 
 The test module to verify publishing to PSGallery from AppVeyor.
 
-__Downloads__: 16,056 | __Repository__: 
+__Downloads__: 16,156 | __Repository__: 
 
 ## [mySQLite](https://www.powershellgallery.com/Packages/mySQLite/0.9.2) | 0.9.2
 
@@ -1710,14 +1710,6 @@ This module contains powershell wrappers to leverage the Duo Admin API functions
 
 __Downloads__: 4 | __Repository__: 
 
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.19) | 2.0.19
-
-### Published: 08/01/2022 17:46:48 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 53 | __Repository__: 
-
 ## [ccicodefetcherDEV](https://www.powershellgallery.com/Packages/ccicodefetcherDEV/0.3.62) | 0.3.62
 
 ### Published: 08/01/2022 17:21:07 by clemenscomer
@@ -1732,7 +1724,7 @@ __Downloads__: 41 | __Repository__:
 
 HP Client Management Script Library
 
-__Downloads__: 20,748,378 | __Repository__: 
+__Downloads__: 20,748,237 | __Repository__: 
 
 ## [AutoMatePS](https://www.powershellgallery.com/Packages/AutoMatePS/5.1.1) | 5.1.1
 
@@ -1900,7 +1892,7 @@ __Downloads__: 24 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 1,678,982 | __Repository__: https://0install.net/
+__Downloads__: 1,678,688 | __Repository__: https://0install.net/
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.20.0) | 2.20.0
 
@@ -1948,7 +1940,7 @@ __Downloads__: 206 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,966,319 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,965,963 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -1956,7 +1948,7 @@ __Downloads__: 5,966,319 | __Repository__: https://www.github.com/jantari/LSUCli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 749,463 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 749,449 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -1965,14 +1957,6 @@ __Downloads__: 749,463 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 Some description here and there
 
 __Downloads__: 130 | __Repository__: https://github.com/BusHero/pester.extenssions
-
-## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.0.0) | 1.0.0
-
-### Published: 07/30/2022 10:03:25 by Theodor K
-
-Gitlab API v4 helper functions
-
-__Downloads__: 248 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 ## [VirtualDesktop](https://www.powershellgallery.com/Packages/VirtualDesktop/1.5.1) | 1.5.1
 
@@ -2013,7 +1997,7 @@ __Downloads__: 189 | __Repository__: https://github.com/StartAutomating/ugit
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,337,656 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,337,613 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [AppVeyorBYOC](https://www.powershellgallery.com/Packages/AppVeyorBYOC/1.0.182) | 1.0.182
 
@@ -2079,4 +2063,25 @@ Testimo is Powershell module that tests Active Directory against specific set of
 
 __Downloads__: 50,441 | __Repository__: https://github.com/EvotecIT/Testimo
 
-*Updated: Friday, 05 August 2022 17:53:54 UTC*
+## [ADSecurityReporter](https://www.powershellgallery.com/Packages/ADSecurityReporter/1.2) | 1.2
+
+### Published: 07/29/2022 08:06:43 by Faris Malaeb
+
+Get ACL for Active Directory RootDomain and OU, and also convert Permission GUID to Name
+
+__Downloads__: 1,081 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/ADSecurityReporter
+
+## [SignPath](https://www.powershellgallery.com/Packages/SignPath/4.1.1) | 4.1.1
+
+### Published: 07/29/2022 06:54:48 by SignPath GmbH
+
+PowerShell module for code-signing with SignPath.io
+
+Supported methods: Authenticode, NuGet, ClickOnce manifest signing, OPC signing, JAR signing.
+Supported file formats: EXE, DLL, PowerShell, MSI, CAB, AppX, nupkg, Office add-ins, VSIX, Java Archives and more.
+
+You can also use SignPath.io to sign your PowerShell scripts.
+
+__Downloads__: 57,903 | __Repository__: https://signpath.io/
+
+*Updated: Saturday, 06 August 2022 02:33:01 UTC*
