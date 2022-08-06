@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 06 August 2022 02:33:12 UTC
+Updated: Saturday, 06 August 2022 09:52:51 UTC
 
 ?:
 ??
@@ -16,7 +16,6 @@ Updated: Saturday, 06 August 2022 02:33:12 UTC
 "interactive
 🍄
 🍣
-💩
 1.1.1.1
 10
 11
@@ -62,7 +61,6 @@ aadc
 aadconnect
 aadgraph
 aadrm
-aadsc
 aadsecurity
 aadsts
 aam
@@ -174,7 +172,6 @@ ado.net
 adobe
 adobeflash
 adoxio
-adp
 adr
 ads
 adsi
@@ -230,6 +227,7 @@ alero
 alert
 alerting
 alertmail
+alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -508,8 +506,8 @@ axinom
 axium
 az
 az-cli
-az.automation
 aza
+azautomation
 azcli
 azcompute
 azd
@@ -517,6 +515,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -575,7 +574,6 @@ azurenetworking
 azurepack
 azurepipelines
 azurepolicy
-azurepowershell
 azureresourcemanager
 azureresources
 azurerm
@@ -1349,7 +1347,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctx
@@ -1399,7 +1396,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365f&o
@@ -1719,6 +1715,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 doh
 dok
@@ -2217,6 +2215,7 @@ flatfile
 flatten
 flex
 flex-query
+flexdesk
 flickr
 flowchart
 flowy
@@ -2448,7 +2447,6 @@ gophers
 governance
 governancerulescontrolplane
 gp
-gpedit
 gpg
 gping
 gpio
@@ -2726,6 +2724,7 @@ icws
 id
 id3
 ide
+identifier
 identity
 identity-management
 identitydataplane
@@ -2824,6 +2823,7 @@ insight
 insightanalytics
 insights
 inspect
+inspur
 instagram
 install
 install-module
@@ -2837,6 +2837,7 @@ installwindows
 instance
 instant
 instapush
+instorage
 intacct
 integrated
 integratedscriptingeditor
@@ -2975,7 +2976,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 jpg
@@ -3098,7 +3098,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3135,7 +3134,6 @@ lenovo
 lesspass
 letsencrypt
 lf
-lgpo
 libgit2
 libraries
 library
@@ -3193,7 +3191,6 @@ loanddepot
 loandepot
 local
 local-caching
-local-policy
 localadmin
 localconfigurationmanager
 localdb
@@ -3327,6 +3324,7 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
+managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3387,7 +3385,6 @@ mazerat
 mb
 mbc
 mbs
-mc
 mcafee
 mcas
 mchapv2
@@ -3434,7 +3431,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messageoftheday
 messages
 messaging
@@ -3524,7 +3520,6 @@ mkdocs
 mlflow
 mmdc
 mobile
-mobilitycontroller
 mock
 mocking
 modify
@@ -3565,7 +3560,6 @@ mp3
 mp4
 mpc
 mpeg
-mpn
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -3660,6 +3654,7 @@ n-central
 nac
 nagios
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -3731,6 +3726,7 @@ new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
+new-githubrelease
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -3896,6 +3892,7 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
+ondemand
 one
 onedrive
 onedriveforbusiness
@@ -4056,6 +4053,7 @@ pagerduty
 pages
 paloaltonetworks
 pam
+panels
 pansies
 panther
 panzerbjrn
@@ -4145,7 +4143,6 @@ permutations
 persistent
 personal
 personalisation
-personalization
 personalvault
 pester
 pf
@@ -4239,7 +4236,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4339,7 +4335,6 @@ powershellget
 powershellgetformatversion_2.0
 powershelllogger
 powershellmodule
-powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -4522,7 +4517,6 @@ pses
 psexcel
 psexec
 psexec.exe
-psexpandline
 psfciv
 psfitbit
 psfive9
@@ -4878,6 +4872,7 @@ reservations
 reset
 resharper
 resize
+resolution
 resolve
 resolve-stache
 resolve-template
@@ -4979,7 +4974,6 @@ rsa
 rsat
 rshell
 rsjob
-rsop
 rss
 rt
 rtu
@@ -5161,7 +5155,6 @@ securescore
 securesphere
 securestring
 security
-security-policy
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -5281,6 +5274,7 @@ sevenzip
 sf
 sfb
 sftp
+sfx
 sgw
 sha256
 shadow
@@ -5304,7 +5298,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -5983,8 +5976,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -6109,7 +6100,6 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -6438,6 +6428,7 @@ warning
 warplaneporn
 warranty
 warrenty
+wasabi
 watch
 watchguard
 watchmen
@@ -6581,7 +6572,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -6752,7 +6742,6 @@ yubaba
 z
 zabbix
 zabbixps
-zap
 zcat
 zendesk
 zerto
