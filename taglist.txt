@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 06 August 2022 09:52:51 UTC
+Updated: Saturday, 06 August 2022 17:52:52 UTC
 
 ?:
 ??
@@ -16,6 +16,7 @@ Updated: Saturday, 06 August 2022 09:52:51 UTC
 "interactive
 🍄
 🍣
+💩
 1.1.1.1
 10
 11
@@ -150,7 +151,6 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
-adgroups
 adif
 adm
 admf
@@ -172,11 +172,11 @@ ado.net
 adobe
 adobeflash
 adoxio
+adp
 adr
 ads
 adsi
 adsync
-aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -574,6 +574,7 @@ azurenetworking
 azurepack
 azurepipelines
 azurepolicy
+azurepowershell
 azureresourcemanager
 azureresources
 azurerm
@@ -1258,7 +1259,6 @@ copy-item
 core
 coreposh
 corona
-corporate
 cortex
 cos
 cosmos
@@ -1347,6 +1347,7 @@ css
 csv
 csv2adx
 csvhelper
+ctf
 ctglobal
 ctl
 ctx
@@ -1396,6 +1397,7 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
+cyrillic
 d365
 d365ce
 d365f&o
@@ -1686,7 +1688,6 @@ dnsbl
 dnsdumpster
 dnsentry
 dnsimple
-dnsmadeeasy
 dnsrecord
 dnsresolver
 dnsserver
@@ -1750,8 +1751,6 @@ draw
 drawio
 dreamweaver
 dreary
-drift
-driftmonitor
 drive
 drive letter
 driver
@@ -1782,7 +1781,6 @@ dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
-dscdriftmonitor
 dsclient
 dscresource
 dscresourcekit
@@ -2007,7 +2005,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evidencelock
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2447,6 +2444,7 @@ gophers
 governance
 governancerulescontrolplane
 gp
+gpedit
 gpg
 gping
 gpio
@@ -2976,6 +2974,7 @@ johnshopkins
 join
 join-object
 jojoba
+joke
 jotform
 journal
 jpg
@@ -3098,6 +3097,7 @@ lastlogon
 lastpass
 latency
 latestupdate
+latin
 latitude
 launcher
 layer
@@ -3134,6 +3134,7 @@ lenovo
 lesspass
 letsencrypt
 lf
+lgpo
 libgit2
 libraries
 library
@@ -3191,6 +3192,7 @@ loanddepot
 loandepot
 local
 local-caching
+local-policy
 localadmin
 localconfigurationmanager
 localdb
@@ -3385,6 +3387,7 @@ mazerat
 mb
 mbc
 mbs
+mc
 mcafee
 mcas
 mchapv2
@@ -3431,6 +3434,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -3520,6 +3524,7 @@ mkdocs
 mlflow
 mmdc
 mobile
+mobilitycontroller
 mock
 mocking
 modify
@@ -3560,6 +3565,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4143,6 +4149,7 @@ permutations
 persistent
 personal
 personalisation
+personalization
 personalvault
 pester
 pf
@@ -4236,6 +4243,7 @@ polycom
 pomodoro
 ponduit
 pool
+poop
 pop
 pop-location
 pop3
@@ -4335,6 +4343,7 @@ powershellget
 powershellgetformatversion_2.0
 powershelllogger
 powershellmodule
+powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -4517,6 +4526,7 @@ pses
 psexcel
 psexec
 psexec.exe
+psexpandline
 psfciv
 psfitbit
 psfive9
@@ -4974,6 +4984,7 @@ rsa
 rsat
 rshell
 rsjob
+rsop
 rss
 rt
 rtu
@@ -5155,6 +5166,7 @@ securescore
 securesphere
 securestring
 security
+security-policy
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -5298,6 +5310,7 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
+shell-art
 shells
 shieldedvm
 ships
@@ -5976,6 +5989,8 @@ transforms
 transitionmanager
 translate
 translation
+translit
+transliteration
 transmission
 transparency
 transpilation
@@ -6100,6 +6115,7 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -6225,6 +6241,7 @@ utm
 uudecode
 uuencode
 uuid
+uw
 uwp
 ux
 vaas
@@ -6341,7 +6358,6 @@ vmhostnetworkadapater
 vmmanagement
 vmnic
 vmrole
-vms
 vmtovmhostrule
 vmtovmrule
 vmware
@@ -6572,6 +6588,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -6588,6 +6605,11 @@ winui
 wireless
 wirelessnetwork
 wireshark
+wisc
+wiscmail
+wisco365
+wisconsin-madison
+wisconsin'uw-madison
 wisdom
 with
 wkhtmltopdf
@@ -6742,6 +6764,7 @@ yubaba
 z
 zabbix
 zabbixps
+zap
 zcat
 zendesk
 zerto

@@ -5,13 +5,69 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.12) | 3.0.12
+
+### Published: 08/06/2022 17:49:04 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 212 | __Repository__: 
+
+## [FailGuru](https://www.powershellgallery.com/Packages/FailGuru/1.0.0.1) | 1.0.0.1
+
+### Published: 08/06/2022 16:00:41 by Anders Laub
+
+Brings a Guru Meditation style screen-of-death to a terminal near you. Ideal for unrecoverable errors in terminal scripts.
+
+__Downloads__: 5 | __Repository__: https://github.com/FailGuru/powershell
+
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.3.3) | 1.3.3
+
+### Published: 08/06/2022 15:21:49 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 65 | __Repository__: https://github.com/cpp-swift/PowerRvB
+
+## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/0.6.0) | 0.6.0
+
+### Published: 08/06/2022 14:24:34 by Jeff Hicks
+
+A PowerShell 7 module for managing work and personal tasks or to-do items. This module uses a SQLite database to store task and category information. The module is not a full-featured project management solution, but should be find for personal needs. The module requires a 64-bit Windows platform.
+
+__Downloads__: 19 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.122) | 1.1.122
+
+### Published: 08/06/2022 13:20:51 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,799,377 | __Repository__: https://dbatools.io/
+
+## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
+
+### Published: 08/06/2022 11:57:28 by Chrissy LeMaire
+
+KB Viewer, Saver, Installer and Uninstaller
+
+__Downloads__: 517,227 | __Repository__: 
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.147) | 0.0.147
+
+### Published: 08/06/2022 11:06:42 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 118,097 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.233) | 0.0.233
 
 ### Published: 08/06/2022 09:42:10 by Przemyslaw Klys
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 141,230 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 141,228 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.22) | 0.0.0.22
 
@@ -37,14 +93,6 @@ Work with the contents of NTFS volumes
 
 __Downloads__: 53 | __Repository__: 
 
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.11) | 3.0.11
-
-### Published: 08/06/2022 06:34:49 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 212 | __Repository__: 
-
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.18) | 0.0.18
 
 ### Published: 08/06/2022 06:33:02 by Jeremy La Camera
@@ -52,14 +100,6 @@ __Downloads__: 212 | __Repository__:
 Module for working with Access Control Lists
 
 __Downloads__: 24 | __Repository__: 
-
-## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.11) | 1.5.11
-
-### Published: 08/05/2022 18:29:47 by Chrissy LeMaire
-
-KB Viewer, Saver, Installer and Uninstaller
-
-__Downloads__: 517,228 | __Repository__: 
 
 ## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.78) | 1.0.78
 
@@ -75,7 +115,7 @@ __Downloads__: 27 | __Repository__:
 
 Allows you to always have an updated copy of a file from a webserver using the Last-Modified header
 
-__Downloads__: 4 | __Repository__: 
+__Downloads__: 5 | __Repository__: 
 
 ## [Qumulo](https://www.powershellgallery.com/Packages/Qumulo/5.2.0) | 5.2.0
 
@@ -131,7 +171,7 @@ __Downloads__: 27 | __Repository__:
 
 PowerShell Module for creating iCalendar (ics) files
 
-__Downloads__: 621 | __Repository__: 
+__Downloads__: 622 | __Repository__: 
 
 ## [UncommonSense.BcTechDays](https://www.powershellgallery.com/Packages/UncommonSense.BcTechDays/0.0.1) | 0.0.1
 
@@ -204,6 +244,14 @@ CI Tools
 
 __Downloads__: 1,020 | __Repository__: https://github.com/archmachina/ps-citools
 
+## [Az.DesktopVirtualization.Utility](https://www.powershellgallery.com/Packages/Az.DesktopVirtualization.Utility/0.0.0.4) | 0.0.0.4
+
+### Published: 08/05/2022 03:29:48 by Ryen Kia Zhi Tang
+
+An Azure Virtual Desktop Utility PowerShell module for administrators
+
+__Downloads__: 21 | __Repository__: https://github.com/kiazhi/Az.DesktopVirtualization.Utility/
+
 ## [PSStoredCredentials](https://www.powershellgallery.com/Packages/PSStoredCredentials/0.4) | 0.4
 
 ### Published: 08/05/2022 02:31:13 by Matthew McKinnon
@@ -227,14 +275,6 @@ __Downloads__: 147 | __Repository__: https://github.com/BaTarrY/FoxHelper
 PowerCLI VMware Cloud Disaster Recovery module
 
 __Downloads__: 106 | __Repository__: https://github.com/vmware/vmware-powercli-for-vmware-cloud-disaster-recovery
-
-## [FailGuru](https://www.powershellgallery.com/Packages/FailGuru/1.0.0.0) | 1.0.0.0
-
-### Published: 08/04/2022 22:21:07 by Anders Laub
-
-Brings a Guru Meditation style screen-of-death to a terminal near you. Ideal for unrecoverable errors in terminal scripts.
-
-__Downloads__: 5 | __Repository__: https://github.com/FailGuru/powershell
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.16.2) | 2.16.2
 
@@ -486,14 +526,6 @@ Test module , update noun family in production
 
 __Downloads__: 3 | __Repository__: 
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.121) | 1.1.121
-
-### Published: 08/04/2022 05:19:15 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,799,437 | __Repository__: https://dbatools.io/
-
 ## [AddLexemeModule](https://www.powershellgallery.com/Packages/AddLexemeModule/1.0) | 1.0
 
 ### Published: 08/04/2022 05:02:40 by CR
@@ -558,14 +590,6 @@ MOC Module
 
 __Downloads__: 60,325 | __Repository__: 
 
-## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/0.5.0) | 0.5.0
-
-### Published: 08/03/2022 17:33:51 by Jeff Hicks
-
-A PowerShell 7 module for managing work and personal tasks or to-do items. This module uses a SQLite database to store task and category information. The module is not a full-featured project management solution, but should be find for personal needs. The module requires a 64-bit Windows platform.
-
-__Downloads__: 19 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
-
 ## [SecretManagement.Keeper](https://www.powershellgallery.com/Packages/SecretManagement.Keeper/16.3.3) | 16.3.3
 
 ### Published: 08/03/2022 16:42:19 by Sergey Aldoukhov
@@ -596,7 +620,7 @@ __Downloads__: 4 | __Repository__: https://www.powershellgallery.com/packages/Se
 
 Database for KB Viewer and Saver
 
-__Downloads__: 531,458 | __Repository__: 
+__Downloads__: 531,456 | __Repository__: 
 
 ## [ATAPAuditor](https://www.powershellgallery.com/Packages/ATAPAuditor/5.1) | 5.1
 
@@ -676,7 +700,7 @@ __Downloads__: 7,283 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 788,093 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 788,086 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [DDO-PSTemplates](https://www.powershellgallery.com/Packages/DDO-PSTemplates/0.0.1) | 0.0.1
 
@@ -685,14 +709,6 @@ __Downloads__: 788,093 | __Repository__: https://github.com/jyonke/cChocoEx
 A PowerShell module designed for templitization
 
 __Downloads__: 5 | __Repository__: 
-
-## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/1.2.1) | 1.2.1
-
-### Published: 08/02/2022 21:12:25 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 65 | __Repository__: https://github.com/cpp-swift/PowerRvB
 
 ## [Bicep](https://www.powershellgallery.com/Packages/Bicep/2.3.1) | 2.3.1
 
@@ -715,7 +731,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 471,602 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 471,593 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/37.1.0) | 37.1.0
 
@@ -1077,6 +1093,14 @@ __Downloads__: 3,632 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Monitoring Service
 
 __Downloads__: 1,542 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Mediaservices](https://www.powershellgallery.com/Packages/OCI.PSModules.Mediaservices/37.1.0) | 37.1.0
+
+### Published: 08/02/2022 19:55:42 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Mediaservices Service
+
+__Downloads__: 53 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Marketplace](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplace/37.1.0) | 37.1.0
 
@@ -1676,7 +1700,7 @@ __Downloads__: 1,484 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,055,247 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,055,145 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [UtilityModule](https://www.powershellgallery.com/Packages/UtilityModule/1.0) | 1.0
 
@@ -1716,7 +1740,7 @@ __Downloads__: 7 | __Repository__:
 
 The test module to verify publishing to PSGallery from AppVeyor.
 
-__Downloads__: 16,056 | __Repository__: 
+__Downloads__: 16,156 | __Repository__: 
 
 ## [mySQLite](https://www.powershellgallery.com/Packages/mySQLite/0.9.2) | 0.9.2
 
@@ -1892,7 +1916,7 @@ __Downloads__: 24 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 1,680,060 | __Repository__: https://0install.net/
+__Downloads__: 1,678,982 | __Repository__: https://0install.net/
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.20.0) | 2.20.0
 
@@ -1940,7 +1964,7 @@ __Downloads__: 206 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,966,894 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,966,081 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -1948,7 +1972,7 @@ __Downloads__: 5,966,894 | __Repository__: https://www.github.com/jantari/LSUCli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 749,470 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 749,463 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -2005,7 +2029,7 @@ __Downloads__: 189 | __Repository__: https://github.com/StartAutomating/ugit
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,337,677 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,337,619 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [AppVeyorBYOC](https://www.powershellgallery.com/Packages/AppVeyorBYOC/1.0.182) | 1.0.182
 
@@ -2055,28 +2079,4 @@ Get Virtula machine Availability
 
 __Downloads__: 31 | __Repository__: 
 
-## [PSSecretScanner](https://www.powershellgallery.com/Packages/PSSecretScanner/1.0.8) | 1.0.8
-
-### Published: 07/29/2022 12:28:25 by Björn Sundling
-
-Scan for secrets in code to prevent accidentaly commited secrets
-
-__Downloads__: 129 | __Repository__: https://github.com/bjompen/PSSecretScanner
-
-## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.83) | 0.0.83
-
-### Published: 07/29/2022 10:53:40 by Przemyslaw Klys
-
-Testimo is Powershell module that tests Active Directory against specific set of tests.
-
-__Downloads__: 50,439 | __Repository__: https://github.com/EvotecIT/Testimo
-
-## [ADSecurityReporter](https://www.powershellgallery.com/Packages/ADSecurityReporter/1.2) | 1.2
-
-### Published: 07/29/2022 08:06:43 by Faris Malaeb
-
-Get ACL for Active Directory RootDomain and OU, and also convert Permission GUID to Name
-
-__Downloads__: 1,076 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/ADSecurityReporter
-
-*Updated: Saturday, 06 August 2022 09:52:40 UTC*
+*Updated: Saturday, 06 August 2022 17:52:42 UTC*
