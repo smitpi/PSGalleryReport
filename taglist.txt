@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 07 August 2022 09:52:49 UTC
+Updated: Sunday, 07 August 2022 17:53:08 UTC
 
 ?:
 ??
@@ -334,6 +334,7 @@ applicationinsights
 applicationmigration
 applicationmonitor
 applications
+applocker
 appmgmtcontrol
 apppool
 appraiser
@@ -1201,6 +1202,7 @@ connectednetwork
 connectexchange
 connection
 connections
+connectionsmanager
 connectionstring
 connectwise
 console
@@ -2806,6 +2808,7 @@ influxdb
 info
 infoblox
 information
+informationbarriers
 informix
 infosec
 infrastructure
@@ -4836,6 +4839,8 @@ remote
 remote-desktop
 remote'
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -4887,6 +4892,7 @@ reservations
 reset
 resharper
 resize
+resolution
 resolve
 resolve-stache
 resolve-template
@@ -6119,6 +6125,7 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm

@@ -5,6 +5,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.148) | 0.0.148
+
+### Published: 08/07/2022 15:57:04 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 118,131 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [xRemoteDesktopSessionHost](https://www.powershellgallery.com/Packages/xRemoteDesktopSessionHost/2.1.0) | 2.1.0
+
+### Published: 08/07/2022 12:35:42 by DSC Community
+
+Module with DSC Resources for Remote Desktop Session Host
+
+__Downloads__: 411,000 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
+
+## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.3.0) | 1.3.0
+
+### Published: 08/07/2022 12:26:40 by Code Dx
+
+This module includes a framework for installing an application on a Kubernetes cluster using a setup wizard based on a directed graph.
+
+__Downloads__: 42 | __Repository__: https://github.com/codedx/guided-setup
+
+## [PsSqlTestServer](https://www.powershellgallery.com/Packages/PsSqlTestServer/1.3.0) | 1.3.0
+
+### Published: 08/07/2022 12:20:28 by Steffen Kampmann
+
+Cmdlets to provide and manage SQL servers for tests.
+
+__Downloads__: 445 | __Repository__: https://github.com/abbgrade/PsSqlTestServer
+
 ## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.203) | 0.0.0.203
 
 ### Published: 08/07/2022 08:02:59 by Naitwatch
@@ -35,7 +67,7 @@ __Downloads__: 179 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 646,190 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 646,203 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [IGN](https://www.powershellgallery.com/Packages/IGN/1.0.5) | 1.0.5
 
@@ -59,7 +91,7 @@ __Downloads__: 0 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 744,559 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 744,571 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -107,7 +139,7 @@ __Downloads__: 23 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,802,331 | __Repository__: https://dbatools.io/
+__Downloads__: 1,802,347 | __Repository__: https://dbatools.io/
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
 
@@ -115,15 +147,7 @@ __Downloads__: 1,802,331 | __Repository__: https://dbatools.io/
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 519,856 | __Repository__: 
-
-## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.147) | 0.0.147
-
-### Published: 08/06/2022 11:06:42 by Przemyslaw Klys
-
-Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
-
-__Downloads__: 118,131 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 519,858 | __Repository__: 
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.233) | 0.0.233
 
@@ -516,7 +540,7 @@ __Downloads__: 3,458 | __Repository__: https://github.com/webmd-health-services/
 
 Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
 
-__Downloads__: 101,188 | __Repository__: https://github.com/EvotecIT/Transferetto
+__Downloads__: 101,189 | __Repository__: https://github.com/EvotecIT/Transferetto
 
 ## [PS-Populi](https://www.powershellgallery.com/Packages/PS-Populi/0.0.39) | 0.0.39
 
@@ -668,7 +692,7 @@ __Downloads__: 4 | __Repository__: https://www.powershellgallery.com/packages/Se
 
 Database for KB Viewer and Saver
 
-__Downloads__: 534,124 | __Repository__: 
+__Downloads__: 534,125 | __Repository__: 
 
 ## [ATAPAuditor](https://www.powershellgallery.com/Packages/ATAPAuditor/5.1) | 5.1
 
@@ -748,7 +772,7 @@ __Downloads__: 7,284 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 788,382 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 788,384 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [DDO-PSTemplates](https://www.powershellgallery.com/Packages/DDO-PSTemplates/0.0.1) | 0.0.1
 
@@ -779,7 +803,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 473,851 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 473,855 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/37.1.0) | 37.1.0
 
@@ -1748,7 +1772,7 @@ __Downloads__: 1,484 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,057,719 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,057,729 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [UtilityModule](https://www.powershellgallery.com/Packages/UtilityModule/1.0) | 1.0
 
@@ -2004,7 +2028,7 @@ __Downloads__: 210 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,973,608 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,973,629 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
 
@@ -2012,7 +2036,7 @@ __Downloads__: 5,973,608 | __Repository__: https://www.github.com/jantari/LSUCli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 750,604 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 750,605 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PesterExtensions](https://www.powershellgallery.com/Packages/PesterExtensions/0.7.4) | 0.7.4
 
@@ -2053,30 +2077,4 @@ A PowerShell module to generate an as built report on the configuration of Micro
 
 __Downloads__: 3,288 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
 
-## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.7) | 0.2.7
-
-### Published: 07/29/2022 20:24:31 by James Brundage
-
-ugit:  Updated Git.
-
-A powerful PowerShell wrapper for git that lets you extend git, automate multiple repos, and use the object pipeline.
-
-__Downloads__: 189 | __Repository__: https://github.com/StartAutomating/ugit
-
-## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/1.23.4) | 1.23.4
-
-### Published: 07/29/2022 19:03:15 by JumpCloud Solutions Architect Team
-
-PowerShell functions to manage a JumpCloud Directory-as-a-Service
-
-__Downloads__: 5,339,135 | __Repository__: https://github.com/TheJumpCloud/support/wiki
-
-## [AppVeyorBYOC](https://www.powershellgallery.com/Packages/AppVeyorBYOC/1.0.182) | 1.0.182
-
-### Published: 07/29/2022 18:43:40 by AppVeyor Systems Inc.
-
-AppVeyor Bring-Your-Own-Cloud/Computer (BYOC) - PowerShell module to enable hosted AppVeyor CI account or on-premise AppVeyor Server installation running builds on a custom build cloud (Azure, AWS, GCE, Hyper-V, Docker) or computer directly (Windows, Linux, Mac).
-
-__Downloads__: 7,640 | __Repository__: 
-
-*Updated: Sunday, 07 August 2022 09:52:38 UTC*
+*Updated: Sunday, 07 August 2022 17:52:56 UTC*
