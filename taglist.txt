@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 07 August 2022 02:37:13 UTC
+Updated: Sunday, 07 August 2022 09:52:49 UTC
 
 ?:
 ??
@@ -334,7 +334,6 @@ applicationinsights
 applicationmigration
 applicationmonitor
 applications
-applocker
 appmgmtcontrol
 apppool
 appraiser
@@ -365,6 +364,7 @@ archivial-backup
 archivial-cloud-backup
 archlinux
 arcus
+area
 argument
 argumentcompleter
 arguments
@@ -426,6 +426,7 @@ atlas
 atlassian
 atlassiancli
 atlassianps
+atmosphere
 atrium
 att&ck
 attestation
@@ -676,6 +677,8 @@ binaryip
 bind
 binding
 bing
+bingmap
+bingmaps
 binomial
 bios
 bios_settings
@@ -1036,6 +1039,7 @@ cloudformation
 cloudfront
 cloudgovernance
 cloudguard
+cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1128,6 +1132,7 @@ commerce
 commfort
 commit
 common
+common-data-service
 commonareaphone
 commondataservice
 commonmark
@@ -1196,7 +1201,6 @@ connectednetwork
 connectexchange
 connection
 connections
-connectionsmanager
 connectionstring
 connectwise
 console
@@ -2188,6 +2192,8 @@ financial
 financialforce
 find
 find-path
+findlocation
+findplace
 findproxyforurl
 firebird
 firefox
@@ -2341,8 +2347,11 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
+geo
 geocache
 geocaching
+geoencode
+geoencoding
 geolocation
 geosearching
 geotagging
@@ -2380,6 +2389,7 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
@@ -2415,6 +2425,8 @@ globalentry
 globbing
 glpi
 gmail
+gmap
+gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2428,8 +2440,11 @@ google-chrome
 google-histogram
 google-sankey
 google-table
+googleadsv2
 googlecloudplatform
 googledrive
+googlemap
+googlemaps
 gopher
 gopher+
 gopherplus
@@ -2437,6 +2452,7 @@ gophers
 governance
 governancerulescontrolplane
 gp
+gpedit
 gpg
 gping
 gpio
@@ -2591,6 +2607,7 @@ highlighting
 highrise
 hipaa
 hipchat
+hiragana
 histogram
 history
 hitrust
@@ -2789,7 +2806,6 @@ influxdb
 info
 infoblox
 information
-informationbarriers
 informix
 infosec
 infrastructure
@@ -2939,6 +2955,7 @@ ivdc
 iwi
 j
 j81-blog
+japanese
 jar
 jav
 java
@@ -2999,6 +3016,7 @@ kaminario
 karma
 kaseya
 kaseyavsa
+katakana
 kb
 kbarticle
 kdbx
@@ -3087,6 +3105,7 @@ lastpass
 latency
 latestupdate
 latin
+latitude
 launcher
 layer
 layman
@@ -3122,6 +3141,7 @@ lenovo
 lesspass
 letsencrypt
 lf
+lgpo
 libgit2
 libraries
 library
@@ -3179,9 +3199,11 @@ loanddepot
 loandepot
 local
 local-caching
+local-policy
 localadmin
 localconfigurationmanager
 localdb
+locale
 localgroup
 localization
 location
@@ -3249,6 +3271,7 @@ lol
 lolcat
 longfile
 longfiles
+longitude
 look
 lookup
 loopback
@@ -3327,10 +3350,12 @@ mangement
 manifest
 manual
 map
+mapapi
 mappeddrives
 mapper24
 mapping
 maps
+mapsapi
 mariadb
 mark
 markdig
@@ -3483,6 +3508,7 @@ migrations
 milestone
 milestonepstools
 mim
+mimekit
 min
 mindmeister
 minecraft
@@ -4176,6 +4202,7 @@ pivottable
 pixoo
 pki
 pks
+place
 places
 plain
 plan
@@ -4261,6 +4288,7 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
+position
 postgre
 postgres
 postgresql
@@ -4546,6 +4574,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+pspath
 pspowerhour
 psprofiler
 psproject
@@ -4700,6 +4729,8 @@ rate
 rate-limit
 rate-limiting
 rates
+rating
+ratings
 ravendb
 razzle
 rbac
@@ -4805,8 +4836,6 @@ remote
 remote-desktop
 remote'
 remotecert
-remoteconnection
-remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -4931,6 +4960,7 @@ rocketcyber
 role
 roles
 rollingfile
+romaji
 rot13
 rotate
 rotation
@@ -4958,6 +4988,7 @@ rsa
 rsat
 rshell
 rsjob
+rsop
 rss
 rt
 rtu
@@ -5112,6 +5143,7 @@ search
 search-adminauditlog
 searchengine
 searching
+searchplace
 searchquery
 searchstring
 secaas
@@ -5121,6 +5153,7 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
+secretscanner
 secretserver
 secretsmanager
 secretvault
@@ -5137,6 +5170,7 @@ securescore
 securesphere
 securestring
 security
+security-policy
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -5258,6 +5292,7 @@ sfb
 sftp
 sfx
 sgw
+sha256
 shadow
 shadowcopy
 shadowcopybackups
@@ -5303,6 +5338,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -6015,6 +6051,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -6082,7 +6119,6 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -6514,6 +6550,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-registry
@@ -6747,6 +6784,10 @@ zoxide
 zsh
 zuora
 zvm
+カタカナ
+ひらがな
+ローマ字
 全角半角変換
 寿司
+日本語
 湯婆婆
