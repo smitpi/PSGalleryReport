@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 08 August 2022 02:37:01 UTC
+Updated: Monday, 08 August 2022 09:52:48 UTC
 
 ?:
 ??
@@ -365,6 +365,7 @@ archivial-backup
 archivial-cloud-backup
 archlinux
 arcus
+area
 argument
 argumentcompleter
 arguments
@@ -426,6 +427,7 @@ atlas
 atlassian
 atlassiancli
 atlassianps
+atmosphere
 atrium
 att&ck
 attestation
@@ -676,6 +678,8 @@ binaryip
 bind
 binding
 bing
+bingmap
+bingmaps
 binomial
 bios
 bios_settings
@@ -944,7 +948,6 @@ cicd
 cidr
 cif
 cifv3
-cil
 cim
 cim_computersystem
 cimfs
@@ -1657,6 +1660,7 @@ distributedcache
 distributedfilesystem
 distribution
 distributiongroup
+distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
@@ -1728,7 +1732,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2188,6 +2191,8 @@ financial
 financialforce
 find
 find-path
+findlocation
+findplace
 findproxyforurl
 firebird
 firefox
@@ -2341,8 +2346,11 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
+geo
 geocache
 geocaching
+geoencode
+geoencoding
 geolocation
 geosearching
 geotagging
@@ -2416,6 +2424,8 @@ globalentry
 globbing
 glpi
 gmail
+gmap
+gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2428,8 +2438,12 @@ google
 google-chrome
 google-histogram
 google-sankey
+google-table
+googleadsv2
 googlecloudplatform
 googledrive
+googlemap
+googlemaps
 gopher
 gopher+
 gopherplus
@@ -2467,7 +2481,6 @@ graylog
 greenplum
 gremlin
 grep
-greynoise
 grid
 gridfs
 grok
@@ -2736,7 +2749,6 @@ iis10
 iis8
 iisadministration
 ikev2
-il
 illinois
 ilo
 ilo5
@@ -3091,6 +3103,7 @@ lastpass
 latency
 latestupdate
 latin
+latitude
 launcher
 layer
 layman
@@ -3188,6 +3201,7 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
+locale
 localgroup
 localization
 location
@@ -3255,6 +3269,7 @@ lol
 lolcat
 longfile
 longfiles
+longitude
 look
 lookup
 loopback
@@ -3333,10 +3348,12 @@ mangement
 manifest
 manual
 map
+mapapi
 mappeddrives
 mapper24
 mapping
 maps
+mapsapi
 mariadb
 mark
 markdig
@@ -3584,7 +3601,6 @@ msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
-msil
 msix
 mslab
 msmq
@@ -3886,6 +3902,7 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
+ondemand
 one
 onedrive
 onedriveforbusiness
@@ -4182,6 +4199,7 @@ pivottable
 pixoo
 pki
 pks
+place
 places
 plain
 plan
@@ -4708,6 +4726,8 @@ rate
 rate-limit
 rate-limiting
 rates
+rating
+ratings
 ravendb
 razzle
 rbac
@@ -4829,6 +4849,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-pass
 remove-path
 remove-pinneditem
@@ -5122,6 +5143,7 @@ search
 search-adminauditlog
 searchengine
 searching
+searchplace
 searchquery
 searchstring
 secaas
@@ -5246,6 +5268,7 @@ sessions
 set
 set_bios
 set-alias
+set-githubsecrets
 set-location
 set-openfiles
 set-pass
@@ -5324,6 +5347,7 @@ signtool
 silk
 sim
 simple
+simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -5431,6 +5455,7 @@ solarigate
 solarized
 solarwinds
 solr
+soltra
 solution
 solutions
 sonarcloud
@@ -6025,6 +6050,7 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
+twitter-timeline
 twitter-tweet
 txt
 type
@@ -6093,7 +6119,6 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -6369,6 +6394,7 @@ vpn-certificate
 vps
 vra
 vrealize
+vrising
 vro
 vrops
 vrtu

@@ -5,6 +5,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [IGN](https://www.powershellgallery.com/Packages/IGN/1.0.6) | 1.0.6
+
+### Published: 08/08/2022 07:18:50 by Aryxst
+
+Provides external apps project scaffolding and utility functions.
+
+__Downloads__: 7 | __Repository__: https://github.com/Aryxstocratic/IGN/
+
+## [ArxmlAutomation-Swc](https://www.powershellgallery.com/Packages/ArxmlAutomation-Swc/0.0.6) | 0.0.6
+
+### Published: 08/08/2022 07:01:13 by Hansong Li
+
+Advance usage to operate arxml file based on ArxmlAutomtaion Basic
+
+__Downloads__: 0 | __Repository__: 
+
+## [ArxmlAutomation-Basic](https://www.powershellgallery.com/Packages/ArxmlAutomation-Basic/0.0.6) | 0.0.6
+
+### Published: 08/08/2022 07:01:09 by LeanMeatFloss
+
+The basic module to perform arxml automation on powershell
+
+__Downloads__: 5 | __Repository__: 
+
+## [PwshComplete](https://www.powershellgallery.com/Packages/PwshComplete/0.0.2) | 0.0.2
+
+### Published: 08/08/2022 04:21:13 by artiga033
+
+Adds tab completion for many commandline tools.
+
+__Downloads__: 9 | __Repository__: https://github.com/artiga033/Pwsh-Complete
+
 ## [PSZoom](https://www.powershellgallery.com/Packages/PSZoom/2.0.0.0) | 2.0.0.0
 
 ### Published: 08/08/2022 02:05:34 by Joseph McEvoy
@@ -43,7 +75,7 @@ __Downloads__: 3,672 | __Repository__: https://github.com/StartAutomating/EZOut
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 463,729 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 463,736 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [FindFunctionCalls](https://www.powershellgallery.com/Packages/FindFunctionCalls/1.4.5) | 1.4.5
 
@@ -67,7 +99,7 @@ __Downloads__: 118,277 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 Module with DSC Resources for Remote Desktop Session Host
 
-__Downloads__: 411,611 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
+__Downloads__: 411,620 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
 
 ## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.3.0) | 1.3.0
 
@@ -115,15 +147,7 @@ __Downloads__: 186 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 646,921 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
-
-## [IGN](https://www.powershellgallery.com/Packages/IGN/1.0.5) | 1.0.5
-
-### Published: 08/07/2022 04:09:48 by Aryxst
-
-Provides external apps project scaffolding
-
-__Downloads__: 7 | __Repository__: https://github.com/Aryxstocratic/IGN/
+__Downloads__: 646,950 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.0) | 1.0.0
 
@@ -131,7 +155,7 @@ __Downloads__: 7 | __Repository__: https://github.com/Aryxstocratic/IGN/
 
 PowerShell cmdlets for Internet Speed Test
 
-__Downloads__: 3 | __Repository__: https://adam-bacon.netlify.app/
+__Downloads__: 4 | __Repository__: https://adam-bacon.netlify.app/
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2208.618) | 2208.618
 
@@ -139,7 +163,7 @@ __Downloads__: 3 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 747,992 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 748,030 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -195,7 +219,7 @@ __Downloads__: 1,805,075 | __Repository__: https://dbatools.io/
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 522,392 | __Repository__: 
+__Downloads__: 522,390 | __Repository__: 
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.233) | 0.0.233
 
@@ -530,18 +554,6 @@ Some of the interesting functions:
 
 __Downloads__: 46 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
 
-## [O365Stuff](https://www.powershellgallery.com/Packages/O365Stuff/1.0.1) | 1.0.1
-
-### Published: 08/04/2022 20:46:57 by @AndrewZtrhgf
-
-Various Azure related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the interesting functions:
-Remove-O365OrphanedMailbox - fixes problem of the orphaned mailboxes
-- ...
-
-__Downloads__: 14 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
-
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.3) | 1.0.3
 
 ### Published: 08/04/2022 20:40:49 by @AndrewZtrhgf
@@ -580,7 +592,7 @@ directory in the script's source code repository.
 * Avoid comitting modules to the source code repository. Team members and build processes run `prism install` to
 get modules installed.
 
-__Downloads__: 3,540 | __Repository__: https://github.com/webmd-health-services/Prism
+__Downloads__: 3,541 | __Repository__: https://github.com/webmd-health-services/Prism
 
 ## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.14) | 0.0.14
 
@@ -740,7 +752,7 @@ __Downloads__: 4 | __Repository__: https://www.powershellgallery.com/packages/Se
 
 Database for KB Viewer and Saver
 
-__Downloads__: 536,667 | __Repository__: 
+__Downloads__: 536,665 | __Repository__: 
 
 ## [ATAPAuditor](https://www.powershellgallery.com/Packages/ATAPAuditor/5.1) | 5.1
 
@@ -780,7 +792,7 @@ The 'Unified Labeling Support Tool' provides the functionality to reset all corr
 
 Before using the 'Unified Labeling Support Tool', please ensure to read its manual: https://aka.ms/UnifiedLabelingSupportTool
 
-__Downloads__: 1,527 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
+__Downloads__: 1,525 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
 
 ## [PowerAD](https://www.powershellgallery.com/Packages/PowerAD/1.0.1) | 1.0.1
 
@@ -820,7 +832,7 @@ __Downloads__: 7,284 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 788,654 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 788,658 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [DDO-PSTemplates](https://www.powershellgallery.com/Packages/DDO-PSTemplates/0.0.1) | 0.0.1
 
@@ -851,7 +863,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 477,595 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 477,607 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/37.1.0) | 37.1.0
 
@@ -1892,7 +1904,7 @@ __Downloads__: 46 | __Repository__:
 
 HP Client Management Script Library
 
-__Downloads__: 20,765,850 | __Repository__: 
+__Downloads__: 20,766,160 | __Repository__: 
 
 ## [AutoMatePS](https://www.powershellgallery.com/Packages/AutoMatePS/5.1.1) | 5.1.1
 
@@ -1917,14 +1929,6 @@ __Downloads__: 659 | __Repository__: https://github.com/icraftsoftware/Be.Statel
 Common functions used in DSC Resources
 
 __Downloads__: 10,698 | __Repository__: https://github.com/dsccommunity/DscResource.Common
-
-## [ArxmlAutomation-Basic](https://www.powershellgallery.com/Packages/ArxmlAutomation-Basic/0.0.1) | 0.0.1
-
-### Published: 08/01/2022 06:06:26 by LeanMeatFloss
-
-The basic module to perform arxml automation on powershell
-
-__Downloads__: 5 | __Repository__: 
 
 ## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.17) | 0.0.0.17
 
@@ -1982,14 +1986,6 @@ Creates a Config file with Commands, Variables, PSDrives, Credentials, Aliases\S
 
 __Downloads__: 230 | __Repository__: https://github.com/smitpi/PSConfigFile
 
-## [PWSHModule](https://www.powershellgallery.com/Packages/PWSHModule/0.1.16) | 0.1.16
-
-### Published: 07/31/2022 16:42:42 by Pierre Smit
-
-Creates a GitHub Gist (Private or Public) list to install and maintain the installed PowerShell Modules on your systems, you can create more than one list and use it to custom install modules from different repositories or different versions.
-
-__Downloads__: 40 | __Repository__: https://github.com/smitpi/PWSHModule
-
 ## [MazeRats](https://www.powershellgallery.com/Packages/MazeRats/0.1.2) | 0.1.2
 
 ### Published: 07/31/2022 15:53:55 by Gilbert Sanchez
@@ -2005,6 +2001,14 @@ __Downloads__: 14 | __Repository__: https://github.com/HeyItsGilbert/MazeRats/
 Fetches resources via the Gemini protocol.
 
 __Downloads__: 39 | __Repository__: https://github.com/rhymeswithmogul/PSGemini/
+
+## [PsBuildTasks](https://www.powershellgallery.com/Packages/PsBuildTasks/1.3.0) | 1.3.0
+
+### Published: 07/31/2022 13:35:54 by Steffen Kampmann
+
+Manage PsBuildTasks
+
+__Downloads__: 24 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
 ## [0install](https://www.powershellgallery.com/Packages/0install/2.23.10) | 2.23.10
 
@@ -2060,14 +2064,6 @@ __Downloads__: 210 | __Repository__: https://github.com/abbgrade/PsDac
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 5,979,082 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 5,979,037 | __Repository__: https://www.github.com/jantari/LSUClient
 
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.176) | 0.0.176
-
-### Published: 07/30/2022 15:40:05 by Przemyslaw Klys
-
-PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-
-__Downloads__: 751,706 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
-
-*Updated: Monday, 08 August 2022 02:36:49 UTC*
+*Updated: Monday, 08 August 2022 09:52:37 UTC*
