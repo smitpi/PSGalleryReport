@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 08 August 2022 09:52:48 UTC
+Updated: Monday, 08 August 2022 17:53:01 UTC
 
 ?:
 ??
@@ -716,7 +716,6 @@ blogs
 bls
 bluedolhin
 blueprint
-blueprints
 blueteam
 bluetraitio
 bmc
@@ -948,6 +947,7 @@ cicd
 cidr
 cif
 cifv3
+cil
 cim
 cim_computersystem
 cimfs
@@ -1258,6 +1258,7 @@ cooltag2
 coordinates
 copilot
 copy
+copy-item
 core
 coreposh
 corona
@@ -1732,6 +1733,7 @@ donothing
 dos
 dot
 dotenv
+dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2087,7 +2089,6 @@ external
 externalip
 extract
 extractor
-extreme-networks
 eztheme
 f
 f#
@@ -2388,7 +2389,6 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
-get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
@@ -2481,6 +2481,7 @@ graylog
 greenplum
 gremlin
 grep
+greynoise
 grid
 gridfs
 grok
@@ -2749,6 +2750,7 @@ iis10
 iis8
 iisadministration
 ikev2
+il
 illinois
 ilo
 ilo5
@@ -2756,22 +2758,12 @@ ilocmdlets
 im
 image
 image-converter
-image-creation
-image-generation
-image-process
-image-validation
 imagebuilder
-imagecreate
-imagecreation
-imagegeneration
 imageoftheday
-imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
-imagevalidate
-imagevalidation
 imagga
 imaging
 imap
@@ -3601,6 +3593,7 @@ msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
+msil
 msix
 mslab
 msmq
@@ -3708,7 +3701,6 @@ netfirewallrule
 netherlands
 netmask
 nets
-netsapiens
 netscaler
 netscape
 netsec
@@ -3801,7 +3793,6 @@ npslog
 npslogfile
 nrc
 nrql
-ns
 ns.nl
 nsg
 nslookup
@@ -3902,7 +3893,6 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
-ondemand
 one
 onedrive
 onedriveforbusiness
@@ -4026,7 +4016,6 @@ outertext
 outline
 outlook
 output
-output-to-image
 outsystems
 overbite
 ovf
@@ -5338,7 +5327,6 @@ siem
 sif
 sigma
 sign
-signalfx
 signalr
 signature
 signed
@@ -5882,7 +5870,6 @@ testtag2
 testtool
 testusers
 text
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -6119,6 +6106,7 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -6288,7 +6276,6 @@ ve7cc
 vector
 veeam
 veeampn
-veeva
 venafi
 vendor
 venue
@@ -6382,7 +6369,6 @@ voidtools
 volkskrant
 volume
 volumeshadowcopy
-volumio
 vorbis
 vovin
 vpasmodule
@@ -6731,7 +6717,6 @@ xi
 xiaomi
 xkcd
 xliff
-xmc
 xml
 xml-rpc
 xml-transform

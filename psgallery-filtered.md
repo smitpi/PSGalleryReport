@@ -5,6 +5,196 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AutopilotQuick](https://www.powershellgallery.com/Packages/AutopilotQuick/1.0) | 1.0
+
+### Published: 08/08/2022 17:29:34 by AMoore
+
+Makes new AutopilotQuick USB drives
+
+__Downloads__: 0 | __Repository__: 
+
+## [ArtemisSigGenerator](https://www.powershellgallery.com/Packages/ArtemisSigGenerator/1.0.0.2) | 1.0.0.2
+
+### Published: 08/08/2022 16:23:26 by Jeremy Jackson
+
+Outlook Signature Generator
+
+__Downloads__: 0 | __Repository__: https://github.com/Largehawiian/SignatureGenerator
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.5) | 11.0.5
+
+### Published: 08/08/2022 15:13:02 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 17,646 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.16.3) | 2.16.3
+
+### Published: 08/08/2022 15:12:19 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 3,536 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.2) | 4.8.2
+
+### Published: 08/08/2022 15:12:13 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 10,872 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.2) | 1.9.2
+
+### Published: 08/08/2022 15:12:09 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 10,965 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/2.10.2) | 2.10.2
+
+### Published: 08/08/2022 15:12:05 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 11,787 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.13.2) | 2.13.2
+
+### Published: 08/08/2022 15:12:01 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 15,729 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.2) | 1.2.2
+
+### Published: 08/08/2022 15:11:56 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 326 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.2) | 1.6.2
+
+### Published: 08/08/2022 15:11:53 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 10,967 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.13.2) | 1.13.2
+
+### Published: 08/08/2022 15:11:49 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 11,309 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.12.2) | 4.12.2
+
+### Published: 08/08/2022 15:11:46 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 11,139 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.2) | 1.9.2
+
+### Published: 08/08/2022 15:11:43 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 11,940 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.8.2) | 4.8.2
+
+### Published: 08/08/2022 15:11:39 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 11,840 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.8.2) | 1.8.2
+
+### Published: 08/08/2022 15:11:35 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 13,626 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.7.5) | 0.7.5
+
+### Published: 08/08/2022 14:56:33 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Microsoft AD.
+
+__Downloads__: 3,291 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
+
+## [Outsystems.SetupTools](https://www.powershellgallery.com/Packages/Outsystems.SetupTools/3.16.0.0) | 3.16.0.0
+
+### Published: 08/08/2022 14:18:47 by Pedro Nunes
+
+Tools for installing and manage the OutSystems platform installation
+
+__Downloads__: 133,052 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
+
+## [CloudAssert.Billing](https://www.powershellgallery.com/Packages/CloudAssert.Billing/2022.8.8.0) | 2022.8.8.0
+
+### Published: 08/08/2022 13:52:42 by CLOUD ASSERT LLC
+
+Functionality to configure and manage Cloud Assert Hybr Usage, Billing and Cost Management Services.
+
+__Downloads__: 162 | __Repository__: 
+
+## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.3.1) | 1.3.1
+
+### Published: 08/08/2022 13:13:11 by Federico @last0x00 Lagrasta
+
+This module tries to enumerate all the persistence methods implanted on a compromised machine. New techniques may take some time before they are implemented in this script, so don't assume that because the script didn't find anything the machine is clean.
+
+__Downloads__: 52 | __Repository__: 
+
+## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.4.0) | 1.4.0
+
+### Published: 08/08/2022 12:57:11 by Code Dx
+
+This module includes a framework for installing an application on a Kubernetes cluster using a setup wizard based on a directed graph.
+
+__Downloads__: 43 | __Repository__: https://github.com/codedx/guided-setup
+
+## [PSSecretScanner](https://www.powershellgallery.com/Packages/PSSecretScanner/1.0.9) | 1.0.9
+
+### Published: 08/08/2022 12:36:20 by Björn Sundling
+
+Scan for secrets in code to prevent accidentaly commited secrets
+
+__Downloads__: 137 | __Repository__: https://github.com/bjompen/PSSecretScanner
+
+## [PSClock](https://www.powershellgallery.com/Packages/PSClock/1.2.0) | 1.2.0
+
+### Published: 08/08/2022 12:23:34 by Jeff Hicks
+
+A set of PowerShell commands for creating and managing a WPF-based clock that runs on your Windows desktop.
+
+__Downloads__: 252 | __Repository__: https://github.com/jdhitsolutions/PSClock
+
+## [WebServer](https://www.powershellgallery.com/Packages/WebServer/1.0.5) | 1.0.5
+
+### Published: 08/08/2022 10:26:14 by Markus Scholtes
+
+Powershell WebServer is a module that starts a webserver (without the need for IIS).
+Powershell command execution, script execution, upload, download and other functions are implemented.
+* Start-Webserver starts a webserver listening on port 8080 with binding to localhost only
+* Start-Webserver "http://+:8080/" "C:\Data" starts a webserver on port 8080 with binding to all IP addresses with base dir C:\Data
+
+You may have to configure a firewall exception to allow remote access to the chosen port, e.g. with
+netsh advfirewall firewall add rule name="Powershell Webserver" dir=in action=allow protocol=TCP localport=8080
+
+__Downloads__: 1,720 | __Repository__: https://github.com/MScholtes/WebServer
+
 ## [IGN](https://www.powershellgallery.com/Packages/IGN/1.0.6) | 1.0.6
 
 ### Published: 08/08/2022 07:18:50 by Aryxst
@@ -75,7 +265,7 @@ __Downloads__: 3,672 | __Repository__: https://github.com/StartAutomating/EZOut
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 463,736 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 463,729 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [FindFunctionCalls](https://www.powershellgallery.com/Packages/FindFunctionCalls/1.4.5) | 1.4.5
 
@@ -99,15 +289,7 @@ __Downloads__: 118,277 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 Module with DSC Resources for Remote Desktop Session Host
 
-__Downloads__: 411,620 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
-
-## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.3.0) | 1.3.0
-
-### Published: 08/07/2022 12:26:40 by Code Dx
-
-This module includes a framework for installing an application on a Kubernetes cluster using a setup wizard based on a directed graph.
-
-__Downloads__: 43 | __Repository__: https://github.com/codedx/guided-setup
+__Downloads__: 411,611 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
 
 ## [PsSqlTestServer](https://www.powershellgallery.com/Packages/PsSqlTestServer/1.3.0) | 1.3.0
 
@@ -147,7 +329,7 @@ __Downloads__: 186 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 646,950 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 646,921 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.0) | 1.0.0
 
@@ -211,7 +393,7 @@ __Downloads__: 25 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,805,075 | __Repository__: https://dbatools.io/
+__Downloads__: 1,805,062 | __Repository__: https://dbatools.io/
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
 
@@ -219,7 +401,7 @@ __Downloads__: 1,805,075 | __Repository__: https://dbatools.io/
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 522,390 | __Repository__: 
+__Downloads__: 522,392 | __Repository__: 
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.233) | 0.0.233
 
@@ -420,14 +602,6 @@ PowerCLI VMware Cloud Disaster Recovery module
 
 __Downloads__: 107 | __Repository__: https://github.com/vmware/vmware-powercli-for-vmware-cloud-disaster-recovery
 
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.16.2) | 2.16.2
-
-### Published: 08/04/2022 21:43:48 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 3,502 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
 ## [NewRelicPS](https://www.powershellgallery.com/Packages/NewRelicPS/1.6.1) | 1.6.1
 
 ### Published: 08/04/2022 21:42:39 by Mark Studer and Shaun Titus
@@ -435,102 +609,6 @@ __Downloads__: 3,502 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 Module for working with NewRelic
 
 __Downloads__: 4,244 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.4) | 11.0.4
-
-### Published: 08/04/2022 21:05:42 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 17,646 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.1) | 4.8.1
-
-### Published: 08/04/2022 21:04:30 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 10,872 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.1) | 1.9.1
-
-### Published: 08/04/2022 21:04:25 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 10,965 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/2.10.1) | 2.10.1
-
-### Published: 08/04/2022 21:04:20 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 11,787 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.13.1) | 2.13.1
-
-### Published: 08/04/2022 21:04:14 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 15,729 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.1) | 1.2.1
-
-### Published: 08/04/2022 21:04:07 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 326 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.1) | 1.6.1
-
-### Published: 08/04/2022 21:04:03 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 10,967 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.13.1) | 1.13.1
-
-### Published: 08/04/2022 21:03:58 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 11,309 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.12.1) | 4.12.1
-
-### Published: 08/04/2022 21:03:53 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 11,139 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.1) | 1.9.1
-
-### Published: 08/04/2022 21:03:48 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 11,940 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.8.1) | 4.8.1
-
-### Published: 08/04/2022 21:03:43 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 11,840 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.8.1) | 1.8.1
-
-### Published: 08/04/2022 21:03:37 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 13,626 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [SCCMStuff](https://www.powershellgallery.com/Packages/SCCMStuff/1.0.3) | 1.0.3
 
@@ -553,6 +631,18 @@ Some of the interesting functions:
 - ...
 
 __Downloads__: 46 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
+
+## [O365Stuff](https://www.powershellgallery.com/Packages/O365Stuff/1.0.1) | 1.0.1
+
+### Published: 08/04/2022 20:46:57 by @AndrewZtrhgf
+
+Various Azure related functions. Some of them are explained at https://doitpsway.com.
+
+Some of the interesting functions:
+Remove-O365OrphanedMailbox - fixes problem of the orphaned mailboxes
+- ...
+
+__Downloads__: 14 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
 
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.3) | 1.0.3
 
@@ -633,14 +723,6 @@ __Downloads__: 85 | __Repository__:
 PowerShell Dependency Handler
 
 __Downloads__: 366 | __Repository__: https://github.com/matt2005/PSDepend/
-
-## [CloudAssert.Billing](https://www.powershellgallery.com/Packages/CloudAssert.Billing/2022.8.4.0) | 2022.8.4.0
-
-### Published: 08/04/2022 07:39:51 by CLOUD ASSERT LLC
-
-Functionality to configure and manage Cloud Assert Hybr Usage, Billing and Cost Management Services.
-
-__Downloads__: 162 | __Repository__: 
 
 ## [ds-utils](https://www.powershellgallery.com/Packages/ds-utils/1.4.0) | 1.4.0
 
@@ -752,7 +834,7 @@ __Downloads__: 4 | __Repository__: https://www.powershellgallery.com/packages/Se
 
 Database for KB Viewer and Saver
 
-__Downloads__: 536,665 | __Repository__: 
+__Downloads__: 536,667 | __Repository__: 
 
 ## [ATAPAuditor](https://www.powershellgallery.com/Packages/ATAPAuditor/5.1) | 5.1
 
@@ -863,7 +945,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 477,607 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 477,595 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/37.1.0) | 37.1.0
 
@@ -1832,7 +1914,7 @@ __Downloads__: 1,484 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,059,677 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,059,675 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [UtilityModule](https://www.powershellgallery.com/Packages/UtilityModule/1.0) | 1.0
 
@@ -1986,84 +2068,12 @@ Creates a Config file with Commands, Variables, PSDrives, Credentials, Aliases\S
 
 __Downloads__: 230 | __Repository__: https://github.com/smitpi/PSConfigFile
 
-## [MazeRats](https://www.powershellgallery.com/Packages/MazeRats/0.1.2) | 0.1.2
+## [PWSHModule](https://www.powershellgallery.com/Packages/PWSHModule/0.1.16) | 0.1.16
 
-### Published: 07/31/2022 15:53:55 by Gilbert Sanchez
+### Published: 07/31/2022 16:42:42 by Pierre Smit
 
-Create PC's, NPC''s, and monsters in PowerShell!
+Creates a GitHub Gist (Private or Public) list to install and maintain the installed PowerShell Modules on your systems, you can create more than one list and use it to custom install modules from different repositories or different versions.
 
-__Downloads__: 14 | __Repository__: https://github.com/HeyItsGilbert/MazeRats/
+__Downloads__: 40 | __Repository__: https://github.com/smitpi/PWSHModule
 
-## [PSGemini](https://www.powershellgallery.com/Packages/PSGemini/1.0.3) | 1.0.3
-
-### Published: 07/31/2022 14:03:32 by Colin Cogle
-
-Fetches resources via the Gemini protocol.
-
-__Downloads__: 39 | __Repository__: https://github.com/rhymeswithmogul/PSGemini/
-
-## [PsBuildTasks](https://www.powershellgallery.com/Packages/PsBuildTasks/1.3.0) | 1.3.0
-
-### Published: 07/31/2022 13:35:54 by Steffen Kampmann
-
-Manage PsBuildTasks
-
-__Downloads__: 24 | __Repository__: https://github.com/abbgrade/PsBuildTasks
-
-## [0install](https://www.powershellgallery.com/Packages/0install/2.23.10) | 2.23.10
-
-### Published: 07/31/2022 13:14:27 by Bastian Eicher
-
-Zero Install is a decentralized cross-platform software-installation system.
-
-__Downloads__: 1,696,919 | __Repository__: https://0install.net/
-
-## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.20.0) | 2.20.0
-
-### Published: 07/31/2022 12:52:57 by Aleksandr Sapozhkov
-
-A module to ease infrastructure as code tasks for Dynamics 365.
-
-__Downloads__: 3,350 | __Repository__: https://github.com/shurick81/Dynamics365Configuration
-
-## [LightScript](https://www.powershellgallery.com/Packages/LightScript/0.2.4.1) | 0.2.4.1
-
-### Published: 07/31/2022 05:12:39 by James Brundage
-
-Smarter Lighting with PowerShell
-
-__Downloads__: 70 | __Repository__: https://github.com/StartAutomating/LightScript
-
-## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.3) | 0.3
-
-### Published: 07/31/2022 05:06:35 by James Brundage
-
-A Helpful Toolkit for Managing PowerShell Help
-
-__Downloads__: 428 | __Repository__: https://github.com/StartAutomating/HelpOut
-
-## [FixLogModule](https://www.powershellgallery.com/Packages/FixLogModule/2.1.1) | 2.1.1
-
-### Published: 07/31/2022 01:48:45 by Marco Dorantes
-
-FixLogModule parses FIX Log files and streams FIX Messages into the PowerShell Pipeline. Also, it displays FIX Tag Numbers, FIX Tag Names and FIX Tag Values based on a dictionary of a supported FIX Protocol version.
-
-__Downloads__: 71 | __Repository__: https://www.gbm.com/
-
-## [PsDac](https://www.powershellgallery.com/Packages/PsDac/1.2.0) | 1.2.0
-
-### Published: 07/30/2022 20:34:09 by Steffen Kampmann
-
-PsDac connects DacFx and PowerShell. It gives you PowerShell Cmdlets with the power of Microsoft.SqlServer.DacFx.
-
-__Downloads__: 210 | __Repository__: https://github.com/abbgrade/PsDac
-
-## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.4.2) | 1.4.2
-
-### Published: 07/30/2022 18:55:45 by jantari
-
-Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
-
-__Downloads__: 5,979,037 | __Repository__: https://www.github.com/jantari/LSUClient
-
-*Updated: Monday, 08 August 2022 09:52:37 UTC*
+*Updated: Monday, 08 August 2022 17:52:50 UTC*
