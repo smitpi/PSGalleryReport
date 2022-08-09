@@ -5,13 +5,93 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [AutopilotQuick](https://www.powershellgallery.com/Packages/AutopilotQuick/1.0) | 1.0
+## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.120) | 2.0.120
 
-### Published: 08/08/2022 17:29:34 by AMoore
+### Published: 08/09/2022 02:27:51 by Dylan Haskins and Eugene Van Staden
+
+A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
+
+__Downloads__: 11,223 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+
+## [Irregular](https://www.powershellgallery.com/Packages/Irregular/0.6.8) | 0.6.8
+
+### Published: 08/09/2022 01:47:08 by James Brundage
+
+Regular Expressions made Strangely Simple
+
+__Downloads__: 1,067 | __Repository__: https://github.com/StartAutomating/Irregular
+
+## [EZOut](https://www.powershellgallery.com/Packages/EZOut/1.8.9) | 1.8.9
+
+### Published: 08/09/2022 00:27:00 by James Brundage
+
+Easily Author Rich Format Files to Customize PowerShell Output
+
+__Downloads__: 3,672 | __Repository__: https://github.com/StartAutomating/EZOut
+
+## [RoboCopy](https://www.powershellgallery.com/Packages/RoboCopy/1.0.0) | 1.0.0
+
+### Published: 08/08/2022 23:04:03 by Adam Bacon
+
+PowerShell cmdlet for the official RoboCopy.exe
+
+__Downloads__: 0 | __Repository__: https://adam-bacon.netlify.app/
+
+## [AutopilotUtility](https://www.powershellgallery.com/Packages/AutopilotUtility/1.0) | 1.0
+
+### Published: 08/08/2022 21:40:59 by Michael Niehaus
+
+Autopilot Utility module
+
+__Downloads__: 0 | __Repository__: 
+
+## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.3) | 1.4.3
+
+### Published: 08/08/2022 20:59:48 by Brian Dukes
+
+A set of functions for managing websites built on the DNN Platform.
+
+__Downloads__: 1,099 | __Repository__: https://github.com/bdukes/PowerShellModules
+
+## [PSItems](https://www.powershellgallery.com/Packages/PSItems/0.2.3) | 0.2.3
+
+### Published: 08/08/2022 20:16:56 by Eizedev
+
+A PowerShell module that finds files and directories as well as file and directory information the quick and easy way!
+
+__Downloads__: 0 | __Repository__: https://github.com/eizedev/PSItems
+
+## [Prism](https://www.powershellgallery.com/Packages/Prism/0.6.0) | 0.6.0
+
+### Published: 08/08/2022 19:34:10 by WebMD Health Services
+
+Prism is a PowerShell module manager inspired by NuGet. Run `prism install` in a source code repository, and Prism will
+save private modules into a "PSModules" directory in that repository. Prism let's you:
+
+* Package and deploy modules side-by-side with the app or tool that uses them without needing to install
+modules globally ahead of time.
+* Not worry about what modules are or aren't installed. Scripts can import and use modules from the "PSModules"
+directory in the script's source code repository.
+* Avoid comitting modules to the source code repository. Team members and build processes run `prism install` to
+get modules installed.
+
+__Downloads__: 3,540 | __Repository__: https://github.com/webmd-health-services/Prism
+
+## [AutopilotQuick](https://www.powershellgallery.com/Packages/AutopilotQuick/1.2) | 1.2
+
+### Published: 08/08/2022 19:18:34 by AMoore
 
 Makes new AutopilotQuick USB drives
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
+
+## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.5.0) | 1.5.0
+
+### Published: 08/08/2022 19:08:25 by Code Dx
+
+This module includes a framework for installing an application on a Kubernetes cluster using a setup wizard based on a directed graph.
+
+__Downloads__: 43 | __Repository__: https://github.com/codedx/guided-setup
 
 ## [ArtemisSigGenerator](https://www.powershellgallery.com/Packages/ArtemisSigGenerator/1.0.0.2) | 1.0.0.2
 
@@ -35,7 +115,7 @@ __Downloads__: 17,646 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 3,536 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 3,502 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.2) | 4.8.2
 
@@ -157,14 +237,6 @@ This module tries to enumerate all the persistence methods implanted on a compro
 
 __Downloads__: 52 | __Repository__: 
 
-## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.4.0) | 1.4.0
-
-### Published: 08/08/2022 12:57:11 by Code Dx
-
-This module includes a framework for installing an application on a Kubernetes cluster using a setup wizard based on a directed graph.
-
-__Downloads__: 43 | __Repository__: https://github.com/codedx/guided-setup
-
 ## [PSSecretScanner](https://www.powershellgallery.com/Packages/PSSecretScanner/1.0.9) | 1.0.9
 
 ### Published: 08/08/2022 12:36:20 by Björn Sundling
@@ -251,14 +323,6 @@ An Extensible Transpiler for PowerShell (and anything else)
 
 __Downloads__: 52 | __Repository__: https://github.com/StartAutomating/PipeScript
 
-## [EZOut](https://www.powershellgallery.com/Packages/EZOut/1.8.8.1) | 1.8.8.1
-
-### Published: 08/07/2022 23:40:18 by James Brundage
-
-Easily Author Rich Format Files to Customize PowerShell Output
-
-__Downloads__: 3,672 | __Repository__: https://github.com/StartAutomating/EZOut
-
 ## [CosmosDB](https://www.powershellgallery.com/Packages/CosmosDB/4.6.0) | 4.6.0
 
 ### Published: 08/07/2022 21:20:26 by Daniel Scott-Raynsford
@@ -329,7 +393,7 @@ __Downloads__: 186 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 646,921 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 646,948 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.0) | 1.0.0
 
@@ -337,7 +401,7 @@ __Downloads__: 646,921 | __Repository__: https://www.github.com/microsoft/navcon
 
 PowerShell cmdlets for Internet Speed Test
 
-__Downloads__: 4 | __Repository__: https://adam-bacon.netlify.app/
+__Downloads__: 3 | __Repository__: https://adam-bacon.netlify.app/
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2208.618) | 2208.618
 
@@ -345,7 +409,7 @@ __Downloads__: 4 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 748,030 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 748,034 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -393,7 +457,7 @@ __Downloads__: 25 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,805,062 | __Repository__: https://dbatools.io/
+__Downloads__: 1,805,101 | __Repository__: https://dbatools.io/
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
 
@@ -473,7 +537,7 @@ __Downloads__: 42 | __Repository__: https://github.com/nmbell/PSReadExif#readme
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 62,883 | __Repository__: 
+__Downloads__: 62,884 | __Repository__: 
 
 ## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.1.2) | 1.0.1.2
 
@@ -668,22 +732,6 @@ Continuous Integration/Continuous Delivery module.
 
 __Downloads__: 5,244 | __Repository__: https://github.com/webmd-health-services/Whiskey
 
-## [Prism](https://www.powershellgallery.com/Packages/Prism/0.5.2) | 0.5.2
-
-### Published: 08/04/2022 16:49:00 by WebMD Health Services
-
-Prism is a PowerShell module manager inspired by NuGet. Run `prism install` in a source code repository, and Prism will
-save private modules into a "PSModules" directory in that repository. Prism let's you:
-
-* Package and deploy modules side-by-side with the app or tool that uses them without needing to install
-modules globally ahead of time.
-* Not worry about what modules are or aren't installed. Scripts can import and use modules from the "PSModules"
-directory in the script's source code repository.
-* Avoid comitting modules to the source code repository. Team members and build processes run `prism install` to
-get modules installed.
-
-__Downloads__: 3,541 | __Repository__: https://github.com/webmd-health-services/Prism
-
 ## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.14) | 0.0.14
 
 ### Published: 08/04/2022 13:24:05 by Przemyslaw Klys
@@ -802,7 +850,7 @@ __Downloads__: 39,104 | __Repository__:
 
 MOC Module
 
-__Downloads__: 60,461 | __Repository__: 
+__Downloads__: 60,460 | __Repository__: 
 
 ## [SecretManagement.Keeper](https://www.powershellgallery.com/Packages/SecretManagement.Keeper/16.3.3) | 16.3.3
 
@@ -874,7 +922,7 @@ The 'Unified Labeling Support Tool' provides the functionality to reset all corr
 
 Before using the 'Unified Labeling Support Tool', please ensure to read its manual: https://aka.ms/UnifiedLabelingSupportTool
 
-__Downloads__: 1,525 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
+__Downloads__: 1,527 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
 
 ## [PowerAD](https://www.powershellgallery.com/Packages/PowerAD/1.0.1) | 1.0.1
 
@@ -914,7 +962,7 @@ __Downloads__: 7,284 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 788,658 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 788,660 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [DDO-PSTemplates](https://www.powershellgallery.com/Packages/DDO-PSTemplates/0.0.1) | 0.0.1
 
@@ -1892,14 +1940,6 @@ System Admin Plus Office365 Connect: https://techwizard.cloud/2020/07/20/powersh
 
 __Downloads__: 526 | __Repository__: 
 
-## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.2) | 1.4.2
-
-### Published: 08/02/2022 17:22:59 by Brian Dukes
-
-A set of functions for managing websites built on the DNN Platform.
-
-__Downloads__: 1,099 | __Repository__: https://github.com/bdukes/PowerShellModules
-
 ## [SslWebBinding](https://www.powershellgallery.com/Packages/SslWebBinding/1.3.0) | 1.3.0
 
 ### Published: 08/02/2022 17:22:41 by Brian Dukes
@@ -1914,7 +1954,7 @@ __Downloads__: 1,484 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,059,675 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,059,696 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [UtilityModule](https://www.powershellgallery.com/Packages/UtilityModule/1.0) | 1.0
 
@@ -1986,7 +2026,7 @@ __Downloads__: 46 | __Repository__:
 
 HP Client Management Script Library
 
-__Downloads__: 20,766,160 | __Repository__: 
+__Downloads__: 20,765,850 | __Repository__: 
 
 ## [AutoMatePS](https://www.powershellgallery.com/Packages/AutoMatePS/5.1.1) | 5.1.1
 
@@ -2036,44 +2076,4 @@ Powershell module SetUpBasic.Install. This module is under construction and just
 
 __Downloads__: 115 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
 
-## [PsSysPassAPI](https://www.powershellgallery.com/Packages/PsSysPassAPI/0.1.0) | 0.1.0
-
-### Published: 07/31/2022 23:48:50 by James Sudbury
-
-Powershell wrapper for the sysPass ReST API
-
-__Downloads__: 3 | __Repository__: https://github.com/Sudman1/PsSysPassAPI
-
-## [PSGPPreferences](https://www.powershellgallery.com/Packages/PSGPPreferences/0.3.3) | 0.3.3
-
-### Published: 07/31/2022 19:12:05 by Kirill Nikolaev
-
-A way to manage Group Policy Preferences through PowerShell
-
-__Downloads__: 284 | __Repository__: https://github.com/exchange12rocks/PSGPPreferences/
-
-## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.122) | 0.0.122
-
-### Published: 07/31/2022 17:02:13 by BitTitan
-
-Module for BitTitanPowerShell.
-
-__Downloads__: 8,016 | __Repository__: 
-
-## [PSConfigFile](https://www.powershellgallery.com/Packages/PSConfigFile/0.1.29) | 0.1.29
-
-### Published: 07/31/2022 16:43:29 by Pierre Smit
-
-Creates a Config file with Commands, Variables, PSDrives, Credentials, Aliases\Shortcuts and a Default Starting location. You can then execute this config file when your profile is loaded, or when a specific module is imported, or you can run it manually. This way you can quickly and easily switch between "environment setups" with these default values
-
-__Downloads__: 230 | __Repository__: https://github.com/smitpi/PSConfigFile
-
-## [PWSHModule](https://www.powershellgallery.com/Packages/PWSHModule/0.1.16) | 0.1.16
-
-### Published: 07/31/2022 16:42:42 by Pierre Smit
-
-Creates a GitHub Gist (Private or Public) list to install and maintain the installed PowerShell Modules on your systems, you can create more than one list and use it to custom install modules from different repositories or different versions.
-
-__Downloads__: 40 | __Repository__: https://github.com/smitpi/PWSHModule
-
-*Updated: Monday, 08 August 2022 17:52:50 UTC*
+*Updated: Tuesday, 09 August 2022 02:39:37 UTC*

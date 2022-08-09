@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 08 August 2022 17:53:01 UTC
+Updated: Tuesday, 09 August 2022 02:39:47 UTC
 
 ?:
 ??
@@ -365,7 +365,6 @@ archivial-backup
 archivial-cloud-backup
 archlinux
 arcus
-area
 argument
 argumentcompleter
 arguments
@@ -427,7 +426,6 @@ atlas
 atlassian
 atlassiancli
 atlassianps
-atmosphere
 atrium
 att&ck
 attestation
@@ -459,7 +457,6 @@ authorization
 authorizationheaders
 authorize.net
 authz
-autify
 auto_cd
 auto-completion
 autoattendant
@@ -678,8 +675,6 @@ binaryip
 bind
 binding
 bing
-bingmap
-bingmaps
 binomial
 bios
 bios_settings
@@ -716,6 +711,7 @@ blogs
 bls
 bluedolhin
 blueprint
+blueprints
 blueteam
 bluetraitio
 bmc
@@ -834,14 +830,11 @@ carousel
 cartoon
 case
 cassandra
-cat
-cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
-cats
 catty
 cavium
 cb
@@ -886,7 +879,6 @@ certera
 certes
 certificate
 certificateauthority
-certificatechain
 certificatemanager
 certificatepolicy
 certificates
@@ -1132,7 +1124,6 @@ commerce
 commfort
 commit
 common
-common-data-service
 commonareaphone
 commondataservice
 commonmark
@@ -1193,7 +1184,6 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
-connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1661,7 +1651,6 @@ distributedcache
 distributedfilesystem
 distribution
 distributiongroup
-distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
@@ -1803,6 +1792,7 @@ dtc
 dts
 dtsx
 dtx
+du
 duck
 dudckduckgo
 duf
@@ -1970,7 +1960,6 @@ esp32
 esp32s2
 espressif
 esri
-estimate
 esx
 esxi
 eternalblue
@@ -2089,6 +2078,7 @@ external
 externalip
 extract
 extractor
+extreme-networks
 eztheme
 f
 f#
@@ -2191,9 +2181,8 @@ financeoperations
 financial
 financialforce
 find
+find-file
 find-path
-findlocation
-findplace
 findproxyforurl
 firebird
 firefox
@@ -2347,11 +2336,8 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
-geo
 geocache
 geocaching
-geoencode
-geoencoding
 geolocation
 geosearching
 geotagging
@@ -2383,12 +2369,11 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
-get-samcmassignedsite
-get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
@@ -2424,8 +2409,6 @@ globalentry
 globbing
 glpi
 gmail
-gmap
-gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2442,8 +2425,6 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
-googlemap
-googlemaps
 gopher
 gopher+
 gopherplus
@@ -2758,12 +2739,22 @@ ilocmdlets
 im
 image
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
+imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imaging
 imap
@@ -2777,7 +2768,6 @@ import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
-import-sampackagedefinitionsms
 importexport
 importteams
 inactive
@@ -2931,6 +2921,7 @@ issues
 isvalidemail
 isvalidip
 item
+items
 iterate
 iteration
 itg
@@ -3095,7 +3086,6 @@ lastpass
 latency
 latestupdate
 latin
-latitude
 launcher
 layer
 layman
@@ -3193,7 +3183,6 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
-locale
 localgroup
 localization
 location
@@ -3261,7 +3250,6 @@ lol
 lolcat
 longfile
 longfiles
-longitude
 look
 lookup
 loopback
@@ -3340,12 +3328,10 @@ mangement
 manifest
 manual
 map
-mapapi
 mappeddrives
 mapper24
 mapping
 maps
-mapsapi
 mariadb
 mark
 markdig
@@ -3701,6 +3687,7 @@ netfirewallrule
 netherlands
 netmask
 nets
+netsapiens
 netscaler
 netscape
 netsec
@@ -3731,8 +3718,6 @@ new-dynamicparameter
 new-githubrelease
 new-pinneditem
 new-rdpsession
-new-samcmapplicationfrompackagedefinitionsms
-new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 newpassword
@@ -3793,6 +3778,7 @@ npslog
 npslogfile
 nrc
 nrql
+ns
 ns.nl
 nsg
 nslookup
@@ -3893,6 +3879,7 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
+ondemand
 one
 onedrive
 onedriveforbusiness
@@ -4016,6 +4003,7 @@ outertext
 outline
 outlook
 output
+output-to-image
 outsystems
 overbite
 ovf
@@ -4188,7 +4176,6 @@ pivottable
 pixoo
 pki
 pks
-place
 places
 plain
 plan
@@ -4253,7 +4240,6 @@ pos
 posershellise
 posh
 posh-acme
-posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -4424,7 +4410,6 @@ progressbar
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -4715,8 +4700,6 @@ rate
 rate-limit
 rate-limiting
 rates
-rating
-ratings
 ravendb
 razzle
 rbac
@@ -5056,10 +5039,7 @@ scb
 scc
 sccm
 sccm-hwi
-sccmam
-sccmapplication
 sccminstall
-sccmpackage
 sccmprereqs
 scep
 sch
@@ -5132,7 +5112,6 @@ search
 search-adminauditlog
 searchengine
 searching
-searchplace
 searchquery
 searchstring
 secaas
@@ -5327,6 +5306,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -5754,7 +5734,6 @@ systeminfo
 systeminformation
 systemlocale
 systems
-systemsplash
 systray
 t
 t-sql
@@ -5853,8 +5832,6 @@ test-dscconfiguration
 test-modulepath
 test-osplatform
 test-psremoting
-test-samcmapplicationexists
-test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -5870,6 +5847,7 @@ testtag2
 testtool
 testusers
 text
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -6002,7 +5980,6 @@ triodos
 tripunkt
 troubleshoot
 troubleshooting
-trouw
 truecrypt
 truenas
 truportal
@@ -6276,6 +6253,7 @@ ve7cc
 vector
 veeam
 veeampn
+veeva
 venafi
 vendor
 venue
@@ -6369,6 +6347,7 @@ voidtools
 volkskrant
 volume
 volumeshadowcopy
+volumio
 vorbis
 vovin
 vpasmodule
@@ -6591,7 +6570,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
@@ -6689,11 +6667,8 @@ x.509
 x1
 x2
 x509
-x509cerificate
-x509cerificate2
 x509certificate
 x509certificates
-x509chain
 x64
 x86
 xa
@@ -6717,6 +6692,7 @@ xi
 xiaomi
 xkcd
 xliff
+xmc
 xml
 xml-rpc
 xml-transform
