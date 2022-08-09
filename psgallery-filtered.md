@@ -5,6 +5,160 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.53.0) | 0.53.0
+
+### Published: 08/09/2022 17:14:37 by WebMD Health Services
+
+Continuous Integration/Continuous Delivery module.
+
+__Downloads__: 5,269 | __Repository__: https://github.com/webmd-health-services/Whiskey
+
+## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.3.2) | 1.3.2
+
+### Published: 08/09/2022 16:43:37 by Federico @last0x00 Lagrasta
+
+This module tries to enumerate all the persistence methods implanted on a compromised machine. New techniques may take some time before they are implemented in this script, so don't assume that because the script didn't find anything the machine is clean.
+
+__Downloads__: 70 | __Repository__: https://github.com/last-byte/PersistenceSniper
+
+## [JitBitPS](https://www.powershellgallery.com/Packages/JitBitPS/0.0.15) | 0.0.15
+
+### Published: 08/09/2022 15:53:29 by Jeremy Gruttner
+
+PowerShell module to query the JitBit helpdesk api
+
+__Downloads__: 46 | __Repository__: https://github.com/jgrutz/JitBitPS
+
+## [SRXEnv](https://www.powershellgallery.com/Packages/SRXEnv/1.0.5) | 1.0.5
+
+### Published: 08/09/2022 15:02:25 by ScriptRunner
+
+Provides the ScriptRunner PowerShell Host Environment Variable $SRXEnv for test
+and development purposes.
+
+The SRXEnv hashtable provides the following keys:
+
+[string] ReportEmail: (3.10.4133.0)
+If you have an SMTP server available, the ScriptRunner service can send you email
+notifications containing execution reports, on error or on success.
+Recipient email address (comma separated list). The full action report will be sent to this address.
+
+[string] ResultEmail: (3.10.4133.0)
+Recipient email addresses (comma separated list). Only the ResultMessage will be sent to this address.
+
+[string] ResultHtml: (5.2.6155.0)
+The ScriptRunner PowerShell host supports HTML results through the $SRXEnv.ResultHtml variable.
+The HTML web page can then be easily retrieved from the ScriptRunner Portal, Apps and WebApps.
+For example, you can use the ConvertTo-Html cmdlet to assign HTML to the ResultHTML variable.
+There are new sample scripts in the Expl/Common folder of the ScriptRunner ScriptRepository that
+show how to create the HTML in your scripts.
+
+[ArrayList] ResultList: (4.0.4511.0)
+A scripted query must specify this list of string values. The list is associated with
+the corresponding action parameter.
+
+[ArrayList] ResultList2: (4.0.4511.0)
+A scripted query can specify this optional list of display names. The list appears as
+drop-down list for the associated action parameter.
+
+[string] ResultMessage: (3.00.3670.0)
+This message will show in the reports, and in the immediate result window of the Portal, Delegate and
+Self-Service App.
+
+[string] ResultObjectJSON: (4.1.4738.0)
+The script can now provide (simple) structured result data by writing a (small) JSON string to $SRXEnv.ResultObjectJSON.
+ScriptRunner will provide this JSON string in the OutSerializedPSObjects report field,
+for post-processing by the caller of the Web Service Connector.
+
+[string] SRXActionID: (6.2.577.0)
+The ID of the started Action. (read-only)
+
+[string] SRXCommandPath: (6.2.642.0)
+Full filepath of the executed script file used by the started Action (similar
+to the PowerShell $PSCommandPath auto-variable). (read-only)
+
+[string] SRXDisplayName: (4.1.4738.0)
+The name of the current action. (read-only)
+
+[string] SRXFilterValue: (6.2.577.0)
+In case of query execution, this key contains the current filter value
+from the search filter form in the UI. (read-only)
+
+[DateTime] SRXStarted: (4.1.4738.0)
+The timestamp of the start of the script execution. (read-only)
+
+[string] SRXStartedBy: (4.1.4738.0)
+The user account that requested the execution of the script. (read-only)
+
+[string] SRXStartedIP: (4.1.4738.0)
+IP address of the client that sent the request to perform the script execution. (read-only)
+
+[string] SRXStartedReason: (4.1.4738.0)
+A reason message written by the user who started the Action. (read-only)
+
+[string] SRXStartedVia: (4.1.4738.0)
+The name of the application that started the execution of the script. (read-only)
+
+The Cmdlet Reset-SRXEnvironment is used to reset the SRXEnv variable. (This Cmdlet is not available in the ScriptRunner PowerShell Host.)
+
+__Downloads__: 558 | __Repository__: https://support.scriptrunner.com/articles/coding/srxenv-module
+
+## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2022.8.0) | 2022.8.0
+
+### Published: 08/09/2022 14:54:56 by Ironman Software LLC
+
+PowerShell script packaging, console-based editor, profiling, installer creation, WPF, TUI and Windows Forms design, and desktop automation.
+
+__Downloads__: 18,853 | __Repository__: 
+
+## [specialK](https://www.powershellgallery.com/Packages/specialK/0.1.0) | 0.1.0
+
+### Published: 08/09/2022 14:47:58 by ThePoShWolf
+
+Converts kubectl output to PowerShell objects.
+
+__Downloads__: 0 | __Repository__: 
+
+## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.2.0) | 4.2.0
+
+### Published: 08/09/2022 14:47:24 by Ironman Software
+
+Universal Dashbord v3 framework for Powershell Universal
+
+__Downloads__: 83,861 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.0) | 3.2.0
+
+### Published: 08/09/2022 14:46:59 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 26,622 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/0.2.6) | 0.2.6
+
+### Published: 08/09/2022 13:49:05 by Endjineers
+
+Provides automated build features using on the InvokeBuild module
+
+__Downloads__: 1,949 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
+
+## [AutopilotQuick](https://www.powershellgallery.com/Packages/AutopilotQuick/1.3) | 1.3
+
+### Published: 08/09/2022 12:36:08 by AMoore
+
+Makes new AutopilotQuick USB drives
+
+__Downloads__: 9 | __Repository__: 
+
+## [DscResource.DocGenerator](https://www.powershellgallery.com/Packages/DscResource.DocGenerator/0.11.1) | 0.11.1
+
+### Published: 08/09/2022 12:28:14 by DSC Community
+
+Functionality to help generate documentation for modules.
+
+__Downloads__: 10,914 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
+
 ## [PwshComplete](https://www.powershellgallery.com/Packages/PwshComplete/0.0.3) | 0.0.3
 
 ### Published: 08/09/2022 06:34:18 by artiga033
@@ -38,7 +192,7 @@ __Downloads__: 118 | __Repository__: https://www.powershellgallery.com/packages/
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 11,414 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 11,410 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [Irregular](https://www.powershellgallery.com/Packages/Irregular/0.6.8) | 0.6.8
 
@@ -103,14 +257,6 @@ directory in the script's source code repository.
 get modules installed.
 
 __Downloads__: 3,627 | __Repository__: https://github.com/webmd-health-services/Prism
-
-## [AutopilotQuick](https://www.powershellgallery.com/Packages/AutopilotQuick/1.2) | 1.2
-
-### Published: 08/08/2022 19:18:34 by AMoore
-
-Makes new AutopilotQuick USB drives
-
-__Downloads__: 9 | __Repository__: 
 
 ## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.5.0) | 1.5.0
 
@@ -256,14 +402,6 @@ Functionality to configure and manage Cloud Assert Hybr Usage, Billing and Cost 
 
 __Downloads__: 164 | __Repository__: 
 
-## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.3.1) | 1.3.1
-
-### Published: 08/08/2022 13:13:11 by Federico @last0x00 Lagrasta
-
-This module tries to enumerate all the persistence methods implanted on a compromised machine. New techniques may take some time before they are implemented in this script, so don't assume that because the script didn't find anything the machine is clean.
-
-__Downloads__: 70 | __Repository__: 
-
 ## [PSSecretScanner](https://www.powershellgallery.com/Packages/PSSecretScanner/1.0.9) | 1.0.9
 
 ### Published: 08/08/2022 12:36:20 by Björn Sundling
@@ -348,7 +486,7 @@ __Downloads__: 53 | __Repository__: https://github.com/StartAutomating/PipeScrip
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 464,315 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 464,314 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [FindFunctionCalls](https://www.powershellgallery.com/Packages/FindFunctionCalls/1.4.5) | 1.4.5
 
@@ -372,7 +510,7 @@ __Downloads__: 118,420 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 Module with DSC Resources for Remote Desktop Session Host
 
-__Downloads__: 411,644 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
+__Downloads__: 411,643 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
 
 ## [PsSqlTestServer](https://www.powershellgallery.com/Packages/PsSqlTestServer/1.3.0) | 1.3.0
 
@@ -412,7 +550,7 @@ __Downloads__: 189 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 648,891 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 648,865 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.0) | 1.0.0
 
@@ -428,7 +566,7 @@ __Downloads__: 5 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 752,014 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 751,995 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -476,7 +614,7 @@ __Downloads__: 29 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,808,285 | __Repository__: https://dbatools.io/
+__Downloads__: 1,808,251 | __Repository__: https://dbatools.io/
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
 
@@ -743,14 +881,6 @@ Various helper functions for modules IntuneStuff, AzureADStuff etc. Some of them
 
 __Downloads__: 204 | __Repository__: https://doitpsway.com/
 
-## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.52.2) | 0.52.2
-
-### Published: 08/04/2022 19:46:58 by WebMD Health Services
-
-Continuous Integration/Continuous Delivery module.
-
-__Downloads__: 5,269 | __Repository__: https://github.com/webmd-health-services/Whiskey
-
 ## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.14) | 0.0.14
 
 ### Published: 08/04/2022 13:24:05 by Przemyslaw Klys
@@ -846,14 +976,6 @@ __Downloads__: 288 | __Repository__:
 Comic book conversion cmdlets. Allows you to convert a comic pdf to cbz. Allows converting from cbr to pdf, as well as converting an array of images to CBR comic. Finally this also allows you to extract images from cbr comics to a folder
 
 __Downloads__: 12 | __Repository__: https://github.com/psDevUK/ComicConverter
-
-## [JitBitPS](https://www.powershellgallery.com/Packages/JitBitPS/0.0.14) | 0.0.14
-
-### Published: 08/03/2022 21:57:47 by Jeremy Gruttner
-
-PowerShell module to query the JitBit helpdesk api
-
-__Downloads__: 46 | __Repository__: https://github.com/jgrutz/JitBitPS
 
 ## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.38) | 1.1.38
 
@@ -981,7 +1103,7 @@ __Downloads__: 7,285 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 788,963 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 788,962 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [DDO-PSTemplates](https://www.powershellgallery.com/Packages/DDO-PSTemplates/0.0.1) | 0.0.1
 
@@ -1012,7 +1134,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 480,056 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 480,046 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/37.1.0) | 37.1.0
 
@@ -1973,7 +2095,7 @@ __Downloads__: 1,485 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,063,752 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,063,720 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [UtilityModule](https://www.powershellgallery.com/Packages/UtilityModule/1.0) | 1.0
 
@@ -2023,60 +2145,4 @@ A set of PowerShell commands for working with SQLite database files. This is a s
 
 __Downloads__: 110 | __Repository__: https://github.com/jdhitsolutions/MySQLite
 
-## [Duo](https://www.powershellgallery.com/Packages/Duo/1.1) | 1.1
-
-### Published: 08/01/2022 19:03:29 by Matt Egan
-
-This module contains powershell wrappers to leverage the Duo Admin API functions described here https://duo.com/support/documentation/adminapi
-
-__Downloads__: 5 | __Repository__: 
-
-## [ccicodefetcherDEV](https://www.powershellgallery.com/Packages/ccicodefetcherDEV/0.3.62) | 0.3.62
-
-### Published: 08/01/2022 17:21:07 by clemenscomer
-
-Modules to download CCI PowerShell module from internal galleries.
-
-__Downloads__: 52 | __Repository__: 
-
-## [HPCMSL](https://www.powershellgallery.com/Packages/HPCMSL/1.6.7) | 1.6.7
-
-### Published: 08/01/2022 17:15:56 by HP Development Company L.P.
-
-HP Client Management Script Library
-
-__Downloads__: 20,792,179 | __Repository__: 
-
-## [AutoMatePS](https://www.powershellgallery.com/Packages/AutoMatePS/5.1.1) | 5.1.1
-
-### Published: 08/01/2022 12:54:55 by AutomatePS
-
-AutomatePS provides PowerShell integration with HelpSystems Automate Enterprise
-
-__Downloads__: 1,442 | __Repository__: https://github.com/AutomatePS/AutomatePS
-
-## [Resource.Manifest](https://www.powershellgallery.com/Packages/Resource.Manifest/2.1.22213.25488) | 2.1.22213.25488
-
-### Published: 08/01/2022 09:56:33 by François Chabot
-
-Commands to define and process resource manifests that can later be used to drive operations, in a declarative way, according to the nature of the resources to operate upon.
-
-__Downloads__: 660 | __Repository__: https://github.com/icraftsoftware/Be.Stateless.PowerShell.Module.Resource.Manifest
-
-## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.11.0) | 0.11.0
-
-### Published: 08/01/2022 07:55:53 by DSC Community
-
-Common functions used in DSC Resources
-
-__Downloads__: 10,726 | __Repository__: https://github.com/dsccommunity/DscResource.Common
-
-## [SetUpBasic.Update](https://www.powershellgallery.com/Packages/SetUpBasic.Update/0.0.0.17) | 0.0.0.17
-
-### Published: 08/01/2022 05:22:02 by Naitwatch
-
-Powershell module SetUpBasic.Update. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 152 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Update
-
-*Updated: Tuesday, 09 August 2022 09:52:43 UTC*
+*Updated: Tuesday, 09 August 2022 17:52:33 UTC*

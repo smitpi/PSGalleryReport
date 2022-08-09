@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 09 August 2022 09:52:54 UTC
+Updated: Tuesday, 09 August 2022 17:52:42 UTC
 
 ?:
 ??
@@ -714,6 +714,7 @@ blocks
 blog
 blogs
 bls
+blue
 bluedolhin
 blueprint
 blueprints
@@ -2798,6 +2799,7 @@ importexport
 importteams
 inactive
 inboxrule
+incident
 incident-response
 incidentresponse
 incontact
@@ -4160,6 +4162,7 @@ performancemonitoring
 permission
 permissions
 permutations
+persistence
 persistent
 personal
 personalisation
@@ -4651,6 +4654,7 @@ puppy
 pure
 pure1
 purestorage
+purple
 purview
 push
 push-location
@@ -4784,6 +4788,7 @@ recurse
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
+red
 redact
 redaction
 reddit
