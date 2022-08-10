@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 10 August 2022 09:52:49 UTC
+Updated: Wednesday, 10 August 2022 17:53:02 UTC
 
 ?:
 ??
@@ -151,6 +151,7 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
+adgroupmemberobjects
 adgroups
 adif
 adm
@@ -333,7 +334,6 @@ applicationinsights
 applicationmigration
 applicationmonitor
 applications
-applocker
 appmgmtcontrol
 apppool
 appraiser
@@ -1322,7 +1322,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-crestron
 crlf
 crm
 crm2016
@@ -1692,7 +1691,6 @@ dns-resolver
 dnsbl
 dnsdumpster
 dnsentry
-dnsimple
 dnsmadeeasy
 dnsrecord
 dnsresolver
@@ -1760,7 +1758,6 @@ dreary
 drift
 driftmonitor
 drive
-drive letter
 driver
 driverpacks
 drivers
@@ -2222,7 +2219,6 @@ flasharray
 flashblade
 flatfile
 flatten
-flex
 flex-query
 flexdesk
 flickr
@@ -2352,8 +2348,6 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
-geocache
-geocaching
 geoencode
 geoencoding
 geolocation
@@ -2490,7 +2484,6 @@ greynoise
 grid
 gridfs
 grok
-groundspeak
 group
 group-policy
 groupmembership
@@ -3071,6 +3064,7 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
+kubespray
 kudu
 kurukuru
 kusto
@@ -3855,6 +3849,7 @@ obj
 object
 objectid
 objectstorage
+objecttree
 obs
 observeit
 oce
@@ -4019,7 +4014,6 @@ osr
 oss
 ossec
 osubbillingschedule
-osuborganizationsubscription
 osubsubscription
 osubusage
 osx
@@ -4341,6 +4335,7 @@ powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
+powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -4775,7 +4770,6 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
-record
 recording
 recovery
 recoveryservices
@@ -5125,7 +5119,6 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
-screensaver
 screenshot
 script
 script_version
@@ -5534,6 +5527,7 @@ sports-tracker
 spotify
 spotify-api
 spotlight
+spotlightimages
 spp
 spread
 spreadsheet
@@ -5668,7 +5662,6 @@ string-template
 stringmanager
 stringmanagertool
 strings
-stringutilities
 strip-ansi
 stripe
 strongname
@@ -6106,11 +6099,13 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
+ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6348,6 +6343,8 @@ virtualnetworking
 virtualportgroup
 virtualrtu
 virtualterminal
+virus
+virustotal
 visio
 visual
 visual-studio
@@ -6360,6 +6357,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsm
 vm
 vmc
 vmfs
@@ -6552,7 +6550,6 @@ winbuilder
 window
 windows
 windows  server
-windows explorer
 windows_events
 windows-10
 windows-api
