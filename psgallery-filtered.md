@@ -5,13 +5,37 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.10.1) | 22.8.10.1
+
+### Published: 08/10/2022 08:16:03 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 271,843 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Nevergreen](https://www.powershellgallery.com/Packages/Nevergreen/2208.1) | 2208.1
+
+### Published: 08/10/2022 08:03:43 by Dan Gough
+
+This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
+
+__Downloads__: 9,176 | __Repository__: https://github.com/DanGough/Nevergreen
+
+## [SnipeitPS](https://www.powershellgallery.com/Packages/SnipeitPS/1.10.225) | 1.10.225
+
+### Published: 08/10/2022 06:17:07 by Stephen Maunder
+
+Powershell API for Snipeit Asset Management
+
+__Downloads__: 1,589,032 | __Repository__: 
+
 ## [OpenApi.Pwsh](https://www.powershellgallery.com/Packages/OpenApi.Pwsh/0.1.0) | 0.1.0
 
 ### Published: 08/10/2022 01:48:47 by Masatoshi Higuchi
 
 Import, edit, and invoke OpenAPI documents.
 
-__Downloads__: 0 | __Repository__: https://github.com/matt9ucci/OpenApi.Pwsh
+__Downloads__: 1 | __Repository__: https://github.com/matt9ucci/OpenApi.Pwsh
 
 ## [OriAzBopBoostrapOriPsgallery](https://www.powershellgallery.com/Packages/OriAzBopBoostrapOriPsgallery/1.0.118) | 1.0.118
 
@@ -110,14 +134,6 @@ __Downloads__: 0 | __Repository__: https://github.com/nixuno/VagrantPredictor
 A PowerShell module to display a linux like calendar in the console.
 
 __Downloads__: 66 | __Repository__: https://github.com/digitalguy99/PSCal
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.9.1) | 22.8.9.1
-
-### Published: 08/09/2022 19:18:49 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 271,843 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [syntax-highlighting](https://www.powershellgallery.com/Packages/syntax-highlighting/1.1.7) | 1.1.7
 
@@ -1259,7 +1275,7 @@ __Downloads__: 118 | __Repository__: https://www.powershellgallery.com/packages/
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 11,410 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 11,412 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [Irregular](https://www.powershellgallery.com/Packages/Irregular/0.6.8) | 0.6.8
 
@@ -1537,7 +1553,7 @@ __Downloads__: 53 | __Repository__: https://github.com/StartAutomating/PipeScrip
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 464,315 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 464,314 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [FindFunctionCalls](https://www.powershellgallery.com/Packages/FindFunctionCalls/1.4.5) | 1.4.5
 
@@ -1601,7 +1617,7 @@ __Downloads__: 189 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 648,899 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 648,891 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.0) | 1.0.0
 
@@ -1617,7 +1633,7 @@ __Downloads__: 5 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 752,039 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 752,014 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -1665,7 +1681,7 @@ __Downloads__: 29 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,808,251 | __Repository__: https://dbatools.io/
+__Downloads__: 1,808,258 | __Repository__: https://dbatools.io/
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
 
@@ -1904,18 +1920,6 @@ Some of the interesting functions:
 
 __Downloads__: 46 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
 
-## [O365Stuff](https://www.powershellgallery.com/Packages/O365Stuff/1.0.1) | 1.0.1
-
-### Published: 08/04/2022 20:46:57 by @AndrewZtrhgf
-
-Various Azure related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the interesting functions:
-Remove-O365OrphanedMailbox - fixes problem of the orphaned mailboxes
-- ...
-
-__Downloads__: 14 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
-
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.3) | 1.0.3
 
 ### Published: 08/04/2022 20:40:49 by @AndrewZtrhgf
@@ -2034,7 +2038,7 @@ __Downloads__: 12 | __Repository__: https://github.com/psDevUK/ComicConverter
 
 AKS HCI Module
 
-__Downloads__: 39,204 | __Repository__: 
+__Downloads__: 39,206 | __Repository__: 
 
 ## [Moc](https://www.powershellgallery.com/Packages/Moc/1.0.30) | 1.0.30
 
@@ -2132,12 +2136,4 @@ Powershell Module for confguration of JetStream Software on AVS
 
 __Downloads__: 1,722 | __Repository__: https://www.jetstreamsoft.com/about/support/
 
-## [HPEOneView.660](https://www.powershellgallery.com/Packages/HPEOneView.660/6.60.3227.2799) | 6.60.3227.2799
-
-### Published: 08/03/2022 03:25:23 by Hewlett-Packard Enterprise
-
-HPE OneView PowerShell Library
-
-__Downloads__: 99 | __Repository__: http://hewlettpackard.github.io/POSH-HPEOneView
-
-*Updated: Wednesday, 10 August 2022 02:26:52 UTC*
+*Updated: Wednesday, 10 August 2022 09:52:39 UTC*

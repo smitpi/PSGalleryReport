@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 10 August 2022 02:27:02 UTC
+Updated: Wednesday, 10 August 2022 09:52:49 UTC
 
 ?:
 ??
@@ -151,7 +151,6 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
-adgroupmemberobjects
 adgroups
 adif
 adm
@@ -659,6 +658,8 @@ ber
 bestpractice
 bestpractices
 bi
+bibliography
+bibtex
 bicep
 bicepnet
 big-ip
@@ -834,11 +835,14 @@ carousel
 cartoon
 case
 cassandra
+cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
+cats
 catty
 cavium
 cb
@@ -901,6 +905,7 @@ channel9
 char
 character
 chart
+charting
 charts
 chat
 chatbot
@@ -1828,6 +1833,7 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
+dynamicsnav
 dynamodb
 dynatrace
 dyndns
@@ -2647,6 +2653,8 @@ hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
+hpemigrationadvisorycmdlets
+hpemigrationadvisorytool
 hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
@@ -3063,7 +3071,6 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
-kubespray
 kudu
 kurukuru
 kusto
@@ -3186,6 +3193,7 @@ list-item
 listener
 litecoin
 litedb
+literature
 live
 lldp
 lmhost
@@ -3847,7 +3855,6 @@ obj
 object
 objectid
 objectstorage
-objecttree
 obs
 observeit
 oce
@@ -4071,6 +4078,7 @@ panther
 panzerbjrn
 pap
 paper
+papis
 paradox
 parallel
 parameter
@@ -4119,6 +4127,7 @@ patch
 patches
 patching
 path
+pathfinder
 patternmatching
 pause
 pax8
@@ -4265,6 +4274,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -4427,6 +4437,7 @@ profile
 profiler
 profiles
 proget
+program
 program-association
 programs
 progress
@@ -4539,6 +4550,7 @@ psgallery
 psget
 psgitlab
 psgraph
+psgraylog
 pshot
 pshtml
 psincludes_cmdlet
@@ -5345,6 +5357,7 @@ signed
 signing
 signtool
 silk
+sim
 simple
 simplecontainers
 simplepassword
@@ -5521,7 +5534,6 @@ sports-tracker
 spotify
 spotify-api
 spotlight
-spotlightimages
 spp
 spread
 spreadsheet
@@ -6011,6 +6023,7 @@ trevorsullivan
 triangle
 trigger
 triodos
+tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -6093,13 +6106,11 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
-ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6150,6 +6161,7 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
+uninstaller
 union
 unique
 unique-files
@@ -6661,6 +6673,7 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
+wrike
 write
 write-ascii
 write-color
@@ -6713,6 +6726,7 @@ xbox
 xclarity
 xdr
 xdschelper
+xdscresources
 xdt
 xel
 xenapp
