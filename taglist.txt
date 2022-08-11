@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 11 August 2022 09:52:31 UTC
+Updated: Thursday, 11 August 2022 17:52:43 UTC
 
 ?:
 ??
@@ -220,7 +220,6 @@ aircall
 airtable
 aispeech
 aivision
-ajustee
 aks
 alac
 alarm
@@ -392,7 +391,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asdatabase
 asigra
 asm
 asn
@@ -543,7 +541,6 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
-azure-ssis
 azureactivedirectory
 azuread
 azureadconnect
@@ -623,6 +620,7 @@ base16
 base26
 base32
 base64
+base64string
 base64url
 base85
 basecamp
@@ -671,7 +669,6 @@ bigquery
 bikeshed
 billing
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -894,7 +891,6 @@ certificates
 certificateservices
 certificatesmanagement
 certutil
-cf
 cfn
 ch9
 change
@@ -970,7 +966,6 @@ cisco
 ciscoucscmdlets
 ciscoucsdsc
 citrix
-civo
 cix
 class
 classes
@@ -1121,7 +1116,6 @@ comical
 comics
 command
 command_line
-command-validation
 commandcoverage
 commandlets
 commandline
@@ -1175,13 +1169,11 @@ config
 configapi
 configascode
 configdata
-configkey
 configmgr
 configmgrcbdsc
 configuration
 configurationapi
 configurationdata
-configurationkey
 configurationmanagement
 configurationmanager
 configure
@@ -1323,7 +1315,6 @@ credmanager
 crescendo
 crescendobuilt
 crestron
-crlf
 crm
 crm2016
 cron
@@ -1341,7 +1332,6 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
-csc
 csharp
 csharp-watch
 csom
@@ -1361,7 +1351,6 @@ cubes
 culture
 cumulative
 cumulativeupdate
-cumulocity
 curl
 curlie
 currency
@@ -1391,7 +1380,6 @@ cve-2021-34527
 cvrf
 cvss
 cwi
-cx
 cyberark
 cyberdrain
 cybereason
@@ -1415,6 +1403,7 @@ dacl
 dacpac
 dacpackage
 dangling
+dapr
 dark
 dash
 dashboard
@@ -1487,6 +1476,7 @@ db
 db2
 dba
 dbaas
+dbase
 dbcommand
 dbfs
 dbnull
@@ -1499,7 +1489,6 @@ dcim_b324
 deathface
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1507,6 +1496,7 @@ decimalip
 declarative
 decline
 decode
+decode64
 decoding
 decompiler
 decrypt
@@ -1522,6 +1512,8 @@ defaultroutes
 defaults
 defence
 defender
+defender-atp
+defender-for-endpoint
 defenderast
 defenderforendpoint
 defense
@@ -1556,7 +1548,6 @@ desiredstate
 desiredstateconfiguration
 desk
 desktop
-desktopcentral
 desktopvirtualization
 details
 detect
@@ -1671,7 +1662,6 @@ dl
 dll
 dlmautomation
 dlmigration
-dlp
 dmarc
 dmgr
 dmi
@@ -1879,6 +1869,7 @@ emacs
 email
 email-address
 emailaddressupdate
+emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -1896,10 +1887,11 @@ enable-psremotingremote
 enbrea
 enclosure
 encode
+encode64
+encodetext
 encoding
 encrypt
 encryption
-end-of-line
 endomondo
 endpoint
 endpoints
@@ -1908,8 +1900,6 @@ engine
 engineevent
 english
 enhancement
-enrichers
-enrichment
 enteo
 enter
 enterprise
@@ -1971,7 +1961,6 @@ eternalblue
 ether
 ethereum
 ethr
-ethz
 etl
 etl2pcapng
 etrade
@@ -2043,6 +2032,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exo
 exov2
@@ -2128,23 +2118,15 @@ fieldglass
 fifa
 figlet
 file
-file-association
 file-encoding
-file-extension
-file-extension-association
 file-invalidchar
 file-matcher
 file-matching
 file-monitoring
-file-name
-file-name-extension
-file-name-extension-association
 file-server
 file-share
 file-system
 file-transform
-file-type
-file-type-association
 fileencryption
 filelist
 filelog
@@ -2215,6 +2197,7 @@ flatfile
 flatten
 flex
 flex-query
+flexdesk
 flickr
 flowchart
 flowy
@@ -2254,7 +2237,6 @@ fortigate
 fortigi
 fortimanager
 fortinet
-fortinetmanager
 fortios
 fortune
 forum
@@ -2262,6 +2244,7 @@ forwardcompatibility
 forwardedevents
 foudil
 fox
+foxpro
 fqdn
 framework
 france
@@ -2364,7 +2347,6 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -2387,6 +2369,8 @@ getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
 ggplot
+gh-actions
+ghactions
 ghc
 ghibli
 ghost
@@ -2412,7 +2396,6 @@ gitops
 glob
 globalclipboard
 globaldashboard
-globalentry
 globbing
 glpi
 gmail
@@ -2444,7 +2427,6 @@ governance
 governancerulescontrolplane
 gp
 gpedit
-gpg
 gping
 gpio
 gplink
@@ -2476,6 +2458,7 @@ grep
 greynoise
 grid
 gridfs
+grok
 groundspeak
 group
 group-policy
@@ -2543,7 +2526,6 @@ haste
 hastebin
 haveibeenpwned
 hba
-hbase
 hci
 hcl
 hcx
@@ -2576,6 +2558,7 @@ helper
 helperfunctions
 helpers
 helpfile
+heml
 here
 hewlett
 hewlett-packard
@@ -2612,7 +2595,6 @@ hol
 holiday
 home_automation
 homebrew
-homelandsecurity
 homeschooling
 hon
 horizontal
@@ -2682,7 +2664,6 @@ hyperlink
 hyperthreading
 hyperv
 hypervisor
-hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -2740,7 +2721,6 @@ iis
 iis10
 iis8
 iisadministration
-ikev2
 il
 illinois
 ilo
@@ -2863,7 +2843,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneappwinutil
 inventory
 investigation
 investment
@@ -2889,7 +2868,6 @@ ios
 iot
 iotcentral
 iothub
-iothubproperties
 ip
 ip-address
 ipa
@@ -2927,7 +2905,6 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
-ispac
 isprime
 issues
 isvalidemail
@@ -2957,7 +2934,6 @@ javascript
 javaversion
 jboss
 jdbc
-jdedwards
 jdt
 jea
 jenkins
@@ -3006,7 +2982,6 @@ jwttoken
 k8s
 kafka
 kaminario
-karma
 kaseya
 kaseyavsa
 katakana
@@ -3050,6 +3025,7 @@ korn
 kql
 krbtgt
 krick
+kubclt
 kubectl
 kubectx
 kubens
@@ -3062,7 +3038,6 @@ kusto
 kvm
 kvp
 l1tf
-l2tp
 lab
 labautomation
 labdefinition
@@ -3132,7 +3107,6 @@ length
 lenovo
 lesspass
 letsencrypt
-lf
 lgpo
 libgit2
 libraries
@@ -3142,9 +3116,7 @@ licence
 license
 license-generator
 licenseautomation
-licensemanager
 licensereport
-licenses
 licensing
 light
 lights
@@ -3158,7 +3130,6 @@ line-endings
 linear
 linearalgebra
 link
-linkedin
 linkedinads
 linkid
 linq
@@ -3301,7 +3272,6 @@ magazine
 magento
 magic8ball
 magicpacket
-magnet
 mail
 mailbox
 mailchimp
@@ -3362,16 +3332,12 @@ marklogic
 marvel
 marvell
 marvell_semiconductor_inc
-marvellfcpowerkit
-marvellfcprovider
-marvellqlogicfcpowerkit
 mask
 mass
 masstransit
 masterconfiguration
 matcharray
 matchhashtable
-materialdesign
 materialui
 math
 mathematics
@@ -3389,7 +3355,6 @@ mbs
 mc
 mcafee
 mcas
-mchapv2
 md5
 md5_v2-b1440777848a2f2fe00941329204a5f1
 md5sum
@@ -3454,6 +3419,7 @@ mi
 micro-orm
 microfocus
 microk8s
+microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -3499,7 +3465,6 @@ migrations
 milestone
 milestonepstools
 mim
-mimekit
 min
 mindmeister
 minecraft
@@ -3509,7 +3474,6 @@ minimum
 mip
 mipsdk
 miration-step
-mirror
 miscellaneous
 mitigation
 mitre
@@ -3564,8 +3528,6 @@ mp4
 mpc
 mpeg
 mpn
-mrvl_fc_powerkit
-mrvlfcprovider
 ms_365
 ms-graph
 ms365
@@ -3728,6 +3690,8 @@ new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
+new-dynamicdictionary
+new-dynamicparameter
 new-githubrelease
 new-pinneditem
 new-rdpsession
@@ -3805,7 +3769,6 @@ ntfs
 ntp
 ntsystems
 nuget
-nuget-references
 nuget.exe
 nuget.org
 null-coalescing
@@ -3843,7 +3806,6 @@ observeit
 oce
 oci
 ocr
-octoprint
 octopus
 octopus-deploy
 octopus.client
@@ -3856,6 +3818,7 @@ odata
 odbc
 odfb
 odin
+odoo
 offboarding
 offence
 office
@@ -3885,7 +3848,6 @@ ome
 omnisphere
 omnistack
 oms
-omsagent
 on
 on-demand
 on-premise
@@ -3904,7 +3866,6 @@ oneloginapi
 onenote
 onestools
 onesubscription
-onetimesecret
 oneviewglobaldashboard
 online
 online-backup
@@ -3939,19 +3900,17 @@ openidconnect
 openinghours
 openport
 openscad
-opensearch
 opensourceinitiative
 openssh
 openssl
 openstack
 openvpn
 operating
+operating_system
 operating-system
 operation
 operationalinsights
 operations
-operationsmanagementsuite
-operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
@@ -3966,7 +3925,6 @@ option
 opus
 oracle
 oraclecloudinfrastructure
-orbital
 orchestration
 orchestrator
 order
@@ -4002,7 +3960,6 @@ ossec
 osubbillingschedule
 osuborganizationsubscription
 osubsubscription
-osubusage
 osx
 otp
 ou
@@ -4057,7 +4014,6 @@ panels
 pansies
 panther
 panzerbjrn
-pap
 paper
 papis
 paradox
@@ -4142,7 +4098,6 @@ permissions
 permutations
 persistence
 persistent
-personal
 personalisation
 personalization
 personalvault
@@ -4151,7 +4106,6 @@ pf
 pfe
 pfsense
 pfx
-pgp
 phabricator
 philips
 philosophical
@@ -4225,6 +4179,7 @@ point-to-site
 pokeapi
 pokedex
 pokemon
+poker
 policies
 policy
 policyevent
@@ -4354,7 +4309,6 @@ ppk
 pposh
 pps
 ppt
-pptp
 pptx
 pranks
 predicate
@@ -4419,7 +4373,6 @@ profiler
 profiles
 proget
 program
-program-association
 programs
 progress
 progressbar
@@ -4622,9 +4575,7 @@ publishing
 pubsub
 pubxml
 pulldistributionpoint
-pullrequest
 pullserver
-pulseway
 pulumi
 puppet
 puppetdb
@@ -4652,13 +4603,11 @@ pwsh.fw
 pwshake
 pwshfw
 pxedistributionpoint
-pyranja
 python
 python-for-dotnet
 qcloud
 qconvergeconsolepowerkit
 qemu
-qlgc_fc_powerkit
 qlik
 qlik-api
 qlik-view
@@ -4666,8 +4615,6 @@ qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
-qlogicfcpowerkit
-qlogicfcprovider
 qna
 qol
 qq
@@ -4851,7 +4798,6 @@ remux
 ren-isac
 reparsepoint
 repeat
-repl
 replace
 replaygain
 replication
@@ -4963,7 +4909,6 @@ route
 route53
 routeconfig
 router
-routes
 routetable
 routine
 rover
@@ -4973,7 +4918,6 @@ royalserver
 royalts
 royaltsx
 rpa
-rpc
 rras
 rrd
 rs
@@ -5001,6 +4945,8 @@ runner
 runspace
 runspacepool
 runspaces
+runtimedefinedparameter
+runtimedefinedparameterdictionary
 runway
 russia
 rust
@@ -5274,9 +5220,7 @@ settings
 setup
 setupbasic.cmdlet
 setupbasic.install
-setupbasic.publish
 setupbasic.taskscheduler
-setupbasic.template
 setupbasic.update
 sevenzip
 sf
@@ -5573,7 +5517,6 @@ sso
 sspr
 ssrs
 ssst
-sstp
 stache
 stackedge
 stackexchange
@@ -5619,7 +5562,6 @@ sticker
 sticker-pack
 stickers
 stig
-stigrepo
 stingar
 stock
 stockcharts
@@ -5729,7 +5671,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -5850,7 +5791,6 @@ terminal.gui
 termset
 ternary
 terraform
-terraformcloud
 terrafun
 tesla
 test
@@ -5895,8 +5835,6 @@ themes
 thermal
 thermostat
 thinprint
-third-party-libraries
-third-party-notice
 thispc
 thoughtfortheday
 thousandeyes
@@ -5910,7 +5848,6 @@ threat-hunting
 threathunting
 threatintelligence
 throttle
-thumbprint
 thunderbird
 thycotic
 tic-tac-toe
@@ -5952,7 +5889,6 @@ tools4ever
 topdesk
 topics
 topology
-torrent
 torrents
 toshiba
 totp
@@ -5988,7 +5924,6 @@ translate
 translation
 translit
 transliteration
-transmission
 transparency
 transpilation
 trap
@@ -6019,7 +5954,6 @@ trustedrootcertificate
 trustprotectionplatform
 trx
 ts
-tsa
 tsd
 tsheets
 tsqlbestpractice
@@ -6073,6 +6007,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6239,7 +6174,6 @@ uuencode
 uuid
 uw
 uwp
-ux
 vaas
 vagrant
 validate
@@ -6262,12 +6196,9 @@ vaultstore
 vba
 vbproj
 vbr
-vc
-vccmdlets
 vcenter
 vcloud
 vclouddirector
-vcm
 vco
 vcs
 vcsa
@@ -6305,7 +6236,6 @@ video
 videos
 vie
 viewer
-viewgroup
 vigenere
 vim
 vimode
@@ -6335,7 +6265,6 @@ virus
 virustotal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
@@ -6599,7 +6528,6 @@ wins
 winsat
 winscp
 wintellect
-winterminal
 winui
 wireless
 wirelessnetwork
@@ -6682,7 +6610,6 @@ wsb
 wsl
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wtsapi32
