@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 10 August 2022 17:53:02 UTC
+Updated: Thursday, 11 August 2022 02:32:40 UTC
 
 ?:
 ??
@@ -229,11 +229,9 @@ albums
 alero
 alert
 alerting
-alertmail
 alertmanagement
 alerts
 alertsmanagement
-alfresco
 algorithm
 algorithms
 alias
@@ -256,7 +254,6 @@ amateur-radio
 amateurradio
 amazon
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -334,6 +331,7 @@ applicationinsights
 applicationmigration
 applicationmonitor
 applications
+applocker
 appmgmtcontrol
 apppool
 appraiser
@@ -902,7 +900,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
@@ -1085,7 +1082,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1254,8 +1250,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1322,6 +1316,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+crestron
 crlf
 crm
 crm2016
@@ -1509,7 +1504,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -1691,6 +1685,7 @@ dns-resolver
 dnsbl
 dnsdumpster
 dnsentry
+dnsimple
 dnsmadeeasy
 dnsrecord
 dnsresolver
@@ -1758,6 +1753,7 @@ dreary
 drift
 driftmonitor
 drive
+drive letter
 driver
 driverpacks
 drivers
@@ -2219,6 +2215,7 @@ flasharray
 flashblade
 flatfile
 flatten
+flex
 flex-query
 flexdesk
 flickr
@@ -2348,6 +2345,8 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
+geocache
+geocaching
 geoencode
 geoencoding
 geolocation
@@ -2425,7 +2424,6 @@ glpi
 gmail
 gmap
 gmaps
-gmsa
 gnucash
 gnuwin32
 gobright
@@ -2484,6 +2482,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-policy
 groupmembership
@@ -2526,7 +2525,6 @@ hamradiodeluxe
 hana
 hanaon
 handle
-handler
 hangouts
 hannelstoolbox
 har
@@ -2629,7 +2627,6 @@ host
 host-based
 hostentry
 hostfile
-hostinstance
 hostname
 hosts
 hosts-file
@@ -2752,7 +2749,6 @@ ikev2
 il
 illinois
 ilo
-ilo5
 ilocmdlets
 im
 image
@@ -2897,7 +2893,6 @@ ios
 iot
 iotcentral
 iothub
-iothubproperties
 ip
 ip-address
 ipa
@@ -3550,7 +3545,6 @@ moldova
 moment
 monaco
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -3959,7 +3953,6 @@ openssl
 openstack
 openvpn
 operating
-operating_system
 operating-system
 operation
 operationalinsights
@@ -4125,7 +4118,6 @@ pathfinder
 patternmatching
 pause
 pax8
-paylocity
 paypal
 pays
 pbench
@@ -4217,7 +4209,6 @@ playback
 playbook
 player
 playlists
-pleasant
 pleasantpasswordserver
 plex
 plist
@@ -4366,7 +4357,6 @@ powertooldsc
 ppdm
 ppk
 pposh
-pps
 ppt
 pptp
 pptx
@@ -4764,12 +4754,12 @@ readme
 readpdf
 readthedocs
 realschule
-rebase
 reboot
 rebootnodeifneeded
 reckon
 recommendation
 reconcile
+record
 recording
 recovery
 recoveryservices
@@ -4919,14 +4909,11 @@ restore
 resume
 retention
 retry
-retype
 reuse
 reverse-engineer
 reverse-string
 reversedsc
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -5119,6 +5106,7 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
+screensaver
 screenshot
 script
 script_version
@@ -5276,6 +5264,7 @@ set-alias
 set-githubsecrets
 set-location
 set-openfiles
+set-ownership
 set-pass
 set-psbreakpoint
 set-psenv
@@ -5419,7 +5408,6 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
-smtpsecure
 snap
 snapchat
 snapping
@@ -5662,6 +5650,7 @@ string-template
 stringmanager
 stringmanagertool
 strings
+stringutilities
 strip-ansi
 stripe
 strongname
@@ -5797,6 +5786,7 @@ tagging
 tags
 tak
 taken
+takeown
 tally
 talxis
 tanzu
@@ -6550,6 +6540,7 @@ winbuilder
 window
 windows
 windows  server
+windows explorer
 windows_events
 windows-10
 windows-api
@@ -6689,7 +6680,6 @@ writelog
 writemanager
 ws-federation
 wsapi
-wsb
 wsl
 wsman
 wsmanlistener
