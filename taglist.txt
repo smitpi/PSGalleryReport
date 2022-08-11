@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 11 August 2022 02:32:40 UTC
+Updated: Thursday, 11 August 2022 09:52:31 UTC
 
 ?:
 ??
@@ -229,9 +229,11 @@ albums
 alero
 alert
 alerting
+alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -254,6 +256,7 @@ amateur-radio
 amateurradio
 amazon
 amazonwebservices
+amend
 ami
 amiga
 amp
@@ -620,7 +623,6 @@ base16
 base26
 base32
 base64
-base64string
 base64url
 base85
 basecamp
@@ -900,6 +902,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1082,6 +1085,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codepoint
 codereview
 codes
 codesign
@@ -1250,6 +1254,8 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1409,7 +1415,6 @@ dacl
 dacpac
 dacpackage
 dangling
-dapr
 dark
 dash
 dashboard
@@ -1482,7 +1487,6 @@ db
 db2
 dba
 dbaas
-dbase
 dbcommand
 dbfs
 dbnull
@@ -1503,7 +1507,7 @@ decimalip
 declarative
 decline
 decode
-decode64
+decoding
 decompiler
 decrypt
 decryption
@@ -1518,8 +1522,6 @@ defaultroutes
 defaults
 defence
 defender
-defender-atp
-defender-for-endpoint
 defenderast
 defenderforendpoint
 defense
@@ -1877,7 +1879,6 @@ emacs
 email
 email-address
 emailaddressupdate
-emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -1895,8 +1896,6 @@ enable-psremotingremote
 enbrea
 enclosure
 encode
-encode64
-encodetext
 encoding
 encrypt
 encryption
@@ -2044,7 +2043,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exo
 exov2
@@ -2217,7 +2215,6 @@ flatfile
 flatten
 flex
 flex-query
-flexdesk
 flickr
 flowchart
 flowy
@@ -2265,7 +2262,6 @@ forwardcompatibility
 forwardedevents
 foudil
 fox
-foxpro
 fqdn
 framework
 france
@@ -2391,8 +2387,6 @@ getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
 ggplot
-gh-actions
-ghactions
 ghc
 ghibli
 ghost
@@ -2424,6 +2418,7 @@ glpi
 gmail
 gmap
 gmaps
+gmsa
 gnucash
 gnuwin32
 gobright
@@ -2481,7 +2476,6 @@ grep
 greynoise
 grid
 gridfs
-grok
 groundspeak
 group
 group-policy
@@ -2525,6 +2519,7 @@ hamradiodeluxe
 hana
 hanaon
 handle
+handler
 hangouts
 hannelstoolbox
 har
@@ -2581,7 +2576,6 @@ helper
 helperfunctions
 helpers
 helpfile
-heml
 here
 hewlett
 hewlett-packard
@@ -2627,6 +2621,7 @@ host
 host-based
 hostentry
 hostfile
+hostinstance
 hostname
 hosts
 hosts-file
@@ -2749,6 +2744,7 @@ ikev2
 il
 illinois
 ilo
+ilo5
 ilocmdlets
 im
 image
@@ -2893,6 +2889,7 @@ ios
 iot
 iotcentral
 iothub
+iothubproperties
 ip
 ip-address
 ipa
@@ -3053,7 +3050,6 @@ korn
 kql
 krbtgt
 krick
-kubclt
 kubectl
 kubectx
 kubens
@@ -3458,7 +3454,6 @@ mi
 micro-orm
 microfocus
 microk8s
-microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -3545,6 +3540,7 @@ moldova
 moment
 monaco
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -3732,8 +3728,6 @@ new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
-new-dynamicdictionary
-new-dynamicparameter
 new-githubrelease
 new-pinneditem
 new-rdpsession
@@ -3862,7 +3856,6 @@ odata
 odbc
 odfb
 odin
-odoo
 offboarding
 offence
 office
@@ -4007,6 +4000,7 @@ osr
 oss
 ossec
 osubbillingschedule
+osuborganizationsubscription
 osubsubscription
 osubusage
 osx
@@ -4118,6 +4112,7 @@ pathfinder
 patternmatching
 pause
 pax8
+paylocity
 paypal
 pays
 pbench
@@ -4209,6 +4204,7 @@ playback
 playbook
 player
 playlists
+pleasant
 pleasantpasswordserver
 plex
 plist
@@ -4229,7 +4225,6 @@ point-to-site
 pokeapi
 pokedex
 pokemon
-poker
 policies
 policy
 policyevent
@@ -4357,6 +4352,7 @@ powertooldsc
 ppdm
 ppk
 pposh
+pps
 ppt
 pptp
 pptx
@@ -4754,6 +4750,7 @@ readme
 readpdf
 readthedocs
 realschule
+rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -4909,11 +4906,14 @@ restore
 resume
 retention
 retry
+retype
 reuse
 reverse-engineer
 reverse-string
 reversedsc
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -5001,8 +5001,6 @@ runner
 runspace
 runspacepool
 runspaces
-runtimedefinedparameter
-runtimedefinedparameterdictionary
 runway
 russia
 rust
@@ -5408,6 +5406,7 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
+smtpsecure
 snap
 snapchat
 snapping
@@ -6074,7 +6073,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6680,6 +6678,7 @@ writelog
 writemanager
 ws-federation
 wsapi
+wsb
 wsl
 wsman
 wsmanlistener
