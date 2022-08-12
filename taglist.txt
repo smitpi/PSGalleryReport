@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 12 August 2022 09:52:38 UTC
+Updated: Friday, 12 August 2022 17:53:07 UTC
 
 ?:
 ??
@@ -72,7 +72,6 @@ abc_testing
 abe
 about
 abstractsyntaxtree
-abuse
 acas
 accelerator
 access
@@ -132,7 +131,6 @@ adcs
 add
 add-member
 add-on
-add-on.module
 add-one
 add-path
 add-type
@@ -165,7 +163,9 @@ administrativeunit
 administrativeuser
 administrator
 admintools
+adml
 admpwd
+admx
 ado
 ado_security
 ado.net
@@ -193,6 +193,7 @@ aem
 aeries
 aeriessis
 aes
+afd
 affinity
 affinity-co
 affinity-crm
@@ -236,7 +237,6 @@ algorithms
 alias
 aliases
 aliens
-all
 alletra
 alm
 almrangers
@@ -244,7 +244,6 @@ alpha
 alphafs
 alpine
 alpr
-alt3
 alter
 alteryx
 alwaysonvpn
@@ -286,13 +285,13 @@ ansible
 antimalwarescaninterface
 antispam
 antivirus
-any
 anyconnect
 anypoint
 anywhere
 aovpn psmodule
 apache
 api
+api-client
 api-gateway
 apichecks
 apiclient
@@ -325,7 +324,6 @@ apple
 application
 application-transformer
 applicationgateway
-applicationgrid
 applicationinsights
 applicationmigration
 applicationmonitor
@@ -356,9 +354,6 @@ architecuture
 archive
 archivedteams
 archivematica
-archivial
-archivial-backup
-archivial-cloud-backup
 archlinux
 arcus
 area
@@ -511,16 +506,13 @@ azautomation
 azcli
 azcompute
 azd
-azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
-aznetworkinterface
 aznicdetails
 azops
-azpublicipaddress
 azresources
 azsdk
 azsk
@@ -532,7 +524,6 @@ azure
 azure_ad
 azure_security
 azure-adx
-azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
@@ -728,7 +719,6 @@ book
 bookmark
 bookmarks
 books
-bool
 bootloader
 bootstrap
 bootstrapping
@@ -874,6 +864,8 @@ centralcredentialprovider
 centrastage
 centreon
 centreon.com
+centurylink
+centurylinkcloud
 cer
 cert
 certbasedauth
@@ -971,6 +963,9 @@ classes
 classic
 classification
 classified
+clccontrol
+clccontrolapiv1
+clccontrolapiv2
 clean-up
 cleanmgr
 cleanup
@@ -1014,7 +1009,6 @@ clone
 close-openfile
 cloud
 cloud_data_management
-cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1064,7 +1058,6 @@ cmsmessage
 cmtrace
 cmwt
 cns
-coa
 cockroachdb
 codaamok
 code
@@ -1156,7 +1149,6 @@ computersite
 concur
 concurrent
 conda
-condition
 conditionalaccess
 conduit
 conference
@@ -1261,6 +1253,7 @@ cosmos
 cosmosdb
 cost
 costoptimization
+couchbase
 couchdb
 couchpotato
 count
@@ -1381,11 +1374,11 @@ cve-2021-34527
 cvrf
 cvss
 cwi
+cx
 cyberark
 cyberdrain
 cybereason
 cybersecurity
-cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -1399,7 +1392,6 @@ d365fo
 d365lbd
 daas
 dac
-dacfx
 dacl
 dacpac
 dacpackage
@@ -1413,8 +1405,6 @@ dashboardservice
 dast
 data
 data_protection
-data-archive
-data-backup
 data-tier
 data-uri
 data-uri-converter
@@ -1706,7 +1696,6 @@ documentdb
 documentencryption
 documenting
 documents
-docusaurus
 docusign
 docx
 dod
@@ -1759,7 +1748,6 @@ driverupdates
 drm
 drone.io
 drop
-dropbox
 dropdatabase
 droplet
 droptable
@@ -1918,7 +1906,6 @@ entity
 entityframework
 entropy
 enum
-enumerable
 env
 environment
 environment-variables
@@ -2050,7 +2037,6 @@ expand-string
 expand-tab
 expandframework
 experiments
-expired
 expiring
 expiry
 exploit
@@ -2119,6 +2105,7 @@ fetch
 ffmpeg
 fhirservice
 fiche
+fiddler
 fido
 fido2
 fieldglass
@@ -2524,6 +2511,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+har
 hard
 hardblock
 harden
@@ -2536,7 +2524,6 @@ harvestforecast
 hash
 hashcat
 hashicorp
-hashset
 hashtable
 hasicorp
 haskell
@@ -2617,7 +2604,6 @@ homebrew
 homelandsecurity
 homeschooling
 hon
-horizontal
 hornbill
 host
 host-based
@@ -2694,7 +2680,6 @@ ia
 iaas
 iac
 iam
-iana
 iap
 ias
 ib
@@ -2865,7 +2850,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneappwinutil
 inventory
 investigation
 investment
@@ -3019,7 +3003,6 @@ keenetic
 keepachangelog
 keepass
 keepasslib
-keeper
 kelverion
 kentico
 kerberos
@@ -3104,7 +3087,6 @@ latitude
 launcher
 layer
 layman
-layout
 lazywinadmin
 lbd
 lbi
@@ -3528,7 +3510,6 @@ mobile
 mobilitycontroller
 mock
 mocking
-modify
 module
 modulebuild
 modulecreation
@@ -3555,7 +3536,6 @@ monitoringsolutions
 monthlyupdate
 moodle
 moonshot
-mosaic
 motd
 mount
 mouse
@@ -3718,7 +3698,6 @@ network-credentials
 networkdiscovery
 networkdrives
 networkfirewall
-networkfunction
 networking
 networkinterfaces
 networkloadbalancer
@@ -3843,7 +3822,6 @@ object
 objectid
 objectstorage
 objecttree
-obs
 observeit
 oce
 oci
@@ -3898,7 +3876,6 @@ on-premise
 onboard
 onboardadministrator
 onboarding
-oncommand-insight
 ondemand
 one
 onedrive
@@ -3913,7 +3890,6 @@ onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
-online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -4278,8 +4254,10 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
+poshproject
 poshprtg
 poshrsjob
+poshtemplate
 poshwsus
 position
 postgre
@@ -4346,6 +4324,7 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
+powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershellv5
@@ -4362,7 +4341,6 @@ ppt
 pptp
 pptx
 pranks
-predicate
 prediction
 predictive
 predictor
@@ -4404,7 +4382,6 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
-privileged
 privileges
 pro
 probe
@@ -4433,6 +4410,7 @@ project-management
 projectmanagement
 projectreunion
 projects
+projecttemplate
 projectwise
 proliant
 prometheus
@@ -4489,6 +4467,7 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommander
 psconfasia
 psconfeu
 pscore
@@ -4562,6 +4541,7 @@ psmssqlbynarymodule
 psmssqlmodule
 psmvp
 psnavigation
+psnexosisclient
 psngenposh
 psobject
 pspath
@@ -4626,6 +4606,7 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
+pulseway
 pulumi
 puppet
 puppetdb
@@ -4763,9 +4744,6 @@ recovery
 recoveryservices
 recruiter
 recrutch
-recurse
-recursivefilesandfoldersdownload
-recursivefilesandfoldersupload
 recyclebin
 red
 redact
@@ -4931,7 +4909,6 @@ ribcl
 rightjoin
 rights
 rightsizing
-ripe
 risk
 riskiq
 riskpro
@@ -5052,6 +5029,7 @@ savov
 sbc
 sc
 scaffold
+scaffoldingtemplate
 scalable
 scan
 scanner
@@ -5190,7 +5168,6 @@ selectxmlinfo
 selenium
 self
 self-hosted
-self-service
 self-signed
 selfdispatch
 selfsigned
@@ -5301,10 +5278,7 @@ sharefile
 sharepoint
 sharepoint_online
 sharepoint2013
-sharepointdevelopmentcommunity
 sharepointonline
-sharepointpnp
-sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
@@ -5363,6 +5337,7 @@ sitemap
 siterecovery
 sites
 sitesystemserver
+sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5401,7 +5376,6 @@ smbios
 smimeemail
 smimeimap
 smimepop
-smlets
 smo
 smorgasbord
 sms
@@ -5560,7 +5534,6 @@ ssas
 ssc
 ssdt
 ssh
-ssh-keygen
 sshmanagement
 sshservers
 ssis
@@ -5571,7 +5544,6 @@ ssllabs-scan
 sslprotocol
 ssm
 sso
-sspr
 ssrs
 ssst
 sstp
@@ -5684,7 +5656,6 @@ subversion
 successfactors
 sudo
 sugar
-sugarcrm
 suitecrm
 sullivan
 summary
@@ -5730,6 +5701,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -6094,7 +6066,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6197,6 +6168,7 @@ url-encode
 url-shortener
 urlencode
 urlhaus
+urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6295,7 +6267,6 @@ versioncontrol
 versioning
 versionmanager
 versionnumber
-vertical
 vester
 vhd
 vhdx
@@ -6488,7 +6459,6 @@ webservice
 webservices
 website
 websites
-websocket
 websockets
 websphere
 websphereappserver
@@ -6509,7 +6479,6 @@ what3words
 whatismyip
 whatsnew
 whd
-where
 whfb
 whiteboard
 whitespace
@@ -6583,7 +6552,6 @@ windowsserverguisecurity
 windowsservice
 windowsstore
 windowsterminal
-windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
