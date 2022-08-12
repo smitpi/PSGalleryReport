@@ -5,6 +5,52 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UncommonSense.iPlayer](https://www.powershellgallery.com/Packages/UncommonSense.iPlayer/0.0.1) | 0.0.1
+
+### Published: 08/12/2022 08:56:40 by Jan Hoek
+
+PowerShell module for retrieving featured BBC iplayer programmes
+
+__Downloads__: 0 | __Repository__: 
+
+## [AWS-Utils](https://www.powershellgallery.com/Packages/AWS-Utils/0.6.1) | 0.6.1
+
+### Published: 08/12/2022 08:27:25 by Henrik Stanley Mortensen
+
+Helper functions to make it easier working with AWS through the CLI
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSFront](https://www.powershellgallery.com/Packages/PSFront/0.3.0) | 0.3.0
+
+### Published: 08/12/2022 08:16:07 by Adam Cook (@codaamok)
+
+An unofficial PowerShell module for Front's Core API
+
+__Downloads__: 262 | __Repository__: https://github.com/codaamok/PSFront
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.12.2) | 22.8.12.2
+
+### Published: 08/12/2022 08:02:26 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 276,154 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.8.12.1) | 22.8.12.1
+
+### Published: 08/12/2022 07:50:26 by David Segura @SeguraOSD
+
+https://osdsus.osdeploy.com/
+https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
+
+WSUS Update Catalogs:
+These are contained within this PowerShell Module, so regular Module updating is needed to
+ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
+from Microsoft Update Catalog website due to Preview Releases
+
+__Downloads__: 273,955 | __Repository__: https://github.com/OSDeploy/OSDSUS
+
 ## [Format-Markdown](https://www.powershellgallery.com/Packages/Format-Markdown/1.0.1) | 1.0.1
 
 ### Published: 08/12/2022 00:10:39 by Chris Peterson
@@ -51,7 +97,7 @@ __Downloads__: 0 | __Repository__: https://github.com/ocalvo/PwrDev
 
 A set of functions for managing websites built on the DNN Platform.
 
-__Downloads__: 1,105 | __Repository__: https://github.com/bdukes/PowerShellModules
+__Downloads__: 1,106 | __Repository__: https://github.com/bdukes/PowerShellModules
 
 ## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.2.1) | 4.2.1
 
@@ -59,7 +105,7 @@ __Downloads__: 1,105 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Universal Dashbord v3 framework for Powershell Universal
 
-__Downloads__: 84,160 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+__Downloads__: 84,159 | __Repository__: https://www.ironmansoftware.com/powershell-universal
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.1) | 3.2.1
 
@@ -99,7 +145,7 @@ __Downloads__: 4 | __Repository__: https://adam-bacon.netlify.app/
 
 Provides commands that allow easy manipulation with data in CosmosDB
 
-__Downloads__: 90 | __Repository__: https://github.com/jformacek/CosmosLite
+__Downloads__: 91 | __Repository__: https://github.com/jformacek/CosmosLite
 
 ## [Corvus.Deployment](https://www.powershellgallery.com/Packages/Corvus.Deployment/0.4.2) | 0.4.2
 
@@ -107,7 +153,7 @@ __Downloads__: 90 | __Repository__: https://github.com/jformacek/CosmosLite
 
 A collection of useful functions for Azure deployment automation
 
-__Downloads__: 2,482 | __Repository__: https://github.com/corvus-dotnet/Corvus.Deployment
+__Downloads__: 2,485 | __Repository__: https://github.com/corvus-dotnet/Corvus.Deployment
 
 ## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.1.0) | 2022.2.1.0
 
@@ -115,7 +161,7 @@ __Downloads__: 2,482 | __Repository__: https://github.com/corvus-dotnet/Corvus.D
 
 Devolutions Remote Desktop Manager (RDM) PowerShell Module
 
-__Downloads__: 6,539 | __Repository__: 
+__Downloads__: 6,540 | __Repository__: 
 
 ## [specialK](https://www.powershellgallery.com/Packages/specialK/0.1.1) | 0.1.1
 
@@ -124,6 +170,14 @@ __Downloads__: 6,539 | __Repository__:
 Converts kubectl output to PowerShell objects.
 
 __Downloads__: 6 | __Repository__: https://github.com/ThePoShWolf/specialK
+
+## [PowerAMT](https://www.powershellgallery.com/Packages/PowerAMT/1.1.2) | 1.1.2
+
+### Published: 08/11/2022 14:40:51 by Michael Mumenthaler
+
+PowerShell module to manage AMT Devices with the Open AMT Cloud Toolkit API
+
+__Downloads__: 16 | __Repository__: https://github.com/netricsag/PowerAMT
 
 ## [NTS-ConfigMgrTools](https://www.powershellgallery.com/Packages/NTS-ConfigMgrTools/1.0.1.0) | 1.0.1.0
 
@@ -227,7 +281,7 @@ __Downloads__: 36,973 | __Repository__: https://github.com/PoshCode/Pansies
 
 A module for PowerShell data serialization
 
-__Downloads__: 75,413 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 75,405 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [BrazenCloud.ADK](https://www.powershellgallery.com/Packages/BrazenCloud.ADK/0.1.1) | 0.1.1
 
@@ -268,7 +322,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 51,616,579 | __Repository__: http://get-carbon.org/
+__Downloads__: 51,616,178 | __Repository__: http://get-carbon.org/
 
 ## [VirusTotalAnalyzer](https://www.powershellgallery.com/Packages/VirusTotalAnalyzer/0.0.3) | 0.0.3
 
@@ -318,21 +372,13 @@ A set of PowerShell tools for working with the winget package manager.
 
 __Downloads__: 4,329 | __Repository__: https://github.com/jdhitsolutions/WingetTools
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.10.1) | 22.8.10.1
-
-### Published: 08/10/2022 08:16:03 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 276,124 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [Nevergreen](https://www.powershellgallery.com/Packages/Nevergreen/2208.1) | 2208.1
 
 ### Published: 08/10/2022 08:03:43 by Dan Gough
 
 This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
 
-__Downloads__: 9,399 | __Repository__: https://github.com/DanGough/Nevergreen
+__Downloads__: 9,397 | __Repository__: https://github.com/DanGough/Nevergreen
 
 ## [SnipeitPS](https://www.powershellgallery.com/Packages/SnipeitPS/1.10.225) | 1.10.225
 
@@ -409,20 +455,6 @@ Requirements:
 PowerShell Module OSD 22.4.20.1 or newer
 
 __Downloads__: 88,985 | __Repository__: https://github.com/OSDeploy/OSDBuilder
-
-## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.8.9.1) | 22.8.9.1
-
-### Published: 08/09/2022 19:19:30 by David Segura @SeguraOSD
-
-https://osdsus.osdeploy.com/
-https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
-
-WSUS Update Catalogs:
-These are contained within this PowerShell Module, so regular Module updating is needed to
-ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
-from Microsoft Update Catalog website due to Preview Releases
-
-__Downloads__: 273,949 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [VagrantPredictor](https://www.powershellgallery.com/Packages/VagrantPredictor/1.0.0) | 1.0.0
 
@@ -807,7 +839,7 @@ __Downloads__: 4,595 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Monitoring Service
 
-__Downloads__: 1,564 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,565 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Mediaservices](https://www.powershellgallery.com/Packages/OCI.PSModules.Mediaservices/38.0.0) | 38.0.0
 
@@ -1383,7 +1415,7 @@ __Downloads__: 320 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 46,759 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 46,760 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.53.0) | 0.53.0
 
@@ -1489,7 +1521,7 @@ __Downloads__: 567 | __Repository__: https://support.scriptrunner.com/articles/c
 
 PowerShell script packaging, console-based editor, profiling, installer creation, WPF, TUI and Windows Forms design, and desktop automation.
 
-__Downloads__: 18,892 | __Repository__: 
+__Downloads__: 18,891 | __Repository__: 
 
 ## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/0.2.6) | 0.2.6
 
@@ -1620,7 +1652,7 @@ __Downloads__: 3,658 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 10,923 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 10,922 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.2) | 1.9.2
 
@@ -1628,7 +1660,7 @@ __Downloads__: 10,923 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 11,016 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,015 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/2.10.2) | 2.10.2
 
@@ -1636,7 +1668,7 @@ __Downloads__: 11,016 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 11,843 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,842 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.13.2) | 2.13.2
 
@@ -1660,7 +1692,7 @@ __Downloads__: 404 | __Repository__: https://github.com/TheTaylorLee/AdminToolbo
 
 Functions that have no purpose
 
-__Downloads__: 11,019 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,018 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.13.2) | 1.13.2
 
@@ -1668,7 +1700,7 @@ __Downloads__: 11,019 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 11,366 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,365 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.12.2) | 4.12.2
 
@@ -1676,7 +1708,7 @@ __Downloads__: 11,366 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 11,192 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,191 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.2) | 1.9.2
 
@@ -1716,7 +1748,7 @@ __Downloads__: 3,345 | __Repository__: https://github.com/AsBuiltReport/AsBuiltR
 
 Tools for installing and manage the OutSystems platform installation
 
-__Downloads__: 133,195 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
+__Downloads__: 133,196 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
 
 ## [CloudAssert.Billing](https://www.powershellgallery.com/Packages/CloudAssert.Billing/2022.8.8.0) | 2022.8.8.0
 
@@ -1810,7 +1842,7 @@ __Downloads__: 57 | __Repository__: https://github.com/StartAutomating/PipeScrip
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 465,785 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 465,772 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [FindFunctionCalls](https://www.powershellgallery.com/Packages/FindFunctionCalls/1.4.5) | 1.4.5
 
@@ -1874,7 +1906,7 @@ __Downloads__: 199 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 652,996 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 652,976 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.0) | 1.0.0
 
@@ -1890,7 +1922,7 @@ __Downloads__: 7 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 758,531 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 758,511 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -1946,7 +1978,7 @@ __Downloads__: 1,815,181 | __Repository__: https://dbatools.io/
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 533,835 | __Repository__: 
+__Downloads__: 533,802 | __Repository__: 
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.233) | 0.0.233
 
@@ -1954,7 +1986,7 @@ __Downloads__: 533,835 | __Repository__:
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 141,766 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 141,764 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.25) | 2.0.25
 
@@ -2018,7 +2050,15 @@ __Downloads__: 46 | __Repository__: https://github.com/nmbell/PSReadExif#readme
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 63,078 | __Repository__: 
+__Downloads__: 63,074 | __Repository__: 
+
+## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.1.2) | 1.0.1.2
+
+### Published: 08/05/2022 12:53:18 by Powershellcrack
+
+A module designed to help manage devices in Intune
+
+__Downloads__: 49 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
 
 ## [marli-Cleoni](https://www.powershellgallery.com/Packages/marli-Cleoni/0.153) | 0.153
 
@@ -2036,13 +2076,21 @@ PowerShell Module for creating iCalendar (ics) files
 
 __Downloads__: 661 | __Repository__: 
 
+## [UncommonSense.BcTechDays](https://www.powershellgallery.com/Packages/UncommonSense.BcTechDays/0.0.1) | 0.0.1
+
+### Published: 08/05/2022 10:45:46 by Jan Hoek
+
+PowerShell module for retrieving BC Techdays conference session information
+
+__Downloads__: 39 | __Repository__: 
+
 ## [UncommonSense.Hap](https://www.powershellgallery.com/Packages/UncommonSense.Hap/1.0.0) | 1.0.0
 
 ### Published: 08/05/2022 10:43:38 by Jan Hoek
 
 PowerShell wrapper for Html Agility Pack
 
-__Downloads__: 38 | __Repository__: 
+__Downloads__: 37 | __Repository__: 
 
 ## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/0.5.4) | 0.5.4
 
@@ -2050,7 +2098,7 @@ __Downloads__: 38 | __Repository__:
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 660 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 658 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/17.4) | 17.4
 
@@ -2091,52 +2139,4 @@ Intersight Powershell module provides the cmdlets to manage, analyze, and automa
 
 __Downloads__: 1,141 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
 
-## [CITools](https://www.powershellgallery.com/Packages/CITools/2.2.0) | 2.2.0
-
-### Published: 08/05/2022 05:52:40 by Jesse Reichman
-
-CI Tools
-
-__Downloads__: 1,028 | __Repository__: https://github.com/archmachina/ps-citools
-
-## [Az.DesktopVirtualization.Utility](https://www.powershellgallery.com/Packages/Az.DesktopVirtualization.Utility/0.0.0.4) | 0.0.0.4
-
-### Published: 08/05/2022 03:29:48 by Ryen Kia Zhi Tang
-
-An Azure Virtual Desktop Utility PowerShell module for administrators
-
-__Downloads__: 33 | __Repository__: https://github.com/kiazhi/Az.DesktopVirtualization.Utility/
-
-## [PSStoredCredentials](https://www.powershellgallery.com/Packages/PSStoredCredentials/0.4) | 0.4
-
-### Published: 08/05/2022 02:31:13 by Matthew McKinnon
-
-PowerShell Module for Keeping Saved Credentials
-
-__Downloads__: 14 | __Repository__: 
-
-## [FoxHelper](https://www.powershellgallery.com/Packages/FoxHelper/2.0.0.24) | 2.0.0.24
-
-### Published: 08/04/2022 23:12:08 by Elior Machlev
-
-Functions and Scripts for Britannica Fox Product
-
-__Downloads__: 149 | __Repository__: https://github.com/BaTarrY/FoxHelper
-
-## [VMware.VCDRService](https://www.powershellgallery.com/Packages/VMware.VCDRService/7.23.0.1) | 7.23.0.1
-
-### Published: 08/04/2022 23:05:29 by VMware
-
-PowerCLI VMware Cloud Disaster Recovery module
-
-__Downloads__: 112 | __Repository__: https://github.com/vmware/vmware-powercli-for-vmware-cloud-disaster-recovery
-
-## [NewRelicPS](https://www.powershellgallery.com/Packages/NewRelicPS/1.6.1) | 1.6.1
-
-### Published: 08/04/2022 21:42:39 by Mark Studer and Shaun Titus
-
-Module for working with NewRelic
-
-__Downloads__: 4,302 | __Repository__: https://bitbucket.org/ephesoft/newrelic.ps/src
-
-*Updated: Friday, 12 August 2022 02:36:08 UTC*
+*Updated: Friday, 12 August 2022 09:52:27 UTC*

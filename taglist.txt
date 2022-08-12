@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 12 August 2022 02:36:20 UTC
+Updated: Friday, 12 August 2022 09:52:38 UTC
 
 ?:
 ??
@@ -193,7 +193,6 @@ aem
 aeries
 aeriessis
 aes
-afd
 affinity
 affinity-co
 affinity-crm
@@ -350,6 +349,7 @@ apt-get-update
 aql
 arangodb
 arc
+arcade
 arcgis
 architecture
 architecuture
@@ -780,7 +780,6 @@ buildmaster
 builds
 buildtool
 bulk
-bullhorn
 bundle
 bup
 burpsuite
@@ -875,8 +874,6 @@ centralcredentialprovider
 centrastage
 centreon
 centreon.com
-centurylink
-centurylinkcloud
 cer
 cert
 certbasedauth
@@ -974,9 +971,6 @@ classes
 classic
 classification
 classified
-clccontrol
-clccontrolapiv1
-clccontrolapiv2
 clean-up
 cleanmgr
 cleanup
@@ -1267,7 +1261,6 @@ cosmos
 cosmosdb
 cost
 costoptimization
-couchbase
 couchdb
 couchpotato
 count
@@ -1388,7 +1381,6 @@ cve-2021-34527
 cvrf
 cvss
 cwi
-cx
 cyberark
 cyberdrain
 cybereason
@@ -1767,6 +1759,7 @@ driverupdates
 drm
 drone.io
 drop
+dropbox
 dropdatabase
 droplet
 droptable
@@ -2126,7 +2119,6 @@ fetch
 ffmpeg
 fhirservice
 fiche
-fiddler
 fido
 fido2
 fieldglass
@@ -2291,6 +2283,7 @@ ftp
 ftps
 fudge
 fudgepop
+fujitsu
 full
 full-metal-gnome
 fullclr
@@ -2531,7 +2524,6 @@ handle
 handler
 hangouts
 hannelstoolbox
-har
 hard
 hardblock
 harden
@@ -3365,7 +3357,6 @@ markdig
 markdown
 markdownrender
 marketing
-marketo
 marketplace
 marketplaceordering
 marking
@@ -4287,10 +4278,8 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
-poshproject
 poshprtg
 poshrsjob
-poshtemplate
 poshwsus
 position
 postgre
@@ -4357,7 +4346,6 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
-powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershellv5
@@ -4445,7 +4433,6 @@ project-management
 projectmanagement
 projectreunion
 projects
-projecttemplate
 projectwise
 proliant
 prometheus
@@ -4502,7 +4489,6 @@ psbbix
 psbicep
 psclient
 pscmdlet
-pscommander
 psconfasia
 psconfeu
 pscore
@@ -4640,7 +4626,6 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
-pulseway
 pulumi
 puppet
 puppetdb
@@ -4659,6 +4644,7 @@ pushoverapi
 putty
 pve
 pvr
+pvs
 pwa
 pwned
 pwpush
@@ -5066,7 +5052,6 @@ savov
 sbc
 sc
 scaffold
-scaffoldingtemplate
 scalable
 scan
 scanner
@@ -5124,6 +5109,7 @@ screenresolution
 screensaver
 screenshot
 script
+script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -5329,6 +5315,7 @@ ships
 shipstation
 shlink
 shodan
+shopify
 shortcut
 shortcuts
 shortpath
@@ -5376,7 +5363,6 @@ sitemap
 siterecovery
 sites
 sitesystemserver
-sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5744,7 +5730,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -6212,7 +6197,6 @@ url-encode
 url-shortener
 urlencode
 urlhaus
-urlredirections
 urlrewrite
 urlscan
 urlupdate
