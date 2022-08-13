@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 13 August 2022 09:52:28 UTC
+Updated: Saturday, 13 August 2022 17:53:01 UTC
 
 ?:
 ??
@@ -549,7 +549,6 @@ azuread
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureappconfiguration
 azurearc
 azureas
 azureautomation
@@ -628,7 +627,6 @@ base64url
 base85
 basecamp
 based
-baseline
 bash
 bastion
 bat
@@ -686,9 +684,7 @@ bios_settings
 bios-settings
 bit
 bitbucket
-bitbucket-api
 bitbucket-server
-bitbucketautomation
 bitcoin
 bitlocker
 bitwarden
@@ -1241,6 +1237,7 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-windowsimage
 converter
 convertfrom-yaml
@@ -1341,6 +1338,7 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
+csc
 csharp
 csharp-watch
 csom
@@ -1573,7 +1571,6 @@ dev-tools
 devart
 devdeer
 developer
-developer_command_prompt
 developercommandprompt
 development
 devenv
@@ -1831,7 +1828,6 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
-dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -1898,7 +1894,6 @@ empty
 emwarehouse
 enable-psremoting
 enable-psremotingremote
-enbrea
 enclosure
 encode
 encode64
@@ -2141,6 +2136,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2156,6 +2153,7 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filereplication
 files
@@ -2167,6 +2165,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2574,8 +2575,6 @@ heavenbay
 helix
 hello
 helloid
-helloposhgallery
-helloworld
 helmet
 help
 helpdesk
@@ -2776,7 +2775,6 @@ imagevalidation
 imagga
 imaging
 imap
-imb
 imi
 impala
 impersonation
@@ -2888,8 +2886,6 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
-invoke-vsbuild
-invoke-vsdevcommand
 invokebuild
 invokemethod
 io
@@ -2951,8 +2947,6 @@ itsm
 itstore
 ivanti
 ivantips
-ivb
-ivdc
 iwi
 j
 j81-blog
@@ -3528,6 +3522,7 @@ mitrend
 mittelschule
 mixedreality
 mixer
+mkdocs
 mlflow
 mmdc
 mobile
@@ -3912,7 +3907,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -5054,7 +5048,6 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
-sasdatasets
 sasxpt
 satirical
 save
@@ -5184,7 +5177,6 @@ securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
 securitygroup
-securitygroups
 securityinsights
 securityoptions
 securitypolicydsc
@@ -5304,7 +5296,6 @@ sha256
 shadow
 shadowcopy
 shadowcopybackups
-shadowgroups
 shanghaitech
 shard
 share
@@ -5314,6 +5305,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -6100,6 +6092,7 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6128,7 +6121,6 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 udcm
 udfeedback
 udp
@@ -6320,7 +6312,6 @@ video
 videos
 vie
 viewer
-viewgroup
 vigenere
 vim
 vimode
@@ -6536,6 +6527,7 @@ wid
 wif
 wifi
 wiki
+wildcard
 wildfly
 wim
 wim2vhd

@@ -5,6 +5,74 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SnsPsModule](https://www.powershellgallery.com/Packages/SnsPsModule/1.0.1.1) | 1.0.1.1
+
+### Published: 08/13/2022 11:49:45 by Svetoslav Nedyalkov Savov
+
+****************************************************************************************************
+*                                                                                                  *
+*                                 SnsPsModule - PowerShell Module                                  *
+*                                     ModuleVersion - 1.0.1.1                                      *
+*                                                                                                  *
+*         AUTHOR:    Svetoslav Nedyalkov Savov                                                     *
+*         THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE RISK         *
+*         OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.               *
+*                                                                                                  *
+****************************************************************************************************
+
+__Downloads__: 306 | __Repository__: https://github.com/svesavov/SnsPsModule
+
+## [SnsPsScriptsMonitoring](https://www.powershellgallery.com/Packages/SnsPsScriptsMonitoring/1.0.0.8) | 1.0.0.8
+
+### Published: 08/13/2022 11:25:43 by Svetoslav Nedyalkov Savov
+
+****************************************************************************************************
+*                                                                                                  *
+*                            SnsPsScriptsMonitoring - PowerShell Module                            *
+*                                     ModuleVersion - 1.0.0.8                                      *
+*                                                                                                  *
+*         AUTHOR:    Svetoslav Nedyalkov Savov                                                     *
+*         THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE RISK         *
+*         OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.               *
+*                                                                                                  *
+****************************************************************************************************
+
+__Downloads__: 248 | __Repository__: https://github.com/svesavov/SnsPsScriptsMonitoring
+
+## [SnsSqlitePsModule](https://www.powershellgallery.com/Packages/SnsSqlitePsModule/1.0.1.4) | 1.0.1.4
+
+### Published: 08/13/2022 10:40:19 by Svetoslav Nedyalkov Savov
+
+****************************************************************************************************
+*                                                                                                  *
+*                              SnsSqlitePsModule - PowerShell Module                               *
+*                                     ModuleVersion - 1.0.1.4                                      *
+*                                                                                                  *
+*         AUTHOR:    Svetoslav Nedyalkov Savov                                                     *
+*         THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE RISK         *
+*         OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.               *
+*                                                                                                  *
+****************************************************************************************************
+
+__Downloads__: 417 | __Repository__: https://github.com/svesavov/SnsSqlitePsModule
+
+## [SnsMsSqlPsModule](https://www.powershellgallery.com/Packages/SnsMsSqlPsModule/0.0.0.5) | 0.0.0.5
+
+### Published: 08/13/2022 10:17:35 by Svetoslav Nedyalkov Savov
+
+****************************************************************************************************
+*                                                                                                  *
+*                               SnsMsSqlPsModule - PowerShell Module                               *
+*                                     ModuleVersion - 0.0.0.5                                      *
+*                                                                                                  *
+*         AUTHOR:    Svetoslav Nedyalkov Savov                                                     *
+*         THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE RISK         *
+*         OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.               *
+*                                                                                                  *
+****************************************************************************************************
+
+__Downloads__: 30 | __Repository__: https://github.com/svesavov/SnsMsSqlPsModule
+
 ## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.208) | 0.0.0.208
 
 ### Published: 08/13/2022 07:30:16 by Naitwatch
@@ -217,7 +285,7 @@ __Downloads__: 1,113 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Universal Dashbord v3 framework for Powershell Universal
 
-__Downloads__: 84,248 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+__Downloads__: 84,246 | __Repository__: https://www.ironmansoftware.com/powershell-universal
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.1) | 3.2.1
 
@@ -225,7 +293,7 @@ __Downloads__: 84,248 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,077 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 27,079 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PwrRazzle](https://www.powershellgallery.com/Packages/PwrRazzle/1.0.0) | 1.0.0
 
@@ -377,7 +445,7 @@ __Downloads__: 3,697 | __Repository__: https://github.com/StartAutomating/EZOut
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,078,158 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,078,153 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Pansies](https://www.powershellgallery.com/Packages/Pansies/2.4.0) | 2.4.0
 
@@ -426,7 +494,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 51,655,135 | __Repository__: http://get-carbon.org/
+__Downloads__: 51,655,240 | __Repository__: http://get-carbon.org/
 
 ## [VirusTotalAnalyzer](https://www.powershellgallery.com/Packages/VirusTotalAnalyzer/0.0.3) | 0.0.3
 
@@ -482,7 +550,7 @@ __Downloads__: 4,342 | __Repository__: https://github.com/jdhitsolutions/WingetT
 
 This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
 
-__Downloads__: 9,496 | __Repository__: https://github.com/DanGough/Nevergreen
+__Downloads__: 9,497 | __Repository__: https://github.com/DanGough/Nevergreen
 
 ## [SnipeitPS](https://www.powershellgallery.com/Packages/SnipeitPS/1.10.225) | 1.10.225
 
@@ -1882,7 +1950,7 @@ __Downloads__: 22 | __Repository__:
 
 A collection of Powershell tools to interface with the Zoom Api.
 
-__Downloads__: 3,797 | __Repository__: https://github.com/JosephMcEvoy/PSZoom
+__Downloads__: 3,798 | __Repository__: https://github.com/JosephMcEvoy/PSZoom
 
 ## [PipelineTools](https://www.powershellgallery.com/Packages/PipelineTools/0.98) | 0.98
 
@@ -1906,7 +1974,7 @@ __Downloads__: 57 | __Repository__: https://github.com/StartAutomating/PipeScrip
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 466,564 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 466,570 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [FindFunctionCalls](https://www.powershellgallery.com/Packages/FindFunctionCalls/1.4.5) | 1.4.5
 
@@ -1922,7 +1990,7 @@ __Downloads__: 46 | __Repository__: https://github.com/fsackur/FindFunctionCalls
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 118,736 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 118,735 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [xRemoteDesktopSessionHost](https://www.powershellgallery.com/Packages/xRemoteDesktopSessionHost/2.1.0) | 2.1.0
 
@@ -1954,7 +2022,7 @@ __Downloads__: 170 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 654,535 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 654,544 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.0) | 1.0.0
 
@@ -1970,7 +2038,7 @@ __Downloads__: 7 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 761,121 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 761,143 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -2018,7 +2086,7 @@ __Downloads__: 33 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,818,799 | __Repository__: https://dbatools.io/
+__Downloads__: 1,818,795 | __Repository__: https://dbatools.io/
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
 
@@ -2100,36 +2168,4 @@ ProjectWise PowerShell Cmdlets from System Architecture Group
 
 __Downloads__: 63,105 | __Repository__: 
 
-## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.1.2) | 1.0.1.2
-
-### Published: 08/05/2022 12:53:18 by Powershellcrack
-
-A module designed to help manage devices in Intune
-
-__Downloads__: 49 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
-
-## [marli-Cleoni](https://www.powershellgallery.com/Packages/marli-Cleoni/0.153) | 0.153
-
-### Published: 08/05/2022 11:46:33 by Marco Lippert
-
-A Tool to download and compare the Intune configurations
-
-__Downloads__: 33 | __Repository__: 
-
-## [UncommonSense.BcTechDays](https://www.powershellgallery.com/Packages/UncommonSense.BcTechDays/0.0.1) | 0.0.1
-
-### Published: 08/05/2022 10:45:46 by Jan Hoek
-
-PowerShell module for retrieving BC Techdays conference session information
-
-__Downloads__: 44 | __Repository__: 
-
-## [UncommonSense.Hap](https://www.powershellgallery.com/Packages/UncommonSense.Hap/1.0.0) | 1.0.0
-
-### Published: 08/05/2022 10:43:38 by Jan Hoek
-
-PowerShell wrapper for Html Agility Pack
-
-__Downloads__: 46 | __Repository__: 
-
-*Updated: Saturday, 13 August 2022 09:52:19 UTC*
+*Updated: Saturday, 13 August 2022 17:52:49 UTC*
