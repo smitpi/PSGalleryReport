@@ -5,6 +5,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.208) | 0.0.0.208
+
+### Published: 08/13/2022 07:30:16 by Naitwatch
+
+Powershell module for basic windows os configuration, maintenance
+
+__Downloads__: 803 | __Repository__: https://github.com/NaitWatch/SetUpBasic
+
+## [SetUpBasic.Install](https://www.powershellgallery.com/Packages/SetUpBasic.Install/0.0.0.28) | 0.0.0.28
+
+### Published: 08/13/2022 07:29:58 by Naitwatch
+
+Powershell module SetUpBasic.Install. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 127 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
+
+## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.27) | 0.0.0.27
+
+### Published: 08/13/2022 06:24:23 by Naitwatch
+
+Powershell module SetUpBasic.Template. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 199 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Template
+
 ## [Get-SecurePassword](https://www.powershellgallery.com/Packages/Get-SecurePassword/1.0.2) | 1.0.2
 
 ### Published: 08/12/2022 22:39:02 by Adam Bacon
@@ -131,7 +155,7 @@ __Downloads__: 265 | __Repository__: https://github.com/codaamok/PSFront
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 277,898 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 277,905 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.8.12.1) | 22.8.12.1
 
@@ -145,7 +169,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 274,279 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 274,282 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [Format-Markdown](https://www.powershellgallery.com/Packages/Format-Markdown/1.0.1) | 1.0.1
 
@@ -193,7 +217,7 @@ __Downloads__: 1,113 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Universal Dashbord v3 framework for Powershell Universal
 
-__Downloads__: 84,246 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+__Downloads__: 84,248 | __Repository__: https://www.ironmansoftware.com/powershell-universal
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.1) | 3.2.1
 
@@ -201,7 +225,7 @@ __Downloads__: 84,246 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,079 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 27,077 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PwrRazzle](https://www.powershellgallery.com/Packages/PwrRazzle/1.0.0) | 1.0.0
 
@@ -353,7 +377,7 @@ __Downloads__: 3,697 | __Repository__: https://github.com/StartAutomating/EZOut
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,078,112 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,078,158 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Pansies](https://www.powershellgallery.com/Packages/Pansies/2.4.0) | 2.4.0
 
@@ -369,7 +393,7 @@ __Downloads__: 37,019 | __Repository__: https://github.com/PoshCode/Pansies
 
 A module for PowerShell data serialization
 
-__Downloads__: 75,768 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 75,772 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [BrazenCloud.ADK](https://www.powershellgallery.com/Packages/BrazenCloud.ADK/0.1.1) | 0.1.1
 
@@ -466,7 +490,7 @@ __Downloads__: 9,496 | __Repository__: https://github.com/DanGough/Nevergreen
 
 Powershell API for Snipeit Asset Management
 
-__Downloads__: 1,605,916 | __Repository__: 
+__Downloads__: 1,605,980 | __Repository__: 
 
 ## [OpenApi.Pwsh](https://www.powershellgallery.com/Packages/OpenApi.Pwsh/0.1.0) | 0.1.0
 
@@ -1630,14 +1654,6 @@ An API key can be obtained from https://haveibeenpwned.com/API/Key
 
 __Downloads__: 3,379 | __Repository__: https://github.com/originaluko/haveibeenpwned
 
-## [SetUpBasic.Install](https://www.powershellgallery.com/Packages/SetUpBasic.Install/0.0.0.21) | 0.0.0.21
-
-### Published: 08/09/2022 03:52:11 by Naitwatch
-
-Powershell module SetUpBasic.Install. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 127 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
-
 ## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.120) | 2.0.120
 
 ### Published: 08/09/2022 02:27:51 by Dylan Haskins and Eugene Van Staden
@@ -1866,7 +1882,7 @@ __Downloads__: 22 | __Repository__:
 
 A collection of Powershell tools to interface with the Zoom Api.
 
-__Downloads__: 3,798 | __Repository__: https://github.com/JosephMcEvoy/PSZoom
+__Downloads__: 3,797 | __Repository__: https://github.com/JosephMcEvoy/PSZoom
 
 ## [PipelineTools](https://www.powershellgallery.com/Packages/PipelineTools/0.98) | 0.98
 
@@ -1906,7 +1922,7 @@ __Downloads__: 46 | __Repository__: https://github.com/fsackur/FindFunctionCalls
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 118,735 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 118,736 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [xRemoteDesktopSessionHost](https://www.powershellgallery.com/Packages/xRemoteDesktopSessionHost/2.1.0) | 2.1.0
 
@@ -1924,14 +1940,6 @@ Cmdlets to provide and manage SQL servers for tests.
 
 __Downloads__: 475 | __Repository__: https://github.com/abbgrade/PsSqlTestServer
 
-## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.203) | 0.0.0.203
-
-### Published: 08/07/2022 08:02:59 by Naitwatch
-
-Powershell module for basic windows os configuration, maintenance
-
-__Downloads__: 803 | __Repository__: https://github.com/NaitWatch/SetUpBasic
-
 ## [SetUpBasic.Publish](https://www.powershellgallery.com/Packages/SetUpBasic.Publish/0.0.0.31) | 0.0.0.31
 
 ### Published: 08/07/2022 07:44:39 by Naitwatch
@@ -1939,14 +1947,6 @@ __Downloads__: 803 | __Repository__: https://github.com/NaitWatch/SetUpBasic
 Powershell module SetUpBasic.Publish. This module is under construction and just uploaded for testing purposes.
 
 __Downloads__: 170 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Publish
-
-## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.25) | 0.0.0.25
-
-### Published: 08/07/2022 06:43:01 by Naitwatch
-
-Powershell module SetUpBasic.Template. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 199 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Template
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/3.0.12) | 3.0.12
 
@@ -1970,7 +1970,7 @@ __Downloads__: 7 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 761,147 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 761,121 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -2018,7 +2018,7 @@ __Downloads__: 33 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,818,748 | __Repository__: https://dbatools.io/
+__Downloads__: 1,818,799 | __Repository__: https://dbatools.io/
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
 
@@ -2098,7 +2098,7 @@ __Downloads__: 46 | __Repository__: https://github.com/nmbell/PSReadExif#readme
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 63,104 | __Repository__: 
+__Downloads__: 63,105 | __Repository__: 
 
 ## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.1.2) | 1.0.1.2
 
@@ -2116,14 +2116,6 @@ A Tool to download and compare the Intune configurations
 
 __Downloads__: 33 | __Repository__: 
 
-## [UncommonSense.iCalendar](https://www.powershellgallery.com/Packages/UncommonSense.iCalendar/1.2.0.0) | 1.2.0.0
-
-### Published: 08/05/2022 10:59:11 by Jan Hoek
-
-PowerShell Module for creating iCalendar (ics) files
-
-__Downloads__: 668 | __Repository__: 
-
 ## [UncommonSense.BcTechDays](https://www.powershellgallery.com/Packages/UncommonSense.BcTechDays/0.0.1) | 0.0.1
 
 ### Published: 08/05/2022 10:45:46 by Jan Hoek
@@ -2132,4 +2124,12 @@ PowerShell module for retrieving BC Techdays conference session information
 
 __Downloads__: 44 | __Repository__: 
 
-*Updated: Saturday, 13 August 2022 02:31:37 UTC*
+## [UncommonSense.Hap](https://www.powershellgallery.com/Packages/UncommonSense.Hap/1.0.0) | 1.0.0
+
+### Published: 08/05/2022 10:43:38 by Jan Hoek
+
+PowerShell wrapper for Html Agility Pack
+
+__Downloads__: 46 | __Repository__: 
+
+*Updated: Saturday, 13 August 2022 09:52:19 UTC*

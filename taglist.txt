@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 13 August 2022 02:31:46 UTC
+Updated: Saturday, 13 August 2022 09:52:28 UTC
 
 ?:
 ??
@@ -298,6 +298,7 @@ apache
 api
 api-client
 api-gateway
+apichecks
 apiclient
 apigateway
 apigee
@@ -627,6 +628,7 @@ base64url
 base85
 basecamp
 based
+baseline
 bash
 bastion
 bat
@@ -1339,7 +1341,6 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
-csc
 csharp
 csharp-watch
 csom
@@ -2140,8 +2141,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2157,7 +2156,6 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filereplication
 files
@@ -2169,9 +2167,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2660,6 +2655,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hsdp
 html
@@ -2715,6 +2711,7 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
+icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -3531,7 +3528,6 @@ mitrend
 mittelschule
 mixedreality
 mixer
-mkdocs
 mlflow
 mmdc
 mobile
@@ -6104,7 +6100,6 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6541,7 +6536,6 @@ wid
 wif
 wifi
 wiki
-wildcard
 wildfly
 wim
 wim2vhd
@@ -6695,6 +6689,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 ws-federation
 wsapi
 wsb
