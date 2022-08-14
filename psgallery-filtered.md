@@ -5,6 +5,32 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Find-Geolocation](https://www.powershellgallery.com/Packages/Find-Geolocation/1.0.0) | 1.0.0
+
+### Published: 08/13/2022 22:44:17 by Adam Bacon
+
+This module is using https://freegeoip.live API which is free. Yes. It's totally free. They believe that digital businesses need to get such kind of service for free. Many services are selling Geoip API as a service, but they think that it should be totally free. Feel free to their API as much as you want without any limit other than 10,000 queries per hour for one IP address. I thought this would be another good addition to add to the Powershell Gallery.
+
+__Downloads__: 0 | __Repository__: https://adam-bacon.netlify.app/
+
+## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.7.0) | 7.7.0
+
+### Published: 08/13/2022 20:43:59 by Donovan Brown (@DonovanBrown) Sebastian Schütze (@RazorSPoint)
+
+Adds functionality for working with Azure DevOps and Team Foundation Server.
+
+__Downloads__: 1,116,524 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+
+## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
+
+### Published: 08/13/2022 19:35:31 by James Brundage
+
+ugit:  Updated Git.
+
+A powerful PowerShell wrapper for git that lets you extend git, automate multiple repos, and use the object pipeline.
+
+__Downloads__: 202 | __Repository__: https://github.com/StartAutomating/ugit
+
 ## [SnsPsModule](https://www.powershellgallery.com/Packages/SnsPsModule/1.0.1.1) | 1.0.1.1
 
 ### Published: 08/13/2022 11:49:45 by Svetoslav Nedyalkov Savov
@@ -127,7 +153,7 @@ __Downloads__: 0 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHel
 
 Sample module for interacting with UEFI from PowerShell
 
-__Downloads__: 3,815 | __Repository__: 
+__Downloads__: 3,941 | __Repository__: 
 
 ## [QuantaStor.PowerShell](https://www.powershellgallery.com/Packages/QuantaStor.PowerShell/5.12.0) | 5.12.0
 
@@ -135,7 +161,7 @@ __Downloads__: 3,815 | __Repository__:
 
 PowerShell module for OSNexus QuantaStor
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
 
 ## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.60.8) | 0.60.8
 
@@ -143,7 +169,7 @@ __Downloads__: 0 | __Repository__:
 
 Interact with the Secret Server REST API
 
-__Downloads__: 17,669 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 17,723 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.68.0) | 1.68.0
 
@@ -215,7 +241,7 @@ __Downloads__: 4 | __Repository__:
 
 An unofficial PowerShell module for Front's Core API
 
-__Downloads__: 265 | __Repository__: https://github.com/codaamok/PSFront
+__Downloads__: 267 | __Repository__: https://github.com/codaamok/PSFront
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.12.2) | 22.8.12.2
 
@@ -223,7 +249,7 @@ __Downloads__: 265 | __Repository__: https://github.com/codaamok/PSFront
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 277,905 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 278,069 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.8.12.1) | 22.8.12.1
 
@@ -237,7 +263,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 274,282 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 274,366 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [Format-Markdown](https://www.powershellgallery.com/Packages/Format-Markdown/1.0.1) | 1.0.1
 
@@ -285,7 +311,7 @@ __Downloads__: 1,113 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 Universal Dashbord v3 framework for Powershell Universal
 
-__Downloads__: 84,246 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+__Downloads__: 84,248 | __Repository__: https://www.ironmansoftware.com/powershell-universal
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.1) | 3.2.1
 
@@ -293,7 +319,7 @@ __Downloads__: 84,246 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,079 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 27,103 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PwrRazzle](https://www.powershellgallery.com/Packages/PwrRazzle/1.0.0) | 1.0.0
 
@@ -445,7 +471,7 @@ __Downloads__: 3,697 | __Repository__: https://github.com/StartAutomating/EZOut
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,078,153 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,079,852 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Pansies](https://www.powershellgallery.com/Packages/Pansies/2.4.0) | 2.4.0
 
@@ -461,7 +487,7 @@ __Downloads__: 37,019 | __Repository__: https://github.com/PoshCode/Pansies
 
 A module for PowerShell data serialization
 
-__Downloads__: 75,772 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 75,901 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [BrazenCloud.ADK](https://www.powershellgallery.com/Packages/BrazenCloud.ADK/0.1.1) | 0.1.1
 
@@ -494,7 +520,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 51,655,240 | __Repository__: http://get-carbon.org/
+__Downloads__: 51,694,762 | __Repository__: http://get-carbon.org/
 
 ## [VirusTotalAnalyzer](https://www.powershellgallery.com/Packages/VirusTotalAnalyzer/0.0.3) | 0.0.3
 
@@ -550,7 +576,7 @@ __Downloads__: 4,342 | __Repository__: https://github.com/jdhitsolutions/WingetT
 
 This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
 
-__Downloads__: 9,497 | __Repository__: https://github.com/DanGough/Nevergreen
+__Downloads__: 9,581 | __Repository__: https://github.com/DanGough/Nevergreen
 
 ## [SnipeitPS](https://www.powershellgallery.com/Packages/SnipeitPS/1.10.225) | 1.10.225
 
@@ -558,7 +584,7 @@ __Downloads__: 9,497 | __Repository__: https://github.com/DanGough/Nevergreen
 
 Powershell API for Snipeit Asset Management
 
-__Downloads__: 1,605,980 | __Repository__: 
+__Downloads__: 1,609,140 | __Repository__: 
 
 ## [OpenApi.Pwsh](https://www.powershellgallery.com/Packages/OpenApi.Pwsh/0.1.0) | 0.1.0
 
@@ -1587,7 +1613,7 @@ __Downloads__: 321 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 46,770 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 46,782 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.3.2) | 1.3.2
 
@@ -1701,7 +1727,7 @@ __Downloads__: 21 | __Repository__:
 
 Functionality to help generate documentation for modules.
 
-__Downloads__: 11,124 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
+__Downloads__: 11,139 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
 
 ## [PwshComplete](https://www.powershellgallery.com/Packages/PwshComplete/0.0.3) | 0.0.3
 
@@ -1736,7 +1762,7 @@ __Downloads__: 12,058 | __Repository__: https://github.com/dylanhaskins/Microsof
 
 Regular Expressions made Strangely Simple
 
-__Downloads__: 1,081 | __Repository__: https://github.com/StartAutomating/Irregular
+__Downloads__: 1,082 | __Repository__: https://github.com/StartAutomating/Irregular
 
 ## [AutopilotUtility](https://www.powershellgallery.com/Packages/AutopilotUtility/1.0) | 1.0
 
@@ -1950,7 +1976,7 @@ __Downloads__: 22 | __Repository__:
 
 A collection of Powershell tools to interface with the Zoom Api.
 
-__Downloads__: 3,798 | __Repository__: https://github.com/JosephMcEvoy/PSZoom
+__Downloads__: 3,797 | __Repository__: https://github.com/JosephMcEvoy/PSZoom
 
 ## [PipelineTools](https://www.powershellgallery.com/Packages/PipelineTools/0.98) | 0.98
 
@@ -1974,7 +2000,7 @@ __Downloads__: 57 | __Repository__: https://github.com/StartAutomating/PipeScrip
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 466,570 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 466,768 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [FindFunctionCalls](https://www.powershellgallery.com/Packages/FindFunctionCalls/1.4.5) | 1.4.5
 
@@ -1990,7 +2016,7 @@ __Downloads__: 46 | __Repository__: https://github.com/fsackur/FindFunctionCalls
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 118,735 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 118,761 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [xRemoteDesktopSessionHost](https://www.powershellgallery.com/Packages/xRemoteDesktopSessionHost/2.1.0) | 2.1.0
 
@@ -1998,7 +2024,7 @@ __Downloads__: 118,735 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 Module with DSC Resources for Remote Desktop Session Host
 
-__Downloads__: 411,749 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
+__Downloads__: 411,898 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
 
 ## [PsSqlTestServer](https://www.powershellgallery.com/Packages/PsSqlTestServer/1.3.0) | 1.3.0
 
@@ -2022,7 +2048,7 @@ __Downloads__: 170 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 654,544 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 655,122 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.0) | 1.0.0
 
@@ -2038,7 +2064,7 @@ __Downloads__: 7 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 761,143 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 763,385 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -2086,7 +2112,7 @@ __Downloads__: 33 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,818,795 | __Repository__: https://dbatools.io/
+__Downloads__: 1,821,581 | __Repository__: https://dbatools.io/
 
 ## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
 
@@ -2094,7 +2120,7 @@ __Downloads__: 1,818,795 | __Repository__: https://dbatools.io/
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 536,613 | __Repository__: 
+__Downloads__: 536,612 | __Repository__: 
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.233) | 0.0.233
 
@@ -2102,7 +2128,7 @@ __Downloads__: 536,613 | __Repository__:
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 141,841 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 141,858 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.25) | 2.0.25
 
@@ -2144,28 +2170,4 @@ Qumulo Powershell Toolkit will help the Qumulo customers who uses Microsoft Powe
 
 __Downloads__: 22 | __Repository__: 
 
-## [InformationProtectionHarness.PowershellGalleryModule](https://www.powershellgallery.com/Packages/InformationProtectionHarness.PowershellGalleryModule/1.2.14) | 1.2.14
-
-### Published: 08/05/2022 15:24:22 by FastTrack In-Product Experiences Team
-
-Harness for generating fake sensitive information to test Microsoft Purview data loss prevention (DLP) policies.
-
-__Downloads__: 168 | __Repository__: 
-
-## [PSReadExif](https://www.powershellgallery.com/Packages/PSReadExif/1.0.2) | 1.0.2
-
-### Published: 08/05/2022 14:56:21 by nmbell
-
-Read EXIF metadata from image files using native Windows GDI+ classes.
-
-__Downloads__: 46 | __Repository__: https://github.com/nmbell/PSReadExif#readme
-
-## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.10.0) | 2.1.10.0
-
-### Published: 08/05/2022 14:23:28 by Bentley Systems Incorporated
-
-ProjectWise PowerShell Cmdlets from System Architecture Group
-
-__Downloads__: 63,105 | __Repository__: 
-
-*Updated: Saturday, 13 August 2022 17:52:49 UTC*
+*Updated: Sunday, 14 August 2022 02:39:08 UTC*

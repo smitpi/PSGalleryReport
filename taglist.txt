@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 13 August 2022 17:53:01 UTC
+Updated: Sunday, 14 August 2022 02:39:18 UTC
 
 ?:
 ??
@@ -549,6 +549,7 @@ azuread
 azureadconnect
 azureadgraph
 azureadtoolkit
+azureappconfiguration
 azurearc
 azureas
 azureautomation
@@ -627,6 +628,7 @@ base64url
 base85
 basecamp
 based
+baseline
 bash
 bastion
 bat
@@ -670,7 +672,6 @@ bigquery
 bikeshed
 billing
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -684,7 +685,9 @@ bios_settings
 bios-settings
 bit
 bitbucket
+bitbucket-api
 bitbucket-server
+bitbucketautomation
 bitcoin
 bitlocker
 bitwarden
@@ -864,7 +867,6 @@ cdrom
 cds
 cdx
 ce
-celcat
 celerium
 censor
 center
@@ -957,7 +959,6 @@ cinegy
 cinema
 cinst
 cipher
-circuit-breaker
 circumlunar
 cireson
 ciresonassetmanagement
@@ -1359,6 +1360,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1498,7 +1500,6 @@ dcim_b324
 deathface
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1571,6 +1572,7 @@ dev-tools
 devart
 devdeer
 developer
+developer_command_prompt
 developercommandprompt
 development
 devenv
@@ -1828,6 +1830,7 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
+dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -1894,6 +1897,7 @@ empty
 emwarehouse
 enable-psremoting
 enable-psremotingremote
+enbrea
 enclosure
 encode
 encode64
@@ -1954,7 +1958,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2483,7 +2486,6 @@ grep
 greynoise
 grid
 gridfs
-grok
 groundspeak
 group
 group-policy
@@ -2575,6 +2577,8 @@ heavenbay
 helix
 hello
 helloid
+helloposhgallery
+helloworld
 helmet
 help
 helpdesk
@@ -2654,7 +2658,6 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
-hpwritemanager
 hris
 hsdp
 html
@@ -2775,6 +2778,7 @@ imagevalidation
 imagga
 imaging
 imap
+imb
 imi
 impala
 impersonation
@@ -2886,6 +2890,8 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
+invoke-vsbuild
+invoke-vsdevcommand
 invokebuild
 invokemethod
 io
@@ -2947,6 +2953,8 @@ itsm
 itstore
 ivanti
 ivantips
+ivb
+ivdc
 iwi
 j
 j81-blog
@@ -3747,7 +3755,6 @@ newspaper
 newtonsoft
 nexenta
 nexentastor
-nexthink
 nexus
 ngen
 ngfw
@@ -3907,6 +3914,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -4240,7 +4248,6 @@ policyinsights
 policymetadata
 policystate
 poll
-polly
 polycom
 pomodoro
 ponduit
@@ -4723,7 +4730,6 @@ raspberry-pi
 raspberrypi
 raspbian
 rate
-rate-limit
 rate-limiting
 rates
 rating
@@ -5048,6 +5054,7 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
+sasdatasets
 sasxpt
 satirical
 save
@@ -5177,6 +5184,7 @@ securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
 securitygroup
+securitygroups
 securityinsights
 securityoptions
 securitypolicydsc
@@ -5296,6 +5304,7 @@ sha256
 shadow
 shadowcopy
 shadowcopybackups
+shadowgroups
 shanghaitech
 shard
 share
@@ -5305,7 +5314,6 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -6046,7 +6054,6 @@ twitch
 twitter
 twitter-api
 twitter-client
-twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -6118,9 +6125,9 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
-ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 udcm
 udfeedback
 udp
@@ -6312,6 +6319,7 @@ video
 videos
 vie
 viewer
+viewgroup
 vigenere
 vim
 vimode
@@ -6341,7 +6349,6 @@ virus
 virustotal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
@@ -6681,7 +6688,6 @@ write-slog
 write-wansi
 writeaccess
 writelog
-writemanager
 ws-federation
 wsapi
 wsb
