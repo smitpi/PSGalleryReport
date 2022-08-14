@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 14 August 2022 02:39:18 UTC
+Updated: Sunday, 14 August 2022 09:52:29 UTC
 
 ?:
 ??
@@ -393,7 +393,6 @@ asc
 ascii
 ascii85
 asdatabase
-asigra
 asm
 asn
 asn.1
@@ -613,7 +612,6 @@ bamboo
 bamboohr
 bandwidth
 bank
-banking
 banner
 bar
 barcodes
@@ -672,6 +670,7 @@ bigquery
 bikeshed
 billing
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -838,7 +837,6 @@ cassandra
 cat
 cat-names
 catalog
-catalogs
 catalyst
 catapult
 catesta
@@ -867,6 +865,7 @@ cdrom
 cds
 cdx
 ce
+celcat
 celerium
 censor
 center
@@ -959,6 +958,7 @@ cinegy
 cinema
 cinst
 cipher
+circuit-breaker
 circumlunar
 cireson
 ciresonassetmanagement
@@ -1500,6 +1500,7 @@ dcim_b324
 deathface
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1615,7 +1616,6 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
-dilbert
 dimcry
 dircolors
 direct
@@ -1743,7 +1743,6 @@ dotteddecimalip
 doubleclick
 download
 downloader
-downloadinfo
 downloading
 downloads
 dpa
@@ -1778,7 +1777,6 @@ drupal
 drush
 dry
 ds
-ds-client
 ds-utils
 dsa
 dsacls
@@ -1788,7 +1786,6 @@ dsc-resources
 dsccertificates
 dscconcepts
 dscdriftmonitor
-dsclient
 dscresource
 dscresourcekit
 dscresources
@@ -1958,6 +1955,7 @@ errorview
 eryph
 esae
 escape
+escapecodes
 escapesequences
 escaping
 ese
@@ -2399,7 +2397,6 @@ gh-actions
 ghactions
 ghc
 ghibli
-ghost
 gif
 gifs
 giphy
@@ -2435,7 +2432,6 @@ gobright
 godaddy
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2486,6 +2482,7 @@ grep
 greynoise
 grid
 gridfs
+grok
 groundspeak
 group
 group-policy
@@ -2658,6 +2655,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hsdp
 html
@@ -3552,13 +3550,10 @@ moldova
 moment
 monaco
 money
-moneyforward
 mongo
 mongodb
 monitor
 monitoring
-monitoring_objects
-monitoring_variables
 monitoringplugins
 monitoringsolutions
 monthlyupdate
@@ -3608,7 +3603,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -3755,6 +3749,7 @@ newspaper
 newtonsoft
 nexenta
 nexentastor
+nexthink
 nexus
 ngen
 ngfw
@@ -3894,7 +3889,6 @@ okta
 old
 ole
 oledb
-omaha
 ome
 omnisphere
 omnistack
@@ -4128,7 +4122,6 @@ patternmatching
 pause
 pax8
 paylocity
-paypal
 pays
 pbench
 pc
@@ -4248,6 +4241,7 @@ policyinsights
 policymetadata
 policystate
 poll
+polly
 polycom
 pomodoro
 ponduit
@@ -4699,7 +4693,6 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quota
@@ -4730,6 +4723,7 @@ raspberry-pi
 raspberrypi
 raspbian
 rate
+rate-limit
 rate-limiting
 rates
 rating
@@ -4739,7 +4733,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdb
@@ -4883,7 +4876,6 @@ repositories
 repository
 request
 requestfiltering
-requiredmodules
 requirements
 res
 rescan
@@ -4947,7 +4939,6 @@ rightsizing
 ripe
 risk
 riskiq
-riskpro
 risksense
 rlan
 rmcp
@@ -5314,6 +5305,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -5479,14 +5471,11 @@ soonragent
 sophos
 sort
 source
-source-dedicated-server
 sourcecontrol
-sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 space
 spaces
 spacex
@@ -5515,7 +5504,6 @@ speedtest
 speedtester
 spf
 spi
-spinnaker
 splash
 splat
 splatting
@@ -5628,7 +5616,6 @@ staytus
 stderr
 stdout
 steam
-steam-games
 steamcmd
 sticker
 sticker-pack
@@ -6054,6 +6041,7 @@ twitch
 twitter
 twitter-api
 twitter-client
+twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -6099,7 +6087,6 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6125,6 +6112,7 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
+ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -6349,6 +6337,7 @@ virus
 virustotal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualization
@@ -6412,7 +6401,6 @@ vsa
 vsan
 vscode
 vsdevcmd
-vsdevshell
 vsenvironment
 vsm
 vso
@@ -6688,6 +6676,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 ws-federation
 wsapi
 wsb
