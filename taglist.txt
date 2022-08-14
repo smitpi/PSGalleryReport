@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 14 August 2022 09:52:29 UTC
+Updated: Sunday, 14 August 2022 17:53:03 UTC
 
 ?:
 ??
@@ -393,6 +393,7 @@ asc
 ascii
 ascii85
 asdatabase
+asigra
 asm
 asn
 asn.1
@@ -474,7 +475,6 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 autopilot
 autoscaling
 autostart
@@ -612,6 +612,7 @@ bamboo
 bamboohr
 bandwidth
 bank
+banking
 banner
 bar
 barcodes
@@ -837,6 +838,7 @@ cassandra
 cat
 cat-names
 catalog
+catalogs
 catalyst
 catapult
 catesta
@@ -1231,7 +1233,6 @@ continuousdeployment
 continuousintegration
 control
 controller
-controlroom
 convereter
 converged_data_management
 conversational
@@ -1616,6 +1617,7 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
+dilbert
 dimcry
 dircolors
 direct
@@ -1743,6 +1745,7 @@ dotteddecimalip
 doubleclick
 download
 downloader
+downloadinfo
 downloading
 downloads
 dpa
@@ -1777,6 +1780,7 @@ drupal
 drush
 dry
 ds
+ds-client
 ds-utils
 dsa
 dsacls
@@ -1786,6 +1790,7 @@ dsc-resources
 dsccertificates
 dscconcepts
 dscdriftmonitor
+dsclient
 dscresource
 dscresourcekit
 dscresources
@@ -2352,8 +2357,6 @@ geocaching
 geoencode
 geoencoding
 geolocation
-geosearching
-geotagging
 get
 get_random_password
 get-childitem
@@ -2432,6 +2435,7 @@ gobright
 godaddy
 goldengate
 goldsource
+goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2797,7 +2801,6 @@ incidentresponse
 incontact
 indents
 index
-indexdb
 inedo
 inetfwrule
 influx
@@ -2997,7 +3000,6 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
-jumbo
 jump
 jump-location
 jumpcloud
@@ -3512,7 +3514,6 @@ mim
 mimekit
 min
 mindmeister
-minecraft
 minifier
 minimal
 minimum
@@ -3550,10 +3551,13 @@ moldova
 moment
 monaco
 money
+moneyforward
 mongo
 mongodb
 monitor
 monitoring
+monitoring_objects
+monitoring_variables
 monitoringplugins
 monitoringsolutions
 monthlyupdate
@@ -3603,6 +3607,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -3889,6 +3894,7 @@ okta
 old
 ole
 oledb
+omaha
 ome
 omnisphere
 omnistack
@@ -4122,6 +4128,7 @@ patternmatching
 pause
 pax8
 paylocity
+paypal
 pays
 pbench
 pc
@@ -4590,7 +4597,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -4693,6 +4699,7 @@ queue
 queues
 queuing
 quickaccess
+quickbase
 quickbooks
 quicksetup
 quota
@@ -4733,6 +4740,7 @@ razzle
 rbac
 rbacmodel
 rbsu
+rcon
 rcs
 rcu
 rdb
@@ -4876,6 +4884,7 @@ repositories
 repository
 request
 requestfiltering
+requiredmodules
 requirements
 res
 rescan
@@ -4939,6 +4948,7 @@ rightsizing
 ripe
 risk
 riskiq
+riskpro
 risksense
 rlan
 rmcp
@@ -4977,7 +4987,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -5092,7 +5101,6 @@ schulverwaltung
 science
 scissors
 scm
-scmanager
 scom
 sconfig
 scoop
@@ -5127,7 +5135,6 @@ scripting
 scriptlogging
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -5430,7 +5437,6 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 snugglepup
@@ -5471,11 +5477,14 @@ soonragent
 sophos
 sort
 source
+source-dedicated-server
 sourcecontrol
+sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 space
 spaces
 spacex
@@ -5504,6 +5513,7 @@ speedtest
 speedtester
 spf
 spi
+spinnaker
 splash
 splat
 splatting
@@ -5616,6 +5626,7 @@ staytus
 stderr
 stdout
 steam
+steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5802,7 +5813,6 @@ taskmanagement
 tasks
 taskscheduler
 taxjar
-taxonomy
 tcp
 tcp/ip
 tcpip
@@ -5849,7 +5859,6 @@ termbin
 terminal
 terminal-services
 terminal.gui
-termset
 ternary
 terraform
 terraformcloud
@@ -6087,6 +6096,7 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6307,7 +6317,6 @@ video
 videos
 vie
 viewer
-viewgroup
 vigenere
 vim
 vimode
@@ -6401,6 +6410,7 @@ vsa
 vsan
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -6558,7 +6568,6 @@ windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
-windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform

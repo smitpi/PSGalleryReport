@@ -5,6 +5,71 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.21.0) | 2.21.0
+
+### Published: 08/14/2022 17:33:50 by Aleksandr Sapozhkov
+
+A module to ease infrastructure as code tasks for Dynamics 365.
+
+__Downloads__: 3,359 | __Repository__: https://github.com/shurick81/Dynamics365Configuration
+
+## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.9) | 0.0.9
+
+### Published: 08/14/2022 16:53:34 by Przemyslaw Klys
+
+Module that allows getting, adding and removing User Rights Assignment without using secedit.exe
+
+__Downloads__: 95 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
+
+## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.235) | 0.0.235
+
+### Published: 08/14/2022 16:35:18 by Przemyslaw Klys
+
+Module covering functions that are shared within multiple projects
+
+__Downloads__: 141,858 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
+## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.12.0) | 0.0.12.0
+
+### Published: 08/14/2022 15:03:54 by Jan Hoek
+
+PowerShell module for listing Volkskrant articles
+
+__Downloads__: 884 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
+
+## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.9.0) | 0.0.9.0
+
+### Published: 08/14/2022 14:56:08 by Jan Hoek
+
+PowerShell module for listing Trouw articles
+
+__Downloads__: 246 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
+
+## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.9) | 1.0.9
+
+### Published: 08/14/2022 14:06:04 by @AndrewZtrhgf
+
+Various Intune related functions. Some of them are explained at https://doitpsway.com.
+
+Some of the interesting functions:
+- Get-ClientIntunePolicyResult - RSOP/gpresult for Intune
+- Invoke-IntuneScriptRedeploy - redeploy script deployed from Intune
+- Invoke-IntuneWin32AppRedeploy - redeploy application deployed from Intune
+- Get-IntuneLog - opens Intune logs (files & system logs)
+- Reset-HybridADJoin - reset Hybrid AzureAD join connection
+- Reset-IntuneEnrollment - reset device Intune management enrollment
+- ...
+
+__Downloads__: 391 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
+
+## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/0.5.5) | 0.5.5
+
+### Published: 08/14/2022 10:28:36 by hugoalh
+
+Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
+
+__Downloads__: 681 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+
 ## [OpenApi.Pwsh](https://www.powershellgallery.com/Packages/OpenApi.Pwsh/0.2.0) | 0.2.0
 
 ### Published: 08/14/2022 09:22:16 by Masatoshi Higuchi
@@ -51,7 +116,7 @@ __Downloads__: 0 | __Repository__: https://adam-bacon.netlify.app/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,116,525 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,116,522 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
 
@@ -79,23 +144,6 @@ __Downloads__: 202 | __Repository__: https://github.com/StartAutomating/ugit
 ****************************************************************************************************
 
 __Downloads__: 308 | __Repository__: https://github.com/svesavov/SnsPsModule
-
-## [SnsPsScriptsMonitoring](https://www.powershellgallery.com/Packages/SnsPsScriptsMonitoring/1.0.0.8) | 1.0.0.8
-
-### Published: 08/13/2022 11:25:43 by Svetoslav Nedyalkov Savov
-
-****************************************************************************************************
-*                                                                                                  *
-*                            SnsPsScriptsMonitoring - PowerShell Module                            *
-*                                     ModuleVersion - 1.0.0.8                                      *
-*                                                                                                  *
-*         AUTHOR:    Svetoslav Nedyalkov Savov                                                     *
-*         THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE RISK         *
-*         OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.               *
-*                                                                                                  *
-****************************************************************************************************
-
-__Downloads__: 250 | __Repository__: https://github.com/svesavov/SnsPsScriptsMonitoring
 
 ## [SnsSqlitePsModule](https://www.powershellgallery.com/Packages/SnsSqlitePsModule/1.0.1.4) | 1.0.1.4
 
@@ -287,7 +335,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 274,367 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 274,366 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [Format-Markdown](https://www.powershellgallery.com/Packages/Format-Markdown/1.0.1) | 1.0.1
 
@@ -495,7 +543,7 @@ __Downloads__: 3,697 | __Repository__: https://github.com/StartAutomating/EZOut
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,079,863 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,079,832 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Pansies](https://www.powershellgallery.com/Packages/Pansies/2.4.0) | 2.4.0
 
@@ -503,7 +551,7 @@ __Downloads__: 3,079,863 | __Repository__: https://www.red-gate.com/sca/productp
 
 A PowerShell module for handling color and cursor positioning via ANSI escape sequences
 
-__Downloads__: 37,041 | __Repository__: https://github.com/PoshCode/Pansies
+__Downloads__: 37,039 | __Repository__: https://github.com/PoshCode/Pansies
 
 ## [Metadata](https://www.powershellgallery.com/Packages/Metadata/1.5.5) | 1.5.5
 
@@ -511,7 +559,7 @@ __Downloads__: 37,041 | __Repository__: https://github.com/PoshCode/Pansies
 
 A module for PowerShell data serialization
 
-__Downloads__: 75,900 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 75,904 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [BrazenCloud.ADK](https://www.powershellgallery.com/Packages/BrazenCloud.ADK/0.1.1) | 0.1.1
 
@@ -544,7 +592,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 51,694,976 | __Repository__: http://get-carbon.org/
+__Downloads__: 51,695,446 | __Repository__: http://get-carbon.org/
 
 ## [VirusTotalAnalyzer](https://www.powershellgallery.com/Packages/VirusTotalAnalyzer/0.0.3) | 0.0.3
 
@@ -608,7 +656,7 @@ __Downloads__: 9,581 | __Repository__: https://github.com/DanGough/Nevergreen
 
 Powershell API for Snipeit Asset Management
 
-__Downloads__: 1,609,143 | __Repository__: 
+__Downloads__: 1,609,001 | __Repository__: 
 
 ## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.8.10) | 22.8.10
 
@@ -2040,7 +2088,7 @@ __Downloads__: 118,761 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 Module with DSC Resources for Remote Desktop Session Host
 
-__Downloads__: 411,954 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
+__Downloads__: 411,964 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
 
 ## [PsSqlTestServer](https://www.powershellgallery.com/Packages/PsSqlTestServer/1.3.0) | 1.3.0
 
@@ -2064,7 +2112,7 @@ __Downloads__: 183 | __Repository__: https://www.powershellgallery.com/packages/
 
 PowerShell module
 
-__Downloads__: 655,134 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
+__Downloads__: 655,139 | __Repository__: https://www.github.com/microsoft/navcontainerhelper
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.0) | 1.0.0
 
@@ -2080,7 +2128,7 @@ __Downloads__: 8 | __Repository__: https://adam-bacon.netlify.app/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 763,385 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 763,366 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [ConsoleImage](https://www.powershellgallery.com/Packages/ConsoleImage/1.0.0) | 1.0.0
 
@@ -2122,52 +2170,4 @@ A PowerShell 7 module for managing work and personal tasks or to-do items. This 
 
 __Downloads__: 33 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.122) | 1.1.122
-
-### Published: 08/06/2022 13:20:51 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,821,586 | __Repository__: https://dbatools.io/
-
-## [kbupdate](https://www.powershellgallery.com/Packages/kbupdate/1.5.12) | 1.5.12
-
-### Published: 08/06/2022 11:57:28 by Chrissy LeMaire
-
-KB Viewer, Saver, Installer and Uninstaller
-
-__Downloads__: 539,215 | __Repository__: 
-
-## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.233) | 0.0.233
-
-### Published: 08/06/2022 09:42:10 by Przemyslaw Klys
-
-Module covering functions that are shared within multiple projects
-
-__Downloads__: 141,858 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
-
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.25) | 2.0.25
-
-### Published: 08/06/2022 06:48:07 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 69 | __Repository__: 
-
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.18) | 0.0.18
-
-### Published: 08/06/2022 06:33:02 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 31 | __Repository__: 
-
-## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.78) | 1.0.78
-
-### Published: 08/05/2022 18:03:29 by Jeremy La Camera
-
-Module for multithreading PowerShell commands using .Net Runspaces
-
-__Downloads__: 34 | __Repository__: 
-
-*Updated: Sunday, 14 August 2022 09:52:20 UTC*
+*Updated: Sunday, 14 August 2022 17:52:52 UTC*
