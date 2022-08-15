@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 14 August 2022 17:53:03 UTC
+Updated: Monday, 15 August 2022 02:42:31 UTC
 
 ?:
 ??
@@ -298,7 +298,6 @@ apache
 api
 api-client
 api-gateway
-apichecks
 apiclient
 apigateway
 apigee
@@ -475,6 +474,7 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 autopilot
 autoscaling
 autostart
@@ -1079,6 +1079,7 @@ codaamok
 code
 code-page
 code365
+codeanalysis
 codebuild
 codecov
 codecoverage
@@ -1233,6 +1234,7 @@ continuousdeployment
 continuousintegration
 control
 controller
+controlroom
 convereter
 converged_data_management
 conversational
@@ -2044,9 +2046,7 @@ exchangewebservices
 exclusion
 excuse
 exe
-exec
 executable
-executables
 execute
 exexml
 exif
@@ -2194,6 +2194,8 @@ financeoperations
 financial
 financialforce
 find
+find-call
+find-caller
 find-file
 find-path
 findlocation
@@ -2357,6 +2359,8 @@ geocaching
 geoencode
 geoencoding
 geolocation
+geosearching
+geotagging
 get
 get_random_password
 get-childitem
@@ -2400,6 +2404,7 @@ gh-actions
 ghactions
 ghc
 ghibli
+ghost
 gif
 gifs
 giphy
@@ -2578,8 +2583,6 @@ heavenbay
 helix
 hello
 helloid
-helloposhgallery
-helloworld
 helmet
 help
 helpdesk
@@ -2715,7 +2718,6 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
-icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -2801,6 +2803,7 @@ incidentresponse
 incontact
 indents
 index
+indexdb
 inedo
 inetfwrule
 influx
@@ -3000,6 +3003,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -3514,6 +3518,7 @@ mim
 mimekit
 min
 mindmeister
+minecraft
 minifier
 minimal
 minimum
@@ -4597,6 +4602,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -4804,6 +4810,7 @@ redshift
 redteaming
 redundancy
 refactor
+refactoring
 refeds
 refeds-mfa
 refedsmfa
@@ -4987,6 +4994,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -5105,7 +5113,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5135,6 +5142,7 @@ scripting
 scriptlogging
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -5380,8 +5388,6 @@ size
 skatterbrainz
 skattertools
 skeleton-loader
-skia
-skiasharp
 skolnilogin
 sktools
 sku
@@ -5437,6 +5443,7 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 snugglepup
@@ -5813,6 +5820,7 @@ taskmanagement
 tasks
 taskscheduler
 taxjar
+taxonomy
 tcp
 tcp/ip
 tcpip
@@ -5859,6 +5867,7 @@ termbin
 terminal
 terminal-services
 terminal.gui
+termset
 ternary
 terraform
 terraformcloud
@@ -6125,7 +6134,6 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 udcm
 udfeedback
 udp
@@ -6317,6 +6325,7 @@ video
 videos
 vie
 viewer
+viewgroup
 vigenere
 vim
 vimode
@@ -6568,6 +6577,7 @@ windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
+windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
@@ -6636,7 +6646,6 @@ woolworths
 woolworthsrewards
 word
 word-wrap
-wordcloud
 wordlist
 wordpress
 wordwrap
