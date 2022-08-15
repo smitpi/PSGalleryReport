@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 15 August 2022 02:42:31 UTC
+Updated: Monday, 15 August 2022 09:52:45 UTC
 
 ?:
 ??
@@ -151,7 +151,6 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
-adgroupmemberobjects
 adgroups
 adif
 adm
@@ -239,7 +238,6 @@ algorithms
 alias
 aliases
 aliens
-all
 alletra
 alm
 almrangers
@@ -289,7 +287,6 @@ ansible
 antimalwarescaninterface
 antispam
 antivirus
-any
 anyconnect
 anypoint
 anywhere
@@ -298,6 +295,7 @@ apache
 api
 api-client
 api-gateway
+apichecks
 apiclient
 apigateway
 apigee
@@ -731,7 +729,6 @@ book
 bookmark
 bookmarks
 books
-bool
 bootloader
 bootstrap
 bootstrapping
@@ -1166,7 +1163,6 @@ computersite
 concur
 concurrent
 conda
-condition
 conditionalaccess
 conduit
 conference
@@ -1247,7 +1243,6 @@ converter
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1931,14 +1926,12 @@ entity
 entityframework
 entropy
 enum
-enumerable
 env
 environment
 environment-variables
 environmentmanagent
 environmentmodules
 environments
-environmentvariable
 environmentvariables
 envvar
 envvars
@@ -2046,7 +2039,9 @@ exchangewebservices
 exclusion
 excuse
 exe
+exec
 executable
+executables
 execute
 exexml
 exif
@@ -2551,7 +2546,6 @@ harvestforecast
 hash
 hashcat
 hashicorp
-hashset
 hashtable
 hasicorp
 haskell
@@ -2583,6 +2577,8 @@ heavenbay
 helix
 hello
 helloid
+helloposhgallery
+helloworld
 helmet
 help
 helpdesk
@@ -2718,6 +2714,7 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
+icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -3541,7 +3538,6 @@ mobile
 mobilitycontroller
 mock
 mocking
-modify
 module
 modulebuild
 modulecreation
@@ -4030,7 +4026,6 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -4088,7 +4083,6 @@ parameters
 parclient
 pardot
 parititions
-parool
 parquet
 parse
 parser
@@ -4234,7 +4228,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pni
 pnp
@@ -4378,7 +4371,6 @@ ppt
 pptp
 pptx
 pranks
-predicate
 prediction
 predictive
 predictor
@@ -4705,10 +4697,8 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
-quota
 quote
 quotes
 quoting
@@ -5109,10 +5099,12 @@ schulverwaltung
 science
 scissors
 scm
+scmanager
 scom
 sconfig
 scoop
 scope
+score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5266,7 +5258,6 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
-serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5388,6 +5379,8 @@ size
 skatterbrainz
 skattertools
 skeleton-loader
+skia
+skiasharp
 skolnilogin
 sktools
 sku
@@ -5652,6 +5645,7 @@ storage
 storageaccount
 storagecache
 storagegrid-webscale
+storagemover
 storagesync
 store
 storefront
@@ -5876,11 +5870,9 @@ tesla
 test
 test-dscconfiguration
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6134,6 +6126,7 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 udcm
 udfeedback
 udp
@@ -6419,7 +6412,6 @@ vsa
 vsan
 vscode
 vsdevcmd
-vsdevshell
 vsenvironment
 vsm
 vso
@@ -6529,7 +6521,6 @@ what3words
 whatismyip
 whatsnew
 whd
-where
 whfb
 whiteboard
 whitespace
@@ -6646,6 +6637,7 @@ woolworths
 woolworthsrewards
 word
 word-wrap
+wordcloud
 wordlist
 wordpress
 wordwrap
