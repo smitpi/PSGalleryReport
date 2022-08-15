@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 15 August 2022 09:52:45 UTC
+Updated: Monday, 15 August 2022 17:53:40 UTC
 
 ?:
 ??
@@ -151,6 +151,7 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
+adgroupmemberobjects
 adgroups
 adif
 adm
@@ -238,6 +239,7 @@ algorithms
 alias
 aliases
 aliens
+all
 alletra
 alm
 almrangers
@@ -287,6 +289,7 @@ ansible
 antimalwarescaninterface
 antispam
 antivirus
+any
 anyconnect
 anypoint
 anywhere
@@ -729,6 +732,7 @@ book
 bookmark
 bookmarks
 books
+bool
 bootloader
 bootstrap
 bootstrapping
@@ -1163,6 +1167,7 @@ computersite
 concur
 concurrent
 conda
+condition
 conditionalaccess
 conduit
 conference
@@ -1243,6 +1248,7 @@ converter
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1926,12 +1932,14 @@ entity
 entityframework
 entropy
 enum
+enumerable
 env
 environment
 environment-variables
 environmentmanagent
 environmentmodules
 environments
+environmentvariable
 environmentvariables
 envvar
 envvars
@@ -1955,7 +1963,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2221,7 +2228,6 @@ flatfile
 flatten
 flex
 flex-query
-flexdesk
 flickr
 flowchart
 flowy
@@ -2546,6 +2552,7 @@ harvestforecast
 hash
 hashcat
 hashicorp
+hashset
 hashtable
 hasicorp
 haskell
@@ -3059,7 +3066,6 @@ knowledgebase
 koans
 korn
 kql
-krbtgt
 krick
 kubclt
 kubectl
@@ -3276,7 +3282,6 @@ lolcat
 longfile
 longfiles
 longitude
-look
 lookup
 loopback
 lpr
@@ -3527,7 +3532,6 @@ miscellaneous
 mitigation
 mitre
 mitre_att&ck
-mitrend
 mittelschule
 mixedreality
 mixer
@@ -3538,6 +3542,7 @@ mobile
 mobilitycontroller
 mock
 mocking
+modify
 module
 modulebuild
 modulecreation
@@ -3557,8 +3562,6 @@ mongo
 mongodb
 monitor
 monitoring
-monitoring_objects
-monitoring_variables
 monitoringplugins
 monitoringsolutions
 monthlyupdate
@@ -3621,9 +3624,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -3655,7 +3655,6 @@ mva
 mvn
 mvp
 mx
-mxlookup
 mycloudrevolution
 myhub
 myitprocess
@@ -4026,6 +4025,7 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -4083,6 +4083,7 @@ parameters
 parclient
 pardot
 parititions
+parool
 parquet
 parse
 parser
@@ -4228,6 +4229,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 pni
 pnp
@@ -4371,6 +4373,7 @@ ppt
 pptp
 pptx
 pranks
+predicate
 prediction
 predictive
 predictor
@@ -4567,9 +4570,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -4602,9 +4602,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -4697,6 +4694,7 @@ queue
 queues
 queuing
 quickaccess
+quickbase
 quickbooks
 quicksetup
 quote
@@ -5258,6 +5256,7 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
+serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5323,7 +5322,6 @@ shell-art
 shells
 shieldedvm
 ships
-shipstation
 shlink
 shodan
 shopify
@@ -5435,7 +5433,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -5511,6 +5508,7 @@ speed
 speedometer
 speedtest
 speedtester
+spelling
 spf
 spi
 spinnaker
@@ -5557,9 +5555,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -5800,7 +5795,6 @@ tags
 tak
 taken
 takeown
-tally
 talxis
 tanzu
 tar
@@ -5870,9 +5864,11 @@ tesla
 test
 test-dscconfiguration
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6412,6 +6408,7 @@ vsa
 vsan
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -6521,6 +6518,7 @@ what3words
 whatismyip
 whatsnew
 whd
+where
 whfb
 whiteboard
 whitespace
