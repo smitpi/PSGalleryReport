@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 16 August 2022 09:52:28 UTC
+Updated: Tuesday, 16 August 2022 17:54:00 UTC
 
 ?:
 ??
@@ -97,6 +97,7 @@ acme
 acmesharp
 acmesharp_ext
 act-on
+act!
 actifio
 actifiogo
 action
@@ -262,6 +263,7 @@ amiga
 amp
 amqp
 amsi
+amt
 amxmodx
 anaconda
 analysis
@@ -555,6 +557,7 @@ azurearc
 azureas
 azureautomation
 azureautomationnotsupported
+azurecli
 azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
@@ -765,7 +768,6 @@ broot
 browser
 browserextension
 browserhistory
-brs
 bruteforce
 bson
 btdf
@@ -810,6 +812,7 @@ caching
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -926,6 +929,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherwell
 chi
 china
 choco
@@ -1902,6 +1906,7 @@ empty
 emwarehouse
 enable-psremoting
 enable-psremotingremote
+enbrea
 enclosure
 encode
 encode64
@@ -2015,6 +2020,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2515,7 +2521,6 @@ guidtoname
 gumby
 guru
 gvim
-gwbasic
 gymnasium
 gz
 gzip
@@ -2600,7 +2605,6 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
-hg
 hibernation
 hibp
 hidden
@@ -2711,7 +2715,6 @@ ia
 iaas
 iac
 iam
-iana
 iap
 ias
 ib
@@ -3100,7 +3103,7 @@ labworker
 lake
 lambda
 lame
-lamp
+lan
 language
 languagedsc
 languageexperiencepack
@@ -3222,6 +3225,7 @@ location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3371,7 +3375,6 @@ mariadb
 mark
 markdig
 markdown
-markdownrender
 marketing
 marketo
 marketplace
@@ -3448,7 +3451,6 @@ menu
 menus
 meraki
 merakiapi
-mercurial
 merge
 mermaid
 message
@@ -3470,6 +3472,7 @@ metrolink
 mfa
 mga
 mi
+micro-orm
 microfocus
 microk8s
 microservices
@@ -3720,6 +3723,7 @@ netcore
 netfirewallrule
 netherlands
 netmask
+nets
 netsapiens
 netscaler
 netscape
@@ -3829,6 +3833,7 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
+number
 numlock
 nunit
 nupkg
@@ -3848,6 +3853,7 @@ oa
 oacli
 oacmdlets
 oacommand
+oact
 oauth
 oauth2
 oauth2.0
@@ -3949,6 +3955,7 @@ open
 open-ai
 open-ssh
 openai
+openamt
 openapi
 opendata
 openedge
@@ -4090,7 +4097,6 @@ parclient
 pardot
 parititions
 parool
-parquet
 parse
 parser
 parsing
@@ -4235,6 +4241,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 pni
 pnp
@@ -4322,8 +4329,6 @@ powermax
 powerplan
 powerplateform
 powerplatform
-powerprotect
-powerprotect_datamanager
 powersaving
 powerscheme
 powershell
@@ -4370,7 +4375,6 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
-ppdm
 ppk
 pposh
 pps
@@ -5114,9 +5118,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -5252,6 +5253,7 @@ serverless
 servermanagement
 servers
 service
+service-bus
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5263,6 +5265,7 @@ servicefabric
 servicelinker
 servicemanagementautomation
 servicemanager
+servicemanagerproxy
 servicemesh
 servicenow
 serviceplan
@@ -5810,7 +5813,6 @@ tags
 tak
 taken
 takeown
-tally
 talxis
 tanzu
 tar
@@ -6066,7 +6068,6 @@ twitter-api
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -6320,6 +6321,7 @@ version
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -6607,7 +6609,6 @@ windowsserverguisecurity
 windowsservice
 windowsstore
 windowsterminal
-windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
@@ -6646,6 +6647,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -6710,6 +6713,7 @@ wt
 wtsapi32
 wttr
 wttr.in
+wtx
 wu
 wunderlist
 wvd
@@ -6803,6 +6807,7 @@ zvm
 カタカナ
 ひらがな
 ローマ字
+全角半角変換
 寿司
 日本語
 湯婆婆
