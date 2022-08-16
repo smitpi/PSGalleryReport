@@ -5,21 +5,109 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Get-NetView](https://www.powershellgallery.com/Packages/Get-NetView/2022.8.16.209) | 2022.8.16.209
+
+### Published: 08/16/2022 00:14:46 by Dan Cuomo
+
+Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
+
+__Downloads__: 534,078 | __Repository__: https://github.com/microsoft/Get-NetView
+
+## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.8.6823) | 20.12.8.6823
+
+### Published: 08/15/2022 23:42:56 by BinaryTreePackagePublisher
+
+PowerShell Management cmdlets for Binary Tree Power365
+
+__Downloads__: 676 | __Repository__: 
+
+## [PSAbuseIPDB](https://www.powershellgallery.com/Packages/PSAbuseIPDB/0.0.1) | 0.0.1
+
+### Published: 08/15/2022 22:18:03 by dotpwsh
+
+A Powershell module for AbuseIPDB APIv2
+
+__Downloads__: 0 | __Repository__: https://github.com/madsaune/PSAbuseIPDB
+
+## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.4.3) | 1.4.3
+
+### Published: 08/15/2022 22:07:33 by Richard M. Hicks
+
+PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
+
+__Downloads__: 304 | __Repository__: 
+
+## [ConnectWiseAutomateAgent](https://www.powershellgallery.com/Packages/ConnectWiseAutomateAgent/0.1.2.0) | 0.1.2.0
+
+### Published: 08/15/2022 21:31:42 by Chris Taylor
+
+PowerShell module for working with the ConnectWise Automate Agent.
+
+__Downloads__: 29,054 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+
+## [New-Avatar](https://www.powershellgallery.com/Packages/New-Avatar/1.0.0) | 1.0.0
+
+### Published: 08/15/2022 21:22:20 by Adam Bacon
+
+This is just a fun module, it will not boost your career path using this, but it is cool, so I thought I would make it into a module. This uses the robohash.org API site which will allow you to generate either a robot, or a monster, or a robot disembodied head or finally a kitten. Based on the name you supply robohash.org
+
+__Downloads__: 0 | __Repository__: https://adam-bacon.netlify.app/
+
+## [AMAG-SMSPowershell](https://www.powershellgallery.com/Packages/AMAG-SMSPowershell/1.1.8) | 1.1.8
+
+### Published: 08/15/2022 21:15:09 by R. Josh Nylander
+
+Provides access to the Security Management System as part of the AMAG access control system.
+
+__Downloads__: 954 | __Repository__: 
+
+## [Dz.Test-InternetConnection](https://www.powershellgallery.com/Packages/Dz.Test-InternetConnection/1.0.1) | 1.0.1
+
+### Published: 08/15/2022 20:37:34 by DecimalZero
+
+Test-InternetConnection is a quick why to see if you are online utilizing DNS Lookup.
+
+__Downloads__: 0 | __Repository__: https://github.com/DecimalZero/Dz.Test-InternetConnection
+
+## [QuantaStor.PowerShell](https://www.powershellgallery.com/Packages/QuantaStor.PowerShell/5.12.8) | 5.12.8
+
+### Published: 08/15/2022 18:36:01 by osnexus
+
+PowerShell module for OSNexus QuantaStor
+
+__Downloads__: 4 | __Repository__: 
+
+## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/6.1.0.0) | 6.1.0.0
+
+### Published: 08/15/2022 18:29:46 by TransitionManager
+
+Provides TransitionManager Functionality
+
+__Downloads__: 511 | __Repository__: 
+
+## [ProvisioningTools](https://www.powershellgallery.com/Packages/ProvisioningTools/3.0.0) | 3.0.0
+
+### Published: 08/15/2022 18:01:57 by David Haymond
+
+Automates creation of Windows provisioning packages.
+
+__Downloads__: 589 | __Repository__: https://git.sr.ht/~davidhaymond/ProvisioningTools
+
+## [MSchauer.SharePoint.PowerShell](https://www.powershellgallery.com/Packages/MSchauer.SharePoint.PowerShell/1.0.2) | 1.0.2
+
+### Published: 08/15/2022 18:01:30 by Matt Schauer
+
+PowerShell module to that helps with SharePoint
+
+__Downloads__: 19 | __Repository__: https://github.com/mschauer5/MSchauer.SharePoint.PowerShell
+
 ## [ArcGIS](https://www.powershellgallery.com/Packages/ArcGIS/4.0.0) | 4.0.0
 
 ### Published: 08/15/2022 17:38:37 by Esri
 
 ArcGIS Module for PowerShell DSC
 
-__Downloads__: 35,008 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
-
-## [QuantaStor.PowerShell](https://www.powershellgallery.com/Packages/QuantaStor.PowerShell/5.12.3) | 5.12.3
-
-### Published: 08/15/2022 17:34:55 by osnexus
-
-PowerShell module for OSNexus QuantaStor
-
-__Downloads__: 4 | __Repository__: 
+__Downloads__: 35,007 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
 
 ## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.2.0) | 2022.2.2.0
 
@@ -67,7 +155,7 @@ __Downloads__: 96 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 141,883 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 141,885 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.2.2) | 4.2.2
 
@@ -91,7 +179,7 @@ __Downloads__: 27,151 | __Repository__: https://ironmansoftware.com/powershell-u
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,823,365 | __Repository__: https://dbatools.io/
+__Downloads__: 1,823,380 | __Repository__: https://dbatools.io/
 
 ## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.84) | 1.0.84
 
@@ -163,7 +251,7 @@ __Downloads__: 133 | __Repository__: https://github.com/smitpi/PSSysTray
 
 Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
-__Downloads__: 239 | __Repository__: 
+__Downloads__: 237 | __Repository__: 
 
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.28) | 2.0.28
 
@@ -171,7 +259,7 @@ __Downloads__: 239 | __Repository__:
 
 Work with the contents of NTFS volumes
 
-__Downloads__: 74 | __Repository__: 
+__Downloads__: 72 | __Repository__: 
 
 ## [MISP.Tools](https://www.powershellgallery.com/Packages/MISP.Tools/0.0.1) | 0.0.1
 
@@ -179,7 +267,7 @@ __Downloads__: 74 | __Repository__:
 
 This module assists organisations using PowerShell to interface to the MISP.
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
 ## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.12) | 1.0.12
 
@@ -211,7 +299,7 @@ __Downloads__: 1 | __Repository__: https://adam-bacon.netlify.app/
 
 Cross-platform SQL code deployment module with Continuous Deployment capabilities
 
-__Downloads__: 16,025 | __Repository__: https://github.com/sqlcollaborative/dbops
+__Downloads__: 16,020 | __Repository__: https://github.com/sqlcollaborative/dbops
 
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.19) | 0.0.19
 
@@ -227,7 +315,7 @@ __Downloads__: 35 | __Repository__:
 
 Little project to create Excel files without Microsoft Excel being installed.
 
-__Downloads__: 77,403 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
+__Downloads__: 77,404 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.21.0) | 2.21.0
 
@@ -243,7 +331,7 @@ __Downloads__: 3,360 | __Repository__: https://github.com/shurick81/Dynamics365C
 
 PowerShell module for listing Volkskrant articles
 
-__Downloads__: 891 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
+__Downloads__: 886 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
 
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.9.0) | 0.0.9.0
 
@@ -300,7 +388,7 @@ __Downloads__: 152 | __Repository__: https://www.powershellgallery.com/packages/
 
 Experimental PowerShell Module to create and edit Microsoft Word, Microsoft Excel, and Microsoft PowerPoint documents without having Microsoft Office installed.
 
-__Downloads__: 6,823 | __Repository__: https://github.com/EvotecIT/PSWriteOffice
+__Downloads__: 6,825 | __Repository__: https://github.com/EvotecIT/PSWriteOffice
 
 ## [UncommonSense.AH](https://www.powershellgallery.com/Packages/UncommonSense.AH/0.1.2) | 0.1.2
 
@@ -308,7 +396,7 @@ __Downloads__: 6,823 | __Repository__: https://github.com/EvotecIT/PSWriteOffice
 
 PowerShell module for retrieving Albert Heijn store information
 
-__Downloads__: 414 | __Repository__: https://github.com/jhoek/UncommonSense.AH
+__Downloads__: 413 | __Repository__: https://github.com/jhoek/UncommonSense.AH
 
 ## [Find-Geolocation](https://www.powershellgallery.com/Packages/Find-Geolocation/1.0.0) | 1.0.0
 
@@ -387,6 +475,23 @@ __Downloads__: 252 | __Repository__: https://github.com/svesavov/SnsPsScriptsMon
 
 __Downloads__: 421 | __Repository__: https://github.com/svesavov/SnsSqlitePsModule
 
+## [SnsMsSqlPsModule](https://www.powershellgallery.com/Packages/SnsMsSqlPsModule/0.0.0.5) | 0.0.0.5
+
+### Published: 08/13/2022 10:17:35 by Svetoslav Nedyalkov Savov
+
+****************************************************************************************************
+*                                                                                                  *
+*                               SnsMsSqlPsModule - PowerShell Module                               *
+*                                     ModuleVersion - 0.0.0.5                                      *
+*                                                                                                  *
+*         AUTHOR:    Svetoslav Nedyalkov Savov                                                     *
+*         THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE RISK         *
+*         OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.               *
+*                                                                                                  *
+****************************************************************************************************
+
+__Downloads__: 35 | __Repository__: https://github.com/svesavov/SnsMsSqlPsModule
+
 ## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.208) | 0.0.0.208
 
 ### Published: 08/13/2022 07:30:16 by Naitwatch
@@ -441,7 +546,7 @@ __Downloads__: 3,946 | __Repository__:
 
 Interact with the Secret Server REST API
 
-__Downloads__: 17,820 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 17,775 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.68.0) | 1.68.0
 
@@ -544,14 +649,6 @@ __Downloads__: 274,453 | __Repository__: https://github.com/OSDeploy/OSDSUS
 Format PowerShell object to Markdown
 
 __Downloads__: 661 | __Repository__: https://github.com/chris-peterson/pwsh-fmd
-
-## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.4.2) | 1.4.2
-
-### Published: 08/11/2022 23:52:31 by Richard M. Hicks
-
-PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
-
-__Downloads__: 305 | __Repository__: 
 
 ## [StackDeploy](https://www.powershellgallery.com/Packages/StackDeploy/1.16) | 1.16
 
@@ -703,7 +800,7 @@ __Downloads__: 374 | __Repository__: https://github.com/krymtkts/Get-GzipContent
 
 PowerShell Native Prompt Blocks
 
-__Downloads__: 12 | __Repository__: https://github.com/Jaykul/TerminalBlocks
+__Downloads__: 11 | __Repository__: https://github.com/Jaykul/TerminalBlocks
 
 ## [EZOut](https://www.powershellgallery.com/Packages/EZOut/1.9.0) | 1.9.0
 
@@ -719,7 +816,7 @@ __Downloads__: 3,700 | __Repository__: https://github.com/StartAutomating/EZOut
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,081,697 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,081,713 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Pansies](https://www.powershellgallery.com/Packages/Pansies/2.4.0) | 2.4.0
 
@@ -727,7 +824,7 @@ __Downloads__: 3,081,697 | __Repository__: https://www.red-gate.com/sca/productp
 
 A PowerShell module for handling color and cursor positioning via ANSI escape sequences
 
-__Downloads__: 37,074 | __Repository__: https://github.com/PoshCode/Pansies
+__Downloads__: 37,069 | __Repository__: https://github.com/PoshCode/Pansies
 
 ## [Metadata](https://www.powershellgallery.com/Packages/Metadata/1.5.5) | 1.5.5
 
@@ -735,7 +832,7 @@ __Downloads__: 37,074 | __Repository__: https://github.com/PoshCode/Pansies
 
 A module for PowerShell data serialization
 
-__Downloads__: 76,070 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 76,071 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [BrazenCloud.ADK](https://www.powershellgallery.com/Packages/BrazenCloud.ADK/0.1.1) | 0.1.1
 
@@ -768,7 +865,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 51,735,380 | __Repository__: http://get-carbon.org/
+__Downloads__: 51,727,245 | __Repository__: http://get-carbon.org/
 
 ## [VirusTotalAnalyzer](https://www.powershellgallery.com/Packages/VirusTotalAnalyzer/0.0.3) | 0.0.3
 
@@ -824,7 +921,7 @@ __Downloads__: 4,355 | __Repository__: https://github.com/jdhitsolutions/WingetT
 
 This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
 
-__Downloads__: 9,611 | __Repository__: https://github.com/DanGough/Nevergreen
+__Downloads__: 9,612 | __Repository__: https://github.com/DanGough/Nevergreen
 
 ## [SnipeitPS](https://www.powershellgallery.com/Packages/SnipeitPS/1.10.225) | 1.10.225
 
@@ -1943,7 +2040,7 @@ __Downloads__: 568 | __Repository__: https://support.scriptrunner.com/articles/c
 
 PowerShell script packaging, console-based editor, profiling, installer creation, WPF, TUI and Windows Forms design, and desktop automation.
 
-__Downloads__: 18,911 | __Repository__: 
+__Downloads__: 18,909 | __Repository__: 
 
 ## [AutopilotQuick](https://www.powershellgallery.com/Packages/AutopilotQuick/1.3) | 1.3
 
@@ -2076,98 +2173,4 @@ Functions that have no purpose
 
 __Downloads__: 11,032 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.12.2) | 4.12.2
-
-### Published: 08/08/2022 15:11:46 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 11,205 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.2) | 1.9.2
-
-### Published: 08/08/2022 15:11:43 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 12,015 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.8.2) | 4.8.2
-
-### Published: 08/08/2022 15:11:39 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 11,917 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.8.2) | 1.8.2
-
-### Published: 08/08/2022 15:11:35 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 13,714 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.7.5) | 0.7.5
-
-### Published: 08/08/2022 14:56:33 by Jonathan Colon
-
-A PowerShell module to generate an as built report on the configuration of Microsoft AD.
-
-__Downloads__: 3,494 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
-
-## [Outsystems.SetupTools](https://www.powershellgallery.com/Packages/Outsystems.SetupTools/3.16.0.0) | 3.16.0.0
-
-### Published: 08/08/2022 14:18:47 by Pedro Nunes
-
-Tools for installing and manage the OutSystems platform installation
-
-__Downloads__: 133,253 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
-
-## [PSSecretScanner](https://www.powershellgallery.com/Packages/PSSecretScanner/1.0.9) | 1.0.9
-
-### Published: 08/08/2022 12:36:20 by Björn Sundling
-
-Scan for secrets in code to prevent accidentaly commited secrets
-
-__Downloads__: 151 | __Repository__: https://github.com/bjompen/PSSecretScanner
-
-## [PSClock](https://www.powershellgallery.com/Packages/PSClock/1.2.0) | 1.2.0
-
-### Published: 08/08/2022 12:23:34 by Jeff Hicks
-
-A set of PowerShell commands for creating and managing a WPF-based clock that runs on your Windows desktop.
-
-__Downloads__: 269 | __Repository__: https://github.com/jdhitsolutions/PSClock
-
-## [WebServer](https://www.powershellgallery.com/Packages/WebServer/1.0.5) | 1.0.5
-
-### Published: 08/08/2022 10:26:14 by Markus Scholtes
-
-Powershell WebServer is a module that starts a webserver (without the need for IIS).
-Powershell command execution, script execution, upload, download and other functions are implemented.
-* Start-Webserver starts a webserver listening on port 8080 with binding to localhost only
-* Start-Webserver "http://+:8080/" "C:\Data" starts a webserver on port 8080 with binding to all IP addresses with base dir C:\Data
-
-You may have to configure a firewall exception to allow remote access to the chosen port, e.g. with
-netsh advfirewall firewall add rule name="Powershell Webserver" dir=in action=allow protocol=TCP localport=8080
-
-__Downloads__: 1,761 | __Repository__: https://github.com/MScholtes/WebServer
-
-## [IGN](https://www.powershellgallery.com/Packages/IGN/1.0.6) | 1.0.6
-
-### Published: 08/08/2022 07:18:50 by Aryxst
-
-Provides external apps project scaffolding and utility functions.
-
-__Downloads__: 14 | __Repository__: https://github.com/Aryxstocratic/IGN/
-
-## [ArxmlAutomation-Swc](https://www.powershellgallery.com/Packages/ArxmlAutomation-Swc/0.0.6) | 0.0.6
-
-### Published: 08/08/2022 07:01:13 by Hansong Li
-
-Advance usage to operate arxml file based on ArxmlAutomtaion Basic
-
-__Downloads__: 18 | __Repository__: 
-
-*Updated: Monday, 15 August 2022 17:53:29 UTC*
+*Updated: Tuesday, 16 August 2022 02:40:27 UTC*

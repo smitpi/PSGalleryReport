@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 15 August 2022 17:53:40 UTC
+Updated: Tuesday, 16 August 2022 02:40:37 UTC
 
 ?:
 ??
@@ -73,6 +73,7 @@ abe
 about
 abstractsyntaxtree
 abuse
+abuseipdb
 acas
 accelerator
 access
@@ -96,7 +97,6 @@ acme
 acmesharp
 acmesharp_ext
 act-on
-act!
 actifio
 actifiogo
 action
@@ -298,7 +298,6 @@ apache
 api
 api-client
 api-gateway
-apichecks
 apiclient
 apigateway
 apigee
@@ -360,9 +359,6 @@ architecuture
 archive
 archivedteams
 archivematica
-archivial
-archivial-backup
-archivial-cloud-backup
 archlinux
 arcus
 area
@@ -474,7 +470,6 @@ automate
 automatedlab
 automaticpacketreportingsystem
 automation
-automation psmodule
 automationanywhere
 autopilot
 autoscaling
@@ -487,6 +482,7 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
@@ -536,7 +532,6 @@ azure
 azure_ad
 azure_security
 azure-adx
-azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
@@ -821,7 +816,6 @@ campaign
 camtasia
 canarie
 cancel
-canonical
 cantara
 capability
 capacity
@@ -1024,7 +1018,6 @@ clone
 close-openfile
 cloud
 cloud_data_management
-cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1427,8 +1420,6 @@ dashboardservice
 dast
 data
 data_protection
-data-archive
-data-backup
 data-tier
 data-uri
 data-uri-converter
@@ -1509,6 +1500,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1577,7 +1569,6 @@ dev-tools
 devart
 devdeer
 developer
-developer_command_prompt
 developercommandprompt
 development
 devenv
@@ -1696,6 +1687,7 @@ dnsbl
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsrecord
 dnsresolver
@@ -1963,6 +1955,7 @@ errorview
 eryph
 esae
 escape
+escapecodes
 escapesequences
 escaping
 ese
@@ -2228,6 +2221,7 @@ flatfile
 flatten
 flex
 flex-query
+flexdesk
 flickr
 flowchart
 flowy
@@ -2522,6 +2516,7 @@ gzip
 ha
 haarlemsdagblad
 hack
+hacking
 hacktoberfest
 hadoop
 hafr
@@ -2560,7 +2555,6 @@ haste
 hastebin
 haveibeenpwned
 hba
-hbase
 hci
 hcl
 hcx
@@ -2720,12 +2714,9 @@ ibmhttpserver
 icinga
 icinga2
 icinga2mssql
-icinga2plugins
-icingachecks
 icingaforwindows
 icingainventory
 icingamssql
-icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
@@ -2786,7 +2777,6 @@ imagevalidation
 imagga
 imaging
 imap
-imb
 imi
 impala
 impersonation
@@ -2816,7 +2806,6 @@ info
 infoblox
 information
 informationbarriers
-informix
 infosec
 infrastructure
 infrastructureascode
@@ -2871,6 +2860,7 @@ interface
 interlogix
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -2898,8 +2888,6 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
-invoke-vsbuild
-invoke-vsdevcommand
 invokebuild
 invokemethod
 io
@@ -2961,8 +2949,6 @@ itsm
 itstore
 ivanti
 ivantips
-ivb
-ivdc
 iwi
 j
 j81-blog
@@ -3066,6 +3052,7 @@ knowledgebase
 koans
 korn
 kql
+krbtgt
 krick
 kubclt
 kubectl
@@ -3282,6 +3269,7 @@ lolcat
 longfile
 longfiles
 longitude
+look
 lookup
 loopback
 lpr
@@ -3532,6 +3520,7 @@ miscellaneous
 mitigation
 mitre
 mitre_att&ck
+mitrend
 mittelschule
 mixedreality
 mixer
@@ -3562,7 +3551,8 @@ mongo
 mongodb
 monitor
 monitoring
-monitoringplugins
+monitoring_objects
+monitoring_variables
 monitoringsolutions
 monthlyupdate
 moodle
@@ -3624,6 +3614,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -3638,7 +3631,6 @@ multi-zone
 multicloud
 multidimenstional
 multimedia
-multipass
 multiple
 multiserver
 multithread
@@ -3655,6 +3647,7 @@ mva
 mvn
 mvp
 mx
+mxlookup
 mycloudrevolution
 myhub
 myitprocess
@@ -3921,7 +3914,6 @@ onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
-online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -4234,7 +4226,6 @@ pncit
 pni
 pnp
 pode
-poe
 point
 point-to-site
 pokeapi
@@ -4570,6 +4561,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -4602,6 +4596,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5050,7 +5047,6 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
-sasdatasets
 sasxpt
 satirical
 save
@@ -5102,7 +5098,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5322,6 +5317,7 @@ shell-art
 shells
 shieldedvm
 ships
+shipstation
 shlink
 shodan
 shopify
@@ -5433,6 +5429,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -5541,7 +5538,6 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldbatools
-sqldiagapi
 sqlexport
 sqlite
 sqlitebynarymodule
@@ -5555,6 +5551,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -5795,6 +5794,7 @@ tags
 tak
 taken
 takeown
+tally
 talxis
 tanzu
 tar
@@ -5863,6 +5863,7 @@ terrafun
 tesla
 test
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
