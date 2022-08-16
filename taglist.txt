@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 16 August 2022 02:40:37 UTC
+Updated: Tuesday, 16 August 2022 09:52:28 UTC
 
 ?:
 ??
@@ -298,6 +298,7 @@ apache
 api
 api-client
 api-gateway
+apichecks
 apiclient
 apigateway
 apigee
@@ -359,6 +360,9 @@ architecuture
 archive
 archivedteams
 archivematica
+archivial
+archivial-backup
+archivial-cloud-backup
 archlinux
 arcus
 area
@@ -470,6 +474,7 @@ automate
 automatedlab
 automaticpacketreportingsystem
 automation
+automation psmodule
 automationanywhere
 autopilot
 autoscaling
@@ -532,6 +537,7 @@ azure
 azure_ad
 azure_security
 azure-adx
+azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
@@ -549,7 +555,6 @@ azurearc
 azureas
 azureautomation
 azureautomationnotsupported
-azurecli
 azurecognitiveservices
 azureconnectedmachine
 azuredatabricks
@@ -805,7 +810,6 @@ caching
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -816,6 +820,7 @@ campaign
 camtasia
 canarie
 cancel
+canonical
 cantara
 capability
 capacity
@@ -921,7 +926,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherwell
 chi
 china
 choco
@@ -1018,6 +1022,7 @@ clone
 close-openfile
 cloud
 cloud_data_management
+cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1420,6 +1425,8 @@ dashboardservice
 dast
 data
 data_protection
+data-archive
+data-backup
 data-tier
 data-uri
 data-uri-converter
@@ -1569,6 +1576,7 @@ dev-tools
 devart
 devdeer
 developer
+developer_command_prompt
 developercommandprompt
 development
 devenv
@@ -1894,7 +1902,6 @@ empty
 emwarehouse
 enable-psremoting
 enable-psremotingremote
-enbrea
 enclosure
 encode
 encode64
@@ -2008,7 +2015,6 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
-everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2555,6 +2561,7 @@ haste
 hastebin
 haveibeenpwned
 hba
+hbase
 hci
 hcl
 hcx
@@ -2714,9 +2721,12 @@ ibmhttpserver
 icinga
 icinga2
 icinga2mssql
+icinga2plugins
+icingachecks
 icingaforwindows
 icingainventory
 icingamssql
+icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
@@ -2777,6 +2787,7 @@ imagevalidation
 imagga
 imaging
 imap
+imb
 imi
 impala
 impersonation
@@ -2806,6 +2817,7 @@ info
 infoblox
 information
 informationbarriers
+informix
 infosec
 infrastructure
 infrastructureascode
@@ -2888,6 +2900,8 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
+invoke-vsbuild
+invoke-vsdevcommand
 invokebuild
 invokemethod
 io
@@ -2949,6 +2963,8 @@ itsm
 itstore
 ivanti
 ivantips
+ivb
+ivdc
 iwi
 j
 j81-blog
@@ -3085,7 +3101,6 @@ lake
 lambda
 lame
 lamp
-lan
 language
 languagedsc
 languageexperiencepack
@@ -3207,7 +3222,6 @@ location
 locationbasedservices
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3456,7 +3470,6 @@ metrolink
 mfa
 mga
 mi
-micro-orm
 microfocus
 microk8s
 microservices
@@ -3553,6 +3566,7 @@ monitor
 monitoring
 monitoring_objects
 monitoring_variables
+monitoringplugins
 monitoringsolutions
 monthlyupdate
 moodle
@@ -3631,6 +3645,7 @@ multi-zone
 multicloud
 multidimenstional
 multimedia
+multipass
 multiple
 multiserver
 multithread
@@ -3705,7 +3720,6 @@ netcore
 netfirewallrule
 netherlands
 netmask
-nets
 netsapiens
 netscaler
 netscape
@@ -3815,7 +3829,6 @@ nuget-references
 nuget.exe
 nuget.org
 null-coalescing
-number
 numlock
 nunit
 nupkg
@@ -3914,6 +3927,7 @@ onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
+online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -4221,11 +4235,11 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pni
 pnp
 pode
+poe
 point
 point-to-site
 pokeapi
@@ -5047,6 +5061,7 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
+sasdatasets
 sasxpt
 satirical
 save
@@ -5098,6 +5113,7 @@ scom
 sconfig
 scoop
 scope
+score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5236,7 +5252,6 @@ serverless
 servermanagement
 servers
 service
-service-bus
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5248,7 +5263,6 @@ servicefabric
 servicelinker
 servicemanagementautomation
 servicemanager
-servicemanagerproxy
 servicemesh
 servicenow
 serviceplan
@@ -5280,6 +5294,7 @@ setting
 settings
 setup
 setupbasic.cmdlet
+setupbasic.env
 setupbasic.install
 setupbasic.publish
 setupbasic.taskscheduler
@@ -5538,6 +5553,7 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldbatools
+sqldiagapi
 sqlexport
 sqlite
 sqlitebynarymodule
@@ -6304,7 +6320,6 @@ version
 versioncontrol
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -6409,7 +6424,6 @@ vsa
 vsan
 vscode
 vsdevcmd
-vsdevshell
 vsenvironment
 vsm
 vso
@@ -6632,8 +6646,6 @@ wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -6698,7 +6710,6 @@ wt
 wtsapi32
 wttr
 wttr.in
-wtx
 wu
 wunderlist
 wvd
@@ -6792,7 +6803,6 @@ zvm
 カタカナ
 ひらがな
 ローマ字
-全角半角変換
 寿司
 日本語
 湯婆婆
