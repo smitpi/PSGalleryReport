@@ -5,13 +5,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.9) | 1.0.9
+
+### Published: 08/17/2022 07:34:55 by Jos Lieben
+
+Automatically right sizes any Azure Windows VM based on configurable telemetry data to the optimal size based on cpu/mem, performance rating and cost. Use Get-Help set-vmRightSize or Get-Help set-rsgRightSize for more information on specific commands.
+
+__Downloads__: 93 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/automatic-modular-rightsizing-of-azure-vms-with-special-focus-on-azure-virtual-desktop/
+
+## [SetUpBasic.Env](https://www.powershellgallery.com/Packages/SetUpBasic.Env/0.0.0.2) | 0.0.0.2
+
+### Published: 08/17/2022 05:30:32 by Naitwatch
+
+Powershell module SetUpBasic.Env. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 2 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Env
+
+## [Metadata](https://www.powershellgallery.com/Packages/Metadata/1.5.7) | 1.5.7
+
+### Published: 08/17/2022 05:03:00 by Joel Bennett
+
+A module for PowerShell data serialization
+
+__Downloads__: 76,399 | __Repository__: https://github.com/PoshCode/Metadata
+
+## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.3) | 0.0.3
+
+### Published: 08/17/2022 03:54:53 by CR
+
+It contains various scripts for Tisane clients to make changes to the Language model
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSF](https://www.powershellgallery.com/Packages/PSF/0.11.2) | 0.11.2
+
+### Published: 08/17/2022 03:13:16 by Colin Roche Dan Anstis
+
+PowerShell Functions Module
+
+__Downloads__: 466 | __Repository__: https://github.com/danstis/PSF-Module
+
+## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.4.4) | 1.4.4
+
+### Published: 08/17/2022 02:49:48 by Richard M. Hicks
+
+PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
+
+__Downloads__: 310 | __Repository__: 
+
 ## [psPAS](https://www.powershellgallery.com/Packages/psPAS/5.3.76) | 5.3.76
 
 ### Published: 08/17/2022 00:21:44 by Pete Maan
 
 Module for CyberArk Privileged Access Security Web Service REST API
 
-__Downloads__: 40,263 | __Repository__: https://pspas.pspete.dev/
+__Downloads__: 40,262 | __Repository__: https://pspas.pspete.dev/
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/38.1.0) | 38.1.0
 
@@ -1030,14 +1078,6 @@ AZ Table API commands
 
 __Downloads__: 0 | __Repository__: 
 
-## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.2) | 0.0.2
-
-### Published: 08/16/2022 15:32:24 by aciq
-
-Experimental Cross platform PowerShell tab expansion
-
-__Downloads__: 1 | __Repository__: https://github.com/aciq/pscomplete/
-
 ## [KeDo_AzureGraphAPI](https://www.powershellgallery.com/Packages/KeDo_AzureGraphAPI/3.0.1) | 3.0.1
 
 ### Published: 08/16/2022 15:28:38 by Ken Dobrunz
@@ -1062,21 +1102,13 @@ Helper module to TisaneLampClient, manages setting values to the variables
 
 __Downloads__: 0 | __Repository__: 
 
-## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.2) | 0.0.2
-
-### Published: 08/16/2022 14:50:45 by CR
-
-contains function for Tisane Lamp to alter Language Models
-
-__Downloads__: 0 | __Repository__: 
-
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/2.2208.397.134009) | 2.2208.397.134009
 
 ### Published: 08/16/2022 13:40:40 by Adam Rudell
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 9,294 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 9,286 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.2.3) | 4.2.3
 
@@ -1142,14 +1174,6 @@ Common functionality to configure and manage Cloud Assert and Hybr Services.
 
 __Downloads__: 548 | __Repository__: 
 
-## [SetUpBasic.Env](https://www.powershellgallery.com/Packages/SetUpBasic.Env/0.0.0.1) | 0.0.0.1
-
-### Published: 08/16/2022 05:23:23 by Naitwatch
-
-Powershell module SetUpBasic.Env. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 2 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Env
-
 ## [ArxmlAutomation-Swc-Advance](https://www.powershellgallery.com/Packages/ArxmlAutomation-Swc-Advance/0.0.7) | 0.0.7
 
 ### Published: 08/16/2022 03:26:03 by LeanMeatFloss
@@ -1204,7 +1228,7 @@ __Downloads__: 8 | __Repository__:
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 534,974 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 534,957 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.8.6823) | 20.12.8.6823
 
@@ -1222,21 +1246,13 @@ A Powershell module for AbuseIPDB APIv2
 
 __Downloads__: 1 | __Repository__: https://github.com/madsaune/PSAbuseIPDB
 
-## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.4.3) | 1.4.3
-
-### Published: 08/15/2022 22:07:33 by Richard M. Hicks
-
-PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
-
-__Downloads__: 310 | __Repository__: 
-
 ## [ConnectWiseAutomateAgent](https://www.powershellgallery.com/Packages/ConnectWiseAutomateAgent/0.1.2.0) | 0.1.2.0
 
 ### Published: 08/15/2022 21:31:42 by Chris Taylor
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 34,422 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 34,412 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [New-Avatar](https://www.powershellgallery.com/Packages/New-Avatar/1.0.0) | 1.0.0
 
@@ -1388,7 +1404,7 @@ __Downloads__: 71 | __Repository__:
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 545,828 | __Repository__: 
+__Downloads__: 544,523 | __Repository__: 
 
 ## [kbupdate-library](https://www.powershellgallery.com/Packages/kbupdate-library/1.1.8) | 1.1.8
 
@@ -1396,7 +1412,7 @@ __Downloads__: 545,828 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 560,355 | __Repository__: 
+__Downloads__: 558,889 | __Repository__: 
 
 ## [PSSysTray](https://www.powershellgallery.com/Packages/PSSysTray/0.1.13) | 0.1.13
 
@@ -1502,30 +1518,13 @@ PowerShell module for listing Trouw articles
 
 __Downloads__: 252 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
 
-## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.9) | 1.0.9
-
-### Published: 08/14/2022 14:06:04 by @AndrewZtrhgf
-
-Various Intune related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the interesting functions:
-- Get-ClientIntunePolicyResult - RSOP/gpresult for Intune
-- Invoke-IntuneScriptRedeploy - redeploy script deployed from Intune
-- Invoke-IntuneWin32AppRedeploy - redeploy application deployed from Intune
-- Get-IntuneLog - opens Intune logs (files & system logs)
-- Reset-HybridADJoin - reset Hybrid AzureAD join connection
-- Reset-IntuneEnrollment - reset device Intune management enrollment
-- ...
-
-__Downloads__: 403 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
-
 ## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/0.5.5) | 0.5.5
 
 ### Published: 08/14/2022 10:28:36 by hugoalh
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 695 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 696 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [OpenApi.Pwsh](https://www.powershellgallery.com/Packages/OpenApi.Pwsh/0.2.0) | 0.2.0
 
@@ -1699,7 +1698,7 @@ __Downloads__: 4 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHel
 
 Sample module for interacting with UEFI from PowerShell
 
-__Downloads__: 4,026 | __Repository__: 
+__Downloads__: 4,029 | __Repository__: 
 
 ## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.60.8) | 0.60.8
 
@@ -1969,15 +1968,15 @@ __Downloads__: 3,085,914 | __Repository__: https://www.red-gate.com/sca/productp
 
 A PowerShell module for handling color and cursor positioning via ANSI escape sequences
 
-__Downloads__: 37,125 | __Repository__: https://github.com/PoshCode/Pansies
+__Downloads__: 37,127 | __Repository__: https://github.com/PoshCode/Pansies
 
-## [Metadata](https://www.powershellgallery.com/Packages/Metadata/1.5.5) | 1.5.5
+## [BrazenCloud.ADK](https://www.powershellgallery.com/Packages/BrazenCloud.ADK/0.1.1) | 0.1.1
 
-### Published: 08/11/2022 02:30:45 by Joel Bennett
+### Published: 08/10/2022 18:04:04 by ThePoShWolf
 
-A module for PowerShell data serialization
+BrazenCloud's PowerShell Action Development Toolkit
 
-__Downloads__: 76,400 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 30 | __Repository__: 
 
 ## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.12.0) | 2.12.0
 
@@ -2002,7 +2001,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 51,776,436 | __Repository__: http://get-carbon.org/
+__Downloads__: 51,776,149 | __Repository__: http://get-carbon.org/
 
 ## [VirusTotalAnalyzer](https://www.powershellgallery.com/Packages/VirusTotalAnalyzer/0.0.3) | 0.0.3
 
@@ -2066,7 +2065,7 @@ __Downloads__: 9,719 | __Repository__: https://github.com/DanGough/Nevergreen
 
 Powershell API for Snipeit Asset Management
 
-__Downloads__: 1,620,215 | __Repository__: 
+__Downloads__: 1,620,079 | __Repository__: 
 
 ## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.8.10) | 22.8.10
 
@@ -2085,12 +2084,4 @@ Outlook Signature Generator
 
 __Downloads__: 19 | __Repository__: 
 
-## [WebKitDev](https://www.powershellgallery.com/Packages/WebKitDev/0.5.0) | 0.5.0
-
-### Published: 08/09/2022 21:37:44 by Don Olmstead
-
-PowerShell scripts for WebKit development on Windows
-
-__Downloads__: 5,339 | __Repository__: 
-
-*Updated: Wednesday, 17 August 2022 02:42:50 UTC*
+*Updated: Wednesday, 17 August 2022 09:53:15 UTC*

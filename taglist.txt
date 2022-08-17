@@ -1,9 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 17 August 2022 02:43:01 UTC
+Updated: Wednesday, 17 August 2022 09:53:27 UTC
 
-?:
-??
 .bat
 .env
 .net
@@ -145,6 +143,7 @@ address
 addresses
 adds
 addtypeaccelerators
+adf
 adfs
 adfsconfiguration
 adfsdiagnostics
@@ -404,7 +403,6 @@ asp
 asp.net
 aspnet
 aspnet_regiis
-asr
 assembleenationale
 assemblymeta
 assert
@@ -723,7 +721,6 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -820,7 +817,6 @@ callqueue
 cam
 camera
 campaign
-camtasia
 canarie
 cancel
 canonical
@@ -967,6 +963,7 @@ circuit-breaker
 circumlunar
 cireson
 ciresonassetmanagement
+ciresonportal
 cis
 cisco
 ciscoucscmdlets
@@ -1121,6 +1118,7 @@ combine
 comdata
 comic
 comical
+comics
 command
 command_line
 command-validation
@@ -1761,7 +1759,6 @@ dq
 dr
 draw
 drawio
-dreamweaver
 dreary
 drift
 driftmonitor
@@ -2738,7 +2735,6 @@ icingawindows
 icloud
 icmp
 icon
-icons
 icraftsoftware
 icws
 id
@@ -3081,7 +3077,6 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
-kubespray
 kudu
 kurukuru
 kusto
@@ -3105,7 +3100,6 @@ labworker
 lake
 lambda
 lame
-lamp
 lan
 language
 languagedsc
@@ -3130,7 +3124,6 @@ layman
 layout
 lazywinadmin
 lbd
-lbi
 lbs
 lcm
 lcminternals
@@ -3195,6 +3188,8 @@ linux
 linux-command
 linuxssh
 liquid
+liquit
+liquit.com
 list
 list_files
 list-directory
@@ -3217,7 +3212,6 @@ local
 local-caching
 local-policy
 localadmin
-localconfigurationmanager
 localdb
 locale
 localgroup
@@ -3383,6 +3377,7 @@ marketplace
 marketplaceordering
 marking
 marklogic
+marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -3515,7 +3510,6 @@ microsoftstore
 microsoftteams
 microsoftword
 middleware
-midserver
 migrate
 migration
 migration-tool
@@ -3543,6 +3537,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mlflow
 mmdc
 mobile
 mobilitycontroller
@@ -3559,7 +3554,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 money
@@ -3768,7 +3762,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-ngen
 ngfw
 nhl
 nic
@@ -3833,7 +3826,6 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
-null-coalescing
 number
 numlock
 nunit
@@ -3927,7 +3919,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -3983,7 +3974,6 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
-operators
 opml
 ops
 opsi
@@ -4588,7 +4578,6 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
-psngenposh
 psobject
 pspath
 pspowerhour
@@ -4683,6 +4672,7 @@ pxedistributionpoint
 pyranja
 python
 python-for-dotnet
+qcloud
 qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
@@ -4778,7 +4768,6 @@ readthedocs
 realschule
 rebase
 reboot
-rebootnodeifneeded
 reckon
 recommendation
 reconcile
@@ -5108,6 +5097,7 @@ scheduling
 schema
 schemaextensions
 scheme
+school-information-system
 schulung
 schulverwaltung
 science
@@ -5119,9 +5109,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -5397,6 +5384,7 @@ skattertools
 skeleton-loader
 skia
 skiasharp
+skolnilogin
 sktools
 sku
 skunklab
@@ -5719,6 +5707,7 @@ sullivan
 summary
 sumologic
 supercell
+superheros
 supermarket
 support
 suppress
@@ -5850,7 +5839,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-techsmith
 tel
 telegram
 telegram-bot
@@ -5877,7 +5865,6 @@ terminal
 terminal-services
 terminal.gui
 termset
-ternary
 terraform
 terraformcloud
 terrafun
@@ -6022,7 +6009,6 @@ transmission
 transparency
 transpilation
 trap
-trec
 tree
 treesize
 treffynnon
@@ -6453,7 +6439,6 @@ vvx
 vxrail
 w32time
 w3svc
-w3w
 waa
 waas
 wac
@@ -6536,7 +6521,6 @@ well-known
 wem
 wemsdk
 wer
-what3words
 whatismyip
 whatsnew
 whd
