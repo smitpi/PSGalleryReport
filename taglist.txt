@@ -1,7 +1,9 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 17 August 2022 09:53:27 UTC
+Updated: Wednesday, 17 August 2022 17:54:23 UTC
 
+?:
+??
 .bat
 .env
 .net
@@ -403,6 +405,7 @@ asp
 asp.net
 aspnet
 aspnet_regiis
+asr
 assembleenationale
 assemblymeta
 assert
@@ -706,7 +709,6 @@ blade
 bladeserver
 blaze
 blob
-blobstorage
 block
 block-kit
 blockchain
@@ -721,6 +723,7 @@ blueprints
 blueteam
 bluetraitio
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -817,6 +820,7 @@ callqueue
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 canonical
@@ -1693,7 +1697,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsdumpster
 dnsentry
 dnsimple
 dnslookup
@@ -1759,6 +1762,7 @@ dq
 dr
 draw
 drawio
+dreamweaver
 dreary
 drift
 driftmonitor
@@ -2270,7 +2274,6 @@ fortigate
 fortigi
 fortimanager
 fortinet
-fortinetmanager
 fortios
 fortune
 forum
@@ -2366,6 +2369,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-childitem
 get-cmhealthcheck
 get-command
@@ -2384,7 +2388,6 @@ get-externalip
 get-firmwaretype
 get-help
 get-history
-get-iislog
 get-openfile
 get-openfiles
 get-pass
@@ -2735,6 +2738,7 @@ icingawindows
 icloud
 icmp
 icon
+icons
 icraftsoftware
 icws
 id
@@ -2978,7 +2982,6 @@ javascript
 javaversion
 jboss
 jdbc
-jdedwards
 jdt
 jea
 jenkins
@@ -3077,6 +3080,7 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
+kubespray
 kudu
 kurukuru
 kusto
@@ -3100,6 +3104,7 @@ labworker
 lake
 lambda
 lame
+lamp
 lan
 language
 languagedsc
@@ -3124,6 +3129,7 @@ layman
 layout
 lazywinadmin
 lbd
+lbi
 lbs
 lcm
 lcminternals
@@ -3212,6 +3218,7 @@ local
 local-caching
 local-policy
 localadmin
+localconfigurationmanager
 localdb
 locale
 localgroup
@@ -3313,7 +3320,6 @@ machinelearningservices
 macmon
 macos
 macosx
-macros
 madlib
 magazine
 magento
@@ -3399,7 +3405,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -3554,6 +3559,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 money
@@ -3762,6 +3768,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+ngen
 ngfw
 nhl
 nic
@@ -3826,6 +3833,7 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
+null-coalescing
 number
 numlock
 nunit
@@ -3919,6 +3927,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -3974,6 +3983,7 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
+operators
 opml
 ops
 opsi
@@ -4103,6 +4113,7 @@ passivetotal
 passphrase
 passphraser passphrase password generator entropy
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -4369,6 +4380,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -4578,6 +4590,7 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
+psngenposh
 psobject
 pspath
 pspowerhour
@@ -4768,6 +4781,7 @@ readthedocs
 realschule
 rebase
 reboot
+rebootnodeifneeded
 reckon
 recommendation
 reconcile
@@ -5109,6 +5123,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -5730,7 +5747,6 @@ swis
 switch
 sxs
 sybase
-sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5839,6 +5855,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+techsmith
 tel
 telegram
 telegram-bot
@@ -5865,6 +5882,7 @@ terminal
 terminal-services
 terminal.gui
 termset
+ternary
 terraform
 terraformcloud
 terrafun
@@ -6009,6 +6027,7 @@ transmission
 transparency
 transpilation
 trap
+trec
 tree
 treesize
 treffynnon
@@ -6439,6 +6458,7 @@ vvx
 vxrail
 w32time
 w3svc
+w3w
 waa
 waas
 wac
@@ -6521,6 +6541,7 @@ well-known
 wem
 wemsdk
 wer
+what3words
 whatismyip
 whatsnew
 whd
