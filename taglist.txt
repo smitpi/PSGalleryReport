@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 17 August 2022 17:54:23 UTC
+Updated: Thursday, 18 August 2022 02:44:19 UTC
 
 ?:
 ??
@@ -487,7 +487,6 @@ autotaskpsa
 autoyast
 availability
 availabilityset
-avalara
 avalonia
 avatar
 avd
@@ -709,6 +708,7 @@ blade
 bladeserver
 blaze
 blob
+blobstorage
 block
 block-kit
 blockchain
@@ -721,9 +721,7 @@ bluedolhin
 blueprint
 blueprints
 blueteam
-bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -1697,6 +1695,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsdumpster
 dnsentry
 dnsimple
 dnslookup
@@ -2274,6 +2273,7 @@ fortigate
 fortigi
 fortimanager
 fortinet
+fortinetmanager
 fortios
 fortune
 forum
@@ -2388,6 +2388,7 @@ get-externalip
 get-firmwaretype
 get-help
 get-history
+get-iislog
 get-openfile
 get-openfiles
 get-pass
@@ -2716,7 +2717,6 @@ ia
 iaas
 iac
 iam
-iana
 iap
 ias
 ib
@@ -2898,7 +2898,6 @@ invoke
 invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
-invoke-automation
 invoke-build
 invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
@@ -2982,6 +2981,7 @@ javascript
 javaversion
 jboss
 jdbc
+jdedwards
 jdt
 jea
 jenkins
@@ -3289,7 +3289,6 @@ lolcat
 longfile
 longfiles
 longitude
-look
 lookup
 loopback
 lpr
@@ -3320,6 +3319,7 @@ machinelearningservices
 macmon
 macos
 macosx
+macros
 madlib
 magazine
 magento
@@ -3405,6 +3405,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -3515,6 +3516,7 @@ microsoftstore
 microsoftteams
 microsoftword
 middleware
+midserver
 migrate
 migration
 migration-tool
@@ -3559,7 +3561,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 money
@@ -3666,7 +3667,6 @@ mva
 mvn
 mvp
 mx
-mxlookup
 mycloudrevolution
 myhub
 myitprocess
@@ -5516,7 +5516,6 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
-speach
 speak
 speaker
 specification
@@ -5747,6 +5746,7 @@ swis
 switch
 sxs
 sybase
+sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -5812,7 +5812,6 @@ tabular
 tag
 tag-requiredmodule1-1.0
 tag-requiredmodule2-2.0
-tag-requiredmodule3-2.5
 tag1
 tag2
 tagging
@@ -5911,7 +5910,6 @@ testtool
 testusers
 text
 text-to-image
-text-to-speach"
 text-to-speech
 text2image
 textanalysis
@@ -6075,7 +6073,6 @@ twitter
 twitter-api
 twitter-client
 twitter-follow
-twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -6478,7 +6475,6 @@ wapi
 warning
 warplaneporn
 warranty
-warrenty
 wasabi
 watch
 watchguard
@@ -6619,7 +6615,6 @@ windowsserverguisecurity
 windowsservice
 windowsstore
 windowsterminal
-windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
