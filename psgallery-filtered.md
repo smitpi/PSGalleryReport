@@ -5,6 +5,160 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [CB.PSTK](https://www.powershellgallery.com/Packages/CB.PSTK/0.1.1) | 0.1.1
+
+### Published: 08/18/2022 17:33:03 by Patrick Lavallée
+
+PowerShell Module for devops and CI purposes
+
+__Downloads__: 0 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.18.1) | 22.8.18.1
+
+### Published: 08/18/2022 17:22:38 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 283,104 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.5) | 1.4.5
+
+### Published: 08/18/2022 16:11:49 by Brian Dukes
+
+A set of functions for managing websites built on the DNN Platform.
+
+__Downloads__: 1,115 | __Repository__: https://github.com/bdukes/PowerShellModules
+
+## [TisaneLampServer](https://www.powershellgallery.com/Packages/TisaneLampServer/0.0.1) | 0.0.1
+
+### Published: 08/18/2022 15:29:14 by CR
+
+Client side libs for Lamp Server
+
+__Downloads__: 0 | __Repository__: 
+
+## [KeDo_CosmosSQLAPI](https://www.powershellgallery.com/Packages/KeDo_CosmosSQLAPI/0.1.2) | 0.1.2
+
+### Published: 08/18/2022 15:08:06 by Ken Dobrunz
+
+PowerShell helper to use Azure CosmosDB REST API (Core / SQL API)
+
+__Downloads__: 2 | __Repository__: 
+
+## [Find-CrimeUK](https://www.powershellgallery.com/Packages/Find-CrimeUK/1.2) | 1.2
+
+### Published: 08/18/2022 14:37:45 by Adam Bacon
+
+Helps you locate all the crime that has happened in a particular place in the UK. As long as the police have recorded it and it has been registered on this API then it should show you the information about the crime.
+
+__Downloads__: 4 | __Repository__: https://adam-bacon.netlify.app/
+
+## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.11.1) | 0.11.1
+
+### Published: 08/18/2022 14:22:10 by DSC Community
+
+Common functions used in DSC Resources
+
+__Downloads__: 11,002 | __Repository__: https://github.com/dsccommunity/DscResource.Common
+
+## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.12) | 1.0.12
+
+### Published: 08/18/2022 14:10:21 by @AndrewZtrhgf
+
+Various Intune related functions. Some of them are explained at https://doitpsway.com.
+
+Some of the interesting functions:
+- Get-ClientIntunePolicyResult - RSOP/gpresult for Intune
+- Invoke-IntuneScriptRedeploy - redeploy script deployed from Intune
+- Invoke-IntuneWin32AppRedeploy - redeploy application deployed from Intune
+- Get-IntuneLog - opens Intune logs (files & system logs)
+- Reset-HybridADJoin - reset Hybrid AzureAD join connection
+- Reset-IntuneEnrollment - reset device Intune management enrollment
+- Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
+- ...
+
+__Downloads__: 414 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
+
+## [TUN.CredentialManager](https://www.powershellgallery.com/Packages/TUN.CredentialManager/2.1) | 2.1
+
+### Published: 08/18/2022 14:05:41 by Dave Garnar and Markus Szumovski
+
+Provides access to credentials in the Windows Credential Manager (continuation of CredentialManager by Dave Garnar)
+
+__Downloads__: 2 | __Repository__: 
+
+## [DartagnanAutomation](https://www.powershellgallery.com/Packages/DartagnanAutomation/1.0) | 1.0
+
+### Published: 08/18/2022 12:44:13 by Ali Salim Serikuli
+
+This module is designed to automate the routine.
+
+__Downloads__: 1 | __Repository__: 
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.4) | 3.2.4
+
+### Published: 08/18/2022 12:25:25 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 27,289 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [Outsystems.SetupTools](https://www.powershellgallery.com/Packages/Outsystems.SetupTools/3.16.1.0) | 3.16.1.0
+
+### Published: 08/18/2022 12:14:59 by Pedro Nunes
+
+Tools for installing and manage the OutSystems platform installation
+
+__Downloads__: 133,274 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
+
+## [PSLogAnalyticsWriter](https://www.powershellgallery.com/Packages/PSLogAnalyticsWriter/1.0.0.4) | 1.0.0.4
+
+### Published: 08/18/2022 12:07:18 by Michal Gajda
+
+Write object to LogAnalytics workspace.
+
+__Downloads__: 61 | __Repository__: https://github.com/mgajda83/PSLogAnalyticsWriter
+
+## [RunAsUser](https://www.powershellgallery.com/Packages/RunAsUser/2.3.1) | 2.3.1
+
+### Published: 08/18/2022 11:57:58 by Kelvin Tegelaar - Kelvin@limenetworks.nl
+
+This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
+
+__Downloads__: 18,411,689 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+
+## [AliModule](https://www.powershellgallery.com/Packages/AliModule/1.2) | 1.2
+
+### Published: 08/18/2022 11:47:18 by Ali Salim Serikuli
+
+This module is designed to automate the routine.
+
+__Downloads__: 0 | __Repository__: 
+
+## [GuiCompletion](https://www.powershellgallery.com/Packages/GuiCompletion/1.0.0) | 1.0.0
+
+### Published: 08/18/2022 11:16:15 by Roman Kuzmin Andrew Bradley
+
+GUI-style tab-completion menu for PowerShell.
+
+__Downloads__: 2,409 | __Repository__: https://github.com/nightroman/PS-GuiCompletion
+
+## [PowerAMT](https://www.powershellgallery.com/Packages/PowerAMT/1.1.3.1) | 1.1.3.1
+
+### Published: 08/18/2022 11:03:00 by Michael Mumenthaler
+
+PowerShell module to manage AMT Devices with the Open AMT Cloud Toolkit API
+
+__Downloads__: 21 | __Repository__: https://github.com/netricsag/PowerAMT
+
+## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.238) | 0.0.238
+
+### Published: 08/18/2022 10:07:47 by Przemyslaw Klys
+
+Module covering functions that are shared within multiple projects
+
+__Downloads__: 142,204 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
 ## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.1.0) | 1.1.0
 
 ### Published: 08/18/2022 09:37:24 by Steffen Kampmann
@@ -19,7 +173,7 @@ __Downloads__: 169 | __Repository__: https://github.com/abbgrade/PsSmo
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,090,779 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,090,841 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Stti](https://www.powershellgallery.com/Packages/Stti/1.0.0.2396) | 1.0.0.2396
 
@@ -120,14 +274,6 @@ Experimental Cross platform PowerShell tab expansion
 
 __Downloads__: 6 | __Repository__: https://github.com/aciq/pscomplete/
 
-## [CB.PSTK](https://www.powershellgallery.com/Packages/CB.PSTK/0.1.0) | 0.1.0
-
-### Published: 08/17/2022 20:04:20 by Patrick Lavallée
-
-PowerShell Module for devops and CI purposes
-
-__Downloads__: 0 | __Repository__: 
-
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.15.2) | 2.15.2
 
 ### Published: 08/17/2022 19:52:05 by Reuben Miller
@@ -182,7 +328,7 @@ __Downloads__: 78 | __Repository__: https://github.com/Callidus2000/FortiManager
 
 A module for PowerShell data serialization
 
-__Downloads__: 76,654 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 76,653 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.3) | 0.0.3
 
@@ -224,14 +370,6 @@ Oracle Cloud Infrastructure (OCI) PowerShell Modules - Cmdlets to manage resourc
 For more information, please visit: https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/powershell.htm
 
 __Downloads__: 980 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Find-CrimeUK](https://www.powershellgallery.com/Packages/Find-CrimeUK/1.1) | 1.1
-
-### Published: 08/16/2022 23:01:08 by Adam Bacon
-
-Helps you locate all the crime that has happened in a particular place in the UK. As long as the police have recorded it and it has been registered on this API then it should show you the information about the crime.
-
-__Downloads__: 4 | __Repository__: https://adam-bacon.netlify.app/
 
 ## [PuppetBolt](https://www.powershellgallery.com/Packages/PuppetBolt/3.26.1) | 3.26.1
 
@@ -1209,14 +1347,6 @@ PowerShell module for retrieving featured BBC iplayer programmes
 
 __Downloads__: 15 | __Repository__: 
 
-## [KeDo_CosmosSQLAPI](https://www.powershellgallery.com/Packages/KeDo_CosmosSQLAPI/0.1.0) | 0.1.0
-
-### Published: 08/16/2022 15:41:37 by Ken Dobrunz
-
-PowerShell helper to use Azure CosmosDB REST API (Core / SQL API)
-
-__Downloads__: 2 | __Repository__: 
-
 ## [KeDo_CoreHelper](https://www.powershellgallery.com/Packages/KeDo_CoreHelper/1.0.6) | 1.0.6
 
 ### Published: 08/16/2022 15:39:38 by Ken Dobrunz
@@ -1273,14 +1403,6 @@ Universal Dashbord v3 framework for Powershell Universal
 
 __Downloads__: 84,543 | __Repository__: https://www.ironmansoftware.com/powershell-universal
 
-## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.3) | 3.2.3
-
-### Published: 08/16/2022 13:32:55 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 27,289 | __Repository__: https://ironmansoftware.com/powershell-universal
-
 ## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.6) | 0.2.6
 
 ### Published: 08/16/2022 13:32:48 by COMMVAULT
@@ -1305,21 +1427,13 @@ DSC resources to deploy and configure SCOM. Major revamp of xScom.
 
 __Downloads__: 30 | __Repository__: 
 
-## [PowerAMT](https://www.powershellgallery.com/Packages/PowerAMT/1.1.3) | 1.1.3
-
-### Published: 08/16/2022 10:00:44 by Michael Mumenthaler
-
-PowerShell module to manage AMT Devices with the Open AMT Cloud Toolkit API
-
-__Downloads__: 21 | __Repository__: https://github.com/netricsag/PowerAMT
-
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.125) | 1.1.125
 
 ### Published: 08/16/2022 09:56:14 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,830,942 | __Repository__: https://dbatools.io/
+__Downloads__: 1,830,983 | __Repository__: https://dbatools.io/
 
 ## [CloudAssert.Common](https://www.powershellgallery.com/Packages/CloudAssert.Common/2022.3.28.3) | 2022.3.28.3
 
@@ -1383,7 +1497,7 @@ __Downloads__: 10 | __Repository__:
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 536,805 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 536,806 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [PSAbuseIPDB](https://www.powershellgallery.com/Packages/PSAbuseIPDB/0.0.1) | 0.0.1
 
@@ -1399,7 +1513,7 @@ __Downloads__: 2 | __Repository__: https://github.com/madsaune/PSAbuseIPDB
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 36,500 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 36,507 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [New-Avatar](https://www.powershellgallery.com/Packages/New-Avatar/1.0.0) | 1.0.0
 
@@ -1455,7 +1569,7 @@ __Downloads__: 23 | __Repository__: https://github.com/mschauer5/MSchauer.ShareP
 
 ArcGIS Module for PowerShell DSC
 
-__Downloads__: 35,165 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
+__Downloads__: 35,166 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
 
 ## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.2.0) | 2022.2.2.0
 
@@ -1496,14 +1610,6 @@ __Downloads__: 11,400 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 Module that allows getting, adding and removing User Rights Assignment without using secedit.exe
 
 __Downloads__: 104 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
-
-## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.237) | 0.0.237
-
-### Published: 08/15/2022 15:25:32 by Przemyslaw Klys
-
-Module covering functions that are shared within multiple projects
-
-__Downloads__: 142,206 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [Search-Dictionary](https://www.powershellgallery.com/Packages/Search-Dictionary/1.0) | 1.0
 
@@ -1623,7 +1729,7 @@ __Downloads__: 37 | __Repository__:
 
 Little project to create Excel files without Microsoft Excel being installed.
 
-__Downloads__: 77,479 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
+__Downloads__: 77,477 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.21.0) | 2.21.0
 
@@ -1648,23 +1754,6 @@ __Downloads__: 903 | __Repository__: https://github.com/jhoek/UncommonSense.Volk
 PowerShell module for listing Trouw articles
 
 __Downloads__: 253 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
-
-## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.9) | 1.0.9
-
-### Published: 08/14/2022 14:06:04 by @AndrewZtrhgf
-
-Various Intune related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the interesting functions:
-- Get-ClientIntunePolicyResult - RSOP/gpresult for Intune
-- Invoke-IntuneScriptRedeploy - redeploy script deployed from Intune
-- Invoke-IntuneWin32AppRedeploy - redeploy application deployed from Intune
-- Get-IntuneLog - opens Intune logs (files & system logs)
-- Reset-HybridADJoin - reset Hybrid AzureAD join connection
-- Reset-IntuneEnrollment - reset device Intune management enrollment
-- ...
-
-__Downloads__: 414 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
 
 ## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/0.5.5) | 0.5.5
 
@@ -1720,7 +1809,7 @@ __Downloads__: 5 | __Repository__: https://adam-bacon.netlify.app/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,119,109 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,119,118 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
 
@@ -1912,14 +2001,6 @@ An unofficial PowerShell module for Front's Core API
 
 __Downloads__: 271 | __Repository__: https://github.com/codaamok/PSFront
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.12.2) | 22.8.12.2
-
-### Published: 08/12/2022 08:02:26 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 283,071 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.8.12.1) | 22.8.12.1
 
 ### Published: 08/12/2022 07:50:26 by David Segura @SeguraOSD
@@ -1932,7 +2013,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 274,905 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 274,908 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [Format-Markdown](https://www.powershellgallery.com/Packages/Format-Markdown/1.0.1) | 1.0.1
 
@@ -1958,14 +2039,6 @@ Dev scripts to deal with build errors
 
 __Downloads__: 5 | __Repository__: https://github.com/ocalvo/PwrDev
 
-## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.4) | 1.4.4
-
-### Published: 08/11/2022 21:39:57 by Brian Dukes
-
-A set of functions for managing websites built on the DNN Platform.
-
-__Downloads__: 1,115 | __Repository__: https://github.com/bdukes/PowerShellModules
-
 ## [PwrRazzle](https://www.powershellgallery.com/Packages/PwrRazzle/1.0.0) | 1.0.0
 
 ### Published: 08/11/2022 20:36:45 by https://github.com/ocalvo
@@ -1990,92 +2063,4 @@ Crescendo Powershell wrapper of takeown.exe
 
 __Downloads__: 8 | __Repository__: https://adam-bacon.netlify.app/
 
-## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/1.1.1) | 1.1.1
-
-### Published: 08/11/2022 17:34:10 by Jiri Formacek
-
-Provides commands that allow easy manipulation with data in CosmosDB
-
-__Downloads__: 93 | __Repository__: https://github.com/jformacek/CosmosLite
-
-## [Corvus.Deployment](https://www.powershellgallery.com/Packages/Corvus.Deployment/0.4.2) | 0.4.2
-
-### Published: 08/11/2022 16:28:58 by corvus-dotnet core team
-
-A collection of useful functions for Azure deployment automation
-
-__Downloads__: 2,497 | __Repository__: https://github.com/corvus-dotnet/Corvus.Deployment
-
-## [specialK](https://www.powershellgallery.com/Packages/specialK/0.1.1) | 0.1.1
-
-### Published: 08/11/2022 14:45:23 by ThePoShWolf
-
-Converts kubectl output to PowerShell objects.
-
-__Downloads__: 9 | __Repository__: https://github.com/ThePoShWolf/specialK
-
-## [FixLogModule](https://www.powershellgallery.com/Packages/FixLogModule/2.2.0) | 2.2.0
-
-### Published: 08/11/2022 12:17:48 by Marco Dorantes
-
-FixLogModule parses FIX Log files and streams FIX Messages into the PowerShell Pipeline. Also, it displays FIX Tag Numbers, FIX Tag Names and FIX Tag Values based on a dictionary of a supported FIX Protocol version.
-
-__Downloads__: 83 | __Repository__: https://www.gbm.com/
-
-## [EasyLife365](https://www.powershellgallery.com/Packages/EasyLife365/0.3.0) | 0.3.0
-
-### Published: 08/11/2022 12:00:52 by tto@easylife365.cloud
-
-EasyLife 365
-
-__Downloads__: 47 | __Repository__: https://easylife365.cloud/
-
-## [WindowsEvents](https://www.powershellgallery.com/Packages/WindowsEvents/1.0) | 1.0
-
-### Published: 08/11/2022 11:30:03 by Jeremy Jackson
-
-Tools for Windows Event Logs
-
-__Downloads__: 5 | __Repository__: https://github.com/Largehawiian/WindowsEvents
-
-## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.0.13) | 1.0.13
-
-### Published: 08/11/2022 09:30:02 by @AndrewZtrhgf
-
-Various Azure related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the interesting functions:
-- Add-AzureADAppUserConsent - granting permission consent on behalf of another user
-- Add-AzureADAppCertificate - add the auth. certificate (existing or create self-signed) to selected Azure application as an secret
-- Get-AzureADAccountOccurrence - for getting all occurrences of specified account in your Azure environment
-- Get-AzureADAppVerificationStatus
-- Get-AzureADAppConsentRequest - for getting all application admin consent requests
-- Get-AzureDevOpsOrganizationOverview - list of all DevOps organizations
-- Remove-AzureADAccountOccurrence - remove specified account from various Azure environment sections and optionally replace it with other user and inform him. Can be used in conjunction with Get-AzureADAccountOccurrence.
-- Remove-AzureADAppUserConsent - removes user consent
-- ...
-
-Some of the authentication-related functions:
-- Connect-AzureAD2 - smarter version of Connect-AzureAD that can reuse existing session and more
-- New-AzureDevOpsAuthHeader
-- New-GraphAPIAuthHeader
-
-__Downloads__: 142 | __Repository__: https://doitpsway.com/series/azure
-
-## [Get-GzipContent](https://www.powershellgallery.com/Packages/Get-GzipContent/0.2.0) | 0.2.0
-
-### Published: 08/11/2022 07:01:07 by Takatoshi Kuriyama
-
-Gets the content of the gzip archive at the specified location.
-
-__Downloads__: 383 | __Repository__: https://github.com/krymtkts/Get-GzipContent
-
-## [TerminalBlocks](https://www.powershellgallery.com/Packages/TerminalBlocks/1.0.1) | 1.0.1
-
-### Published: 08/11/2022 05:30:58 by Joel Bennett
-
-PowerShell Native Prompt Blocks
-
-__Downloads__: 19 | __Repository__: https://github.com/Jaykul/TerminalBlocks
-
-*Updated: Thursday, 18 August 2022 09:52:24 UTC*
+*Updated: Thursday, 18 August 2022 17:57:20 UTC*

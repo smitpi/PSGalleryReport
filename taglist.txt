@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 18 August 2022 09:52:34 UTC
+Updated: Thursday, 18 August 2022 17:57:30 UTC
 
 ?:
 ??
@@ -239,6 +239,7 @@ algorithm
 algorithms
 alias
 aliases
+aliens
 all
 alletra
 alm
@@ -422,7 +423,6 @@ asymmetric
 async
 asynchronous
 atempo
-atera
 athena
 atlas
 atlassian
@@ -513,6 +513,7 @@ az
 az-cli
 az.automation
 aza
+azautomation
 azcli
 azcompute
 azd
@@ -520,6 +521,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -879,8 +881,6 @@ centralcredentialprovider
 centrastage
 centreon
 centreon.com
-centurylink
-centurylinkcloud
 cer
 cert
 certbasedauth
@@ -962,6 +962,7 @@ cinema
 cinst
 cipher
 circuit-breaker
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -977,9 +978,6 @@ classes
 classic
 classification
 classified
-clccontrol
-clccontrolapiv1
-clccontrolapiv2
 clean-up
 cleanmgr
 cleanup
@@ -1033,6 +1031,7 @@ cloudberry
 cloudblue
 cloudbolt
 cloudendure
+cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1422,6 +1421,7 @@ dash
 dashboard
 dashboardapi
 dashboardservice
+dast
 data
 data_protection
 data-archive
@@ -1688,6 +1688,7 @@ dns-01
 dns-administration
 dns-async
 dns-client
+dns-over-https
 dns-resolver
 dnsbl
 dnsdumpster
@@ -1709,6 +1710,7 @@ docker-image
 docker-machine
 docker-volumes
 dockerfile
+dockerswarm
 docking
 docs
 document
@@ -1945,7 +1947,6 @@ eol
 eop
 eperl
 ephesoft
-epicorerp
 episode
 epplus
 eprosima
@@ -1995,16 +1996,15 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
-eventing
 eventlist
 eventlog
 eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
-eventmonitoring
 eventprocessor
 events
 eventsubscription
@@ -2013,7 +2013,6 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
-everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2227,6 +2226,7 @@ flatten
 flex
 flex-query
 flexdesk
+flickr
 flowchart
 flowy
 fluidrelay
@@ -2337,6 +2337,10 @@ gcloud
 gcp
 gcs
 gdpr
+gemini
+geminiprotocol
+gemlog
+gemtext
 general
 generate
 generateaddress
@@ -2594,7 +2598,6 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
-hg
 hibernation
 hibp
 hidden
@@ -2660,7 +2663,6 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
-hpwritemanager
 hris
 hsdp
 html
@@ -2802,6 +2804,7 @@ incidentresponse
 incontact
 indents
 index
+indexdb
 inedo
 inetfwrule
 influx
@@ -2876,6 +2879,7 @@ intranet
 intrusion
 intuitive
 intune
+intuneappwinutil
 inventory
 investigation
 investment
@@ -3001,6 +3005,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -3307,7 +3312,6 @@ machinelearningservices
 macmon
 macos
 macosx
-macros
 madlib
 magazine
 magento
@@ -3337,6 +3341,7 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
+managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3392,7 +3397,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -3440,7 +3444,6 @@ menu
 menus
 meraki
 merakiapi
-mercurial
 merge
 mermaid
 message
@@ -3976,7 +3979,6 @@ opml
 ops
 opsi
 opsmgr
-optics
 optimization
 optimizer
 option
@@ -4289,6 +4291,7 @@ poshkeepass
 poshlog
 poshorigin
 poshproject
+poshprtg
 poshrsjob
 poshtemplate
 poshwsus
@@ -4477,6 +4480,8 @@ proxy
 proxyfunction
 proxyfunctions
 prtg
+prtg_network_monitor
+prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
@@ -4553,7 +4558,6 @@ psincludes_cmdlet
 psini
 psinsight
 psintune
-psise
 psitem
 psjob
 psjobs
@@ -4584,6 +4588,7 @@ psproject
 psprojectcreator
 psprojectgenerator
 psprovider
+psprtg
 pspublicapi
 psraw
 psreadexif
@@ -4698,6 +4703,7 @@ queue
 queues
 queuing
 quickaccess
+quickbase
 quickbooks
 quicksetup
 quote
@@ -4862,7 +4868,6 @@ remove-pinneditem
 removetypeaccelerators
 remux
 ren-isac
-reparsepoint
 repeat
 repl
 replace
@@ -5156,7 +5161,6 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
-secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5394,6 +5398,7 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
+skytap
 slack
 sln
 sm
@@ -5496,6 +5501,7 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
+speach
 speak
 speaker
 specification
@@ -5606,6 +5612,7 @@ start-jobthread
 start-threadjob
 startmen
 starwars
+stash
 stat
 state
 static
@@ -5719,6 +5726,7 @@ svn
 svt
 swagger
 swamid
+swarm
 swimlane
 swis
 switch
@@ -5874,6 +5882,7 @@ test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
+test-xml
 test123
 testaccount
 testautomation
@@ -5888,6 +5897,7 @@ testtool
 testusers
 text
 text-to-image
+text-to-speach"
 text-to-speech
 text2image
 textanalysis
@@ -6021,6 +6031,7 @@ troubleshoot
 troubleshooting
 trouw
 truecrypt
+truenas
 truportal
 trusted
 trusted-host
@@ -6267,6 +6278,7 @@ variance
 variants
 vastlimits
 vault
+vaultextension
 vaultstore
 vba
 vbproj
@@ -6481,6 +6493,7 @@ webhdfs
 webhelpdesk
 webhistory
 webhook
+webinspect
 webjea
 webmanagement
 webmanagementservice
@@ -6564,6 +6577,7 @@ windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
+windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
@@ -6623,13 +6637,10 @@ wmf
 wmf5
 wmi
 wmifilter
-wmipermanentevents
 wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -6681,7 +6692,6 @@ write-slog
 write-wansi
 writeaccess
 writelog
-writemanager
 ws-federation
 wsapi
 wsb
@@ -6738,6 +6748,7 @@ xml-rpc
 xml-transform
 xmla
 xmlrpc
+xmlutils
 xoauth2
 xor
 xpath
