@@ -5,6 +5,89 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.1.0) | 1.1.0
+
+### Published: 08/18/2022 09:37:24 by Steffen Kampmann
+
+The PowerShell SQL Client module replaces the SQL Server utilities SQLCMD with native PowerShell commands.
+
+__Downloads__: 169 | __Repository__: https://github.com/abbgrade/PsSmo
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22230.31450) | 4.4.22230.31450
+
+### Published: 08/18/2022 08:01:57 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 3,090,779 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [Stti](https://www.powershellgallery.com/Packages/Stti/1.0.0.2396) | 1.0.0.2396
+
+### Published: 08/18/2022 07:56:22 by Ulrich Vogl
+
+STTI CLI Module
+
+__Downloads__: 508 | __Repository__: 
+
+## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.1.0) | 1.1.0
+
+### Published: 08/18/2022 07:52:44 by Jos Lieben
+
+Automatically right sizes any Azure Windows VM based on configurable telemetry data to the optimal size based on cpu/mem, performance rating and cost. Use Get-Help set-vmRightSize or Get-Help set-rsgRightSize for more information on specific commands or check my blog.
+
+__Downloads__: 103 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/automatic-modular-rightsizing-of-azure-vms-with-special-focus-on-azure-virtual-desktop/
+
+## [BrightBookingUserAdminTools](https://www.powershellgallery.com/Packages/BrightBookingUserAdminTools/6.4.1) | 6.4.1
+
+### Published: 08/18/2022 07:26:40 by GoBright B.V.
+
+PowerShell module to fetch AzureAD or ActiveDirectory user information to use in GoBright. Depends on the modules: AzureAD and ActiveDirectory
+
+__Downloads__: 2,149 | __Repository__: https://gobright.com/
+
+## [ScriptUtils](https://www.powershellgallery.com/Packages/ScriptUtils/1.1.1) | 1.1.1
+
+### Published: 08/18/2022 07:11:30 by Uzair
+
+This Module is a collection of wrapper functions that makes your scripting experience fast and easy.
+As a scripter you might have come across this situation several times when you have to perform checks before proceeding with a specific task.
+These functions helps you eliminate the need to perform checks and just use a single command to get the work done. Thereby, enabling you to focus on the
+main section of your script rather than spending time to write code to perform checks
+
+__Downloads__: 37 | __Repository__: https://github.com/uzi3/ScriptUtils
+
+## [NTS-ConfigMgrTools](https://www.powershellgallery.com/Packages/NTS-ConfigMgrTools/1.0.1.1) | 1.0.1.1
+
+### Published: 08/18/2022 06:39:45 by Moritz Wiedmann
+
+NTS-ConfigMgrTools module contains tools for ConfigMgr and cource deployment
+
+__Downloads__: 91 | __Repository__: 
+
+## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.210) | 0.0.0.210
+
+### Published: 08/18/2022 05:15:54 by Naitwatch
+
+Powershell module for basic windows os configuration, maintenance
+
+__Downloads__: 827 | __Repository__: https://github.com/NaitWatch/SetUpBasic
+
+## [SetUpBasic.Env](https://www.powershellgallery.com/Packages/SetUpBasic.Env/0.0.0.5) | 0.0.0.5
+
+### Published: 08/18/2022 05:15:37 by Naitwatch
+
+Powershell module SetUpBasic.Env. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 6 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Env
+
+## [Pansies](https://www.powershellgallery.com/Packages/Pansies/2.6.0) | 2.6.0
+
+### Published: 08/18/2022 05:09:40 by Joel Bennett
+
+A PowerShell module for handling color and cursor positioning via ANSI escape sequences
+
+__Downloads__: 37,185 | __Repository__: https://github.com/PoshCode/Pansies
+
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.19) | 3.0.19
 
 ### Published: 08/18/2022 01:01:01 by Jeremy La Camera
@@ -77,6 +160,14 @@ This is a simple module that copies (mirrors) the security and or distribution g
 
 __Downloads__: 0 | __Repository__: 
 
+## [Qumulo](https://www.powershellgallery.com/Packages/Qumulo/5.2.1) | 5.2.1
+
+### Published: 08/17/2022 16:35:10 by Berat Ulualan
+
+Qumulo Powershell Toolkit will help the Qumulo customers who uses Microsoft PowerShell for their daily operations.
+
+__Downloads__: 26 | __Repository__: 
+
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.6.0) | 1.6.0
 
 ### Published: 08/17/2022 11:13:28 by Sascha Spiekermann
@@ -84,22 +175,6 @@ __Downloads__: 0 | __Repository__:
 A module to interact with a Fortinet Manager appliance for Fortigate Firewalls
 
 __Downloads__: 78 | __Repository__: https://github.com/Callidus2000/FortiManager/
-
-## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.0.9) | 1.0.9
-
-### Published: 08/17/2022 07:34:55 by Jos Lieben
-
-Automatically right sizes any Azure Windows VM based on configurable telemetry data to the optimal size based on cpu/mem, performance rating and cost. Use Get-Help set-vmRightSize or Get-Help set-rsgRightSize for more information on specific commands.
-
-__Downloads__: 103 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/automatic-modular-rightsizing-of-azure-vms-with-special-focus-on-azure-virtual-desktop/
-
-## [SetUpBasic.Env](https://www.powershellgallery.com/Packages/SetUpBasic.Env/0.0.0.2) | 0.0.0.2
-
-### Published: 08/17/2022 05:30:32 by Naitwatch
-
-Powershell module SetUpBasic.Env. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 6 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Env
 
 ## [Metadata](https://www.powershellgallery.com/Packages/Metadata/1.5.7) | 1.5.7
 
@@ -1188,7 +1263,7 @@ __Downloads__: 4 | __Repository__:
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 9,557 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 9,553 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.2.3) | 4.2.3
 
@@ -1244,7 +1319,7 @@ __Downloads__: 21 | __Repository__: https://github.com/netricsag/PowerAMT
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,830,983 | __Repository__: https://dbatools.io/
+__Downloads__: 1,830,942 | __Repository__: https://dbatools.io/
 
 ## [CloudAssert.Common](https://www.powershellgallery.com/Packages/CloudAssert.Common/2022.3.28.3) | 2022.3.28.3
 
@@ -1308,7 +1383,7 @@ __Downloads__: 10 | __Repository__:
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 536,793 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 536,805 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [PSAbuseIPDB](https://www.powershellgallery.com/Packages/PSAbuseIPDB/0.0.1) | 0.0.1
 
@@ -1645,7 +1720,7 @@ __Downloads__: 5 | __Repository__: https://adam-bacon.netlify.app/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,119,118 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,119,109 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
 
@@ -1724,14 +1799,6 @@ __Downloads__: 422 | __Repository__: https://github.com/svesavov/SnsSqlitePsModu
 ****************************************************************************************************
 
 __Downloads__: 37 | __Repository__: https://github.com/svesavov/SnsMsSqlPsModule
-
-## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.208) | 0.0.0.208
-
-### Published: 08/13/2022 07:30:16 by Naitwatch
-
-Powershell module for basic windows os configuration, maintenance
-
-__Downloads__: 827 | __Repository__: https://github.com/NaitWatch/SetUpBasic
 
 ## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.27) | 0.0.0.27
 
@@ -1851,7 +1918,7 @@ __Downloads__: 271 | __Repository__: https://github.com/codaamok/PSFront
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 283,081 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 283,071 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.8.12.1) | 22.8.12.1
 
@@ -1865,7 +1932,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 274,906 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 274,905 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [Format-Markdown](https://www.powershellgallery.com/Packages/Format-Markdown/1.0.1) | 1.0.1
 
@@ -1947,14 +2014,6 @@ Converts kubectl output to PowerShell objects.
 
 __Downloads__: 9 | __Repository__: https://github.com/ThePoShWolf/specialK
 
-## [NTS-ConfigMgrTools](https://www.powershellgallery.com/Packages/NTS-ConfigMgrTools/1.0.1.0) | 1.0.1.0
-
-### Published: 08/11/2022 12:39:48 by Moritz Wiedmann
-
-NTS-ConfigMgrTools module contains tools for ConfigMgr and cource deployment
-
-__Downloads__: 91 | __Repository__: 
-
 ## [FixLogModule](https://www.powershellgallery.com/Packages/FixLogModule/2.2.0) | 2.2.0
 
 ### Published: 08/11/2022 12:17:48 by Marco Dorantes
@@ -2019,77 +2078,4 @@ PowerShell Native Prompt Blocks
 
 __Downloads__: 19 | __Repository__: https://github.com/Jaykul/TerminalBlocks
 
-## [EZOut](https://www.powershellgallery.com/Packages/EZOut/1.9.0) | 1.9.0
-
-### Published: 08/11/2022 04:29:58 by James Brundage
-
-Easily Author Rich Format Files to Customize PowerShell Output
-
-__Downloads__: 3,703 | __Repository__: https://github.com/StartAutomating/EZOut
-
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.4.22222.31219) | 4.4.22222.31219
-
-### Published: 08/11/2022 03:25:25 by Red Gate Software Ltd.
-
-Automation tools for production quality database deployment
-
-__Downloads__: 3,090,841 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [Pansies](https://www.powershellgallery.com/Packages/Pansies/2.4.0) | 2.4.0
-
-### Published: 08/11/2022 03:02:27 by Joel Bennett
-
-A PowerShell module for handling color and cursor positioning via ANSI escape sequences
-
-__Downloads__: 37,185 | __Repository__: https://github.com/PoshCode/Pansies
-
-## [BrazenCloud.ADK](https://www.powershellgallery.com/Packages/BrazenCloud.ADK/0.1.1) | 0.1.1
-
-### Published: 08/10/2022 18:04:04 by ThePoShWolf
-
-BrazenCloud's PowerShell Action Development Toolkit
-
-__Downloads__: 30 | __Repository__: 
-
-## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.12.0) | 2.12.0
-
-### Published: 08/10/2022 16:55:40 by Aaron Jensen
-
-Carbon is a PowerShell module for automating the configuration Windows 7, 8, 2008, and 2012 and automation the installation and configuration of Windows applications, websites, and services. It can configure and manage:
-
- * Local users and groups
- * IIS websites, virtual directories, and applications
- * File system, registry, and certificate permissions
- * Certificates
- * Privileges
- * Services
- * Encryption
- * Junctions
- * Hosts file
- * INI files
- * Performance counters
- * Shares
- * .NET connection strings and app settings
- * And much more!
-
-All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
-
-__Downloads__: 51,818,597 | __Repository__: http://get-carbon.org/
-
-## [VirusTotalAnalyzer](https://www.powershellgallery.com/Packages/VirusTotalAnalyzer/0.0.3) | 0.0.3
-
-### Published: 08/10/2022 16:53:29 by Przemyslaw Klys
-
-PowerShell module that intearacts with the VirusTotal service using a VirusTotal API (free)
-
-__Downloads__: 28 | __Repository__: https://github.com/EvotecIT/VirusTotalAnalyzer
-
-## [RunApp](https://www.powershellgallery.com/Packages/RunApp/1.0) | 1.0
-
-### Published: 08/10/2022 16:45:14 by Evalexp
-
-Fast, powerful, smart, and highly customizable terminal app launcher.
-
-__Downloads__: 10 | __Repository__: 
-
-*Updated: Thursday, 18 August 2022 02:44:06 UTC*
+*Updated: Thursday, 18 August 2022 09:52:24 UTC*

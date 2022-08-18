@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 18 August 2022 02:44:19 UTC
+Updated: Thursday, 18 August 2022 09:52:34 UTC
 
 ?:
 ??
@@ -239,7 +239,6 @@ algorithm
 algorithms
 alias
 aliases
-aliens
 all
 alletra
 alm
@@ -487,6 +486,7 @@ autotaskpsa
 autoyast
 availability
 availabilityset
+avalara
 avalonia
 avatar
 avd
@@ -513,7 +513,6 @@ az
 az-cli
 az.automation
 aza
-azautomation
 azcli
 azcompute
 azd
@@ -521,7 +520,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -721,7 +719,9 @@ bluedolhin
 blueprint
 blueprints
 blueteam
+bluetraitio
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -962,7 +962,6 @@ cinema
 cinst
 cipher
 circuit-breaker
-circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1034,7 +1033,6 @@ cloudberry
 cloudblue
 cloudbolt
 cloudendure
-cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1132,7 +1130,6 @@ commandsandresource
 commence
 comment
 commerce
-commfort
 commit
 common
 common-data-service
@@ -1425,7 +1422,6 @@ dash
 dashboard
 dashboardapi
 dashboardservice
-dast
 data
 data_protection
 data-archive
@@ -1692,7 +1688,6 @@ dns-01
 dns-administration
 dns-async
 dns-client
-dns-over-https
 dns-resolver
 dnsbl
 dnsdumpster
@@ -1714,7 +1709,6 @@ docker-image
 docker-machine
 docker-volumes
 dockerfile
-dockerswarm
 docking
 docs
 document
@@ -2001,7 +1995,6 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -2234,7 +2227,6 @@ flatten
 flex
 flex-query
 flexdesk
-flickr
 flowchart
 flowy
 fluidrelay
@@ -2345,10 +2337,6 @@ gcloud
 gcp
 gcs
 gdpr
-gemini
-geminiprotocol
-gemlog
-gemtext
 general
 generate
 generateaddress
@@ -2717,6 +2705,7 @@ ia
 iaas
 iac
 iam
+iana
 iap
 ias
 ib
@@ -2813,7 +2802,6 @@ incidentresponse
 incontact
 indents
 index
-indexdb
 inedo
 inetfwrule
 influx
@@ -2888,7 +2876,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneappwinutil
 inventory
 investigation
 investment
@@ -2898,6 +2885,7 @@ invoke
 invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
+invoke-automation
 invoke-build
 invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
@@ -3013,7 +3001,6 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
-jumbo
 jump
 jump-location
 jumpcloud
@@ -3289,6 +3276,7 @@ lolcat
 longfile
 longfiles
 longitude
+look
 lookup
 loopback
 lpr
@@ -3349,7 +3337,6 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
-managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3561,6 +3548,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 money
@@ -3667,6 +3655,7 @@ mva
 mvn
 mvp
 mx
+mxlookup
 mycloudrevolution
 myhub
 myitprocess
@@ -3841,7 +3830,6 @@ nupkg
 nuspec
 nutanix
 nuwave
-nva
 nvdimm
 nvdimm-n
 nvm
@@ -4301,7 +4289,6 @@ poshkeepass
 poshlog
 poshorigin
 poshproject
-poshprtg
 poshrsjob
 poshtemplate
 poshwsus
@@ -4490,8 +4477,6 @@ proxy
 proxyfunction
 proxyfunctions
 prtg
-prtg_network_monitor
-prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
@@ -4599,7 +4584,6 @@ psproject
 psprojectcreator
 psprojectgenerator
 psprovider
-psprtg
 pspublicapi
 psraw
 psreadexif
@@ -4714,7 +4698,6 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quote
@@ -4991,10 +4974,8 @@ round
 roundrobindatabase
 route
 route53
-routeconfig
 router
 routes
-routetable
 routine
 rover
 royalapps
@@ -5413,7 +5394,6 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
-skytap
 slack
 sln
 sm
@@ -5626,7 +5606,6 @@ start-jobthread
 start-threadjob
 startmen
 starwars
-stash
 stat
 state
 static
@@ -5740,7 +5719,6 @@ svn
 svt
 swagger
 swamid
-swarm
 swimlane
 swis
 switch
@@ -5812,6 +5790,7 @@ tabular
 tag
 tag-requiredmodule1-1.0
 tag-requiredmodule2-2.0
+tag-requiredmodule3-2.5
 tag1
 tag2
 tagging
@@ -5895,7 +5874,6 @@ test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
-test-xml
 test123
 testaccount
 testautomation
@@ -6043,7 +6021,6 @@ troubleshoot
 troubleshooting
 trouw
 truecrypt
-truenas
 truportal
 trusted
 trusted-host
@@ -6073,6 +6050,7 @@ twitter
 twitter-api
 twitter-client
 twitter-follow
+twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -6152,7 +6130,6 @@ udfeedback
 udp
 udpclient
 udptest
-udr
 udthememode
 uefi
 ui
@@ -6290,7 +6267,6 @@ variance
 variants
 vastlimits
 vault
-vaultextension
 vaultstore
 vba
 vbproj
@@ -6345,7 +6321,6 @@ vimode
 virole
 virsh
 virtual
-virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -6475,6 +6450,7 @@ wapi
 warning
 warplaneporn
 warranty
+warrenty
 wasabi
 watch
 watchguard
@@ -6505,7 +6481,6 @@ webhdfs
 webhelpdesk
 webhistory
 webhook
-webinspect
 webjea
 webmanagement
 webmanagementservice
@@ -6589,7 +6564,6 @@ windows365
 windowsadmincenter
 windowsdataprotectionapi
 windowsdefender
-windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
@@ -6615,6 +6589,7 @@ windowsserverguisecurity
 windowsservice
 windowsstore
 windowsterminal
+windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
@@ -6763,7 +6738,6 @@ xml-rpc
 xml-transform
 xmla
 xmlrpc
-xmlutils
 xoauth2
 xor
 xpath
