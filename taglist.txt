@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 19 August 2022 09:52:52 UTC
+Updated: Friday, 19 August 2022 17:53:24 UTC
 
 ?:
 ??
@@ -66,6 +66,7 @@ aadsecurity
 aadsts
 aam
 aas
+abc
 abc_testing
 abe
 about
@@ -194,6 +195,7 @@ aem
 aeries
 aeriessis
 aes
+afd
 affinity
 affinity-co
 affinity-crm
@@ -909,7 +911,6 @@ charts
 chat
 chatbot
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1045,7 +1046,6 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1300,6 +1300,7 @@ createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
+creator
 cred
 credential
 credential-file
@@ -1312,6 +1313,7 @@ credentialprovider
 credentials
 credentials-cache
 credentialstore
+credentialutility
 credit
 credman
 credmanager
@@ -1516,6 +1518,7 @@ dedicatedhsm
 deduplication
 deep
 deepvisibility
+def
 default
 defaultparameter
 defaultroutes
@@ -2099,6 +2102,7 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
+failedlogin
 failure
 falcon
 fallbackstatuspoint
@@ -2127,6 +2131,7 @@ fetch
 ffmpeg
 fhirservice
 fiche
+fiddler
 fido
 fido2
 fieldglass
@@ -2535,6 +2540,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+har
 hard
 hardblock
 harden
@@ -2740,6 +2746,7 @@ identitydataplane
 identitydirector
 identitynow
 idf
+ids
 ie
 iem
 ifconfig
@@ -2938,7 +2945,6 @@ ishexstring
 ism
 isnumeric
 iso
-iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3071,7 +3077,6 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
-kurukuru
 kusto
 kvm
 kvp
@@ -3408,7 +3413,6 @@ md5
 md5_v2-61eb916dbf05fb8ab3c59265b44af4ec
 md5sum
 mdatp
-mdb
 mdbc
 mde
 mdm
@@ -3824,6 +3828,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 null-coalescing
 number
 numlock
@@ -3874,7 +3879,6 @@ odbc
 odfb
 odin
 odoo
-offboarding
 offence
 office
 office_365
@@ -3909,7 +3913,6 @@ on-demand
 on-premise
 onboard
 onboardadministrator
-onboarding
 oncommand-insight
 ondemand
 one
@@ -4007,6 +4010,7 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
+osdprogress
 osdsus
 osdupdate
 osi
@@ -4088,6 +4092,7 @@ parclient
 pardot
 parititions
 parool
+parquet
 parse
 parser
 parsing
@@ -4117,6 +4122,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -4868,7 +4874,6 @@ remove-pinneditem
 removetypeaccelerators
 remux
 ren-isac
-reparsepoint
 repeat
 repl
 replace
@@ -5164,6 +5169,7 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
+secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5264,6 +5270,7 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
+serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5345,6 +5352,7 @@ showoncommand
 shred
 shutdown
 sid
+sidecar
 siem
 sif
 sigma
@@ -5372,7 +5380,6 @@ sintez
 sintez.module.rds
 site
 site_navigation
-sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
@@ -5380,6 +5387,7 @@ sitemap
 siterecovery
 sites
 sitesystemserver
+sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -6218,6 +6226,7 @@ url-encode
 url-shortener
 urlencode
 urlhaus
+urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6442,6 +6451,7 @@ vum
 vvx
 vxrail
 w32time
+w3svc
 w3w
 waa
 waas
@@ -6660,7 +6670,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workpoint
 workrequests
 worksheet
 workshop

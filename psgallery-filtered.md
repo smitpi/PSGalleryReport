@@ -5,6 +5,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.3.0) | 2022.2.3.0
+
+### Published: 08/19/2022 16:59:58 by Devolutions
+
+Devolutions Remote Desktop Manager (RDM) PowerShell Module
+
+__Downloads__: 6,744 | __Repository__: 
+
+## [AzureSignInAudit](https://www.powershellgallery.com/Packages/AzureSignInAudit/0.0.2) | 0.0.2
+
+### Published: 08/19/2022 16:42:21 by Jeremy Jackson
+
+Azure Sign In Log Parser
+
+__Downloads__: 14 | __Repository__: https://github.com/Largehawiian/AzureAuditing
+
+## [Qumulo](https://www.powershellgallery.com/Packages/Qumulo/5.2.0.2) | 5.2.0.2
+
+### Published: 08/19/2022 16:04:52 by Berat Ulualan
+
+Qumulo Powershell Toolkit will help the Qumulo customers who uses Microsoft PowerShell for their daily operations.
+
+__Downloads__: 28 | __Repository__: 
+
+## [DevOpsFeedHelper](https://www.powershellgallery.com/Packages/DevOpsFeedHelper/0.2.5) | 0.2.5
+
+### Published: 08/19/2022 15:02:16 by Peter de Wit
+
+This module exposes functionality to easily connect and/or maintain connections to DevOps Artifacts Feeds through PowerShell.
+
+__Downloads__: 6 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
+
+## [PowerDir.GetPowerDir](https://www.powershellgallery.com/Packages/PowerDir.GetPowerDir/0.3.3) | 0.3.3
+
+### Published: 08/19/2022 14:23:12 by Raffaello Bertini
+
+PowerDir is a Powershell 7 Module as an alternative to Get-ChildItem.
+
+__Downloads__: 54 | __Repository__: https://github.com/BlueRedSkyLTD/PowerDir
+
+## [RegCli](https://www.powershellgallery.com/Packages/RegCli/6.0.1) | 6.0.1
+
+### Published: 08/19/2022 14:16:55 by Fabrice Sanga
+
+Set of helper functions for updating applications.
+
+__Downloads__: 67 | __Repository__: https://github.com/sangafabrice/reg-cli
+
+## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.2.4) | 4.2.4
+
+### Published: 08/19/2022 13:04:20 by Ironman Software
+
+Universal Dashbord v3 framework for Powershell Universal
+
+__Downloads__: 84,648 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.5) | 3.2.5
+
+### Published: 08/19/2022 13:03:55 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 27,365 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/2.0.0) | 2.0.0
+
+### Published: 08/19/2022 12:24:08 by Sascha Spiekermann
+
+A module to interact with a Fortinet Manager appliance for Fortigate Firewalls
+
+__Downloads__: 82 | __Repository__: https://github.com/Callidus2000/FortiManager/
+
 ## [PwshComplete](https://www.powershellgallery.com/Packages/PwshComplete/0.0.4.4) | 0.0.4.4
 
 ### Published: 08/19/2022 07:04:42 by artiga033
@@ -43,7 +115,7 @@ __Downloads__: 3 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,834,384 | __Repository__: https://dbatools.io/
+__Downloads__: 1,834,438 | __Repository__: https://dbatools.io/
 
 ## [AGMPowerCLI](https://www.powershellgallery.com/Packages/AGMPowerCLI/0.0.0.39) | 0.0.0.39
 
@@ -78,7 +150,7 @@ __Downloads__: 8 | __Repository__: https://github.com/fsackur/WhoCalled
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 766,596 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 766,587 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.0.85) | 5.0.85
 
@@ -102,7 +174,7 @@ __Downloads__: 8 | __Repository__:
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 285,538 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 285,520 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.5) | 1.4.5
 
@@ -170,14 +242,6 @@ Provides access to credentials in the Windows Credential Manager (continuation o
 
 __Downloads__: 6 | __Repository__: 
 
-## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.4) | 3.2.4
-
-### Published: 08/18/2022 12:25:25 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 27,365 | __Repository__: https://ironmansoftware.com/powershell-universal
-
 ## [Outsystems.SetupTools](https://www.powershellgallery.com/Packages/Outsystems.SetupTools/3.16.1.0) | 3.16.1.0
 
 ### Published: 08/18/2022 12:14:59 by Pedro Nunes
@@ -200,7 +264,7 @@ __Downloads__: 64 | __Repository__: https://github.com/mgajda83/PSLogAnalyticsWr
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 18,507,031 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 18,507,465 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [AliModule](https://www.powershellgallery.com/Packages/AliModule/1.2) | 1.2
 
@@ -232,7 +296,7 @@ __Downloads__: 33 | __Repository__: https://github.com/netricsag/PowerAMT
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 142,365 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 142,363 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.1.0) | 1.1.0
 
@@ -248,7 +312,7 @@ __Downloads__: 174 | __Repository__: https://github.com/abbgrade/PsSmo
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,096,607 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,096,703 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Stti](https://www.powershellgallery.com/Packages/Stti/1.0.0.2396) | 1.0.0.2396
 
@@ -381,29 +445,13 @@ This is a simple module that copies (mirrors) the security and or distribution g
 
 __Downloads__: 10 | __Repository__: 
 
-## [Qumulo](https://www.powershellgallery.com/Packages/Qumulo/5.2.1) | 5.2.1
-
-### Published: 08/17/2022 16:35:10 by Berat Ulualan
-
-Qumulo Powershell Toolkit will help the Qumulo customers who uses Microsoft PowerShell for their daily operations.
-
-__Downloads__: 28 | __Repository__: 
-
-## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/1.6.0) | 1.6.0
-
-### Published: 08/17/2022 11:13:28 by Sascha Spiekermann
-
-A module to interact with a Fortinet Manager appliance for Fortigate Firewalls
-
-__Downloads__: 82 | __Repository__: https://github.com/Callidus2000/FortiManager/
-
 ## [Metadata](https://www.powershellgallery.com/Packages/Metadata/1.5.7) | 1.5.7
 
 ### Published: 08/17/2022 05:03:00 by Joel Bennett
 
 A module for PowerShell data serialization
 
-__Downloads__: 76,923 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 76,925 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.3) | 0.0.3
 
@@ -427,7 +475,7 @@ __Downloads__: 473 | __Repository__: https://github.com/danstis/PSF-Module
 
 PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
 
-__Downloads__: 341 | __Repository__: 
+__Downloads__: 342 | __Repository__: 
 
 ## [psPAS](https://www.powershellgallery.com/Packages/psPAS/5.3.76) | 5.3.76
 
@@ -812,7 +860,7 @@ __Downloads__: 171 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Mysql Service
 
-__Downloads__: 4,896 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 4,801 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/38.1.0) | 38.1.0
 
@@ -1470,14 +1518,6 @@ SdnDiagnostics is a tool used to simplify the data collection and diagnostics of
 
 __Downloads__: 9,781 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
-## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.2.3) | 4.2.3
-
-### Published: 08/16/2022 13:33:19 by Ironman Software
-
-Universal Dashbord v3 framework for Powershell Universal
-
-__Downloads__: 84,648 | __Repository__: https://www.ironmansoftware.com/powershell-universal
-
 ## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.6) | 0.2.6
 
 ### Published: 08/16/2022 13:32:48 by COMMVAULT
@@ -1501,6 +1541,14 @@ __Downloads__: 14 | __Repository__: https://github.com/mdgrs-mei/PoshTaskbarItem
 DSC resources to deploy and configure SCOM. Major revamp of xScom.
 
 __Downloads__: 33 | __Repository__: 
+
+## [CloudAssert.Common](https://www.powershellgallery.com/Packages/CloudAssert.Common/2022.3.28.3) | 2022.3.28.3
+
+### Published: 08/16/2022 06:51:48 by CLOUD ASSERT LLC
+
+Common functionality to configure and manage Cloud Assert and Hybr Services.
+
+__Downloads__: 549 | __Repository__: 
 
 ## [ArxmlAutomation-Swc-Advance](https://www.powershellgallery.com/Packages/ArxmlAutomation-Swc-Advance/0.0.7) | 0.0.7
 
@@ -1556,7 +1604,7 @@ __Downloads__: 13 | __Repository__:
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 538,711 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 538,697 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [PSAbuseIPDB](https://www.powershellgallery.com/Packages/PSAbuseIPDB/0.0.1) | 0.0.1
 
@@ -1629,14 +1677,6 @@ __Downloads__: 28 | __Repository__: https://github.com/mschauer5/MSchauer.ShareP
 ArcGIS Module for PowerShell DSC
 
 __Downloads__: 35,282 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
-
-## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.2.0) | 2022.2.2.0
-
-### Published: 08/15/2022 15:51:37 by Devolutions
-
-Devolutions Remote Desktop Manager (RDM) PowerShell Module
-
-__Downloads__: 6,744 | __Repository__: 
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.4.0) | 1.4.0
 
@@ -1860,7 +1900,7 @@ __Downloads__: 6 | __Repository__: https://adam-bacon.netlify.app/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,120,348 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,120,359 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
 
@@ -1964,14 +2004,6 @@ Connect to Oriflame.Ps.Gallery
 
 __Downloads__: 8,958 | __Repository__: https://oriflame.visualstudio.com/Oriflame.PS.Gallery/
 
-## [DevOpsFeedHelper](https://www.powershellgallery.com/Packages/DevOpsFeedHelper/0.2.3) | 0.2.3
-
-### Published: 08/12/2022 22:07:22 by Peter de Wit
-
-This module exposes functionality to easily connect and/or maintain connections to DevOps Artifacts Feeds through PowerShell.
-
-__Downloads__: 6 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
-
 ## [UEFIv2](https://www.powershellgallery.com/Packages/UEFIv2/2.6) | 2.6
 
 ### Published: 08/12/2022 20:29:26 by Michael Niehaus
@@ -1986,7 +2018,7 @@ __Downloads__: 4,169 | __Repository__:
 
 Interact with the Secret Server REST API
 
-__Downloads__: 18,056 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 18,057 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.68.0) | 1.68.0
 
@@ -2028,42 +2060,4 @@ A PowerShell module that finds files and directories as well as file and directo
 
 __Downloads__: 24 | __Repository__: https://github.com/eizedev/PSItems
 
-## [CloudAssert.Billing](https://www.powershellgallery.com/Packages/CloudAssert.Billing/2022.8.12.0) | 2022.8.12.0
-
-### Published: 08/12/2022 12:05:53 by CLOUD ASSERT LLC
-
-Functionality to configure and manage Cloud Assert Hybr Usage, Billing and Cost Management Services.
-
-__Downloads__: 173 | __Repository__: 
-
-## [AWS-Utils](https://www.powershellgallery.com/Packages/AWS-Utils/0.6.1) | 0.6.1
-
-### Published: 08/12/2022 08:27:25 by Henrik Stanley Mortensen
-
-Helper functions to make it easier working with AWS through the CLI
-
-__Downloads__: 12 | __Repository__: 
-
-## [PSFront](https://www.powershellgallery.com/Packages/PSFront/0.3.0) | 0.3.0
-
-### Published: 08/12/2022 08:16:07 by Adam Cook (@codaamok)
-
-An unofficial PowerShell module for Front's Core API
-
-__Downloads__: 273 | __Repository__: https://github.com/codaamok/PSFront
-
-## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/22.8.12.1) | 22.8.12.1
-
-### Published: 08/12/2022 07:50:26 by David Segura @SeguraOSD
-
-https://osdsus.osdeploy.com/
-https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
-
-WSUS Update Catalogs:
-These are contained within this PowerShell Module, so regular Module updating is needed to
-ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
-from Microsoft Update Catalog website due to Preview Releases
-
-__Downloads__: 275,184 | __Repository__: https://github.com/OSDeploy/OSDSUS
-
-*Updated: Friday, 19 August 2022 09:52:41 UTC*
+*Updated: Friday, 19 August 2022 17:53:14 UTC*
