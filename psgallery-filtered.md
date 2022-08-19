@@ -5,13 +5,64 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PwshComplete](https://www.powershellgallery.com/Packages/PwshComplete/0.0.4.4) | 0.0.4.4
+
+### Published: 08/19/2022 07:04:42 by artiga033
+
+Adds tab completion for many commandline tools.
+
+__Downloads__: 20 | __Repository__: https://github.com/artiga033/Pwsh-Complete
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/17.6) | 17.6
+
+### Published: 08/19/2022 06:57:43 by JT
+
+JaapsTools
+
+__Downloads__: 71 | __Repository__: 
+
+## [JsonUtils](https://www.powershellgallery.com/Packages/JsonUtils/0.4.0) | 0.4.0
+
+### Published: 08/19/2022 06:18:40 by choovick@gmail.com
+
+JSON Utilities module
+
+__Downloads__: 715 | __Repository__: https://github.com/choovick/ps-jsonutils
+
+## [DartagnanAutomation](https://www.powershellgallery.com/Packages/DartagnanAutomation/1.1) | 1.1
+
+### Published: 08/19/2022 06:17:35 by Ali Salim Serikuli
+
+This module is designed to automate the routine.
+
+__Downloads__: 3 | __Repository__: 
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.126) | 1.1.126
+
+### Published: 08/19/2022 05:25:25 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,834,384 | __Repository__: https://dbatools.io/
+
+## [AGMPowerCLI](https://www.powershellgallery.com/Packages/AGMPowerCLI/0.0.0.39) | 0.0.0.39
+
+### Published: 08/19/2022 04:57:41 by Anthony Vandewerdt
+
+This is a community generated PowerShell Module for Actifio Global Manager (AGM).  
+It provides a method to issue commands to AGM API endpoints, like "Application" and "Host".
+This lets you create automation with AGM, or generate your own composite functions.
+More information can be found here:  https://github.com/Actifio/AGMPowerCLI
+
+__Downloads__: 1,322 | __Repository__: https://github.com/Actifio/AGMPowerCLI
+
 ## [XKCDPass](https://www.powershellgallery.com/Packages/XKCDPass/1.0.0) | 1.0.0
 
 ### Published: 08/19/2022 01:38:02 by Adam Birds
 
 Module for generating random passwords in XKCD style.
 
-__Downloads__: 0 | __Repository__: https://github.com/adambirds/xkcd-pass-pwsh
+__Downloads__: 1 | __Repository__: https://github.com/adambirds/xkcd-pass-pwsh
 
 ## [WhoCalled](https://www.powershellgallery.com/Packages/WhoCalled/2.0.2) | 2.0.2
 
@@ -27,7 +78,7 @@ __Downloads__: 8 | __Repository__: https://github.com/fsackur/WhoCalled
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 766,585 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 766,596 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.0.85) | 5.0.85
 
@@ -51,7 +102,7 @@ __Downloads__: 8 | __Repository__:
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 285,520 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 285,538 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.5) | 1.4.5
 
@@ -119,14 +170,6 @@ Provides access to credentials in the Windows Credential Manager (continuation o
 
 __Downloads__: 6 | __Repository__: 
 
-## [DartagnanAutomation](https://www.powershellgallery.com/Packages/DartagnanAutomation/1.0) | 1.0
-
-### Published: 08/18/2022 12:44:13 by Ali Salim Serikuli
-
-This module is designed to automate the routine.
-
-__Downloads__: 3 | __Repository__: 
-
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.4) | 3.2.4
 
 ### Published: 08/18/2022 12:25:25 by Ironman Software
@@ -157,7 +200,7 @@ __Downloads__: 64 | __Repository__: https://github.com/mgajda83/PSLogAnalyticsWr
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 18,507,465 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 18,507,031 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [AliModule](https://www.powershellgallery.com/Packages/AliModule/1.2) | 1.2
 
@@ -189,7 +232,7 @@ __Downloads__: 33 | __Repository__: https://github.com/netricsag/PowerAMT
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 142,364 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 142,365 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.1.0) | 1.1.0
 
@@ -205,7 +248,7 @@ __Downloads__: 174 | __Repository__: https://github.com/abbgrade/PsSmo
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,096,745 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,096,607 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Stti](https://www.powershellgallery.com/Packages/Stti/1.0.0.2396) | 1.0.0.2396
 
@@ -360,7 +403,7 @@ __Downloads__: 82 | __Repository__: https://github.com/Callidus2000/FortiManager
 
 A module for PowerShell data serialization
 
-__Downloads__: 76,933 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 76,923 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.3) | 0.0.3
 
@@ -384,7 +427,7 @@ __Downloads__: 473 | __Repository__: https://github.com/danstis/PSF-Module
 
 PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
 
-__Downloads__: 342 | __Repository__: 
+__Downloads__: 341 | __Repository__: 
 
 ## [psPAS](https://www.powershellgallery.com/Packages/psPAS/5.3.76) | 5.3.76
 
@@ -1425,7 +1468,7 @@ __Downloads__: 6 | __Repository__:
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 9,773 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 9,781 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.2.3) | 4.2.3
 
@@ -1458,22 +1501,6 @@ __Downloads__: 14 | __Repository__: https://github.com/mdgrs-mei/PoshTaskbarItem
 DSC resources to deploy and configure SCOM. Major revamp of xScom.
 
 __Downloads__: 33 | __Repository__: 
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.125) | 1.1.125
-
-### Published: 08/16/2022 09:56:14 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,834,452 | __Repository__: https://dbatools.io/
-
-## [CloudAssert.Common](https://www.powershellgallery.com/Packages/CloudAssert.Common/2022.3.28.3) | 2022.3.28.3
-
-### Published: 08/16/2022 06:51:48 by CLOUD ASSERT LLC
-
-Common functionality to configure and manage Cloud Assert and Hybr Services.
-
-__Downloads__: 549 | __Repository__: 
 
 ## [ArxmlAutomation-Swc-Advance](https://www.powershellgallery.com/Packages/ArxmlAutomation-Swc-Advance/0.0.7) | 0.0.7
 
@@ -1529,7 +1556,7 @@ __Downloads__: 13 | __Repository__:
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 538,705 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 538,711 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [PSAbuseIPDB](https://www.powershellgallery.com/Packages/PSAbuseIPDB/0.0.1) | 0.0.1
 
@@ -1545,7 +1572,7 @@ __Downloads__: 3 | __Repository__: https://github.com/madsaune/PSAbuseIPDB
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 38,597 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 38,579 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [New-Avatar](https://www.powershellgallery.com/Packages/New-Avatar/1.0.0) | 1.0.0
 
@@ -1601,7 +1628,7 @@ __Downloads__: 28 | __Repository__: https://github.com/mschauer5/MSchauer.ShareP
 
 ArcGIS Module for PowerShell DSC
 
-__Downloads__: 35,283 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
+__Downloads__: 35,282 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
 
 ## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.2.0) | 2022.2.2.0
 
@@ -1833,7 +1860,7 @@ __Downloads__: 6 | __Repository__: https://adam-bacon.netlify.app/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,120,371 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,120,348 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
 
@@ -1959,7 +1986,7 @@ __Downloads__: 4,169 | __Repository__:
 
 Interact with the Secret Server REST API
 
-__Downloads__: 18,057 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 18,056 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.68.0) | 1.68.0
 
@@ -2039,28 +2066,4 @@ from Microsoft Update Catalog website due to Preview Releases
 
 __Downloads__: 275,184 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
-## [Format-Markdown](https://www.powershellgallery.com/Packages/Format-Markdown/1.0.1) | 1.0.1
-
-### Published: 08/12/2022 00:10:39 by Chris Peterson
-
-Format PowerShell object to Markdown
-
-__Downloads__: 667 | __Repository__: https://github.com/chris-peterson/pwsh-fmd
-
-## [StackDeploy](https://www.powershellgallery.com/Packages/StackDeploy/1.16) | 1.16
-
-### Published: 08/11/2022 23:51:17 by John Edward Willman V
-
-This automates a deployment of a datacenter that uses VMware and Cisco Servers
-
-__Downloads__: 36 | __Repository__: 
-
-## [PwrDev](https://www.powershellgallery.com/Packages/PwrDev/0.0.2) | 0.0.2
-
-### Published: 08/11/2022 21:51:06 by https://github.com/ocalvo
-
-Dev scripts to deal with build errors
-
-__Downloads__: 7 | __Repository__: https://github.com/ocalvo/PwrDev
-
-*Updated: Friday, 19 August 2022 02:42:03 UTC*
+*Updated: Friday, 19 August 2022 09:52:41 UTC*

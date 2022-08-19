@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 19 August 2022 02:42:16 UTC
+Updated: Friday, 19 August 2022 09:52:52 UTC
 
 ?:
 ??
@@ -17,7 +17,6 @@ Updated: Friday, 19 August 2022 02:42:16 UTC
 🍄
 🍣
 💩
-1.1.1.1
 10
 11
 1607
@@ -67,7 +66,6 @@ aadsecurity
 aadsts
 aam
 aas
-abc
 abc_testing
 abe
 about
@@ -196,7 +194,6 @@ aem
 aeries
 aeriessis
 aes
-afd
 affinity
 affinity-co
 affinity-crm
@@ -264,6 +261,7 @@ amp
 amqp
 amsi
 amt
+amxmodx
 anaconda
 analysis
 analysisservices
@@ -881,8 +879,6 @@ centralcredentialprovider
 centrastage
 centreon
 centreon.com
-centurylink
-centurylinkcloud
 cer
 cert
 certbasedauth
@@ -980,9 +976,6 @@ classes
 classic
 classification
 classified
-clccontrol
-clccontrolapiv1
-clccontrolapiv2
 clean-up
 cleanmgr
 cleanup
@@ -1307,7 +1300,6 @@ createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
-creator
 cred
 credential
 credential-file
@@ -1320,7 +1312,6 @@ credentialprovider
 credentials
 credentials-cache
 credentialstore
-credentialutility
 credit
 credman
 credmanager
@@ -1525,7 +1516,6 @@ dedicatedhsm
 deduplication
 deep
 deepvisibility
-def
 default
 defaultparameter
 defaultroutes
@@ -1595,6 +1585,7 @@ devices
 devolutions
 devops
 devops psmodule
+devsecninja
 devsecops
 devspaces
 devtestlabs
@@ -1732,7 +1723,6 @@ dog
 dog-names
 dogs
 dogstatsd
-doh
 dok
 dokuwiki
 domain
@@ -2055,6 +2045,7 @@ exe
 exec
 executable
 executables
+execute
 exexml
 exif
 exiftool
@@ -2108,7 +2099,6 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
-failedlogin
 failure
 falcon
 fallbackstatuspoint
@@ -2137,7 +2127,6 @@ fetch
 ffmpeg
 fhirservice
 fiche
-fiddler
 fido
 fido2
 fieldglass
@@ -2330,6 +2319,7 @@ gallery
 game
 gamecategory:cards
 games
+gameserver
 garage
 gas
 gat
@@ -2545,7 +2535,6 @@ handle
 handler
 hangouts
 hannelstoolbox
-har
 hard
 hardblock
 harden
@@ -2751,7 +2740,6 @@ identitydataplane
 identitydirector
 identitynow
 idf
-ids
 ie
 iem
 ifconfig
@@ -3836,7 +3824,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 null-coalescing
 number
 numlock
@@ -4020,7 +4007,6 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
-osdprogress
 osdsus
 osdupdate
 osi
@@ -4102,7 +4088,6 @@ parclient
 pardot
 parititions
 parool
-parquet
 parse
 parser
 parsing
@@ -4132,7 +4117,6 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
-passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -4833,6 +4817,7 @@ refresh
 refreshtoken
 reg
 regardscitoyen
+regcli
 regex
 region
 regions
@@ -4843,6 +4828,7 @@ registration
 registry
 regression
 regularexpressions
+reinstall
 relational
 relay
 release
@@ -5146,6 +5132,7 @@ script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
+scriptbook
 scriptcop
 scriptcreation
 scriptcs
@@ -5177,7 +5164,6 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
-secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5278,7 +5264,6 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
-serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5360,7 +5345,6 @@ showoncommand
 shred
 shutdown
 sid
-sidecar
 siem
 sif
 sigma
@@ -5396,7 +5380,6 @@ sitemap
 siterecovery
 sites
 sitesystemserver
-sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5503,7 +5486,9 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
+sourcemod
 sourceone
+sourcepawn
 sourcequery
 space
 spaces
@@ -6233,7 +6218,6 @@ url-encode
 url-shortener
 urlencode
 urlhaus
-urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6458,7 +6442,6 @@ vum
 vvx
 vxrail
 w32time
-w3svc
 w3w
 waa
 waas
