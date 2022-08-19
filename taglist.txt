@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 18 August 2022 17:57:30 UTC
+Updated: Friday, 19 August 2022 02:42:16 UTC
 
 ?:
 ??
@@ -264,7 +264,6 @@ amp
 amqp
 amsi
 amt
-amxmodx
 anaconda
 analysis
 analysisservices
@@ -423,6 +422,7 @@ asymmetric
 async
 asynchronous
 atempo
+atera
 athena
 atlas
 atlassian
@@ -881,6 +881,8 @@ centralcredentialprovider
 centrastage
 centreon
 centreon.com
+centurylink
+centurylinkcloud
 cer
 cert
 certbasedauth
@@ -978,6 +980,9 @@ classes
 classic
 classification
 classified
+clccontrol
+clccontrolapiv1
+clccontrolapiv2
 clean-up
 cleanmgr
 cleanup
@@ -1129,6 +1134,7 @@ commandsandresource
 commence
 comment
 commerce
+commfort
 commit
 common
 common-data-service
@@ -1589,7 +1595,6 @@ devices
 devolutions
 devops
 devops psmodule
-devsecninja
 devsecops
 devspaces
 devtestlabs
@@ -1947,6 +1952,7 @@ eol
 eop
 eperl
 ephesoft
+epicorerp
 episode
 epplus
 eprosima
@@ -1999,12 +2005,14 @@ eventcollector
 eventful
 eventgrid
 eventhub
+eventing
 eventlist
 eventlog
 eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
+eventmonitoring
 eventprocessor
 events
 eventsubscription
@@ -2013,6 +2021,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2046,7 +2055,6 @@ exe
 exec
 executable
 executables
-execute
 exexml
 exif
 exiftool
@@ -2322,7 +2330,6 @@ gallery
 game
 gamecategory:cards
 games
-gameserver
 garage
 gas
 gat
@@ -2598,6 +2605,7 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
+hg
 hibernation
 hibp
 hidden
@@ -2663,6 +2671,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hsdp
 html
@@ -3312,6 +3321,7 @@ machinelearningservices
 macmon
 macos
 macosx
+macros
 madlib
 magazine
 magento
@@ -3397,6 +3407,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -3444,6 +3455,7 @@ menu
 menus
 meraki
 merakiapi
+mercurial
 merge
 mermaid
 message
@@ -3833,6 +3845,7 @@ nupkg
 nuspec
 nutanix
 nuwave
+nva
 nvdimm
 nvdimm-n
 nvm
@@ -3979,6 +3992,7 @@ opml
 ops
 opsi
 opsmgr
+optics
 optimization
 optimizer
 option
@@ -4111,6 +4125,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4558,6 +4573,7 @@ psincludes_cmdlet
 psini
 psinsight
 psintune
+psise
 psitem
 psjob
 psjobs
@@ -4817,7 +4833,6 @@ refresh
 refreshtoken
 reg
 regardscitoyen
-regcli
 regex
 region
 regions
@@ -4828,7 +4843,6 @@ registration
 registry
 regression
 regularexpressions
-reinstall
 relational
 relay
 release
@@ -4868,6 +4882,7 @@ remove-pinneditem
 removetypeaccelerators
 remux
 ren-isac
+reparsepoint
 repeat
 repl
 replace
@@ -4979,8 +4994,10 @@ round
 roundrobindatabase
 route
 route53
+routeconfig
 router
 routes
+routetable
 routine
 rover
 royalapps
@@ -5129,7 +5146,6 @@ script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
-scriptbook
 scriptcop
 scriptcreation
 scriptcs
@@ -5161,6 +5177,7 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
+secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5486,9 +5503,7 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
-sourcemod
 sourceone
-sourcepawn
 sourcequery
 space
 spaces
@@ -6141,6 +6156,7 @@ udfeedback
 udp
 udpclient
 udptest
+udr
 udthememode
 uefi
 ui
@@ -6333,6 +6349,7 @@ vimode
 virole
 virsh
 virtual
+virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -6637,10 +6654,13 @@ wmf
 wmf5
 wmi
 wmifilter
+wmipermanentevents
 wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -6692,6 +6712,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 ws-federation
 wsapi
 wsb
