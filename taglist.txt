@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 20 August 2022 02:39:35 UTC
+Updated: Saturday, 20 August 2022 09:52:30 UTC
 
 ?:
 ??
@@ -60,6 +60,7 @@ aad-graph
 aadc
 aadconnect
 aadgraph
+aadrm
 aadsc
 aadsecurity
 aadsts
@@ -198,6 +199,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -442,6 +445,7 @@ auditpol
 auditpolicies
 auditpolicy
 audits
+aumid
 aut
 auth0
 authenticate
@@ -648,6 +652,7 @@ beam3d
 bearded-avenger
 bearer
 beautifier
+beautify
 beckhoff
 beep
 benchmark
@@ -974,6 +979,7 @@ cix
 class
 classes
 classic
+classification
 classified
 clccontrol
 clccontrolapiv1
@@ -1047,6 +1053,7 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1401,6 +1408,7 @@ cyclic
 cyclicredundancycheck
 cygwin
 cylance
+cypher
 cyrillic
 d365
 d365ce
@@ -1532,6 +1540,7 @@ defenderforendpoint
 defense
 deflate
 delegated
+delegationmodel
 delete
 delete-orphan-branches
 delivery
@@ -1708,6 +1717,7 @@ docker-image
 docker-machine
 docker-volumes
 dockerfile
+dockerize
 dockerswarm
 docking
 docs
@@ -2081,6 +2091,7 @@ extend
 extended
 extendedevents
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2822,6 +2833,7 @@ infrastructureascode
 ingestion
 inheritance
 ini
+inifile
 initialization
 initials-avatar
 initiator
@@ -3239,6 +3251,7 @@ log-rotation
 log4net
 loganalytics
 logbook
+logcat
 logentry
 logfile
 logfilearchivearchive
@@ -3411,6 +3424,7 @@ md5
 md5_v2-61eb916dbf05fb8ab3c59265b44af4ec
 md5sum
 mdatp
+mdb
 mdbc
 mde
 mdm
@@ -3523,6 +3537,7 @@ minecraft
 minifier
 minimal
 minimum
+mip
 mipsdk
 miration-step
 mirror
@@ -4091,6 +4106,7 @@ parclient
 pardot
 parititions
 parool
+parquet
 parse
 parser
 parsing
@@ -4745,6 +4761,7 @@ ratings
 ravendb
 razzle
 rbac
+rbacmodel
 rbsu
 rcon
 rcs
@@ -4898,6 +4915,7 @@ rescan
 rescuetime
 reservation
 reservations
+reset
 resharper
 resize
 resolution
@@ -4960,6 +4978,7 @@ rlan
 rmcp
 rmm
 rmmapi
+rms
 rng
 roarwrecker
 robbyrussel
@@ -5173,6 +5192,7 @@ secretvault
 section
 secur32
 secure
+secureapplicationmodel
 securechannel
 securegopher
 securegopher+
@@ -5196,6 +5216,7 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+seed
 seek
 seekatar
 seeshell
@@ -5226,6 +5247,7 @@ sendgrid
 sendmail
 sense
 sensitive
+sensitivity
 sensor
 sensors
 sensu
@@ -5941,6 +5963,7 @@ tic-tac-toe
 tickle
 ticks
 tictactoe
+tiermodel
 time
 timeout
 timer
@@ -5956,6 +5979,7 @@ tls12
 tlsprotocol
 to-do
 toast
+toasts
 tobias
 toc
 todo
@@ -6149,6 +6173,7 @@ ui
 ui/ux
 ui7
 uk
+ul
 ulid
 ulm
 um
@@ -6162,6 +6187,7 @@ unc
 unicode
 unidesk
 unifi
+unified
 unifiedauditlog
 unifiedlabeling
 uninstall
@@ -6448,6 +6474,7 @@ waa
 waas
 wac
 waf
+wait4x
 waitforobject
 wakeonlan
 wakeup
@@ -6461,6 +6488,7 @@ wap
 wapack
 wapi
 warning
+warplaneporn
 warranty
 warrenty
 wasabi
