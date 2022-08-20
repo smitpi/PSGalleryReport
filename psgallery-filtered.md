@@ -5,6 +5,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UsefulArgumentCompleters](https://www.powershellgallery.com/Packages/UsefulArgumentCompleters/1.0.1) | 1.0.1
+
+### Published: 08/20/2022 00:58:40 by MartinGC94
+
+Module with lots of argument completers for popular commands.
+
+__Downloads__: 0 | __Repository__: https://github.com/MartinGC94/UsefulArgumentCompleters
+
+## [PSConfigFile](https://www.powershellgallery.com/Packages/PSConfigFile/0.1.31) | 0.1.31
+
+### Published: 08/19/2022 21:47:48 by Pierre Smit
+
+Creates a Config file with Variables, PSDrives, Credentials, Shortcuts(Functions), PSDefaultParameters and a Starting location. You can then execute this config when your profile is loaded, or you can run it manually at any time. And all of the variables, psdrives credentials ext. are then available in your session. This way you can quickly and easily switch between "environment setups"
+
+__Downloads__: 245 | __Repository__: https://github.com/smitpi/PSConfigFile
+
+## [PSTeams](https://www.powershellgallery.com/Packages/PSTeams/2.2.0) | 2.2.0
+
+### Published: 08/19/2022 21:30:40 by Przemyslaw Klys
+
+PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
+
+__Downloads__: 238,505 | __Repository__: https://github.com/EvotecIT/PSTeams
+
+## [MineStat](https://www.powershellgallery.com/Packages/MineStat/2.0.3) | 2.0.3
+
+### Published: 08/19/2022 21:25:16 by Ajoro and MineStat contributors
+
+MineStat is a Minecraft server connection status checker.
+
+__Downloads__: 26 | __Repository__: https://github.com/FragLand/minestat
+
+## [SecretManagement.CyberArk](https://www.powershellgallery.com/Packages/SecretManagement.CyberArk/1.0.0) | 1.0.0
+
+### Published: 08/19/2022 20:27:58 by Tim Schindler
+
+SecretManagement extension for CyberArk
+
+__Downloads__: 492 | __Repository__: https://github.com/aaearon/SecretManagement.CyberArk
+
+## [PSSmartsheet](https://www.powershellgallery.com/Packages/PSSmartsheet/0.1.6) | 0.1.6
+
+### Published: 08/19/2022 19:39:46 by Skylar Ragan
+
+A Powershell wrapper for the Smartsheet C# SDK
+
+__Downloads__: 429 | __Repository__: https://github.com/skywayskase/PSSmartsheet
+
+## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.14) | 1.0.14
+
+### Published: 08/19/2022 19:07:32 by Jeremy La Camera
+
+Logs, displays, and outputs log messages after adding metadata such as timestamp, hostname, etc.
+
+__Downloads__: 31 | __Repository__: 
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.21) | 0.0.21
+
+### Published: 08/19/2022 18:19:39 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 38 | __Repository__: 
+
+## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.92) | 1.0.92
+
+### Published: 08/19/2022 18:15:01 by Jeremy La Camera
+
+Module for multithreading PowerShell commands using .Net Runspaces
+
+__Downloads__: 79 | __Repository__: 
+
 ## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.3.0) | 2022.2.3.0
 
 ### Published: 08/19/2022 16:59:58 by Devolutions
@@ -59,7 +131,7 @@ __Downloads__: 67 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 Universal Dashbord v3 framework for Powershell Universal
 
-__Downloads__: 84,648 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+__Downloads__: 84,700 | __Repository__: https://www.ironmansoftware.com/powershell-universal
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.5) | 3.2.5
 
@@ -115,7 +187,7 @@ __Downloads__: 3 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,834,438 | __Repository__: https://dbatools.io/
+__Downloads__: 1,837,906 | __Repository__: https://dbatools.io/
 
 ## [AGMPowerCLI](https://www.powershellgallery.com/Packages/AGMPowerCLI/0.0.0.39) | 0.0.0.39
 
@@ -134,7 +206,7 @@ __Downloads__: 1,322 | __Repository__: https://github.com/Actifio/AGMPowerCLI
 
 Module for generating random passwords in XKCD style.
 
-__Downloads__: 1 | __Repository__: https://github.com/adambirds/xkcd-pass-pwsh
+__Downloads__: 0 | __Repository__: https://github.com/adambirds/xkcd-pass-pwsh
 
 ## [WhoCalled](https://www.powershellgallery.com/Packages/WhoCalled/2.0.2) | 2.0.2
 
@@ -150,7 +222,7 @@ __Downloads__: 8 | __Repository__: https://github.com/fsackur/WhoCalled
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 766,587 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 768,112 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.0.85) | 5.0.85
 
@@ -174,7 +246,7 @@ __Downloads__: 8 | __Repository__:
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 285,520 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 285,506 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.5) | 1.4.5
 
@@ -264,7 +336,7 @@ __Downloads__: 64 | __Repository__: https://github.com/mgajda83/PSLogAnalyticsWr
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 18,507,465 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 18,593,571 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [AliModule](https://www.powershellgallery.com/Packages/AliModule/1.2) | 1.2
 
@@ -296,7 +368,7 @@ __Downloads__: 33 | __Repository__: https://github.com/netricsag/PowerAMT
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 142,363 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 142,531 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.1.0) | 1.1.0
 
@@ -312,7 +384,7 @@ __Downloads__: 174 | __Repository__: https://github.com/abbgrade/PsSmo
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,096,703 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,100,762 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Stti](https://www.powershellgallery.com/Packages/Stti/1.0.0.2396) | 1.0.0.2396
 
@@ -336,7 +408,7 @@ __Downloads__: 105 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/a
 
 PowerShell module to fetch AzureAD or ActiveDirectory user information to use in GoBright. Depends on the modules: AzureAD and ActiveDirectory
 
-__Downloads__: 2,154 | __Repository__: https://gobright.com/
+__Downloads__: 2,157 | __Repository__: https://gobright.com/
 
 ## [ScriptUtils](https://www.powershellgallery.com/Packages/ScriptUtils/1.1.1) | 1.1.1
 
@@ -379,7 +451,7 @@ __Downloads__: 10 | __Repository__: https://www.powershellgallery.com/packages/S
 
 A PowerShell module for handling color and cursor positioning via ANSI escape sequences
 
-__Downloads__: 37,245 | __Repository__: https://github.com/PoshCode/Pansies
+__Downloads__: 37,243 | __Repository__: https://github.com/PoshCode/Pansies
 
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.19) | 3.0.19
 
@@ -388,14 +460,6 @@ __Downloads__: 37,245 | __Repository__: https://github.com/PoshCode/Pansies
 Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
 __Downloads__: 259 | __Repository__: 
-
-## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.91) | 1.0.91
-
-### Published: 08/18/2022 00:11:24 by Jeremy La Camera
-
-Module for multithreading PowerShell commands using .Net Runspaces
-
-__Downloads__: 79 | __Repository__: 
 
 ## [Login](https://www.powershellgallery.com/Packages/Login/0.0.2) | 0.0.2
 
@@ -451,7 +515,7 @@ __Downloads__: 10 | __Repository__:
 
 A module for PowerShell data serialization
 
-__Downloads__: 76,925 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 77,094 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.3) | 0.0.3
 
@@ -475,7 +539,7 @@ __Downloads__: 473 | __Repository__: https://github.com/danstis/PSF-Module
 
 PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
 
-__Downloads__: 342 | __Repository__: 
+__Downloads__: 341 | __Repository__: 
 
 ## [psPAS](https://www.powershellgallery.com/Packages/psPAS/5.3.76) | 5.3.76
 
@@ -1502,21 +1566,13 @@ Brings a Guru Meditation style screen-of-death to a terminal near you. Ideal for
 
 __Downloads__: 26 | __Repository__: https://github.com/FailGuru/powershell
 
-## [LampSettingLib](https://www.powershellgallery.com/Packages/LampSettingLib/0.0.2) | 0.0.2
-
-### Published: 08/16/2022 14:53:49 by CR
-
-Helper module to TisaneLampClient, manages setting values to the variables
-
-__Downloads__: 6 | __Repository__: 
-
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/2.2208.397.134009) | 2.2208.397.134009
 
 ### Published: 08/16/2022 13:40:40 by Adam Rudell
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 9,781 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 9,773 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.6) | 0.2.6
 
@@ -1604,7 +1660,7 @@ __Downloads__: 13 | __Repository__:
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 538,697 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 540,099 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [PSAbuseIPDB](https://www.powershellgallery.com/Packages/PSAbuseIPDB/0.0.1) | 0.0.1
 
@@ -1620,7 +1676,7 @@ __Downloads__: 3 | __Repository__: https://github.com/madsaune/PSAbuseIPDB
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 38,579 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 40,755 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [New-Avatar](https://www.powershellgallery.com/Packages/New-Avatar/1.0.0) | 1.0.0
 
@@ -1676,7 +1732,7 @@ __Downloads__: 28 | __Repository__: https://github.com/mschauer5/MSchauer.ShareP
 
 ArcGIS Module for PowerShell DSC
 
-__Downloads__: 35,282 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
+__Downloads__: 35,281 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.4.0) | 1.4.0
 
@@ -1782,14 +1838,6 @@ This module assists organisations using PowerShell to interface to the MISP.
 
 __Downloads__: 4 | __Repository__: 
 
-## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.12) | 1.0.12
-
-### Published: 08/15/2022 04:48:40 by Jeremy La Camera
-
-Logs, displays, and outputs log messages after adding metadata such as timestamp, hostname, etc.
-
-__Downloads__: 31 | __Repository__: 
-
 ## [New-ShortURL](https://www.powershellgallery.com/Packages/New-ShortURL/1.0) | 1.0
 
 ### Published: 08/14/2022 21:53:03 by Adam Bacon
@@ -1806,21 +1854,13 @@ Cross-platform SQL code deployment module with Continuous Deployment capabilitie
 
 __Downloads__: 16,219 | __Repository__: https://github.com/sqlcollaborative/dbops
 
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.19) | 0.0.19
-
-### Published: 08/14/2022 17:58:48 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 38 | __Repository__: 
-
 ## [PSWriteExcel](https://www.powershellgallery.com/Packages/PSWriteExcel/0.1.15) | 0.1.15
 
 ### Published: 08/14/2022 17:54:17 by Przemyslaw Klys
 
 Little project to create Excel files without Microsoft Excel being installed.
 
-__Downloads__: 77,503 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
+__Downloads__: 77,524 | __Repository__: https://github.com/EvotecIT/PSWriteExcel
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.21.0) | 2.21.0
 
@@ -1900,7 +1940,7 @@ __Downloads__: 6 | __Repository__: https://adam-bacon.netlify.app/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,120,359 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,121,335 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
 
@@ -2018,46 +2058,6 @@ __Downloads__: 4,169 | __Repository__:
 
 Interact with the Secret Server REST API
 
-__Downloads__: 18,057 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 18,143 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.68.0) | 1.68.0
-
-### Published: 08/12/2022 19:10:17 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 5,039 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
-## [PSPlex](https://www.powershellgallery.com/Packages/PSPlex/1.0.3) | 1.0.3
-
-### Published: 08/12/2022 17:42:59 by Robin Malik
-
-A PowerShell module to aid Plex server management.
-
-__Downloads__: 39 | __Repository__: https://github.com/robinmalik/PSPlex
-
-## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/0.2.8) | 0.2.8
-
-### Published: 08/12/2022 17:23:23 by Endjineers
-
-Provides automated build features using on the InvokeBuild module
-
-__Downloads__: 2,070 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
-
-## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.53.1) | 0.53.1
-
-### Published: 08/12/2022 17:01:36 by WebMD Health Services
-
-Continuous Integration/Continuous Delivery module.
-
-__Downloads__: 5,304 | __Repository__: https://github.com/webmd-health-services/Whiskey
-
-## [PSItems](https://www.powershellgallery.com/Packages/PSItems/0.2.4) | 0.2.4
-
-### Published: 08/12/2022 14:59:00 by Eizedev
-
-A PowerShell module that finds files and directories as well as file and directory information the quick and easy way!
-
-__Downloads__: 24 | __Repository__: https://github.com/eizedev/PSItems
-
-*Updated: Friday, 19 August 2022 17:53:14 UTC*
+*Updated: Saturday, 20 August 2022 02:39:24 UTC*

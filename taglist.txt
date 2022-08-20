@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 19 August 2022 17:53:24 UTC
+Updated: Saturday, 20 August 2022 02:39:35 UTC
 
 ?:
 ??
@@ -60,7 +60,6 @@ aad-graph
 aadc
 aadconnect
 aadgraph
-aadrm
 aadsc
 aadsecurity
 aadsts
@@ -199,8 +198,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -445,7 +442,6 @@ auditpol
 auditpolicies
 auditpolicy
 audits
-aumid
 aut
 auth0
 authenticate
@@ -461,6 +457,7 @@ authorizationheaders
 authorize.net
 authz
 autify
+auto
 auto_cd
 auto-completion
 autoattendant
@@ -651,7 +648,6 @@ beam3d
 bearded-avenger
 bearer
 beautifier
-beautify
 beckhoff
 beep
 benchmark
@@ -881,6 +877,8 @@ centralcredentialprovider
 centrastage
 centreon
 centreon.com
+centurylink
+centurylinkcloud
 cer
 cert
 certbasedauth
@@ -911,6 +909,7 @@ charts
 chat
 chatbot
 chatops
+chatroom
 chatter
 cheat
 check
@@ -975,8 +974,10 @@ cix
 class
 classes
 classic
-classification
 classified
+clccontrol
+clccontrolapiv1
+clccontrolapiv2
 clean-up
 cleanmgr
 cleanup
@@ -1400,7 +1401,6 @@ cyclic
 cyclicredundancycheck
 cygwin
 cylance
-cypher
 cyrillic
 d365
 d365ce
@@ -1532,7 +1532,6 @@ defenderforendpoint
 defense
 deflate
 delegated
-delegationmodel
 delete
 delete-orphan-branches
 delivery
@@ -2082,7 +2081,6 @@ extend
 extended
 extendedevents
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2824,7 +2822,6 @@ infrastructureascode
 ingestion
 inheritance
 ini
-inifile
 initialization
 initials-avatar
 initiator
@@ -2945,6 +2942,7 @@ ishexstring
 ism
 isnumeric
 iso
+iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3077,6 +3075,7 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
+kurukuru
 kusto
 kvm
 kvp
@@ -3240,7 +3239,6 @@ log-rotation
 log4net
 loganalytics
 logbook
-logcat
 logentry
 logfile
 logfilearchivearchive
@@ -3525,7 +3523,6 @@ minecraft
 minifier
 minimal
 minimum
-mip
 mipsdk
 miration-step
 mirror
@@ -3879,6 +3876,7 @@ odbc
 odfb
 odin
 odoo
+offboarding
 offence
 office
 office_365
@@ -3913,6 +3911,7 @@ on-demand
 on-premise
 onboard
 onboardadministrator
+onboarding
 oncommand-insight
 ondemand
 one
@@ -4092,7 +4091,6 @@ parclient
 pardot
 parititions
 parool
-parquet
 parse
 parser
 parsing
@@ -4747,7 +4745,6 @@ ratings
 ravendb
 razzle
 rbac
-rbacmodel
 rbsu
 rcon
 rcs
@@ -4874,6 +4871,7 @@ remove-pinneditem
 removetypeaccelerators
 remux
 ren-isac
+reparsepoint
 repeat
 repl
 replace
@@ -4900,7 +4898,6 @@ rescan
 rescuetime
 reservation
 reservations
-reset
 resharper
 resize
 resolution
@@ -4963,7 +4960,6 @@ rlan
 rmcp
 rmm
 rmmapi
-rms
 rng
 roarwrecker
 robbyrussel
@@ -5177,7 +5173,6 @@ secretvault
 section
 secur32
 secure
-secureapplicationmodel
 securechannel
 securegopher
 securegopher+
@@ -5231,7 +5226,6 @@ sendgrid
 sendmail
 sense
 sensitive
-sensitivity
 sensor
 sensors
 sensu
@@ -5380,6 +5374,7 @@ sintez
 sintez.module.rds
 site
 site_navigation
+sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
@@ -5946,7 +5941,6 @@ tic-tac-toe
 tickle
 ticks
 tictactoe
-tiermodel
 time
 timeout
 timer
@@ -5962,7 +5956,6 @@ tls12
 tlsprotocol
 to-do
 toast
-toasts
 tobias
 toc
 todo
@@ -6156,7 +6149,6 @@ ui
 ui/ux
 ui7
 uk
-ul
 ulid
 ulm
 um
@@ -6170,7 +6162,6 @@ unc
 unicode
 unidesk
 unifi
-unified
 unifiedauditlog
 unifiedlabeling
 uninstall
@@ -6470,7 +6461,6 @@ wap
 wapack
 wapi
 warning
-warplaneporn
 warranty
 warrenty
 wasabi
@@ -6670,6 +6660,7 @@ workingdays
 workinghours
 workingtime
 workload-automation
+workpoint
 workrequests
 worksheet
 workshop
