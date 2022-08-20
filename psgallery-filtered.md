@@ -5,13 +5,53 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [JsonFS](https://www.powershellgallery.com/Packages/JsonFS/0.1.0) | 0.1.0
+
+### Published: 08/20/2022 17:19:23 by github.com/wgross
+
+Mount JSON files as PowerShell drives
+
+__Downloads__: 0 | __Repository__: https://github.com/wgross/json-fs
+
+## [AudioVolumeDsc](https://www.powershellgallery.com/Packages/AudioVolumeDsc/2.0.0) | 2.0.0
+
+### Published: 08/20/2022 14:57:25 by mkht
+
+PowerShell DSC Resource to control audio volume.
+
+__Downloads__: 1,021 | __Repository__: https://github.com/mkht/AudioVolumeDsc
+
+## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.1.1) | 1.1.1
+
+### Published: 08/20/2022 13:28:20 by Theodor K
+
+Gitlab API v4 helper functions
+
+__Downloads__: 872 | __Repository__: https://gitlab.com/mteodor/gitlab4
+
+## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.5) | 0.0.5
+
+### Published: 08/20/2022 12:36:14 by aciq
+
+Experimental Cross platform PowerShell tab expansion
+
+__Downloads__: 14 | __Repository__: https://github.com/aciq/pscomplete/
+
+## [SecretManagement.CyberArk](https://www.powershellgallery.com/Packages/SecretManagement.CyberArk/1.0.1) | 1.0.1
+
+### Published: 08/20/2022 11:51:32 by Tim Schindler
+
+SecretManagement extension for CyberArk
+
+__Downloads__: 493 | __Repository__: https://github.com/aaearon/SecretManagement.CyberArk
+
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.19.1) | 22.8.19.1
 
 ### Published: 08/20/2022 05:10:23 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 287,074 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 287,072 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.54) | 0.0.0.54
 
@@ -62,7 +102,7 @@ __Downloads__: 247 | __Repository__: https://github.com/smitpi/PSConfigFile
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 238,511 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 238,505 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [MineStat](https://www.powershellgallery.com/Packages/MineStat/2.0.3) | 2.0.3
 
@@ -71,14 +111,6 @@ __Downloads__: 238,511 | __Repository__: https://github.com/EvotecIT/PSTeams
 MineStat is a Minecraft server connection status checker.
 
 __Downloads__: 26 | __Repository__: https://github.com/FragLand/minestat
-
-## [SecretManagement.CyberArk](https://www.powershellgallery.com/Packages/SecretManagement.CyberArk/1.0.0) | 1.0.0
-
-### Published: 08/19/2022 20:27:58 by Tim Schindler
-
-SecretManagement extension for CyberArk
-
-__Downloads__: 493 | __Repository__: https://github.com/aaearon/SecretManagement.CyberArk
 
 ## [PSSmartsheet](https://www.powershellgallery.com/Packages/PSSmartsheet/0.1.6) | 0.1.6
 
@@ -103,14 +135,6 @@ __Downloads__: 33 | __Repository__:
 Module for working with Access Control Lists
 
 __Downloads__: 40 | __Repository__: 
-
-## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.92) | 1.0.92
-
-### Published: 08/19/2022 18:15:01 by Jeremy La Camera
-
-Module for multithreading PowerShell commands using .Net Runspaces
-
-__Downloads__: 80 | __Repository__: 
 
 ## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.3.0) | 2022.2.3.0
 
@@ -174,7 +198,7 @@ __Downloads__: 84,701 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,420 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 27,418 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/2.0.0) | 2.0.0
 
@@ -363,7 +387,7 @@ __Downloads__: 65 | __Repository__: https://github.com/mgajda83/PSLogAnalyticsWr
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 18,593,571 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 18,593,127 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [AliModule](https://www.powershellgallery.com/Packages/AliModule/1.2) | 1.2
 
@@ -395,7 +419,7 @@ __Downloads__: 41 | __Repository__: https://github.com/netricsag/PowerAMT
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 142,532 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 142,531 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.1.0) | 1.1.0
 
@@ -456,14 +480,6 @@ NTS-ConfigMgrTools module contains tools for ConfigMgr and cource deployment
 
 __Downloads__: 98 | __Repository__: 
 
-## [SetUpBasic](https://www.powershellgallery.com/Packages/SetUpBasic/0.0.0.210) | 0.0.0.210
-
-### Published: 08/18/2022 05:15:54 by Naitwatch
-
-Powershell module for basic windows os configuration, maintenance
-
-__Downloads__: 838 | __Repository__: https://github.com/NaitWatch/SetUpBasic
-
 ## [SetUpBasic.Env](https://www.powershellgallery.com/Packages/SetUpBasic.Env/0.0.0.5) | 0.0.0.5
 
 ### Published: 08/18/2022 05:15:37 by Naitwatch
@@ -495,14 +511,6 @@ __Downloads__: 261 | __Repository__:
 Used for logging-in to RiverMeadow platform
 
 __Downloads__: 8 | __Repository__: 
-
-## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.4) | 0.0.4
-
-### Published: 08/17/2022 20:26:20 by aciq
-
-Experimental Cross platform PowerShell tab expansion
-
-__Downloads__: 14 | __Repository__: https://github.com/aciq/pscomplete/
 
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.15.2) | 2.15.2
 
@@ -542,7 +550,7 @@ __Downloads__: 12 | __Repository__:
 
 A module for PowerShell data serialization
 
-__Downloads__: 77,099 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 77,090 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.3) | 0.0.3
 
@@ -574,7 +582,7 @@ __Downloads__: 349 | __Repository__:
 
 Module for CyberArk Privileged Access Security Web Service REST API
 
-__Downloads__: 40,555 | __Repository__: https://pspas.pspete.dev/
+__Downloads__: 40,551 | __Repository__: https://pspas.pspete.dev/
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/38.1.0) | 38.1.0
 
@@ -680,14 +688,6 @@ __Downloads__: 1,590 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Usageapi Service
 
 __Downloads__: 1,613 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Usage](https://www.powershellgallery.com/Packages/OCI.PSModules.Usage/38.1.0) | 38.1.0
-
-### Published: 08/16/2022 20:18:30 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Usage Service
-
-__Downloads__: 780 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Threatintelligence](https://www.powershellgallery.com/Packages/OCI.PSModules.Threatintelligence/38.1.0) | 38.1.0
 
@@ -1695,7 +1695,7 @@ __Downloads__: 14 | __Repository__:
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 540,099 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 540,107 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [PSAbuseIPDB](https://www.powershellgallery.com/Packages/PSAbuseIPDB/0.0.1) | 0.0.1
 
@@ -1711,7 +1711,7 @@ __Downloads__: 3 | __Repository__: https://github.com/madsaune/PSAbuseIPDB
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 40,780 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 40,790 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [New-Avatar](https://www.powershellgallery.com/Packages/New-Avatar/1.0.0) | 1.0.0
 
@@ -1783,7 +1783,7 @@ __Downloads__: 160 | __Repository__: https://github.com/last-byte/PersistenceSni
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 18,439 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 18,440 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.14.0) | 1.14.0
 
@@ -1791,7 +1791,7 @@ __Downloads__: 18,439 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 11,424 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,426 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.11) | 0.0.11
 
@@ -1975,7 +1975,7 @@ __Downloads__: 6 | __Repository__: https://adam-bacon.netlify.app/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,121,344 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,121,343 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
 
@@ -2063,4 +2063,4 @@ Powershell module SetUpBasic.Template. This module is under construction and jus
 
 __Downloads__: 232 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Template
 
-*Updated: Saturday, 20 August 2022 09:52:20 UTC*
+*Updated: Saturday, 20 August 2022 17:52:37 UTC*

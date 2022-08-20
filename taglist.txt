@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 20 August 2022 09:52:30 UTC
+Updated: Saturday, 20 August 2022 17:52:48 UTC
 
 ?:
 ??
@@ -249,7 +249,6 @@ alpine
 alpr
 alt3
 alter
-alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -1078,7 +1077,6 @@ cmtrace
 cmwt
 cns
 coa
-cockroachdb
 codaamok
 code
 code-page
@@ -2004,7 +2002,6 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -2992,7 +2989,6 @@ jea
 jenkins
 jetbrains
 jira
-jiraservicemanagement
 jitbit
 jms
 joat
@@ -3008,8 +3004,6 @@ jotform
 journal
 jpg
 js7
-jsm
-jsm.insight
 json
 json-transform
 json+
@@ -3662,7 +3656,6 @@ multiple
 multiserver
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4245,7 +4238,6 @@ playlists
 pleasant
 pleasantpasswordserver
 plex
-plist
 plog
 plot
 plugin
@@ -4475,7 +4467,6 @@ prompt
 pronounceable
 properties
 property
-property-list
 prose
 protect
 protect-blob
@@ -4901,7 +4892,6 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
-reportrunner
 reports
 repos
 repositories
@@ -6085,7 +6075,6 @@ twitch
 twitter
 twitter-api
 twitter-client
-twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -6615,7 +6604,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsmanagementframework
 windowsplugins
 windowspowershell
 windowspresentationfoundation
@@ -6661,7 +6649,6 @@ wisdom
 with
 wkhtmltopdf
 wlan
-wmf
 wmf5
 wmi
 wmifilter
@@ -6784,7 +6771,6 @@ xmlutils
 xoauth2
 xor
 xpath
-xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -6794,7 +6780,6 @@ xtremio
 xtrude
 xunit
 xwiki
-xwindowsupdate
 yahoo
 yahw
 yamaha
