@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 21 August 2022 09:52:33 UTC
+Updated: Sunday, 21 August 2022 17:52:36 UTC
 
 ?:
 ??
@@ -16,6 +16,7 @@ Updated: Sunday, 21 August 2022 09:52:33 UTC
 "interactive
 🍄
 🍣
+💩
 10
 11
 1607
@@ -194,6 +195,7 @@ aem
 aeries
 aeriessis
 aes
+afd
 affinity
 affinity-co
 affinity-crm
@@ -260,6 +262,7 @@ amiga
 amp
 amqp
 amsi
+amt
 amxmodx
 anaconda
 analysis
@@ -308,6 +311,7 @@ apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
+aportal
 app
 app-only
 app-v
@@ -414,6 +418,7 @@ association
 ast
 astronomy
 asv
+asymmetric
 async
 asynchronous
 atempo
@@ -881,6 +886,7 @@ centurylinkcloud
 cer
 cert
 certbasedauth
+certera
 certes
 certificate
 certificateauthority
@@ -949,7 +955,6 @@ cil
 cim
 cim_computersystem
 cimfs
-cimi
 ciminstance
 cims
 cimsession
@@ -958,6 +963,7 @@ cinema
 cinst
 cipher
 circuit-breaker
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1045,6 +1051,7 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1299,6 +1306,7 @@ createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
+creator
 cred
 credential
 credential-file
@@ -1348,6 +1356,7 @@ css
 csv
 csv2adx
 csvhelper
+ctf
 ctglobal
 ctl
 ctx
@@ -1378,7 +1387,6 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
-customisation
 customization
 customlocation
 customproviders
@@ -1449,6 +1457,7 @@ datagateway
 dataintegration
 datakwaliteit
 datalabelingservice
+datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
@@ -1493,6 +1502,7 @@ dbwebapi
 dc
 dcim
 dcim_b324
+deathface
 debian
 debug
 debug-files
@@ -1527,6 +1537,7 @@ defenderforendpoint
 defense
 deflate
 delegated
+delegationmodel
 delete
 delete-orphan-branches
 delivery
@@ -1620,6 +1631,7 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -1660,6 +1672,7 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
+diving
 division
 divoom
 dkim
@@ -1747,6 +1760,7 @@ dps
 dq
 dr
 draw
+drawio
 dreamweaver
 dreary
 drift
@@ -2108,6 +2122,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+favorites
 fb-pro
 fciv
 fd
@@ -2122,6 +2137,7 @@ fetch
 ffmpeg
 fhirservice
 fiche
+fiddler
 fido
 fido2
 fieldglass
@@ -2218,7 +2234,6 @@ flatten
 flex
 flex-query
 flexdesk
-flickr
 flowchart
 flowy
 fluidrelay
@@ -2316,6 +2331,7 @@ gamecategory:cards
 games
 gameserver
 garage
+gas
 gat
 gateway
 gauge
@@ -2328,6 +2344,10 @@ gcloud
 gcp
 gcs
 gdpr
+gemini
+geminiprotocol
+gemlog
+gemtext
 general
 generate
 generateaddress
@@ -2525,6 +2545,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+har
 hard
 hardblock
 harden
@@ -2978,6 +2999,7 @@ johnshopkins
 join
 join-object
 jojoba
+joke
 jotform
 journal
 jpg
@@ -3075,7 +3097,6 @@ labels
 lability
 labnotifications
 labrecipe
-labservices
 labsnippet
 labtech
 labtest
@@ -3177,6 +3198,7 @@ liquit
 liquit.com
 list
 list_files
+list-directory
 list-item
 listener
 litecoin
@@ -3197,7 +3219,6 @@ local-caching
 local-policy
 localadmin
 localconfigurationmanager
-localdb
 locale
 localgroup
 localization
@@ -3215,6 +3236,10 @@ lod
 lodasoft
 log
 log-administration
+log-file
+log-files
+log-mail
+log-mails
 log-management
 log-rotation
 log4net
@@ -3242,6 +3267,8 @@ loginsight
 logiphys
 logistic
 logitech
+logmail
+logmails
 logman
 logoff
 logon
@@ -3304,7 +3331,9 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
+mailing
 mailkit
+mails
 main
 main-menu
 maintenance
@@ -3588,6 +3617,7 @@ msgraphapi
 msgraphreport
 msgraphtokenlifetimepolicy
 msi
+msi psmodule
 msiexec
 msil
 msix
@@ -3751,6 +3781,7 @@ ninja
 ninjaone
 ninjarmm
 nios
+nitrox
 nl
 nla
 nlm
@@ -3825,6 +3856,7 @@ oa
 oacli
 oacmdlets
 oacommand
+oact
 oauth
 oauth2
 oauth2.0
@@ -3926,6 +3958,7 @@ open
 open-ai
 open-ssh
 openai
+openamt
 openapi
 opendata
 openedge
@@ -3936,6 +3969,7 @@ openidconnect
 openinghours
 openport
 openscad
+opensearch
 opensourceinitiative
 openssh
 openssl
@@ -3952,7 +3986,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
-opml
 ops
 opsi
 opsmgr
@@ -3984,6 +4017,7 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
+osdprogress
 osdsus
 osdupdate
 osi
@@ -4009,7 +4043,6 @@ out-gridview
 out-json
 outerjoin
 outertext
-outline
 outlook
 output
 output-to-image
@@ -4020,12 +4053,14 @@ ovgd
 owasp
 owls
 owner
+oxygen
 oxyplot
 p2000
 p2s
 pa1reg
 paas
 pac
+pack
 package
 package-management
 package-transform
@@ -4202,7 +4237,6 @@ playlists
 pleasant
 pleasantpasswordserver
 plex
-plist
 plog
 plot
 plugin
@@ -4233,6 +4267,7 @@ polycom
 pomodoro
 ponduit
 pool
+poop
 pop
 pop-location
 pop3
@@ -4388,6 +4423,7 @@ prism
 prism_element
 privacy
 private
+private-key
 privatedns
 privatekey
 privatemethods
@@ -4430,7 +4466,6 @@ prompt
 pronounceable
 properties
 property
-property-list
 prose
 protect
 protect-blob
@@ -4463,6 +4498,10 @@ ps1
 ps1xml
 ps1xmlgen
 ps2exe
+ps3
+ps4
+ps5
+ps6
 ps7
 psa
 psadbscreencap
@@ -4488,6 +4527,7 @@ psdeploy
 psdevops
 psdocs
 psdocs-documents
+psdrawio
 psdrive
 psdrives
 psdsc
@@ -4597,6 +4637,7 @@ psyaml
 pszabbix
 pubg
 public
+public-key
 public-transport
 publicapi
 publicclient
@@ -4689,6 +4730,7 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
+raj
 ram
 ram-it
 random
@@ -4709,6 +4751,7 @@ ratings
 ravendb
 razzle
 rbac
+rbacmodel
 rbsu
 rcon
 rcs
@@ -5065,6 +5108,7 @@ scheduler
 schedules-execution
 scheduling
 schema
+schemaextensions
 scheme
 school-information-system
 schulung
@@ -5112,6 +5156,7 @@ scrolllock
 scrub
 scrubber
 scsm
+scuba
 sd
 sddl
 sdk
@@ -5287,6 +5332,7 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
+shell-art
 shells
 shieldedvm
 ships
@@ -5310,7 +5356,6 @@ siem
 sif
 sigma
 sign
-signalfx
 signalr
 signature
 signed
@@ -5333,7 +5378,6 @@ sintez
 sintez.module.rds
 site
 site_navigation
-sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
@@ -5341,12 +5385,15 @@ sitemap
 siterecovery
 sites
 sitesystemserver
+sitethumbprint
 size
 skatterbrainz
+skattertools
 skeleton-loader
 skia
 skiasharp
 skolnilogin
+sktools
 sku
 skunklab
 sky
@@ -5403,6 +5450,7 @@ snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
+snugglepup
 soap
 soc
 soccer
@@ -5478,6 +5526,7 @@ spelling
 spf
 spi
 spinnaker
+splash
 splat
 splatting
 split
@@ -5697,6 +5746,7 @@ symboliclink
 symbols
 symbolservers
 symlink
+symmetric
 synapse
 sync
 synchronization
@@ -5894,6 +5944,7 @@ tic-tac-toe
 tickle
 ticks
 tictactoe
+tiermodel
 time
 timeout
 timer
@@ -5986,7 +6037,6 @@ troubleshoot
 troubleshooting
 trouw
 truecrypt
-truenas
 truportal
 trusted
 trusted-host
@@ -6015,6 +6065,7 @@ twitch
 twitter
 twitter-api
 twitter-client
+twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -6048,6 +6099,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6171,6 +6223,7 @@ url-encode
 url-shortener
 urlencode
 urlhaus
+urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6241,6 +6294,7 @@ vcenter
 vcloud
 vclouddirector
 vcm
+vco
 vcs
 vcsa
 vcvars
@@ -6346,6 +6400,7 @@ vocabularies
 voice
 voiceconfig
 voidtools
+volkskrant
 volume
 volumeshadowcopy
 volumio
@@ -6612,7 +6667,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workpoint
 workrequests
 worksheet
 workshop
@@ -6672,6 +6726,8 @@ x2
 x509
 x509cerificate
 x509cerificate2
+x509certificate
+x509certificates
 x509chain
 x64
 x86
