@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 21 August 2022 02:40:25 UTC
+Updated: Sunday, 21 August 2022 09:52:33 UTC
 
 ?:
 ??
@@ -16,7 +16,6 @@ Updated: Sunday, 21 August 2022 02:40:25 UTC
 "interactive
 🍄
 🍣
-💩
 10
 11
 1607
@@ -66,6 +65,7 @@ aadsecurity
 aadsts
 aam
 aas
+abc
 abc_testing
 abe
 about
@@ -87,6 +87,7 @@ accord.net
 account
 accounting
 accounts
+ace
 ack
 acknowledge
 acl
@@ -225,6 +226,7 @@ albertheijn
 albums
 alero
 alert
+alerting
 alertmail
 alertmanagement
 alerts
@@ -258,7 +260,6 @@ amiga
 amp
 amqp
 amsi
-amt
 amxmodx
 anaconda
 analysis
@@ -307,7 +308,6 @@ apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
-aportal
 app
 app-only
 app-v
@@ -414,7 +414,6 @@ association
 ast
 astronomy
 asv
-asymmetric
 async
 asynchronous
 atempo
@@ -627,7 +626,6 @@ base64url
 base85
 basecamp
 based
-baseline
 bash
 bastion
 bat
@@ -720,6 +718,7 @@ blueprints
 blueteam
 bluetraitio
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -882,7 +881,6 @@ centurylinkcloud
 cer
 cert
 certbasedauth
-certera
 certes
 certificate
 certificateauthority
@@ -957,9 +955,9 @@ cims
 cimsession
 cinegy
 cinema
+cinst
 cipher
 circuit-breaker
-circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1047,7 +1045,6 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1302,7 +1299,6 @@ createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
-creator
 cred
 credential
 credential-file
@@ -1352,7 +1348,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctx
@@ -1454,7 +1449,6 @@ datagateway
 dataintegration
 datakwaliteit
 datalabelingservice
-datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
@@ -1499,7 +1493,6 @@ dbwebapi
 dc
 dcim
 dcim_b324
-deathface
 debian
 debug
 debug-files
@@ -1520,8 +1513,10 @@ dedicatedhsm
 deduplication
 deep
 deepvisibility
+def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -1532,7 +1527,6 @@ defenderforendpoint
 defense
 deflate
 delegated
-delegationmodel
 delete
 delete-orphan-branches
 delivery
@@ -1626,7 +1620,6 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
-directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -1667,7 +1660,6 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
-diving
 division
 divoom
 dkim
@@ -1755,7 +1747,6 @@ dps
 dq
 dr
 draw
-drawio
 dreamweaver
 dreary
 drift
@@ -1863,6 +1854,7 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efi
 eigencontroles
 einstein
@@ -1945,6 +1937,7 @@ eol
 eop
 eperl
 ephesoft
+epicorerp
 episode
 epplus
 eprosima
@@ -1994,6 +1987,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2024,6 +2018,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2113,7 +2108,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-favorites
 fb-pro
 fciv
 fd
@@ -2307,6 +2301,7 @@ functionalprogramming
 functions
 funds
 funny
+fusionapps
 fuzzy
 fyi
 fzf
@@ -2321,7 +2316,6 @@ gamecategory:cards
 games
 gameserver
 garage
-gas
 gat
 gateway
 gauge
@@ -2334,13 +2328,10 @@ gcloud
 gcp
 gcs
 gdpr
-gemini
-geminiprotocol
-gemlog
-gemtext
 general
 generate
 generateaddress
+generates
 generatewif
 generation
 generator
@@ -2987,7 +2978,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 jpg
@@ -3187,7 +3177,6 @@ liquit
 liquit.com
 list
 list_files
-list-directory
 list-item
 listener
 litecoin
@@ -3226,10 +3215,6 @@ lod
 lodasoft
 log
 log-administration
-log-file
-log-files
-log-mail
-log-mails
 log-management
 log-rotation
 log4net
@@ -3257,8 +3242,6 @@ loginsight
 logiphys
 logistic
 logitech
-logmail
-logmails
 logman
 logoff
 logon
@@ -3321,9 +3304,7 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
-mailing
 mailkit
-mails
 main
 main-menu
 maintenance
@@ -3551,6 +3532,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 money
@@ -3587,6 +3569,7 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msband
+msbi
 msbuild
 mschart
 msdeploy
@@ -3605,7 +3588,6 @@ msgraphapi
 msgraphreport
 msgraphtokenlifetimepolicy
 msi
-msi psmodule
 msiexec
 msil
 msix
@@ -3748,6 +3730,7 @@ new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
+new-system
 new-udmorph
 newpassword
 newrelic
@@ -3768,7 +3751,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nitrox
 nl
 nla
 nlm
@@ -3843,7 +3825,6 @@ oa
 oacli
 oacmdlets
 oacommand
-oact
 oauth
 oauth2
 oauth2.0
@@ -3871,6 +3852,7 @@ odata
 odbc
 odfb
 odin
+odoo
 offboarding
 offence
 office
@@ -3944,7 +3926,6 @@ open
 open-ai
 open-ssh
 openai
-openamt
 openapi
 opendata
 openedge
@@ -3955,7 +3936,6 @@ openidconnect
 openinghours
 openport
 openscad
-opensearch
 opensourceinitiative
 openssh
 openssl
@@ -4004,7 +3984,6 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
-osdprogress
 osdsus
 osdupdate
 osi
@@ -4041,14 +4020,12 @@ ovgd
 owasp
 owls
 owner
-oxygen
 oxyplot
 p2000
 p2s
 pa1reg
 paas
 pac
-pack
 package
 package-management
 package-transform
@@ -4256,7 +4233,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4412,7 +4388,6 @@ prism
 prism_element
 privacy
 private
-private-key
 privatedns
 privatekey
 privatemethods
@@ -4488,10 +4463,6 @@ ps1
 ps1xml
 ps1xmlgen
 ps2exe
-ps3
-ps4
-ps5
-ps6
 ps7
 psa
 psadbscreencap
@@ -4517,7 +4488,6 @@ psdeploy
 psdevops
 psdocs
 psdocs-documents
-psdrawio
 psdrive
 psdrives
 psdsc
@@ -4565,6 +4535,7 @@ psjobthreads
 pskeepass
 pslocalgallery
 psloganalytics
+psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
@@ -4626,7 +4597,6 @@ psyaml
 pszabbix
 pubg
 public
-public-key
 public-transport
 publicapi
 publicclient
@@ -4719,7 +4689,6 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
-raj
 ram
 ram-it
 random
@@ -4740,7 +4709,6 @@ ratings
 ravendb
 razzle
 rbac
-rbacmodel
 rbsu
 rcon
 rcs
@@ -5097,7 +5065,6 @@ scheduler
 schedules-execution
 scheduling
 schema
-schemaextensions
 scheme
 school-information-system
 schulung
@@ -5145,7 +5112,6 @@ scrolllock
 scrub
 scrubber
 scsm
-scuba
 sd
 sddl
 sdk
@@ -5265,6 +5231,7 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
+serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5320,7 +5287,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -5344,6 +5310,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -5376,12 +5343,10 @@ sites
 sitesystemserver
 size
 skatterbrainz
-skattertools
 skeleton-loader
 skia
 skiasharp
 skolnilogin
-sktools
 sku
 skunklab
 sky
@@ -5438,7 +5403,6 @@ snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
-snugglepup
 soap
 soc
 soccer
@@ -5514,7 +5478,6 @@ spelling
 spf
 spi
 spinnaker
-splash
 splat
 splatting
 split
@@ -5556,6 +5519,7 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
+sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -5733,7 +5697,6 @@ symboliclink
 symbols
 symbolservers
 symlink
-symmetric
 synapse
 sync
 synchronization
@@ -5931,7 +5894,6 @@ tic-tac-toe
 tickle
 ticks
 tictactoe
-tiermodel
 time
 timeout
 timer
@@ -6053,7 +6015,6 @@ twitch
 twitter
 twitter-api
 twitter-client
-twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -6087,7 +6048,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6225,7 +6185,6 @@ user
 user-environment
 userdiscovery
 usergroup
-userinterface
 usermanagement
 username
 userprofile
@@ -6282,7 +6241,6 @@ vcenter
 vcloud
 vclouddirector
 vcm
-vco
 vcs
 vcsa
 vcvars
@@ -6388,7 +6346,6 @@ vocabularies
 voice
 voiceconfig
 voidtools
-volkskrant
 volume
 volumeshadowcopy
 volumio
@@ -6715,8 +6672,6 @@ x2
 x509
 x509cerificate
 x509cerificate2
-x509certificate
-x509certificates
 x509chain
 x64
 x86
