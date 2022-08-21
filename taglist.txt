@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 20 August 2022 17:52:48 UTC
+Updated: Sunday, 21 August 2022 02:40:25 UTC
 
 ?:
 ??
@@ -66,7 +66,6 @@ aadsecurity
 aadsts
 aam
 aas
-abc
 abc_testing
 abe
 about
@@ -88,7 +87,6 @@ accord.net
 account
 accounting
 accounts
-ace
 ack
 acknowledge
 acl
@@ -195,7 +193,6 @@ aem
 aeries
 aeriessis
 aes
-afd
 affinity
 affinity-co
 affinity-crm
@@ -228,7 +225,6 @@ albertheijn
 albums
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -249,6 +245,7 @@ alpine
 alpr
 alt3
 alter
+alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -723,7 +720,6 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -961,7 +957,6 @@ cims
 cimsession
 cinegy
 cinema
-cinst
 cipher
 circuit-breaker
 circumlunar
@@ -1077,6 +1072,7 @@ cmtrace
 cmwt
 cns
 coa
+cockroachdb
 codaamok
 code
 code-page
@@ -1524,10 +1520,8 @@ dedicatedhsm
 deduplication
 deep
 deepvisibility
-def
 default
 defaultparameter
-defaultroutes
 defaults
 defence
 defender
@@ -1869,7 +1863,6 @@ editorservices
 edr
 education
 educational
-effectiveroutes
 efi
 eigencontroles
 einstein
@@ -1952,7 +1945,6 @@ eol
 eop
 eperl
 ephesoft
-epicorerp
 episode
 epplus
 eprosima
@@ -2032,7 +2024,6 @@ example
 examples
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2137,7 +2128,6 @@ fetch
 ffmpeg
 fhirservice
 fiche
-fiddler
 fido
 fido2
 fieldglass
@@ -2317,7 +2307,6 @@ functionalprogramming
 functions
 funds
 funny
-fusionapps
 fuzzy
 fyi
 fzf
@@ -2352,7 +2341,6 @@ gemtext
 general
 generate
 generateaddress
-generates
 generatewif
 generation
 generator
@@ -2546,7 +2534,6 @@ handle
 handler
 hangouts
 hannelstoolbox
-har
 hard
 hardblock
 harden
@@ -2989,6 +2976,7 @@ jea
 jenkins
 jetbrains
 jira
+jiraservicemanagement
 jitbit
 jms
 joat
@@ -3004,6 +2992,8 @@ jotform
 journal
 jpg
 js7
+jsm
+jsm.insight
 json
 json-transform
 json+
@@ -3561,7 +3551,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 money
@@ -3598,7 +3587,6 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msband
-msbi
 msbuild
 mschart
 msdeploy
@@ -3656,6 +3644,7 @@ multiple
 multiserver
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -3759,7 +3748,6 @@ new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
-new-system
 new-udmorph
 newpassword
 newrelic
@@ -3883,7 +3871,6 @@ odata
 odbc
 odfb
 odin
-odoo
 offboarding
 offence
 office
@@ -4238,6 +4225,7 @@ playlists
 pleasant
 pleasantpasswordserver
 plex
+plist
 plog
 plot
 plugin
@@ -4467,6 +4455,7 @@ prompt
 pronounceable
 properties
 property
+property-list
 prose
 protect
 protect-blob
@@ -4576,7 +4565,6 @@ psjobthreads
 pskeepass
 pslocalgallery
 psloganalytics
-psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
@@ -4892,6 +4880,7 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
+reportrunner
 reports
 repos
 repositories
@@ -5276,7 +5265,6 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
-serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5304,13 +5292,6 @@ setbios
 setting
 settings
 setup
-setupbasic.cmdlet
-setupbasic.env
-setupbasic.install
-setupbasic.publish
-setupbasic.taskscheduler
-setupbasic.template
-setupbasic.update
 sevenzip
 sf
 sfb
@@ -5363,7 +5344,6 @@ siem
 sif
 sigma
 sign
-signalfx
 signalr
 signature
 signed
@@ -5394,7 +5374,6 @@ sitemap
 siterecovery
 sites
 sitesystemserver
-sitethumbprint
 size
 skatterbrainz
 skattertools
@@ -5577,7 +5556,6 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
-sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -6075,6 +6053,7 @@ twitch
 twitter
 twitter-api
 twitter-client
+twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -6232,7 +6211,6 @@ url-encode
 url-shortener
 urlencode
 urlhaus
-urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6604,6 +6582,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsmanagementframework
 windowsplugins
 windowspowershell
 windowspresentationfoundation
@@ -6649,6 +6628,7 @@ wisdom
 with
 wkhtmltopdf
 wlan
+wmf
 wmf5
 wmi
 wmifilter
@@ -6771,6 +6751,7 @@ xmlutils
 xoauth2
 xor
 xpath
+xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -6780,6 +6761,7 @@ xtremio
 xtrude
 xunit
 xwiki
+xwindowsupdate
 yahoo
 yahw
 yamaha

@@ -5,6 +5,49 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.30) | 2.0.30
+
+### Published: 08/21/2022 01:44:33 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 82 | __Repository__: 
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.22) | 0.0.22
+
+### Published: 08/21/2022 01:35:46 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 40 | __Repository__: 
+
+## [PWSHModule](https://www.powershellgallery.com/Packages/PWSHModule/0.1.17) | 0.1.17
+
+### Published: 08/20/2022 21:35:18 by Pierre Smit
+
+Creates a GitHub Gist (Private or Public) list to install and maintain the installed PowerShell Modules on your systems, you can create more than one list and use it to custom install modules from different repositories or different versions.
+
+__Downloads__: 54 | __Repository__: https://github.com/smitpi/PWSHModule
+
+## [InitForAdil](https://www.powershellgallery.com/Packages/InitForAdil/1.0) | 1.0
+
+### Published: 08/20/2022 20:38:05 by Ali
+
+This module is designed to automate the routine.
+
+__Downloads__: 0 | __Repository__: 
+
+## [pstools](https://www.powershellgallery.com/Packages/pstools/8.2.0.11) | 8.2.0.11
+
+### Published: 08/20/2022 19:31:06 by greg zakharov
+
+Useful utilities for Win10 in everyday experience.
+
+Added: CommonPsUtils.js (WinDbg script)
+       brief guides for some functions (yeap, it has begun)
+
+__Downloads__: 4,034 | __Repository__: https://github.com/gregzakh/pstools
+
 ## [JsonFS](https://www.powershellgallery.com/Packages/JsonFS/0.1.0) | 0.1.0
 
 ### Published: 08/20/2022 17:19:23 by github.com/wgross
@@ -51,7 +94,7 @@ __Downloads__: 493 | __Repository__: https://github.com/aaearon/SecretManagement
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 287,072 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 287,074 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.54) | 0.0.0.54
 
@@ -78,7 +121,7 @@ __Downloads__: 1,077,916 | __Repository__: https://github.com/nightroman/Invoke-
 
 docker-seed cli
 
-__Downloads__: 0 | __Repository__: https://github.com/xiaoyao9184/docker-seed
+__Downloads__: 1 | __Repository__: https://github.com/xiaoyao9184/docker-seed
 
 ## [UsefulArgumentCompleters](https://www.powershellgallery.com/Packages/UsefulArgumentCompleters/1.0.1) | 1.0.1
 
@@ -102,7 +145,7 @@ __Downloads__: 247 | __Repository__: https://github.com/smitpi/PSConfigFile
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 238,505 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 238,511 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [MineStat](https://www.powershellgallery.com/Packages/MineStat/2.0.3) | 2.0.3
 
@@ -128,13 +171,13 @@ Logs, displays, and outputs log messages after adding metadata such as timestamp
 
 __Downloads__: 33 | __Repository__: 
 
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.21) | 0.0.21
+## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.92) | 1.0.92
 
-### Published: 08/19/2022 18:19:39 by Jeremy La Camera
+### Published: 08/19/2022 18:15:01 by Jeremy La Camera
 
-Module for working with Access Control Lists
+Module for multithreading PowerShell commands using .Net Runspaces
 
-__Downloads__: 40 | __Repository__: 
+__Downloads__: 80 | __Repository__: 
 
 ## [RemoteDesktopManager](https://www.powershellgallery.com/Packages/RemoteDesktopManager/2022.2.3.0) | 2022.2.3.0
 
@@ -198,7 +241,7 @@ __Downloads__: 84,701 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,418 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 27,420 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/2.0.0) | 2.0.0
 
@@ -281,7 +324,7 @@ __Downloads__: 10 | __Repository__: https://github.com/fsackur/WhoCalled
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 768,112 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 768,121 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.0.85) | 5.0.85
 
@@ -387,7 +430,7 @@ __Downloads__: 65 | __Repository__: https://github.com/mgajda83/PSLogAnalyticsWr
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 18,593,127 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 18,593,571 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [AliModule](https://www.powershellgallery.com/Packages/AliModule/1.2) | 1.2
 
@@ -419,7 +462,7 @@ __Downloads__: 41 | __Repository__: https://github.com/netricsag/PowerAMT
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 142,531 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 142,532 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.1.0) | 1.1.0
 
@@ -480,21 +523,13 @@ NTS-ConfigMgrTools module contains tools for ConfigMgr and cource deployment
 
 __Downloads__: 98 | __Repository__: 
 
-## [SetUpBasic.Env](https://www.powershellgallery.com/Packages/SetUpBasic.Env/0.0.0.5) | 0.0.0.5
-
-### Published: 08/18/2022 05:15:37 by Naitwatch
-
-Powershell module SetUpBasic.Env. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 14 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Env
-
 ## [Pansies](https://www.powershellgallery.com/Packages/Pansies/2.6.0) | 2.6.0
 
 ### Published: 08/18/2022 05:09:40 by Joel Bennett
 
 A PowerShell module for handling color and cursor positioning via ANSI escape sequences
 
-__Downloads__: 37,296 | __Repository__: https://github.com/PoshCode/Pansies
+__Downloads__: 37,294 | __Repository__: https://github.com/PoshCode/Pansies
 
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.19) | 3.0.19
 
@@ -550,7 +585,7 @@ __Downloads__: 12 | __Repository__:
 
 A module for PowerShell data serialization
 
-__Downloads__: 77,090 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 77,094 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.3) | 0.0.3
 
@@ -582,7 +617,7 @@ __Downloads__: 349 | __Repository__:
 
 Module for CyberArk Privileged Access Security Web Service REST API
 
-__Downloads__: 40,551 | __Repository__: https://pspas.pspete.dev/
+__Downloads__: 40,555 | __Repository__: https://pspas.pspete.dev/
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/38.1.0) | 38.1.0
 
@@ -688,6 +723,14 @@ __Downloads__: 1,590 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Usageapi Service
 
 __Downloads__: 1,613 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Usage](https://www.powershellgallery.com/Packages/OCI.PSModules.Usage/38.1.0) | 38.1.0
+
+### Published: 08/16/2022 20:18:30 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Usage Service
+
+__Downloads__: 780 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Threatintelligence](https://www.powershellgallery.com/Packages/OCI.PSModules.Threatintelligence/38.1.0) | 38.1.0
 
@@ -1128,14 +1171,6 @@ __Downloads__: 1,350 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Genericartifactscontent Service
 
 __Downloads__: 1,180 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Fusionapps](https://www.powershellgallery.com/Packages/OCI.PSModules.Fusionapps/38.1.0) | 38.1.0
-
-### Published: 08/16/2022 20:11:50 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Fusionapps Service
-
-__Downloads__: 86 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Functions](https://www.powershellgallery.com/Packages/OCI.PSModules.Functions/38.1.0) | 38.1.0
 
@@ -1607,7 +1642,7 @@ __Downloads__: 6 | __Repository__:
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 10,065 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 10,063 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.6) | 0.2.6
 
@@ -1695,7 +1730,7 @@ __Downloads__: 14 | __Repository__:
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 540,107 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 540,103 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [PSAbuseIPDB](https://www.powershellgallery.com/Packages/PSAbuseIPDB/0.0.1) | 0.0.1
 
@@ -1711,7 +1746,7 @@ __Downloads__: 3 | __Repository__: https://github.com/madsaune/PSAbuseIPDB
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 40,790 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 40,749 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [New-Avatar](https://www.powershellgallery.com/Packages/New-Avatar/1.0.0) | 1.0.0
 
@@ -1857,14 +1892,6 @@ Creates a System Tray Menu from a csv file to launch any PowerShell Command or f
 
 __Downloads__: 138 | __Repository__: https://github.com/smitpi/PSSysTray
 
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.28) | 2.0.28
-
-### Published: 08/15/2022 05:31:46 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 82 | __Repository__: 
-
 ## [MISP.Tools](https://www.powershellgallery.com/Packages/MISP.Tools/0.0.1) | 0.0.1
 
 ### Published: 08/15/2022 05:05:24 by John Berkers
@@ -1937,14 +1964,6 @@ Import, edit, and invoke OpenAPI documents.
 
 __Downloads__: 12 | __Repository__: https://github.com/matt9ucci/OpenApi.Pwsh
 
-## [SetUpBasic.Install](https://www.powershellgallery.com/Packages/SetUpBasic.Install/0.0.0.30) | 0.0.0.30
-
-### Published: 08/14/2022 08:56:05 by Naitwatch
-
-Powershell module SetUpBasic.Install. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 165 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Install
-
 ## [PSWriteOffice](https://www.powershellgallery.com/Packages/PSWriteOffice/0.0.4) | 0.0.4
 
 ### Published: 08/14/2022 07:34:51 by Przemyslaw Klys
@@ -1975,7 +1994,7 @@ __Downloads__: 6 | __Repository__: https://adam-bacon.netlify.app/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,121,343 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,121,344 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
 
@@ -2038,29 +2057,4 @@ __Downloads__: 254 | __Repository__: https://github.com/svesavov/SnsPsScriptsMon
 
 __Downloads__: 423 | __Repository__: https://github.com/svesavov/SnsSqlitePsModule
 
-## [SnsMsSqlPsModule](https://www.powershellgallery.com/Packages/SnsMsSqlPsModule/0.0.0.5) | 0.0.0.5
-
-### Published: 08/13/2022 10:17:35 by Svetoslav Nedyalkov Savov
-
-****************************************************************************************************
-*                                                                                                  *
-*                               SnsMsSqlPsModule - PowerShell Module                               *
-*                                     ModuleVersion - 0.0.0.5                                      *
-*                                                                                                  *
-*         AUTHOR:    Svetoslav Nedyalkov Savov                                                     *
-*         THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE RISK         *
-*         OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.               *
-*                                                                                                  *
-****************************************************************************************************
-
-__Downloads__: 38 | __Repository__: https://github.com/svesavov/SnsMsSqlPsModule
-
-## [SetUpBasic.Template](https://www.powershellgallery.com/Packages/SetUpBasic.Template/0.0.0.27) | 0.0.0.27
-
-### Published: 08/13/2022 06:24:23 by Naitwatch
-
-Powershell module SetUpBasic.Template. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 232 | __Repository__: https://www.powershellgallery.com/packages/SetUpBasic.Template
-
-*Updated: Saturday, 20 August 2022 17:52:37 UTC*
+*Updated: Sunday, 21 August 2022 02:40:14 UTC*
