@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 21 August 2022 17:52:36 UTC
+Updated: Monday, 22 August 2022 02:42:24 UTC
 
 ?:
 ??
@@ -199,8 +199,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -545,7 +543,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-ssis
 azureactivedirectory
 azuread
@@ -955,12 +952,12 @@ cil
 cim
 cim_computersystem
 cimfs
+cimi
 ciminstance
 cims
 cimsession
 cinegy
 cinema
-cinst
 cipher
 circuit-breaker
 circumlunar
@@ -1387,6 +1384,7 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
+customisation
 customization
 customlocation
 customproviders
@@ -2088,7 +2086,6 @@ extend
 extended
 extendedevents
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2401,7 +2398,6 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
-get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
@@ -2988,7 +2984,6 @@ jea
 jenkins
 jetbrains
 jira
-jiraservicemanagement
 jitbit
 jms
 joat
@@ -3004,8 +2999,6 @@ jotform
 journal
 jpg
 js7
-jsm
-jsm.insight
 json
 json-transform
 json+
@@ -3097,6 +3090,7 @@ labels
 lability
 labnotifications
 labrecipe
+labservices
 labsnippet
 labtech
 labtest
@@ -3219,6 +3213,7 @@ local-caching
 local-policy
 localadmin
 localconfigurationmanager
+localdb
 locale
 localgroup
 localization
@@ -3315,7 +3310,6 @@ macaddress
 machine
 machinelearning
 machinelearningcompute
-machinelearningservices
 macmon
 macos
 macosx
@@ -3760,7 +3754,6 @@ new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
-new-system
 new-udmorph
 newpassword
 newrelic
@@ -3986,6 +3979,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
+opml
 ops
 opsi
 opsmgr
@@ -4043,6 +4037,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 output
 output-to-image
@@ -4079,7 +4074,6 @@ page
 pageant
 pager
 pagerduty
-pages
 paloaltonetworks
 pam
 panels
@@ -4215,11 +4209,9 @@ pipelines
 pipescript
 piraeus
 pivot
-pivotal
 pivottable
 pixoo
 pki
-pks
 place
 places
 plain
@@ -4237,6 +4229,7 @@ playlists
 pleasant
 pleasantpasswordserver
 plex
+plist
 plog
 plot
 plugin
@@ -4289,7 +4282,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshdyndnsapi
@@ -4466,6 +4458,7 @@ prompt
 pronounceable
 properties
 property
+property-list
 prose
 protect
 protect-blob
@@ -4994,7 +4987,6 @@ routeconfig
 router
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -5164,7 +5156,6 @@ sdn
 search
 search-adminauditlog
 searchengine
-searching
 searchplace
 searchquery
 searchstring
@@ -5356,6 +5347,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -5378,6 +5370,7 @@ sintez
 sintez.module.rds
 site
 site_navigation
+sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
@@ -6037,6 +6030,7 @@ troubleshoot
 troubleshooting
 trouw
 truecrypt
+truenas
 truportal
 trusted
 trusted-host
@@ -6099,7 +6093,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6139,7 +6132,6 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
-ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -6238,6 +6230,7 @@ user
 user-environment
 userdiscovery
 usergroup
+userinterface
 usermanagement
 username
 userprofile
@@ -6667,6 +6660,7 @@ workingdays
 workinghours
 workingtime
 workload-automation
+workpoint
 workrequests
 worksheet
 workshop
@@ -6742,7 +6736,6 @@ xdscresources
 xdt
 xel
 xenapp
-xendeskop
 xendesktop
 xero
 xevent

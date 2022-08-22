@@ -5,6 +5,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/1.1.0) | 1.1.0
+
+### Published: 08/21/2022 18:03:55 by SEPPmail Dev-Team
+
+Integrate and maintain Exchange Online with SEPPmail.Cloud
+
+__Downloads__: 208 | __Repository__: https://github.com/SEPPmail/SEPPmail365cloud
+
 ## [PSDataverse](https://www.powershellgallery.com/Packages/PSDataverse/0.0.2) | 0.0.2
 
 ### Published: 08/21/2022 16:16:54 by Reza Niroomand
@@ -45,21 +53,13 @@ Work with the contents of NTFS volumes
 
 __Downloads__: 84 | __Repository__: 
 
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.22) | 0.0.22
-
-### Published: 08/21/2022 01:35:46 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 45 | __Repository__: 
-
 ## [InitForAdil](https://www.powershellgallery.com/Packages/InitForAdil/1.0) | 1.0
 
 ### Published: 08/20/2022 20:38:05 by Ali
 
 This module is designed to automate the routine.
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
 
 ## [pstools](https://www.powershellgallery.com/Packages/pstools/8.2.0.11) | 8.2.0.11
 
@@ -70,7 +70,7 @@ Useful utilities for Win10 in everyday experience.
 Added: CommonPsUtils.js (WinDbg script)
        brief guides for some functions (yeap, it has begun)
 
-__Downloads__: 4,036 | __Repository__: https://github.com/gregzakh/pstools
+__Downloads__: 4,037 | __Repository__: https://github.com/gregzakh/pstools
 
 ## [JsonFS](https://www.powershellgallery.com/Packages/JsonFS/0.1.0) | 0.1.0
 
@@ -78,7 +78,7 @@ __Downloads__: 4,036 | __Repository__: https://github.com/gregzakh/pstools
 
 Mount JSON files as PowerShell drives
 
-__Downloads__: 0 | __Repository__: https://github.com/wgross/json-fs
+__Downloads__: 1 | __Repository__: https://github.com/wgross/json-fs
 
 ## [AudioVolumeDsc](https://www.powershellgallery.com/Packages/AudioVolumeDsc/2.0.0) | 2.0.0
 
@@ -86,7 +86,7 @@ __Downloads__: 0 | __Repository__: https://github.com/wgross/json-fs
 
 PowerShell DSC Resource to control audio volume.
 
-__Downloads__: 1,021 | __Repository__: https://github.com/mkht/AudioVolumeDsc
+__Downloads__: 1,022 | __Repository__: https://github.com/mkht/AudioVolumeDsc
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.1.1) | 1.1.1
 
@@ -94,7 +94,7 @@ __Downloads__: 1,021 | __Repository__: https://github.com/mkht/AudioVolumeDsc
 
 Gitlab API v4 helper functions
 
-__Downloads__: 875 | __Repository__: https://gitlab.com/mteodor/gitlab4
+__Downloads__: 874 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 ## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.5) | 0.0.5
 
@@ -102,7 +102,7 @@ __Downloads__: 875 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 Experimental Cross platform PowerShell tab expansion
 
-__Downloads__: 16 | __Repository__: https://github.com/aciq/pscomplete/
+__Downloads__: 17 | __Repository__: https://github.com/aciq/pscomplete/
 
 ## [SecretManagement.CyberArk](https://www.powershellgallery.com/Packages/SecretManagement.CyberArk/1.0.1) | 1.0.1
 
@@ -110,7 +110,7 @@ __Downloads__: 16 | __Repository__: https://github.com/aciq/pscomplete/
 
 SecretManagement extension for CyberArk
 
-__Downloads__: 499 | __Repository__: https://github.com/aaearon/SecretManagement.CyberArk
+__Downloads__: 500 | __Repository__: https://github.com/aaearon/SecretManagement.CyberArk
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.19.1) | 22.8.19.1
 
@@ -118,7 +118,7 @@ __Downloads__: 499 | __Repository__: https://github.com/aaearon/SecretManagement
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 287,259 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 287,256 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.54) | 0.0.0.54
 
@@ -201,7 +201,7 @@ __Downloads__: 82 | __Repository__:
 
 Devolutions Remote Desktop Manager (RDM) PowerShell Module
 
-__Downloads__: 6,779 | __Repository__: 
+__Downloads__: 6,781 | __Repository__: 
 
 ## [AzureSignInAudit](https://www.powershellgallery.com/Packages/AzureSignInAudit/0.0.2) | 0.0.2
 
@@ -340,7 +340,7 @@ __Downloads__: 11 | __Repository__: https://github.com/fsackur/WhoCalled
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 769,235 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 769,234 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.0.85) | 5.0.85
 
@@ -446,7 +446,7 @@ __Downloads__: 66 | __Repository__: https://github.com/mgajda83/PSLogAnalyticsWr
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 18,648,184 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 18,647,709 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [AliModule](https://www.powershellgallery.com/Packages/AliModule/1.2) | 1.2
 
@@ -478,7 +478,7 @@ __Downloads__: 42 | __Repository__: https://github.com/netricsag/PowerAMT
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 142,593 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 142,594 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.1.0) | 1.1.0
 
@@ -545,7 +545,7 @@ __Downloads__: 99 | __Repository__:
 
 A PowerShell module for handling color and cursor positioning via ANSI escape sequences
 
-__Downloads__: 37,310 | __Repository__: https://github.com/PoshCode/Pansies
+__Downloads__: 37,312 | __Repository__: https://github.com/PoshCode/Pansies
 
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.19) | 3.0.19
 
@@ -585,7 +585,7 @@ __Downloads__: 681 | __Repository__:
 
 A set of PowerShell tools for working with the winget package manager.
 
-__Downloads__: 4,467 | __Repository__: https://github.com/jdhitsolutions/WingetTools
+__Downloads__: 4,468 | __Repository__: https://github.com/jdhitsolutions/WingetTools
 
 ## [MirrorADUserGroupMembership](https://www.powershellgallery.com/Packages/MirrorADUserGroupMembership/1.2) | 1.2
 
@@ -601,7 +601,7 @@ __Downloads__: 13 | __Repository__:
 
 A module for PowerShell data serialization
 
-__Downloads__: 77,176 | __Repository__: https://github.com/PoshCode/Metadata
+__Downloads__: 77,177 | __Repository__: https://github.com/PoshCode/Metadata
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.3) | 0.0.3
 
@@ -1620,14 +1620,6 @@ PowerShell module for retrieving featured BBC iplayer programmes
 
 __Downloads__: 22 | __Repository__: 
 
-## [KeDo_CoreHelper](https://www.powershellgallery.com/Packages/KeDo_CoreHelper/1.0.6) | 1.0.6
-
-### Published: 08/16/2022 15:39:38 by Ken Dobrunz
-
-Core helper and mini functions
-
-__Downloads__: 7 | __Repository__: 
-
 ## [KeDo_AZTableAPI](https://www.powershellgallery.com/Packages/KeDo_AZTableAPI/3.0.3) | 3.0.3
 
 ### Published: 08/16/2022 15:33:57 by Ken Dobrunz
@@ -1754,7 +1746,7 @@ __Downloads__: 18 | __Repository__:
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 540,854 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 540,858 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [PSAbuseIPDB](https://www.powershellgallery.com/Packages/PSAbuseIPDB/0.0.1) | 0.0.1
 
@@ -1770,7 +1762,7 @@ __Downloads__: 4 | __Repository__: https://github.com/madsaune/PSAbuseIPDB
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 42,325 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 42,332 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [New-Avatar](https://www.powershellgallery.com/Packages/New-Avatar/1.0.0) | 1.0.0
 
@@ -1826,7 +1818,7 @@ __Downloads__: 29 | __Repository__: https://github.com/mschauer5/MSchauer.ShareP
 
 ArcGIS Module for PowerShell DSC
 
-__Downloads__: 35,428 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
+__Downloads__: 35,425 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.4.0) | 1.4.0
 
@@ -1898,7 +1890,7 @@ __Downloads__: 74 | __Repository__:
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 557,593 | __Repository__: 
+__Downloads__: 557,613 | __Repository__: 
 
 ## [kbupdate-library](https://www.powershellgallery.com/Packages/kbupdate-library/1.1.8) | 1.1.8
 
@@ -1906,7 +1898,7 @@ __Downloads__: 557,593 | __Repository__:
 
 Database for KB Viewer and Saver
 
-__Downloads__: 572,008 | __Repository__: 
+__Downloads__: 572,028 | __Repository__: 
 
 ## [PSSysTray](https://www.powershellgallery.com/Packages/PSSysTray/0.1.13) | 0.1.13
 
@@ -2018,7 +2010,7 @@ __Downloads__: 7 | __Repository__: https://adam-bacon.netlify.app/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,121,932 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,121,923 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [ugit](https://www.powershellgallery.com/Packages/ugit/0.2.8) | 0.2.8
 
@@ -2030,4 +2022,21 @@ A powerful PowerShell wrapper for git that lets you extend git, automate multipl
 
 __Downloads__: 217 | __Repository__: https://github.com/StartAutomating/ugit
 
-*Updated: Sunday, 21 August 2022 17:52:26 UTC*
+## [SnsPsModule](https://www.powershellgallery.com/Packages/SnsPsModule/1.0.1.1) | 1.0.1.1
+
+### Published: 08/13/2022 11:49:45 by Svetoslav Nedyalkov Savov
+
+****************************************************************************************************
+*                                                                                                  *
+*                                 SnsPsModule - PowerShell Module                                  *
+*                                     ModuleVersion - 1.0.1.1                                      *
+*                                                                                                  *
+*         AUTHOR:    Svetoslav Nedyalkov Savov                                                     *
+*         THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE RISK         *
+*         OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.               *
+*                                                                                                  *
+****************************************************************************************************
+
+__Downloads__: 314 | __Repository__: https://github.com/svesavov/SnsPsModule
+
+*Updated: Monday, 22 August 2022 02:42:14 UTC*
