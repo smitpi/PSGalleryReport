@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 August 2022 02:42:24 UTC
+Updated: Monday, 22 August 2022 09:52:42 UTC
 
 ?:
 ??
@@ -66,7 +66,6 @@ aadsecurity
 aadsts
 aam
 aas
-abc
 abc_testing
 abe
 about
@@ -199,6 +198,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -217,7 +218,6 @@ aipscanner
 aircall
 airtable
 aispeech
-aivision
 ajustee
 aks
 alac
@@ -433,7 +433,6 @@ attestation
 attila
 attilakrick
 attribute
-attributes
 au
 audio
 audiocodes
@@ -543,6 +542,7 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
+azure-pipelines
 azure-ssis
 azureactivedirectory
 azuread
@@ -628,6 +628,7 @@ base64url
 base85
 basecamp
 based
+baseline
 bash
 bastion
 bat
@@ -713,7 +714,6 @@ blocks
 blog
 blogs
 bls
-blue
 bluedolhin
 blueprint
 blueprints
@@ -792,7 +792,6 @@ business
 businesscentral
 businessdays
 businesshours
-businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -1072,7 +1071,6 @@ cmsmessage
 cmtrace
 cmwt
 cns
-coa
 cockroachdb
 codaamok
 code
@@ -1370,7 +1368,6 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
-current
 custom
 customchecks
 customer
@@ -1384,7 +1381,6 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
-customisation
 customization
 customlocation
 customproviders
@@ -1521,7 +1517,6 @@ dedicatedhsm
 deduplication
 deep
 deepvisibility
-def
 default
 defaultparameter
 defaultroutes
@@ -2086,6 +2081,7 @@ extend
 extended
 extendedevents
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2115,7 +2111,6 @@ farmanager
 fast
 fast-dds
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2231,6 +2226,7 @@ flatten
 flex
 flex-query
 flexdesk
+flickr
 flowchart
 flowy
 fluidrelay
@@ -2398,6 +2394,7 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
@@ -2718,7 +2715,6 @@ ias
 ib
 ibm
 ibmc
-ibmhttpserver
 icinga
 icinga2
 icinga2mssql
@@ -2754,7 +2750,6 @@ ifconfig
 ifttt
 igel
 igr
-ihs
 iiittttt
 iis
 iis10
@@ -2803,7 +2798,6 @@ importexport
 importteams
 inactive
 inboxrule
-incident
 incident-response
 incidentresponse
 incontact
@@ -2984,6 +2978,7 @@ jea
 jenkins
 jetbrains
 jira
+jiraservicemanagement
 jitbit
 jms
 joat
@@ -2999,6 +2994,8 @@ jotform
 journal
 jpg
 js7
+jsm
+jsm.insight
 json
 json-transform
 json+
@@ -3439,7 +3436,6 @@ meltdown
 mem
 member
 members
-membership
 memcm
 memory
 memorystream
@@ -4074,6 +4070,7 @@ page
 pageant
 pager
 pagerduty
+pages
 paloaltonetworks
 pam
 panels
@@ -4091,7 +4088,6 @@ parameters
 parclient
 pardot
 parititions
-parool
 parquet
 parse
 parser
@@ -4164,7 +4160,6 @@ performancemonitoring
 permission
 permissions
 permutations
-persistence
 persistent
 personal
 personalisation
@@ -4209,9 +4204,11 @@ pipelines
 pipescript
 piraeus
 pivot
+pivotal
 pivottable
 pixoo
 pki
+pks
 place
 places
 plain
@@ -4282,6 +4279,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 poshbot
 poshcommence
 poshdyndnsapi
@@ -4440,7 +4438,6 @@ profile
 profiler
 profiles
 proget
-program
 program-association
 programs
 progress
@@ -4489,7 +4486,6 @@ ps-ncentral
 ps.credentialmanager
 ps1
 ps1xml
-ps1xmlgen
 ps2exe
 ps3
 ps4
@@ -4654,7 +4650,6 @@ puppy
 pure
 pure1
 purestorage
-purple
 purview
 push
 push-location
@@ -4677,13 +4672,14 @@ pxedistributionpoint
 pyranja
 python
 python-for-dotnet
-qcloud
 qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
+qlik-sense
 qlik-view
+qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -4697,6 +4693,7 @@ qr
 qrcode
 qrcodes
 qrp
+qrs
 quality
 qualys
 quandl
@@ -4723,7 +4720,6 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
-raj
 ram
 ram-it
 random
@@ -4765,7 +4761,6 @@ rds
 rdsgw
 react-stockcharts
 read-slog
-readable
 readiness
 readme
 readpdf
@@ -4787,7 +4782,6 @@ recurse
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
-red
 redact
 redaction
 reddit
@@ -4987,6 +4981,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -5156,9 +5151,9 @@ sdn
 search
 search-adminauditlog
 searchengine
+searching
 searchplace
 searchquery
-searchstring
 secaas
 secedit
 secret
@@ -5744,7 +5739,6 @@ synapse
 sync
 synchronization
 synchronize
-syndication
 synergy
 syntax
 syntax-highlighting
@@ -5761,7 +5755,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -6071,7 +6064,6 @@ typeaccelerators
 typedata
 typeextension
 types
-types.ps1xml
 typescript
 tzutil
 uac
@@ -6093,6 +6085,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6111,7 +6104,6 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
-ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -6132,6 +6124,7 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
+ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -6163,7 +6156,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
@@ -6442,7 +6434,6 @@ vxrail
 w32time
 w3svc
 w3w
-waa
 waas
 wac
 waf
@@ -6533,7 +6524,6 @@ where
 whfb
 whiteboard
 whitespace
-whoami
 whois
 whormi
 wi-fi
@@ -6641,7 +6631,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
@@ -6736,6 +6725,7 @@ xdscresources
 xdt
 xel
 xenapp
+xendeskop
 xendesktop
 xero
 xevent
