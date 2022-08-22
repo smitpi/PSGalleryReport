@@ -1,9 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 August 2022 09:52:42 UTC
+Updated: Monday, 22 August 2022 17:53:25 UTC
 
-?:
-??
 .bat
 .env
 .net
@@ -66,9 +64,9 @@ aadsecurity
 aadsts
 aam
 aas
+abc
 abc_testing
 abe
-about
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -218,6 +216,7 @@ aipscanner
 aircall
 airtable
 aispeech
+aivision
 ajustee
 aks
 alac
@@ -247,7 +246,6 @@ alpine
 alpr
 alt3
 alter
-alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -271,7 +269,6 @@ analytics
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -314,7 +311,6 @@ app
 app-only
 app-v
 app.config
-appattach
 appclusive
 appcmd
 appconfiguration
@@ -358,7 +354,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -378,7 +373,6 @@ arp
 array
 arrays
 art
-artefactual
 artifact
 artifactory
 artifacts
@@ -433,6 +427,7 @@ attestation
 attila
 attilakrick
 attribute
+attributes
 au
 audio
 audiocodes
@@ -692,7 +687,6 @@ bitbucketautomation
 bitcoin
 bitlocker
 bitwarden
-bitwig
 bitwise
 biztalk
 biztalkalm
@@ -714,6 +708,7 @@ blocks
 blog
 blogs
 bls
+blue
 bluedolhin
 blueprint
 blueprints
@@ -792,6 +787,7 @@ business
 businesscentral
 businessdays
 businesshours
+businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -950,13 +946,13 @@ cifv3
 cil
 cim
 cim_computersystem
-cimfs
 cimi
 ciminstance
 cims
 cimsession
 cinegy
 cinema
+cinst
 cipher
 circuit-breaker
 circumlunar
@@ -1071,6 +1067,7 @@ cmsmessage
 cmtrace
 cmwt
 cns
+coa
 cockroachdb
 codaamok
 code
@@ -1313,6 +1310,7 @@ credentialmanager
 credentialprovider
 credentials
 credentials-cache
+credentialsmanager
 credentialstore
 credentialutility
 credit
@@ -1368,6 +1366,7 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
+current
 custom
 customchecks
 customer
@@ -1381,6 +1380,7 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
+customisation
 customization
 customlocation
 customproviders
@@ -1517,6 +1517,7 @@ dedicatedhsm
 deduplication
 deep
 deepvisibility
+def
 default
 defaultparameter
 defaultroutes
@@ -1645,7 +1646,6 @@ discovery
 disk
 disk-space
 diskfree
-diskimage
 diskpart
 diskpool
 diskspace
@@ -1944,7 +1944,7 @@ eol
 eop
 eperl
 ephesoft
-epicorerp
+epicor
 episode
 epplus
 eprosima
@@ -2071,7 +2071,6 @@ exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2111,6 +2110,7 @@ farmanager
 fast
 fast-dds
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2283,8 +2283,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-front
-frontapp
 frontdoor
 frontrange
 fs
@@ -2383,9 +2381,7 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2591,7 +2587,6 @@ helpdesk
 helper
 helperfunctions
 helpers
-helpfile
 heml
 here
 hewlett
@@ -2691,11 +2686,9 @@ humorous
 hunter
 hybrid
 hybridrunbookworker
-hybris
 hyper-v
 hyperconverged
 hyperfine
-hyperlink
 hyperthreading
 hyperv
 hypervisor
@@ -2715,6 +2708,7 @@ ias
 ib
 ibm
 ibmc
+ibmhttpserver
 icinga
 icinga2
 icinga2mssql
@@ -2750,6 +2744,7 @@ ifconfig
 ifttt
 igel
 igr
+ihs
 iiittttt
 iis
 iis10
@@ -2792,12 +2787,12 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importexport
 importteams
 inactive
 inboxrule
+incident
 incident-response
 incidentresponse
 incontact
@@ -2949,7 +2944,6 @@ isvalidemail
 isvalidip
 item
 items
-iterate
 iteration
 itg
 itglue
@@ -3032,7 +3026,6 @@ keenetic
 keepachangelog
 keepass
 keepasslib
-keeper
 kelverion
 kentico
 kerberos
@@ -3053,6 +3046,7 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kintone
 klantcontroles
 kms
@@ -3175,7 +3169,6 @@ linear
 linearalgebra
 link
 linkedin
-linkedinads
 linkid
 linq
 linqpad
@@ -3307,6 +3300,7 @@ macaddress
 machine
 machinelearning
 machinelearningcompute
+machinelearningservices
 macmon
 macos
 macosx
@@ -3436,6 +3430,7 @@ meltdown
 mem
 member
 members
+membership
 memcm
 memory
 memorystream
@@ -3750,6 +3745,7 @@ new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
+new-system
 new-udmorph
 newpassword
 newrelic
@@ -3824,7 +3820,6 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
-null-coalescing
 number
 numlock
 nunit
@@ -3900,7 +3895,6 @@ ole
 oledb
 omaha
 ome
-omnisphere
 omnistack
 oms
 omsagent
@@ -3974,7 +3968,6 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
-operators
 opml
 ops
 opsi
@@ -4088,6 +4081,7 @@ parameters
 parclient
 pardot
 parititions
+parool
 parquet
 parse
 parser
@@ -4160,6 +4154,7 @@ performancemonitoring
 permission
 permissions
 permutations
+persistence
 persistent
 personal
 personalisation
@@ -4438,6 +4433,7 @@ profile
 profiler
 profiles
 proget
+program
 program-association
 programs
 progress
@@ -4486,6 +4482,7 @@ ps-ncentral
 ps.credentialmanager
 ps1
 ps1xml
+ps1xmlgen
 ps2exe
 ps3
 ps4
@@ -4557,7 +4554,6 @@ psini
 psinsight
 psintune
 psise
-psitem
 psjob
 psjobs
 psjobthreads
@@ -4650,6 +4646,7 @@ puppy
 pure
 pure1
 purestorage
+purple
 purview
 push
 push-location
@@ -4672,6 +4669,7 @@ pxedistributionpoint
 pyranja
 python
 python-for-dotnet
+qcloud
 qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
@@ -4720,6 +4718,7 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
+raj
 ram
 ram-it
 random
@@ -4761,6 +4760,7 @@ rds
 rdsgw
 react-stockcharts
 read-slog
+readable
 readiness
 readme
 readpdf
@@ -4782,6 +4782,7 @@ recurse
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
+red
 redact
 redaction
 reddit
@@ -4859,7 +4860,6 @@ remotesession
 remoting
 remove
 remove-githubsecrets
-remove-pass
 remove-path
 remove-pinneditem
 removetypeaccelerators
@@ -5056,8 +5056,7 @@ saponazure
 sapstartstopazure
 sarcasm
 sarif
-sasdatasets
-sasxpt
+sas
 satirical
 save
 savedcreds
@@ -5154,6 +5153,7 @@ searchengine
 searching
 searchplace
 searchquery
+searchstring
 secaas
 secedit
 secret
@@ -5281,12 +5281,11 @@ set-githubsecrets
 set-location
 set-openfiles
 set-ownership
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
+sets
 setting
 settings
 setup
@@ -5365,7 +5364,6 @@ sintez
 sintez.module.rds
 site
 site_navigation
-sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
@@ -5648,6 +5646,7 @@ storagegrid-webscale
 storagemover
 storagesync
 store
+storedcredentials
 storefront
 storeonce
 storeserv
@@ -5696,7 +5695,6 @@ subtitle
 subversion
 successfactors
 sudo
-sugar
 sugarcrm
 suitecrm
 sullivan
@@ -5739,6 +5737,7 @@ synapse
 sync
 synchronization
 synchronize
+syndication
 synergy
 syntax
 syntax-highlighting
@@ -5755,6 +5754,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -5860,7 +5860,6 @@ terminal
 terminal-services
 terminal.gui
 termset
-ternary
 terraform
 terraformcloud
 terrafun
@@ -5935,7 +5934,6 @@ time
 timeout
 timer
 timeseriesinsights
-timespan
 timezone
 tinkerpop
 tips
@@ -6064,6 +6062,7 @@ typeaccelerators
 typedata
 typeextension
 types
+types.ps1xml
 typescript
 tzutil
 uac
@@ -6104,6 +6103,7 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
+ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -6156,6 +6156,7 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
+uninstaller
 union
 unique
 unique-files
@@ -6418,7 +6419,6 @@ vsphere
 vss
 vssetup
 vsshell
-vst
 vsteambuilder
 vsteams
 vstest
@@ -6434,6 +6434,7 @@ vxrail
 w32time
 w3svc
 w3w
+waa
 waas
 wac
 waf
@@ -6524,6 +6525,7 @@ where
 whfb
 whiteboard
 whitespace
+whoami
 whois
 whormi
 wi-fi
@@ -6565,6 +6567,10 @@ windows10
 windows10mui
 windows365
 windowsadmincenter
+windowscredential
+windowscredentialmanager
+windowscredentials
+windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
@@ -6631,6 +6637,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
@@ -6649,7 +6656,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workpoint
 workrequests
 worksheet
 workshop
@@ -6749,12 +6755,12 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
+xpt
 xrm
 xsa
 xtremio
 xtrude
 xunit
-xwiki
 xwindowsupdate
 yahoo
 yahw
