@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 23 August 2022 09:52:32 UTC
+Updated: Tuesday, 23 August 2022 17:52:54 UTC
 
 ?:
 ??
@@ -125,6 +125,8 @@ ad_monitoring
 ad-ds
 adal
 adapter
+adapter-control
+adapters
 adaptivecards
 adb
 adc
@@ -259,6 +261,7 @@ amazon
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -274,6 +277,7 @@ analyze
 analyzer
 analyzerrules
 anchor
+and
 android
 anet
 anf
@@ -310,7 +314,6 @@ apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
-aportal
 app
 app-only
 app-v
@@ -615,7 +618,6 @@ bamboo
 bamboohr
 bandwidth
 bank
-banking
 banner
 bar
 barcodes
@@ -786,6 +788,7 @@ buildmaster
 builds
 buildtool
 bulk
+bullhorn
 bundle
 bup
 burpsuite
@@ -1300,7 +1303,11 @@ crayon
 crc
 crc32
 create
+createcolumn
+createdatabase
 createprocessasuser
+createschema
+createtable
 creationworkflowsimplification
 creator
 cred
@@ -1363,6 +1370,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1444,6 +1452,7 @@ databricks
 datacatalog
 datacenter
 dataclassification
+dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -1636,6 +1645,8 @@ direnv
 dirkjan
 dirsync
 disa
+disable
+disable-internet
 disable-psremoting
 disablefilesyncngsc
 disasm
@@ -1721,6 +1732,7 @@ documentencryption
 documenting
 documents
 docusaurus
+docusign
 docx
 dod
 dog
@@ -1746,7 +1758,6 @@ dotteddecimalip
 doubleclick
 download
 downloader
-downloadinfo
 downloading
 downloads
 dpa
@@ -1772,7 +1783,9 @@ drm
 drone.io
 drop
 dropbox
+dropdatabase
 droplet
+droptable
 drs
 drsrule
 drupal
@@ -1897,6 +1910,8 @@ emotion
 empire
 empty
 emwarehouse
+enable
+enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -1933,6 +1948,7 @@ enumerable
 env
 environment
 environment-variables
+environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -1959,7 +1975,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2101,6 +2116,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 faq
@@ -2268,6 +2284,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2351,8 +2368,6 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
-geocache
-geocaching
 geoencode
 geoencoding
 geolocation
@@ -2489,7 +2504,6 @@ greynoise
 grid
 gridfs
 grok
-groundspeak
 group
 group-policy
 groupmembership
@@ -2509,6 +2523,7 @@ gui.cs
 guid
 guidtoname
 gumby
+guru
 gvim
 gwbasic
 gymnasium
@@ -2916,6 +2931,7 @@ ipcalculator
 iperf
 ipfy.org
 iphone
+ipilot
 iplookup
 ipmaths
 ipp
@@ -2968,6 +2984,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jdedwards
 jdt
@@ -3141,6 +3158,7 @@ legends
 lego
 lein
 leiningnen
+lenel
 length
 lenovo
 lesspass
@@ -3206,6 +3224,7 @@ local-caching
 local-policy
 localadmin
 localconfigurationmanager
+localdb
 locale
 localgroup
 localization
@@ -3422,6 +3441,7 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meeting
 meetup
 meetup.com
@@ -3828,6 +3848,7 @@ nunit
 nupkg
 nuspec
 nutanix
+nuwave
 nva
 nvdimm
 nvdimm-n
@@ -3894,7 +3915,6 @@ okta
 old
 ole
 oledb
-omaha
 ome
 omnisphere
 omnistack
@@ -4066,7 +4086,6 @@ page
 pageant
 pager
 pagerduty
-pages
 paloaltonetworks
 pam
 panels
@@ -4129,6 +4148,7 @@ pathfinder
 patternmatching
 pause
 pax8
+paylocity
 paypal
 pays
 pbench
@@ -4200,6 +4220,7 @@ pipeline
 pipelines
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4441,6 +4462,7 @@ progress
 progressbar
 project
 project-management
+projectmanagement
 projectreunion
 projects
 projecttemplate
@@ -4465,6 +4487,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4648,6 +4673,7 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -4945,9 +4971,7 @@ rightjoin
 rights
 rightsizing
 ripe
-risk
 riskiq
-riskpro
 risksense
 rlan
 rmcp
@@ -4983,7 +5007,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -5105,7 +5128,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -5275,6 +5297,7 @@ sessions
 set
 set_bios
 set-alias
+set-dnsservers
 set-githubsecrets
 set-location
 set-openfiles
@@ -5328,7 +5351,6 @@ shopify
 shortcut
 shortcuts
 shortpath
-shotgun
 show
 show-command
 show-on-command
@@ -5348,6 +5370,7 @@ signed
 signing
 signtool
 silk
+sim
 simple
 simplecontainers
 simplepassword
@@ -5476,7 +5499,6 @@ sort
 source
 source-dedicated-server
 sourcecontrol
-sourceforge
 sourcegraph
 sourcemod
 sourceone
@@ -5855,6 +5877,7 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
+teradata
 termbin
 terminal
 terminal-services
@@ -6112,7 +6135,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -6537,6 +6559,7 @@ wif
 wifi
 wiki
 wildcard
+wildfly
 wim
 wim2vhd
 win
