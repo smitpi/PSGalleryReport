@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 23 August 2022 02:43:55 UTC
+Updated: Tuesday, 23 August 2022 09:52:32 UTC
 
 ?:
 ??
@@ -259,10 +259,10 @@ amazon
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
+amt
 amxmodx
 anaconda
 analysis
@@ -274,7 +274,6 @@ analyze
 analyzer
 analyzerrules
 anchor
-and
 android
 anet
 anf
@@ -709,6 +708,7 @@ blade
 bladeserver
 blaze
 blob
+blobstorage
 block
 block-kit
 blockchain
@@ -786,7 +786,6 @@ buildmaster
 builds
 buildtool
 bulk
-bullhorn
 bundle
 bup
 burpsuite
@@ -1301,11 +1300,7 @@ crayon
 crc
 crc32
 create
-createcolumn
-createdatabase
 createprocessasuser
-createschema
-createtable
 creationworkflowsimplification
 creator
 cred
@@ -1368,7 +1363,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1450,7 +1444,6 @@ databricks
 datacatalog
 datacenter
 dataclassification
-dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -1728,7 +1721,6 @@ documentencryption
 documenting
 documents
 docusaurus
-docusign
 docx
 dod
 dog
@@ -1780,9 +1772,7 @@ drm
 drone.io
 drop
 dropbox
-dropdatabase
 droplet
-droptable
 drs
 drsrule
 drupal
@@ -1943,7 +1933,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2112,7 +2101,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 faq
@@ -2280,7 +2268,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2522,7 +2509,6 @@ gui.cs
 guid
 guidtoname
 gumby
-guru
 gvim
 gwbasic
 gymnasium
@@ -2634,6 +2620,7 @@ hivehome
 hjson
 hl7
 hlds
+hls
 hockey
 hol
 holiday
@@ -2824,6 +2811,7 @@ info
 infoblox
 information
 informationbarriers
+informix
 infosec
 infrastructure
 infrastructureascode
@@ -2928,7 +2916,6 @@ ipcalculator
 iperf
 ipfy.org
 iphone
-ipilot
 iplookup
 ipmaths
 ipp
@@ -2981,7 +2968,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jdedwards
 jdt
@@ -3043,6 +3029,7 @@ keenetic
 keepachangelog
 keepass
 keepasslib
+keeper
 kelverion
 kentico
 kerberos
@@ -3154,7 +3141,6 @@ legends
 lego
 lein
 leiningnen
-lenel
 length
 lenovo
 lesspass
@@ -3220,7 +3206,6 @@ local-caching
 local-policy
 localadmin
 localconfigurationmanager
-localdb
 locale
 localgroup
 localization
@@ -3420,6 +3405,7 @@ md5
 md5_v2-61eb916dbf05fb8ab3c59265b44af4ec
 md5sum
 mdatp
+mdb
 mdbc
 mde
 mdm
@@ -3436,7 +3422,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meeting
 meetup
 meetup.com
@@ -3588,6 +3573,7 @@ mozilla
 mp3
 mp4
 mpc
+mpeg
 mpn
 mrvl_fc_powerkit
 mrvlfcprovider
@@ -3842,7 +3828,6 @@ nunit
 nupkg
 nuspec
 nutanix
-nuwave
 nva
 nvdimm
 nvdimm-n
@@ -3856,6 +3841,7 @@ oa
 oacli
 oacmdlets
 oacommand
+oact
 oauth
 oauth2
 oauth2.0
@@ -3957,6 +3943,7 @@ open
 open-ai
 open-ssh
 openai
+openamt
 openapi
 opendata
 openedge
@@ -4142,7 +4129,6 @@ pathfinder
 patternmatching
 pause
 pax8
-paylocity
 paypal
 pays
 pbench
@@ -4214,7 +4200,6 @@ pipeline
 pipelines
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4456,7 +4441,6 @@ progress
 progressbar
 project
 project-management
-projectmanagement
 projectreunion
 projects
 projecttemplate
@@ -4481,9 +4465,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4667,7 +4648,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -4735,6 +4715,7 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
+raj
 ram
 ram-it
 random
@@ -5367,7 +5348,6 @@ signed
 signing
 signtool
 silk
-sim
 simple
 simplecontainers
 simplepassword
@@ -5624,6 +5604,7 @@ start-jobthread
 start-threadjob
 startmen
 starwars
+stash
 stat
 state
 static
@@ -5774,6 +5755,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -5873,7 +5855,6 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
-teradata
 termbin
 terminal
 terminal-services
@@ -6279,6 +6260,7 @@ validate
 validate-dcb
 validatemapsconnectivity
 validation
+validator
 value
 valve
 vami
@@ -6293,6 +6275,7 @@ vaultextension
 vaultstore
 vba
 vbproj
+vbr
 vc
 vccmdlets
 vcenter
@@ -6554,7 +6537,6 @@ wif
 wifi
 wiki
 wildcard
-wildfly
 wim
 wim2vhd
 win
@@ -6816,6 +6798,7 @@ zoxide
 zsh
 zuora
 zvm
+zvml
 カタカナ
 ひらがな
 ローマ字
