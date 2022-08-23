@@ -5,13 +5,45 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [demo-module2](https://www.powershellgallery.com/Packages/demo-module2/4.1) | 4.1
+## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.5.0) | 1.5.0
 
-### Published: 08/22/2022 17:45:53 by David Stamen
+### Published: 08/22/2022 22:31:46 by Brian Dukes
 
-This is a new description
+A set of functions for managing websites built on the DNN Platform.
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 1,126 | __Repository__: https://github.com/bdukes/PowerShellModules
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.22.1) | 22.8.22.1
+
+### Published: 08/22/2022 19:48:08 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
+
+The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
+
+__Downloads__: 288,342 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.69.0) | 1.69.0
+
+### Published: 08/22/2022 19:00:22 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 5,065 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [demo-module2](https://www.powershellgallery.com/Packages/demo-module2/5.0.0) | 5.0.0
+
+### Published: 08/22/2022 18:31:45 by David Stamen
+
+This is a demo module
+
+__Downloads__: 2 | __Repository__: 
+
+## [AksHciSdnLogCollector](https://www.powershellgallery.com/Packages/AksHciSdnLogCollector/0.0.0.1) | 0.0.0.1
+
+### Published: 08/22/2022 18:30:07 by nijos
+
+Scripts to collect logs when AKS HCI cluster is deployed using Windows Software Defined Networking integration
+
+__Downloads__: 0 | __Repository__: 
 
 ## [UsefulArgumentCompleters](https://www.powershellgallery.com/Packages/UsefulArgumentCompleters/1.0.2) | 1.0.2
 
@@ -20,14 +52,6 @@ __Downloads__: 1 | __Repository__:
 Module with lots of argument completers for popular commands.
 
 __Downloads__: 9 | __Repository__: https://github.com/MartinGC94/UsefulArgumentCompleters
-
-## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.5.3) | 0.5.3
-
-### Published: 08/22/2022 17:01:54 by Jonathan Colon
-
-A PowerShell module to generate an as built report on the configuration of Veeam VBR.
-
-__Downloads__: 861 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
 
 ## [Dell.PowerStore](https://www.powershellgallery.com/Packages/Dell.PowerStore/1.2.0.107) | 1.2.0.107
 
@@ -605,14 +629,6 @@ CData Cmdlets for eBay Analytics
 
 __Downloads__: 70 | __Repository__: http://www.cdata.com/powershell/
 
-## [InformixCmdlets](https://www.powershellgallery.com/Packages/InformixCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:57:52 by CData Software Inc.
-
-CData Cmdlets for Informix
-
-__Downloads__: 45 | __Repository__: http://www.cdata.com/powershell/
-
 ## [EnterpriseDBCmdlets](https://www.powershellgallery.com/Packages/EnterpriseDBCmdlets/22.0.8257.1) | 22.0.8257.1
 
 ### Published: 08/22/2022 13:57:48 by CData Software Inc.
@@ -676,6 +692,14 @@ __Downloads__: 229 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for ShipStation
 
 __Downloads__: 201 | __Repository__: http://www.cdata.com/powershell/
+
+## [FacebookAdsCmdlets](https://www.powershellgallery.com/Packages/FacebookAdsCmdlets/22.0.8257.1) | 22.0.8257.1
+
+### Published: 08/22/2022 13:57:16 by CData Software Inc.
+
+CData Cmdlets for Facebook Ads
+
+__Downloads__: 230 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GoogleCloudStorageCmdlets](https://www.powershellgallery.com/Packages/GoogleCloudStorageCmdlets/22.0.8257.1) | 22.0.8257.1
 
@@ -1283,7 +1307,7 @@ __Downloads__: 878 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 9,098 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 9,099 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/22.0.8257.1) | 22.0.8257.1
 
@@ -1637,14 +1661,6 @@ Theme for the posh-git prompt module with last command status indicator, usernam
 
 __Downloads__: 9 | __Repository__: https://github.com/rkitover/posh-git-theme-bluelotus
 
-## [WindowsEvents](https://www.powershellgallery.com/Packages/WindowsEvents/1.0.0.2) | 1.0.0.2
-
-### Published: 08/22/2022 12:21:55 by Jeremy Jackson
-
-Tools for Windows Event Logs
-
-__Downloads__: 9 | __Repository__: https://github.com/Largehawiian/WindowsEvents
-
 ## [pselasticsearch](https://www.powershellgallery.com/Packages/pselasticsearch/1.2.28) | 1.2.28
 
 ### Published: 08/22/2022 10:28:53 by WeHasInternet
@@ -1675,7 +1691,7 @@ __Downloads__: 70 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 Provides a wrapper for Microsoft Graph REST API, and handles authentication, paging and throttling.
 
-__Downloads__: 2,714 | __Repository__: https://github.com/andlin03/EasyGraph
+__Downloads__: 2,715 | __Repository__: https://github.com/andlin03/EasyGraph
 
 ## [QlikSenseCLI](https://www.powershellgallery.com/Packages/QlikSenseCLI/38.16.0) | 38.16.0
 
@@ -1755,7 +1771,7 @@ __Downloads__: 239,002 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 The module collects all helper functions used in but not limited to AutomatedLab
 
-__Downloads__: 40,486 | __Repository__: https://github.com/AutomatedLab/AutomatedLab.Common/
+__Downloads__: 40,489 | __Repository__: https://github.com/AutomatedLab/AutomatedLab.Common/
 
 ## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.3.1) | 0.3.1
 
@@ -1806,7 +1822,7 @@ __Downloads__: 3 | __Repository__: https://github.com/wgross/json-fs
 
 PowerShell DSC Resource to control audio volume.
 
-__Downloads__: 1,026 | __Repository__: https://github.com/mkht/AudioVolumeDsc
+__Downloads__: 1,027 | __Repository__: https://github.com/mkht/AudioVolumeDsc
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.1.1) | 1.1.1
 
@@ -1831,14 +1847,6 @@ __Downloads__: 18 | __Repository__: https://github.com/aciq/pscomplete/
 SecretManagement extension for CyberArk
 
 __Downloads__: 502 | __Repository__: https://github.com/aaearon/SecretManagement.CyberArk
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/22.8.19.1) | 22.8.19.1
-
-### Published: 08/20/2022 05:10:23 by David Segura . Damien Van Robaeys . Gary Blok . Jérôme Bezet-Torres . Mike Marable . Dean Ellerby . Doug McGee
-
-The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
-
-__Downloads__: 288,342 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.54) | 0.0.0.54
 
@@ -1913,7 +1921,7 @@ __Downloads__: 83 | __Repository__:
 
 Devolutions Remote Desktop Manager (RDM) PowerShell Module
 
-__Downloads__: 6,821 | __Repository__: 
+__Downloads__: 6,826 | __Repository__: 
 
 ## [AzureSignInAudit](https://www.powershellgallery.com/Packages/AzureSignInAudit/0.0.2) | 0.0.2
 
@@ -1953,7 +1961,7 @@ __Downloads__: 84,737 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,506 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 27,510 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [FortigateManager](https://www.powershellgallery.com/Packages/FortigateManager/2.0.0) | 2.0.0
 
@@ -2001,17 +2009,6 @@ __Downloads__: 15 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,843,427 | __Repository__: https://dbatools.io/
+__Downloads__: 1,843,440 | __Repository__: https://dbatools.io/
 
-## [AGMPowerCLI](https://www.powershellgallery.com/Packages/AGMPowerCLI/0.0.0.39) | 0.0.0.39
-
-### Published: 08/19/2022 04:57:41 by Anthony Vandewerdt
-
-This is a community generated PowerShell Module for Actifio Global Manager (AGM).  
-It provides a method to issue commands to AGM API endpoints, like "Application" and "Host".
-This lets you create automation with AGM, or generate your own composite functions.
-More information can be found here:  https://github.com/Actifio/AGMPowerCLI
-
-__Downloads__: 1,329 | __Repository__: https://github.com/Actifio/AGMPowerCLI
-
-*Updated: Monday, 22 August 2022 17:53:12 UTC*
+*Updated: Tuesday, 23 August 2022 02:43:45 UTC*

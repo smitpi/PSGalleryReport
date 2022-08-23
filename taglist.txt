@@ -1,7 +1,9 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 August 2022 17:53:25 UTC
+Updated: Tuesday, 23 August 2022 02:43:55 UTC
 
+?:
+??
 .bat
 .env
 .net
@@ -67,6 +69,7 @@ aas
 abc
 abc_testing
 abe
+about
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -219,6 +222,7 @@ aispeech
 aivision
 ajustee
 aks
+aks-hci
 alac
 alarm
 albertheijn
@@ -246,6 +250,7 @@ alpine
 alpr
 alt3
 alter
+alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -258,7 +263,6 @@ amiga
 amp
 amqp
 amsi
-amt
 amxmodx
 anaconda
 analysis
@@ -269,6 +273,7 @@ analytics
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -311,6 +316,7 @@ app
 app-only
 app-v
 app.config
+appattach
 appclusive
 appcmd
 appconfiguration
@@ -354,6 +360,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -373,6 +380,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -687,6 +695,7 @@ bitbucketautomation
 bitcoin
 bitlocker
 bitwarden
+bitwig
 bitwise
 biztalk
 biztalkalm
@@ -700,7 +709,6 @@ blade
 bladeserver
 blaze
 blob
-blobstorage
 block
 block-kit
 blockchain
@@ -946,6 +954,7 @@ cifv3
 cil
 cim
 cim_computersystem
+cimfs
 cimi
 ciminstance
 cims
@@ -1646,6 +1655,7 @@ discovery
 disk
 disk-space
 diskfree
+diskimage
 diskpart
 diskpool
 diskspace
@@ -2071,6 +2081,7 @@ exponentiation
 export
 export-cmhealthreport
 export-data
+export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2283,6 +2294,8 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
+front
+frontapp
 frontdoor
 frontrange
 fs
@@ -2381,7 +2394,9 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
+get-pass
 get-passivetrippoint
+get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2587,6 +2602,7 @@ helpdesk
 helper
 helperfunctions
 helpers
+helpfile
 heml
 here
 hewlett
@@ -2618,7 +2634,6 @@ hivehome
 hjson
 hl7
 hlds
-hls
 hockey
 hol
 holiday
@@ -2689,6 +2704,7 @@ hybridrunbookworker
 hyper-v
 hyperconverged
 hyperfine
+hyperlink
 hyperthreading
 hyperv
 hypervisor
@@ -2787,6 +2803,7 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
+import-passlist
 import-sampackagedefinitionsms
 importexport
 importteams
@@ -2807,7 +2824,6 @@ info
 infoblox
 information
 informationbarriers
-informix
 infosec
 infrastructure
 infrastructureascode
@@ -2944,6 +2960,7 @@ isvalidemail
 isvalidip
 item
 items
+iterate
 iteration
 itg
 itglue
@@ -3403,7 +3420,6 @@ md5
 md5_v2-61eb916dbf05fb8ab3c59265b44af4ec
 md5sum
 mdatp
-mdb
 mdbc
 mde
 mdm
@@ -3572,7 +3588,6 @@ mozilla
 mp3
 mp4
 mpc
-mpeg
 mpn
 mrvl_fc_powerkit
 mrvlfcprovider
@@ -3820,6 +3835,7 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
+null-coalescing
 number
 numlock
 nunit
@@ -3840,7 +3856,6 @@ oa
 oacli
 oacmdlets
 oacommand
-oact
 oauth
 oauth2
 oauth2.0
@@ -3895,6 +3910,7 @@ ole
 oledb
 omaha
 ome
+omnisphere
 omnistack
 oms
 omsagent
@@ -3941,7 +3957,6 @@ open
 open-ai
 open-ssh
 openai
-openamt
 openapi
 opendata
 openedge
@@ -3968,6 +3983,7 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
+operators
 opml
 ops
 opsi
@@ -4554,6 +4570,7 @@ psini
 psinsight
 psintune
 psise
+psitem
 psjob
 psjobs
 psjobthreads
@@ -4718,7 +4735,6 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
-raj
 ram
 ram-it
 random
@@ -4860,6 +4876,7 @@ remotesession
 remoting
 remove
 remove-githubsecrets
+remove-pass
 remove-path
 remove-pinneditem
 removetypeaccelerators
@@ -5281,8 +5298,10 @@ set-githubsecrets
 set-location
 set-openfiles
 set-ownership
+set-pass
 set-psbreakpoint
 set-psenv
+set-randompass
 set-type
 setbios
 sets
@@ -5364,6 +5383,7 @@ sintez
 sintez.module.rds
 site
 site_navigation
+sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
@@ -5604,7 +5624,6 @@ start-jobthread
 start-threadjob
 startmen
 starwars
-stash
 stat
 state
 static
@@ -5695,6 +5714,7 @@ subtitle
 subversion
 successfactors
 sudo
+sugar
 sugarcrm
 suitecrm
 sullivan
@@ -5754,7 +5774,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -5860,6 +5879,7 @@ terminal
 terminal-services
 terminal.gui
 termset
+ternary
 terraform
 terraformcloud
 terrafun
@@ -5934,6 +5954,7 @@ time
 timeout
 timer
 timeseriesinsights
+timespan
 timezone
 tinkerpop
 tips
@@ -6258,7 +6279,6 @@ validate
 validate-dcb
 validatemapsconnectivity
 validation
-validator
 value
 valve
 vami
@@ -6273,7 +6293,6 @@ vaultextension
 vaultstore
 vba
 vbproj
-vbr
 vc
 vccmdlets
 vcenter
@@ -6419,6 +6438,7 @@ vsphere
 vss
 vssetup
 vsshell
+vst
 vsteambuilder
 vsteams
 vstest
@@ -6656,6 +6676,7 @@ workingdays
 workinghours
 workingtime
 workload-automation
+workpoint
 workrequests
 worksheet
 workshop
@@ -6761,6 +6782,7 @@ xsa
 xtremio
 xtrude
 xunit
+xwiki
 xwindowsupdate
 yahoo
 yahw
