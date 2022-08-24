@@ -5,6 +5,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/0.0.2) | 0.0.2
+
+### Published: 08/24/2022 08:34:36 by CR
+
+Scripts for tisane web/api
+
+__Downloads__: 1 | __Repository__: 
+
+## [TisaneLampServer](https://www.powershellgallery.com/Packages/TisaneLampServer/0.0.5) | 0.0.5
+
+### Published: 08/24/2022 08:23:48 by CR
+
+Client side libs for Lamp Server
+
+__Downloads__: 9 | __Repository__: 
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.127) | 1.1.127
+
+### Published: 08/24/2022 08:03:26 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,846,778 | __Repository__: https://dbatools.io/
+
+## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.5) | 0.0.5
+
+### Published: 08/24/2022 07:29:23 by CR
+
+Client side scripts for Tisane to modifiy language models
+
+__Downloads__: 14 | __Repository__: 
+
+## [CleanUpScript](https://www.powershellgallery.com/Packages/CleanUpScript/2022.8.23) | 2022.8.23
+
+### Published: 08/24/2022 06:17:53 by Param Mahajan
+
+Clean up Script for all Network ATC intents, deployed in an Azure Stack HCI OS.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.53.2) | 0.53.2
+
+### Published: 08/24/2022 05:32:22 by WebMD Health Services
+
+Continuous Integration/Continuous Delivery module.
+
+__Downloads__: 5,376 | __Repository__: https://github.com/webmd-health-services/Whiskey
+
+## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.5.9) | 2.5.9
+
+### Published: 08/24/2022 05:18:26 by Michael Kelley
+
+A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
+
+__Downloads__: 29,460 | __Repository__: 
+
+## [HomeBasedDDLSClassTools](https://www.powershellgallery.com/Packages/HomeBasedDDLSClassTools/1.5.1) | 1.5.1
+
+### Published: 08/24/2022 04:32:02 by Brent Denny
+
+This is a set of tools to help DDLS trainers with home based classrooms
+
+__Downloads__: 582 | __Repository__: 
+
 ## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.0.5) | 2.0.5
 
 ### Published: 08/24/2022 00:06:25 by Evan Deters
@@ -1047,7 +1111,7 @@ __Downloads__: 4,655 | __Repository__: https://github.com/dsccommunity/CommonTas
 
 PowerShell module to interact with Atlassian Statuspage
 
-__Downloads__: 1,947 | __Repository__: 
+__Downloads__: 1,948 | __Repository__: 
 
 ## [PSWinGet](https://www.powershellgallery.com/Packages/PSWinGet/1.0.0.7) | 1.0.0.7
 
@@ -1055,7 +1119,7 @@ __Downloads__: 1,947 | __Repository__:
 
 This module contain functions to manage WinGet Client.
 
-__Downloads__: 71 | __Repository__: https://github.com/mgajda83/PSWinGet
+__Downloads__: 70 | __Repository__: https://github.com/mgajda83/PSWinGet
 
 ## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/17.7) | 17.7
 
@@ -1103,31 +1167,7 @@ __Downloads__: 3 | __Repository__: https://www.zerto.com/
 
 Zerto PowerShell Commandlets
 
-__Downloads__: 497,199 | __Repository__: https://www.zerto.com/
-
-## [TisaneLampServer](https://www.powershellgallery.com/Packages/TisaneLampServer/0.0.4) | 0.0.4
-
-### Published: 08/23/2022 08:13:52 by CR
-
-Client side libs for Lamp Server
-
-__Downloads__: 9 | __Repository__: 
-
-## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.4) | 0.0.4
-
-### Published: 08/23/2022 07:52:29 by CR
-
-Client side scripts for Tisane to modifiy language models
-
-__Downloads__: 14 | __Repository__: 
-
-## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/0.0.1) | 0.0.1
-
-### Published: 08/23/2022 07:42:21 by CR
-
-Scripts for tisane web/api
-
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 497,175 | __Repository__: https://www.zerto.com/
 
 ## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/0.0.1) | 0.0.1
 
@@ -1178,7 +1218,7 @@ __Downloads__: 1,129 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 290,414 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 290,433 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.69.0) | 1.69.0
 
@@ -1210,7 +1250,7 @@ __Downloads__: 5 | __Repository__:
 
 Module with lots of argument completers for popular commands.
 
-__Downloads__: 13 | __Repository__: https://github.com/MartinGC94/UsefulArgumentCompleters
+__Downloads__: 10 | __Repository__: https://github.com/MartinGC94/UsefulArgumentCompleters
 
 ## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.5.3) | 0.5.3
 
@@ -2028,44 +2068,4 @@ CData Cmdlets for Salesforce Pardot
 
 __Downloads__: 329 | __Repository__: http://www.cdata.com/powershell/
 
-## [AzureDataCatalogCmdlets](https://www.powershellgallery.com/Packages/AzureDataCatalogCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:55:49 by CData Software Inc.
-
-CData Cmdlets for Azure Data Catalog
-
-__Downloads__: 202 | __Repository__: http://www.cdata.com/powershell/
-
-## [IBMCloudObjectStorageCmdlets](https://www.powershellgallery.com/Packages/IBMCloudObjectStorageCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:55:45 by CData Software Inc.
-
-CData Cmdlets for IBM Cloud Object Storage
-
-__Downloads__: 305 | __Repository__: http://www.cdata.com/powershell/
-
-## [JiraServiceDeskCmdlets](https://www.powershellgallery.com/Packages/JiraServiceDeskCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:55:41 by CData Software Inc.
-
-CData Cmdlets for Jira Service Desk
-
-__Downloads__: 270 | __Repository__: http://www.cdata.com/powershell/
-
-## [SAPBusinessObjectsBICmdlets](https://www.powershellgallery.com/Packages/SAPBusinessObjectsBICmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:55:37 by CData Software Inc.
-
-CData Cmdlets for SAP BusinessObjects BI
-
-__Downloads__: 60 | __Repository__: http://www.cdata.com/powershell/
-
-## [ApacheImpalaCmdlets](https://www.powershellgallery.com/Packages/ApacheImpalaCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:55:33 by CData Software Inc.
-
-CData Cmdlets for Apache Impala
-
-__Downloads__: 195 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Wednesday, 24 August 2022 02:42:01 UTC*
+*Updated: Wednesday, 24 August 2022 09:52:32 UTC*

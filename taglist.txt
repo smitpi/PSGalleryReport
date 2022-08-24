@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 24 August 2022 02:42:12 UTC
+Updated: Wednesday, 24 August 2022 09:52:43 UTC
 
 ?:
 ??
@@ -24,7 +24,6 @@ Updated: Wednesday, 24 August 2022 02:42:12 UTC
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -69,6 +68,7 @@ aas
 abc
 abc_testing
 abe
+about
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -1076,7 +1076,6 @@ cms
 cmsiteconfig
 cmsmessage
 cmtrace
-cmwt
 cns
 coa
 cockroachdb
@@ -1621,6 +1620,7 @@ diff
 difference
 dig
 digikam
+digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -1853,6 +1853,7 @@ dz
 e-mail
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2038,7 +2039,6 @@ example
 examples
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2137,7 +2137,6 @@ features
 featuresondemand
 featureupdate
 federation
-fedex
 feed
 fetch
 ffmpeg
@@ -2243,7 +2242,6 @@ flickr
 flowchart
 flowy
 fluidrelay
-flyway
 fmg
 focus
 fod
@@ -2275,6 +2273,7 @@ forticlient
 fortify
 fortifyondemand
 fortigate
+fortigi
 fortimanager
 fortinet
 fortinetmanager
@@ -2603,6 +2602,7 @@ helpdesk
 helper
 helperfunctions
 helpers
+helpfile
 heml
 here
 hewlett
@@ -2884,6 +2884,8 @@ internetconnection
 internetexplorer
 intersight
 intersightcmdlets
+interval
+interval-timer
 intigua
 intranet
 intrusion
@@ -2960,6 +2962,7 @@ isvalidemail
 isvalidip
 item
 items
+iterate
 iteration
 itg
 itglue
@@ -3310,6 +3313,7 @@ lxco
 lxcopstool
 lync
 m365
+maatschap-fortigi
 mac
 mac-address
 macaddress
@@ -3458,7 +3462,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messageoftheday
 messages
 messaging
@@ -3800,11 +3803,9 @@ nordtools
 normal
 norskale
 nosql
-note
 notebook
 notepad
 noteproperty
-notes
 notification
 notificationhubs
 notifications
@@ -3932,7 +3933,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -4268,6 +4268,7 @@ policystate
 poll
 polly
 polycom
+pomodoro
 ponduit
 pool
 poop
@@ -4483,6 +4484,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4569,6 +4573,7 @@ psini
 psinsight
 psintune
 psise
+psitem
 psjob
 psjobs
 psjobthreads
@@ -4615,9 +4620,6 @@ pssendgrid
 pssession
 pssharper
 psslack
-pssqlite
-pssqlitebynarymodule
-pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -4645,6 +4647,7 @@ publicfolder
 publicip
 publish
 publishedmodules
+publisher
 publishers
 publishing
 pubsub
@@ -4664,6 +4667,7 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -5167,7 +5171,6 @@ searchengine
 searching
 searchplace
 searchquery
-searchstring
 secaas
 secedit
 secret
@@ -5452,7 +5455,6 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsscriptsmonitoring
-snssqlitepsmodule
 sntp
 snugglepup
 soap
@@ -5562,9 +5564,6 @@ sqldbatools
 sqldiagapi
 sqlexport
 sqlite
-sqlitebynarymodule
-sqlitebynarypsmodule
-sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -5713,6 +5712,7 @@ subtitle
 subversion
 successfactors
 sudo
+sugar
 sugarcrm
 suitecrm
 sullivan
@@ -5850,7 +5850,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 techsmith
 tel
 telegram
@@ -5953,6 +5952,7 @@ time
 timeout
 timer
 timeseriesinsights
+timespan
 timezone
 tinkerpop
 tips
@@ -6103,7 +6103,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6216,6 +6215,7 @@ uplink
 upn
 ups
 upsource
+upstream
 uptime
 uptimerobot
 uptobox
@@ -6622,7 +6622,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -6701,7 +6700,6 @@ write-color
 write-colour
 write-debug
 write-host
-write-information
 write-log
 write-loganalytics
 write-message
