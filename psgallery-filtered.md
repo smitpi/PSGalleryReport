@@ -5,6 +5,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [NetApp.ONTAP](https://www.powershellgallery.com/Packages/NetApp.ONTAP/9.11.1.2208) | 9.11.1.2208
+
+### Published: 08/25/2022 08:38:55 by Clinton Knight Steven Beam Eric Nicholson Aparajita Raychaudhury Rajesh Rathnam Robert Mcdermot Sapan Jain Kartik Gupta
+
+NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.11.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
+
+__Downloads__: 6,935 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
+
+## [QlikView-CLI](https://www.powershellgallery.com/Packages/QlikView-CLI/1.7.22199) | 1.7.22199
+
+### Published: 08/25/2022 07:06:15 by Marc Collins
+
+PowerShell module to interact with QlikView - APIs
+
+__Downloads__: 303 | __Repository__: https://github.com/QlikProfessionalServices/QlikView-CLI
+
+## [SetupBase.Certificate](https://www.powershellgallery.com/Packages/SetupBase.Certificate/0.0.0.7) | 0.0.0.7
+
+### Published: 08/25/2022 06:56:20 by Carsten Riedel
+
+Powershell module SetupBase.Certificate. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/SetupBase.Certificate
+
+## [SetupBase.Publish](https://www.powershellgallery.com/Packages/SetupBase.Publish/0.0.0.13) | 0.0.0.13
+
+### Published: 08/25/2022 05:43:53 by Carsten Riedel
+
+Powershell module SetupBase.Publish. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 18 | __Repository__: https://www.powershellgallery.com/packages/SetupBase.Publish
+
+## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/1.0.0) | 1.0.0
+
+### Published: 08/25/2022 05:22:50 by hugoalh
+
+Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
+
+__Downloads__: 724 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+
+## [HomeBasedDDLSClassTools](https://www.powershellgallery.com/Packages/HomeBasedDDLSClassTools/1.5.2) | 1.5.2
+
+### Published: 08/25/2022 05:10:06 by Brent Denny
+
+This is a set of tools to help DDLS trainers with home based classrooms
+
+__Downloads__: 587 | __Repository__: 
+
+## [DynatracePS](https://www.powershellgallery.com/Packages/DynatracePS/0.1.19) | 0.1.19
+
+### Published: 08/25/2022 05:09:41 by joey.was@gmail.com
+
+PowerShell module to interact with Dynatrace SaaS API
+
+__Downloads__: 251 | __Repository__: https://github.com/joeywas/DynatracePS
+
+## [IPvMe](https://www.powershellgallery.com/Packages/IPvMe/1.0.1) | 1.0.1
+
+### Published: 08/25/2022 03:34:39 by Colin Cogle <colin@colincogle.name>
+
+Find your WAN IPv4 and/or IPv6 address.
+
+__Downloads__: 1 | __Repository__: https://github.com/rhymeswithmogul/IPvMe-PowerShell
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.6) | 3.2.6
+
+### Published: 08/25/2022 03:29:18 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 27,741 | __Repository__: https://ironmansoftware.com/powershell-universal
+
 ## [docker-seed](https://www.powershellgallery.com/Packages/docker-seed/0.0.2) | 0.0.2
 
 ### Published: 08/25/2022 02:20:59 by xiaoyao9184
@@ -85,22 +157,6 @@ __Downloads__: 17 | __Repository__: https://www.powershellgallery.com/packages/S
 Powershell module SetupBase.Env. This module is under construction and just uploaded for testing purposes.
 
 __Downloads__: 17 | __Repository__: https://www.powershellgallery.com/packages/SetupBase.Env
-
-## [IPvMe](https://www.powershellgallery.com/Packages/IPvMe/1.0.0) | 1.0.0
-
-### Published: 08/24/2022 19:18:11 by Colin Cogle <colin@colincogle.name>
-
-Find your WAN IPv4 and/or IPv6 address.
-
-__Downloads__: 1 | __Repository__: https://github.com/rhymeswithmogul/IPvMe-PowerShell
-
-## [SetupBase.Publish](https://www.powershellgallery.com/Packages/SetupBase.Publish/0.0.0.11) | 0.0.0.11
-
-### Published: 08/24/2022 18:33:15 by Carsten Riedel
-
-Powershell module SetupBase.Publish. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 18 | __Repository__: https://www.powershellgallery.com/packages/SetupBase.Publish
 
 ## [SetupBase.Install](https://www.powershellgallery.com/Packages/SetupBase.Install/0.0.0.3) | 0.0.0.3
 
@@ -191,7 +247,7 @@ __Downloads__: 6 | __Repository__:
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,124,714 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,124,730 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.14) | 1.0.14
 
@@ -284,14 +340,6 @@ __Downloads__: 5,401 | __Repository__: https://github.com/webmd-health-services/
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
 __Downloads__: 29,545 | __Repository__: 
-
-## [HomeBasedDDLSClassTools](https://www.powershellgallery.com/Packages/HomeBasedDDLSClassTools/1.5.1) | 1.5.1
-
-### Published: 08/24/2022 04:32:02 by Brent Denny
-
-This is a set of tools to help DDLS trainers with home based classrooms
-
-__Downloads__: 587 | __Repository__: 
 
 ## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.0.5) | 2.0.5
 
@@ -1356,7 +1404,7 @@ __Downloads__: 1,131 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 292,041 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 292,038 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.69.0) | 1.69.0
 
@@ -2030,52 +2078,4 @@ CData Cmdlets for Wave Financial
 
 __Downloads__: 56 | __Repository__: http://www.cdata.com/powershell/
 
-## [TallyCmdlets](https://www.powershellgallery.com/Packages/TallyCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:57:24 by CData Software Inc.
-
-CData Cmdlets for Tally
-
-__Downloads__: 232 | __Repository__: http://www.cdata.com/powershell/
-
-## [ShipStationCmdlets](https://www.powershellgallery.com/Packages/ShipStationCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:57:20 by CData Software Inc.
-
-CData Cmdlets for ShipStation
-
-__Downloads__: 204 | __Repository__: http://www.cdata.com/powershell/
-
-## [FacebookAdsCmdlets](https://www.powershellgallery.com/Packages/FacebookAdsCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:57:16 by CData Software Inc.
-
-CData Cmdlets for Facebook Ads
-
-__Downloads__: 233 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleCloudStorageCmdlets](https://www.powershellgallery.com/Packages/GoogleCloudStorageCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:57:12 by CData Software Inc.
-
-CData Cmdlets for Google Cloud Storage
-
-__Downloads__: 84 | __Repository__: http://www.cdata.com/powershell/
-
-## [AzureDevOpsCmdlets](https://www.powershellgallery.com/Packages/AzureDevOpsCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:57:07 by CData Software Inc.
-
-CData Cmdlets for Azure DevOps
-
-__Downloads__: 515 | __Repository__: http://www.cdata.com/powershell/
-
-## [TwitterAdsCmdlets](https://www.powershellgallery.com/Packages/TwitterAdsCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:57:03 by CData Software Inc.
-
-CData Cmdlets for Twitter Ads
-
-__Downloads__: 227 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Thursday, 25 August 2022 02:43:22 UTC*
+*Updated: Thursday, 25 August 2022 09:53:40 UTC*

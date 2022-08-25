@@ -1830,7 +1830,7 @@ __Downloads__: 4,468,898 | __Repository__: https://github.com/Microsoft/Intune-P
 
 Wrapper for Robocopy
 
-__Downloads__: 4,378,555 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 4,378,553 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [AzureADPreview](https://www.powershellgallery.com/Packages/AzureADPreview/2.0.2.149) | 2.0.2.149
 
@@ -1932,7 +1932,7 @@ __Downloads__: 2,889,545 | __Repository__: https://github.com/dsccommunity/Activ
 
 Get NTP Time from a specified NTP Server
 
-__Downloads__: 2,881,772 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
+__Downloads__: 2,881,770 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
 
 ## [WindowsAutoPilotIntune](https://www.powershellgallery.com/Packages/WindowsAutoPilotIntune/5.0) | 5.0
 
@@ -2004,7 +2004,7 @@ __Downloads__: 2,541,128 | __Repository__: https://github.com/buscseik/WifiTools
 
 Module with DSC Resources for Networking area
 
-__Downloads__: 2,501,175 | __Repository__: https://github.com/PowerShell/xNetworking
+__Downloads__: 2,501,161 | __Repository__: https://github.com/PowerShell/xNetworking
 
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.7.237) | 1.7.237
 
@@ -2020,7 +2020,7 @@ __Downloads__: 2,370,189 | __Repository__: http://psframework.org/
 
 This module can be used to run scheduled tasks and synchronously wait for them to complete.
 
-__Downloads__: 2,090,095 | __Repository__: 
+__Downloads__: 2,090,093 | __Repository__: 
 
 ## [AWSPowerShell.NetCore](https://www.powershellgallery.com/Packages/AWSPowerShell.NetCore/4.1.154) | 4.1.154
 
@@ -2167,7 +2167,7 @@ __Downloads__: 1,792,275 | __Repository__: https://github.com/MSEndpointMgr/Intu
 
 Allows for an image to be dynamically set as the lockscreen image based off of the resolution of the primary monitor.
 
-__Downloads__: 1,705,938 | __Repository__: 
+__Downloads__: 1,705,937 | __Repository__: 
 
 ## [AudioDeviceCmdlets](https://www.powershellgallery.com/Packages/AudioDeviceCmdlets/3.1.0.2) | 3.1.0.2
 
@@ -2209,4 +2209,4 @@ View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modi
 
 __Downloads__: 1,659,950 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-*Updated: Thursday, 25 August 2022 02:43:26 UTC*
+*Updated: Thursday, 25 August 2022 09:53:46 UTC*

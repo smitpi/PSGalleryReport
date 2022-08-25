@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 August 2022 02:43:31 UTC
+Updated: Thursday, 25 August 2022 09:53:53 UTC
 
 ?:
 ??
@@ -252,7 +252,6 @@ alpine
 alpr
 alt3
 alter
-alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -720,7 +719,6 @@ blocks
 blog
 blogs
 bls
-blue
 bluedolhin
 blueprint
 blueprints
@@ -1261,7 +1259,6 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1294,10 +1291,8 @@ covid
 covid-19
 cppm
 cpu
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crayon
@@ -1675,6 +1670,7 @@ distributedcache
 distributedfilesystem
 distribution
 distributiongroup
+distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
@@ -1962,7 +1958,6 @@ ephesoft
 epicor
 episode
 epplus
-eprosima
 equality
 erb
 erp
@@ -2123,7 +2118,6 @@ faq
 farm
 farmanager
 fast
-fast-dds
 fastfilepub
 fastgit
 fastlinq
@@ -2335,7 +2329,6 @@ gainz-keepass
 gainz-sqldb
 gallery
 game
-gamecategory:cards
 games
 gameserver
 garage
@@ -2358,7 +2351,9 @@ gemlog
 gemtext
 general
 generate
+generateaddress
 generates
+generatewif
 generation
 generator
 generic
@@ -2366,8 +2361,6 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
-geocache
-geocaching
 geoencode
 geoencoding
 geolocation
@@ -2473,7 +2466,6 @@ gp
 gpedit
 gpg
 gping
-gpio
 gplink
 gpo
 gpo-maintenance
@@ -2504,7 +2496,6 @@ greynoise
 grid
 gridfs
 grok
-groundspeak
 group
 group-policy
 groupmembership
@@ -2618,7 +2609,6 @@ hidden
 hide
 hids
 hiera
-hierarchialdistributionlist
 hierarchical
 high-availability
 highlight
@@ -2717,7 +2707,6 @@ hypothesis
 hysolate
 hysolatemangementconsole
 i-doit
-i2c
 ia
 iaas
 iac
@@ -2813,9 +2802,9 @@ importexport
 importteams
 inactive
 inboxrule
-incident
 incident-response
 incidentresponse
+incontact
 indents
 index
 indexdb
@@ -2982,7 +2971,9 @@ japanese
 jar
 jav
 java
+javamanager
 javascript
+javaversion
 jboss
 jdbc
 jdedwards
@@ -3355,6 +3346,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3468,6 +3460,7 @@ messaging
 messenger
 met
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -3548,6 +3541,7 @@ mixedreality
 mixer
 mkdocs
 mlflow
+mmdc
 mobile
 mobilitycontroller
 mock
@@ -3700,7 +3694,6 @@ natural-language-to-code
 natural-selection
 nav
 navigation
-nbi
 ncal
 ndes
 nebulon
@@ -3720,7 +3713,7 @@ netapi32
 netapp
 netapp_ontap_powershell_toolkit
 netapp.ontap
-netapp.ontap_9.10.1
+netapp.ontap_9.11.1
 netappfiles
 netbox
 netcease
@@ -3945,9 +3938,9 @@ onpremisesdatagatewayhamgmt
 onq
 ons
 ontap
-ontap_9.10.1
+ontap_9.11.1
 ontap_9.8.0
-ontap_pstk_9.10.1
+ontap_pstk_9.11.1
 ontap_pstk_9.8.0
 onyphe
 onyphe.io
@@ -4174,7 +4167,6 @@ performancemonitoring
 permission
 permissions
 permutations
-persistence
 persistent
 personal
 personalisation
@@ -4394,7 +4386,6 @@ pptx
 pranks
 predicate
 prediction
-predictive
 predictor
 preferences
 prefix
@@ -4667,7 +4658,6 @@ puppy
 pure
 pure1
 purestorage
-purple
 purview
 push
 push-location
@@ -4707,7 +4697,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qrcode
 qrcodes
@@ -4750,7 +4739,6 @@ randomusers
 ras
 raspberry-pi
 raspberrypi
-raspbian
 rate
 rate-limit
 rate-limiting
@@ -4803,7 +4791,6 @@ recurse
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
-red
 redact
 redaction
 reddit
@@ -5071,7 +5058,6 @@ sampler
 san
 sandbox
 sanitization
-sanitizer
 sap
 sapazure
 saponazure
@@ -5314,6 +5300,7 @@ sets
 setting
 settings
 setup
+setupbase.certificate
 setupbase.env
 setupbase.install
 setupbase.publish
@@ -5418,7 +5405,6 @@ sky
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -5542,7 +5528,6 @@ speedtest
 speedtester
 spelling
 spf
-spi
 spinnaker
 splash
 splat
@@ -5815,6 +5800,7 @@ tabexpansion
 tabexpansion2
 tablacus
 table
+tableau
 tables
 tablestorage
 tabs
@@ -5914,7 +5900,6 @@ testing
 testlab
 testplans
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -5949,7 +5934,6 @@ thread
 threading
 threadjob
 threads
-threadsanitizer
 threat
 threat-hunting
 threathunting
@@ -6340,6 +6324,7 @@ verbose psmodule
 version
 versioncontrol
 versioning
+versionmanager
 versionnumber
 vertical
 vester
@@ -6561,8 +6546,10 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wid
+wif
 wifi
 wiki
 wildcard
@@ -6578,6 +6565,7 @@ win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32shutdown
+winbuilder
 window
 windows
 windows  server
