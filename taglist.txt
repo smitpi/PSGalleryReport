@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 24 August 2022 09:52:43 UTC
+Updated: Thursday, 25 August 2022 02:43:31 UTC
 
 ?:
 ??
@@ -24,6 +24,7 @@ Updated: Wednesday, 24 August 2022 09:52:43 UTC
 1709
 1803
 1809
+1c
 1e
 1password
 1poshword
@@ -816,6 +817,7 @@ caf
 cal
 calc
 calculate
+calculator
 calendar
 callingcode
 callqueue
@@ -1076,6 +1078,7 @@ cms
 cmsiteconfig
 cmsmessage
 cmtrace
+cmwt
 cns
 coa
 cockroachdb
@@ -1268,7 +1271,6 @@ copy-item
 core
 coreposh
 corona
-corporate
 cortex
 cos
 cosmos
@@ -1328,6 +1330,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+crestron
 crime
 crlf
 crm
@@ -1672,7 +1675,6 @@ distributedcache
 distributedfilesystem
 distribution
 distributiongroup
-distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
@@ -1816,6 +1818,7 @@ dts
 dtsx
 dtx
 du
+dual-stack
 duck
 dudckduckgo
 duf
@@ -1844,7 +1847,6 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
-dynamicsnav
 dynamodb
 dynatrace
 dyndns
@@ -1892,7 +1894,6 @@ elonmusk
 eloqua
 elvui
 em
-emacs
 email
 email-address
 emailaddressupdate
@@ -2029,7 +2030,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evidencelock
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2039,6 +2039,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2137,6 +2138,7 @@ features
 featuresondemand
 featureupdate
 federation
+fedex
 feed
 fetch
 ffmpeg
@@ -2236,12 +2238,14 @@ flasharray
 flashblade
 flatfile
 flatten
+flex
 flex-query
 flexdesk
 flickr
 flowchart
 flowy
 fluidrelay
+flyway
 fmg
 focus
 fod
@@ -2354,9 +2358,7 @@ gemlog
 gemtext
 general
 generate
-generateaddress
 generates
-generatewif
 generation
 generator
 generic
@@ -2643,6 +2645,7 @@ homebrew
 homelandsecurity
 homeschooling
 hon
+horizon
 horizontal
 hornbill
 host
@@ -2813,7 +2816,6 @@ inboxrule
 incident
 incident-response
 incidentresponse
-incontact
 indents
 index
 indexdb
@@ -2980,9 +2982,7 @@ japanese
 jar
 jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jdedwards
@@ -3355,7 +3355,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3462,13 +3461,13 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -3549,7 +3548,6 @@ mixedreality
 mixer
 mkdocs
 mlflow
-mmdc
 mobile
 mobilitycontroller
 mock
@@ -3803,9 +3801,11 @@ nordtools
 normal
 norskale
 nosql
+note
 notebook
 notepad
 noteproperty
+notes
 notification
 notificationhubs
 notifications
@@ -3933,6 +3933,7 @@ oneidentity
 onelogin
 oneloginapi
 onenote
+onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -4620,6 +4621,9 @@ pssendgrid
 pssession
 pssharper
 psslack
+pssqlite
+pssqlitebynarymodule
+pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -5171,6 +5175,7 @@ searchengine
 searching
 searchplace
 searchquery
+searchstring
 secaas
 secedit
 secret
@@ -5309,6 +5314,12 @@ sets
 setting
 settings
 setup
+setupbase.env
+setupbase.install
+setupbase.publish
+setupbase.taskscheduler
+setupbase.template
+setupbase.update
 sevenzip
 sf
 sfb
@@ -5455,6 +5466,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsscriptsmonitoring
+snssqlitepsmodule
 sntp
 snugglepup
 soap
@@ -5564,6 +5576,9 @@ sqldbatools
 sqldiagapi
 sqlexport
 sqlite
+sqlitebynarymodule
+sqlitebynarypsmodule
+sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -5800,7 +5815,6 @@ tabexpansion
 tabexpansion2
 tablacus
 table
-tableau
 tables
 tablestorage
 tabs
@@ -5850,6 +5864,7 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
+techlog
 techsmith
 tel
 telegram
@@ -5982,6 +5997,7 @@ tools4ever
 topdesk
 topics
 topology
+tor
 torrent
 torrents
 toshiba
@@ -6103,6 +6119,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -6323,7 +6340,6 @@ verbose psmodule
 version
 versioncontrol
 versioning
-versionmanager
 versionnumber
 vertical
 vester
@@ -6386,7 +6402,6 @@ vmhostnetworkadapater
 vmmanagement
 vmnic
 vmrole
-vms
 vmtovmhostrule
 vmtovmrule
 vmware
@@ -6546,10 +6561,8 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wid
-wif
 wifi
 wiki
 wildcard
@@ -6565,7 +6578,6 @@ win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32shutdown
-winbuilder
 window
 windows
 windows  server
@@ -6622,6 +6634,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -6700,6 +6713,7 @@ write-color
 write-colour
 write-debug
 write-host
+write-information
 write-log
 write-loganalytics
 write-message
