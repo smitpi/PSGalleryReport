@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 August 2022 09:53:53 UTC
+Updated: Thursday, 25 August 2022 17:52:32 UTC
 
 ?:
 ??
@@ -39,7 +39,6 @@ Updated: Thursday, 25 August 2022 09:53:53 UTC
 300
 365
 36867
-3d
 3dprinting
 3par
 50
@@ -159,7 +158,6 @@ adif
 adm
 admf
 admin
-admin-tools
 admindirectory
 administration
 administrative
@@ -252,6 +250,7 @@ alpine
 alpr
 alt3
 alter
+alteryx
 alwaysonvpn
 amateur-data-interchange-format
 amateur-radio
@@ -368,7 +367,6 @@ archivial-backup
 archivial-cloud-backup
 archlinux
 arcus
-area
 argument
 argumentcompleter
 arguments
@@ -430,7 +428,6 @@ atlas
 atlassian
 atlassiancli
 atlassianps
-atmosphere
 atrium
 att&ck
 attestation
@@ -683,8 +680,6 @@ binaryip
 bind
 binding
 bing
-bingmap
-bingmaps
 binomial
 bios
 bios_settings
@@ -702,7 +697,6 @@ bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
-bks
 black
 blackbaud
 blackbox
@@ -719,6 +713,7 @@ blocks
 blog
 blogs
 bls
+blue
 bluedolhin
 blueprint
 blueprints
@@ -760,8 +755,6 @@ brew
 brickset
 bridge
 brightbooking
-britannica
-britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
@@ -1136,7 +1129,6 @@ commandsandresource
 commence
 comment
 commerce
-commfort
 commit
 common
 common-data-service
@@ -1259,6 +1251,7 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1268,6 +1261,7 @@ copy-item
 core
 coreposh
 corona
+corporate
 cortex
 cos
 cosmos
@@ -1291,8 +1285,10 @@ covid
 covid-19
 cppm
 cpu
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crash
 crayon
@@ -1679,7 +1675,6 @@ diving
 division
 divoom
 dkim
-dkschrutebeets
 dl
 dll
 dlmautomation
@@ -1843,6 +1838,7 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
+dynamicsnav
 dynamodb
 dynatrace
 dyndns
@@ -1851,7 +1847,6 @@ dz
 e-mail
 easy
 easy-to-use
-easylife365
 easyvista
 eaton
 ebay
@@ -1890,6 +1885,7 @@ elonmusk
 eloqua
 elvui
 em
+emacs
 email
 email-address
 emailaddressupdate
@@ -1958,6 +1954,7 @@ ephesoft
 epicor
 episode
 epplus
+eprosima
 equality
 erb
 erp
@@ -2025,6 +2022,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evidencelock
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2118,6 +2116,7 @@ faq
 farm
 farmanager
 fast
+fast-dds
 fastfilepub
 fastgit
 fastlinq
@@ -2206,13 +2205,10 @@ find-call
 find-caller
 find-file
 find-path
-findlocation
-findplace
 findproxyforurl
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 first
@@ -2281,7 +2277,6 @@ forum
 forwardcompatibility
 forwardedevents
 foudil
-fox
 foxpro
 fqdn
 framework
@@ -2329,6 +2324,7 @@ gainz-keepass
 gainz-sqldb
 gallery
 game
+gamecategory:cards
 games
 gameserver
 garage
@@ -2360,9 +2356,8 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
-geo
-geoencode
-geoencoding
+geocache
+geocaching
 geolocation
 geosearching
 geotagging
@@ -2436,8 +2431,6 @@ globalentry
 globbing
 glpi
 gmail
-gmap
-gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2454,8 +2447,6 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
-googlemap
-googlemaps
 gopher
 gopher+
 gopherplus
@@ -2466,6 +2457,7 @@ gp
 gpedit
 gpg
 gping
+gpio
 gplink
 gpo
 gpo-maintenance
@@ -2496,6 +2488,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-policy
 groupmembership
@@ -2609,6 +2602,7 @@ hidden
 hide
 hids
 hiera
+hierarchialdistributionlist
 hierarchical
 high-availability
 highlight
@@ -2707,6 +2701,7 @@ hypothesis
 hysolate
 hysolatemangementconsole
 i-doit
+i2c
 ia
 iaas
 iac
@@ -2802,6 +2797,7 @@ importexport
 importteams
 inactive
 inboxrule
+incident
 incident-response
 incidentresponse
 incontact
@@ -3118,7 +3114,6 @@ lastpass
 latency
 latestupdate
 latin
-latitude
 launcher
 layer
 layman
@@ -3215,7 +3210,6 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
-locale
 localgroup
 localization
 location
@@ -3283,7 +3277,6 @@ lol
 lolcat
 longfile
 longfiles
-longitude
 look
 lookup
 loopback
@@ -3362,12 +3355,10 @@ mangement
 manifest
 manual
 map
-mapapi
 mappeddrives
 mapper24
 mapping
 maps
-mapsapi
 mariadb
 mark
 markdig
@@ -3694,6 +3685,7 @@ natural-language-to-code
 natural-selection
 nav
 navigation
+nbi
 ncal
 ndes
 nebulon
@@ -3741,7 +3733,6 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
-networksecurity
 networksecuritygroup
 networkshares
 new
@@ -3856,7 +3847,6 @@ oauth
 oauth2
 oauth2.0
 oberstufe
-obj
 object
 objectid
 objectstorage
@@ -4138,7 +4128,6 @@ path
 pathfinder
 patternmatching
 pause
-pax8
 paylocity
 paypal
 pays
@@ -4167,6 +4156,7 @@ performancemonitoring
 permission
 permissions
 permutations
+persistence
 persistent
 personal
 personalisation
@@ -4216,7 +4206,6 @@ pivottable
 pixoo
 pki
 pks
-place
 places
 plain
 plan
@@ -4239,14 +4228,12 @@ plot
 plugin
 plugins
 pluralsight
-ply
 pmp
 pncit
 pni
 pnp
 pode
 poe
-point
 point-to-site
 pokeapi
 pokedex
@@ -4386,6 +4373,7 @@ pptx
 pranks
 predicate
 prediction
+predictive
 predictor
 preferences
 prefix
@@ -4658,6 +4646,7 @@ puppy
 pure
 pure1
 purestorage
+purple
 purview
 push
 push-location
@@ -4697,6 +4686,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qrcode
 qrcodes
@@ -4739,12 +4729,11 @@ randomusers
 ras
 raspberry-pi
 raspberrypi
+raspbian
 rate
 rate-limit
 rate-limiting
 rates
-rating
-ratings
 ravendb
 razzle
 rbac
@@ -4791,6 +4780,7 @@ recurse
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
+red
 redact
 redaction
 reddit
@@ -5058,6 +5048,7 @@ sampler
 san
 sandbox
 sanitization
+sanitizer
 sap
 sapazure
 saponazure
@@ -5159,7 +5150,6 @@ search
 search-adminauditlog
 searchengine
 searching
-searchplace
 searchquery
 searchstring
 secaas
@@ -5405,6 +5395,7 @@ sky
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -5528,6 +5519,7 @@ speedtest
 speedtester
 spelling
 spf
+spi
 spinnaker
 splash
 splat
@@ -5900,6 +5892,7 @@ testing
 testlab
 testplans
 tests
+testsuite
 testtag1
 testtag2
 testtool
@@ -5934,6 +5927,7 @@ thread
 threading
 threadjob
 threads
+threadsanitizer
 threat
 threat-hunting
 threathunting
@@ -6134,7 +6128,6 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
-ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
@@ -6387,6 +6380,7 @@ vmhostnetworkadapater
 vmmanagement
 vmnic
 vmrole
+vms
 vmtovmhostrule
 vmtovmrule
 vmware
@@ -6573,12 +6567,9 @@ windows explorer
 windows_events
 windows-10
 windows-api
-windows-control-panel
-windows-defender
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-registry
 windows-remoting
 windows-server-2016
