@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 August 2022 17:52:32 UTC
+Updated: Friday, 26 August 2022 02:45:17 UTC
 
 ?:
 ??
@@ -39,6 +39,7 @@ Updated: Thursday, 25 August 2022 17:52:32 UTC
 300
 365
 36867
+3d
 3dprinting
 3par
 50
@@ -158,6 +159,7 @@ adif
 adm
 admf
 admin
+admin-tools
 admindirectory
 administration
 administrative
@@ -317,7 +319,6 @@ app
 app-only
 app-v
 app.config
-appattach
 appclusive
 appcmd
 appconfiguration
@@ -352,8 +353,6 @@ appxmanifest
 aprs
 apt-get
 apt-get-update
-aql
-arangodb
 arc
 arcade
 arcgis
@@ -367,6 +366,7 @@ archivial-backup
 archivial-cloud-backup
 archlinux
 arcus
+area
 argument
 argumentcompleter
 arguments
@@ -428,6 +428,7 @@ atlas
 atlassian
 atlassiancli
 atlassianps
+atmosphere
 atrium
 att&ck
 attestation
@@ -680,6 +681,8 @@ binaryip
 bind
 binding
 bing
+bingmap
+bingmaps
 binomial
 bios
 bios_settings
@@ -949,7 +952,6 @@ cifv3
 cil
 cim
 cim_computersystem
-cimfs
 cimi
 ciminstance
 cims
@@ -1129,6 +1131,7 @@ commandsandresource
 commence
 comment
 commerce
+commfort
 commit
 common
 common-data-service
@@ -1145,7 +1148,6 @@ compiler
 complete
 completer
 completion
-complex
 compliance
 compliant
 component
@@ -1651,7 +1653,6 @@ discovery
 disk
 disk-space
 diskfree
-diskimage
 diskpart
 diskpool
 diskspace
@@ -1675,6 +1676,7 @@ diving
 division
 divoom
 dkim
+dkschrutebeets
 dl
 dll
 dlmautomation
@@ -1847,6 +1849,7 @@ dz
 e-mail
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2117,7 +2120,6 @@ farm
 farmanager
 fast
 fast-dds
-fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2156,7 +2158,6 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transform
 file-type
@@ -2205,10 +2206,13 @@ find-call
 find-caller
 find-file
 find-path
+findlocation
+findplace
 findproxyforurl
 firebird
 firefox
 firewall
+firewall-management
 firewallrule
 firmware
 first
@@ -2234,7 +2238,6 @@ flexdesk
 flickr
 flowchart
 flowy
-fluidrelay
 flyway
 fmg
 focus
@@ -2262,7 +2265,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
-fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2273,7 +2275,6 @@ fortinet
 fortinetmanager
 fortios
 fortune
-forum
 forwardcompatibility
 forwardedevents
 foudil
@@ -2356,8 +2357,11 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
+geo
 geocache
 geocaching
+geoencode
+geoencoding
 geolocation
 geosearching
 geotagging
@@ -2431,6 +2435,8 @@ globalentry
 globbing
 glpi
 gmail
+gmap
+gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2447,6 +2453,8 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
+googlemap
+googlemaps
 gopher
 gopher+
 gopherplus
@@ -3114,6 +3122,7 @@ lastpass
 latency
 latestupdate
 latin
+latitude
 launcher
 layer
 layman
@@ -3210,6 +3219,7 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
+locale
 localgroup
 localization
 location
@@ -3277,6 +3287,7 @@ lol
 lolcat
 longfile
 longfiles
+longitude
 look
 lookup
 loopback
@@ -3339,7 +3350,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3355,10 +3365,12 @@ mangement
 manifest
 manual
 map
+mapapi
 mappeddrives
 mapper24
 mapping
 maps
+mapsapi
 mariadb
 mark
 markdig
@@ -3451,7 +3463,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -3733,6 +3744,7 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
+networksecurity
 networksecuritygroup
 networkshares
 new
@@ -3847,6 +3859,7 @@ oauth
 oauth2
 oauth2.0
 oberstufe
+obj
 object
 objectid
 objectstorage
@@ -4128,6 +4141,7 @@ path
 pathfinder
 patternmatching
 pause
+pax8
 paylocity
 paypal
 pays
@@ -4206,6 +4220,7 @@ pivottable
 pixoo
 pki
 pks
+place
 places
 plain
 plan
@@ -4228,12 +4243,14 @@ plot
 plugin
 plugins
 pluralsight
+ply
 pmp
 pncit
 pni
 pnp
 pode
 poe
+point
 point-to-site
 pokeapi
 pokedex
@@ -4585,7 +4602,6 @@ psprojectgenerator
 psprovider
 psprtg
 pspublicapi
-psraw
 psreadexif
 psreadline
 psremoting
@@ -4734,6 +4750,8 @@ rate
 rate-limit
 rate-limiting
 rates
+rating
+ratings
 ravendb
 razzle
 rbac
@@ -4835,7 +4853,6 @@ relevance
 relic
 remediation
 remedy
-remember
 reminder
 remote
 remote-desktop
@@ -5150,6 +5167,7 @@ search
 search-adminauditlog
 searchengine
 searching
+searchplace
 searchquery
 searchstring
 secaas
@@ -5451,7 +5469,6 @@ soc
 soccer
 social
 social-media
-socialmedia
 socketlabs
 sockets
 sodium
@@ -5965,7 +5982,6 @@ toggl
 toggle
 token
 tokenlifetime
-tokens
 tookit
 tool
 toolbox
@@ -6128,6 +6144,7 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
+ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
@@ -6540,7 +6557,6 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wid
 wif
@@ -6567,9 +6583,12 @@ windows explorer
 windows_events
 windows-10
 windows-api
+windows-control-panel
+windows-defender
 windows-environment
 windows-explorer
 windows-features
+windows-firewall
 windows-registry
 windows-remoting
 windows-server-2016

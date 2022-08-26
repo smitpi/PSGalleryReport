@@ -5,6 +5,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [posh-git-theme-bluelotus](https://www.powershellgallery.com/Packages/posh-git-theme-bluelotus/0.0.7) | 0.0.7
+
+### Published: 08/26/2022 02:24:59 by Rafael Kitover
+
+Theme for the posh-git prompt module with last command status indicator, username and host.
+
+__Downloads__: 12 | __Repository__: https://github.com/rkitover/posh-git-theme-bluelotus
+
+## [NetApp.CBS.AVS](https://www.powershellgallery.com/Packages/NetApp.CBS.AVS/1.0.0) | 1.0.0
+
+### Published: 08/26/2022 01:07:42 by NetApp
+
+Netapp CBS Appliance
+
+__Downloads__: 199 | __Repository__: https://mysupport.netapp.com/
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.42) | 3.0.42
+
+### Published: 08/26/2022 00:17:05 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 318 | __Repository__: 
+
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.4.1) | 1.4.1
+
+### Published: 08/26/2022 00:05:57 by AppMani
+
+Module for installing basic programs. You can use functions here to download the installer from a download link; Use that installer to install the program; Verify the program/service that was installed, then; clean up the installer.
+
+__Downloads__: 17,467 | __Repository__: 
+
+## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.93) | 1.0.93
+
+### Published: 08/25/2022 23:05:33 by Jeremy La Camera
+
+Module for multithreading PowerShell commands using .Net Runspaces
+
+__Downloads__: 86 | __Repository__: 
+
+## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.1) | 1.0.1
+
+### Published: 08/25/2022 22:51:18 by Adam Bacon
+
+PowerShell cmdlets for Internet Speed Test
+
+__Downloads__: 21 | __Repository__: https://adam-bacon.netlify.app/
+
+## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/2.0.6) | 2.0.6
+
+### Published: 08/25/2022 22:50:28 by Tanner Schmidt
+
+This module does stuff
+
+__Downloads__: 4,797 | __Repository__: 
+
+## [Microsoft.PowerShell.ConsoleGuiTools](https://www.powershellgallery.com/Packages/Microsoft.PowerShell.ConsoleGuiTools/0.7.2) | 0.7.2
+
+### Published: 08/25/2022 21:12:46 by PowerShell Team
+
+Cross-platform Console Gui Tools for PowerShell
+
+__Downloads__: 42,207 | __Repository__: https://github.com/PowerShell/GraphicalTools/
+
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.0.6) | 2.0.6
+
+### Published: 08/25/2022 19:07:29 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 105 | __Repository__: https://github.com/cpp-swift/PowerRvB
+
 ## [MSFT.NetworkATC.CleanupScript](https://www.powershellgallery.com/Packages/MSFT.NetworkATC.CleanupScript/2022.8.25) | 2022.8.25
 
 ### Published: 08/25/2022 17:41:38 by Param Mahajan
@@ -21,14 +93,6 @@ This module contains a number of functions PowerShell scripts and scriptlets tha
 
 __Downloads__: 273 | __Repository__: 
 
-## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.4.0) | 1.4.0
-
-### Published: 08/25/2022 15:49:43 by AppMani
-
-Module for installing basic programs. You can use functions here to download the installer from a download link; Use that installer to install the program; Verify the program/service that was installed, then; clean up the installer.
-
-__Downloads__: 17,468 | __Repository__: 
-
 ## [TelemetryHelper](https://www.powershellgallery.com/Packages/TelemetryHelper/1.5.0) | 1.5.0
 
 ### Published: 08/25/2022 15:43:15 by Jan-Hendrik Peters
@@ -36,14 +100,6 @@ __Downloads__: 17,468 | __Repository__:
 This module helps you integrate telemetry with ApplicationInsights into your own PowerShell module
 
 __Downloads__: 823 | __Repository__: 
-
-## [FineFormat](https://www.powershellgallery.com/Packages/FineFormat/1.1.0) | 1.1.0
-
-### Published: 08/25/2022 14:51:24 by Sergey Vasin
-
-Format and filter objects properties by types and values
-
-__Downloads__: 27 | __Repository__: https://github.com/sethworks/FineFormat
 
 ## [NTS-ConfigMgrTools](https://www.powershellgallery.com/Packages/NTS-ConfigMgrTools/1.1.0.1) | 1.1.0.1
 
@@ -93,7 +149,7 @@ __Downloads__: 292 | __Repository__: https://doitpsway.com/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,118,081 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,118,049 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/6.0.3) | 6.0.3
 
@@ -109,7 +165,7 @@ __Downloads__: 76 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 This module allows you to connect to the Autotask REST API. The Autotask REST API was launched with version 2020.2
 
-__Downloads__: 28,986 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
+__Downloads__: 28,983 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
 
 ## [NetApp.ONTAP](https://www.powershellgallery.com/Packages/NetApp.ONTAP/9.11.1.2208) | 9.11.1.2208
 
@@ -173,7 +229,7 @@ __Downloads__: 254 | __Repository__: https://github.com/joeywas/DynatracePS
 
 Find your WAN IPv4 and/or IPv6 address.
 
-__Downloads__: 8 | __Repository__: https://github.com/rhymeswithmogul/IPvMe-PowerShell
+__Downloads__: 7 | __Repository__: https://github.com/rhymeswithmogul/IPvMe-PowerShell
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.6) | 3.2.6
 
@@ -181,7 +237,7 @@ __Downloads__: 8 | __Repository__: https://github.com/rhymeswithmogul/IPvMe-Powe
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,780 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 27,777 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [docker-seed](https://www.powershellgallery.com/Packages/docker-seed/0.0.2) | 0.0.2
 
@@ -213,7 +269,7 @@ __Downloads__: 51,519 | __Repository__: https://github.com/ctigeek/InvokeQueryPo
 
 A PowerShell module to generate as built reports on the configuration of VMware Horizon
 
-__Downloads__: 3 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.Horizon
+__Downloads__: 2 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.Horizon
 
 ## [SetupBase.Update](https://www.powershellgallery.com/Packages/SetupBase.Update/0.0.0.5) | 0.0.0.5
 
@@ -328,7 +384,7 @@ __Downloads__: 21 | __Repository__: https://www.powershellgallery.com/packages/S
 
 This module is designed to automate the routine.
 
-__Downloads__: 11 | __Repository__: 
+__Downloads__: 10 | __Repository__: 
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.8.0) | 7.8.0
 
@@ -336,7 +392,7 @@ __Downloads__: 11 | __Repository__:
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,125,242 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,125,241 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.14) | 1.0.14
 
@@ -372,7 +428,7 @@ __Downloads__: 16,850 | __Repository__: https://github.com/AymericM78/PowerDataO
 
 Scripts for tisane web/api
 
-__Downloads__: 7 | __Repository__: 
+__Downloads__: 6 | __Repository__: 
 
 ## [TisaneLampServer](https://www.powershellgallery.com/Packages/TisaneLampServer/0.0.5) | 0.0.5
 
@@ -388,7 +444,7 @@ __Downloads__: 22 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,852,766 | __Repository__: https://dbatools.io/
+__Downloads__: 1,852,762 | __Repository__: https://dbatools.io/
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.5) | 0.0.5
 
@@ -397,14 +453,6 @@ __Downloads__: 1,852,766 | __Repository__: https://dbatools.io/
 Client side scripts for Tisane to modifiy language models
 
 __Downloads__: 27 | __Repository__: 
-
-## [CleanUpScript](https://www.powershellgallery.com/Packages/CleanUpScript/2022.8.23) | 2022.8.23
-
-### Published: 08/24/2022 06:17:53 by Param Mahajan
-
-Clean up Script for all Network ATC intents, deployed in an Azure Stack HCI OS.
-
-__Downloads__: 6 | __Repository__: 
 
 ## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.53.2) | 0.53.2
 
@@ -420,15 +468,7 @@ __Downloads__: 5,404 | __Repository__: https://github.com/webmd-health-services/
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 29,600 | __Repository__: 
-
-## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.0.5) | 2.0.5
-
-### Published: 08/24/2022 00:06:25 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 105 | __Repository__: https://github.com/cpp-swift/PowerRvB
+__Downloads__: 29,596 | __Repository__: 
 
 ## [windows-screenfetch-fast](https://www.powershellgallery.com/Packages/windows-screenfetch-fast/1.0.2) | 1.0.2
 
@@ -1389,7 +1429,7 @@ __Downloads__: 2,862 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
 
 DSC composite resource for https://github.com/dsccommunity/DscWorkshop
 
-__Downloads__: 4,724 | __Repository__: https://github.com/dsccommunity/CommonTasks
+__Downloads__: 4,723 | __Repository__: https://github.com/dsccommunity/CommonTasks
 
 ## [StatuspagePS](https://www.powershellgallery.com/Packages/StatuspagePS/1.0.10) | 1.0.10
 
@@ -1437,7 +1477,7 @@ __Downloads__: 392 | __Repository__: https://github.com/Woznet/WozTools
 
 Easily enable/disable the Internet connection (all network adapters) as well as set DNS servers for all adapters excluding loopback, bluetooth, and VPN.
 
-__Downloads__: 9 | __Repository__: https://github.com/asheroto/Adapter-Control
+__Downloads__: 8 | __Repository__: https://github.com/asheroto/Adapter-Control
 
 ## [Zerto.Zvml.Commandlets](https://www.powershellgallery.com/Packages/Zerto.Zvml.Commandlets/1.0.953) | 1.0.953
 
@@ -1445,7 +1485,7 @@ __Downloads__: 9 | __Repository__: https://github.com/asheroto/Adapter-Control
 
 Zerto PowerShell Commandlets
 
-__Downloads__: 9 | __Repository__: https://www.zerto.com/
+__Downloads__: 8 | __Repository__: https://www.zerto.com/
 
 ## [Zerto.Zvm.Commandlets](https://www.powershellgallery.com/Packages/Zerto.Zvm.Commandlets/1.0.953) | 1.0.953
 
@@ -1453,7 +1493,7 @@ __Downloads__: 9 | __Repository__: https://www.zerto.com/
 
 Zerto PowerShell Commandlets
 
-__Downloads__: 499,891 | __Repository__: https://www.zerto.com/
+__Downloads__: 499,887 | __Repository__: https://www.zerto.com/
 
 ## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/0.0.1) | 0.0.1
 
@@ -1461,7 +1501,7 @@ __Downloads__: 499,891 | __Repository__: https://www.zerto.com/
 
 Module for on premise installtion of Tisane
 
-__Downloads__: 6 | __Repository__: 
+__Downloads__: 5 | __Repository__: 
 
 ## [TisaneLocal](https://www.powershellgallery.com/Packages/TisaneLocal/0.0.1) | 0.0.1
 
@@ -1469,7 +1509,7 @@ __Downloads__: 6 | __Repository__:
 
 Scripts for local Tisane Use
 
-__Downloads__: 5 | __Repository__: 
+__Downloads__: 4 | __Repository__: 
 
 ## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.5.0) | 1.5.0
 
@@ -1485,7 +1525,7 @@ __Downloads__: 1,149 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 293,135 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 293,129 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.69.0) | 1.69.0
 
@@ -1509,7 +1549,7 @@ __Downloads__: 53 | __Repository__:
 
 Scripts to collect logs when AKS HCI cluster is deployed using Windows Software Defined Networking integration
 
-__Downloads__: 22 | __Repository__: 
+__Downloads__: 20 | __Repository__: 
 
 ## [UsefulArgumentCompleters](https://www.powershellgallery.com/Packages/UsefulArgumentCompleters/1.0.2) | 1.0.2
 
@@ -1541,7 +1581,7 @@ __Downloads__: 19,226 | __Repository__: https://www.dell.com/
 
 This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
 
-__Downloads__: 99,156 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
+__Downloads__: 99,154 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/22.0.8257.1) | 22.0.8257.1
 
@@ -1710,6 +1750,14 @@ __Downloads__: 1,493 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Oracle
 
 __Downloads__: 316 | __Repository__: http://www.cdata.com/powershell/
+
+## [SAPHANACmdlets](https://www.powershellgallery.com/Packages/SAPHANACmdlets/22.0.8257.1) | 22.0.8257.1
+
+### Published: 08/22/2022 14:01:16 by CData Software Inc.
+
+CData Cmdlets for SAP HANA
+
+__Downloads__: 338 | __Repository__: http://www.cdata.com/powershell/
 
 ## [IBMCloudSQLQueryCmdlets](https://www.powershellgallery.com/Packages/IBMCloudSQLQueryCmdlets/22.0.8257.1) | 22.0.8257.1
 
@@ -2031,52 +2079,4 @@ CData Cmdlets for Paylocity
 
 __Downloads__: 49 | __Repository__: http://www.cdata.com/powershell/
 
-## [RaiserEdgeNXTCmdlets](https://www.powershellgallery.com/Packages/RaiserEdgeNXTCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:58:26 by CData Software Inc.
-
-CData Cmdlets for Blackbaud Raisers Edge NXT
-
-__Downloads__: 74 | __Repository__: http://www.cdata.com/powershell/
-
-## [SASXptCmdlets](https://www.powershellgallery.com/Packages/SASXptCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:58:22 by CData Software Inc.
-
-CData Cmdlets for SAS Xpt
-
-__Downloads__: 73 | __Repository__: http://www.cdata.com/powershell/
-
-## [WorkdayCmdlets](https://www.powershellgallery.com/Packages/WorkdayCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:58:17 by CData Software Inc.
-
-CData Cmdlets for Workday
-
-__Downloads__: 60 | __Repository__: http://www.cdata.com/powershell/
-
-## [TaxJarCmdlets](https://www.powershellgallery.com/Packages/TaxJarCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:58:14 by CData Software Inc.
-
-CData Cmdlets for TaxJar
-
-__Downloads__: 48 | __Repository__: http://www.cdata.com/powershell/
-
-## [SnapchatAdsCmdlets](https://www.powershellgallery.com/Packages/SnapchatAdsCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:58:09 by CData Software Inc.
-
-CData Cmdlets for Snapchat Ads
-
-__Downloads__: 56 | __Repository__: http://www.cdata.com/powershell/
-
-## [AvroCmdlets](https://www.powershellgallery.com/Packages/AvroCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:58:05 by CData Software Inc.
-
-CData Cmdlets for Avro
-
-__Downloads__: 110 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Thursday, 25 August 2022 17:52:22 UTC*
+*Updated: Friday, 26 August 2022 02:45:04 UTC*
