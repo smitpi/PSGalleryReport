@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 26 August 2022 09:52:50 UTC
+Updated: Friday, 26 August 2022 17:53:26 UTC
 
 ?:
 ??
@@ -159,7 +159,6 @@ adif
 adm
 admf
 admin
-admin-tools
 admindirectory
 administration
 administrative
@@ -516,7 +515,6 @@ axium
 az
 az-cli
 az.automation
-aza
 azautomation
 azcli
 azcompute
@@ -839,14 +837,11 @@ carousel
 cartoon
 case
 cassandra
-cat
-cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
-cats
 catty
 cavium
 cb
@@ -1152,6 +1147,7 @@ compiler
 complete
 completer
 completion
+complex
 compliance
 compliant
 component
@@ -1244,6 +1240,7 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-windowsimage
 converter
 convertfrom-yaml
@@ -1703,7 +1700,6 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
-dnsmadeeasy
 dnsrecord
 dnsresolver
 dnsserver
@@ -2177,7 +2173,6 @@ filename
 filereplication
 files
 filesecurity
-fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2217,7 +2212,6 @@ findproxyforurl
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 first
@@ -2243,7 +2237,6 @@ flexdesk
 flickr
 flowchart
 flowy
-fluidrelay
 flyway
 fmg
 focus
@@ -2395,7 +2388,6 @@ get-help
 get-history
 get-iislog
 get-openfile
-get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2802,7 +2794,6 @@ imb
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3057,6 +3048,7 @@ kestrel
 key
 key-vault
 key2wocas
+keybase
 keyboard
 keycipher
 keylight
@@ -3311,6 +3303,8 @@ lunches
 lwa
 lxca
 lxcapstool
+lxco
+lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3748,7 +3742,6 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
-networksecurity
 networksecuritygroup
 networkshares
 new
@@ -3954,7 +3947,6 @@ onyphe.io
 oob
 oop
 op
-opa
 opc
 open
 open-ai
@@ -3964,7 +3956,6 @@ openamt
 openapi
 opendata
 openedge
-openfiles
 openhere
 openid
 openidconnect
@@ -4288,7 +4279,6 @@ pos
 posershellise
 posh
 posh-acme
-posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -4654,7 +4644,6 @@ pullserver
 pulseway
 pulumi
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -4850,6 +4839,7 @@ relevance
 relic
 remediation
 remedy
+remember
 reminder
 remote
 remote-desktop
@@ -5188,7 +5178,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-policy
@@ -5293,7 +5282,6 @@ set-alias
 set-dnsservers
 set-githubsecrets
 set-location
-set-openfiles
 set-ownership
 set-pass
 set-psbreakpoint
@@ -6381,7 +6369,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsm
 vm
 vmc
 vmfs
@@ -6579,12 +6566,9 @@ windows explorer
 windows_events
 windows-10
 windows-api
-windows-control-panel
-windows-defender
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-registry
 windows-remoting
 windows-server-2016

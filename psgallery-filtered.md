@@ -5,6 +5,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Search-IsItUp](https://www.powershellgallery.com/Packages/Search-IsItUp/1.0) | 1.0
+
+### Published: 08/26/2022 17:40:32 by Adam Bacon
+
+This module will check IsItUp.org to check if the given website or websites are up or down. This is showing some URL hacking and web page scraping in the PSM1 file.
+
+__Downloads__: 0 | __Repository__: https://adam-bacon.netlify.app/
+
+## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.9) | 3.1.9
+
+### Published: 08/26/2022 17:31:27 by Marius Rochon
+
+Manage (create, extend, import, export) Azure B2C xml IEF policy sets used for custom journeys. See https://github.com/mrochon/IEFPolicies
+
+__Downloads__: 2,385 | __Repository__: https://github.com/mrochon/IEFPolicies
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.69.2) | 1.69.2
+
+### Published: 08/26/2022 17:01:33 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 5,524 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.45) | 3.0.45
+
+### Published: 08/26/2022 16:21:38 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 318 | __Repository__: 
+
+## [io.github.ajchemist.PS.Hyper-V](https://www.powershellgallery.com/Packages/io.github.ajchemist.PS.Hyper-V/2022.238.45266) | 2022.238.45266
+
+### Published: 08/26/2022 12:34:37 by ajchemist
+
+io.github.ajchemist.PS.Hyper-V
+
+__Downloads__: 80 | __Repository__: 
+
+## [DevOpsFeedHelper](https://www.powershellgallery.com/Packages/DevOpsFeedHelper/0.2.14) | 0.2.14
+
+### Published: 08/26/2022 10:58:09 by Peter de Wit
+
+This module exposes functionality to easily connect and/or maintain connections to DevOps Artifacts Feeds through PowerShell.
+
+__Downloads__: 119 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
+
+## [NTS-ConfigMgrTools](https://www.powershellgallery.com/Packages/NTS-ConfigMgrTools/1.1.1.3) | 1.1.1.3
+
+### Published: 08/26/2022 10:29:00 by Moritz Wiedmann
+
+NTS-ConfigMgrTools module contains tools for ConfigMgr and cource deployment
+
+__Downloads__: 138 | __Repository__: 
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/17.10) | 17.10
+
+### Published: 08/26/2022 09:59:30 by JT
+
+JaapsTools
+
+__Downloads__: 85 | __Repository__: 
+
 ## [PopImap](https://www.powershellgallery.com/Packages/PopImap/0.1.3) | 0.1.3
 
 ### Published: 08/26/2022 08:46:38 by DingMingyu
@@ -15,14 +79,6 @@ The module supports both Basic Authentication(user/password) and OAuth authentic
 In order to apply OAuth authentication, you need to fetch a valid AccessToken, e.g. from Azure. The AccessToken fetching feature is not included in this module, but you can find some 3rd party modules for the purpose, from the example scripts in the project.
 
 __Downloads__: 1,126 | __Repository__: https://github.com/DingMingyu/PopImap_PowerShell
-
-## [NTS-ConfigMgrTools](https://www.powershellgallery.com/Packages/NTS-ConfigMgrTools/1.1.1.2) | 1.1.1.2
-
-### Published: 08/26/2022 08:32:02 by Moritz Wiedmann
-
-NTS-ConfigMgrTools module contains tools for ConfigMgr and cource deployment
-
-__Downloads__: 138 | __Repository__: 
 
 ## [gispad](https://www.powershellgallery.com/Packages/gispad/1.0.4) | 1.0.4
 
@@ -38,7 +94,7 @@ __Downloads__: 55 | __Repository__: https://github.com/gisp497/gispad
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 570,251 | __Repository__: 
+__Downloads__: 570,534 | __Repository__: 
 
 ## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.5.10) | 2.5.10
 
@@ -46,7 +102,7 @@ __Downloads__: 570,251 | __Repository__:
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 29,598 | __Repository__: 
+__Downloads__: 29,597 | __Repository__: 
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.6) | 0.0.6
 
@@ -62,7 +118,7 @@ __Downloads__: 27 | __Repository__:
 
 Theme for the posh-git prompt module with last command status indicator, username and host.
 
-__Downloads__: 13 | __Repository__: https://github.com/rkitover/posh-git-theme-bluelotus
+__Downloads__: 12 | __Repository__: https://github.com/rkitover/posh-git-theme-bluelotus
 
 ## [NetApp.CBS.AVS](https://www.powershellgallery.com/Packages/NetApp.CBS.AVS/1.0.0) | 1.0.0
 
@@ -71,14 +127,6 @@ __Downloads__: 13 | __Repository__: https://github.com/rkitover/posh-git-theme-b
 Netapp CBS Appliance
 
 __Downloads__: 199 | __Repository__: https://mysupport.netapp.com/
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.42) | 3.0.42
-
-### Published: 08/26/2022 00:17:05 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 318 | __Repository__: 
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.4.1) | 1.4.1
 
@@ -118,7 +166,7 @@ __Downloads__: 4,797 | __Repository__:
 
 Cross-platform Console Gui Tools for PowerShell
 
-__Downloads__: 42,208 | __Repository__: https://github.com/PowerShell/GraphicalTools/
+__Downloads__: 42,209 | __Repository__: https://github.com/PowerShell/GraphicalTools/
 
 ## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.0.6) | 2.0.6
 
@@ -166,7 +214,7 @@ __Downloads__: 27 | __Repository__: https://github.com/sethworks/FineFormat
 
 Different PowerShell tools
 
-__Downloads__: 1 | __Repository__: https://github.com/gisp497/gisputility
+__Downloads__: 2 | __Repository__: https://github.com/gisp497/gisputility
 
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.6) | 1.0.6
 
@@ -192,7 +240,7 @@ __Downloads__: 292 | __Repository__: https://doitpsway.com/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,118,147 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,118,103 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/6.0.3) | 6.0.3
 
@@ -216,7 +264,7 @@ __Downloads__: 28,984 | __Repository__: https://github.com/KelvinTegelaar/Autota
 
 NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.11.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
 
-__Downloads__: 6,984 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
+__Downloads__: 6,982 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
 
 ## [QlikView-CLI](https://www.powershellgallery.com/Packages/QlikView-CLI/1.7.22199) | 1.7.22199
 
@@ -288,7 +336,7 @@ __Downloads__: 27,777 | __Repository__: https://ironmansoftware.com/powershell-u
 
 docker-seed cli
 
-__Downloads__: 16 | __Repository__: https://github.com/xiaoyao9184/docker-seed
+__Downloads__: 15 | __Repository__: https://github.com/xiaoyao9184/docker-seed
 
 ## [Retype](https://www.powershellgallery.com/Packages/Retype/1.0.2) | 1.0.2
 
@@ -435,7 +483,7 @@ __Downloads__: 11 | __Repository__:
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,125,251 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,125,244 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.0.14) | 1.0.14
 
@@ -487,7 +535,7 @@ __Downloads__: 22 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,852,809 | __Repository__: https://dbatools.io/
+__Downloads__: 1,852,776 | __Repository__: https://dbatools.io/
 
 ## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.53.2) | 0.53.2
 
@@ -769,14 +817,6 @@ __Downloads__: 1,527 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Opensearch Service
 
 __Downloads__: 61 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Opa](https://www.powershellgallery.com/Packages/OCI.PSModules.Opa/39.0.0) | 39.0.0
-
-### Published: 08/23/2022 19:50:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Opa Service
-
-__Downloads__: 105 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Ons](https://www.powershellgallery.com/Packages/OCI.PSModules.Ons/39.0.0) | 39.0.0
 
@@ -1474,14 +1514,6 @@ This module contain functions to manage WinGet Client.
 
 __Downloads__: 83 | __Repository__: https://github.com/mgajda83/PSWinGet
 
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/17.7) | 17.7
-
-### Published: 08/23/2022 12:17:27 by JT
-
-JaapsTools
-
-__Downloads__: 85 | __Repository__: 
-
 ## [LampSettingLib](https://www.powershellgallery.com/Packages/LampSettingLib/0.0.3) | 0.0.3
 
 ### Published: 08/23/2022 11:44:27 by CR
@@ -1520,7 +1552,7 @@ __Downloads__: 9 | __Repository__: https://www.zerto.com/
 
 Zerto PowerShell Commandlets
 
-__Downloads__: 499,891 | __Repository__: https://www.zerto.com/
+__Downloads__: 499,921 | __Repository__: https://www.zerto.com/
 
 ## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/0.0.1) | 0.0.1
 
@@ -1553,14 +1585,6 @@ __Downloads__: 1,149 | __Repository__: https://github.com/bdukes/PowerShellModul
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
 __Downloads__: 293,129 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.69.0) | 1.69.0
-
-### Published: 08/22/2022 19:00:22 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 5,524 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [demo-module2](https://www.powershellgallery.com/Packages/demo-module2/5.0.0) | 5.0.0
 
@@ -1608,7 +1632,7 @@ __Downloads__: 19,226 | __Repository__: https://www.dell.com/
 
 This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
 
-__Downloads__: 99,155 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
+__Downloads__: 99,156 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/22.0.8257.1) | 22.0.8257.1
 
@@ -2058,28 +2082,4 @@ CData Cmdlets for Dropbox
 
 __Downloads__: 468 | __Repository__: http://www.cdata.com/powershell/
 
-## [OdooCmdlets](https://www.powershellgallery.com/Packages/OdooCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:58:51 by CData Software Inc.
-
-CData Cmdlets for Odoo
-
-__Downloads__: 455 | __Repository__: http://www.cdata.com/powershell/
-
-## [DatabricksCmdlets](https://www.powershellgallery.com/Packages/DatabricksCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:58:47 by CData Software Inc.
-
-CData Cmdlets for Databricks
-
-__Downloads__: 69 | __Repository__: http://www.cdata.com/powershell/
-
-## [Dynamics365Cmdlets](https://www.powershellgallery.com/Packages/Dynamics365Cmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 13:58:43 by CData Software Inc.
-
-CData Cmdlets for Microsoft Dynamics 365
-
-__Downloads__: 404 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Friday, 26 August 2022 09:52:39 UTC*
+*Updated: Friday, 26 August 2022 17:53:13 UTC*
