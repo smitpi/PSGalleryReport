@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 26 August 2022 02:45:17 UTC
+Updated: Friday, 26 August 2022 09:52:50 UTC
 
 ?:
 ??
@@ -319,6 +319,7 @@ app
 app-only
 app-v
 app.config
+appattach
 appclusive
 appcmd
 appconfiguration
@@ -353,6 +354,8 @@ appxmanifest
 aprs
 apt-get
 apt-get-update
+aql
+arangodb
 arc
 arcade
 arcgis
@@ -952,6 +955,7 @@ cifv3
 cil
 cim
 cim_computersystem
+cimfs
 cimi
 ciminstance
 cims
@@ -1240,7 +1244,6 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
-convert-movietogif
 convert-windowsimage
 converter
 convertfrom-yaml
@@ -1653,6 +1656,7 @@ discovery
 disk
 disk-space
 diskfree
+diskimage
 diskpart
 diskpool
 diskspace
@@ -2023,7 +2027,6 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
-everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2120,6 +2123,7 @@ farm
 farmanager
 fast
 fast-dds
+fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2158,6 +2162,7 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
+file-share
 file-system
 file-transform
 file-type
@@ -2238,6 +2243,7 @@ flexdesk
 flickr
 flowchart
 flowy
+fluidrelay
 flyway
 fmg
 focus
@@ -2265,6 +2271,7 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2275,6 +2282,7 @@ fortinet
 fortinetmanager
 fortios
 fortune
+forum
 forwardcompatibility
 forwardedevents
 foudil
@@ -3049,7 +3057,6 @@ kestrel
 key
 key-vault
 key2wocas
-keybase
 keyboard
 keycipher
 keylight
@@ -3304,8 +3311,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3350,6 +3355,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3463,6 +3469,7 @@ messaging
 messenger
 met
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -3632,9 +3639,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4238,7 +4242,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plugin
 plugins
@@ -4366,7 +4369,6 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
-powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4585,9 +4587,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -4602,6 +4601,7 @@ psprojectgenerator
 psprovider
 psprtg
 pspublicapi
+psraw
 psreadexif
 psreadline
 psremoting
@@ -4619,9 +4619,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5459,7 +5456,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -5469,6 +5465,7 @@ soc
 soccer
 social
 social-media
+socialmedia
 socketlabs
 sockets
 sodium
@@ -5581,9 +5578,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -5982,6 +5976,7 @@ toggl
 toggle
 token
 tokenlifetime
+tokens
 tookit
 tool
 toolbox
@@ -6557,6 +6552,7 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wid
 wif
@@ -6667,8 +6663,6 @@ wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
