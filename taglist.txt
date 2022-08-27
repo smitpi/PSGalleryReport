@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 27 August 2022 02:43:35 UTC
+Updated: Saturday, 27 August 2022 09:52:31 UTC
 
 ?:
 ??
@@ -749,6 +749,7 @@ boundaries
 boundarygroups
 box
 bpmn
+brainy
 branch
 brave
 brawlapi
@@ -849,6 +850,7 @@ catalyst
 catapult
 catesta
 cats
+catty
 cavium
 cb
 cblueshell
@@ -1044,6 +1046,7 @@ cloudforensics
 cloudformation
 cloudfront
 cloudgovernance
+cloudguard
 cloudinairy
 cloudinit
 cloudiq
@@ -1053,6 +1056,7 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1121,6 +1125,7 @@ combinations
 combine
 comdata
 comic
+comical
 comics
 command
 command_line
@@ -1240,6 +1245,7 @@ controller
 controlroom
 convereter
 converged_data_management
+conversational
 conversion
 convert
 convert-dtexceptiontomessage
@@ -1928,6 +1934,7 @@ endpoints
 energy
 engine
 engineevent
+english
 enhancement
 enrichers
 enrichment
@@ -2242,6 +2249,7 @@ flex-query
 flexdesk
 flickr
 flowchart
+flowy
 fluidrelay
 flyway
 fmg
@@ -2699,7 +2707,9 @@ hubspotps
 hudson
 hue
 humanizer
+humanly
 humor
+humorous
 hunter
 hybrid
 hybridrunbookworker
@@ -2890,6 +2900,7 @@ interval-timer
 intigua
 intranet
 intrusion
+intuitive
 intune
 intuneappwinutil
 inventory
@@ -3130,6 +3141,7 @@ latin
 latitude
 launcher
 layer
+layman
 layout
 lazywinadmin
 lbd
@@ -3308,6 +3320,8 @@ lunches
 lwa
 lxca
 lxcapstool
+lxco
+lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3640,6 +3654,7 @@ mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
 mssqlplugins
+mssqlserver
 msteams
 mstest
 mstsc
@@ -3968,6 +3983,7 @@ openhere
 openid
 openidconnect
 openinghours
+openport
 openscad
 opensearch
 opensourceinitiative
@@ -4186,6 +4202,7 @@ pfx
 pgp
 phabricator
 philips
+philosophical
 philpritchett
 phishing
 phoenix
@@ -4496,6 +4513,7 @@ prtg_network_monitor
 prtgnetworkmonitor
 ps
 ps-ncentral
+ps.credentialmanager
 ps1
 ps1xml
 ps1xmlgen
@@ -5075,6 +5093,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+satirical
 save
 savedcreds
 savefile
@@ -5309,6 +5328,7 @@ sets
 setting
 settings
 setup
+setupbase.certificate
 setupbase.env
 setupbase.install
 setupbase.publish
@@ -5567,6 +5587,7 @@ sqlchangeautomation
 sqlclient
 sqlcmd
 sqlcodeguard
+sqldbatools
 sqldiagapi
 sqlexport
 sqlite
@@ -5737,6 +5758,7 @@ surround
 survey
 surveymonkey
 sushi
+suspensive
 svesavov
 svetoslav
 svg
@@ -5842,6 +5864,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
+tcpport
 tcpserver
 tcptest
 tcx
@@ -5859,6 +5882,7 @@ techdirect
 techedna2014
 techlog
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -6078,6 +6102,7 @@ twitter
 twitter-api
 twitter-client
 twitter-follow
+twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -6486,12 +6511,14 @@ wasabi
 watch
 watchguard
 watchmen
+watery
 wave
 wayk
 waykbastion
 wbem
 wcf
 wcry
+wdapi
 wds
 weather
 web
@@ -6596,6 +6623,7 @@ windowscredential
 windowscredentialmanager
 windowscredentials
 windowscredentialsmanager
+windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
 windowsevent
