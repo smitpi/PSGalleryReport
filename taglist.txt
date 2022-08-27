@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 26 August 2022 17:53:26 UTC
+Updated: Saturday, 27 August 2022 02:43:35 UTC
 
 ?:
 ??
@@ -159,6 +159,7 @@ adif
 adm
 admf
 admin
+admin-tools
 admindirectory
 administration
 administrative
@@ -515,6 +516,7 @@ axium
 az
 az-cli
 az.automation
+aza
 azautomation
 azcli
 azcompute
@@ -701,6 +703,7 @@ bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
+bks
 black
 blackbaud
 blackbox
@@ -746,7 +749,6 @@ boundaries
 boundarygroups
 box
 bpmn
-brainy
 branch
 brave
 brawlapi
@@ -759,6 +761,8 @@ brew
 brickset
 bridge
 brightbooking
+britannica
+britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
@@ -837,12 +841,14 @@ carousel
 cartoon
 case
 cassandra
+cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
-catty
+cats
 cavium
 cb
 cblueshell
@@ -1038,7 +1044,6 @@ cloudforensics
 cloudformation
 cloudfront
 cloudgovernance
-cloudguard
 cloudinairy
 cloudinit
 cloudiq
@@ -1048,7 +1053,6 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1117,7 +1121,6 @@ combinations
 combine
 comdata
 comic
-comical
 comics
 command
 command_line
@@ -1137,6 +1140,7 @@ common-data-service
 commonareaphone
 commondataservice
 commonmark
+commonstuff
 communication
 community
 compare
@@ -1236,7 +1240,6 @@ controller
 controlroom
 convereter
 converged_data_management
-conversational
 conversion
 convert
 convert-dtexceptiontomessage
@@ -1700,6 +1703,7 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
+dnsmadeeasy
 dnsrecord
 dnsresolver
 dnsserver
@@ -1924,7 +1928,6 @@ endpoints
 energy
 engine
 engineevent
-english
 enhancement
 enrichers
 enrichment
@@ -2023,6 +2026,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2173,6 +2177,7 @@ filename
 filereplication
 files
 filesecurity
+fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2212,6 +2217,7 @@ findproxyforurl
 firebird
 firefox
 firewall
+firewall-management
 firewallrule
 firmware
 first
@@ -2236,7 +2242,7 @@ flex-query
 flexdesk
 flickr
 flowchart
-flowy
+fluidrelay
 flyway
 fmg
 focus
@@ -2279,6 +2285,7 @@ forum
 forwardcompatibility
 forwardedevents
 foudil
+fox
 foxpro
 fqdn
 framework
@@ -2388,6 +2395,7 @@ get-help
 get-history
 get-iislog
 get-openfile
+get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2691,9 +2699,7 @@ hubspotps
 hudson
 hue
 humanizer
-humanly
 humor
-humorous
 hunter
 hybrid
 hybridrunbookworker
@@ -2794,6 +2800,7 @@ imb
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -2883,7 +2890,6 @@ interval-timer
 intigua
 intranet
 intrusion
-intuitive
 intune
 intuneappwinutil
 inventory
@@ -3124,7 +3130,6 @@ latin
 latitude
 launcher
 layer
-layman
 layout
 lazywinadmin
 lbd
@@ -3303,8 +3308,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3633,8 +3636,10 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
-mssqlserver
 msteams
 mstest
 mstsc
@@ -3742,6 +3747,7 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
+networksecurity
 networksecuritygroup
 networkshares
 new
@@ -3947,6 +3953,7 @@ onyphe.io
 oob
 oop
 op
+opa
 opc
 open
 open-ai
@@ -3956,11 +3963,11 @@ openamt
 openapi
 opendata
 openedge
+openfiles
 openhere
 openid
 openidconnect
 openinghours
-openport
 openscad
 opensearch
 opensourceinitiative
@@ -4179,7 +4186,6 @@ pfx
 pgp
 phabricator
 philips
-philosophical
 philpritchett
 phishing
 phoenix
@@ -4233,6 +4239,7 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plugin
 plugins
@@ -4279,6 +4286,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -4359,6 +4367,7 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4487,7 +4496,6 @@ prtg_network_monitor
 prtgnetworkmonitor
 ps
 ps-ncentral
-ps.credentialmanager
 ps1
 ps1xml
 ps1xmlgen
@@ -4577,6 +4585,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -4609,6 +4620,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -4644,6 +4658,7 @@ pullserver
 pulseway
 pulumi
 puppet
+puppetdb
 puppy
 pure
 pure1
@@ -5060,7 +5075,6 @@ sapstartstopazure
 sarcasm
 sarif
 sas
-satirical
 save
 savedcreds
 savefile
@@ -5178,6 +5192,7 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security-policy
@@ -5282,6 +5297,7 @@ set-alias
 set-dnsservers
 set-githubsecrets
 set-location
+set-openfiles
 set-ownership
 set-pass
 set-psbreakpoint
@@ -5293,7 +5309,6 @@ sets
 setting
 settings
 setup
-setupbase.certificate
 setupbase.env
 setupbase.install
 setupbase.publish
@@ -5444,6 +5459,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -5551,7 +5567,6 @@ sqlchangeautomation
 sqlclient
 sqlcmd
 sqlcodeguard
-sqldbatools
 sqldiagapi
 sqlexport
 sqlite
@@ -5566,6 +5581,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -5719,7 +5737,6 @@ surround
 survey
 surveymonkey
 sushi
-suspensive
 svesavov
 svetoslav
 svg
@@ -5825,7 +5842,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcpserver
 tcptest
 tcx
@@ -5843,7 +5859,6 @@ techdirect
 techedna2014
 techlog
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -6063,7 +6078,6 @@ twitter
 twitter-api
 twitter-client
 twitter-follow
-twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -6369,6 +6383,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsm
 vm
 vmc
 vmfs
@@ -6471,14 +6486,12 @@ wasabi
 watch
 watchguard
 watchmen
-watery
 wave
 wayk
 waykbastion
 wbem
 wcf
 wcry
-wdapi
 wds
 weather
 web
@@ -6566,9 +6579,12 @@ windows explorer
 windows_events
 windows-10
 windows-api
+windows-control-panel
+windows-defender
 windows-environment
 windows-explorer
 windows-features
+windows-firewall
 windows-registry
 windows-remoting
 windows-server-2016
@@ -6580,7 +6596,6 @@ windowscredential
 windowscredentialmanager
 windowscredentials
 windowscredentialsmanager
-windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
 windowsevent
@@ -6647,6 +6662,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
