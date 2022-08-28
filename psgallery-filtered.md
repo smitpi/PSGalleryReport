@@ -5,13 +5,37 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.33) | 2.0.33
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.37) | 2.0.37
 
-### Published: 08/28/2022 00:29:11 by Jeremy La Camera
+### Published: 08/28/2022 04:36:59 by Jeremy La Camera
 
 Work with the contents of NTFS volumes
 
 __Downloads__: 91 | __Repository__: 
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.24) | 0.0.24
+
+### Published: 08/28/2022 04:28:20 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 67 | __Repository__: 
+
+## [PSStoredCredentials](https://www.powershellgallery.com/Packages/PSStoredCredentials/1.0.0.2) | 1.0.0.2
+
+### Published: 08/28/2022 03:52:56 by Matthew McKinnon
+
+PowerShell Module for storing saved credentials in secure strings to import into the Credential parameter
+
+__Downloads__: 27 | __Repository__: https://github.com/mckinnon81/PSStoredCredentials
+
+## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.18) | 1.0.18
+
+### Published: 08/28/2022 03:05:32 by Jeremy La Camera
+
+Logs, displays, and outputs log messages after adding metadata such as timestamp, hostname, etc.
+
+__Downloads__: 48 | __Repository__: 
 
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.49) | 3.0.49
 
@@ -20,14 +44,6 @@ __Downloads__: 91 | __Repository__:
 Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
 __Downloads__: 347 | __Repository__: 
-
-## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.16) | 1.0.16
-
-### Published: 08/27/2022 18:39:06 by Jeremy La Camera
-
-Logs, displays, and outputs log messages after adding metadata such as timestamp, hostname, etc.
-
-__Downloads__: 48 | __Repository__: 
 
 ## [AzureCli](https://www.powershellgallery.com/Packages/AzureCli/2.4.0) | 2.4.0
 
@@ -51,15 +67,7 @@ __Downloads__: 112 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,868 | __Repository__: https://ironmansoftware.com/powershell-universal
-
-## [PSStoredCredentials](https://www.powershellgallery.com/Packages/PSStoredCredentials/0.5) | 0.5
-
-### Published: 08/27/2022 15:20:07 by Matthew McKinnon
-
-PowerShell Module for Keeping Saved Credentials
-
-__Downloads__: 27 | __Repository__: 
+__Downloads__: 27,870 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [docker-seed](https://www.powershellgallery.com/Packages/docker-seed/0.0.3) | 0.0.3
 
@@ -84,7 +92,7 @@ __Downloads__: 6,362 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 785,909 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 785,999 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [LocalMDM](https://www.powershellgallery.com/Packages/LocalMDM/1.0) | 1.0
 
@@ -303,7 +311,7 @@ __Downloads__: 203 | __Repository__: https://mysupport.netapp.com/
 
 Module for installing basic programs. You can use functions here to download the installer from a download link; Use that installer to install the program; Verify the program/service that was installed, then; clean up the installer.
 
-__Downloads__: 18,660 | __Repository__: 
+__Downloads__: 18,665 | __Repository__: 
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.1) | 1.0.1
 
@@ -401,7 +409,7 @@ __Downloads__: 310 | __Repository__: https://doitpsway.com/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,124,974 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,125,013 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/6.0.3) | 6.0.3
 
@@ -417,7 +425,7 @@ __Downloads__: 79 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 This module allows you to connect to the Autotask REST API. The Autotask REST API was launched with version 2020.2
 
-__Downloads__: 29,316 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
+__Downloads__: 29,318 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
 
 ## [NetApp.ONTAP](https://www.powershellgallery.com/Packages/NetApp.ONTAP/9.11.1.2208) | 9.11.1.2208
 
@@ -497,7 +505,7 @@ __Downloads__: 31 | __Repository__: https://github.com/psDevUK/Retype
 
 Query any database!
 
-__Downloads__: 51,538 | __Repository__: https://github.com/ctigeek/InvokeQueryPowershellModule
+__Downloads__: 51,539 | __Repository__: https://github.com/ctigeek/InvokeQueryPowershellModule
 
 ## [AsBuiltReport.VMware.Horizon](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.Horizon/0.2.0) | 0.2.0
 
@@ -628,7 +636,7 @@ __Downloads__: 15 | __Repository__:
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,127,154 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,127,173 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.107) | 1.0.0.107
 
@@ -660,7 +668,7 @@ __Downloads__: 24 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,859,468 | __Repository__: https://dbatools.io/
+__Downloads__: 1,859,536 | __Repository__: https://dbatools.io/
 
 ## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.53.2) | 0.53.2
 
@@ -1103,14 +1111,6 @@ This modules provides Cmdlets for OCI Loganalytics Service
 
 __Downloads__: 1,664 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Lockbox](https://www.powershellgallery.com/Packages/OCI.PSModules.Lockbox/39.0.0) | 39.0.0
-
-### Published: 08/23/2022 19:48:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Lockbox Service
-
-__Downloads__: 117 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Loadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Loadbalancer/39.0.0) | 39.0.0
 
 ### Published: 08/23/2022 19:48:01 by Oracle Cloud Infrastructure
@@ -1293,7 +1293,7 @@ __Downloads__: 1,871 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Datasafe Service
 
-__Downloads__: 2,768 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,434 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Datalabelingservicedataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservicedataplane/39.0.0) | 39.0.0
 
@@ -1621,7 +1621,7 @@ __Downloads__: 47,953 | __Repository__: https://github.com/oracle/oci-powershell
 
 This PowerShell module contains functions that facilitate querying and create, update, and delete (mutations) operations for GraphQL endpoints.
 
-__Downloads__: 2,919 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
+__Downloads__: 2,920 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
 
 ## [CommonTasks](https://www.powershellgallery.com/Packages/CommonTasks/0.8.0) | 0.8.0
 
@@ -1685,7 +1685,7 @@ __Downloads__: 11 | __Repository__: https://www.zerto.com/
 
 Zerto PowerShell Commandlets
 
-__Downloads__: 503,384 | __Repository__: https://www.zerto.com/
+__Downloads__: 503,402 | __Repository__: https://www.zerto.com/
 
 ## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/0.0.1) | 0.0.1
 
@@ -1765,7 +1765,7 @@ __Downloads__: 19,228 | __Repository__: https://www.dell.com/
 
 This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
 
-__Downloads__: 99,209 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
+__Downloads__: 99,210 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/22.0.8257.1) | 22.0.8257.1
 
@@ -2103,4 +2103,4 @@ CData Cmdlets for Email
 
 __Downloads__: 972 | __Repository__: http://www.cdata.com/powershell/
 
-*Updated: Sunday, 28 August 2022 02:43:37 UTC*
+*Updated: Sunday, 28 August 2022 09:52:32 UTC*

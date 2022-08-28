@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 28 August 2022 02:43:47 UTC
+Updated: Sunday, 28 August 2022 09:52:43 UTC
 
 ?:
 ??
@@ -1686,7 +1686,6 @@ diving
 division
 divoom
 dkim
-dkschrutebeets
 dl
 dll
 dlmautomation
@@ -1699,20 +1698,17 @@ dmx
 dnd
 dns
 dns-01
-dns-administration
 dns-async
 dns-client
 dns-over-https
 dns-resolver
 dnsbl
 dnsdumpster
-dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
 dnsrecord
 dnsresolver
-dnsserver
 dnssuffix
 dnvm
 doc
@@ -1829,7 +1825,6 @@ dummy
 dummyusers
 dump
 duplicate
-duplicate-files
 duplicatioin
 duplication
 dust
@@ -2610,7 +2605,6 @@ helmet
 help
 helpdesk
 helper
-helperfunctions
 helpers
 helpfile
 heml
@@ -2682,7 +2676,6 @@ hpemigrationadvisorytool
 hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
-hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
@@ -3241,7 +3234,6 @@ localization
 location
 locationbasedservices
 lock
-lockbox
 lockdisplaytimeout
 lockdown
 locking
@@ -4039,10 +4031,7 @@ osdsus
 osdupdate
 osi
 osmanagement
-osp
 ospgateway
-osprovision
-osprovisioning
 osr
 oss
 ossec
@@ -4159,7 +4148,6 @@ path
 pathfinder
 patternmatching
 pause
-pax8
 paylocity
 paypal
 pays
@@ -5784,7 +5772,6 @@ symmetric
 synapse
 sync
 synchronization
-synchronize
 syndication
 synergy
 syntax
@@ -5854,7 +5841,6 @@ target
 task
 task-runner
 taskbar
-tasker
 taskgroup
 taskmanagement
 tasks
@@ -6209,8 +6195,6 @@ unifiedlabeling
 uninstall
 uninstaller
 union
-unique
-unique-files
 unit
 unit_testing
 unit-testing
@@ -6725,7 +6709,6 @@ wpf
 wrap
 wrap-text
 wrapper
-wrapperfunctions
 wrc
 wrike
 write
