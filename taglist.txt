@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 27 August 2022 17:52:45 UTC
+Updated: Sunday, 28 August 2022 02:43:47 UTC
 
 ?:
 ??
@@ -727,6 +727,7 @@ blueprints
 blueteam
 bluetraitio
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -873,6 +874,7 @@ cdrom
 cds
 cdx
 ce
+celcat
 celerium
 censor
 center
@@ -938,6 +940,7 @@ choco
 choco-bear
 chocobear
 chocolatey
+choice
 chooser
 christaylorcodes
 christmas
@@ -1579,6 +1582,7 @@ detection
 detectionrule
 deutsch
 deutschland
+dev
 dev-tools
 devart
 devdeer
@@ -2326,6 +2330,7 @@ functionalprogramming
 functions
 funds
 funny
+fusionapps
 fuzzy
 fyi
 fzf
@@ -2410,6 +2415,7 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
@@ -3496,6 +3502,7 @@ microsoft_online
 microsoft_teams
 microsoft-graph
 microsoft-teams
+microsoft-web-platform
 microsoft-windows
 microsoft.graph
 microsoft.graph.api
@@ -3570,6 +3577,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 money
@@ -3679,6 +3687,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myitprocess
 myjson
 myjson.com
 myob
@@ -4204,6 +4213,7 @@ photos
 php
 phpapam
 pi
+picker
 picture
 pictures
 pid
@@ -4243,6 +4253,9 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
+plex
+plist
 plog
 plot
 plugin
@@ -4319,6 +4332,7 @@ pow
 powdrgit
 power
 power-cbr
+power-shell
 powerapps
 powerappsportal
 powerarcade
@@ -4344,15 +4358,18 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -4468,6 +4485,7 @@ prompt
 pronounceable
 properties
 property
+property-list
 prose
 protect
 protect-blob
@@ -4603,6 +4621,7 @@ psprovider
 psprtg
 pspublicapi
 psraw
+psreadexif
 psreadline
 psremoting
 psrepository
@@ -5041,6 +5060,7 @@ russia
 rust
 rust-lang
 ryanairps
+ryver
 s.ds.p
 s3
 s4b
@@ -5741,6 +5761,7 @@ sushi
 suspensive
 svesavov
 svetoslav
+svg
 svn
 svt
 swagger
@@ -5797,6 +5818,7 @@ systeminfo
 systeminformation
 systemlocale
 systems
+systemsplash
 systray
 t
 t-sql
@@ -5918,6 +5940,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 texting
 textwrapping
@@ -6139,6 +6162,7 @@ ud-selectdatetime
 ud-selector
 ud-signature
 ud-simpledrawer
+ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
@@ -6518,6 +6542,7 @@ webjea
 webmanagement
 webmanagementservice
 webpage
+webpi
 webreport
 webrequest
 webresponse
@@ -6765,6 +6790,7 @@ xero
 xevent
 xevents
 xh
+xi
 xiaomi
 xkcd
 xliff
@@ -6786,6 +6812,7 @@ xpt
 xrm
 xsa
 xtremio
+xtrude
 xunit
 xwiki
 xwindowsupdate
