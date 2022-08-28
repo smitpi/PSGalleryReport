@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 28 August 2022 09:52:43 UTC
+Updated: Sunday, 28 August 2022 17:52:44 UTC
 
 ?:
 ??
@@ -265,7 +265,6 @@ amiga
 amp
 amqp
 amsi
-amt
 amxmodx
 anaconda
 analysis
@@ -1601,7 +1600,6 @@ devices
 devolutions
 devops
 devops psmodule
-devsecninja
 devsecops
 devspaces
 devtestlabs
@@ -1686,6 +1684,7 @@ diving
 division
 divoom
 dkim
+dkschrutebeets
 dl
 dll
 dlmautomation
@@ -1825,6 +1824,7 @@ dummy
 dummyusers
 dump
 duplicate
+duplicate-files
 duplicatioin
 duplication
 dust
@@ -1942,7 +1942,6 @@ enterprisemanager
 enterprisevoice
 entity
 entityframework
-entropy
 enum
 enumerable
 env
@@ -2147,7 +2146,6 @@ fhirservice
 fiche
 fiddler
 fido
-fido2
 fieldglass
 fifa
 figlet
@@ -2310,8 +2308,6 @@ fslogix
 fsrm
 ftp
 ftps
-fudge
-fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -2514,7 +2510,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-grr
 gsuite
 gtx1080ti
 guardedfabric
@@ -2605,6 +2600,7 @@ helmet
 help
 helpdesk
 helper
+helperfunctions
 helpers
 helpfile
 heml
@@ -2676,6 +2672,7 @@ hpemigrationadvisorytool
 hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
+hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
@@ -3234,6 +3231,7 @@ localization
 location
 locationbasedservices
 lock
+lockbox
 lockdisplaytimeout
 lockdown
 locking
@@ -3673,7 +3671,6 @@ mutation
 mute
 mutex
 mva
-mvn
 mvp
 mx
 mxlookup
@@ -3697,6 +3694,7 @@ nameit
 nameresolution
 names
 namespace
+naming
 nana
 nano
 nanoleaf
@@ -3800,8 +3798,6 @@ nntp
 node
 nodejs
 non-volatile
-none
-noneimages
 nord
 nordtools
 normal
@@ -3864,7 +3860,6 @@ oa
 oacli
 oacmdlets
 oacommand
-oact
 oauth
 oauth2
 oauth2.0
@@ -3966,13 +3961,11 @@ open
 open-ai
 open-ssh
 openai
-openamt
 openapi
 opendata
 openedge
 openfiles
 openhere
-openid
 openidconnect
 openinghours
 openport
@@ -4031,7 +4024,10 @@ osdsus
 osdupdate
 osi
 osmanagement
+osp
 ospgateway
+osprovision
+osprovisioning
 osr
 oss
 ossec
@@ -4114,8 +4110,6 @@ partitions
 partner
 partnercenter
 partnerportal
-pass
-passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
@@ -4148,6 +4142,7 @@ path
 pathfinder
 patternmatching
 pause
+pax8
 paylocity
 paypal
 pays
@@ -4244,7 +4239,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plugin
 plugins
@@ -4372,7 +4366,6 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
-powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4875,7 +4868,6 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
-remoteforensics
 remotehost
 remotelogoff
 remotemanagement
@@ -5005,7 +4997,6 @@ routeconfig
 router
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -5132,9 +5123,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -5772,6 +5760,7 @@ symmetric
 synapse
 sync
 synchronization
+synchronize
 syndication
 synergy
 syntax
@@ -5841,6 +5830,7 @@ target
 task
 task-runner
 taskbar
+tasker
 taskgroup
 taskmanagement
 tasks
@@ -6195,6 +6185,8 @@ unifiedlabeling
 uninstall
 uninstaller
 union
+unique
+unique-files
 unit
 unit_testing
 unit-testing
@@ -6336,7 +6328,6 @@ venvlink
 vera
 veracrypt
 verbose
-verbose psmodule
 version
 versioncontrol
 versioning
@@ -6679,7 +6670,6 @@ woolworthsrewards
 word
 word-wrap
 wordcloud
-wordlist
 wordpress
 wordwrap
 workbook
@@ -6709,6 +6699,7 @@ wpf
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
