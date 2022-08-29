@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 29 August 2022 09:53:13 UTC
+Updated: Monday, 29 August 2022 17:53:12 UTC
 
 ?:
 ??
@@ -73,7 +73,6 @@ about
 abstractsyntaxtree
 abuse
 abuseipdb
-acas
 accelerator
 access
 access-control
@@ -285,7 +284,6 @@ anglesharp
 angular
 animate-svg
 animations
-annotated
 announcementsservice
 anova
 ansi
@@ -464,7 +462,6 @@ authorizationheaders
 authorize.net
 authz
 autify
-auto
 auto_cd
 auto-completion
 autoattendant
@@ -548,7 +545,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-ssis
 azureactivedirectory
 azuread
@@ -729,7 +725,6 @@ bluetraitio
 bmc
 bnm
 boards
-bofh
 boilerplate
 boinc
 bolt
@@ -815,6 +810,7 @@ cache
 caching
 caf
 cal
+calc
 calculate
 calculator
 calendar
@@ -1039,7 +1035,6 @@ cloudberry
 cloudblue
 cloudbolt
 cloudendure
-cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1349,6 +1344,7 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
+csc
 csharp
 csharp-watch
 csom
@@ -1733,7 +1729,6 @@ documents
 docusaurus
 docusign
 docx
-dod
 dog
 dog-names
 dogs
@@ -1892,6 +1887,7 @@ elk
 elm
 elonmusk
 eloqua
+elvui
 em
 emacs
 email
@@ -2414,6 +2410,7 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 gfu
+ggplot
 gh-actions
 ghactions
 ghc
@@ -2603,7 +2600,6 @@ helmet
 help
 helpdesk
 helper
-helperfunctions
 helpers
 helpfile
 heml
@@ -2766,7 +2762,6 @@ ifttt
 igel
 igr
 ihs
-iiittttt
 iis
 iis10
 iis8
@@ -2961,7 +2956,6 @@ iso-3166-1
 iso-8601
 ispac
 isprime
-issues
 isvalidemail
 isvalidip
 item
@@ -3409,6 +3403,7 @@ materialdesign
 materialui
 math
 mathematics
+matplotlib
 matrix
 maven
 max
@@ -3977,7 +3972,6 @@ openhere
 openid
 openidconnect
 openinghours
-openport
 openscad
 opensearch
 opensourceinitiative
@@ -4010,7 +4004,6 @@ oraclecloudinfrastructure
 orbital
 orchestration
 orchestrator
-order
 organization
 orgnetwork
 oriflame
@@ -4066,6 +4059,7 @@ owasp
 owls
 owner
 oxygen
+oxyplot
 p2000
 p2s
 pa1reg
@@ -4210,6 +4204,7 @@ picker
 picture
 pictures
 pid
+pie
 pim
 pin
 ping
@@ -4994,6 +4989,7 @@ rock
 rocket
 rocketcyber
 role
+roles
 rollingfile
 romaji
 rot13
@@ -5080,7 +5076,6 @@ sap
 sapazure
 saponazure
 sapstartstopazure
-sarcasm
 sarif
 sas
 satirical
@@ -5576,7 +5571,6 @@ sqlautomation
 sqlchangeautomation
 sqlclient
 sqlcmd
-sqlcodeguard
 sqldbatools
 sqldiagapi
 sqlexport
@@ -5791,7 +5785,6 @@ syskit
 syslog
 sysman
 sysmon
-sysop
 syspass
 sysprep
 system
@@ -5854,7 +5847,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcpserver
 tcptest
 tcx
@@ -5889,7 +5881,6 @@ templates
 templating
 temporary
 tenable
-tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
@@ -5965,7 +5956,6 @@ thumbprint
 thunderbird
 thycotic
 tic-tac-toe
-tickle
 ticks
 tictactoe
 tiermodel
@@ -6074,7 +6064,6 @@ ts
 tsa
 tsd
 tsheets
-tsqlbestpractice
 ttrpg
 tts
 tui
@@ -6113,7 +6102,6 @@ ubnt
 ubuntu
 ucs
 ucspowertool
-ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -6158,6 +6146,7 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
+ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -6383,8 +6372,6 @@ virtualnetworking
 virtualportgroup
 virtualrtu
 virtualterminal
-virus
-virustotal
 visio
 visual
 visual-studio
@@ -6437,10 +6424,11 @@ vpg
 vplex
 vpn
 vpn-certificate
+vps
 vra
 vrealize
+vrising
 vro
-vrops
 vrtu
 vs
 vs-shell
@@ -6705,12 +6693,12 @@ workstation
 world
 worldcup
 worryfreebusinesssecurity
+wow
 wpad
 wpf
 wrap
 wrap-text
 wrapper
-wrapperfunctions
 wrc
 wrike
 write
