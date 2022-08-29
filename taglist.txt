@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 28 August 2022 17:52:44 UTC
+Updated: Monday, 29 August 2022 02:44:33 UTC
 
 ?:
 ??
@@ -115,7 +115,6 @@ activeefficiency
 activeresponse
 activesession
 activiti
-activity
 activitycount
 actor-model
 actors
@@ -265,6 +264,7 @@ amiga
 amp
 amqp
 amsi
+amt
 amxmodx
 anaconda
 analysis
@@ -520,16 +520,13 @@ azautomation
 azcli
 azcompute
 azd
-azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
-aznetworkinterface
 aznicdetails
 azops
-azpublicipaddress
 azresources
 azsdk
 azsk
@@ -1083,7 +1080,6 @@ coa
 cockroachdb
 codaamok
 code
-code-page
 code365
 codeanalysis
 codebuild
@@ -1093,7 +1089,6 @@ codegen
 codegeneration
 codegenerator
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1600,6 +1595,7 @@ devices
 devolutions
 devops
 devops psmodule
+devsecninja
 devsecops
 devspaces
 devtestlabs
@@ -1682,7 +1678,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 dkim
 dkschrutebeets
 dl
@@ -1697,17 +1692,20 @@ dmx
 dnd
 dns
 dns-01
+dns-administration
 dns-async
 dns-client
 dns-over-https
 dns-resolver
 dnsbl
 dnsdumpster
+dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
 dnsrecord
 dnsresolver
+dnsserver
 dnssuffix
 dnvm
 doc
@@ -1942,6 +1940,7 @@ enterprisemanager
 enterprisevoice
 entity
 entityframework
+entropy
 enum
 enumerable
 env
@@ -2146,6 +2145,7 @@ fhirservice
 fiche
 fiddler
 fido
+fido2
 fieldglass
 fifa
 figlet
@@ -2308,6 +2308,8 @@ fslogix
 fsrm
 ftp
 ftps
+fudge
+fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -2451,7 +2453,6 @@ gobright
 godaddy
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2483,7 +2484,6 @@ gpp
 gpt3
 gpx
 grafana
-grafanaapi
 granttype
 graph
 graph-api
@@ -2510,6 +2510,7 @@ groupmembership
 grouppolicy
 groups
 grouvee
+grr
 gsuite
 gtx1080ti
 guardedfabric
@@ -3671,6 +3672,7 @@ mutation
 mute
 mutex
 mva
+mvn
 mvp
 mx
 mxlookup
@@ -3697,7 +3699,6 @@ namespace
 naming
 nana
 nano
-nanoleaf
 nasdaq
 native
 natural-language-to-code
@@ -3860,6 +3861,7 @@ oa
 oacli
 oacmdlets
 oacommand
+oact
 oauth
 oauth2
 oauth2.0
@@ -3955,20 +3957,20 @@ onyphe.io
 oob
 oop
 op
-opa
 opc
 open
 open-ai
 open-ssh
 openai
+openamt
 openapi
 opendata
 openedge
 openfiles
 openhere
+openid
 openidconnect
 openinghours
-openport
 openscad
 opensearch
 opensourceinitiative
@@ -4001,7 +4003,6 @@ oraclecloudinfrastructure
 orbital
 orchestration
 orchestrator
-order
 organization
 orgnetwork
 oriflame
@@ -4110,6 +4111,8 @@ partitions
 partner
 partnercenter
 partnerportal
+pass
+passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
@@ -4218,7 +4221,6 @@ piraeus
 pivot
 pivotal
 pivottable
-pixoo
 pki
 pks
 place
@@ -4239,6 +4241,7 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plugin
 plugins
@@ -4352,7 +4355,6 @@ powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
-powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -4366,6 +4368,7 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -4380,7 +4383,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -4757,7 +4759,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdb
@@ -4868,6 +4869,7 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
+remoteforensics
 remotehost
 remotelogoff
 remotemanagement
@@ -4997,6 +4999,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -5123,6 +5126,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -5172,7 +5178,6 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
-secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5497,14 +5502,12 @@ soonragent
 sophos
 sort
 source
-source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 space
 spaces
 spacex
@@ -5627,7 +5630,6 @@ start-jobthread
 start-threadjob
 startmen
 starwars
-stash
 stat
 state
 static
@@ -5647,7 +5649,6 @@ staytus
 stderr
 stdout
 steam
-steam-games
 steamcmd
 sticker
 sticker-pack
@@ -5760,7 +5761,6 @@ symmetric
 synapse
 sync
 synchronization
-synchronize
 syndication
 synergy
 syntax
@@ -5832,7 +5832,6 @@ task-runner
 taskbar
 tasker
 taskgroup
-taskmanagement
 tasks
 taskscheduler
 taxjar
@@ -5840,7 +5839,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcpserver
 tcptest
 tcx
@@ -6072,7 +6070,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -6223,7 +6220,6 @@ uplift
 uplink
 upn
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -6328,6 +6324,7 @@ venvlink
 vera
 veracrypt
 verbose
+verbose psmodule
 version
 versioncontrol
 versioning
@@ -6424,7 +6421,6 @@ vpg
 vplex
 vpn
 vpn-certificate
-vps
 vra
 vrealize
 vrising
@@ -6437,7 +6433,6 @@ vsa
 vsan
 vscode
 vsdevcmd
-vsdevshell
 vsenvironment
 vsm
 vso
@@ -6543,7 +6538,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 what3words
 whatismyip
 whatsnew
@@ -6670,6 +6664,7 @@ woolworthsrewards
 word
 word-wrap
 wordcloud
+wordlist
 wordpress
 wordwrap
 workbook

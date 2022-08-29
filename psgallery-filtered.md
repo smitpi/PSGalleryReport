@@ -5,13 +5,88 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [demo-module-explore22](https://www.powershellgallery.com/Packages/demo-module-explore22/1.0.2) | 1.0.2
+## [LocalMDM](https://www.powershellgallery.com/Packages/LocalMDM/1.1) | 1.1
 
-### Published: 08/28/2022 17:49:16 by David Stamen
+### Published: 08/29/2022 02:01:34 by Michael Niehaus
+
+Cmdlets for leveraging the MDM local server functionality in Windows.  May not be supported by Microsoft, use at your own risk.
+
+__Downloads__: 14 | __Repository__: 
+
+## [AGMPowerCLI](https://www.powershellgallery.com/Packages/AGMPowerCLI/0.0.0.40) | 0.0.0.40
+
+### Published: 08/29/2022 00:24:55 by Anthony Vandewerdt
+
+This is a community generated PowerShell Module for Actifio Global Manager (AGM).  
+It provides a method to issue commands to AGM API endpoints, like "Application" and "Host".
+This lets you create automation with AGM, or generate your own composite functions.
+More information can be found here:  https://github.com/Actifio/AGMPowerCLI
+
+__Downloads__: 1,334 | __Repository__: https://github.com/Actifio/AGMPowerCLI
+
+## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.8) | 0.2.8
+
+### Published: 08/28/2022 23:45:09 by Samuel Leslie
+
+Bringing simple dotfiles management to Windows
+
+__Downloads__: 263 | __Repository__: https://github.com/ralish/PSPuTTYCfg
+
+## [PSDotFiles](https://www.powershellgallery.com/Packages/PSDotFiles/0.9.8) | 0.9.8
+
+### Published: 08/28/2022 23:40:16 by Samuel Leslie
+
+Bringing simple dotfiles management to Windows
+
+__Downloads__: 1,540 | __Repository__: https://github.com/ralish/PSDotFiles
+
+## [PSCiscoSupportAPIs](https://www.powershellgallery.com/Packages/PSCiscoSupportAPIs/0.3.1) | 0.3.1
+
+### Published: 08/28/2022 23:21:36 by Samuel Leslie
+
+PowerShell interface to the Cisco Support APIs
+
+__Downloads__: 297 | __Repository__: https://github.com/ralish/PSCiscoSupportAPIs
+
+## [CloudNaming](https://www.powershellgallery.com/Packages/CloudNaming/0.2.1) | 0.2.1
+
+### Published: 08/28/2022 23:17:38 by Tao Yang
+
+Naming Module for Cloud Resources
+
+__Downloads__: 0 | __Repository__: https://github.com/tyconsulting/CloudNaming-Module
+
+## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.3.2) | 0.3.2
+
+### Published: 08/28/2022 23:13:37 by James Brundage
+
+A Helpful Toolkit for Managing PowerShell Help
+
+__Downloads__: 451 | __Repository__: https://github.com/StartAutomating/HelpOut
+
+## [demo-module-explore22](https://www.powershellgallery.com/Packages/demo-module-explore22/1.0.4) | 1.0.4
+
+### Published: 08/28/2022 18:27:25 by David Stamen
 
 This is a demo created for VMware Explore 2022
 
 __Downloads__: 0 | __Repository__: 
+
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.45) | 2.0.45
+
+### Published: 08/28/2022 18:20:50 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 91 | __Repository__: 
+
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.1.0) | 2.1.0
+
+### Published: 08/28/2022 18:07:51 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 140 | __Repository__: https://github.com/cpp-swift/PowerRvB
 
 ## [BrightBookingBookingAdminTools](https://www.powershellgallery.com/Packages/BrightBookingBookingAdminTools/1.2.0) | 1.2.0
 
@@ -75,7 +150,7 @@ __Downloads__: 85,055 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,867 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 27,868 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/0.9.49) | 0.9.49
 
@@ -85,14 +160,6 @@ Simple project allowing preparing, managing and publishing modules to PowerShell
 
 __Downloads__: 786 | __Repository__: https://github.com/EvotecIT/PSPublishModule
 
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.38) | 2.0.38
-
-### Published: 08/28/2022 15:35:22 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 91 | __Repository__: 
-
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.466) | 1.0.466
 
 ### Published: 08/28/2022 15:03:28 by Feodor Fitsner
@@ -100,14 +167,6 @@ __Downloads__: 91 | __Repository__:
 The test module to verify publishing to PSGallery from AppVeyor.
 
 __Downloads__: 20,070 | __Repository__: 
-
-## [CloudNaming](https://www.powershellgallery.com/Packages/CloudNaming/0.2.0) | 0.2.0
-
-### Published: 08/28/2022 14:41:26 by Tao Yang
-
-Naming Module for Cloud Resources
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.24) | 0.0.24
 
@@ -180,15 +239,7 @@ __Downloads__: 6,362 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 785,983 | __Repository__: https://github.com/rmbolger/Posh-ACME
-
-## [LocalMDM](https://www.powershellgallery.com/Packages/LocalMDM/1.0) | 1.0
-
-### Published: 08/26/2022 23:25:13 by Michael Niehaus
-
-Cmdlets for leveraging the MDM local server functionality in Windows
-
-__Downloads__: 13 | __Repository__: 
+__Downloads__: 785,952 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [safeguard-ps](https://www.powershellgallery.com/Packages/safeguard-ps/7.0.68609) | 7.0.68609
 
@@ -378,7 +429,7 @@ __Downloads__: 203 | __Repository__: https://mysupport.netapp.com/
 
 Module for installing basic programs. You can use functions here to download the installer from a download link; Use that installer to install the program; Verify the program/service that was installed, then; clean up the installer.
 
-__Downloads__: 18,665 | __Repository__: 
+__Downloads__: 18,670 | __Repository__: 
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.1) | 1.0.1
 
@@ -403,14 +454,6 @@ __Downloads__: 5,185 | __Repository__:
 Cross-platform Console Gui Tools for PowerShell
 
 __Downloads__: 42,390 | __Repository__: https://github.com/PowerShell/GraphicalTools/
-
-## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.0.6) | 2.0.6
-
-### Published: 08/25/2022 19:07:29 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 140 | __Repository__: https://github.com/cpp-swift/PowerRvB
 
 ## [MSFT.NetworkATC.CleanupScript](https://www.powershellgallery.com/Packages/MSFT.NetworkATC.CleanupScript/2022.8.25) | 2022.8.25
 
@@ -554,7 +597,7 @@ __Downloads__: 31 | __Repository__: https://github.com/psDevUK/Retype
 
 Query any database!
 
-__Downloads__: 51,539 | __Repository__: https://github.com/ctigeek/InvokeQueryPowershellModule
+__Downloads__: 51,538 | __Repository__: https://github.com/ctigeek/InvokeQueryPowershellModule
 
 ## [AsBuiltReport.VMware.Horizon](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.Horizon/0.2.0) | 0.2.0
 
@@ -685,7 +728,7 @@ __Downloads__: 15 | __Repository__:
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,127,170 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,127,160 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.107) | 1.0.0.107
 
@@ -999,14 +1042,6 @@ __Downloads__: 1,597 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Opensearch Service
 
 __Downloads__: 72 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Opa](https://www.powershellgallery.com/Packages/OCI.PSModules.Opa/39.0.0) | 39.0.0
-
-### Published: 08/23/2022 19:50:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Opa Service
-
-__Downloads__: 117 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Ons](https://www.powershellgallery.com/Packages/OCI.PSModules.Ons/39.0.0) | 39.0.0
 
@@ -1350,7 +1385,7 @@ __Downloads__: 1,871 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Datasafe Service
 
-__Downloads__: 2,768 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,434 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Datalabelingservicedataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservicedataplane/39.0.0) | 39.0.0
 
@@ -1742,7 +1777,7 @@ __Downloads__: 11 | __Repository__: https://www.zerto.com/
 
 Zerto PowerShell Commandlets
 
-__Downloads__: 503,388 | __Repository__: https://www.zerto.com/
+__Downloads__: 503,378 | __Repository__: https://www.zerto.com/
 
 ## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/0.0.1) | 0.0.1
 
@@ -1776,14 +1811,6 @@ The OSD PowerShell Module is a collection of functions and catalogs that make OS
 
 __Downloads__: 295,374 | __Repository__: https://github.com/OSDeploy/OSD
 
-## [demo-module2](https://www.powershellgallery.com/Packages/demo-module2/5.0.0) | 5.0.0
-
-### Published: 08/22/2022 18:31:45 by David Stamen
-
-This is a demo module
-
-__Downloads__: 54 | __Repository__: 
-
 ## [AksHciSdnLogCollector](https://www.powershellgallery.com/Packages/AksHciSdnLogCollector/0.0.0.1) | 0.0.0.1
 
 ### Published: 08/22/2022 18:30:07 by nijos
@@ -1791,6 +1818,14 @@ __Downloads__: 54 | __Repository__:
 Scripts to collect logs when AKS HCI cluster is deployed using Windows Software Defined Networking integration
 
 __Downloads__: 31 | __Repository__: 
+
+## [demo-module2](https://www.powershellgallery.com/Packages/demo-module2/4.1.3) | 4.1.3
+
+### Published: 08/22/2022 18:13:48 by me
+
+stuff
+
+__Downloads__: 54 | __Repository__: 
 
 ## [UsefulArgumentCompleters](https://www.powershellgallery.com/Packages/UsefulArgumentCompleters/1.0.2) | 1.0.2
 
@@ -2072,36 +2107,4 @@ CData Cmdlets for Twitter
 
 __Downloads__: 893 | __Repository__: http://www.cdata.com/powershell/
 
-## [SharePointCmdlets](https://www.powershellgallery.com/Packages/SharePointCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 14:00:35 by CData Software Inc.
-
-CData Cmdlets for Microsoft SharePoint
-
-__Downloads__: 1,600 | __Repository__: http://www.cdata.com/powershell/
-
-## [RSSCmdlets](https://www.powershellgallery.com/Packages/RSSCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 14:00:31 by CData Software Inc.
-
-CData Cmdlets for RSS
-
-__Downloads__: 563 | __Repository__: http://www.cdata.com/powershell/
-
-## [QuickBooksCmdlets](https://www.powershellgallery.com/Packages/QuickBooksCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 14:00:27 by CData Software Inc.
-
-CData Cmdlets for QuickBooks
-
-__Downloads__: 789 | __Repository__: http://www.cdata.com/powershell/
-
-## [QuickBooksOnlineCmdlets](https://www.powershellgallery.com/Packages/QuickBooksOnlineCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 14:00:23 by CData Software Inc.
-
-CData Cmdlets for QuickBooks Online
-
-__Downloads__: 784 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Sunday, 28 August 2022 17:52:33 UTC*
+*Updated: Monday, 29 August 2022 02:44:21 UTC*
