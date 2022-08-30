@@ -5,13 +5,85 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Benchpress](https://www.powershellgallery.com/Packages/Benchpress/1.3.3) | 1.3.3
+## [Autopilottestattestation](https://www.powershellgallery.com/Packages/Autopilottestattestation/1.0.0.11) | 1.0.0.11
 
-### Published: 08/30/2022 02:33:51 by James Brundage
+### Published: 08/30/2022 09:36:00 by Rudy Ooms
+
+The goal of this script is to help with the troubleshooting of Attestation issues when enrolling your device with Autopilot for Pre-Provisioned deployments
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSDataverse](https://www.powershellgallery.com/Packages/PSDataverse/0.0.3) | 0.0.3
+
+### Published: 08/30/2022 08:03:36 by Reza Niroomand
+
+Bring Dataverse's Web API to PowerShell.
+
+__Downloads__: 21 | __Repository__: https://github.com/rezanid/PSDataverse
+
+## [MUtilities](https://www.powershellgallery.com/Packages/MUtilities/1.0.0) | 1.0.0
+
+### Published: 08/30/2022 08:02:02 by Mathieu Ranieri
+
+Provide some usefull function with aliases
+
+__Downloads__: 0 | __Repository__: 
+
+## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/0.0.2) | 0.0.2
+
+### Published: 08/30/2022 06:19:51 by CR
+
+Module for on premise installtion of Tisane
+
+__Downloads__: 7 | __Repository__: 
+
+## [TisaneLocal](https://www.powershellgallery.com/Packages/TisaneLocal/0.0.2) | 0.0.2
+
+### Published: 08/30/2022 06:19:29 by CR
+
+Scripts for local Tisane Use
+
+__Downloads__: 6 | __Repository__: 
+
+## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/0.0.3) | 0.0.3
+
+### Published: 08/30/2022 06:19:12 by CR
+
+Scripts for tisane web/api
+
+__Downloads__: 9 | __Repository__: 
+
+## [TisaneLampServer](https://www.powershellgallery.com/Packages/TisaneLampServer/0.0.6) | 0.0.6
+
+### Published: 08/30/2022 06:18:47 by CR
+
+Client side libs for Lamp Server
+
+__Downloads__: 24 | __Repository__: 
+
+## [Benchpress](https://www.powershellgallery.com/Packages/Benchpress/1.3.5) | 1.3.5
+
+### Published: 08/30/2022 04:52:41 by James Brundage
 
 Easy Benchmarking with PowerShell
 
 __Downloads__: 418 | __Repository__: https://github.com/StartAutomating/Benchpress
+
+## [ScheduledTaskManagement](https://www.powershellgallery.com/Packages/ScheduledTaskManagement/0.4.0) | 0.4.0
+
+### Published: 08/30/2022 04:44:44 by The Oh Brothers
+
+A PowerShell module for non-interactive management of Scheduled Tasks.
+
+__Downloads__: 482 | __Repository__: https://github.com/theohbrothers/ScheduledTaskManagement
+
+## [N.TaskModule.SqlUtility](https://www.powershellgallery.com/Packages/N.TaskModule.SqlUtility/1.0.0) | 1.0.0
+
+### Published: 08/30/2022 00:17:00 by NorthernLight1
+
+TaskModule SqlUtility
+
+__Downloads__: 0 | __Repository__: https://github.com/NorthernLight1/N.Azure-Pipelines-Extensions
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.70.0) | 1.70.0
 
@@ -29,22 +101,6 @@ This module includes several commands that help with the deployment of virtual e
 
 __Downloads__: 141 | __Repository__: https://github.com/cpp-swift/PowerRvB
 
-## [PSWinVitals](https://www.powershellgallery.com/Packages/PSWinVitals/0.6.7) | 0.6.7
-
-### Published: 08/29/2022 20:57:38 by Samuel Leslie
-
-Consolidate common system health checks, maintenance tasks & inventory retrieval
-
-__Downloads__: 2,162 | __Repository__: https://github.com/ralish/PSWinVitals
-
-## [Autopilottestattestation](https://www.powershellgallery.com/Packages/Autopilottestattestation/1.0.0.10) | 1.0.0.10
-
-### Published: 08/29/2022 20:41:54 by rudy
-
-The goal of this script is to help with the troubleshooting of Attestation issues when enrolling your device with Autopilot for Pre-Provisioned deployments
-
-__Downloads__: 2 | __Repository__: 
-
 ## [Rivet](https://www.powershellgallery.com/Packages/Rivet/0.14.0) | 0.14.0
 
 ### Published: 08/29/2022 19:48:49 by WebMD Health Services
@@ -59,7 +115,7 @@ __Downloads__: 812 | __Repository__: http://get-rivet.org/
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 1,862,370 | __Repository__: https://dbatools.io/
+__Downloads__: 1,865,744 | __Repository__: https://dbatools.io/
 
 ## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.19) | 1.0.19
 
@@ -100,7 +156,7 @@ __Downloads__: 167 | __Repository__: https://github.com/aslan-im/GraphApiRequest
 
 A replica of the logrotate utility, except this also runs on Windows systems.
 
-__Downloads__: 863 | __Repository__: https://github.com/theohbrothers/Log-Rotate
+__Downloads__: 873 | __Repository__: https://github.com/theohbrothers/Log-Rotate
 
 ## [ConsoleMonster](https://www.powershellgallery.com/Packages/ConsoleMonster/0.0.1) | 0.0.1
 
@@ -116,7 +172,7 @@ __Downloads__: 0 | __Repository__: https://github.com/EvotecIT/ConsoleMonster
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 63,422 | __Repository__: 
+__Downloads__: 63,650 | __Repository__: 
 
 ## [Convert-LBFO2SET](https://www.powershellgallery.com/Packages/Convert-LBFO2SET/2022.8.29.35) | 2022.8.29.35
 
@@ -176,15 +232,7 @@ Various helper functions for modules IntuneStuff, AzureADStuff etc. Some of them
     - Uninstall-ApplicationViaUninstallString - uninstalls application using information retrieved from system registry
     - ...
 
-__Downloads__: 311 | __Repository__: https://doitpsway.com/
-
-## [BrightBookingBookingAdminTools](https://www.powershellgallery.com/Packages/BrightBookingBookingAdminTools/1.3.0) | 1.3.0
-
-### Published: 08/29/2022 14:07:45 by GoBright B.V.
-
-PowerShell module to manage bookings, and push file based booking data formats to GoBright
-
-__Downloads__: 409 | __Repository__: https://www.gobright.com/
+__Downloads__: 337 | __Repository__: https://doitpsway.com/
 
 ## [LGPO](https://www.powershellgallery.com/Packages/LGPO/1.0.3.7) | 1.0.3.7
 
@@ -215,6 +263,14 @@ Some of the interesting functions:
 - ...
 
 __Downloads__: 491 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
+
+## [ChrissyColors](https://www.powershellgallery.com/Packages/ChrissyColors/1.0.0) | 1.0.0
+
+### Published: 08/29/2022 11:54:27 by Adam Bacon
+
+Generates as many different colour schemes you specify in the -NumberOfResults parameter. This is the fastest hex code colour generator out there
+
+__Downloads__: 0 | __Repository__: https://github.com/psDevUK/ChrissyColors
 
 ## [Optimized.Aza](https://www.powershellgallery.com/Packages/Optimized.Aza/0.0.0.9) | 0.0.0.9
 
@@ -366,7 +422,7 @@ __Downloads__: 1,539 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure Resource Manager
 
-__Downloads__: 76,964 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 77,265 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.AppService](https://www.powershellgallery.com/Packages/Arcus.Scripting.AppService/0.7.0) | 0.7.0
 
@@ -406,7 +462,7 @@ __Downloads__: 3,385 | __Repository__: https://github.com/ralish/PSWsusSpringCle
 
 An assortment of useful PowerShell scripts
 
-__Downloads__: 31,081 | __Repository__: https://github.com/ralish/PSWinGlue
+__Downloads__: 31,245 | __Repository__: https://github.com/ralish/PSWinGlue
 
 ## [LocalMDM](https://www.powershellgallery.com/Packages/LocalMDM/1.1) | 1.1
 
@@ -497,7 +553,7 @@ __Downloads__: 85,072 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 27,903 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 27,974 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/0.9.49) | 0.9.49
 
@@ -505,7 +561,7 @@ __Downloads__: 27,903 | __Repository__: https://ironmansoftware.com/powershell-u
 
 Simple project allowing preparing, managing and publishing modules to PowerShellGallery
 
-__Downloads__: 786 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+__Downloads__: 787 | __Repository__: https://github.com/EvotecIT/PSPublishModule
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.466) | 1.0.466
 
@@ -578,7 +634,7 @@ __Downloads__: 6,362 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 787,074 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 788,327 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [safeguard-ps](https://www.powershellgallery.com/Packages/safeguard-ps/7.0.68609) | 7.0.68609
 
@@ -586,7 +642,7 @@ __Downloads__: 787,074 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 Scripting tools for interacting with the One Identity Safeguard Web API.
 
-__Downloads__: 9,203 | __Repository__: https://github.com/OneIdentity/safeguard-ps
+__Downloads__: 9,202 | __Repository__: https://github.com/OneIdentity/safeguard-ps
 
 ## [Carbon.Windows.Installer](https://www.powershellgallery.com/Packages/Carbon.Windows.Installer/2.0.0) | 2.0.0
 
@@ -671,14 +727,6 @@ This module exposes functionality to easily connect and/or maintain connections 
 
 __Downloads__: 139 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
 
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/17.10) | 17.10
-
-### Published: 08/26/2022 09:59:30 by JT
-
-JaapsTools
-
-__Downloads__: 89 | __Repository__: 
-
 ## [PopImap](https://www.powershellgallery.com/Packages/PopImap/0.1.3) | 0.1.3
 
 ### Published: 08/26/2022 08:46:38 by DingMingyu
@@ -712,7 +760,7 @@ __Downloads__: 578,384 | __Repository__:
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 29,897 | __Repository__: 
+__Downloads__: 29,894 | __Repository__: 
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.6) | 0.0.6
 
@@ -744,7 +792,7 @@ __Downloads__: 203 | __Repository__: https://mysupport.netapp.com/
 
 Module for installing basic programs. You can use functions here to download the installer from a download link; Use that installer to install the program; Verify the program/service that was installed, then; clean up the installer.
 
-__Downloads__: 19,435 | __Repository__: 
+__Downloads__: 20,220 | __Repository__: 
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.1) | 1.0.1
 
@@ -768,7 +816,7 @@ __Downloads__: 5,185 | __Repository__:
 
 Cross-platform Console Gui Tools for PowerShell
 
-__Downloads__: 42,427 | __Repository__: https://github.com/PowerShell/GraphicalTools/
+__Downloads__: 42,519 | __Repository__: https://github.com/PowerShell/GraphicalTools/
 
 ## [MSFT.NetworkATC.CleanupScript](https://www.powershellgallery.com/Packages/MSFT.NetworkATC.CleanupScript/2022.8.25) | 2022.8.25
 
@@ -800,7 +848,7 @@ __Downloads__: 10 | __Repository__: https://github.com/gisp497/gisputility
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,126,903 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,131,144 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/6.0.3) | 6.0.3
 
@@ -816,7 +864,7 @@ __Downloads__: 79 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 This module allows you to connect to the Autotask REST API. The Autotask REST API was launched with version 2020.2
 
-__Downloads__: 29,447 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
+__Downloads__: 29,575 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
 
 ## [NetApp.ONTAP](https://www.powershellgallery.com/Packages/NetApp.ONTAP/9.11.1.2208) | 9.11.1.2208
 
@@ -824,7 +872,7 @@ __Downloads__: 29,447 | __Repository__: https://github.com/KelvinTegelaar/Autota
 
 NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.11.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
 
-__Downloads__: 7,060 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
+__Downloads__: 7,120 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
 
 ## [QlikView-CLI](https://www.powershellgallery.com/Packages/QlikView-CLI/1.7.22199) | 1.7.22199
 
@@ -1027,7 +1075,7 @@ __Downloads__: 25 | __Repository__:
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,127,828 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,129,069 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.107) | 1.0.0.107
 
@@ -1035,23 +1083,7 @@ __Downloads__: 1,127,828 | __Repository__: https://github.com/MethodsAndPractice
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 17,041 | __Repository__: https://github.com/AymericM78/PowerDataOps
-
-## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/0.0.2) | 0.0.2
-
-### Published: 08/24/2022 08:34:36 by CR
-
-Scripts for tisane web/api
-
-__Downloads__: 9 | __Repository__: 
-
-## [TisaneLampServer](https://www.powershellgallery.com/Packages/TisaneLampServer/0.0.5) | 0.0.5
-
-### Published: 08/24/2022 08:23:48 by CR
-
-Client side libs for Lamp Server
-
-__Downloads__: 24 | __Repository__: 
+__Downloads__: 17,038 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.53.2) | 0.53.2
 
@@ -2046,14 +2078,6 @@ Helper module to TisaneLampClient, manages setting values to the variables
 
 __Downloads__: 29 | __Repository__: 
 
-## [WozTools](https://www.powershellgallery.com/Packages/WozTools/2.0.0) | 2.0.0
-
-### Published: 08/23/2022 11:30:50 by Woz
-
-FYI: These are functions for personal use and may not work without minor alterations
-
-__Downloads__: 399 | __Repository__: https://github.com/Woznet/WozTools
-
 ## [Adapter-Control](https://www.powershellgallery.com/Packages/Adapter-Control/0.0.1) | 0.0.1
 
 ### Published: 08/23/2022 10:06:17 by asheroto
@@ -2076,23 +2100,7 @@ __Downloads__: 12 | __Repository__: https://www.zerto.com/
 
 Zerto PowerShell Commandlets
 
-__Downloads__: 505,098 | __Repository__: https://www.zerto.com/
-
-## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/0.0.1) | 0.0.1
-
-### Published: 08/23/2022 07:31:47 by CR
-
-Module for on premise installtion of Tisane
-
-__Downloads__: 7 | __Repository__: 
-
-## [TisaneLocal](https://www.powershellgallery.com/Packages/TisaneLocal/0.0.1) | 0.0.1
-
-### Published: 08/23/2022 07:10:28 by CR
-
-Scripts for local Tisane Use
-
-__Downloads__: 6 | __Repository__: 
+__Downloads__: 505,138 | __Repository__: https://www.zerto.com/
 
 ## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.5.0) | 1.5.0
 
@@ -2108,14 +2116,6 @@ __Downloads__: 1,150 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 295,528 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 295,526 | __Repository__: https://github.com/OSDeploy/OSD
 
-## [AksHciSdnLogCollector](https://www.powershellgallery.com/Packages/AksHciSdnLogCollector/0.0.0.1) | 0.0.0.1
-
-### Published: 08/22/2022 18:30:07 by nijos
-
-Scripts to collect logs when AKS HCI cluster is deployed using Windows Software Defined Networking integration
-
-__Downloads__: 32 | __Repository__: 
-
-*Updated: Tuesday, 30 August 2022 02:44:48 UTC*
+*Updated: Tuesday, 30 August 2022 09:53:04 UTC*

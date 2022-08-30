@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 30 August 2022 02:44:59 UTC
+Updated: Tuesday, 30 August 2022 09:53:15 UTC
 
 ?:
 ??
@@ -164,7 +164,6 @@ admindirectory
 administration
 administrative
 administrativeunit
-administrativeuser
 administrator
 admintools
 adml
@@ -258,7 +257,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonwebservices
 amend
 ami
 amiga
@@ -414,7 +412,6 @@ assert
 assertion
 assessment
 asset
-assetintelligencepoint
 assets
 assistance
 association
@@ -432,7 +429,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atrium
 att&ck
 attestation
 attila
@@ -521,13 +517,16 @@ azautomation
 azcli
 azcompute
 azd
+azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
+aznetworkinterface
 aznicdetails
 azops
+azpublicipaddress
 azresources
 azsdk
 azsk
@@ -586,7 +585,6 @@ azureresourcemanager
 azureresources
 azurerm
 azurerms
-azurerunasconnection
 azuresearch
 azuresearcher
 azuresecuritycenter
@@ -724,8 +722,8 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
+bofh
 boilerplate
 boinc
 bolt
@@ -741,8 +739,6 @@ bootstrapping
 bop
 bot
 botservice
-boundaries
-boundarygroups
 box
 bpmn
 brainy
@@ -996,26 +992,6 @@ cli-menu-helpers
 clickonce
 client
 client-management
-clientpushsettings
-clientsettings
-clientsettingsbits
-clientsettingsclientcache
-clientsettingsclientpolicy
-clientsettingscompliance
-clientsettingscomputeragent
-clientsettingsdelivery
-clientsettingshardware
-clientsettingsmetered
-clientsettingspower
-clientsettingsremotetools
-clientsettingssoftwarecenter
-clientsettingssoftwaredeployment
-clientsettingssoftwareinventory
-clientsettingssoftwaremetering
-clientsettingssoftwareupdate
-clientsettingsstatemessaging
-clientsettingsuserdeviceaffinity
-clientstatussettings
 clipart
 clipasswordsdk
 clipboard
@@ -1053,7 +1029,6 @@ clueser
 cluster
 clusterminimumvalues
 clusterplugins
-cmaccounts
 cmake
 cmakepresets.json
 cmbuild
@@ -1065,10 +1040,8 @@ cmdkey
 cmdlet
 cmdlets
 cmdstan
-cmgroupdiscovery
 cmhealth
 cmhealthcheck
-cminifile
 cmnetworkports
 cms
 cmsiteconfig
@@ -1077,6 +1050,7 @@ cmtrace
 cmwt
 cns
 coa
+cockroachdb
 codaamok
 code
 code-page
@@ -1101,7 +1075,6 @@ coinmarketcap
 collatordso
 collatz
 collection
-collectionmembershipevaluationcomponent
 collections
 collector
 color
@@ -1181,7 +1154,6 @@ configascode
 configdata
 configkey
 configmgr
-configmgrcbdsc
 configuration
 configurationapi
 configurationdata
@@ -1529,7 +1501,6 @@ deepvisibility
 def
 default
 defaultparameter
-defaultroutes
 defaults
 defence
 defender
@@ -1577,7 +1548,6 @@ detection
 detectionrule
 deutsch
 deutschland
-dev
 dev-tools
 devart
 devdeer
@@ -1674,8 +1644,6 @@ distribution
 distributiongroup
 distributiongroups
 distributionlist
-distributionpointgroupmembers
-distrubtionpoint
 dividends
 diving
 division
@@ -1718,7 +1686,6 @@ docker-compose
 docker-image
 docker-machine
 docker-volumes
-dockerfile
 dockerize
 dockerswarm
 docking
@@ -1874,7 +1841,6 @@ editorservices
 edr
 education
 educational
-effectiveroutes
 efi
 eigencontroles
 einstein
@@ -1900,7 +1866,6 @@ emailaddressupdate
 emailautomation
 emailmanagment
 emailnotification
-emailnotificationcomponent
 emailsecurity
 embedded
 emc
@@ -1980,7 +1945,6 @@ escapesequences
 escaping
 ese
 esent
-esoteric
 esp
 esp-idf
 esp32
@@ -2119,7 +2083,6 @@ faf
 failedlogin
 failure
 falcon
-fallbackstatuspoint
 faq
 farm
 farmanager
@@ -2176,7 +2139,6 @@ filelogger
 filemanagement
 filematcher
 filename
-filereplication
 files
 filesecurity
 fileserver
@@ -2266,7 +2228,6 @@ foreach
 forensic
 forensics
 forest
-forestdiscovery
 format
 format-numberedlist
 formatdata
@@ -2458,6 +2419,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2515,6 +2477,7 @@ groups
 grouvee
 grr
 gsuite
+gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -2563,6 +2526,7 @@ harperdb
 harvest
 harvestforecast
 hash
+hashcat
 hashicorp
 hashset
 hashtable
@@ -2589,7 +2553,6 @@ healthcheck
 healthchecks
 healthservice
 healthz
-heartbeatdiscovery
 heat
 heating
 heavenbay
@@ -2765,6 +2728,7 @@ ifttt
 igel
 igr
 ihs
+iiittttt
 iis
 iis10
 iis8
@@ -2959,7 +2923,6 @@ iso-3166-1
 iso-8601
 ispac
 isprime
-issues
 isvalidemail
 isvalidip
 item
@@ -3345,7 +3308,6 @@ main
 main-menu
 maintenance
 maintenance-window
-maintenancewindows
 make
 maker
 malware
@@ -3368,7 +3330,6 @@ management
 managementagent
 managementdashboard
 managementgroups
-managementpoint
 manager
 mangement
 manifest
@@ -3390,6 +3351,7 @@ marketo
 marketplace
 marketplaceordering
 marking
+marklogic
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3568,8 +3530,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
-moment
 monaco
 money
 moneyforward
@@ -3745,7 +3705,6 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
@@ -3800,8 +3759,6 @@ nntp
 node
 nodejs
 non-volatile
-none
-noneimages
 nord
 nordtools
 normal
@@ -3952,9 +3909,7 @@ onq
 ons
 ontap
 ontap_9.11.1
-ontap_9.8.0
 ontap_pstk_9.11.1
-ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
@@ -4247,6 +4202,7 @@ playlists
 pleasant
 pleasantpasswordserver
 plex
+plist
 plog
 plot
 plugin
@@ -4476,6 +4432,7 @@ prompt
 pronounceable
 properties
 property
+property-list
 prose
 protect
 protect-blob
@@ -4645,6 +4602,7 @@ psword
 pswriteword
 psyaml
 pszabbix
+pubg
 public
 public-key
 public-transport
@@ -4659,7 +4617,6 @@ publishers
 publishing
 pubsub
 pubxml
-pulldistributionpoint
 pullrequest
 pullserver
 pulseway
@@ -4689,7 +4646,6 @@ pwsh
 pwsh.fw
 pwshake
 pwshfw
-pxedistributionpoint
 pyranja
 python
 python-for-dotnet
@@ -4899,7 +4855,6 @@ replication
 repoo
 report
 reporting
-reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
@@ -5006,6 +4961,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -5034,7 +4990,6 @@ run
 run-as-user
 runas
 runbook
-runbooks
 runbookstudio
 rundeck
 runner
@@ -5078,6 +5033,7 @@ sap
 sapazure
 saponazure
 sapstartstopazure
+sarcasm
 sarif
 sas
 satirical
@@ -5100,9 +5056,7 @@ sccm
 sccm-hwi
 sccmam
 sccmapplication
-sccminstall
 sccmpackage
-sccmprereqs
 scep
 sch
 schannel
@@ -5212,8 +5166,6 @@ securitygroups
 securityinsights
 securityoptions
 securitypolicydsc
-securityroles
-securityscopes
 securitytxt
 seed
 seek
@@ -5274,7 +5226,6 @@ service-bus
 servicebus
 servicebusforwindowsserver
 servicecatalog
-serviceconnectionpoint
 servicedesk
 servicedeskplus
 serviceendpoints
@@ -5398,13 +5349,10 @@ sintez.module.rds
 site
 site_navigation
 sitecollection
-siteconfiguration
 sitecore
-sitemaintenance
 sitemap
 siterecovery
 sites
-sitesystemserver
 sitethumbprint
 size
 skatterbrainz
@@ -5482,11 +5430,8 @@ sockets
 sodium
 software
 softwarecenter
-softwaredistributioncomponent
 softwaremanagement
 softwarepackagedataexchange
-softwareupdatepoint
-softwareupdatepointcomponent
 solarigate
 solarized
 solarwinds
@@ -5573,7 +5518,6 @@ sqlautomation
 sqlchangeautomation
 sqlclient
 sqlcmd
-sqlcodeguard
 sqldbatools
 sqldiagapi
 sqlexport
@@ -5653,7 +5597,6 @@ status_watcher
 statuscake
 statuscode
 statusmonitor
-statusreportingcomponent
 staytus
 stderr
 stdout
@@ -5788,6 +5731,7 @@ syskit
 syslog
 sysman
 sysmon
+sysop
 syspass
 sysprep
 system
@@ -5799,12 +5743,10 @@ system.directoryservices.protocols
 system.text
 systemcenter
 systemcolors
-systemdiscovery
 systeminfo
 systeminformation
 systemlocale
 systems
-systemsplash
 systray
 t
 t-sql
@@ -6070,7 +6012,6 @@ ts
 tsa
 tsd
 tsheets
-tsqlbestpractice
 ttrpg
 tts
 tui
@@ -6088,6 +6029,7 @@ twitter
 twitter-api
 twitter-client
 twitter-follow
+twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -6257,7 +6199,6 @@ usb
 useful
 user
 user-environment
-userdiscovery
 usergroup
 userinterface
 usermanagement
@@ -6674,6 +6615,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
@@ -6792,7 +6734,6 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
-xpt
 xrm
 xsa
 xtremio
