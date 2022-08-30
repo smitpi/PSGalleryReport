@@ -5,6 +5,111 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Benchpress](https://www.powershellgallery.com/Packages/Benchpress/1.3.3) | 1.3.3
+
+### Published: 08/30/2022 02:33:51 by James Brundage
+
+Easy Benchmarking with PowerShell
+
+__Downloads__: 418 | __Repository__: https://github.com/StartAutomating/Benchpress
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.70.0) | 1.70.0
+
+### Published: 08/29/2022 22:55:11 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 5,704 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.1.1) | 2.1.1
+
+### Published: 08/29/2022 21:12:29 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 141 | __Repository__: https://github.com/cpp-swift/PowerRvB
+
+## [PSWinVitals](https://www.powershellgallery.com/Packages/PSWinVitals/0.6.7) | 0.6.7
+
+### Published: 08/29/2022 20:57:38 by Samuel Leslie
+
+Consolidate common system health checks, maintenance tasks & inventory retrieval
+
+__Downloads__: 2,162 | __Repository__: https://github.com/ralish/PSWinVitals
+
+## [Autopilottestattestation](https://www.powershellgallery.com/Packages/Autopilottestattestation/1.0.0.10) | 1.0.0.10
+
+### Published: 08/29/2022 20:41:54 by rudy
+
+The goal of this script is to help with the troubleshooting of Attestation issues when enrolling your device with Autopilot for Pre-Provisioned deployments
+
+__Downloads__: 2 | __Repository__: 
+
+## [Rivet](https://www.powershellgallery.com/Packages/Rivet/0.14.0) | 0.14.0
+
+### Published: 08/29/2022 19:48:49 by WebMD Health Services
+
+Rivet is a database migration/change management/versioning tool inspired by Ruby on Rails' Migrations. It creates and applies migration scripts for SQL Server databases. Migration scripts describe changes to make to your database, e.g. add a table, add a column, remove an index, etc. Migrations scripts should get added to your version control system so they can be packaged and deployed with your application's code.
+
+__Downloads__: 812 | __Repository__: http://get-rivet.org/
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.128) | 1.1.128
+
+### Published: 08/29/2022 19:36:42 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 1,862,370 | __Repository__: https://dbatools.io/
+
+## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.19) | 1.0.19
+
+### Published: 08/29/2022 19:35:03 by Jeremy La Camera
+
+Logs, displays, and outputs log messages after adding metadata such as timestamp, hostname, etc.
+
+__Downloads__: 53 | __Repository__: 
+
+## [PasswordSolution](https://www.powershellgallery.com/Packages/PasswordSolution/0.0.24) | 0.0.24
+
+### Published: 08/29/2022 19:31:36 by Przemyslaw Klys
+
+This module allows the creation of password expiry emails for users, managers, administrators, and security according to defined templates. It's able to work with different rules allowing to fully customize who gets the email and when.
+
+__Downloads__: 225 | __Repository__: https://github.com/EvotecIT/PasswordSolution
+
+## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.8.29) | 22.8.29
+
+### Published: 08/29/2022 18:37:26 by David Eberhardt
+
+Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
+For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
+
+__Downloads__: 2,611 | __Repository__: 
+
+## [GraphApiRequests](https://www.powershellgallery.com/Packages/GraphApiRequests/0.1.35) | 0.1.35
+
+### Published: 08/29/2022 18:14:20 by Aslan Imanalin
+
+Module for GraphApi requests invocation.
+
+__Downloads__: 167 | __Repository__: https://github.com/aslan-im/GraphApiRequests
+
+## [Log-Rotate](https://www.powershellgallery.com/Packages/Log-Rotate/1.5.4) | 1.5.4
+
+### Published: 08/29/2022 17:55:58 by The Oh Brothers
+
+A replica of the logrotate utility, except this also runs on Windows systems.
+
+__Downloads__: 863 | __Repository__: https://github.com/theohbrothers/Log-Rotate
+
+## [ConsoleMonster](https://www.powershellgallery.com/Packages/ConsoleMonster/0.0.1) | 0.0.1
+
+### Published: 08/29/2022 17:47:46 by Przemyslaw Klys
+
+Console Monster is a PowerShell module to build cool GUI applications using Spectre Console and Terminal GUI
+
+__Downloads__: 0 | __Repository__: https://github.com/EvotecIT/ConsoleMonster
+
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/2.1.12.0) | 2.1.12.0
 
 ### Published: 08/29/2022 17:25:36 by Bentley Systems Incorporated
@@ -110,14 +215,6 @@ Some of the interesting functions:
 - ...
 
 __Downloads__: 491 | __Repository__: https://doitpsway.com/series/sccm-mdt-intune
-
-## [ChrissyColors](https://www.powershellgallery.com/Packages/ChrissyColors/1.0.0) | 1.0.0
-
-### Published: 08/29/2022 11:54:27 by Adam Bacon
-
-Generates as many different colour schemes you specify in the -NumberOfResults parameter. This is the fastest hex code colour generator out there
-
-__Downloads__: 0 | __Repository__: https://github.com/psDevUK/ChrissyColors
 
 ## [Optimized.Aza](https://www.powershellgallery.com/Packages/Optimized.Aza/0.0.0.9) | 0.0.0.9
 
@@ -303,14 +400,6 @@ Give your WSUS server a thorough spring cleaning
 
 __Downloads__: 3,385 | __Repository__: https://github.com/ralish/PSWsusSpringClean
 
-## [PSWinVitals](https://www.powershellgallery.com/Packages/PSWinVitals/0.6.6) | 0.6.6
-
-### Published: 08/29/2022 03:14:47 by Samuel Leslie
-
-Consolidate common system health checks, maintenance tasks & inventory retrieval
-
-__Downloads__: 2,162 | __Repository__: https://github.com/ralish/PSWinVitals
-
 ## [PSWinGlue](https://www.powershellgallery.com/Packages/PSWinGlue/0.6.0) | 0.6.0
 
 ### Published: 08/29/2022 03:09:59 by Samuel Leslie
@@ -394,21 +483,13 @@ Work with the contents of NTFS volumes
 
 __Downloads__: 103 | __Repository__: 
 
-## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.1.0) | 2.1.0
-
-### Published: 08/28/2022 18:07:51 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 141 | __Repository__: https://github.com/cpp-swift/PowerRvB
-
 ## [UniversalDashboard](https://www.powershellgallery.com/Packages/UniversalDashboard/4.3.5) | 4.3.5
 
 ### Published: 08/28/2022 16:31:51 by Ironman Software
 
 Universal Dashbord v3 framework for Powershell Universal
 
-__Downloads__: 85,073 | __Repository__: https://www.ironmansoftware.com/powershell-universal
+__Downloads__: 85,072 | __Repository__: https://www.ironmansoftware.com/powershell-universal
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/3.2.8) | 3.2.8
 
@@ -424,7 +505,7 @@ __Downloads__: 27,903 | __Repository__: https://ironmansoftware.com/powershell-u
 
 Simple project allowing preparing, managing and publishing modules to PowerShellGallery
 
-__Downloads__: 787 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+__Downloads__: 786 | __Repository__: https://github.com/EvotecIT/PSPublishModule
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.466) | 1.0.466
 
@@ -449,14 +530,6 @@ __Downloads__: 69 | __Repository__:
 PowerShell Module for storing saved credentials in secure strings to import into the Credential parameter
 
 __Downloads__: 30 | __Repository__: https://github.com/mckinnon81/PSStoredCredentials
-
-## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.18) | 1.0.18
-
-### Published: 08/28/2022 03:05:32 by Jeremy La Camera
-
-Logs, displays, and outputs log messages after adding metadata such as timestamp, hostname, etc.
-
-__Downloads__: 53 | __Repository__: 
 
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/3.0.49) | 3.0.49
 
@@ -505,7 +578,7 @@ __Downloads__: 6,362 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 787,071 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 787,074 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [safeguard-ps](https://www.powershellgallery.com/Packages/safeguard-ps/7.0.68609) | 7.0.68609
 
@@ -513,7 +586,7 @@ __Downloads__: 787,071 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 Scripting tools for interacting with the One Identity Safeguard Web API.
 
-__Downloads__: 9,202 | __Repository__: https://github.com/OneIdentity/safeguard-ps
+__Downloads__: 9,203 | __Repository__: https://github.com/OneIdentity/safeguard-ps
 
 ## [Carbon.Windows.Installer](https://www.powershellgallery.com/Packages/Carbon.Windows.Installer/2.0.0) | 2.0.0
 
@@ -582,14 +655,6 @@ Manage (create, extend, import, export) Azure B2C xml IEF policy sets used for c
 
 __Downloads__: 2,418 | __Repository__: https://github.com/mrochon/IEFPolicies
 
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.69.2) | 1.69.2
-
-### Published: 08/26/2022 17:01:33 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 5,703 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
 ## [io.github.ajchemist.PS.Hyper-V](https://www.powershellgallery.com/Packages/io.github.ajchemist.PS.Hyper-V/2022.238.45266) | 2022.238.45266
 
 ### Published: 08/26/2022 12:34:37 by ajchemist
@@ -647,7 +712,7 @@ __Downloads__: 578,384 | __Repository__:
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 29,896 | __Repository__: 
+__Downloads__: 29,897 | __Repository__: 
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/0.0.6) | 0.0.6
 
@@ -679,7 +744,7 @@ __Downloads__: 203 | __Repository__: https://mysupport.netapp.com/
 
 Module for installing basic programs. You can use functions here to download the installer from a download link; Use that installer to install the program; Verify the program/service that was installed, then; clean up the installer.
 
-__Downloads__: 19,467 | __Repository__: 
+__Downloads__: 19,435 | __Repository__: 
 
 ## [SpeedTest-CLI](https://www.powershellgallery.com/Packages/SpeedTest-CLI/1.0.1) | 1.0.1
 
@@ -703,7 +768,7 @@ __Downloads__: 5,185 | __Repository__:
 
 Cross-platform Console Gui Tools for PowerShell
 
-__Downloads__: 42,426 | __Repository__: https://github.com/PowerShell/GraphicalTools/
+__Downloads__: 42,427 | __Repository__: https://github.com/PowerShell/GraphicalTools/
 
 ## [MSFT.NetworkATC.CleanupScript](https://www.powershellgallery.com/Packages/MSFT.NetworkATC.CleanupScript/2022.8.25) | 2022.8.25
 
@@ -735,7 +800,7 @@ __Downloads__: 10 | __Repository__: https://github.com/gisp497/gisputility
 
 Automation tools for production quality database deployment
 
-__Downloads__: 3,126,838 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 3,126,903 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [RegCli](https://www.powershellgallery.com/Packages/RegCli/6.0.3) | 6.0.3
 
@@ -751,7 +816,7 @@ __Downloads__: 79 | __Repository__: https://github.com/sangafabrice/reg-cli
 
 This module allows you to connect to the Autotask REST API. The Autotask REST API was launched with version 2020.2
 
-__Downloads__: 29,445 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
+__Downloads__: 29,447 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
 
 ## [NetApp.ONTAP](https://www.powershellgallery.com/Packages/NetApp.ONTAP/9.11.1.2208) | 9.11.1.2208
 
@@ -962,7 +1027,7 @@ __Downloads__: 25 | __Repository__:
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,127,824 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,127,828 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.107) | 1.0.0.107
 
@@ -970,7 +1035,7 @@ __Downloads__: 1,127,824 | __Repository__: https://github.com/MethodsAndPractice
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 17,038 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 17,041 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/0.0.2) | 0.0.2
 
@@ -987,14 +1052,6 @@ __Downloads__: 9 | __Repository__:
 Client side libs for Lamp Server
 
 __Downloads__: 24 | __Repository__: 
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/1.1.127) | 1.1.127
-
-### Published: 08/24/2022 08:03:26 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 1,862,323 | __Repository__: https://dbatools.io/
 
 ## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.53.2) | 0.53.2
 
@@ -2019,7 +2076,7 @@ __Downloads__: 12 | __Repository__: https://www.zerto.com/
 
 Zerto PowerShell Commandlets
 
-__Downloads__: 505,112 | __Repository__: https://www.zerto.com/
+__Downloads__: 505,098 | __Repository__: https://www.zerto.com/
 
 ## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/0.0.1) | 0.0.1
 
@@ -2051,7 +2108,7 @@ __Downloads__: 1,150 | __Repository__: https://github.com/bdukes/PowerShellModul
 
 The OSD PowerShell Module is a collection of functions and catalogs that make OSDCloud work
 
-__Downloads__: 295,513 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 295,528 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [AksHciSdnLogCollector](https://www.powershellgallery.com/Packages/AksHciSdnLogCollector/0.0.0.1) | 0.0.0.1
 
@@ -2061,60 +2118,4 @@ Scripts to collect logs when AKS HCI cluster is deployed using Windows Software 
 
 __Downloads__: 32 | __Repository__: 
 
-## [demo-module2](https://www.powershellgallery.com/Packages/demo-module2/4.1.3) | 4.1.3
-
-### Published: 08/22/2022 18:13:48 by me
-
-stuff
-
-__Downloads__: 54 | __Repository__: 
-
-## [UsefulArgumentCompleters](https://www.powershellgallery.com/Packages/UsefulArgumentCompleters/1.0.2) | 1.0.2
-
-### Published: 08/22/2022 17:40:24 by MartinGC94
-
-Module with lots of argument completers for popular commands.
-
-__Downloads__: 19 | __Repository__: https://github.com/MartinGC94/UsefulArgumentCompleters
-
-## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.5.3) | 0.5.3
-
-### Published: 08/22/2022 17:01:54 by Jonathan Colon
-
-A PowerShell module to generate an as built report on the configuration of Veeam VBR.
-
-__Downloads__: 885 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
-
-## [Dell.PowerStore](https://www.powershellgallery.com/Packages/Dell.PowerStore/1.2.0.107) | 1.2.0.107
-
-### Published: 08/22/2022 15:14:09 by Dell Inc.
-
-Manage Dell PowerStore clusters using PowerShell.
-
-__Downloads__: 19,228 | __Repository__: https://www.dell.com/
-
-## [F5-LTM](https://www.powershellgallery.com/Packages/F5-LTM/1.4.317) | 1.4.317
-
-### Published: 08/22/2022 14:07:49 by Joel Newton
-
-This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
-
-__Downloads__: 99,212 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
-
-## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 14:02:42 by CData Software Inc.
-
-CData Cmdlets for WooCommerce
-
-__Downloads__: 268 | __Repository__: http://www.cdata.com/powershell/
-
-## [SAPByDesignCmdlets](https://www.powershellgallery.com/Packages/SAPByDesignCmdlets/22.0.8257.1) | 22.0.8257.1
-
-### Published: 08/22/2022 14:02:38 by CData Software Inc.
-
-CData Cmdlets for SAP ByDesign
-
-__Downloads__: 273 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Monday, 29 August 2022 17:53:01 UTC*
+*Updated: Tuesday, 30 August 2022 02:44:48 UTC*
